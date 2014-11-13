@@ -1,0 +1,489 @@
+<bad id="abel.a" type="illbk" work="The Ghost of Abel" copy="A" copyid="A" institution="lc" catalog="bentley" catid="A"><header><filedesc><titlestmt><title reg="Ghost of Abel, The"><main>The Ghost of Abel</main><copy> copy A</copy>
+: electronic edition
+</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+<name>Robert Essick, </name>University of California, Riverside; and
+<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt><resp>Programmer/Analysts: </resp><name>David Cosca </name>and
+<name>Robert Bingler</name><resp>Project Manager: </resp><name>Matthew
+Kirschenbaum</name><resp>Project Assistant: </resp><name>Greg Murray</name></respstmt><sponsor>The Institute for Advanced Technology in the Humanities, the
+Library of Congress, and the University of North Carolina at Chapel Hill
+with a software grant from Inso Corporation and hardware and software
+grants from Sun Microsystems</sponsor><funder>National Endowment for the Humanities, 2000-02</funder><funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder><funder>Getty Grant Program, 1995-98</funder></titlestmt><editionstmt>Blake Archive Description DTD Version 2004</editionstmt><extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 65KB; 4 JPEG (ISO/IEC 10918)
+files ranging in size from 190KB to 1415KB</extent><publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH
+         <date>October 1998</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
+            The editors of the William Blake Archive http://www.iath.virginia/edu/blake are pleased to announce the publication of four new electronic editions of Blake's illuminated books. They are: <hi rend="i">The Ghost of Abel</hi> copy A (The Library of Congress), <hi rend="i">On Homers Poetry [and] On Virgil</hi> copies B (The Fitzwilliam Museum) and F (The Pierpont Morgan Library), <hi rend="i">Laocoön</hi> copy B (collection of Robert N. Essick).<lb/><lb/>
+            These three works are Blake's final illuminated books, their composition dateable between 1822 (<hi rend="i">The Ghost of Abel</hi>, <hi rend="i">On Homers Poetry [and] On Virgil</hi>) and c. 1826-27 (<hi rend="i">Laocoön</hi>). In the words of Sir Geoffrey Keynes, they offer Blake's "Last Testament" on subjects ranging from aesthetic theory to political economy, from forgiveness to apocalyptic judgment. A drama in miniature, <hi rend="i">The Ghost of Abel</hi> addresses "Lord Byron in the Wilderness" (plate 1) and, more specifically, the issues of vengeance and forgiveness raised by Byron's <hi rend="i">Cain: A Mystery</hi> (1821). The broadsheet <hi rend="i">On Homers Poetry [and] On Virgil</hi> challenges these representative figures of classical learning, with special emphasis on concepts of unity as an artistic ideal, identity, and the destructive consequences of imperialism. There are five copies extant for each of these works, which, like most of Blake's illuminated books, were produced in relief etching; the <hi rend="i">Laocoön</hi> plate, which is an intaglio etching/engraving, is extant in two copies. Through a careful representation and restoration of the famous Hellenistic sculptural group, Blake attempts to return the Laocoön to its supposed Hebraic origins and its allegorical meanings, revealed by the terse yet intellectually expansive texts with which Blake surrounds the central image.<lb/><lb/>
+            All of these editions have newly edited SGML-encoded texts and are all fully searchable for both text and images and supported by the unique Inote and ImageSizer applications described in our previous updates. We now have twenty-six copies of sixteen illuminated books in the Archive. Late this year and early in the next, we will add <hi rend="i">Milton</hi> copy D and <hi rend="i">Jerusalem</hi> copy E. We will also be adding at least six more copies of <hi rend="i">Songs of Innocence and of Experience</hi>, two copies of <hi rend="i">Songs of Innocence</hi>, five copies of <hi rend="i">The Marriage of Heaven and Hell</hi>, four copies of <hi rend="i">The Book of Urizen</hi>, and two copies each of <hi rend="i">America, a Prophecy</hi> and <hi rend="i">Europe, a Prophecy</hi>. In addition, by the end of 1998 we will provide a fully-searchable SGML edition of David V. Erdman's <hi rend="i">Complete Poetry and Prose of William Blake</hi>.<lb/><lb/>
+            In the coming weeks we will also be opening a brand-new wing of the Archive, consisting of an extensive array of supporting materials: an updated and expanded Plan of the Archive, a statement of Editorial Principles and Methodology, a summary of the Archive's technical design and implementation, a list of Frequently Asked Questions, an in-depth illustrated Tour highlighting the Archive's features and some ways to use its resources, and more. Our hope is that these extensive documentary materials will prove valuable both to our own growing user community as well as to scholars interested in the theory and practice of electronic editing more generally. We will make a separate announcement when these materials are available on the site.<lb/><lb/>
+            Finally, on our recently opened Contributing Collections page, we plan to begin adding color-coded and linked lists of each institution's entire Blake collection to indicate what is and is not in the Archive and what is forthcoming. In addition to providing a convenient index of the scope and contents of the Archive, these lists should also be useful to scholars in planning research trips.
+         </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>1998</date> by Morris Eaves, Robert N. Essick,
+and Joseph Viscomi, all rights reserved.  Items in the Archive may be
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+Redistribution or republication on other terms, in any medium, requires
+express written consent from the editors and advance notification of the
+publisher.
+Permission to reproduce the graphic images in this archive has been
+granted by the owners of the originals for this publication only.<lb/><lb/>
+This image copyright © 1998 William Blake Archive.</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Conversion to Blake Archive Description DTD 2.1; Styles 2.0</change><date>Summer 2000</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+<name>Robert Essick, </name>University of California, Riverside; and
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+<resp>Technical Editor: </resp><name>Matthew Kirschenbaum</name><resp>Programmer/Analysts: </resp><name>Robert Bingler, </name><name>David Cosca, </name><name>Kirk V. Hastings</name><resp>Project Manager: </resp><name>Andrea Laue</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Kari Kraus, </name><name>Wayne C. Ripley</name></respstmt></changestmt><changestmt><change>Conversion to XML and Blake Archive Description DTD 2004</change><date>2004</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+<name>Robert Essick, </name>University of California, Riverside; and
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+<resp>Technical Editor: </resp><name>Andrea Laue</name><resp>Conversion: </resp><name>Aziza Technology Associates</name><resp>Project Manager: </resp><name>Justin Van Kleeck</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Kari Kraus, </name><name>Wesley N. Raabe, </name><name>Wayne C. Ripley, </name><name>William Shaw</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">The Ghost of Abel</hi></title></objtitle><origination>William Blake <role>author, </role><role>inventor, </role><role>delineator, </role><role>etcher, </role><role>printer</role></origination><origination>Catherine Blake <role>printer</role></origination><imprint><publisher>William Blake
+<note>Blake does not specifically record himself as the publisher, but
+there can be no question that he published the work (if published at
+all).</note></publisher><pubplace>London
+<note>The place of publication is not recorded in the work, but Blake
+lived in London during its writing, etching, and
+printing.</note></pubplace><date>1822
+<note>Blake's note at the end of the work serves in part as a colophon
+recording 1822 as the date of execution.</note></date></imprint><compdate value="1822.B">1822</compdate></objdescid><objinfo><printdate value="1822">1822</printdate><numberobj>2</numberobj><objorder>1-2</objorder><objsize>16.7 x 12.4 cm.</objsize><numberleaves>2</numberleaves><leafsize>28.8 x 23.2 cm.</leafsize><medium>Relief etching, with perhaps very slight touches of white-line
+etching/engraving.</medium><printingstyle>relief</printingstyle><inkcolor>black</inkcolor><support>wove paper</support><watermark>J Whatman 1821<note>The watermark appears only on plate
+1.</note></watermark><etchednumbers>none</etchednumbers><pennednumbers>none</pennednumbers><framelines>none</framelines><binding>loose in portfolio<note>stitched with <hi rend="i">On Homers Poetry
+[and] On Virgil</hi> copy A and an impression of "The Man Sweeping the
+Interpreter's Parlour" between 1852 and 1912</note></binding><stabholes>none</stabholes></objinfo><provenance n="1"><name>Lessing J. Rosenwald Collection, the Library of
+Congress</name><date>Acquired by Rosenwald 1929; given to the Library of Congress
+1945.</date><dealer>A. S. W. Rosenbach</dealer><price>not recorded</price><note>Thomas Butts; sold from the Butts collection (stitched
+together with <hi rend="i">On Homers Poetry [and] On Virgil</hi> copy A and an
+impression of "The Man Sweeping the Interpreter's Parlour"),
+Sotheby's, 26 March 1852, lot 55 (R. M. Milnes, £2); Milnes' son,
+the Earl of Crewe, apparently by inheritance; sold from the Crewe
+collection, Sotheby's, 30 March 1903, lot 8, still bound with the
+two other works as above (the dealer Bernard Quaritch, £43);
+William A. White by no later than 1905; all 3 works sold from the
+White collection through the dealer A. S. W. Rosenbach to Lessing
+J. Rosenwald on 1 May 1929; given by Rosenwald to the Library of
+Congress, Washington, D.C., in 1945.</note></provenance><repository><institution>Library of Congress</institution><addressline>101 Independence Avenue SE</addressline><addressline>Washington, D.C. 20540-4740</addressline><addressline>USA</addressline><addressline>Telephone: 202-707-5434</addressline><addressline>Fax: 202-707-4142</addressline><addressline>Email: rbsc@loc.gov</addressline><addressline>URL: http://lcweb.loc.gov/rr/rarebook/</addressline><department>Rare Book and Special Collections Division</department><collection>Lessing J. Rosenwald Collection</collection><repositoryid label="Call number">PR4144.G5 1822</repositoryid><repositoryid label="Catalog number">1812</repositoryid></repository></source><desc id="abel.a.illbk.01" dbi="abel.A.P1"><objtitle><title type="transcribed">The Ghost of Abel</title>,
+<objid><objnumber code="A1">object 1 </objnumber><objcode code="B1">(Bentley 1, </objcode><objcode code="E1">Erdman 1, </objcode><objcode code="K1">Keynes 1)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>16.7 x 12.4 cm.</objsize><windowsize height="868" width="645"/></physdesc><illusdesc><illustration type="interlinear" location="AB"><illusobjdesc>Cloud outlines surround the title at the top of the
+plate (line 1).  Two gowned adult figures, perhaps a male (on the left) and
+a female (right of the male) hover in the top left corner of the
+plate.  The male, facing right, seems to have his arms raised
+horizontally; the hem of his garment forms a snake-like tail.  The
+female, facing right, has her arms raised horizontally and holds,
+or reaches for, an infant or child.  This tiny figure probably
+faces to the right, with legs spread and at least one arm raised
+horizontally.  He or she may be fleeing the adult female.  On the
+right side of the plate, several figures surround "Abel" in the
+title (line 1).  Slight indications of a figure facing left appear to the
+right of, and probably lean against, the first diagonal of "A."  A
+figure, facing left, walks on top of the "B."  At least one arm is
+extended horizontally and seems to be reaching for a hovering child
+or infant, facing right (toward the walking adult) with at least
+one arm raised horizontally.  A figure kneels or sits on top of the
+"E," facing right and with at least one arm extended at 45 degrees. 
+A very small figure, perhaps an infant or putto, hovers between the
+"E" and "L."  This figure faces right, with legs spread and perhaps
+one arm raised at 135 degrees.  A figure, apparently facing
+forward, sits or squats on the foot of the "L" with the left arm
+raised vertically.  He or she may be reaching toward the extended
+arm of the gowned and standing figure to the right.  This figure
+faces left and has both arms raised horizontally.  This group of
+two figures on and just following the "L" suggests the raising of
+Lazarus by Christ.  A group of three or four figures hovers in the
+top right corner of the plate.  These are, from left to right,
+slight indications (clearer in other impressions) of a standing
+figure facing left with most of his or her body covered by the next
+figure described here; a (nude and female?) figure facing forward;
+a (nude and male?) figure facing forward but twisting to the right
+with arms raised to the right at 135 degrees; and a gowned figure
+seen from behind.  The second and third of these figures are close
+together; they may be Adam and Eve.  Beneath "A Revelation" (line 2) in the
+subtitle, a lion pursues a fleeing and leaping stag; both face
+right.  Between them are some vague forms that may be the trunks of
+trees.  Under "Jehovah" (line 2), the last word in the subtitle, we see two
+running figures, the one on the right pursuing the fleeing figure
+to the left.  These human figures, facing left and both apparently
+nude, are clearly a parallel to the lion and stag on the left side
+of the plate.  The left figure, perhaps Cain, has his legs spread
+apart in a dramatic stride to the left.  His left leg is bent at
+the knee and the right leg is extended backward.  His left arm is
+bent upward; he clutches his lowered head (in despair?) with at
+least his left hand.  The right leg of the pursuing figure, perhaps
+a vengeful God, is bent dramatically at the knee; the left leg is
+extended backward.  His arms are raised horizontally, with the
+raised hands palms out.  It has also been suggested that these two
+figures are Cain pursuing Abel to murder him; indeed, there may be
+an object of some sort (a knife?) in the left hand of the pursuing
+figure.  Vines with thorns grows right of "Blake" (line 3); one extends to
+the left under "Seen by William Blake."  Four birds fly above the
+first three words of line 6 of the text; two or three more appear
+after the first word ("Adam") of line 13 and another two after the word "Jehovah" in line 15.  Slight marks above "Eve"
+(line 9), "Grave" (line 10), and between "her" and
+"Jehovah" (end of line 10) may also be birds in flight.  A vine or
+plant with leaves appears in the right margin, right of lines 6-7
+of the text.  The first letter of "Scene," the first word in line
+9 of the text, grows into vines at both ends.  The vine extending
+from this letter toward the left margin of the plate bears two
+standing figures, apparently facing each other.  The left-most
+figure has at least one arm raised horizontally.  Below "of Abel"
+at the start of line 10 of the text is a comet (with tail) or a
+shooting star.  Further to the right below the same line are
+flames.  Under the same line of text and further to the right are
+two figures—probably the dead body of Abel (lying supine on the
+left) and Cain (fleeing on the right).  Both appear to be nude. 
+Abel's arms are extended horizontally; his right leg is bent at the
+knee and perhaps crossed over his extended left leg.  Cain, who we
+see from the back, strides energetically to the right, with his
+right leg bent sharply at the knee and his left leg extended
+backward.  He seems to be looking back at his brother.  Both arms
+are raised horizontally; he may be holding a knife in one of his
+hands.  A gowned figure hovers, body horizontal, below "Adam" at
+the start of line 13 of the text.  The figure's head is on the left
+with at least one arm extended horizontally to the left.  A group
+of three (gowned?) figures, arms raised horizontally, hovers under
+"Is this Death?," in line 14 of the text.  We see a vine or branch with
+one (oak?) leaf and several fruit right of line 14.  Beneath the
+last four letters of line 13 is a snake, with its coiling tail on
+the right and its crested head, mouth open with tongue extended, on
+the left.  This may be Satan in his serpent form.</illusobjdesc><component type="object" location="AB"><characteristic>cloud</characteristic><illusobjdesc>Cloud outlines surround the title (line 1) at the top of the
+plate.</illusobjdesc></component><component type="figure" location="A"><characteristic>group of figures</characteristic><characteristic>male</characteristic><characteristic>female</characteristic><characteristic>gown</characteristic><characteristic>hovering</characteristic><characteristic>hem</characteristic><characteristic>tail</characteristic><characteristic>snake-like</characteristic><characteristic>facing right</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>holding</characteristic><characteristic>reaching</characteristic><characteristic>child</characteristic><characteristic>infant</characteristic><characteristic>legs spread</characteristic><characteristic>fleeing</characteristic><illusobjdesc>Two gowned adult figures, perhaps a male (on the left)
+and a female (right of the male) hover in the top left corner of
+the plate.  The male, facing right, seems to have his arms raised
+horizontally; the hem of his garment forms a snake-like tail.  The
+female, facing right, has her arms raised horizontally and holds,
+or reaches for, an infant or child.  This tiny figure probably
+faces to the right, with legs spread and at least one arm raised
+horizontally.  He or she may be fleeing the adult female.</illusobjdesc></component><component type="figure" location="B"><characteristic>group of figures</characteristic><characteristic>standing</characteristic><characteristic>leaning</characteristic><characteristic>facing left</characteristic><characteristic>walking</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>hovering</characteristic><characteristic>child</characteristic><characteristic>infant</characteristic><characteristic>facing right</characteristic><characteristic>sitting</characteristic><characteristic>kneeling</characteristic><characteristic>arm raised at 45 degrees</characteristic><characteristic>putto</characteristic><characteristic>legs spread</characteristic><characteristic>arm raised at 135 degrees</characteristic><characteristic>facing forward</characteristic><characteristic>squatting</characteristic><characteristic>arm raised vertically</characteristic><characteristic>gown</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>Christ</characteristic><characteristic>Lazarus</characteristic><illusobjdesc>On the right side of the plate, several figures
+surround "Abel" (line 1) in the title.  Slight indications of a figure
+facing left appear to the right of, and probably lean against, the
+first diagonal of "A."  A figure, facing left, walks on top of the
+"B."  At least one arm is extended horizontally and seems to be
+reaching for a hovering child or infant, facing right (toward the
+walking adult) with at least one arm raised horizontally.  A figure
+kneels or sits on top of the "E," facing right and with at least
+one arm extended at 45 degrees.  A very small figure, perhaps an
+infant or putto, hovers between the "E" and "L."  This figure faces
+right, with legs spread and perhaps one arm raised at 135 degrees. 
+A figure, apparently facing forward, sits or squats on the foot of
+the "L" with the left arm raised vertically.  He or she may be
+reaching toward the extended arm of the gowned and standing figure
+to the right.  This figure faces left and has both arms raised
+horizontally.  This group of two figures on and just following the
+"L" suggests the raising of Lazarus by Christ.</illusobjdesc></component><component type="figure" location="B"><characteristic>group of figures</characteristic><characteristic>hovering</characteristic><characteristic>nude</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>facing left</characteristic><characteristic>female</characteristic><characteristic>male</characteristic><characteristic>facing forward</characteristic><characteristic>twisted</characteristic><characteristic>arms raised at 135 degrees</characteristic><characteristic>seen from behind</characteristic><characteristic>Adam</characteristic><characteristic>Eve</characteristic><illusobjdesc>A group of three or four figures hovers in the top
+right corner of the plate.  These are, from left to right, slight
+indications (clearer in other impressions) of a standing figure
+facing left with most of his or her body covered by the next figure
+described here; a (nude and female?) figure facing forward; a (nude
+and male?) figure facing forward but twisting to the right with
+arms raised to the right at 135 degrees; and a gowned figure seen
+from behind.  The second and third of these figures are close
+together; they may be Adam and Eve.</illusobjdesc></component><component type="animal" location="A"><characteristic>lion</characteristic><characteristic>stag</characteristic><characteristic>running</characteristic><characteristic>pursuing</characteristic><characteristic>fleeing</characteristic><characteristic>leaping</characteristic><characteristic>facing right</characteristic><illusobjdesc>Beneath "A Revelation" (line 2) in the subtitle, a lion pursues
+a fleeing and leaping stag; both face right.</illusobjdesc></component><component type="vegetation" location="A"><characteristic>tree</characteristic><characteristic>trunk</characteristic><illusobjdesc>Under "Revelation" (line 2) in the subtitle, and between the
+lion and stag, are some vague forms that may be the trunks of
+trees.</illusobjdesc></component><component type="figure" location="B"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>Cain</characteristic><characteristic>Abel</characteristic><characteristic>God</characteristic><characteristic>running</characteristic><characteristic>striding</characteristic><characteristic>pursuing</characteristic><characteristic>fleeing</characteristic><characteristic>leg bent at knee</characteristic><characteristic>leg extended backward</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>hands raised, palms out</characteristic><characteristic>knife</characteristic><characteristic>holding</characteristic><characteristic>arm bent upward</characteristic><characteristic>head on hand</characteristic><characteristic>head down</characteristic><characteristic>hand clutching head</characteristic><characteristic>despair</characteristic><illusobjdesc>Under "Jehovah" (line 2), the last word in the subtitle, we see
+two running figures, the one on the right pursuing the fleeing
+figure to the left.  These human figures, facing left and both
+apparently nude, are clearly a parallel to the lion and stag on the
+left side of the plate.  The left figure, perhaps Cain, has his
+legs spread apart in a dramatic stride to the left.  His left leg
+is bent at the knee and the right leg is extended backward.  His
+left arm is bent upward; he clutches his lowered head with at least
+his left hand (in despair?).  The right leg of the pursuing figure,
+perhaps a vengeful God, is bent dramatically at the knee; the left
+leg is extended backward.  His arms are raised horizontally, with
+the raised hands palms out.  These two figures have also been
+identified as Abel pursued by Cain; indeed, there may be an object
+of some sort (a knife?) in the left hand of the pursuing
+figure.</illusobjdesc></component><component type="vegetation" location="AB"><characteristic>vine</characteristic><characteristic>thorn</characteristic><illusobjdesc>Vines with thorns grows right of "Blake" (line 3); one extends
+to the left under "Seen by William Blake."</illusobjdesc></component><component type="animal" location="A"><characteristic>bird</characteristic><characteristic>flock</characteristic><characteristic>flying</characteristic><illusobjdesc>Four birds fly above the first three words of line 6
+of the text; two or three more appear to the right of the word "Adam" in line 13 and another two to the right of the word "Jehovah" in line 15. </illusobjdesc></component><component type="animal" location="B"><characteristic>bird</characteristic><characteristic>flying</characteristic><illusobjdesc>Slight marks above "Eve" (line 9), "Grave"
+(line 10), and between "her" and "Jehovah" (end of line 10) may be
+birds in flight.</illusobjdesc></component><component type="vegetation" location="B"><characteristic>vine</characteristic><characteristic>plant</characteristic><characteristic>leaf</characteristic><illusobjdesc>A vine or plant with (two?) leaves appears in the
+right margin, right of lines 6-7 of the text.</illusobjdesc></component><component type="vegetation" location="A"><characteristic>vine</characteristic><illusobjdesc>The first letter of "Scene," the first word in line 9
+of the text, grows into vines at both ends.</illusobjdesc></component><component type="figure" location="A"><characteristic>standing</characteristic><characteristic>facing right</characteristic><characteristic>facing left</characteristic><characteristic>arm raised horizontally</characteristic><illusobjdesc>The vine extending from the first letter of "Scene"
+(line 9) toward the left margin of the plate bears two
+standing figures, apparently facing each other.  The left-most
+figure has at least one arm raised horizontally.</illusobjdesc></component><component type="object" location="A"><characteristic>comet</characteristic><characteristic>tail</characteristic><characteristic>star</characteristic><characteristic>fire</characteristic><illusobjdesc>Below "of Abel" at the start of line 10 of the text is
+a comet (with a tail) or a shooting star.  Further to the right
+below the same line are flames.</illusobjdesc></component><component type="figure" location="B"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>lying</characteristic><characteristic>supine</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>leg bent at knee</characteristic><characteristic>dead</characteristic><characteristic>legs crossed</characteristic><characteristic>leg extended</characteristic><characteristic>running</characteristic><characteristic>striding</characteristic><characteristic>fleeing</characteristic><characteristic>looking</characteristic><characteristic>leg extended backward</characteristic><characteristic>holding</characteristic><characteristic>knife</characteristic><illusobjdesc>Under "Grave. Adam kneels" in line 10 of the text are
+two figures—probably the dead body of Abel (lying supine on the
+left) and Cain (fleeing on the right).  Both appear to be nude. 
+Abel's arms are extended horizontally; his right leg is bent at the
+knee and perhaps crossed over his extended left leg.  Cain, who we
+see from the back, strides energetically to the right, with his
+right leg bent sharply at the knee and his left leg extended
+backward.  He seems to be looking back at his brother.  Both arms
+are raised horizontally; he may be holding a knife in one of his
+hands.</illusobjdesc></component><component type="figure" location="A"><characteristic>hovering</characteristic><characteristic>gown</characteristic><characteristic>horizontal</characteristic><characteristic>arm raised horizontally</characteristic><illusobjdesc>A gowned figure hovers, body horizontal, below "Adam"
+at the start of line 13 of the text.  The figure's head is on the
+left with at least one arm extended horizontally to the
+left.</illusobjdesc></component><component type="figure" location="A"><characteristic>group of figures</characteristic><characteristic>hovering</characteristic><characteristic>gown</characteristic><characteristic>arms raised horizontally</characteristic><illusobjdesc>A group of three (gowned?) figures, arms raised
+horizontally, hovers under "Is this Death?," line 9 of the
+text.</illusobjdesc></component><component type="vegetation" location="AB"><characteristic>vine</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><characteristic>oak</characteristic><characteristic>fruit</characteristic><illusobjdesc>We see a vine or branch with one (oak?) leaf and
+several fruit right of line 14 of the text.</illusobjdesc></component><component type="animal" location="B"><characteristic>snake</characteristic><characteristic>serpent</characteristic><characteristic>Satan</characteristic><characteristic>loop</characteristic><characteristic>mouth open</characteristic><characteristic>tongue</characteristic><characteristic>crest</characteristic><illusobjdesc>Beneath the last four letters of line 13 of the text is
+a snake, with its coiling tail on the right and its crested head,
+mouth open with tongue extended, on the left.  This may be Satan in
+his serpent form.</illusobjdesc></component></illustration><illustration type="interlinear" location="AC"><illusobjdesc>The lower half of the left margin of the plate
+features three vignettes.  Left of lines 17-21 of the text are two
+nude figures, almost certainly Eve (seen from behind on the left)
+and Adam (facing forward), as the inscriptions above and below the
+vignette indicate.  Both have their legs crossed and stand in a
+contrapposto posture.  Between them is a tree—probably the Tree of
+Life or the Tree of the Knowledge of Good and Evil—with several
+branches bearing large fruit.  Lower right in the vignette, a vine
+with thorns grows upward and turns to the right below line 19 of
+the text.  The vignette left of lines 28-31 of the text shows a
+figure lying supine on the ground, with the upper body raised,
+facing right, and perhaps leaning against the tree trunk on the
+left.  This is probably Eve, who hears the voice of the dead Abel. 
+This voice (or ghost) is pictured as the hovering figure above,
+just below the word "Abel" (line 28) inscribed above the vignette.  His body
+is horizontal, with his head on the left and at least one arm
+extended horizontally.  Below him, and right of Eve's feet, is a
+plant or small tree with several branches.  The final vignette,
+left of lines 37-40 of the text, again pictures a nude Adam (on the
+right?) and Eve standing with a tree between them.  Its branches
+are now bear.  Eve, facing forward, stands in a contrapposto
+posture with legs crossed at the ankles.  Her left arm is raised
+horizontally and she may be touching the left arm (bent upwards) of
+Adam—or giving him a fruit from the Tree of the Knowledge of Good
+and Evil.  He is seen from behind, but he twists to the left.  His
+legs are slightly spread, as though he were striding to the right
+(away from Eve).  The ground below the figures includes some
+vegetation.</illusobjdesc><component type="figure" location="AC"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>Adam</characteristic><characteristic>standing</characteristic><characteristic>facing forward</characteristic><characteristic>legs crossed</characteristic><characteristic>contrapposto</characteristic><characteristic>looking</characteristic><illusobjdesc>In the vignette left of lines 17-21 of the text, we
+see a tree with a nude, standing male just to the right.  This is
+very probably Adam, as the inscription above the vignette
+indicates.  He faces forward, with his legs crossed in a
+contrapposto posture.  He may be looking at Eve on the
+left.</illusobjdesc></component><component type="figure" location="AC"><characteristic>female</characteristic><characteristic>nude</characteristic><characteristic>Eve</characteristic><characteristic>standing</characteristic><characteristic>seen from behind</characteristic><characteristic>legs crossed</characteristic><characteristic>contrapposto</characteristic><characteristic>looking</characteristic><characteristic>holding</characteristic><illusobjdesc>In the vignette left of lines 17-21 of the text, we
+see a tree with a nude, standing female just to the left.  This is
+very probably Eve, as the inscription below and to the left of the
+vignette indicates.  We see her from behind, with her legs crossed
+at the ankles and standing in a contrapposto posture.  She may be
+looking at Adam on the right.  Her left hand may be holding a
+branch of the tree.</illusobjdesc></component><component type="vegetation" location="AC"><characteristic>tree</characteristic><characteristic>branch</characteristic><characteristic>fruit</characteristic><illusobjdesc>Between the two figures in the vignette left of lines
+17-21 of the text is a tree—probably the Tree of Life or the Tree
+of the Knowledge of Good and Evil—with several branches bearing
+large fruit.</illusobjdesc></component><component type="vegetation" location="AC"><characteristic>vine</characteristic><characteristic>thorn</characteristic><illusobjdesc>A vine with thorns grows from the right corner of the
+vignette left of lines 17-21 of the text.  It extends upward and
+then bends to the right below line 19.</illusobjdesc></component><component type="figure" location="C"><characteristic>female</characteristic><characteristic>lying</characteristic><characteristic>supine</characteristic><characteristic>facing right</characteristic><characteristic>leaning</characteristic><characteristic>Eve</characteristic><illusobjdesc>The vignette left of lines 28-31 of the text shows a
+figure lying supine on the ground, with the upper body raised,
+facing right, and perhaps leaning against the tree trunk on the
+left.  This is probably Eve, who hears the voice of the dead Abel
+(pictured as the hovering figure above).</illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>hovering</characteristic><characteristic>Abel</characteristic><characteristic>body horizontal</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>speaking</characteristic><illusobjdesc>The vignette left of lines 28-31 of the text shows a
+figure, head on the left, hovering above the supine figure.  This
+hovering figure is probably Abel (or his voice or ghost); his name
+is etched just above the figure.  His body is horizontal, with at
+least one arm raised horizontally.  Given the textual context, he
+may be speaking.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>tree</characteristic><characteristic>trunk</characteristic><characteristic>branch</characteristic><characteristic>plant</characteristic><illusobjdesc>In the vignette left of lines 28-31 of the text, and
+just right of the left margin of the plate, is a tree trunk.  Right
+of the supine figure is another tree or plant with several
+branches.</illusobjdesc></component><component type="figure" location="C"><characteristic>female</characteristic><characteristic>standing</characteristic><characteristic>nude</characteristic><characteristic>contrapposto</characteristic><characteristic>legs crossed</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>giving</characteristic><illusobjdesc>In the vignette left of lines 37-40 of the text, a
+nude Eve (whose name is inscribed below the vignette) stands left
+of the tree.  She faces forward in a contrapposto posture with her
+legs crossed at the ankles.  Her left arm is raised horizontally;
+she may be touching the left hand of Adam (to the right)—or giving
+him a fruit from the Tree of the Knowledge of Good and
+Evil.</illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>Adam</characteristic><characteristic>standing</characteristic><characteristic>nude</characteristic><characteristic>seen from behind</characteristic><characteristic>twisted</characteristic><characteristic>arm bent</characteristic><characteristic>arm raised</characteristic><characteristic>legs spread</characteristic><characteristic>striding</characteristic><illusobjdesc>In the vignette left of lines 37-40 of the text, a
+nude Adam (whose name is inscribed above the vignette) stands right
+of the tree.  We see him from behind, but his upper body is twisted
+to the left.  His left arm is bent upward and reaches toward the
+extended left hand of Eve, the figure on the left.  His legs are
+slightly spread; he may be striding to the right, away from
+Eve.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>tree</characteristic><characteristic>branch</characteristic><characteristic>leafless</characteristic><characteristic>indeterminate</characteristic><illusobjdesc>In the vignette left of lines 37-40 of the text, a
+tree with leafless branches (and fruitless—in contrast to the
+vignette left of lines 17-21) stands between the two figures.  The
+ground below includes some indeterminate vegetation.</illusobjdesc></component></illustration><illustration type="interlinear" location="BD"><illusobjdesc>A vine with two loops, leaves, and fruit extends
+horizontally right of line 20 of the text.  A vine with many loops
+and two leaves extends horizontally right of line 24 and turns
+upward in the right margin of the plate.</illusobjdesc><component type="vegetation" location="BD"><characteristic>vine</characteristic><characteristic>loop</characteristic><characteristic>leaf</characteristic><characteristic>fruit</characteristic><illusobjdesc>A vine with two loops, leaves, and fruit extends
+horizontally right of line 20 of the text.  A vine with many loops
+and two leaves extends horizontally right of line 24 and turns
+upward in the right margin of the plate.</illusobjdesc></component></illustration><illustration type="interlinear" location="CD"><illusobjdesc>Two birds fly above "is heard" in line 24 of the text. 
+Another two birds, one large, fly above "Voice," the first word in
+the next line (line 25).  The slight marks left of line 33 suggest birds, but
+the forms above "shall take Cains" in line 34 also suggest hovering
+human figures with arms raised horizontally.  Vines grow from "A"
+(first word in line 24), from the first letter of "Visionary" in
+line 27, right of line 26, and from the tops of letters in line 33. 
+A small, gowned figure stands facing left at the end of line 27. 
+He or she has both arms raised horizontally.</illusobjdesc><component type="animal" location="C"><characteristic>bird</characteristic><characteristic>flying</characteristic><illusobjdesc>Two birds fly above "is heard" in line 24 of the text. 
+Another two birds, one large, fly above "Voice," the first word in
+the next line (line 25).  The slight marks left of line 33 suggest
+birds.</illusobjdesc></component><component type="figure" location="C"><characteristic>hovering</characteristic><characteristic>arms raised horizontally</characteristic><illusobjdesc>The slight marks left of line 33 of the text
+(particularly those above "shall take Cains" in line 34) suggest
+hovering human figures with arms raised horizontally.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>vine</characteristic><illusobjdesc>Vines grow from "A" (first word in line 24 of the
+text) and from the first letter of "Visionary" in line
+27.</illusobjdesc></component><component type="vegetation" location="D"><characteristic>vine</characteristic><illusobjdesc>Vines grow right of line 26 of the text and from the
+tops of letters in line 33.</illusobjdesc></component><component type="figure" location="D"><characteristic>standing</characteristic><characteristic>gown</characteristic><characteristic>facing left</characteristic><characteristic>arms raised horizontally</characteristic><illusobjdesc>A small, gowned figure stands facing left at the end
+of line 27 of the text.  He or she has both arms raised
+horizontally.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="abel.a.illbk.01.01" justify="left" indent="20">THE GHOST of ABEL</l><l n="abel.a.illbk.01.02" justify="left" indent="14">A Revelation In the Visions of Jehovah</l><l n="abel.a.illbk.01.03" justify="left" indent="21">Seen by William Blake</l></texthead><texthead justify="left"><l n="abel.a.illbk.01.04" justify="left" indent="2">To LORD BYRON in the Wilderness</l></texthead><lg type="prose" justify="left"><l n="abel.a.illbk.01.05" justify="left" indent="34">What doest thou here Elijah?</l><l n="abel.a.illbk.01.06" justify="left">Can a Poet doubt the Visions of Jehovah? Nature has no Outline:</l><l n="abel.a.illbk.01.07" justify="left">but Imagination has, Nature has no Tune: but Imagination has!</l><l n="abel.a.illbk.01.08" justify="left">Nature has no Supernatural &amp; dissolves: Imagination is Eternity</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.09" justify="left" indent="6">Scene. A rocky Country. Eve fainted over the dead body</l><l n="abel.a.illbk.01.10" justify="left" indent="3">of Abel which lays near a Grave. Adam kneels by her Jehovah</l><l n="abel.a.illbk.01.11" justify="left" indent="45">stands above</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.12" justify="left">Jehovah  <space extent="1"/>Adam!</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.13" justify="left">Adam  -<space extent="6"/>I will not hear thee more thou Spiritual Voice</l><l n="abel.a.illbk.01.14" justify="left" indent="10">Is this Death?</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.15" justify="left">Jehovah_<space extent="12"/>Adam!</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.16" justify="left">Adam  ___<space extent="16"/>It is in vain: I will not hear thee</l><l n="abel.a.illbk.01.17" justify="left" indent="10">Henceforth! Is this thy Promise that the Womans Seed</l><l n="abel.a.illbk.01.18" justify="left" indent="10">Should bruise the Serpents head: Is this the Serpent? Ah!</l><l n="abel.a.illbk.01.19" justify="left" indent="10">Seven times O Eve thou hast fainted over the Dead Ah! Ah!</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.20" justify="left" indent="20">Eve revives</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.21" justify="left">Eve<space extent="7"/>Is this the Promise of Jehovah! O it is all a vain delusion</l><l n="abel.a.illbk.01.22" justify="left" indent="10">This Death &amp; this Life &amp; this Jehovah!</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.23" justify="left">Jehovah <space extent="31"/>Woman! lift thine eyes</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.24" justify="left" indent="8">A Voice is heard coming on</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.25" justify="left">Voice<space extent="4"/>O Earth cover not thou my Blood! cover not thou my Blood</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.26" justify="left" indent="17">Enter the Ghost of Abel</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.27" justify="left">Eve<space extent="5"/>Thou Visionary Phantasm thou art not the real Abel.</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.28" justify="left">Abel<space extent="4"/>Among the Elohim a Human Victim I wander I am their House</l><l n="abel.a.illbk.01.29" justify="left" indent="8">Prince of the Air &amp; our dimensions compass Zenith &amp; Nadir</l><l n="abel.a.illbk.01.30" justify="left" indent="8">Vain is thy Covenant O Jehovah I am the Accuser &amp; Avenger</l><l n="abel.a.illbk.01.31" justify="left" indent="8">Of Blood O Earth Cover not thou the Blood of Abel</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.32" justify="left">Jehovah<space extent="1"/>What Vengeance dost thou require</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.33" justify="left">Abel  -<space extent="25"/>Life for Life! Life for Life!</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.34" justify="left">Jehovah He who shall take Cains life must also Die O Abel</l><l n="abel.a.illbk.01.35" justify="left" indent="8">And who is he? Adam wilt thou. or Eve thou do this</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.36" justify="left">Adam<space extent="3"/>It is all a Vain delusion of the all creative Imagination</l><l n="abel.a.illbk.01.37" justify="left" indent="8">Eve come away &amp; let us not believe these vain delusions</l><l n="abel.a.illbk.01.38" justify="left" indent="8">Abel is dead &amp; Cain slew him! We shall also Die a Death</l><l n="abel.a.illbk.01.39" justify="left" indent="8">And then! what then! be as poor Abel a Thought: or as</l><l n="abel.a.illbk.01.40" justify="left" indent="8">This! O what shall I call thee Form Divine: Father of Mercies</l><l n="abel.a.illbk.01.41" justify="left" indent="8">That appearest to my Spiritual Vision: Eve seest thou also.</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.01.42" justify="left">Eve _<space extent="3"/>I see him plainly with my Minds Eye, I see also Abel living:</l><l n="abel.a.illbk.01.43" justify="left" indent="8">Tho terribly afflicted as We also are. yet Jehovah sees him</l></lg></phystext></desc><desc id="abel.a.illbk.02" dbi="abel.A.P2"><objtitle>,
+<objid><objnumber code="A2">object 2 </objnumber><objcode code="B2">(Bentley 2, </objcode><objcode code="E2">Erdman 2, </objcode><objcode code="K2">Keynes 2)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>16.7 x 12.4 cm.</objsize><windowsize height="868" width="645"/></physdesc><illusdesc><illustration type="plate" location="CD"><illusobjdesc>Below the text, we see a barren (perhaps stony)
+landscape with dark clouds in the sky.  A figure, probably the dead
+Abel, lies supine on the ground.  We see only his head on the left
+and the right side of his torso because another figure is lying
+over him.  Although muscular, and identified by some scholars as
+either Cain or Adam, this prone figure with long, slightly curly
+hair is more probably Eve grieving or fainting (see plate 1, lines
+5-6) over her dead son.  Her left arm is extended
+horizontally and her legs are crossed at the ankles.  She wears a
+skirt over her loins and thighs, perhaps made of an animal (sheep?)
+skin with prominent fur or wool.  Above this pair is a male figure,
+apparently nude, hovering horizontally in the sky.  As the
+inscription on his right leg indicates, this is "The Voice of Abels
+Blood" (lines 34-35).  His mouth is open and he may be speaking; his face
+suggests a mixture of anger and despair.  His arms are crossed over
+his chest and wrapped around his body.  The index finger of his
+left hand points to the inscription on his body.  He faces forward,
+legs together, with his head twisted to the left; his hair is
+slightly curly and seems to be blown to the left by a wind.  Smoke
+billows up below and to the left of his feet, as though he were a
+vision or ghost emanating from Abel's funeral pyre.</illusobjdesc><component type="object" location="CD"><characteristic>cloud</characteristic><characteristic>smoke</characteristic><characteristic>dark</characteristic><characteristic>wind</characteristic><characteristic>stone</characteristic><illusobjdesc>The sky below the text is filled with dark clouds. 
+Smoke billows up from the ground, lower left, and extends around
+the hovering figure.  This figure's hair suggests that there may be
+a wind blowing from right to left.  The ground may include slight
+indications of small stones, particularly lower
+right.</illusobjdesc></component><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>Abel</characteristic><characteristic>dead</characteristic><characteristic>corpse</characteristic><characteristic>lying</characteristic><characteristic>supine</characteristic><characteristic>facing up</characteristic><illusobjdesc>A figure, probably the dead Abel, lies supine on the
+ground.  We see only his head on the left and the right side of his
+torso because another figure is lying over him.</illusobjdesc></component><component type="figure" location="CD"><characteristic>female</characteristic><characteristic>muscular</characteristic><characteristic>Eve</characteristic><characteristic>Cain</characteristic><characteristic>Adam</characteristic><characteristic>lying</characteristic><characteristic>prone</characteristic><characteristic>long hair</characteristic><characteristic>curly hair</characteristic><characteristic>facing down</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>legs crossed</characteristic><characteristic>legs together</characteristic><characteristic>skirt</characteristic><characteristic>skin</characteristic><characteristic>sheep</characteristic><characteristic>fur</characteristic><characteristic>grief</characteristic><characteristic>fainting</characteristic><illusobjdesc>A figure lies on top of another in the design below
+the text.  Although muscular, and identified by some scholars as
+either Cain or Adam, this prone figure with long, slightly curly
+hair is more probably Eve grieving or fainting (see plate 1, lines
+5-6; E271) over her dead son.  Her left arm is extended
+horizontally and her legs are crossed at the ankles.  She wears a
+skirt over her loins and thighs, perhaps made of an animal (sheep?)
+skin with prominent fur or wool.</illusobjdesc></component><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>hovering</characteristic><characteristic>body horizontal</characteristic><characteristic>legs together</characteristic><characteristic>Abel</characteristic><characteristic>blood</characteristic><characteristic>mouth open</characteristic><characteristic>speaking</characteristic><characteristic>facing forward</characteristic><characteristic>arms crossed</characteristic><characteristic>arms wrappped around body</characteristic><characteristic>pointing</characteristic><characteristic>twisted</characteristic><characteristic>curly hair</characteristic><characteristic>anger</characteristic><characteristic>despair</characteristic><illusobjdesc>Above the pair of figures lying on the ground is a
+male figure, apparently nude, hovering horizontally in the sky.  As
+the inscription on his right leg indicates, this is "The Voice of
+Abels Blood."  His mouth is open and he may be speaking; his face
+suggests a mixture of anger and despair.  His arms are crossed over
+his chest and wrapped around his body.  The index finger of his
+left hand points to the inscription on his body.  He faces forward,
+legs together, with his head twisted to the left; his hair is
+slightly curly and seems to be blown to the left by a
+wind.</illusobjdesc></component><component type="text" location="CD"><transcription><lg type="prose" justify="left"><l justify="left">The Voice of Abels Blood</l></lg></transcription><illusobjdesc>The inscription on the hovering figure's lower body
+and legs is integrated into the design.</illusobjdesc></component></illustration><illustration type="interlinear" location="AC"><illusobjdesc>The left margin of the text is decorated with five
+vignettes.  Left of lines 1-2 is a gowned figure, hunched over at
+the waist and apparently walking to the left.  A flock of five
+birds surrounds the figure.  She or he holds a large object in at
+least the left arm (reaching downward) and hand.  The figure has
+been identified as Eve, although he might be Adam (the name
+inscribed just below the vignette).  The object he or she carries
+has been described as a book, Abel's coffin, and the stone tablets
+of the decalogue.  The vignette left of lines 6-10 shows two
+figures.  On the far left, a figure sits on a bed or drapery-
+covered stool.  He or she is twisted, with the upper body facing
+forward but the head and arms facing to the right.  The left arm is
+raised horizontally, with the right arm bent and the forearm raised
+horizontally.  Both hands may be pushing against the figure to the
+right.  This seated figure has been identified as Eve or God
+("Jehovah" is inscribed beneath the vignette [line 11]) being rejected by the
+figure to the right.  The figure on the right, probably a nude male
+seen from behind, has his left (trailing) leg bent and extended
+backward.  He has generally been identified as Abel (or his soul). 
+His left arm is raised horizontally, with the left hand touching,
+perhaps pushing against, the head of the seated figure to the left. 
+The running figure's right arm is bent upward over his head.  We
+see a hovering, gowned figure, body horizontal, left of line 14. 
+He or she faces left and has at least the left arm raised at 45
+degrees.  This might be the soul or ghost of Abel.  A flock of
+eleven birds surrounds the human figure.  The vignette left of
+lines 17-21 pictures two nude (male?) figures.  The right-most
+figure in the group, seen from behind, hovers above the other with
+legs together and bent at the knees.  His arms are bent upward,
+with hands raised palms up.  He leans to the left and may be
+looking at the figure below.  He is seated (on a mound of earth or
+stone?).  He faces forward, but his head is twisted to the right. 
+His arms and hands are in much the same position as his
+companion's.  His legs are crossed at the ankles.  These figures
+have been identified as God (seated) arguing or contending with
+Satan (see "Satan" and "Jehovah" inscribed immediately above and
+below this vignette [lines 16, 22]).  The final vignette, left of lines 23-27,
+pictures two nude figures standing on either side of a tree with a
+large, thick trunk.  A few branches extend from the top of the
+tree; one branch, descending on the right side of the vignette,
+bears fruit.  This is almost certainly the Tree of the Knowledge of
+Good and Evil, with the spiral form encircling it representing the
+body of Satan in his serpent form.  The figure on the left, legs
+together, is facing forward.  This is probably Adam, perhaps with
+his arms drawn back behind his back.  On the right, we see Eve from
+behind, perhaps with her legs crossed at the ankles.  A vine
+appears to spring from Eve's lower legs; it extends horizontally
+above the first three words of line 27 of the text.</illusobjdesc><component type="figure" location="A"><characteristic>gown</characteristic><characteristic>Eve</characteristic><characteristic>Adam</characteristic><characteristic>walking</characteristic><characteristic>facing left</characteristic><characteristic>hunched over</characteristic><characteristic>bending forward</characteristic><characteristic>holding</characteristic><characteristic>carrying</characteristic><characteristic>arm reaching downward</characteristic><characteristic>book</characteristic><characteristic>coffin</characteristic><characteristic>decalogue</characteristic><characteristic>stone</characteristic><characteristic>tablet</characteristic><illusobjdesc>The vignette left of lines 1-2 of the text shows a
+gowned figure, hunched over at the waist and apparently walking to
+the left.  She or he holds a large object in at least the left arm
+(reaching downward) and hand.  The figure has been identified as
+Eve, although he might be Adam (the name inscribed just below the
+vignette).  The object he or she carries has been described as a
+book, Abel's coffin, and the stone tablets of the
+decalogue.</illusobjdesc></component><component type="animal" location="A"><characteristic>bird</characteristic><characteristic>flock</characteristic><characteristic>flying</characteristic><illusobjdesc>A flock of five flying birds surrounds the figure in
+the vignette left of lines 1-2 of the text.</illusobjdesc></component><component type="figure" location="A"><characteristic>sitting</characteristic><characteristic>twisted</characteristic><characteristic>facing forward</characteristic><characteristic>facing right</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>arm bent</characteristic><characteristic>pushing</characteristic><characteristic>bed</characteristic><characteristic>stool</characteristic><characteristic>drapery</characteristic><illusobjdesc>The vignette left of lines 6-10 of the text shows two
+figures.  On the far left, a figure sits on a bed or drapery-
+covered stool.  Her or she is twisted, with the upper body facing
+forward but the head and arms facing to the right.  The left arm is
+raised horizontally, with the right arm bent and the forearm raised
+horizontally.  Both hands may be pushing against the figure to the
+right.  This seated figure has been identified as Eve or God
+("Jehovah" is inscribed beneath the vignette [line 11]) being rejected by the
+figure to the right.</illusobjdesc></component><component type="figure" location="A"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>Abel</characteristic><characteristic>running</characteristic><characteristic>striding</characteristic><characteristic>seen from behind</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>pushing</characteristic><characteristic>arm bent upward</characteristic><characteristic>arms raised</characteristic><characteristic>legs bent</characteristic><characteristic>leg extended backward</characteristic><illusobjdesc>In the vignette left of lines 6-10 of the text, the
+figure on the right, probably a nude male seen from behind, has his
+left (trailing) leg bent and extended backward.  He has generally
+been identified as Abel (or his soul).  His left arm is raised
+horizontally, with the left hand touching, perhaps pushing against,
+the head of the seated figure to the left.  The running figure's
+right arm is bent upward over his head.</illusobjdesc></component><component type="figure" location="A"><characteristic>hovering</characteristic><characteristic>gown</characteristic><characteristic>Abel</characteristic><characteristic>body horizontal</characteristic><characteristic>arm raised at 45 degrees</characteristic><characteristic>facing left</characteristic><illusobjdesc>We see a hovering, gowned figure, body horizontal,
+left of line 14 of the text.  He or she faces left and has at least
+the left arm raised at 45 degrees.  This might be the soul or ghost
+of Abel.</illusobjdesc></component><component type="animal" location="A"><characteristic>flock</characteristic><characteristic>bird</characteristic><characteristic>flying</characteristic><illusobjdesc>A flock of eleven birds surrounds the human
+figure.</illusobjdesc></component><component type="figure" location="A"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>hovering</characteristic><characteristic>seen from behind</characteristic><characteristic>arms bent upward</characteristic><characteristic>arms raised</characteristic><characteristic>hands raised, palms up</characteristic><characteristic>looking</characteristic><characteristic>sitting</characteristic><characteristic>facing forward</characteristic><characteristic>twisted</characteristic><characteristic>legs crossed</characteristic><characteristic>mound</characteristic><characteristic>stone</characteristic><characteristic>God</characteristic><characteristic>Satan</characteristic><illusobjdesc>The vignette left of lines 17-21 of the text pictures
+two nude (male?) figures.  The right-most figure in the group, seen
+from behind, hovers above the other with legs together and bent at
+the knees.  His arms are bent upward, with hands raised palms up. 
+He leans to the left and may be looking at the figure below.  He is
+seated (on a mound of earth or stone?).  He faces forward but his
+head is twisted to the right.  His arms and hands are in much the
+same position as his companion's.  His legs are crossed at the
+ankles.  These figures have been identified as God (seated) arguing
+or contending with Satan (see "Satan" and "Jehovah" inscribed
+immediately above and below this vignette [lines 16, 22]).</illusobjdesc></component><component type="vegetation" location="AC"><characteristic>tree</characteristic><characteristic>trunk</characteristic><characteristic>branch</characteristic><characteristic>fruit</characteristic><illusobjdesc>The vignette left of lines 23-27 of the text pictures
+two nude figures standing on either side of a tree with a large,
+thick trunk.  A few branches extend from the top of the tree; one
+branch, descending on the right side of the vignette, bears fruit. 
+This is almost certainly the Tree of the Knowledge of Good and Evil
+with Satan in his serpent form encircling the trunk.</illusobjdesc></component><component type="animal" location="AC"><characteristic>spiral</characteristic><characteristic>Satan</characteristic><characteristic>serpent</characteristic><characteristic>snake</characteristic><illusobjdesc>In the vignette left of lines 23-27 of the text, the
+spiral form encircling the tree trunk is very probably Satan in his
+serpent form.</illusobjdesc></component><component type="figure" location="AC"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>standing</characteristic><characteristic>Adam</characteristic><characteristic>facing forward</characteristic><characteristic>legs together</characteristic><characteristic>arms drawn back</characteristic><illusobjdesc>In the vignette left of lines 23-27 of the text, the
+nude figure standing left of the tree, facing forward, is probably
+Adam.  His legs are together and he may have his arms drawn back
+behind him.</illusobjdesc></component><component type="figure" location="AC"><characteristic>female</characteristic><characteristic>nude</characteristic><characteristic>standing</characteristic><characteristic>seen from behind</characteristic><characteristic>legs together</characteristic><characteristic>legs crossed</characteristic><illusobjdesc>In the vignette left of lines 23-27 of the text, the
+nude figure standing right of the tree is probably Eve.  We see her
+from behind; her legs are together and perhaps crossed at the
+ankles.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>vine</characteristic><illusobjdesc>A vine extends from the lower legs of the right-most
+figure in the vignette.  It reaches horizontally above the first
+three words of line 27 of the text.</illusobjdesc></component></illustration><illustration type="interlinear" location="E"><illusobjdesc>Vines spring from the first and third letters of
+"believe" in the first line of the text, from the last letter of
+the last word in line 12 (perhaps with a leaf or flower at its
+lower end), and from the first letter of "Grave" in line 14.  A
+vine with two loops follows line 4; another precedes "Thunders" in
+line 22.  Jagged lines, probably representing flames, are pictured
+above and to the right of "Abel," the first word in line 5 of the
+text.  The jagged lines following "Thunders" in line 22 and
+extending right of the next line of text probably represent
+lightning.  Flocks of birds fly above the last three words of line
+5, above the center and right side of lines 14 and 27, and above
+"Human Blood &amp; not" in line 16; single birds follow "Will:" in line
+22 and fly above "Thyself" in line 23.  Nine tiny figures stand or
+hover in the air in the space between "Will:" and "Thunders" in
+line 22.  The body of one hovering figure is horizontal; several
+have their arms raised horizontally and one has a single arm raised
+vertically.  At least one of the figures has his or her legs spread
+and may be walking.  The three figures on the right may be holding
+hands.</illusobjdesc><component type="vegetation" location="B"><characteristic>vine</characteristic><characteristic>leaf</characteristic><characteristic>flower</characteristic><characteristic>loop</characteristic><illusobjdesc>Vines spring from the first and third letters of
+"believe" in the first line of the text, from the last letter of
+the last word in line 12 (perhaps with a leaf or flower at its
+lower end), and from the first letter of "Grave" in line 14.  A
+vine with two loops follows line 4; another precedes "Thunders" in
+line 22.</illusobjdesc></component><component type="object" location="A"><characteristic>fire</characteristic><illusobjdesc>Jagged lines, probably representing flames, are
+pictured above and to the right of "Abel," the first word in line
+5 of the text.</illusobjdesc></component><component type="object" location="B"><characteristic>lightning</characteristic><illusobjdesc>The jagged lines following "Thunders" in line 22 and
+extending right of the next line of text probably represent
+lightning.</illusobjdesc></component><component type="animal" location="AB"><characteristic>flock</characteristic><characteristic>bird</characteristic><characteristic>flying</characteristic><illusobjdesc>Flocks of birds fly above the last three words of line
+5 of the text, above the center and right side of lines 14 and 27,
+and above "Human Blood &amp; not" in line 16; single birds follow
+"Will:" in line 22 and fly above "Thyself" in line
+23.</illusobjdesc></component><component type="figure" location="AB"><characteristic>standing</characteristic><characteristic>hovering</characteristic><characteristic>body horizontal</characteristic><characteristic>arm raised vertically</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>legs spread</characteristic><characteristic>walking</characteristic><characteristic>hand holding</characteristic><illusobjdesc>Nine tiny figures stand or hover in the air in the
+space between "Will:" and "Thunders" in line 22.  The body of one
+hovering figure is horizontal; several have their arms raised
+horizontally and one has a single arm raised vertically.  At least
+one of the figures has his or her legs spread and may be walking. 
+The three figures on the right may be holding hands.</illusobjdesc></component></illustration></illusdesc><phystext><lg type="prose" justify="left"><l n="abel.a.illbk.02.01" justify="left" indent="8">Alive &amp; not Dead: were it not better to believe Vision</l><l n="abel.a.illbk.02.02" justify="left" indent="8">With all our might &amp; strength tho we are fallen &amp; lost</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.03" justify="left">Adam<space extent="1"/>_ Eve thou hast spoken truly. let us kneel before his feet.</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.04" justify="left" indent="11">They Kneel before Jehovah</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.05" justify="left">Abel  <space extent="3"/>Are these the Sacrifices of Eternity O Jehovah, a Broken Spirit</l><l n="abel.a.illbk.02.06" justify="left" indent="8">And a Contrite Heart. O I cannot Forgive! the Accuser hath</l><l n="abel.a.illbk.02.07" justify="left" indent="8">Enterd into Me as into his House &amp; I loathe thy Tabernacles</l><l n="abel.a.illbk.02.08" justify="left" indent="8">As thou hast said so is it come to pass; My desire is unto Cain</l><l n="abel.a.illbk.02.09" justify="left" indent="8">And He doth rule over Me: therefore My Soul in fumes of Blood</l><l n="abel.a.illbk.02.10" justify="left" indent="8">Cries for Vengeance: Sacrifice on Sacrifice Blood on Blood</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.11" justify="left">Jehovah<space extent="1"/>Lo I have given you a Lamb for an Atonement instead</l><l n="abel.a.illbk.02.12" justify="left" indent="8">Of the Transgresor. or no Flesh or Spirit could ever Live</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.13" justify="left">Abel__<space extent="3"/>Compelled I cry O Earth cover not the Blood of Abel</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.14" justify="left" indent="10">Abel sinks down into the Grave. from which arises Satan</l><l n="abel.a.illbk.02.15" justify="left" indent="5">Armed in glittering scales with a Crown &amp; a Spear</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.16" justify="left">Satan<space extent="2"/>I will have Human Blood &amp; not the blood of Bulls or Goats</l><l n="abel.a.illbk.02.17" justify="left" indent="8">And no Atonement O Jehovah the Elohim live on Sacrifice</l><l n="abel.a.illbk.02.18" justify="left" indent="8">Of Men; hence I am God of Men: Thou Human O Jehovah.</l><l n="abel.a.illbk.02.19" justify="left" indent="8">By the Rock &amp; Oak of the Druid creeping Misletoe &amp; Thorn</l><l n="abel.a.illbk.02.20" justify="left" indent="8">Cains City built with Human Blood. not Blood of Bulls &amp; Goats</l><l n="abel.a.illbk.02.21" justify="left" indent="8">Thou shalt Thyself be Sacrificed to Me thy God on Calvary</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.22" justify="left">Jehovah<space extent="1"/>Such is My Will:<space extent="28"/>Thunders</l><l n="abel.a.illbk.02.23" justify="left" indent="24">that Thou Thyself go to Eternal Death</l><l n="abel.a.illbk.02.24" justify="left" indent="8">In Self Annihilation even till Satan Self-subdud Put off Satan</l><l n="abel.a.illbk.02.25" justify="left" indent="8">Into the Bottomless Abyss whose torment arises for ever &amp; ever.</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.26" justify="left" indent="12">On each side a Chorus of Angels entering Sing the following</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.27" justify="left" indent="6">The Elohim of the Heathen Swore Vengeance for Sin! Then Thou stoodst</l><l n="abel.a.illbk.02.28" justify="left">Forth O Elohim Jehovah! in the midst of the darkness of the Oath! All Clothed</l><l n="abel.a.illbk.02.29" justify="left">In Thy Covenant of the Forgiveness of Sins: Death O Holy! Is this Brotherhood</l><l n="abel.a.illbk.02.30" justify="left">The Elohim saw their Oath Eternal Fire; they rolled apart trembling over The</l><l n="abel.a.illbk.02.31" justify="left">Mercy Seat: each in his station fixt in the Firmament by Peace Brotherhood and</l><l n="abel.a.illbk.02.32" justify="left" indent="63">Love.</l></lg><lg type="prose" justify="left"><l n="abel.a.illbk.02.33" justify="left" indent="14">The Curtain falls</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="abel.a.illbk.02.34" justify="left" indent="28">The Voice of Abels</l><l n="abel.a.illbk.02.35" justify="left" indent="42">Blood</l></lg><vspace extent="3"/><lg type="prose" justify="left"><l n="abel.a.illbk.02.36" justify="left" indent="39">1822 W Blakes Original Stereotype was 1788</l></lg></phystext></desc></objdesc></bad>

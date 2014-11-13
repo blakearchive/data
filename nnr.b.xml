@@ -1,0 +1,359 @@
+<bad id="nnr.b" type="illbk" work="There is No Natural Religion" copy="B" copyid="B" institution="ycba" catalog="bentley" catid="B"><header><filedesc><titlestmt><title reg="There is No Natural Religion"><main>There is No Natural Religion</main><copy> copy B</copy>
+: electronic edition
+</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of
+Rochester;
+<name>Robert Essick, </name>University of California, Riverside;
+and
+<name>Joseph Viscomi</name>, University of North Carolina at
+Chapel Hill</principal><respstmt><resp>Programmer/Analysts: </resp><name>David Cosca </name>and
+<name>Robert Bingler</name><resp>Project Manager:</resp><name>Matthew
+Kirschenbaum</name><resp>Project Assistant: </resp><name>Greg
+Murray</name></respstmt><sponsor>The Institute for Advanced Technology in the Humanities, the
+Library of Congress, and the University of North Carolina at Chapel Hill
+with a software grant from Inso Corporation and hardware and software
+grants from Sun Microsystems</sponsor><funder>National Endowment for the Humanities, 2000-02</funder><funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder><funder>Getty Grant Program, 1995-98</funder></titlestmt><editionstmt>Blake Archive Description DTD Version 2004</editionstmt><extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 70KB; 24 JPEG
+(ISO/IEC
+10918)
+files ranging in size from 13KB to 120KB</extent><publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH
+         <date>June 1998</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
+            The editors of the William Blake Archive are pleased to announce the publication of six new electronic editions of Blake's illuminated books. They are: <hi rend="i">All Religions are One</hi> copy A, <hi rend="i">There is No Natural Religion</hi> copies B, C, G, and L, and <hi rend="i">Milton, a Poem</hi> copy C.<lb/><lb/>
+            Composed and executed in 1788, <hi rend="i">All Religions are One</hi> and <hi rend="i">There is No Natural Religion</hi> are Blake's first works in illuminated printing, though no copy of either work survives from this date. The ten plates of <hi rend="i">All Religions</hi> were followed quickly by twenty <hi rend="i">No Natural Religion</hi> plates in two antithetical sets (a and b series). Only one copy of <hi rend="i">All Religion</hi> is extant, now in the Huntington Library, printed c. 1795 with and in the same style as <hi rend="i">There is No Natural Religion</hi> copy L, the only copy consisting exclusively of the ten b-series of plates, now in The Pierpont Morgan Library. The other twelve recorded copies of this book consist of a mixture of the same eight to twelve plates, which appeared to be merely incomplete sets of proofs until it was discovered that six of these copies were 19th-century reproductions. Once the inauthentic impressions were weeded out, it became apparent that what remained was Blake's selection of a and b plates for an abridged version of the work printed around 1794. We present copies B, C, and G of this twelve-plate work, now in the collections of the Yale Center for British Art, Library of Congress, and The Pierpont Morgan Library, respectively.<lb/><lb/>
+            There are only four copies of <hi rend="i">Milton</hi>, Blake's most personal epic. Copy C, from the New York Public Library, was Blake's own copy. Printed c. 1811, it was later reconfigured and renumbered by Blake when he inserted extra plates, which he appears to have done on at least two different occasions.<lb/><lb/>
+            All of these editions have newly edited texts and are all fully searchable for both text and images and supported by the unique Inote and ImageSizer applications described in our previous updates.<lb/><lb/>
+            We now have twenty-two copies of thirteen illuminated books. Over this and next year, we will be adding Blake's last illuminated works, <hi rend="i">On Homers Poetry [&amp;] On Virgil</hi>, <hi rend="i">The Ghost of Abel</hi>, and <hi rend="i">Laocoön</hi>, as well as <hi rend="i">Milton</hi> copy D and <hi rend="i">Jerusalem</hi> copy E. We will also be adding at least six more copies of <hi rend="i">Songs of Innocence and of Experience</hi>, two copies of <hi rend="i">Songs of Innocence</hi>, five copies of <hi rend="i">The Marriage of Heaven and Hell</hi>, four copies of <hi rend="i">The Book of Urizen</hi>, and two copies each of <hi rend="i">America, a Prophecy</hi> and <hi rend="i">Europe, a Prophecy</hi>. In addition, work continues on the SGML edition of David V. Erdman's <hi rend="i">Complete Poetry and Prose of William Blake</hi>.<lb/><lb/>
+            We will continue to post updates on various lists every few months, but readers interested in the progress of the Archive can subscribe to our Blake Update list, which can be found on the Archive's Contents Page. On this page readers will also find that we have opened the top level of the Contributing Institutions Page, which provides contact information and links to institutions participating in the Archive. In the coming months, we plan to include color-coded and linked lists of each institution's entire Blake collection to indicate what is and is not in the Archive and what is forthcoming.
+         </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>1998</date> by Morris Eaves, Robert N. Essick,
+and Joseph Viscomi, all rights reserved.  Items in the Archive may be
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+ Redistribution or republication on other terms, in any medium, requires
+express written consent from the editors and advance notification of the
+publisher. Permission to reproduce the graphic images in this archive has been
+granted by the owners of the originals for this publication only.<lb/><lb/>
+This image copyright © 1998 Yale Center for British Art.</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Conversion to Blake Archive Description DTD 2.1; Styles 2.0</change><date>Summer 2000</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+<name>Robert Essick, </name>University of California, Riverside; and
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+<resp>Technical Editor: </resp><name>Matthew Kirschenbaum</name><resp>Programmer/Analysts: </resp><name>Robert Bingler, </name><name>David Cosca, </name><name>Kirk V. Hastings</name><resp>Project Manager: </resp><name>Andrea Laue</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Kari Kraus, </name><name>Wayne C. Ripley</name></respstmt></changestmt><changestmt><change>Conversion to XML and Blake Archive Description DTD 2004</change><date>2004</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+<name>Robert Essick, </name>University of California, Riverside; and
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+<resp>Technical Editor: </resp><name>Andrea Laue</name><resp>Conversion: </resp><name>Aziza Technology Associates</name><resp>Project Manager: </resp><name>Justin Van Kleeck</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Kari Kraus, </name><name>Wesley N. Raabe, </name><name>Wayne C. Ripley, </name><name>William Shaw</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">There is No Natural Religion</hi></title></objtitle><origination>William Blake <role>author, </role><role>inventor, </role><role>delineator, </role><role>etcher, </role><role>printer, </role><role>colorist</role><note>"The Author &amp; Printer W Blake" is etched in reverse at
+the bottom of plate 1.</note></origination><origination>Catherine Blake <role>printer</role></origination><imprint><publisher>William Blake</publisher><pubplace>London
+<note>The place of publication is not given in
+the work, but Blake was living in London at the time of its
+composition and etching.</note></pubplace></imprint><compdate value="1788.B">c. 1788</compdate></objdescid><objinfo><printdate value="1794.A">c. 1794</printdate><numberobj>11</numberobj><objorder>a1, a3-a9, b3, b4, b12
+<note>Bentley plate numbers used here.</note></objorder><objsize>ranging between 4.7 x 3.7 cm. and 6.1 x 4.6
+cm.</objsize><numberleaves>11</numberleaves><leafsize>13.4 x 10.5 cm.</leafsize><medium>relief etching with touches of white-line etching on some
+plates</medium><printingstyle>relief, with rudimentary color printing on most
+plates and touches of monochrome wash on a few plates,
+particularly plate 6</printingstyle><inkcolor>burnt umber and
+olive brown</inkcolor><support>wove paper</support><watermark>TAYLOR <note>The watermark appears only on plate 11 as
+arranged here.</note></watermark><etchednumbers>none <note>The etched numbers (I-VI, I-II) are
+headings, not plate numbers.</note></etchednumbers><pennednumbers>none</pennednumbers><framelines>none</framelines><binding>brown russia</binding><stabholes>none</stabholes></objinfo><provenance n="1"><name>Yale Center for British Art</name><date>1992</date><dealer>none</dealer><price>gift</price><note>Assembled from the "50" loose plates sold anonymously (by
+Frederick Tatham), Sotheby's, 29 April 1862, lot 197 (16s. to
+Richard Monckton Milnes); Milnes' son, the Earl of Crewe; sold by
+Crewe, Sotheby's, 30 March 1903, lot 10 (£53 to the dealer
+Bernard Quaritch acting for William A. White; acquired (by
+bequest?) in 1929 by White's daughter, Frances White Moffat
+(later Mrs. William Emerson); sold by Emerson through the dealer
+Thomas J. Gannon to Paul Mellon in 1941 for $2100; given by
+Mellon to the Yale Center for British Art in 1992.</note></provenance><repository><institution>Yale Center for British Art</institution><addressline>1080 Chapel Street</addressline><addressline>New Haven, CT 06520-8280</addressline><addressline>USA</addressline><addressline>Mail: Box 208280</addressline><addressline>New Haven, CT 06520-8280</addressline><addressline>USA</addressline><addressline>E-mail: bacinfo@yale.edu</addressline><addressline>Telephone: 203-432-2800 or 203-432-2850</addressline><addressline>Fax: 203-432-9695</addressline><addressline>URL: http://www.yale.edu/ycba/</addressline><department>Department of Prints and Drawings</department><collection>Yale Center for British Art</collection><repositoryid label="Call number">B1992.2.15(1-11)</repositoryid></repository></source><desc id="nnr.b.illbk.01" dbi="nnr.B.P1-a1"><objtitle><title type="transcribed">There is No Natural Religion</title>,
+<objid><objnumber code="A1">object 1 </objnumber><objcode code="Ba1">(Bentley a1, </objcode><objcode code="Ea1">Erdman a1, </objcode><objcode code="Ka2">Keynes a2)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.3 x 4.5 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="E"><illusobjdesc>Two youthful males, both nude and with curly hair, stand
+on the right.  The youth furthest to the right appears to have his left
+arm raised and may have his left hand resting on the tree trunk near the
+right margin.  The youth furthest to the left holds a shepherd's crook
+in his right hand, although this prints as only a barely-visible line.
+On the left is a seated couple; both the old man, with a long beard, and
+the woman wear gowns.  The man appears to be seated on a fluted pillar.
+The woman may be wearing drapery (a scarf?) over her head.  Another tree
+stands along the left margin; its branches and leaves form a canopy over
+the seated figures.  Mountains dominate the distant
+landscape.</illusobjdesc><component type="figure" location="BD"><characteristic>male</characteristic><characteristic>young</characteristic><characteristic>nude</characteristic><characteristic>standing</characteristic><characteristic>contrapposto</characteristic><characteristic>arm raised</characteristic><characteristic>arm at side</characteristic><characteristic>facing left</characteristic><characteristic>facing down</characteristic><characteristic>curly hair</characteristic><illusobjdesc>A youthful male, nude and with curly hair, stands on the
+right.  He appears to have his left arm raised, perhaps with his left
+hand resting on the tree trunk near the right margin.  His right arm is
+at his side.  His body suggests a contrapposto posture.  He looks down
+and to the left.</illusobjdesc></component><component type="figure" location="BD"><characteristic>male</characteristic><characteristic>young</characteristic><characteristic>nude</characteristic><characteristic>standing</characteristic><characteristic>holding</characteristic><characteristic>arms at side</characteristic><characteristic>curly hair</characteristic><characteristic>facing right</characteristic><characteristic>shepherd's crook</characteristic><illusobjdesc>A youthful male, nude and with curly hair, stands to the
+left of another such figure.  He holds a shepherd's crook in his right
+hand, although this prints only as a barely-visible line (drawn clearly
+in pen and ink in copies D, G, M).  Both arms are at his side.  His face
+is partly turned to the right; he may be looking at his
+companion.</illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>old</characteristic><characteristic>beard</characteristic><characteristic>sitting</characteristic><characteristic>long hair</characteristic><characteristic>arms at side</characteristic><characteristic>arm dangling</characteristic><characteristic>gown</characteristic><characteristic>facing right</characteristic><illusobjdesc>An old, bearded man with long hair sits on a fluted
+pillar.  He wears a long gown and looks to the right.  His right
+arm dangles at his side.</illusobjdesc></component><component type="figure" location="C"><characteristic>female</characteristic><characteristic>drapery</characteristic><characteristic>sitting</characteristic><characteristic>scarf</characteristic><characteristic>facing right</characteristic><characteristic>arms at side</characteristic><characteristic>gown</characteristic><illusobjdesc>A woman sits behind and to the right of the old bearded
+man.  She wears a gown and has drapery (a scarf?) over her head.  Her
+left arm rests at her side.  Her face is partly turned to the
+right.</illusobjdesc></component><component type="vegetation" location="BD"><characteristic>tree</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><illusobjdesc>A tree stands on the right.  Its branches and perhaps some
+leaves spread out near the top of the plate.</illusobjdesc></component><component type="vegetation" location="E"><characteristic>tree</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><illusobjdesc>A tree stands on the left.  Its branches and leaves
+form a canopy at the top of the plate.</illusobjdesc></component><component type="structure" location="C"><characteristic>pillar</characteristic><illusobjdesc>The old, bearded man on the left sits on what appears to
+be a fluted pillar.</illusobjdesc></component><component type="object" location="AB"><characteristic>hill</characteristic><characteristic>mountain</characteristic><illusobjdesc>The landscape background is dominated by two ranges of
+hills or mountains.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="8"/><lg type="prose" justify="left"><l n="nnr.b.illbk.01.01" justify="left" indent="10">The Author &amp; Printer W Blake<note>In reverse lettering, partly obscured by hand coloring.</note></l></lg></phystext></desc><desc id="nnr.b.illbk.02" dbi="nnr.B.P2-a3"><objtitle>,
+<objid><objnumber code="A2">object 2 </objnumber><objcode code="Ba3">(Bentley a3, </objcode><objcode code="Ea3">Erdman a3, </objcode><objcode code="Ka3">Keynes a3)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.0 x 4.3 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="CD"><illusobjdesc>The center of the design is dominated by a seated figure,
+probably female, wearing a long gown.  Her legs are crossed and she
+holds a book or tablet on her right knee and may be writing or drawing
+on it with her left hand.  On the right is a much smaller standing
+figure, probably a young girl.  She is gowned and may be holding a book
+or piece of paper from which she reads.  On the left is a
+figure—perhaps a young boy—lying on the ground but with his
+torso propped up on his left elbow.  He looks down and may be reading or
+writing in a book.  There are two trees near the right margin and
+another, with a vine around its trunk near the left margin.  The design
+would seem to relate to the theme of "Education" (E2) in the
+text.</illusobjdesc><component type="figure" location="CD"><characteristic>female</characteristic><characteristic>gown</characteristic><characteristic>sitting</characteristic><characteristic>holding</characteristic><characteristic>twisted</characteristic><characteristic>legs crossed</characteristic><characteristic>knees</characteristic><characteristic>drawing</characteristic><characteristic>writing</characteristic><characteristic>book</characteristic><characteristic>tablet</characteristic><illusobjdesc>A seated and gowned figure, probably female, holds a book
+or tablet on her prominent right knee and may be writing or drawing on
+it with her left hand.  Her legs are crossed and her upper body is
+slightly twisted to the right.</illusobjdesc></component><component type="figure" location="D"><characteristic>female</characteristic><characteristic>child</characteristic><characteristic>young</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>holding</characteristic><characteristic>facing left</characteristic><characteristic>facing down</characteristic><characteristic>reading</characteristic><characteristic>book</characteristic><characteristic>paper</characteristic><illusobjdesc>A gowned figure, perhaps a young girl, stands right of the
+larger, seated figure.  She looks down and to the left and perhaps reads
+in a book or a piece of paper she holds in her hands.</illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>child</characteristic><characteristic>young</characteristic><characteristic>lying</characteristic><characteristic>holding</characteristic><characteristic>arm braced</characteristic><characteristic>facing down</characteristic><characteristic>reading</characteristic><characteristic>writing</characteristic><characteristic>book</characteristic><illusobjdesc>A figure, perhaps a young boy, lies on the ground left of
+the larger seated figure.  His torso is propped up on his left elbow.
+He looks down and may be reading or writing (with his right hand) in a
+book.</illusobjdesc></component><component type="vegetation" location="D"><characteristic>tree</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><illusobjdesc>Two trees, with indications of branches and leaves,
+grow near the right margin.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>tree</characteristic><characteristic>trunk</characteristic><characteristic>leaf</characteristic><characteristic>vine</characteristic><characteristic>spiral</characteristic><illusobjdesc>A tree, or at least the trunk of a tree, grows
+near the left margin.  A vine spirals around this
+tree.  There are indications of leaves growing from the tree or
+vine.</illusobjdesc></component></illustration><illustration type="interlinear" location="AB"><illusobjdesc>Several representational images hover around or on the
+letters of the heading ("The Argument").  These are, from left to right,
+a figure hovering above the space between the two words; a figure
+standing but leaning against the left diagonal of the "A"; a figure
+right of the right diagonal of the "A," probably reaching up and to the
+right toward a bird hovering above the "u" and "m."  It is unclear
+whether we are viewing the figures on the "A" from the front or the
+back.  The first and last letters of the heading terminate in vine-like
+decorations.  Other vines, one with a single loop, extend between the
+heading and the first line of text.</illusobjdesc><component type="figure" location="A"><characteristic>standing</characteristic><characteristic>leaning</characteristic><characteristic>looking</characteristic><illusobjdesc>A figure hovers between the two words of the heading.  He
+or she may be looking down toward the figure just below and to the
+right.</illusobjdesc></component><component type="figure" location="A"><characteristic>standing</characteristic><characteristic>leaning</characteristic><illusobjdesc>A figure stands but leans against the left diagonal of the
+"A."  It is unclear whether we are seeing the figure from the front or
+the back.</illusobjdesc></component><component type="figure" location="A"><characteristic>standing</characteristic><characteristic>reaching</characteristic><characteristic>arm raised horizontally</characteristic><illusobjdesc>A figure stands just right of the second diagonal of the
+"A" in "Argument."  It is unclear whether we are seeing the figure from
+the front or the back.  The figure's arm on the left may be raised
+horizontally to hold onto the letter.</illusobjdesc></component><component type="animal" location="B"><characteristic>bird</characteristic><characteristic>flying</characteristic><characteristic>wing</characteristic><characteristic>swan</characteristic><characteristic>stork</characteristic><characteristic>crane</characteristic><characteristic>tail</characteristic><illusobjdesc>A bird with extended wings flies above the "u" and "m" of
+"Argument."  The direction of its flight is unclear, but the long
+extensions both right and left suggest a long neck (hence, a swan,
+crane, or stork?) and a long tail.</illusobjdesc></component><component type="vegetation" location="A"><characteristic>vine</characteristic><illusobjdesc>The ends of the "T" on the far left terminate in
+vine-like decorations.</illusobjdesc></component><component type="vegetation" location="B"><characteristic>vine</characteristic><illusobjdesc>The ends of the "t" terminate in vine-like
+decorations.</illusobjdesc></component><component type="vegetation" location="AB"><characteristic>vine</characteristic><characteristic>loop</characteristic><illusobjdesc>Vines, one with a single loop, extend between the
+heading and the first line of text.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.02.01" justify="left" indent="5">The Argument</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.02.02" justify="left">Man has no notion of moral</l><l n="nnr.b.illbk.02.03" justify="left">fitness but from Education</l><l n="nnr.b.illbk.02.04" justify="left">Naturally he is only a natu-</l><l n="nnr.b.illbk.02.05" justify="left">ral organ subject to Sense.</l></lg></phystext></desc><desc id="nnr.b.illbk.03" dbi="nnr.B.P3-a4"><objtitle>,
+<objid><objnumber code="A3">object 3 </objnumber><objcode code="Ba4">(Bentley a4, </objcode><objcode code="Ea4">Erdman a4, </objcode><objcode code="Ka4">Keynes a4)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.2 x 4.2 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="E"><illusobjdesc>A nude old man leans heavily on a large staff or walking
+stick and looks down at a dog lying on the ground.  The man's long beard
+cascades next to the staff.  He may be bald, but perhaps with a
+forelock.  The background landscape includes a small hill and a clump of
+trees on the left.  A tree grows near the right margin in the
+foreground.  One branch forms a canopy over the old man; another branch
+climbs along the right margin.  A vine spirals around the trunk of the
+tree and the branch near the upper right margin.  This vine continues
+horizontally along the top of the plate.  There there may be two birds,
+or bird-like sprigs of vegetation, just left and right of the heading
+number ("I").</illusobjdesc><component type="figure" location="D"><characteristic>male</characteristic><characteristic>old</characteristic><characteristic>nude</characteristic><characteristic>standing</characteristic><characteristic>bending forward</characteristic><characteristic>holding</characteristic><characteristic>arm bent</characteristic><characteristic>facing left</characteristic><characteristic>facing down</characteristic><characteristic>bald</characteristic><characteristic>forelock</characteristic><characteristic>beard</characteristic><characteristic>staff</characteristic><characteristic>walking stick</characteristic><illusobjdesc>A nude old man leans heavily on a staff or walking stick.
+He faces left and looks down at a dog lying on the ground.  The man's
+long beard cascades next to the staff.  He may be bald, but perhaps with
+a forelock.  His left arm is bent at the elbow, the forearm extended
+upward along the staff.</illusobjdesc></component><component type="animal" location="CD"><characteristic>dog</characteristic><characteristic>lying</characteristic><characteristic>legs spread</characteristic><characteristic>facing right</characteristic><characteristic>facing up</characteristic><illusobjdesc>A dog lies on the ground, front legs spread apart.  He
+faces right and looks up to the old man on the right.</illusobjdesc></component><component type="animal" location="AB"><characteristic>bird</characteristic><characteristic>wing</characteristic><characteristic>flying</characteristic><illusobjdesc>Form just left and right of the heading number ("I") might
+be flying birds rather than part of the vegetation.</illusobjdesc></component><component type="vegetation" location="E"><characteristic>tree</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><illusobjdesc>A tree grows near the right margin.  One of its branches,
+perhaps bearing leaves, arches above the old man and dog.  Another
+branch curves upward along the right margin.</illusobjdesc></component><component type="vegetation" location="E"><characteristic>vine</characteristic><characteristic>spiral</characteristic><characteristic>leaf</characteristic><illusobjdesc>A vine spirals around the trunk of the tree and its
+branch near the right margin.  The vine continues horizontally
+along the top margin of the plate, where it may bear a few
+leaves.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>tree</characteristic><characteristic>leaf</characteristic><illusobjdesc>A clump of trees fills the landscape background on the
+left.</illusobjdesc></component><component type="object" location="CD"><characteristic>hill</characteristic><illusobjdesc>A low hill fills the landscape to the right and left of
+the old man.  Given the distance and perspective, this hill rises
+between his knees and hips.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.03.01" justify="left" indent="14">I</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.03.02" justify="left" indent="4">Man cannot naturally Per-</l><l n="nnr.b.illbk.03.03" justify="left">-cieve. but through his natural</l><l n="nnr.b.illbk.03.04" justify="left" indent="1">or bodily organs</l></lg></phystext></desc><desc id="nnr.b.illbk.04" dbi="nnr.B.P4-a5"><objtitle>,
+<objid><objnumber code="A4">object 4 </objnumber><objcode code="Ba5">(Bentley a5, </objcode><objcode code="Ea5">Erdman a5, </objcode><objcode code="Ka5">Keynes a5)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.0 x 3.9 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="E"><illusobjdesc>A woman, with long or medium-length hair and wearing a
+long gown, kneels on the ground.  She looks down and to the right at a
+young child she holds around with waist with her extended right arm and
+hand (left arm not pictured).  The child, also kneeling and facing
+right, is probably male; there are no clear indications of clothing.  He
+extends his arms horizontally toward a small bird near the right margin.
+These motifs may relate to the theme of "desires" (E2) first raised
+textually on plate a8.  The background, right of the woman and above the
+child, is filled with a clump of trees.  A large, leafless tree grows up
+the left margin and spreads a branch between the heading number ("II")
+and the first line of text.</illusobjdesc><component type="figure" location="CD"><characteristic>female</characteristic><characteristic>gown</characteristic><characteristic>long hair</characteristic><characteristic>facing right</characteristic><characteristic>facing down</characteristic><characteristic>kneeling</characteristic><characteristic>holding</characteristic><characteristic>arms raised</characteristic><illusobjdesc>A woman, with long or medium-length hair and wearing a
+long gown, kneels on the ground.  She looks down and to the right at a
+young child she holds around the waist with her extended right arm and
+hand (left arm not pictured).</illusobjdesc></component><component type="figure" location="D"><characteristic>child</characteristic><characteristic>young</characteristic><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>reaching</characteristic><characteristic>facing right</characteristic><characteristic>curly hair</characteristic><illusobjdesc>A young child, probably male and with no clear indications
+of clothing, kneels on the ground and faces to the right.  His hair may
+be curly.  While being held by a woman on the left, the child reaches,
+arms extended horizontally, toward a small bird near the right
+margin.</illusobjdesc></component><component type="animal" location="D"><characteristic>bird</characteristic><characteristic>wing</characteristic><characteristic>flying</characteristic><illusobjdesc>A bird flies from the grasp of a
+child.</illusobjdesc></component><component type="vegetation" location="D"><characteristic>tree</characteristic><characteristic>leaf</characteristic><illusobjdesc>The landscape background is filled with
+trees.</illusobjdesc></component><component type="vegetation" location="E"><characteristic>tree</characteristic><characteristic>leafless</characteristic><characteristic>branch</characteristic><illusobjdesc>A leafless tree grows up the left margin.  One if its
+branches extends between the heading number ("II") and the first line of
+text.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.04.01" justify="left" indent="8">II</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.04.02" justify="left" indent="3">Man by his reason-</l><l n="nnr.b.illbk.04.03" justify="left">-ing power. can only</l><l n="nnr.b.illbk.04.04" justify="left" indent="1">compare &amp; judge of</l><l n="nnr.b.illbk.04.05" justify="left" indent="1">what he has already</l><l n="nnr.b.illbk.04.06" justify="left" indent="1">perciev'd.</l></lg></phystext></desc><desc id="nnr.b.illbk.05" dbi="nnr.B.P5-a6"><objtitle>,
+<objid><objnumber code="A5">object 5 </objnumber><objcode code="Ba6">(Bentley a6, </objcode><objcode code="Ea6">Erdman a6, </objcode><objcode code="Ka6">Keynes a6)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.0 x 3.7 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="E"><illusobjdesc>A man, with curly hair and beard, sits on the ground.  He
+may be wearing a gown, as indicated by folds over his left hip.  He is
+facing to the left and reaching with both arms in the same direction.
+His legs are extended horizontally to the left.  A winged and nude
+putto, visible from the waist up, appears behind the seated man's legs.
+This second figure looks to the right and reaches toward, and perhaps
+touches, the seated man's right shoulder with his left hand.  The
+putto's right arm is raised, with one finger of his right hand pointing
+heavenward.  This gesture, and simply the winged child himself, may
+indicate the spiritual perceptions not available to the "3 senses" (E2).
+A slender tree or vine, intertwined with a second vine, grows up the
+right margin and extends in loops horizontally above and below the
+heading number ("III") and terminates in three spirals.  There may be
+some plants left of the putto, lower left.</illusobjdesc><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>reaching</characteristic><characteristic>sitting</characteristic><characteristic>leg extended</characteristic><characteristic>facing left</characteristic><characteristic>curly hair</characteristic><characteristic>beard</characteristic><illusobjdesc>A man, with curly hair and beard, sits on the ground.  He
+may be wearing a gown, as indicated by folds over his left hip.  He is
+facing to the left, with legs extended in the same direction, and
+reaching with both arms to the left.</illusobjdesc></component><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>child</characteristic><characteristic>putto</characteristic><characteristic>wing</characteristic><characteristic>reaching</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>arm raised vertically</characteristic><characteristic>pointing</characteristic><characteristic>fingers</characteristic><characteristic>facing right</characteristic><characteristic>upper body</characteristic><illusobjdesc>A winged putto, seen from the waist up, appears behind the
+legs of the seated man.  The putto's left arm is extended horizontally;
+his left hand reaches toward, and may touch, the right shoulder of the
+seated man.  The putto's right arm is raised and a finger on his right
+hand points heavenward.  There are no clear indications of
+clothing.</illusobjdesc></component><component type="vegetation" location="E"><characteristic>tree</characteristic><characteristic>vine</characteristic><characteristic>loop</characteristic><characteristic>spiral</characteristic><illusobjdesc>A slender tree or vine, intertwined with a second vine,
+grows up the right margin and extends in loops horizontally above and
+below the heading number ("III") and terminates in three
+spirals.</illusobjdesc></component><component type="vegetation" location="BD"><characteristic>vine</characteristic><characteristic>intertwined</characteristic><illusobjdesc>A vine is intertwined around the tree or vine
+growing
+up the right margin.  This second vine seems to end in the top
+right corner; the larger tree or vine extends horizontally to the
+left margin.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>plant</characteristic><illusobjdesc>There may be some plants left of the putto, lower
+left.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.05.01" justify="left" indent="10">III</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.05.02" justify="left" indent="3">From a perception of</l><l n="nnr.b.illbk.05.03" justify="left" indent="1">only 3 senses or 3 ele</l><l n="nnr.b.illbk.05.04" justify="left">-ments none could de-</l><l n="nnr.b.illbk.05.05" justify="left">-duce a fourth or fifth</l></lg></phystext></desc><desc id="nnr.b.illbk.06" dbi="nnr.B.P6-a7"><objtitle>,
+<objid><objnumber code="A6">object 6 </objnumber><objcode code="Ba7">(Bentley a7, </objcode><objcode code="Ea7">Erdman a7, </objcode><objcode code="Ka7">Keynes a7)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>4.7 x 3.9 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="E"><illusobjdesc> A man, perhaps wearing tights or some other body-hugging
+costume, sits on the ground with his back against a tree.  He is playing
+a pipe, held near his mouth with his right hand and lower on the pipe
+with his left.  He faces to the right, with his legs extended to the
+right and crossed at the knee.  He wears a hat, decorated with what
+appear to be feathers.  The landscape on the right is composed of a low
+hill and a grove of trees (covered, in this copy, with a gray wash,
+almost completely obscuring these motifs).  A single tree extends up the
+left margin, although in this copy it can barely be seen left of the
+text.  Three birds fly in the sky above the text and on each side of the
+heading number ("IV").</illusobjdesc><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>tights</characteristic><characteristic>sitting</characteristic><characteristic>leaning</characteristic><characteristic>legs extended</characteristic><characteristic>legs crossed</characteristic><characteristic>playing</characteristic><characteristic>facing right</characteristic><characteristic>holding</characteristic><characteristic>arm raised</characteristic><characteristic>arms bent</characteristic><characteristic>hat</characteristic><characteristic>feather</characteristic><characteristic>pipe</characteristic><illusobjdesc>A man, perhaps wearing tights or some other
+body-hugging costume, sits on the ground with his back against a
+tree.  He is playing a pipe, held near his mouth with his right
+hand and lower on the pipe with his left.  He faces to the right,
+with his legs extended to the right and crossed at the knee.  He
+wears a hat, decorated with what appear to be two or three
+feathers.</illusobjdesc></component><component type="object" location="CD"><characteristic>tree</characteristic><characteristic>hill</characteristic><illusobjdesc>The landscape above the seated figure includes a low hill
+and a grove of trees (covered, in this copy, with a gray wash, almost
+completely obscuring these motifs).</illusobjdesc></component><component type="vegetation" location="AC"><characteristic>tree</characteristic><characteristic>branch</characteristic><illusobjdesc>A tree grows up the left margin, although in this
+copy it can barely be seen left of the text.  One short branch
+arches to the right near the top of the plate.</illusobjdesc></component><component type="animal" location="AB"><characteristic>bird</characteristic><characteristic>flying</characteristic><characteristic>wing</characteristic><illusobjdesc>Three birds fly above the text, one left of the
+heading number ("IV") and two right of the number.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.06.01" justify="left" indent="11">IV</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.06.02" justify="left" indent="3">None could have other</l><l n="nnr.b.illbk.06.03" justify="left">than natural or organic</l><l n="nnr.b.illbk.06.04" justify="left">thoughts if he had none</l><l n="nnr.b.illbk.06.05" justify="left">but organic perceptions</l></lg></phystext></desc><desc id="nnr.b.illbk.07" dbi="nnr.B.P7-a8"><objtitle>,
+<objid><objnumber code="A7">object 7 </objnumber><objcode code="Ba8">(Bentley a8, </objcode><objcode code="Ea8">Erdman a8, </objcode><objcode code="Ka8">Keynes a8)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>4.7 x 3.5 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="E"><illusobjdesc>A boy with curly hair strides, right foot forward, back
+and to the left.  He wears knee-length breeches and perhaps a shirt.
+With arms extended horizontally to the left and fingers spread open on
+at least his left hand, he reaches toward a duck or swan floating on a
+small body of water (perhaps a river or lake).  The boy's gestures
+suggest the theme of "Mans desires" (E2) in the text.  A tree, with an
+intertwined vine, grows up the left margin.  One of the tree's branches,
+perhaps bearing a few spiky leaves, arches over the heading number and
+text at the top of the plate.  A dark shadow extends along the ground
+from the base of the tree on the left to the boy's feet on the
+right.</illusobjdesc><component type="figure" location="D"><characteristic>male</characteristic><characteristic>child</characteristic><characteristic>young</characteristic><characteristic>striding</characteristic><characteristic>facing left</characteristic><characteristic>curly hair</characteristic><characteristic>breeches</characteristic><characteristic>shirt</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>fingers</characteristic><characteristic>reaching</characteristic><illusobjdesc>A boy with curly hair strides, right foot forward, back
+and to the left.  He wears knee-length breeches and perhaps a shirt.
+With arms extended horizontally to the left and fingers spread open on
+at least his left hand, he reaches toward a duck or swan on the
+left.</illusobjdesc></component><component type="animal" location="C"><characteristic>bird</characteristic><characteristic>swan</characteristic><characteristic>duck</characteristic><characteristic>facing right</characteristic><characteristic>floating</characteristic><illusobjdesc>A duck or swan floats on a small body of water,
+perhaps a lake or river.  The bird faces to the
+right.</illusobjdesc></component><component type="vegetation" location="E"><characteristic>tree</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><characteristic>arching</characteristic><illusobjdesc>A tree grows up the left margin of the plate.  One of its
+branches, bearing a few spiky leaves, arches over the heading number and
+text at the top of the plate.</illusobjdesc></component><component type="vegetation" location="AC"><characteristic>vine</characteristic><characteristic>entwined</characteristic><illusobjdesc>A vine is entwined around the lower half of the
+tree
+near the left margin.</illusobjdesc></component><component type="object" location="CD"><characteristic>water</characteristic><characteristic>lake</characteristic><characteristic>river</characteristic><illusobjdesc>The bird lower left appears to be floating on a
+small
+body of water, perhaps a lake or river.</illusobjdesc></component><component type="object" location="CD"><characteristic>shadow</characteristic><characteristic>dark</characteristic><illusobjdesc>A dark shadow extends along the ground from the
+base
+of the tree on the left to the boy's feet on the
+right.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.07.01" justify="left" indent="8">V</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.07.02" justify="left" indent="2">Mans desires are</l><l n="nnr.b.illbk.07.03" justify="left">limited by his percepti</l><l n="nnr.b.illbk.07.04" justify="left" indent="4">ons. none can de</l><l n="nnr.b.illbk.07.05" justify="left">-sire what he has not</l><l n="nnr.b.illbk.07.06" justify="left">perciev'd</l></lg></phystext></desc><desc id="nnr.b.illbk.08" dbi="nnr.B.P8-a9"><objtitle>,
+<objid><objnumber code="A8">object 8 </objnumber><objcode code="Ba9">(Bentley a9, </objcode><objcode code="Ea9">Erdman a9, </objcode><objcode code="Ka9">Keynes a9)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.4 x 4.3 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="E"><illusobjdesc>A figure, probably male, lies on the ground with his legs
+extended to the left and perhaps crossed.  He props up his upper body
+with his arms.  He holds his head in his left hand in a posture
+traditionally associated with melancholy.  There are no clear
+indications of clothing.  He looks down at what may be a book held by
+his right forearm and hand.  The long, spiky leaves of two plants, or
+exceptionally long grasses, arch over his head from both the right and
+left sides of the plate.  A tree grows up the right margin; its branches
+and leaves extend horizontally along the top of the plate.  A vine is
+entwined around the tree's trunk.  One tendril of the vine terminates in
+a lily-like flower just above and slightly to the right of the figure's
+head.</illusobjdesc><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>lying</characteristic><characteristic>arms bent</characteristic><characteristic>head on hand</characteristic><characteristic>melancholy</characteristic><characteristic>facing down</characteristic><characteristic>reading</characteristic><characteristic>holding</characteristic><characteristic>legs crossed</characteristic><characteristic>leg extended</characteristic><characteristic>book</characteristic><illusobjdesc>A figure, probably male, lies on the ground with his legs
+extended to the left and perhaps crossed.  He props up his upper body
+with his arms.  He holds his head in his left hand in a posture
+traditionally associated with melancholy.  There are no clear
+indications of clothing.  He looks down at what may be a book held by
+his right forearm and hand.</illusobjdesc></component><component type="vegetation" location="CD"><characteristic>plant</characteristic><characteristic>leaf</characteristic><characteristic>grass</characteristic><characteristic>arching</characteristic><illusobjdesc>The long leaves of two plants, or very long
+grasses,
+arch over the figure.</illusobjdesc></component><component type="vegetation" location="E"><characteristic>tree</characteristic><characteristic>leaf</characteristic><characteristic>branch</characteristic><illusobjdesc>A tree grows up the right margin.  Its branches and
+leaves extend horizontally along the top margin of the
+plate.</illusobjdesc></component><component type="vegetation" location="AC"><characteristic>vine</characteristic><characteristic>intertwined</characteristic><characteristic>flower</characteristic><characteristic>lily</characteristic><illusobjdesc>A vine is intertwined around the tree near the
+right
+margin of the plate.  One of the vine's tendrils terminates in a
+lily-like flower just above and slightly to the right of the
+figure's head.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.08.01" justify="left" indent="12">VI</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.08.02" justify="left" indent="2">The desires &amp; percepti-</l><l n="nnr.b.illbk.08.03" justify="left">-ons of man untaught by</l><l n="nnr.b.illbk.08.04" justify="left">any thing but organs of</l><l n="nnr.b.illbk.08.05" justify="left">sense, must be limited</l><l n="nnr.b.illbk.08.06" justify="left">to objects of sense.</l></lg></phystext></desc><desc id="nnr.b.illbk.09" dbi="nnr.B.P9-b3"><objtitle>,
+<objid><objnumber code="A9">object 9 </objnumber><objcode code="Bb3">(Bentley b3, </objcode><objcode code="Eb3">Erdman b3, </objcode><objcode code="Kb3">Keynes b3)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.9 x 4.0 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="CD"><illusobjdesc>A gowned man, with curly hair and a long beard, lies on
+the ground.  He props up his upper body on his elbows and apparently
+reads, or writes with his left hand, in a book on the ground before him.
+On the left is a clump of vegetation or perhaps the stump of a
+tree.</illusobjdesc><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>curly hair</characteristic><characteristic>beard</characteristic><characteristic>lying</characteristic><characteristic>leg extended</characteristic><characteristic>arms bent</characteristic><characteristic>reading</characteristic><characteristic>writing</characteristic><characteristic>facing down</characteristic><characteristic>book</characteristic><illusobjdesc>A gowned man, with curly hair and a long beard, lies on
+the ground.  He props up his upper body on his elbows and apparently
+reads, or writes with his left hand, in a book on the ground before
+him.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>tree</characteristic><characteristic>stump</characteristic><characteristic>indeterminate</characteristic><illusobjdesc>There is a clump of vegetation, or perhaps the stump of a
+tree, in the lower left corner of the plate.</illusobjdesc></component></illustration><illustration type="interlinear" location="A"><illusobjdesc>Vines or several branches spring from the first letter of
+the text and arch to the right.</illusobjdesc><component type="vegetation" location="A"><characteristic>vine</characteristic><characteristic>branch</characteristic><characteristic>arching</characteristic><illusobjdesc>Vines or several branches spring from the first letter of
+the text and arch to the right.</illusobjdesc></component></illustration><illustration type="interlinear" location="D"><illusobjdesc>A scroll-like vine curls right of the last line of
+text and above the figure.</illusobjdesc><component type="vegetation" location="D"><characteristic>vine</characteristic><characteristic>scroll</characteristic><illusobjdesc>A scroll-like vine curls right of the last line of
+text and above the figure.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.09.01" justify="left" indent="9">I</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.09.02" justify="left" indent="3">Mans percepti-</l><l n="nnr.b.illbk.09.03" justify="left">-ons are not bound</l><l n="nnr.b.illbk.09.04" justify="left">-ed by organs of</l><l n="nnr.b.illbk.09.05" justify="left" indent="1">perception, he per-</l><l n="nnr.b.illbk.09.06" justify="left">-cieves more than</l><l n="nnr.b.illbk.09.07" justify="left" indent="1">sense (tho' ever</l><l n="nnr.b.illbk.09.08" justify="left" indent="1">so acute) can</l><l n="nnr.b.illbk.09.09" justify="left" indent="1">discover</l></lg></phystext></desc><desc id="nnr.b.illbk.10" dbi="nnr.B.P10-b4"><objtitle>,
+<objid><objnumber code="A10">object 10 </objnumber><objcode code="Bb4">(Bentley b4, </objcode><objcode code="Eb4">Erdman b4, </objcode><objcode code="Kb4">Keynes b4)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.6 x 4.2 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="CD"><illusobjdesc>A figure, apparently male, lies rigidly on his back.
+There are no clear indications of clothing.  His face is turned upwards
+and his arms are at his side.  His head rests on a cushion, pillow, or
+perhaps even a block of stone.  He may be sleeping or dead.  Above and
+to the right of his head is a small figure hovering in the air and
+facing to the left.  His/her legs are spread apart and at least one arm
+is extended horizontally to the left.</illusobjdesc><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>lying</characteristic><characteristic>supine</characteristic><characteristic>arms at side</characteristic><characteristic>leg extended</characteristic><characteristic>facing up</characteristic><characteristic>dead</characteristic><characteristic>rigid</characteristic><characteristic>sleeping</characteristic><illusobjdesc>A figure, apparently male, lies rigidly supine.  There are
+no clear indications of clothing.  His face is turned upwards and his
+arms are at his side.  Perhaps he is sleeping or dead.</illusobjdesc></component><component type="figure" location="D"><characteristic>hovering</characteristic><characteristic>facing left</characteristic><characteristic>legs spread</characteristic><characteristic>arm raised horizontally</characteristic><illusobjdesc>A very small figure hovers above the supine figure's head.
+He/she faces left, legs spread apart and with at least one arm raised
+horizontally and extended to the left.</illusobjdesc></component><component type="object" location="D"><characteristic>cushion</characteristic><characteristic>pillow</characteristic><characteristic>stone</characteristic><illusobjdesc>The supine figure's head rests on a cushion, pillow, or
+perhaps even a block of stone.</illusobjdesc></component></illustration><illustration type="interlinear" location="AB"><illusobjdesc>A vine with one loop and perhaps some long leaves
+fills the space left of the heading number ("II").  Right of the
+number is a vine or branch with leaves and perhaps a few
+berries.</illusobjdesc><component type="vegetation" location="A"><characteristic>vine</characteristic><characteristic>loop</characteristic><characteristic>leaf</characteristic><illusobjdesc>A vine with one loop and perhaps some long leaves
+fills the space left of the heading number ("II").</illusobjdesc></component><component type="vegetation" location="B"><characteristic>vine</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><characteristic>berry</characteristic><illusobjdesc>A vine or branch with leaves and perhaps a few
+berries
+fills the space right of the heading number
+("II").</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.10.01" justify="left" indent="8">II</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.10.02" justify="left" indent="1">Reason or the ra-</l><l n="nnr.b.illbk.10.03" justify="left">-tio of all we have</l><l n="nnr.b.illbk.10.04" justify="left" indent="1">already known, is</l><l n="nnr.b.illbk.10.05" justify="left" indent="1">not the same that </l><l n="nnr.b.illbk.10.06" justify="left" indent="1">it shall be when</l><l n="nnr.b.illbk.10.07" justify="left" indent="1">we know more</l></lg></phystext></desc><desc id="nnr.b.illbk.11" dbi="nnr.B.P11-b12"><objtitle>,
+<objid><objnumber code="A11">object 11 </objnumber><objcode code="Bb12">(Bentley b12, </objcode><objcode code="Eb12">Erdman b12, </objcode><objcode code="Kb12">Keynes b12)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>6.1 x 4.6 cm.</objsize><windowsize width="400" height="400"/></physdesc><illusdesc><illustration type="plate" location="CD"><illusobjdesc>A figure, probably male, lies supine on a bed, bier,
+or—if he is of great size—on hills.  His legs appear to be
+crossed at the knees.  His face is turned to his right and thus towards
+us; his right arm dangles rather limply at his side.  There are no clear
+indications of clothing.  Perhaps he is sleeping or dead.  Lines of
+radiance appear around his head.  This last motif suggests that this may
+be Christ, the "God" who "becomes as we are" (E3) in the
+text.</illusobjdesc><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>lying</characteristic><characteristic>nude</characteristic><characteristic>supine</characteristic><characteristic>legs crossed</characteristic><characteristic>arm dangling</characteristic><characteristic>facing forward</characteristic><characteristic>dead</characteristic><characteristic>sleeping</characteristic><characteristic>Christ</characteristic><characteristic>radiance</characteristic><characteristic>hill</characteristic><characteristic>bier</characteristic><characteristic>bed</characteristic><illusobjdesc>A figure, probably male, lies supine on a bed, bier,
+or—if he is of great size—on hills.  His legs appear to be
+crossed at the knees.  His face is turned to his right and thus towards
+us; his right arm dangles rather limply at his side.  There are no clear
+indications of clothing.  Perhaps he is sleeping or dead.  Lines of
+radiance appear around his head.  This last motif suggests that this may
+be Christ, the "God" who "becomes as we are" (E3) in the
+text.</illusobjdesc></component></illustration><illustration type="interlinear" location="AB"><illusobjdesc>Several vines decorate the spaces on all sides of the
+first line of text ("Therefore").  A single vine, very poorly printed in
+this copy, appears above the first four letters.  Left of the word is a
+vine, also poorly printed, with three branches.  A vine with a single
+loop and perhaps some leaves grows at the end of the word.  Two vines
+lie beneath the word; the one on the right has a single loop and
+terminates in three leaves or small flowers.</illusobjdesc><component type="vegetation" location="A"><characteristic>vine</characteristic><illusobjdesc> A vine descends into the margin left of the word
+"Therefore."  Another vine appears above the first four letters of
+"Therefore."  Both are very poorly printed in this copy.</illusobjdesc></component><component type="vegetation" location="B"><characteristic>vine</characteristic><characteristic>loop</characteristic><characteristic>leaf</characteristic><illusobjdesc>A vine with a single loop and perhaps long, slender
+leaves at its termination appears in the margin right of
+"Therefore."</illusobjdesc></component><component type="vegetation" location="A"><characteristic>vine</characteristic><characteristic>leaf</characteristic><illusobjdesc>A vine, perhaps with a few small leaves, appears
+under
+the first four letters of "Therefore."</illusobjdesc></component><component type="vegetation" location="B"><characteristic>vine</characteristic><characteristic>loop</characteristic><characteristic>leaf</characteristic><characteristic>flower</characteristic><illusobjdesc>A vine with a single loop appears beneath and to
+the
+right of the last four letters of "Therefore."  It terminates in
+three leaves or small flowers.</illusobjdesc></component></illustration><illustration type="interlinear" location="B"><illusobjdesc>A vine descends in the margin right of the third
+and
+fourth lines of text.</illusobjdesc><component type="vegetation" location="B"><characteristic>vine</characteristic><illusobjdesc>A vine descends in the margin right of the third
+and
+fourth lines of text.</illusobjdesc></component></illustration><illustration type="interlinear" location="C"><illusobjdesc>A vine appears left of the last line of text
+("is").</illusobjdesc><component type="vegetation" location="C"><characteristic>vine</characteristic><illusobjdesc>A vine appears left of the last line of text
+("is").</illusobjdesc></component></illustration><illustration type="interlinear" location="D"><illusobjdesc>A vine with two loops descends right of the last
+line
+of text ("is") and into the space between the text and the
+illustration at the bottom of the plate.  The vine bears several
+leaves or small flowers.</illusobjdesc><component type="vegetation" location="D"><characteristic>vine</characteristic><characteristic>loop</characteristic><characteristic>leaf</characteristic><characteristic>flower</characteristic><illusobjdesc>A vine with two loops descends right of the last
+line
+of text ("is") and into the space between the text and the
+illustration at the bottom of the plate.  The vine bears several
+leaves or small flowers.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="nnr.b.illbk.11.01" justify="left" indent="1">Therefore</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="nnr.b.illbk.11.02" justify="left">God becomes as</l><l n="nnr.b.illbk.11.03" justify="left">we are, that we</l><l n="nnr.b.illbk.11.04" justify="left">may be as he</l><l n="nnr.b.illbk.11.05" justify="left" indent="5">is</l></lg></phystext></desc></objdesc></bad>
