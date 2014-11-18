@@ -1,0 +1,220 @@
+<HTML><HEAD><TITLE>The William Blake Archive: Request for Permission</TITLE><LINK rev="made" href="mailto:"/><META name="andrea laue" content=""/><META name="generator" content="NoteTab Pro 4.6a"/><META name="keywords" content=""/><META name="description" content=""/><SCRIPT language="JavaScript" type="text/javascript">
+//
+&lt;!--
+
+/*
+If adding elements to this form, remember to change the element numbers in the portions of the script that check for a valid e-mail address and that advise the user to contact the owning institution directly
+*/
+
+
+function ckForm(form) {
+var entry;
+var a;
+var i;
+
+for (i = 0; i &amp;lt; form.elements.length; i++) {
+
+entry = form.elements[i].name;
+a = entry.substring(entry.length - 4);
+
+        if (a == "_req") { 
+
+                if (form.elements[i].value == "") {
+                        alert("Please enter all required information.");
+                        form.elements[i].focus();
+                        return false;
+                }
+        }
+}
+
+
+        if (form.elements[13].value.indexOf("@") == "-1" || form.elements[13].value.indexOf(".") == "-1" || form.elements[13].value == "") {
+                alert("Please enter a valid e-mail address.");
+                form.elements[13].focus();
+                return false;
+        } 
+
+        if (form.elements[17].options[form.elements[17].selectedIndex].value != "transcription") {
+                if (form.elements[20].options[form.elements[20].selectedIndex].value != "Essick Collection" &amp;&amp;
+            form.elements[20].options[form.elements[20].selectedIndex].value != "Library of Congress") {
+                alert("Your request to reproduce " + form.elements[14].value + " copy " + form.elements[15].value + " will be forwarded to the Archive's editors,\n but typically permission to reproduce this item must be obtained from the \n" + form.elements[20].options[form.elements[20].selectedIndex].value + ". You can find complete contact\n information on the Archive's Contributing Collections page.");
+                }
+        }
+
+
+        if (form.elements[24].options[form.elements[24].selectedIndex].value != "transcription") {
+                if (form.elements[27].options[form.elements[27].selectedIndex].value != "Essick Collection" &amp;&amp;
+            form.elements[27].options[form.elements[27].selectedIndex].value != "Library of Congress") {
+                alert("Your request to reproduce " + form.elements[21].value + " copy " + form.elements[22].value + " will be forwarded to the Archive's editors,\n but typically permission to reproduce this item must be obtained from the \n" + form.elements[27].options[form.elements[27].selectedIndex].value + ". You can find complete contact\n information on the Archive's Contributing Collections page.");
+                }
+        }
+
+        if (form.elements[31].options[form.elements[31].selectedIndex].value != "transcription") {
+                if (form.elements[34].options[form.elements[34].selectedIndex].value != "Essick Collection" &amp;&amp;
+            form.elements[34].options[form.elements[34].selectedIndex].value != "Library of Congress") {
+                alert("Your request to reproduce " + form.elements[28].value + " copy " + form.elements[29].value + " will be forwarded to the Archive's editors,\n but typically permission to reproduce this item must be obtained from the \n" + form.elements[34].options[form.elements[34].selectedIndex].value + ". You can find complete contact\n information on the Archive's Contributing Collections page.");
+                }
+        }
+
+
+document.request.submit();
+return true;
+}
+
+// --&gt;
+//
+</SCRIPT><STYLE type="text/css">
+/**/
+ body {
+  background-color:#FAEDCB;
+ }
+ td.c2 {color: dark orange; font-size: 120%}
+ p.c1 {text-align: center}
+/**/
+</STYLE></HEAD><BODY><P class="c1"><IMG src="title_request.gif" border="0" height="40" width="500" alt="Request For Permission to Reuse Archive Materials" align="center"/></P><FORM name="request" action="form_processor.cgi" method="post" id="request"><INPUT type="hidden" name="admin" value="blake@jefferson.village.virginia.edu"/><INPUT type="hidden" name="subject" value="request for permission"/><INPUT type="hidden" name="redirect" value="http://www.iath.virginia.edu/blake/"/><TABLE align="center" border="0" cellspacing="8" cellpadding="0" width="700"><TR align="left" valign="top"><TD align="left" valign="top" colspan="2"><P>Please submit the following information. All information is
+          required unless indicated otherwise below. We will respond to your
+          request via e-mail within a few days. You do not need to acquire
+          permission to use Archive materials for personal uses, such as school
+          projects and assignments.</P></TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2"><P><B>Please Note:</B> Complete this form only if you are requesting
+          to reproduce a work actually represented in the William Blake
+          Archive. We have no authority to grant permission for those works not
+          in the Archive.</P><BR/><BR/><BLOCKQUOTE>
+            What you need our permission for:
+
+            <UL><LI>transcriptions of Blake's texts<BR/></LI><LI>digital images of works held by the <A href="../institutions.html">Essick Collection</A> or the
+              <A href="../institutions.html">Library of
+              Congress</A></LI></UL></BLOCKQUOTE><BR/><BR/><BLOCKQUOTE>
+            What you may need someone else's permission for:
+
+            <UL><LI>digital images in the Archive of works held by <A href="../institutions.html">institutions</A> other than the
+              Essick Collection or the Library of Congress<BR/></LI><LI>any works not present in the Archive</LI></UL></BLOCKQUOTE><P>On the copy index page for each work you will find the name of the
+          institution that holds that work. All copyright notices, accessible
+          by clicking on the Â© symbol under each image, also list the
+          appropriate owning institution.</P></TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2"><HR/></TD></TR><TR align="left" valign="top"><TD class="c2" align="left" valign="top" colspan="2"><B>Section 1:
+        Contact Information</B></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">First name:</TD><TD align="left" valign="top"><INPUT name="01First name_req" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top">Last name:</TD><TD align="left" valign="top"><INPUT name="02Last name_req" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Position (optional):</TD><TD align="left" valign="top"><INPUT name="03Position" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top">Institution or organization
+        (optional):</TD><TD align="left" valign="top"><INPUT name="04Institution" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top"><B>Address:</B></TD><TD align="left" valign="top" colspan="3">Â&#160;</TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Street:</TD><TD align="left" valign="top"><INPUT name="05Street1_req" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top">Street (optional):</TD><TD align="left" valign="top"><INPUT name="06Street2" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top">City:</TD><TD align="left" valign="top"><INPUT name="07City_req" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top">State<BR/>
+        (enter "none" if not from the U.S.):</TD><TD align="left" valign="top"><INPUT name="08State_req" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top">Country:</TD><TD align="left" valign="top"><INPUT name="09Country_req" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top">Daytime phone number:</TD><TD align="left" valign="top"><INPUT name="10Phone" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top">E-mail address:</TD><TD align="left" valign="top"><INPUT name="11Email" type="Text"/></TD><TD align="left" valign="top" colspan="2"/></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">Â&#160;</TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">Â&#160;</TD></TR><TR align="left" valign="top"><TD class="c2" align="left" valign="top" colspan="2"><B>Section 2: What
+        would you like to reproduce?</B></TD></TR><TR align="left" valign="top"><TD align="left" valign="top"><B>First work:</B></TD><TD align="left" valign="top">Â&#160;</TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Title:</TD><TD align="left" valign="top"><INPUT name="12Title1_req" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Copy:</TD><TD align="left" valign="top"><INPUT name="13Copy1_req" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Plates:</TD><TD align="left" valign="top"><INPUT name="14Plates1_req" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Do you wish to reproduce the:</TD><TD align="left" valign="top"><SELECT name="15What1"><OPTION value="transcription">
+            transcription
+          </OPTION><OPTION value="image">
+            image
+          </OPTION><OPTION value="both">
+            both
+          </OPTION></SELECT></TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">If you chose image above, do
+        you wish to reproduce the whole image or only a detail?</TD></TR><TR align="left" valign="top"><TD align="left" valign="bottom" colspan="2"><INPUT name="16Extent1" type="Radio" value="whole" checked="checked"/>Whole<INPUT name="16Extent1" type="Radio" value="detail"/>Detail</TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">Name of the owning
+        institution (this can be found on the "Copy Information" page for each
+        book.):</TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2"><SELECT name="17Collection1"><OPTION value="Essick Collection">
+            Essick Collection
+          </OPTION><OPTION value="Fitzwilliam Museum">
+            The Fitzwilliam Museum
+          </OPTION><OPTION value="Glasgow University Library">
+            Glasgow University Library
+          </OPTION><OPTION value="Houghton Library">
+            The Houghton Library
+          </OPTION><OPTION value="Huntington Library">
+            The Henry E. Huntington Library and Art Gallery
+          </OPTION><OPTION value="Library of Congress">
+            The Library of Congress
+          </OPTION><OPTION value="Pierpont Morgan Library">
+            The Pierpont Morgan Library
+          </OPTION><OPTION value="New York Public Library">
+            The New York Public Library
+          </OPTION><OPTION value="Yale Center for British Art">
+            Yale Center for British Art
+          </OPTION></SELECT></TD></TR><TR align="left" valign="top"><TD align="center" valign="top" colspan="2"><HR width="60%"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top"><B>Second work</B> (optional):</TD><TD align="left" valign="top">Â&#160;</TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Title:</TD><TD align="left" valign="top"><INPUT name="18Title2" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Copy:</TD><TD align="left" valign="top"><INPUT name="19Copy2" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Plates:</TD><TD align="left" valign="top"><INPUT name="20Plates2" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Do you wish to reproduce the:</TD><TD align="left" valign="top"><SELECT name="21What2"><OPTION value="transcription">
+            transcription
+          </OPTION><OPTION value="image">
+            image
+          </OPTION><OPTION value="both">
+            both
+          </OPTION></SELECT></TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">If you chose image above, do
+        you wish to reproduce the whole image or only a detail?</TD></TR><TR align="left" valign="top"><TD align="left" valign="bottom" colspan="2"><INPUT name="22Extent2" type="Radio" value="whole"/>Whole<INPUT name="22Extent2" type="Radio" value="detail"/>Detail</TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">Name of the owning
+        institution (this can be found on the "Copy Information" page for each
+        book.):</TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2"><SELECT name="23Collection2"><OPTION value="none">
+            none
+          </OPTION><OPTION value="Essick Collection">
+            Essick Collection
+          </OPTION><OPTION value="Fitzwilliam Museum">
+            The Fitzwilliam Museum
+          </OPTION><OPTION value="Glasgow University Library">
+            Glasgow University Library
+          </OPTION><OPTION value="Houghton Library">
+            The Houghton Library
+          </OPTION><OPTION value="Huntington Library">
+            The Henry E. Huntington Library and Art Gallery
+          </OPTION><OPTION value="Library of Congress">
+            The Library of Congress
+          </OPTION><OPTION value="Pierpont Morgan Library">
+            The Pierpont Morgan Library
+          </OPTION><OPTION value="New York Public Library">
+            The New York Public Library
+          </OPTION><OPTION value="Yale Center for British Art">
+            Yale Center for British Art
+          </OPTION></SELECT></TD></TR><TR align="left" valign="top"><TD align="center" valign="top" colspan="2"><HR width="60%"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top"><B>Third Work</B> (optional):</TD><TD align="left" valign="top">Â&#160;</TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Title:</TD><TD align="left" valign="top"><INPUT name="24Title3" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Copy:</TD><TD align="left" valign="top"><INPUT name="25Copy3" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Plates:</TD><TD align="left" valign="top"><INPUT name="26Plates3" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Do you wish to reproduce the:</TD><TD align="left" valign="top"><SELECT name="27What3"><OPTION value="transcription">
+            transcription
+          </OPTION><OPTION value="image">
+            image
+          </OPTION><OPTION value="both">
+            both
+          </OPTION></SELECT></TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">If you chose image above, do
+        you wish to reproduce the whole image or only a detail?</TD></TR><TR align="left" valign="top"><TD align="left" valign="bottom" colspan="2"><INPUT name="28Extent3" type="Radio" value="whole"/>Whole<INPUT name="28Extent3" type="Radio" value="detail"/>Detail</TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">Name of the owning
+        institution (This can be found on the "Copy Information" page for each
+        book.):</TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2"><SELECT name="29Collection3"><OPTION value="none">
+            none
+          </OPTION><OPTION value="Essick Collection">
+            Essick Collection
+          </OPTION><OPTION value="Fitzwilliam Museum">
+            The Fitzwilliam Museum
+          </OPTION><OPTION value="Glasgow University Library">
+            Glasgow University Library
+          </OPTION><OPTION value="Houghton Library">
+            The Houghton Library
+          </OPTION><OPTION value="Huntington Library">
+            The Henry E. Huntington Library and Art Gallery
+          </OPTION><OPTION value="Library of Congress">
+            The Library of Congress
+          </OPTION><OPTION value="Pierpont Morgan Library">
+            The Pierpont Morgan Library
+          </OPTION><OPTION value="New York Public Library">
+            The New York Public Library
+          </OPTION><OPTION value="Yale Center for British Art">
+            Yale Center for British Art
+          </OPTION></SELECT></TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">Â&#160;</TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">Â&#160;</TD></TR><TR align="left" valign="top"><TD class="c2" align="left" valign="top" colspan="2"><B>Section 3:
+        Intended Use</B></TD></TR><TR align="left" valign="top"><TD align="left" valign="top"><INPUT name="30Status" type="Radio" value="for profit" checked="checked"/>for profit</TD><TD align="left" valign="top">Â&#160;</TD></TR><TR align="left" valign="top"><TD align="left" valign="top"><INPUT name="30Status" type="Radio" value="not for profit"/>not for profit</TD><TD align="left" valign="top" colspan="2">Â&#160;</TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Medium:</TD><TD align="left" valign="top"><INPUT name="31Medium" type="Radio" value="print"/>Print<INPUT name="31Medium" type="Radio" value="electronic"/>Electronic</TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Describe the potential<BR/>
+        audience for publication:</TD><TD align="left" valign="bottom"><INPUT name="32Audience_req" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top">Date of publication (if known):</TD><TD align="left" valign="top"><INPUT name="33Date of publication" type="Text"/></TD></TR><TR align="left" valign="top"><TD align="center" valign="top" colspan="2">Â&#160;</TD></TR><TR align="left" valign="top"><TD class="c2" align="left" valign="top" colspan="2"><B>Section 4:
+        Additional information</B> (optional):</TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2">
+          Please include any additional but essential information below. Please
+          use this only when information won't fit in the categories and spaces
+          provided above.
+
+          <BR/><BR/></TD></TR><TR align="left" valign="top"><TD align="left" valign="top" colspan="2"><TEXTAREA name="34Additional information" rows="6" cols="60" wrap="PHYSICAL"/></TD></TR><TR align="left" valign="top"><TD align="center" valign="top" colspan="2">Â&#160;</TD></TR><TR align="left" valign="top"><TD align="left" valign="top"><INPUT type="button" value="Submit" onclick="ckForm(this.form)"/></TD><TD align="left" valign="top"><INPUT type="Reset" name="Clear"/></TD></TR></TABLE></FORM><!--This updates automatically- Leave untouched--><P><SCRIPT language="JavaScript">&lt;!--// Begin
+var days = new Array(8);
+days[1] = "Sunday";
+days[2] = "Monday";
+days[3] = "Tuesday";
+days[4] = "Wednesday";
+days[5] = "Thursday";
+days[6] = "Friday";
+days[7] = "Saturday";
+var months = new Array(13);
+months[1] = "January";
+months[2] = "February";
+months[3] = "March";
+months[4] = "April";
+months[5] = "May";
+months[6] = "June";
+months[7] = "July";
+months[8] = "August";
+months[9] = "September";
+months[10] = "October";
+months[11] = "November";
+months[12] = "December";
+var dateObj = new Date(document.lastModified)
+var wday = days[dateObj.getDay() + 1]
+var lmonth = months[dateObj.getMonth() + 1]
+var date = dateObj.getDate()
+var fyear = dateObj.getYear()
+if (fyear &lt; 2000) 
+fyear = fyear + 1900
+document.write("&lt;i&gt;Last Modified: " + wday + ", " + lmonth + " " + date + ", " + fyear + "&lt;/i&gt;&lt;/br/&gt;&lt;i&gt;" + document.URL + "&lt;/i&gt;");
+// End --&gt;</SCRIPT></P></BODY></HTML>

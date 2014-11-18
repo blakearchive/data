@@ -1,0 +1,22 @@
+body{background-color:#FAEDCB;margin-right:4em;margin-left:2em}
+
+.center {text-align: center}
+.indent {margin-left:5em}
+.indent2 {margin-left:7em}
+.larger {text-align:center;font-size:110%}
+.largeindent {margin-left:10em}
+.mediumindent {margin-left:8em}
+.caps {text-transform:capitalize}
+.padding3 {padding-top:3px;padding-bottom:3px}
+.indent3 {margin-left:3em}
+.padding10 {padding-top:10px;padding-bottom:10px}
+.cindent1a {margin-left:2em}
+.cindent1 {margin-left:3em}
+.cindent2 {margin-left:5em}
+.cindent3 {margin-left:7em}
+.cindent4 {margin-left:9em}
+.cindent5 {margin-left:11em}
+
+a:link {color:#003399}
+a:visited {color:#996699}
+a:active {color:#cc0000}

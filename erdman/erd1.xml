@@ -1,0 +1,65 @@
+<teiheader type="aacr2"><filedesc><titlestmt><title>The Complete Poetry and Prose of William Blake: an Electronic Edition</title><author>William Blake</author><editor>David V. Erdman</editor><respstmt><resp>Creation of machine-readable version:</resp><name>Amy Sexton and Institute for Advanced Technology in the Humanities</name><resp>Creation of digital images:</resp><name>Amy Sexton</name><resp>Conversion to TEI.2-conformant markup:</resp><name>Amy Sexton and Institute for Advanced Technology in the Humanities</name><resp>Revisions to accomodate DynaWeb display:</resp><name>Greg Murray, Matthew Kirschenbaum, Andrea Laue</name><resp>DynaWeb programming:</resp><name>David Cosca and Susan Munson</name></respstmt></titlestmt><extent>2826 kilobytes</extent><publicationstmt><publisher>Eaves, Essick, Viscomi; IATH</publisher><pubplace>Charlottesville, Virginia</pubplace><availability><p>Available from: The William Blake Archive</p><p>URL: http://www.blakearchive.org</p></availability><date>©2001</date></publicationstmt><seriesstmt><p>The William Blake Archive</p></seriesstmt><notesstmt><note>Illustrations have been included from the print version.</note><note type="foreword"><p>This file, the electronic Erdman (eE), makes a fitting
+new form for a work which began over thirty years ago in the preparation of
+a text for the printed <title level="m">Concordance to the poetry and prose
+of William Blake</title> and which now will serve as the basis for an even
+more useful electronic version.</p><p>For assistance with this digital edition,
+I am grateful to the University of Georgia Research Foundation and to University
+of Georgia Department of English, especially its research assistants William
+Cole, Margaret Crumpton, Patrick Darden, and Beth-Ann Neighbors. Alexander
+S. Gourlay gave extensive help and valuable advice on several occasions. Also
+offering assistance were Elisa E. Beshero, Gregg A. Hecimovich, Thomas A.
+Vogler, and Paul Yoder. Thanks also to Mark Trevor Smith and Joseph Viscomi
+as the first to spot needed corrections, and Alexander Gourlay, again, for
+many, many more.</p><p>This "beta" release of eE offers an ascii version of
+the 1988 Erdman text, with a line length of 65 characters. The commentary
+and most references to it are not included. Textual notes are indicated by
+a lower-case "t" in the right margin (the notes will be linked to the text
+in a later release). The Erdman page numbers are at the bottom of each page
+of text, surrounded by hyphen and space (- xxx -). A very few typographical
+errors in the printed text have been silently corrected, and soft hyphenations
+have been eliminated.</p><p>Presently in preparation are an SGML version
+of this file, under the auspices of the Blake Archive, and an online concordance.</p><p>Corrections, suggestions, and comments are most welcome.</p><p>Nelson
+Hilton</p><p>3 September 1996</p><p>Digital Blake Text Project</p><p>blaketxt@english.uga.edu</p></note></notesstmt><sourcedesc><biblfull><titlestmt><title>The Complete Poetry and Prose of William Blake</title><author>William Blake</author><respstmt><resp>Editor</resp><name>David V. Erdman</name></respstmt></titlestmt><editionstmt><p>Newly Revised Edition, 1988</p></editionstmt><extent/><publicationstmt><publisher>Doubleday</publisher><pubplace>New York</pubplace><date>1988</date></publicationstmt><seriesstmt><p/></seriesstmt><notesstmt><note/></notesstmt></biblfull></sourcedesc></filedesc><encodingdesc><projectdesc><p>Prepared for The William Blake Archive</p></projectdesc><editorialdecl><p>The dtd for this markup is a composite of TEI dtds.  It was formed by Daniel
+Pitti in the spring of 1997 using Arbortext.</p><p>The TEI dtds used are: tei.2, TEI.mixed, TEI.prose, TEI.verse, TEI.drama,
+ TEI.transcr, TEI.figures, and TEI.linking.</p><p>All sgml files forming this document were verified using SGMLS.</p><p>All quotation marks have been replaced by entities.</p><p>All enjambed text in the printed volume has been formatted in continuous
+lines.</p><p>Ornamental horizontal rules in the print version are indicated by the empty
+TEI tag "lb" for line break, with a "rend" attribute having a value of "hardrule."</p><p>The images exist as archived 300 dpi TIFF images, and as 300 and 100 dpi
+ JPEG versions for general use.</p><p>Images have been made of text with unique and/or difficult to reproduce
+ formatting.  This enables the preservation of the appearance of certain 
+problematic formatting.</p><p>The "rend" attribute has been applied liberally throughout the markup 
+to reflect the orientation of certain text features as they appear in the
+ print version. The most common values assigned to this attribute are  "left,"
+"center," and "right."  A value of "1" for this attribute signifies  that
+a given line, stanza, or paragraph has been indented.</p><p>Three potentially concurrent structures exist within the print version:
+the  logical structure of each component work (e.g., a poem, a letter, etc.);
+ the physical structure of the print volume's pagination; and the  physical
+structure of Blake's original pages and plates.  The markup of  each structure
+will be described in turn.</p><p>The book's logical structures are indicated by the use of numbered  divisional
+tags.  Each logical grouping, or chapter, is marked as "div1",  and the subdivisions
+within each chapter (individual works) are marked as  divisions numbered 1
+through 3 as needed.  Front and back matter are marked  using unnumbered divisions.</p><p>The manuscript's pagination is indicated by the empty TEI tag "pb", or
+ "page break," to which the "n" or number attribute has been applied.  Although
+ the page numbers appear on the bottom of each page in the print version,
+for  ease of use online, the page numbers have been repositioned at the top
+of  each page.  Page content remains the same.</p><p>Blake's original plate or page structures are indicated by the empty TEI
+ "milestone" tag.  The attributes "unit," "n," and "rend" have been added
+to  this tag.  The first attribute describes the discreet structure of  the
+original Blake artifact, be it a page or a plate. The second  indicates the
+archival number assigned to each unit: often, the value of  this attribute
+includes both Erdman's archival number and any number etched  or penned on
+the artifact by Blake.  The third attribute, "rend," indicates  the palcement
+of the unit and number information on a given page in the print  version.
+ In this context, the value of this attribute is usually either  "left" or
+"inline."</p><p>Any editorial or authorial notes contained within the body of the text
+ are indicated by the TEI "note" tag pair, which has a "resp" attribute  indicating
+the person responsible for adding the note.  This attribute has  a value of
+"ed" if the remark was added by Erdman or "auth" if the remark  is Blake's.
+ The latter value is used primarily within chapter 12, The  Marginalia.</p></editorialdecl><refsdecl><p>ID attributes are provided for each technical note.  Each ID is formed
+by  pairing the suffix "TN" with the unique identifying number assigned to
+each  note.  These unique numbers indicate the page number in the primary
+text on  which the note marker appears, and its orientation among the notes
+on that  page. For example, the fifth note on page 365 would have an ID of
+"TN365.5".</p><p>Within the primary text, each technical note marker indicated by a  superscript
+letter "t" in the print version has been replace with the  TEI tag "xptr,"
+which has a "target" attribute containing the ID value  defined above.</p><p>Within the end matter, each technical note is enclosed in TEI "note"  tags
+that have an "id" attribute whose value is described above.</p></refsdecl></encodingdesc><profiledesc><creation><date>1965</date></creation></profiledesc></teiheader>

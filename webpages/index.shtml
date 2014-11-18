@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?><html>
+<head>
+  <title>Welcome to the William Blake Archive</title>
+<script language="JavaScript" type="text/javascript">
+//
+
+&lt;!--
+
+function openWin(URL) {
+archiveWindow = window.open (URL,"newindow","toolbar=no,menubar=no,resizable=yes,scrollbars=yes,width=400,height=650");
+
+}
+
+//--&gt;
+
+//
+</script>
+<script language="JavaScript" type="text/javascript">
+//
+
+&lt;!-- Begin
+// Set up the image files to be used.
+var theImages = new Array() // do not change this
+// To add more image files, continue with the
+// pattern below, adding to the array.
+
+theImages[0] = './welcome_images/america_A_P10_welcome.jpg'
+theImages[1] = './welcome_images/america_A_P12_welcome.jpg'
+theImages[2] = './welcome_images/america_A_P14_welcome.jpg'
+theImages[3] = './welcome_images/bb435_10_welcome.jpg'
+theImages[4] = './welcome_images/but538_2_welcome.jpg'
+theImages[5] = './welcome_images/but543_2_welcome.jpg'
+theImages[6] = './welcome_images/but550_11_welcome.jpg'
+theImages[7] = './welcome_images/europe_E_P11-12_welcome.jpg'
+theImages[8] = './welcome_images/europe_E_P13-14_welcome.jpg'
+theImages[9] = './welcome_images/jerusalem_E_P100_welcome.jpg'
+theImages[10] = './welcome_images/jerusalem_E_P28_welcome.jpg'
+theImages[10] = './welcome_images/jerusalem_E_P37_welcome.jpg'
+theImages[10] = './welcome_images/jerusalem_E_P53_welcome.jpg'
+theImages[10] = './welcome_images/jerusalem_E_P57_welcome.jpg'
+theImages[10] = './welcome_images/milton_C_P10_welcome.jpg'
+theImages[10] = './welcome_images/s-los_B_P5_welcome.jpg'
+theImages[10] = './welcome_images/urizen_G_P2_welcome.jpg'
+theImages[10] = './welcome_images/vda_P_P7_welcome.jpg'
+
+var j = 0
+var p = theImages.length;
+var preBuffer = new Array()
+for (i = 0; i &lt; p; i++){
+    preBuffer[i] = new Image()
+    preBuffer[i].src = theImages[i]
+}
+var whichImage = Math.round(Math.random()*(p-1));
+function showImage(){
+document.write('&lt;img src="'+theImages[whichImage]+'"&gt;');
+}
+
+//  End --&gt;
+//
+</script>
+  <meta name="Description" content="A hypermedia archive sponsored by the Library of Congress and supported by the Preservation and Access Division of the National Endowment for the Humanities, the Institute for Advanced Technology in the Humanities at the University of Virginia, the University of North Carolina at Chapel Hill, Sun Microsystems and Inso Corporation. With past support from the Getty Grant Program and the Paul Mellon Centre for Studies in British Art."/>
+  <meta name="Keywords" content="Blake, William Blake, Blake Archive, William Blake Archive, hypermedia, poetry, illuminated b! illuminated printing, Romanticism, Romantic literature, Romantic art, IATH, humanities computing, electronic editing, Eaves, Essick, Viscomi"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<style type="text/css">
+/**/
+ body {
+  background-color:#FAEDCB;
+ }
+ p.c4 {font-style: italic}
+ p.c3 {font-size: 120%}
+ span.c2 {font-size: 120%}
+ div.c1 {text-align: center}
+/**/
+</style>
+</head>
+
+<body>
+  <div class="c1">
+    <script language="JavaScript" type="text/javascript">
+//
+
+&lt;!-- Begin
+showImage();
+//  End --&gt;
+//
+</script>
+  </div>
+
+
+  <div class="c1">
+    <img src="./title-big.gif" alt="The William Blake Archive"/>
+  </div>
+
+
+  <div class="c1">
+    <span class="c2">A hypermedia archive sponsored by the Library of Congress
+    and supported by the Preservation and Access Division of the National
+    Endowment for the Humanities, the Institute for Advanced Technology in the
+    Humanities at the University of Virginia, the University of North Carolina
+    at Chapel Hill, Sun Microsystems and Inso Corporation. With past support
+    from the Getty Grant Program and the Paul Mellon Centre for Studies in
+    British Art.</span>
+
+    <p class="c3">Editors<br/>
+    Morris Eaves, University of Rochester<br/>
+    Robert Essick, University of California, Riverside<br/>
+    Joseph Viscomi, University of North Carolina at Chapel Hill</p>
+  </div>
+
+
+  <br/><br/>
+
+
+  <div class="c1">
+    <table width="90%" cellpadding="20" border="1">
+      <tr>
+        <td bgcolor="#FFFFFF">
+          WELCOME to the William Blake Archive. We are pleased to offer its
+          resources to you for pleasure, study, or intensive research.
+          (First-time users may wish to read our explanation of the term
+          "<a href="#" onmouseover="openWin('archive.html');">Archive</a>.")
+
+          <p>For best results, access the Archive with the latest version of
+          <a href="http://www.microsoft.com/ie/">Internet Explorer</a> or
+          <a href="http://www.netscape.com/">Netscape Communicator</a>, and, if
+          possible, set your monitor to Gamma 1.8, White Point 5000K. For known
+          problems, please see our <a href="./help/help.html">Help</a>
+          document. If you encounter other problems not mentioned there, please
+          <a href="public/comment.html">let us know</a>.</p>
+
+
+          <p>We ask you to adhere to the terms under which these materials are
+          made available. The Archive as a whole, its texts, and its images are
+          protected under the copyright laws of the United States and the
+          Universal Copyright Convention. The copyright to the William Blake
+          Archive is held by the editors, Morris Eaves, Robert N. Essick, and
+          Joseph Viscomi. The copyright to the images is held by the
+          institutions and individuals who have generously contributed them.
+          The copyright to David V. Erdman's <cite>Complete Poetry and Prose of
+          William Blake</cite> is held by the estate of David V. Erdman.</p>
+
+
+          <p>Publication (print or electronic) or commercial use of any of the
+          copyrighted materials without direct authorization from the copyright
+          holders is prohibited. The copying of materials from the Blake
+          Archive is permitted only under the fair-use provisions of copyright
+          law.</p>
+
+
+          <p>To obtain the right to reuse an <strong>image</strong>, please
+          complete this <a href="./public/permission_form/request_permission.html" target="_new">form</a>. In most cases, permission must be obtained
+          from the owning institution. Click on the (c) symbol under each image
+          in the Archive to find out which institution or individual owns its
+          copyright. Contact information for institutions and individuals is
+          available from our <a href="./public/institutions.html">Contributing
+          Collections</a> page. We can only grant permission to reproduce
+          Archive materials; please do not contact us regarding materials not
+          present in the Archive.</p>
+
+
+          <p>To obtain the right to reuse the <strong>texts</strong>
+          (transcriptions) in the Archive (except for Erdman's <cite>Complete
+          Poetry and Prose of William Blake</cite>), complete this <a href="./public/permission_form/request_permission.html" target="_new">form</a>.</p>
+
+
+          <p>The Library of Congress provides useful information on copyright
+          at <a href="http://lcweb.loc.gov/copyright/">http://lcweb.loc.gov/copyright/</a>
+          as well as an explanation of the fair-use doctrine at <a href="http://fairuse.stanford.edu/">http://fairuse.stanford.edu/rice.html</a>.</p>
+
+
+          <p>You do not need to request our permission to link to the Archive,
+          or to individual items within the Archive. We prefer that your links
+          to the Archive in its entirety be targeted to this Welcome page
+          &lt;http://www.blakearchive.org/&gt;, and that any links to
+          individual items within the Archive be accompanied by a link to this
+          Welcome page.</p>
+
+
+          <p>To identify the Archive as the source of information that you are
+          using in a paper, article, or book, we ask that you include the
+          complete title of the Archive, its URL, and the date you accessed it,
+          along with the other relevant documentation. Here is an example:</p>
+
+
+          <blockquote>
+            Blake, William. <cite>The Book of Thel</cite>, copy F, pl. 2.
+            <cite>The William Blake Archive</cite>. Ed. Morris Eaves, Robert N.
+            Essick, and Joseph Viscomi. 13 November 1997
+            &lt;http://www.blakearchive.org/&gt;.
+          </blockquote>
+
+
+          <br/><br/>
+
+
+          <p>By accessing the Archive, you acknowledge that you have read and
+          accepted these conditions.</p>
+
+
+          <br/><br/>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+
+  <br/><br/>
+
+
+  <div class="c1">
+    <table border="0" cellpadding="10" width="100%">
+      <tr>
+        <td>
+          <br/>
+
+
+          <div class="c1">
+            Choose Server:
+
+            <p><a href="http://www.blakearchive.org/main.html"><img src="enter_main.jpg" alt="I Have Read and Accept the Above Conditions" border="0"/></a>  <a href="http://www.blakearchive.org.uk/main.html"><img src="enter_uk.jpg" alt="I Have Read and Accept the Above Conditions" border="0"/></a></p>
+
+
+            <br/><br/>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+
+  <br/><br/>
+
+  <hr/>
+  <!-- The following statement is parsed by the server on the way out.-->
+  <!-- You should not need to change it. -->
+
+
+  <p class="c4">Last Modified: Thursday, 08-Jul-2004 11:16:43 EDT</p>
+<!--This updates automatically- Leave untouched-->
+<p><script language="JavaScript"><!--// Begin
+var days = new Array(8);
+days[1] = "Sunday";
+days[2] = "Monday";
+days[3] = "Tuesday";
+days[4] = "Wednesday";
+days[5] = "Thursday";
+days[6] = "Friday";
+days[7] = "Saturday";
+var months = new Array(13);
+months[1] = "January";
+months[2] = "February";
+months[3] = "March";
+months[4] = "April";
+months[5] = "May";
+months[6] = "June";
+months[7] = "July";
+months[8] = "August";
+months[9] = "September";
+months[10] = "October";
+months[11] = "November";
+months[12] = "December";
+var dateObj = new Date(document.lastModified)
+var wday = days[dateObj.getDay() + 1]
+var lmonth = months[dateObj.getMonth() + 1]
+var date = dateObj.getDate()
+var fyear = dateObj.getYear()
+if (fyear < 2000) 
+fyear = fyear + 1900
+document.write("<i>Last Modified: " + wday + ", " + lmonth + " " + date + ", " + fyear + "</i></br/><i>" + document.URL + "</i>");
+// End --></script></p></body>
+</html>
