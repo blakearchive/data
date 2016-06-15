@@ -1,26 +1,494 @@
-<bad id="but522.1" type="wc" work="The Number of the Beast is 666" copy="1" copyid="1" institution="rosenbach" catalog="butlin" catid="522" hidden="false"><header><filedesc><titlestmt><title reg="The Number of the Beast is 666"><main>The Number of the Beast is 666</main>
-                    : electronic edition
-                </title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of
+<bad catalog="butlin" catid="522" copy="1" copyid="1" hidden="false" id="but522.1" institution="rosenbach" type="wc" work="The Number of the Beast is 666">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Number of the Beast is 666">
+                    <main>The Number of the Beast is 666</main>: electronic edition</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of
                     Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt/><sponsor>The University of North Carolina at Chapel Hill, the University of Rochester, and the Library of Congress</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>1 XML file approx. 8KB; 2 JPEG (ISO/IEC
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi</name>
+                    , University of North Carolina at Chapel Hill</principal>
+                <respstmt/>
+                <sponsor>The University of North Carolina at Chapel Hill, the University of Rochester, and the Library of Congress</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 8KB; 2 JPEG (ISO/IEC
                 10918)
-                files ranging in size from 99KB to 997KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives<date>November 2012</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
-                
-            </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2012</date> by Morris Eaves, Robert N. Essick,
+                files ranging in size from 99KB to 997KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives
+                <date>November 2012</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt/>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © 
+            <date>2012</date>
+            by Morris Eaves, Robert N. Essick,
             and Joseph Viscomi, all rights reserved.  Items in the Archive may be
             shared in accordance with the Fair Use provisions of U.S. copyright law.
             Redistribution or republication on other terms, in any medium, requires
             express written consent from the editors and advance notification of the
             publisher. Permission to reproduce the graphic images in this archive has been
-            granted by the owners of the originals for this publication only.<lb/><lb/>
-            This image copyright © 2012 Rosenbach Museum and Library</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>November 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>BAD created, illustration markup completed</change><date>October 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Image color corrected</change><date>May 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Image acquired and catalogued</change><date>December 2011</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Elizabeth Goodfellow,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">The Number of the Beast is 666</hi></title></objtitle><origination>William Blake<role>inventor, </role><role>delineator, </role><role>colorist</role></origination><origination>Anonymous<role>delineator.  The inscriptions on the mount above and below the design, available under Related Works in the Archive, are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</role></origination><compdate value="1805">c. 1805</compdate></objdescid><objinfo><numberobj>1</numberobj><objsize>41.2 x 33.5 cm.</objsize><numberleaves>1</numberleaves><leafsize>41.2 x 33.5 cm.</leafsize><medium>pen and ink and water color</medium><support>wove paper</support><watermark>none recorded</watermark><pennednumbers>none</pennednumbers><framelines>none</framelines></objinfo><provenance n="1"><name>Rosenbach Museum and Library</name><date>1954</date><dealer>none</dealer><price>bequest</price><note>Commissioned and acquired from Blake by Thomas Butts c. 1805; by inheritance in 1845 to Thomas Butts, Jr.; sold Sotheby's, 26 June 1852, lot 163 (£1.1s. to "Fuller," possibly a dealer, who still owned the work in 1863); Hugh Andrew Johnstone Munro; his estate or heirs by 1864; sold Christie's, 24 April 1868, lot 496 (£2.15s. to "Kibble," probably a dealer, possibly acting for Marsden J. Perry); sold by Perry in 1908 to William Augustus White; by inheritance to his son, Harold T. White, in 1927; sold to the dealer A. S. W. Rosenbach in 1950; bequeathed to the Rosenbach Museum and Library in 1952 and accessioned by the Museum in 1954.</note></provenance><repository><institution>Rosenbach Museum and Library</institution><addressline>2008-2010 Delancey Place</addressline><addressline>Philadelphia, PA 19103</addressline><addressline>Telephone: 215 732 1600</addressline><addressline>Email: info@rosenbach.org</addressline><addressline>URL: http://www.rosenbach.org</addressline><repositoryid label="Accession number">1954.0011</repositoryid></repository></source><desc id="but522.1.wc.01" dbi="BUT522.1.1.WC"><objtitle><title type="transcribed">The Number of the Beast is 666</title>,
-                <objid><objnumber code="A1">object 1 </objnumber><objcode code="U1">(Butlin 522)</objcode></objid></objtitle><physdesc desclevel="brief"><objnote><p>Blake signed the work, lower right, with his monogram; see the textual transcription. The inscriptions above and below the design on the mount, available under Related Works in the Archive, are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p></objnote><objsize>41.2 x 33.5 cm.</objsize><windowsize width="675" height="900"/></physdesc><related objectid="inscbut522.1.rm.01" ovp="noindex"/><related objectid="inscbut522.1.rm.02" ovp="noindex"/><related objectid="inscbut522.1.rm.03" ovp="noindex"/><illusdesc><illustration type="plate" location="E"><illusobjdesc>The design is based on Revelation 13:11-13, 18. The top half of the design is dominated by a dragon-like beast with the body of a man, a looping tail with two loops, outstretched bat-like wings, and seven heads. He is nude and his muscular body faces forward and right. His right leg is bent slightly, with his left leg drawn up. His right arm is at his side but bent upward, held against his chest. His left arm is raised horizontally but bent downward to brace himself on a rock, which his left hand holds. The figure sits on or perhaps is climbing a large rock or mountain. The figure's central head is that of a bald man with curling, bull-like horns, one loop in each horn. It also wears a spiky crown. This head is bent backward, facing up and right, mouth open. There are three heads to the left of the central head (see Revelation 13:13). The topmost head faces left and down; it has two curling horns with one loop in each. It may have curly hair as well. The middle head appears to be bald and faces left and down; it has one unicorn-like horn. The bottom head faces down and slightly left and is also bald. It wears a spiky crown and has one horn that curves downward over its forehead, ending in a loop. There are three heads to the right of the central head. The topmost head may have curly hair. It faces right and down and may wear a spiky crown. It has two horns that each end in a loop. The middle head may be bald and faces right. It may also wear a spiky crown and has one unicorn-like horn protruding from its head. The rightmost head is bald and faces right and down, mouth partly open. It wears a spiky crown and has one horn that grows downward over its forehead, ending in a single loop. Flames are visible above the central head. Seventeen stars appear on the wings of the creature in the top half of the design, eight on the left and nine on the right.. It casts a slight shadow to the right. At the base of the boulder or mountain is a sheep with human forearms and hands. The sheep may be hovering or lying down, facing left. It looks slightly up, with its eyes raised. It has short, curly fur covering its body with the exception of its face and human hands. Its arms are raised horizontally, palms held vertically. The scene takes place against the background of a dark night sky. At the bottom center of the design sits another hybrid man/beast figure, facing away. It appears to have the body of a nude, muscular man. Its left leg is visible, bent at the knee with the left foot on tiptoe. His spine is visible, as is a short, curly tail with one loop; it resembles a pig's tail. Fur is visible on its left thigh. Its left arm is raised at 135 degrees and fins are visible on the underside of the arm; the left hand points up and to the left. Its right arm is raised horizontally and bent upward. In its right hand it holds a scepter with a top that resembles a fleur-de-lis. This figure appears to have five bald heads, four facing away. The leftmost head has a single, unicorn-like horn protruding from the top of its head, with a small, spiky crown at the base of the horn. The middle head has a triangular bump at the top of its scalp, from which protrude two horns that curl downward, each ending in a single loop. The rightmost head looks to the right; it has a single, unicorn-like horn protruding from its scalp with a small, spiky crown at the base of the horn. The central figure at the bottom of the design casts a slight shadow beneath it. The central figure at the bottom of the design sits on a rock that may have moss or lichen at its base; the rock itself is colored to suggest flames. At the bottom right corner of the design, a mass of at least eleven figures kneels, facing left and down. The frontmost three figures appear to be gowned men with short hair; the figure in the front left has curly hair, a beard, and holds his arms horizontally, bent upward, with hands together in supplication or prayer. In the bottom left corner of the design kneels a group of at least fourteen people, facing to the right and down. In the frontmost row, two gowned men with short curly hair and a female(?) are visible. At least two figures have their arms bent upward with their hands together in a gesture of prayer or supplication. </illusobjdesc><component type="figure" location="E"><characteristic>dragon</characteristic><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>muscular</characteristic><characteristic>tail</characteristic><characteristic>loop</characteristic><characteristic>wing</characteristic><characteristic>bat-like wing</characteristic><characteristic>heads, multiple</characteristic><characteristic>facing forward</characteristic><characteristic>facing right</characteristic><characteristic>leg bent at knee</characteristic><characteristic>leg drawn up</characteristic><characteristic>arm at side</characteristic><characteristic>arm bent</characteristic><characteristic>arm bent upward</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>arm braced</characteristic><characteristic>holding</characteristic><characteristic>sitting</characteristic><characteristic>climbing</characteristic><characteristic>bald</characteristic><characteristic>facing left</characteristic><characteristic>facing down</characteristic><characteristic>horn</characteristic><characteristic>spiky</characteristic><characteristic>crown</characteristic><characteristic>looking</characteristic><characteristic>head bent back</characteristic><characteristic>facing up</characteristic><characteristic>mouth open</characteristic><characteristic>curly hair</characteristic><characteristic>unicorn</characteristic><characteristic>fire</characteristic><characteristic>star</characteristic><illusobjdesc>The top half of the design is dominated by a dragon-like beast with the body of a man, a looping tail with two loops, outstretched bat-like wings, and seven heads. He is nude and his muscular body faces forward and right. His right leg is bent slightly, with his left leg drawn up. His right arm is at his side but bent upward, held against his chest. His left arm is raised horizontally but bent downward to brace himself on a rock, which his left hand holds. The figure sits on or perhaps is climbing a large rock or mountain. The figure's central head is that of a bald man with curling, bull-like horns, one loop in each horn. It also wears a spiky crown. This head is bent backward, facing up and right, mouth open. There are three heads to the left of the central head. The topmost head faces left and down; it has two curling horns with one loop in each. It may have curly hair as well. The middle head appears to be bald and faces left and down; it has one unicorn-like horn. The bottom head faces down and slightly left and is also bald. It wears a spiky crown and has one horn that curves downward over its forehead, ending in a loop. There are three heads to the right of the central head. The topmost head may have curly hair. It faces right and down and may wear a spiky crown. It has two horns that each end in a loop. The middle head may be bald and faces right. It may also wear a spiky crown and has one unicorn-like horn protruding from its head. The rightmost head is bald and faces right and down, mouth partly open. It wears a spiky crown and has one horn that grows downward over its forehead, ending in a single loop. Flames are visible above the central head (see Revelation 13:13). Nine stars appear on each of the creature's wings for a total of eighteen. It casts a slight shadow to the right. </illusobjdesc></component><component type="object" location="AB"><characteristic>fire</characteristic><illusobjdesc>Flames are visible above the central head of the figure dominating the top half of the design, which may suggest that it is breathing fire. </illusobjdesc></component><component type="object" location="AB"><characteristic>star</characteristic><illusobjdesc>Seventeen stars appear on the wings of the creature in the top half of the design, eight on the left and nine on the right.</illusobjdesc></component><component type="object" location="CD"><characteristic>stone</characteristic><characteristic>mountain</characteristic><characteristic>hill</characteristic><illusobjdesc>The creature dominating the top half of the design sits on a boulder or rocky mountaintop. </illusobjdesc></component><component type="animal" location="CD"><characteristic>sheep</characteristic><characteristic>hovering</characteristic><characteristic>floating</characteristic><characteristic>flying</characteristic><characteristic>sitting</characteristic><characteristic>lying</characteristic><characteristic>facing left</characteristic><characteristic>looking</characteristic><characteristic>facing up</characteristic><characteristic>eyes raised</characteristic><characteristic>fur</characteristic><characteristic>short hair</characteristic><characteristic>curly hair</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>arm bent</characteristic><characteristic>palm vertical</characteristic><illusobjdesc>At the base of the boulder or mountain is a sheep with human forearms and hands. The sheep may be hovering or lying down, facing left. It looks slightly up, with its eyes raised. It has short, curly fur covering its body with the exception of its face and human hands. Its arms are raised horizontally, palms held vertically. </illusobjdesc></component><component type="object" location="E"><characteristic>sky</characteristic><characteristic>night</characteristic><characteristic>dark</characteristic><illusobjdesc>The scene takes place against the background of a dark night sky. </illusobjdesc></component><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>facing away</characteristic><characteristic>facing right</characteristic><characteristic>seen from behind</characteristic><characteristic>sitting</characteristic><characteristic>muscular</characteristic><characteristic>leg bent at knee</characteristic><characteristic>tiptoe</characteristic><characteristic>left foot</characteristic><characteristic>spine</characteristic><characteristic>tail</characteristic><characteristic>loop</characteristic><characteristic>pig</characteristic><characteristic>fur</characteristic><characteristic>arm raised at 135 degrees</characteristic><characteristic>fin</characteristic><characteristic>pointing</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>arm bent</characteristic><characteristic>arm bent upward</characteristic><characteristic>holding</characteristic><characteristic>heads, multiple</characteristic><characteristic>bald</characteristic><characteristic>horn</characteristic><characteristic>unicorn</characteristic><characteristic>spiky</characteristic><characteristic>crown</characteristic><characteristic>shadow</characteristic><illusobjdesc>At the bottom center of the design sits another hybrid man/beast figure, facing away. It appears to have the body of a nude, muscular man. Its left leg is visible, bent at the knee with the left foot on tiptoe. His spine is visible, as is a short, curly tail with one loop; it resembles a pig's tail. Fur is visible on its left thigh. Its left arm is raised at 135 degrees and fins are visible on the underside of the arm; the left hand points up and to the left. Its right arm is raised horizontally and bent upward. In its right hand it holds a scepter with a top that resembles a fleur-de-lis. This figure appears to have five bald heads, four facing away. The leftmost head has a single, unicorn-like horn protruding from the top of its head, with a small, spiky crown at the base of the horn. The middle head has a triangular bump at the top of its scalp, from which protrude two horns that curl downward, each ending in a single loop. The rightmost head looks to the right; it has a single, unicorn-like horn protruding from its scalp with a small, spiky crown at the base of the horn. The central figure at the bottom of the painting casts a slight shadow beneath it. </illusobjdesc></component><component type="object" location="CD"><characteristic>stone</characteristic><characteristic>moss</characteristic><characteristic>lichen</characteristic><characteristic>flame-like</characteristic><characteristic>indeterminate</characteristic><illusobjdesc>The central figure at the bottom of the design sits on a rock that may have moss or lichen at its base; the rock itself is colored to suggest flames. </illusobjdesc></component><component type="object" location="BD"><characteristic>scepter</characteristic><characteristic>rod</characteristic><characteristic>fleur-de-lis</characteristic><illusobjdesc>The figure at the bottom center of the design holds a scepter in its right hand that is topped with what may be a fleur-de-lis.</illusobjdesc></component><component type="figure" location="D"><characteristic>group of figures</characteristic><characteristic>kneeling</characteristic><characteristic>bowing</characteristic><characteristic>bending forward</characteristic><characteristic>facing left</characteristic><characteristic>facing down</characteristic><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>short hair</characteristic><characteristic>curly hair</characteristic><characteristic>beard</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>arm bent</characteristic><characteristic>arm bent upward</characteristic><characteristic>praying</characteristic><characteristic>supplicating</characteristic><illusobjdesc>At the bottom right corner of the design, a mass of at least eleven figures kneels, facing left and down. The frontmost three figures appear to be gowned men with short hair; the figure in the front left has curly hair, a beard, and holds his arms horizontally, bent upward, with hands together in supplication or prayer. </illusobjdesc></component><component type="figure" location="C"><characteristic>group of figures</characteristic><characteristic>kneeling</characteristic><characteristic>bowing</characteristic><characteristic>bending forward</characteristic><characteristic>facing right</characteristic><characteristic>facing down</characteristic><characteristic>male</characteristic><characteristic>short hair</characteristic><characteristic>curly hair</characteristic><characteristic>female</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>arm bent</characteristic><characteristic>arm bent upward</characteristic><characteristic>hands together</characteristic><characteristic>praying</characteristic><characteristic>supplicating</characteristic><illusobjdesc>In the bottom left corner of the design kneels a group of at least fourteen people, facing to the right and down. In the frontmost row, two gowned men with short curly hair and a female(?) are visible. At least two figures have their arms bent upward with their hands together in a gesture of prayer or supplication.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="4"/><lg justify="left"><l n="but522.1.wc.01.01" justify="left" indent="61">inv</l><l n="but522.1.wc.01.02" justify="left" indent="60">WB</l></lg></phystext></desc></objdesc></bad>
+            granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This image copyright © 2012 Rosenbach Museum and Library</userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; 
+                    <name>Robert Essick,</name>University of California, Riverside; and 
+                    <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created, illustration markup completed</change>
+                <date>October 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; 
+                    <name>Robert Essick,</name>University of California, Riverside; and 
+                    <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image color corrected</change>
+                <date>May 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; 
+                    <name>Robert Essick,</name>University of California, Riverside; and 
+                    <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquired and catalogued</change>
+                <date>December 2011</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; 
+                    <name>Robert Essick,</name>University of California, Riverside; and 
+                    <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Elizabeth Goodfellow,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        <hi rend="i">The Number of the Beast is 666</hi>
+                    </title>
+                </objtitle>
+                <origination>William Blake
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role></origination>
+                <origination>Anonymous
+                    <role>delineator.  The inscriptions on the mount above and below the design, available under Related Works in the Archive, are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</role></origination>
+                <compdate value="1805">c. 1805</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>41.2 x 33.5 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>41.2 x 33.5 cm.</leafsize>
+                <medium>pen and ink and water color</medium>
+                <support>wove paper</support>
+                <watermark>none recorded</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>Rosenbach Museum and Library</name>
+                <date>1954</date>
+                <dealer>none</dealer>
+                <price>bequest</price>
+                <note>Commissioned and acquired from Blake by Thomas Butts c. 1805; by inheritance in 1845 to Thomas Butts, Jr.; sold Sotheby's, 26 June 1852, lot 163 (£1.1s. to &quot;Fuller,&quot; possibly a dealer, who still owned the work in 1863); Hugh Andrew Johnstone Munro; his estate or heirs by 1864; sold Christie's, 24 April 1868, lot 496 (£2.15s. to &quot;Kibble,&quot; probably a dealer, possibly acting for Marsden J. Perry); sold by Perry in 1908 to William Augustus White; by inheritance to his son, Harold T. White, in 1927; sold to the dealer A. S. W. Rosenbach in 1950; bequeathed to the Rosenbach Museum and Library in 1952 and accessioned by the Museum in 1954.</note>
+            </provenance>
+            <repository>
+                <institution>Rosenbach Museum and Library</institution>
+                <addressline>2008-2010 Delancey Place</addressline>
+                <addressline>Philadelphia, PA 19103</addressline>
+                <addressline>Telephone: 215 732 1600</addressline>
+                <addressline>Email: info@rosenbach.org</addressline>
+                <addressline>URL: http://www.rosenbach.org</addressline>
+                <repositoryid label="Accession number">1954.0011</repositoryid>
+            </repository>
+        </source>
+        <desc dbi="BUT522.1.1.WC" id="but522.1.wc.01">
+            <objtitle>
+                <title type="transcribed">The Number of the Beast is 666</title>,
+                
+                <objid>
+                    <objnumber code="A1">object 1 </objnumber>
+                    <objcode code="U1">(Butlin 522)</objcode></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>Blake signed the work, lower right, with his monogram; see the textual transcription. The inscriptions above and below the design on the mount, available under Related Works in the Archive, are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p>
+                </objnote>
+                <objsize>41.2 x 33.5 cm.</objsize>
+                <windowsize height="900" width="675"/>
+            </physdesc>
+            <related objectid="inscbut522.1.rm.01" ovp="noindex"/>
+            <related objectid="inscbut522.1.rm.02" ovp="noindex"/>
+            <related objectid="inscbut522.1.rm.03" ovp="noindex"/>
+            <illusdesc>
+                <illustration location="E" type="plate">
+                    <illusobjdesc>The design is based on Revelation 13:11-13, 18. The top half of the design is dominated by a dragon-like beast with the body of a man, a looping tail with two loops, outstretched bat-like wings, and seven heads. He is nude and his muscular body faces forward and right. His right leg is bent slightly, with his left leg drawn up. His right arm is at his side but bent upward, held against his chest. His left arm is raised horizontally but bent downward to brace himself on a rock, which his left hand holds. The figure sits on or perhaps is climbing a large rock or mountain. The figure's central head is that of a bald man with curling, bull-like horns, one loop in each horn. It also wears a spiky crown. This head is bent backward, facing up and right, mouth open. There are three heads to the left of the central head (see Revelation 13:13). The topmost head faces left and down; it has two curling horns with one loop in each. It may have curly hair as well. The middle head appears to be bald and faces left and down; it has one unicorn-like horn. The bottom head faces down and slightly left and is also bald. It wears a spiky crown and has one horn that curves downward over its forehead, ending in a loop. There are three heads to the right of the central head. The topmost head may have curly hair. It faces right and down and may wear a spiky crown. It has two horns that each end in a loop. The middle head may be bald and faces right. It may also wear a spiky crown and has one unicorn-like horn protruding from its head. The rightmost head is bald and faces right and down, mouth partly open. It wears a spiky crown and has one horn that grows downward over its forehead, ending in a single loop. Flames are visible above the central head. Seventeen stars appear on the wings of the creature in the top half of the design, eight on the left and nine on the right.. It casts a slight shadow to the right. At the base of the boulder or mountain is a sheep with human forearms and hands. The sheep may be hovering or lying down, facing left. It looks slightly up, with its eyes raised. It has short, curly fur covering its body with the exception of its face and human hands. Its arms are raised horizontally, palms held vertically. The scene takes place against the background of a dark night sky. At the bottom center of the design sits another hybrid man/beast figure, facing away. It appears to have the body of a nude, muscular man. Its left leg is visible, bent at the knee with the left foot on tiptoe. His spine is visible, as is a short, curly tail with one loop; it resembles a pig's tail. Fur is visible on its left thigh. Its left arm is raised at 135 degrees and fins are visible on the underside of the arm; the left hand points up and to the left. Its right arm is raised horizontally and bent upward. In its right hand it holds a scepter with a top that resembles a fleur-de-lis. This figure appears to have five bald heads, four facing away. The leftmost head has a single, unicorn-like horn protruding from the top of its head, with a small, spiky crown at the base of the horn. The middle head has a triangular bump at the top of its scalp, from which protrude two horns that curl downward, each ending in a single loop. The rightmost head looks to the right; it has a single, unicorn-like horn protruding from its scalp with a small, spiky crown at the base of the horn. The central figure at the bottom of the design casts a slight shadow beneath it. The central figure at the bottom of the design sits on a rock that may have moss or lichen at its base; the rock itself is colored to suggest flames. At the bottom right corner of the design, a mass of at least eleven figures kneels, facing left and down. The frontmost three figures appear to be gowned men with short hair; the figure in the front left has curly hair, a beard, and holds his arms horizontally, bent upward, with hands together in supplication or prayer. In the bottom left corner of the design kneels a group of at least fourteen people, facing to the right and down. In the frontmost row, two gowned men with short curly hair and a female(?) are visible. At least two figures have their arms bent upward with their hands together in a gesture of prayer or supplication. </illusobjdesc>
+                    <component location="E" type="figure">
+                        <characteristic>dragon</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>muscular</characteristic>
+                        <characteristic>tail</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>bat-like wing</characteristic>
+                        <characteristic>heads, multiple</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>climbing</characteristic>
+                        <characteristic>bald</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>unicorn</characteristic>
+                        <characteristic>fire</characteristic>
+                        <characteristic>star</characteristic>
+                        <illusobjdesc>The top half of the design is dominated by a dragon-like beast with the body of a man, a looping tail with two loops, outstretched bat-like wings, and seven heads. He is nude and his muscular body faces forward and right. His right leg is bent slightly, with his left leg drawn up. His right arm is at his side but bent upward, held against his chest. His left arm is raised horizontally but bent downward to brace himself on a rock, which his left hand holds. The figure sits on or perhaps is climbing a large rock or mountain. The figure's central head is that of a bald man with curling, bull-like horns, one loop in each horn. It also wears a spiky crown. This head is bent backward, facing up and right, mouth open. There are three heads to the left of the central head. The topmost head faces left and down; it has two curling horns with one loop in each. It may have curly hair as well. The middle head appears to be bald and faces left and down; it has one unicorn-like horn. The bottom head faces down and slightly left and is also bald. It wears a spiky crown and has one horn that curves downward over its forehead, ending in a loop. There are three heads to the right of the central head. The topmost head may have curly hair. It faces right and down and may wear a spiky crown. It has two horns that each end in a loop. The middle head may be bald and faces right. It may also wear a spiky crown and has one unicorn-like horn protruding from its head. The rightmost head is bald and faces right and down, mouth partly open. It wears a spiky crown and has one horn that grows downward over its forehead, ending in a single loop. Flames are visible above the central head (see Revelation 13:13). Nine stars appear on each of the creature's wings for a total of eighteen. It casts a slight shadow to the right. </illusobjdesc>
+                    </component>
+                    <component location="AB" type="object">
+                        <characteristic>fire</characteristic>
+                        <illusobjdesc>Flames are visible above the central head of the figure dominating the top half of the design, which may suggest that it is breathing fire. </illusobjdesc>
+                    </component>
+                    <component location="AB" type="object">
+                        <characteristic>star</characteristic>
+                        <illusobjdesc>Seventeen stars appear on the wings of the creature in the top half of the design, eight on the left and nine on the right.</illusobjdesc>
+                    </component>
+                    <component location="CD" type="object">
+                        <characteristic>stone</characteristic>
+                        <characteristic>mountain</characteristic>
+                        <characteristic>hill</characteristic>
+                        <illusobjdesc>The creature dominating the top half of the design sits on a boulder or rocky mountaintop. </illusobjdesc>
+                    </component>
+                    <component location="CD" type="animal">
+                        <characteristic>sheep</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>floating</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>fur</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>palm vertical</characteristic>
+                        <illusobjdesc>At the base of the boulder or mountain is a sheep with human forearms and hands. The sheep may be hovering or lying down, facing left. It looks slightly up, with its eyes raised. It has short, curly fur covering its body with the exception of its face and human hands. Its arms are raised horizontally, palms held vertically. </illusobjdesc>
+                    </component>
+                    <component location="E" type="object">
+                        <characteristic>sky</characteristic>
+                        <characteristic>night</characteristic>
+                        <characteristic>dark</characteristic>
+                        <illusobjdesc>The scene takes place against the background of a dark night sky. </illusobjdesc>
+                    </component>
+                    <component location="CD" type="figure">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>muscular</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>tiptoe</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>spine</characteristic>
+                        <characteristic>tail</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>pig</characteristic>
+                        <characteristic>fur</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>fin</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>heads, multiple</characteristic>
+                        <characteristic>bald</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>unicorn</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>At the bottom center of the design sits another hybrid man/beast figure, facing away. It appears to have the body of a nude, muscular man. Its left leg is visible, bent at the knee with the left foot on tiptoe. His spine is visible, as is a short, curly tail with one loop; it resembles a pig's tail. Fur is visible on its left thigh. Its left arm is raised at 135 degrees and fins are visible on the underside of the arm; the left hand points up and to the left. Its right arm is raised horizontally and bent upward. In its right hand it holds a scepter with a top that resembles a fleur-de-lis. This figure appears to have five bald heads, four facing away. The leftmost head has a single, unicorn-like horn protruding from the top of its head, with a small, spiky crown at the base of the horn. The middle head has a triangular bump at the top of its scalp, from which protrude two horns that curl downward, each ending in a single loop. The rightmost head looks to the right; it has a single, unicorn-like horn protruding from its scalp with a small, spiky crown at the base of the horn. The central figure at the bottom of the painting casts a slight shadow beneath it. </illusobjdesc>
+                    </component>
+                    <component location="CD" type="object">
+                        <characteristic>stone</characteristic>
+                        <characteristic>moss</characteristic>
+                        <characteristic>lichen</characteristic>
+                        <characteristic>flame-like</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>The central figure at the bottom of the design sits on a rock that may have moss or lichen at its base; the rock itself is colored to suggest flames. </illusobjdesc>
+                    </component>
+                    <component location="BD" type="object">
+                        <characteristic>scepter</characteristic>
+                        <characteristic>rod</characteristic>
+                        <characteristic>fleur-de-lis</characteristic>
+                        <illusobjdesc>The figure at the bottom center of the design holds a scepter in its right hand that is topped with what may be a fleur-de-lis.</illusobjdesc>
+                    </component>
+                    <component location="D" type="figure">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>bowing</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>praying</characteristic>
+                        <characteristic>supplicating</characteristic>
+                        <illusobjdesc>At the bottom right corner of the design, a mass of at least eleven figures kneels, facing left and down. The frontmost three figures appear to be gowned men with short hair; the figure in the front left has curly hair, a beard, and holds his arms horizontally, bent upward, with hands together in supplication or prayer. </illusobjdesc>
+                    </component>
+                    <component location="C" type="figure">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>bowing</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>praying</characteristic>
+                        <characteristic>supplicating</characteristic>
+                        <illusobjdesc>In the bottom left corner of the design kneels a group of at least fourteen people, facing to the right and down. In the frontmost row, two gowned men with short curly hair and a female(?) are visible. At least two figures have their arms bent upward with their hands together in a gesture of prayer or supplication.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="4"/>
+                <lg justify="left">
+                    <l indent="61" justify="left" n="but522.1.wc.01.01">inv</l>
+                    <l indent="60" justify="left" n="but522.1.wc.01.02">WB</l>
+                </lg>
+            </phystext>
+            <supplemental>
+                <desc dbi="BUT522.1.1-full.RM" id="inscbut522.1.rm.01">
+            <objtitle>
+                <title type="transcribed">The Number of the Beast is 666</title>,
+                
+                <objid>
+                    <objnumber code="A1">full view including mount inscriptions </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>The inscriptions on the mount above and below the design are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p>
+                </objnote>
+                <objsize>49.8 x 38.5 cm.</objsize>
+                <windowsize height="975" width="750"/>
+            </physdesc>
+        </desc>
+        <desc dbi="BUT522.1.1-insc-t.RM" id="inscbut522.1.rm.02">
+            <objtitle>
+                <title type="transcribed">The Number of the Beast is 666</title>,
+                
+                <objid>
+                    <objnumber code="A1">top mount inscription </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>The inscription on the mount above the design is not by Blake.  It could not have been written before 1846, the earliest known date for the production of the paper on which the inscription is written.  The identity of the calligrapher who wrote the inscription is not known.</p>
+                </objnote>
+                <objsize>3.3 x 23.0 cm.</objsize>
+                <windowsize height="300" width="1000"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l indent="23" justify="left" n="inscbut522.1.rm.02.01">The number of the Beast is 666.</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc dbi="BUT522.1.1-insc-b.RM" id="inscbut522.1.rm.03">
+            <objtitle>
+                <title type="transcribed">The Number of the Beast is 666</title>,
+                
+                <objid>
+                    <objnumber code="A1">bottom mount inscriptions </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>The inscriptions on the mount below the design are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p>
+                </objnote>
+                <objsize>8.4 x 28.3 cm.</objsize>
+                <windowsize height="400" width="1000"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l indent="41" justify="left" n="inscbut522.1.rm.03.01">Rev.
+                        <hi rend="superscript">ns</hi>
+                        ch: 13
+                        <hi rend="superscript">th</hi>
+                        v. 11:
+                        <hi rend="superscript">th</hi>
+                        &amp; 12:
+                        <hi rend="superscript">th</hi></l>
+                    <l indent="2" justify="left" n="inscbut522.1.rm.03.02">And I beheld another beast coming up out of the earth, and he had two</l>
+                    <l indent="2" justify="left" n="inscbut522.1.rm.03.03">horns like a lamb, and he spake as a dragon. And he exerciseth all the powers</l>
+                    <l indent="2" justify="left" n="inscbut522.1.rm.03.04">of the first beast before him, and causeth the earth &amp; them which dwell therein to</l>
+                    <l indent="12" justify="left" n="inscbut522.1.rm.03.05">worship the first beast, whose deadly wound was healed.</l>
+                </lg>
+            </phystext>
+        </desc>
+            </supplemental>
+        </desc>
+    </objdesc>
+</bad>

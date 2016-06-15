@@ -1,44 +1,427 @@
-<bad id="suppvda.h" type="rm" work="Visions of the Daughters of Albion, copy H, supplemental views" copy="H" copyid="H" institution="rosenbach" catalog="bentley" catid="H"><header><filedesc><titlestmt><title reg="Visions of the Daughters of Albion, copy H, supplemental views"><main>Visions of the Daughters of Albion</main><copy>copy H</copy>
-: electronic edition
-</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi,</name> University of North Carolina at Chapel Hill</principal><respstmt>               
-            </respstmt><sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2004</editionstmt><extent>1 XML file approx. 150KB; 22 JPEG (ISO/IEC
-10918) files ranging in size from 106KB to 625KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives<date>July 2013</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
-                The William Blake Archive is pleased to announce the publication of an electronic edition of <hi rend="i">Visions of the Daughters of Albion</hi> copy H, in the Rosenbach Museum and Library, and the republication in full searchable mode of Blake’s sixteen engravings in John Gabriel Stedman’s <hi rend="i">Narrative, of a Five Years’ Expedition, against the Revolted Negroes of Surinam</hi> (1796). We are presenting two versions of these plates, one with the designs uncolored and one with the designs hand colored. 
-                <lb/><lb/><hi rend="i">Visions</hi>, extant in eighteen complete copies, consists of eleven relief-etched plates executed and first printed in 1793. Copy H was produced in Blake's first printing session and joins copies a, A, B, C, E, I, and J (1793), F (c. 1794), G (1795), and O and P (c. 1818), previously published in the Archive. Probably to lend variety to his stock of copies on hand, Blake used three ink colors in this first printing: yellow ochre (as in copy A), raw sienna (copies B, C, and E), and green (copies H, I, and J). Like all early copies of <hi rend="i">Visions</hi>, copy H has the frontispiece printed on one side of a leaf, but all other plates are printed on both sides of five leaves. In copy H, the embossments of the platemarks into the leaves can be seen from both sides of the leaves. Examples of the full leaves for plates 2 and 10, included as Supplemental Views in the Show Me menu, lower left under the plate images, show how the plates were registered to the leaves. 
-                <lb/><lb/>
-                Blake began work on the Stedman plates in 1791. Stedman visited Blake in June 1794 and subsequently the engraver helped the author with various business matters, very probably including negotiations with the book's publisher, Joseph Johnson. Blake's attitudes towards slavery and colonialism were indebted to Stedman's autobiographical narrative, as is particularly evident in the texts and designs of his illuminated books <hi rend="i">Visions of the Daughters of Albion</hi> and <hi rend="i">America</hi>, both dated 1793. Stedman's relationship with a female slave, Joanna, may have influenced Blake's complex representations of gender and sexuality.
-                <lb/><lb/>
-                With the publication of <hi rend="i">Visions</hi> copy H, the Archive now contains fully searchable and scalable electronic editions of 87 copies of Blake's nineteen illuminated books in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies. New protocols for transcription, which produce improved accuracy and fuller documentation in editors' notes, have been applied to all copies of <hi rend="i">Visions</hi> in the Archive. With the Archive's Compare feature, users can easily juxtapose multiple impressions of any plate across the different copies of this or any of the other illuminated books and, with the Virtual Lightbox, users can examine images from any genre side by side, as well as crop, zoom, and juxtapose them for close study.               
-                <lb/><lb/>
-                In addition to illuminated books, the Archive contains many important manuscripts and series of engravings, sketches, and water color drawings, including illustrations to Thomas Gray's <hi rend="i">Poems</hi>, water color and engraved illustrations to Dante's <hi rend="i">Divine Comedy</hi>, the large color printed drawings of 1795 and c. 1805, the Linnell and Butts sets of the <hi rend="i">Book of Job</hi> water colors and the sketchbook containing drawings for the engraved illustrations to the <hi rend="i">Book of Job</hi>, the water color illustrations to Robert Blair's <hi rend="i">The Grave</hi>, and all nine of Blake's water color series illustrating the poetry of John Milton.
-                <lb/><lb/>
-                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.
-            </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2013</date> by Morris Eaves, Robert N. Essick,
+<bad catalog="bentley" catid="H" copy="H" copyid="H" id="suppvda.h" institution="rosenbach" type="rm" work="Visions of the Daughters of Albion, copy H, supplemental views">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Visions of the Daughters of Albion, copy H, supplemental views">
+                    <main>Visions of the Daughters of Albion</main>
+                    <copy>copy H</copy>: electronic edition</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt/>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
+            <extent>1 XML file approx. 150KB; 22 JPEG (ISO/IEC
+10918) files ranging in size from 106KB to 625KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives
+                <date>July 2013</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>The William Blake Archive is pleased to announce the publication of an electronic edition of 
+                <hi rend="i">Visions of the Daughters of Albion</hi>
+                copy H, in the Rosenbach Museum and Library, and the republication in full searchable mode of Blake’s sixteen engravings in John Gabriel Stedman’s 
+                <hi rend="i">Narrative, of a Five Years’ Expedition, against the Revolted Negroes of Surinam</hi>
+                (1796). We are presenting two versions of these plates, one with the designs uncolored and one with the designs hand colored. 
+                
+                <lb/>
+                <lb/>
+                <hi rend="i">Visions</hi>
+                , extant in eighteen complete copies, consists of eleven relief-etched plates executed and first printed in 1793. Copy H was produced in Blake's first printing session and joins copies a, A, B, C, E, I, and J (1793), F (c. 1794), G (1795), and O and P (c. 1818), previously published in the Archive. Probably to lend variety to his stock of copies on hand, Blake used three ink colors in this first printing: yellow ochre (as in copy A), raw sienna (copies B, C, and E), and green (copies H, I, and J). Like all early copies of 
+                <hi rend="i">Visions</hi>
+                , copy H has the frontispiece printed on one side of a leaf, but all other plates are printed on both sides of five leaves. In copy H, the embossments of the platemarks into the leaves can be seen from both sides of the leaves. Examples of the full leaves for plates 2 and 10, included as Supplemental Views in the Show Me menu, lower left under the plate images, show how the plates were registered to the leaves. 
+                
+                <lb/>
+                <lb/>
+                Blake began work on the Stedman plates in 1791. Stedman visited Blake in June 1794 and subsequently the engraver helped the author with various business matters, very probably including negotiations with the book's publisher, Joseph Johnson. Blake's attitudes towards slavery and colonialism were indebted to Stedman's autobiographical narrative, as is particularly evident in the texts and designs of his illuminated books 
+                <hi rend="i">Visions of the Daughters of Albion</hi>
+                and 
+                <hi rend="i">America</hi>
+                , both dated 1793. Stedman's relationship with a female slave, Joanna, may have influenced Blake's complex representations of gender and sexuality.
+                
+                <lb/>
+                <lb/>
+                With the publication of 
+                <hi rend="i">Visions</hi>
+                copy H, the Archive now contains fully searchable and scalable electronic editions of 87 copies of Blake's nineteen illuminated books in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies. New protocols for transcription, which produce improved accuracy and fuller documentation in editors' notes, have been applied to all copies of 
+                <hi rend="i">Visions</hi>
+                in the Archive. With the Archive's Compare feature, users can easily juxtapose multiple impressions of any plate across the different copies of this or any of the other illuminated books and, with the Virtual Lightbox, users can examine images from any genre side by side, as well as crop, zoom, and juxtapose them for close study.               
+                
+                <lb/>
+                <lb/>
+                In addition to illuminated books, the Archive contains many important manuscripts and series of engravings, sketches, and water color drawings, including illustrations to Thomas Gray's 
+                <hi rend="i">Poems</hi>
+                , water color and engraved illustrations to Dante's 
+                <hi rend="i">Divine Comedy</hi>
+                , the large color printed drawings of 1795 and c. 1805, the Linnell and Butts sets of the 
+                <hi rend="i">Book of Job</hi>
+                water colors and the sketchbook containing drawings for the engraved illustrations to the 
+                <hi rend="i">Book of Job</hi>
+                , the water color illustrations to Robert Blair's 
+                <hi rend="i">The Grave</hi>
+                , and all nine of Blake's water color series illustrating the poetry of John Milton.
+                
+                <lb/>
+                <lb/>
+                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.</updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © 
+            <date>2013</date>
+            by Morris Eaves, Robert N. Essick,
             and Joseph Viscomi, all rights reserved.  Items in the Archive may be
             shared in accordance with the Fair Use provisions of U.S. copyright law.
             Redistribution or republication on other terms, in any medium, requires
             express written consent from the editors and advance notification of the
             publisher.
             Permission to reproduce the graphic images in this archive has been
-            granted by the owners of the originals for this publication only.<lb/><lb/>
-            This image copyright © 2013 Rosenbach Museum and Library.</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>July 2013</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Adair Rispoli,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name></respstmt></changestmt><changestmt><change>Transcription established and illustration description created</change><date>May 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Edward Scheinman,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>BAD created</change><date>April 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Edward Scheinman,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Images color corrected</change><date>April 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill 
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Edward Scheinman,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Digital images received and catalogued</change><date>December 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill 
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Edward Scheinman,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name><name>Bihan Zhang</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">Visions of the Daughters of Albion</hi></title></objtitle><origination>William Blake <role>author, </role><role>inventor, </role><role>delineator, </role><role>etcher, </role><role>printer, </role><role>colorist</role></origination><origination>Catherine Blake <role>printer</role></origination><imprint><publisher> William Blake</publisher><pubplace>London<note>The place of publication is not given in the book, but Blake lived
-               in London during the writing, etching, and printing of this copy.</note></pubplace><date>1793</date></imprint><compdate value="1793.A">1793</compdate></objdescid><objinfo><printdate value="1793.G">1793</printdate><numberobj>11</numberobj><objorder>1-11</objorder><objsize>ranging between 17.2 x 12.9 cm. and 14.2 x 11.2 cm.</objsize><numberleaves>6<note>The frontispiece (object 1) is printed on one side of a leaf; the other side is blank.  All other objects are printed recto/verso.</note></numberleaves><leafsize>35.9 x 24.4 cm.</leafsize><medium>relief etching with white-line etching on object 2</medium><printingstyle>relief</printingstyle><inkcolor>green</inkcolor><support>wove paper</support><watermark>J WHATMAN<note>The watermark appears only on the leaf bearing objects 2/3.</note></watermark><etchednumbers>numbered 2-3, 5-7 upper right on objects 5-6, 8-10<note>The etched number is obscured by hand coloring on object 10.</note></etchednumbers><pennednumbers>none</pennednumbers><framelines>none</framelines><binding>disbound by 1909<note>Formerly bound in half red morocco with <hi rend="i">Europe</hi> copy G and <hi rend="i">The Song of Los</hi> copy C.  This binding is now kept with <hi rend="i">The Song of Los</hi> copy C in the Morgan Library and Museum, New York.</note></binding><stabholes>Four holes, 6.2 cm. from the top and 5.8, 6.0, and 9.0 cm. apart, upper to lower hole.</stabholes></objinfo><provenance n="1"><name>Rosenbach Museum and Library</name><date>c. 1958</date><dealer>John Fleming</dealer><price>£23,000 at auction in 1958</price><note>Acquired at an unknown time by H. A. Mair; sold from his collection, Puttick &amp; Simpson auction, London, 19 Nov. 1900, lot 338, bound with <hi rend="i">Europe</hi> copy G, <hi rend="i">The Song of Los</hi> copy C, and three water color drawings attributed to Blake (£225 to the dealer Bernard Quaritch); the whole volume acquired by Marsden J. Perry c. 1900 (according to a note by William A. White written on the flyleaf of <hi rend="i">Europe</hi> copy G); acquired by White in March 1908 (according to his note on the flyleaf of <hi rend="i">Europe</hi> copy G); the volume divided into its constituent works by Perry or White; all three illuminated books inherited by White's daughter, Frances White Emerson, in 1927; <hi rend="i">Visions of the Daughters of Albion</hi> copy H sold from her collection, Sotheby's, 19 May 1958, lot 4 (£23,000 to the dealer John Fleming, the successor to the dealer A. S. W. Rosenbach); acquired by the Rosenbach Museum and Library c. 1958.</note></provenance><repository><institution>Rosenbach Museum and Library</institution><addressline>2008-2010 Delancey Place</addressline><addressline>Philadelphia, PA 19103</addressline><addressline>USA</addressline><addressline>Telephone: 1-215-732-1600</addressline><addressline>Fax: 1-215-545-7529</addressline><addressline>Email: info@rosenbach.org</addressline><addressline>URL: http://www.rosenbach.org</addressline><department>Library Division</department><repositoryid label="Call number">EL3 .B636v 793</repositoryid></repository></source><desc id="suppvda.h.rm.01" dbi="vda.H.P2-full"><objtitle>,
-            <objid><objnumber code="A1">full leaf view</objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>Plate 2 is poorly registered to its leaf. It appears low and tilted to the right. The registration of leaf onto the plate was done by eye, presumably by Mrs. Blake, as she was the "clean hands" person operating the press and handling the paper while Blake inked the plate and brought it to the bed of the press. Such misalignments of plates, though common in the illuminated books (see also object 10 in this copy) are frequently ignored in print and digital reproductions, either for economic or aesthetic reasons. See Viscomi, Joseph, <a href="http://siteslab.unc.edu//viscomi/Digital_Facsimiles/index.html" target="blank">"Digital Facsimiles: Reading the William Blake Archive."</a><i>Computers and Humanities</i> 36.1 (2002): 27-48.</p></objnote><objsize>35.9 x 24.4 cm.</objsize><windowsize height="889" width="619"/></physdesc></desc><desc id="suppvda.h.rm.02" dbi="vda.H.P10-full"><objtitle>,
-                <objid><objnumber code="A2">full leaf view</objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>Plate 10 is poorly registered to its leaf. It appears tilted to the right. The registration of leaf onto the plate was done by eye, presumably by Mrs. Blake, as she was the "clean hands" person operating the press and handling the paper while Blake inked the plate and brought it to the bed of the press. Such misalignments of plates, though common in the illuminated books (see also object 2 in this copy) are frequently ignored in print and digital reproductions, either for economic or aesthetic reasons. See Viscomi, Joseph, <a href="http://siteslab.unc.edu//viscomi/Digital_Facsimiles/index.html" target="blank">"Digital Facsimiles: Reading the William Blake Archive."</a><i>Computers and Humanities</i> 36.1 (2002): 27-48.</p></objnote><objsize>35.9 x 24.4 cm.</objsize><windowsize height="889" width="619"/></physdesc></desc></objdesc></bad>
+            granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This image copyright © 2013 Rosenbach Museum and Library.</userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>July 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Transcription established and illustration description created</change>
+                <date>May 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Edward Scheinman,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created</change>
+                <date>April 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Edward Scheinman,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images color corrected</change>
+                <date>April 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill 
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Edward Scheinman,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Digital images received and catalogued</change>
+                <date>December 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill 
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Edward Scheinman,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        <hi rend="i">Visions of the Daughters of Albion</hi>
+                    </title>
+                </objtitle>
+                <origination>William Blake 
+                    <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>etcher, </role>
+                    <role>printer, </role>
+                    <role>colorist</role></origination>
+                <origination>Catherine Blake 
+                    <role>printer</role></origination>
+                <imprint>
+                    <publisher>William Blake</publisher>
+                    <pubplace>London
+                        <note>The place of publication is not given in the book, but Blake lived
+               in London during the writing, etching, and printing of this copy.</note></pubplace>
+                    <date>1793</date>
+                </imprint>
+                <compdate value="1793.A">1793</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1793.G">1793</printdate>
+                <numberobj>11</numberobj>
+                <objorder>1-11</objorder>
+                <objsize>ranging between 17.2 x 12.9 cm. and 14.2 x 11.2 cm.</objsize>
+                <numberleaves>6
+                    <note>The frontispiece (object 1) is printed on one side of a leaf; the other side is blank.  All other objects are printed recto/verso.</note></numberleaves>
+                <leafsize>35.9 x 24.4 cm.</leafsize>
+                <medium>relief etching with white-line etching on object 2</medium>
+                <printingstyle>relief</printingstyle>
+                <inkcolor>green</inkcolor>
+                <support>wove paper</support>
+                <watermark>J WHATMAN
+                    <note>The watermark appears only on the leaf bearing objects 2/3.</note></watermark>
+                <etchednumbers>numbered 2-3, 5-7 upper right on objects 5-6, 8-10
+                    <note>The etched number is obscured by hand coloring on object 10.</note></etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>disbound by 1909
+                    <note>
+                        Formerly bound in half red morocco with 
+                        <hi rend="i">Europe</hi>
+                        copy G and 
+                        <hi rend="i">The Song of Los</hi>
+                        copy C.  This binding is now kept with 
+                        <hi rend="i">The Song of Los</hi>
+                        copy C in the Morgan Library and Museum, New York.</note>
+                </binding>
+                <stabholes>Four holes, 6.2 cm. from the top and 5.8, 6.0, and 9.0 cm. apart, upper to lower hole.</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Rosenbach Museum and Library</name>
+                <date>c. 1958</date>
+                <dealer>John Fleming</dealer>
+                <price>£23,000 at auction in 1958</price>
+                <note>Acquired at an unknown time by H. A. Mair; sold from his collection, Puttick &amp; Simpson auction, London, 19 Nov. 1900, lot 338, bound with 
+                    <hi rend="i">Europe</hi>
+                    copy G, 
+                    <hi rend="i">The Song of Los</hi>
+                    copy C, and three water color drawings attributed to Blake (£225 to the dealer Bernard Quaritch); the whole volume acquired by Marsden J. Perry c. 1900 (according to a note by William A. White written on the flyleaf of 
+                    <hi rend="i">Europe</hi>
+                    copy G); acquired by White in March 1908 (according to his note on the flyleaf of 
+                    <hi rend="i">Europe</hi>
+                    copy G); the volume divided into its constituent works by Perry or White; all three illuminated books inherited by White's daughter, Frances White Emerson, in 1927; 
+                    <hi rend="i">Visions of the Daughters of Albion</hi>
+                    copy H sold from her collection, Sotheby's, 19 May 1958, lot 4 (£23,000 to the dealer John Fleming, the successor to the dealer A. S. W. Rosenbach); acquired by the Rosenbach Museum and Library c. 1958.</note>
+            </provenance>
+            <repository>
+                <institution>Rosenbach Museum and Library</institution>
+                <addressline>2008-2010 Delancey Place</addressline>
+                <addressline>Philadelphia, PA 19103</addressline>
+                <addressline>USA</addressline>
+                <addressline>Telephone: 1-215-732-1600</addressline>
+                <addressline>Fax: 1-215-545-7529</addressline>
+                <addressline>Email: info@rosenbach.org</addressline>
+                <addressline>URL: http://www.rosenbach.org</addressline>
+                <department>Library Division</department>
+                <repositoryid label="Call number">EL3 .B636v 793</repositoryid>
+            </repository>
+        </source>
+        <desc dbi="vda.H.P2-full" id="suppvda.h.rm.01">
+            <objtitle>,
+            
+                <objid>
+                    <objnumber code="A1">full leaf view</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>Plate 2 is poorly registered to its leaf. It appears low and tilted to the right. The registration of leaf onto the plate was done by eye, presumably by Mrs. Blake, as she was the &quot;clean hands&quot; person operating the press and handling the paper while Blake inked the plate and brought it to the bed of the press. Such misalignments of plates, though common in the illuminated books (see also object 10 in this copy) are frequently ignored in print and digital reproductions, either for economic or aesthetic reasons. See Viscomi, Joseph, 
+                        <a href="http://siteslab.unc.edu//viscomi/Digital_Facsimiles/index.html" target="blank">&quot;Digital Facsimiles: Reading the William Blake Archive.&quot;</a>
+                        <i>Computers and Humanities</i>
+                        36.1 (2002): 27-48.</p>
+                </objnote>
+                <objsize>35.9 x 24.4 cm.</objsize>
+                <windowsize height="889" width="619"/>
+            </physdesc>
+        </desc>
+        <desc dbi="vda.H.P10-full" id="suppvda.h.rm.02">
+            <objtitle>,
+                
+                <objid>
+                    <objnumber code="A2">full leaf view</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>Plate 10 is poorly registered to its leaf. It appears tilted to the right. The registration of leaf onto the plate was done by eye, presumably by Mrs. Blake, as she was the &quot;clean hands&quot; person operating the press and handling the paper while Blake inked the plate and brought it to the bed of the press. Such misalignments of plates, though common in the illuminated books (see also object 2 in this copy) are frequently ignored in print and digital reproductions, either for economic or aesthetic reasons. See Viscomi, Joseph, 
+                        <a href="http://siteslab.unc.edu//viscomi/Digital_Facsimiles/index.html" target="blank">&quot;Digital Facsimiles: Reading the William Blake Archive.&quot;</a>
+                        <i>Computers and Humanities</i>
+                        36.1 (2002): 27-48.</p>
+                </objnote>
+                <objsize>35.9 x 24.4 cm.</objsize>
+                <windowsize height="889" width="619"/>
+            </physdesc>
+        </desc>
+    </objdesc>
+</bad>

@@ -1,23 +1,180 @@
-<!--Step 3 conversion -Data modification/normalization  datamodsblake.xsl 2005-09-23T16:48:33-04:00 Aziza Technology Associates--><!-- Step 2 Conversion to BAD DTD 2004 using modblake.pl Fri Sep 23 15:38:05 2005 Aziza Technology Associates--><bad id="inscbut633.1" type="rmoth" work="Illustrations to Robert Blair's The Grave, related materials" copy="1" copyid="1" institution="ycba" catalog="butlin" catid="633" mode="preview"><header><filedesc><titlestmt><title reg="Illustrations to Robert Blair's The Grave, related materials"><main>Illustrations to Robert Blair's <hi rend="i">The Grave</hi></main>
-: electronic edition
+<!--Step 3 conversion -Data modification/normalization  datamodsblake.xsl 2005-09-23T16:48:33-04:00 Aziza Technology Associates-->
+<!-- Step 2 Conversion to BAD DTD 2004 using modblake.pl Fri Sep 23 15:38:05 2005 Aziza Technology Associates-->
+<bad catalog="butlin" catid="633" copy="1" copyid="1" id="inscbut633.1" institution="ycba" mode="preview" type="rmoth" work="Illustrations to Robert Blair's The Grave, related materials">
+	<header>
+		<filedesc>
+			<titlestmt>
+				<title reg="Illustrations to Robert Blair's The Grave, related materials">
+					<main>Illustrations to Robert Blair's 
+						<hi rend="i">The Grave</hi></main>: electronic edition</title>
+				<principal>
+					<resp>Editors: </resp>
+					<name>Morris Eaves, </name>University of Rochester; 
 
-</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; 
-<name>Robert Essick, </name>University of California, Riverside; and 
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt><resp>Technical Editor: </resp><name>William Shaw</name><resp>Programmer/Analysts: </resp><name>Robert Bingler</name><resp>Project Manager: </resp><name>William Shaw</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Sarah Jones, </name><name>Kari Kraus, </name><name>Ashley Reed, </name><name>Wayne C. Ripley, </name><name>Sarah Tolf</name></respstmt><sponsor>The Institute for Advanced Technology in the Humanities, the Library of 
-Congress, and the University of North Carolina at Chapel Hill with a software grant from Inso Corporation and hardware and software grants from Sun Microsystems</sponsor><funder>National Endowment for the Humanities, 2000-02</funder><funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder><funder>Getty Grant Program, 1995-98</funder></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 475KB; 108 JPEG (ISO/IEC 10918) 
-files ranging in size from 55KB to 820KB</extent><publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH<date>November 2006</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
-    The William Blake Archive is pleased to announce the publication of an electronic edition of Blake's water color illustrations for Robert Blair's <hi rend="i">The Grave</hi>. These are probably the 20 designs selected in 1805 by R. H. Cromek for publication in his forthcoming edition of <hi rend="i">The Grave</hi>, although only 12 were engraved by Louis Schiavonetti for the volume, published in 1808. One design, <hi rend="i">The Widow Embracing her Husband's Grave</hi>, has been known for many years, but the other 19 water colors disappeared between their auction in 1836 and their dramatic rediscovery in 2001. These 19 were sold individually at auction in spring 2006 and are now widely dispersed. The Grave water colors are presented in our Preview mode, one that provides all the features of the Archive except Image Search and Inote (our image annotation program). They join Schiavonetti's engravings and Blake's white-line etching of one design, "Deaths Door," previously published in the Archive.<lb/><lb/>
-    As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible through the continuing support of the Library of Congress, the Institute for Advanced Technology in the Humanities at the University of Virginia, the University of North Carolina at Chapel Hill, and by the cooperation of the international array of libraries, museums, and private collectors that have generously given us permission to reproduce works from their collections in the Archive.
-  </updatestmt><notesstmt/></filedesc><userestrict>
-  Copyright © <date>2006</date> by Morris Eaves, Robert N. Essick,
+					<name>Robert Essick, </name>
+					University of California, Riverside; and 
+
+					<name>Joseph Viscomi</name>
+					, University of North Carolina at Chapel Hill</principal>
+				<respstmt>
+					<resp>Technical Editor: </resp>
+					<name>William Shaw</name>
+					<resp>Programmer/Analysts: </resp>
+					<name>Robert Bingler</name>
+					<resp>Project Manager: </resp>
+					<name>William Shaw</name>
+					<resp>Project Assistants: </resp>
+					<name>Christopher N. Jackson, </name>
+					<name>Sarah Jones, </name>
+					<name>Kari Kraus, </name>
+					<name>Ashley Reed, </name>
+					<name>Wayne C. Ripley, </name>
+					<name>Sarah Tolf</name>
+				</respstmt>
+				<sponsor>The Institute for Advanced Technology in the Humanities, the Library of 
+Congress, and the University of North Carolina at Chapel Hill with a software grant from Inso Corporation and hardware and software grants from Sun Microsystems</sponsor>
+				<funder>National Endowment for the Humanities, 2000-02</funder>
+				<funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder>
+				<funder>Getty Grant Program, 1995-98</funder>
+			</titlestmt>
+			<editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+			<extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 475KB; 108 JPEG (ISO/IEC 10918) 
+files ranging in size from 55KB to 820KB</extent>
+			<publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH
+				<date>November 2006</date></publicationstmt>
+			<seriesstmt>The William Blake Archive</seriesstmt>
+			<updatestmt>The William Blake Archive is pleased to announce the publication of an electronic edition of Blake's water color illustrations for Robert Blair's 
+				<hi rend="i">The Grave</hi>
+				. These are probably the 20 designs selected in 1805 by R. H. Cromek for publication in his forthcoming edition of 
+				<hi rend="i">The Grave</hi>
+				, although only 12 were engraved by Louis Schiavonetti for the volume, published in 1808. One design, 
+				<hi rend="i">The Widow Embracing her Husband's Grave</hi>
+				, has been known for many years, but the other 19 water colors disappeared between their auction in 1836 and their dramatic rediscovery in 2001. These 19 were sold individually at auction in spring 2006 and are now widely dispersed. The Grave water colors are presented in our Preview mode, one that provides all the features of the Archive except Image Search and Inote (our image annotation program). They join Schiavonetti's engravings and Blake's white-line etching of one design, &quot;Deaths Door,&quot; previously published in the Archive.
+				<lb/>
+				<lb/>
+				As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible through the continuing support of the Library of Congress, the Institute for Advanced Technology in the Humanities at the University of Virginia, the University of North Carolina at Chapel Hill, and by the cooperation of the international array of libraries, museums, and private collectors that have generously given us permission to reproduce works from their collections in the Archive.</updatestmt>
+			<notesstmt/>
+		</filedesc>
+		<userestrict>Copyright © 
+			<date>2006</date>
+			by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved.  Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
 express written consent from the editors and advance notification of the
 publisher. Permission to reproduce the graphic images in this archive has been
-  granted by the owners of the originals for this publication only. <lb/><lb/>
-  This image copyright © 2006 Yale Center for British Art
+  granted by the owners of the originals for this publication only. 
+			<lb/>
+			<lb/>
+			This image copyright © 2006 Yale Center for British Art</userestrict>
+		<encodingdesc/>
+		<profiledesc/>
+	</header>
+	<objdesc>
+		<source>
+			<objdescid>
+				<objtitle>
+					<title>Illustrations to Robert Blair's 
+						<hi rend="i">The Grave</hi></title>
+				</objtitle>
+				<origination>William Blake
+					<role>inventor, </role>
+					<role>delineator, </role>
+					<role>colorist</role></origination>
+				<compdate value="1805.A">1805</compdate>
+			</objdescid>
+			<objinfo>
+				<numberobj>1</numberobj>
+				<objsize>15.4 x 20.8 cm.
+					<note>The mount (the backing mat) measures 26.7 x 33.3 cm.</note></objsize>
+				<numberleaves>1</numberleaves>
+				<leafsize>15.4 x 20.8 cm.
+					<note>The mount (the backing mat) measures 26.7 x 33.3 cm.</note></leafsize>
+				<medium>pen and ink and water colors over traces of pencil
+					<note>The mount inscriptions were first written (probably by Blake) in brown ink, then partly over-written (probably by another hand) in black ink.</note></medium>
+				<support>wove paper
+					<note>The mount (the backing mat) is thick cardboard.  The mounts of all twenty water colors are of the same type; those for objects 2 and 16 show watermarks with an 1800 date.</note></support>
+				<watermark>none visible</watermark>
+				<pennednumbers>none</pennednumbers>
+				<framelines>3
+					<note>The framing lines are on the mount (the backing mat), not on the water color itself.  There is gray wash between the outer two framing lines.</note></framelines>
+				<binding>none
+					<note>
+						This design may have been housed, unbound, in the red morocco wallet-style portfolio with nineteen other water-color illustrations to Blair's 
+						<hi rend="i">The Grave</hi>
+						.  It was separated from the others at an unknown time, probably in the early- or mid-nineteenth century.</note>
+				</binding>
+				<stabholes>none</stabholes>
+			</objinfo>
+			<provenance n="1">
+				<name>Yale Center for British Art</name>
+				<date>1971</date>
+				<dealer>Baskett and Day</dealer>
+				<price>£2100</price>
+				<note>Commissioned from Blake by Robert H. Cromek in the fall of 1805 (Cromek probably paid £21 for the group of twenty finished designs).  This water color was probably part of the group acquired by Thomas Sivright of Edinburgh but was separated from its companions at an unknown time (see Work Information for all the water colors).  Perhaps still with the other nineteen water colors when the group was sold from Sivright's collection, C. B. Tait auction, Edinburgh, 10 Feb. 1836, lot 1835, described as a &quot;Volume of Drawings by Blake, Illustrative of Blair's Grave&quot; and &quot;entitled,&quot; apparently on a label no longer extant, &quot;Black Spirits and White, Blue Spirits and Grey&quot; (£1.1s., possibly to John Stannard or a dealer acting for him).  This water color may be the design sold from the stock of the dealer Joseph Hogarth, Southgate and Barrett auction, London, 7 June 1854, lot 237, described as &quot;Children at the Grave of their Parent&quot; (with 5 others, 11s. to H. Palser).  The later history of this water color is as follows: J. F. Hall by 1876; the dealer Carfax &amp; Co., London; Mrs. Louisa Bishop, nee Salaman, by 1912; her son, Euston Bishop, probably by gift or inheritance; sold Sotheby's, 19 May 1958, lot 11 (£280 to the dealer Agnew's acting for Gwen, Lady Melchett); sold from Lady Melchett's collection, Christie's, 9 Nov. 1971, lot 74 (£2100 to the dealer Baskett and Day acting for Mr. and Mrs. Paul Mellon); given by Mellon in 1975 to the Yale Center for British Art.</note>
+			</provenance>
+			<repository>
+				<institution>Yale Center for British Art</institution>
+				<addressline>Box 208280</addressline>
+				<addressline>New Haven, Connecticut 06520-82-80</addressline>
+				<addressline>telephone: 203-432-2800</addressline>
+				<addressline>fax: 203-432-9695</addressline>
+				<addressline>URL (general): http://www.yale.edu/ycba/</addressline>
+				<addressline>URL (Dept. of Prints and Drawings): http://www.yale/edu/ycba/collect/print.htm</addressline>
+				<department>Prints and Drawings</department>
+				<repositoryid label="Call number">B1975.1026</repositoryid>
+			</repository>
+		</source>
+		<desc dbi="BUT633.1.1-full.RM" id="inscbut633.1.rm.01">
+			<objtitle>
+				<title type="transcribed">The Widow Embracing her Husband's Grave: full view including mount inscriptions</title>
+				<title type="alt">A Widow Embracing the Turf which Covers her Husband's Grave: full view including mount inscriptions</title>,
 
-</userestrict><encodingdesc/><profiledesc/></header><objdesc><source><objdescid><objtitle><title>Illustrations to Robert Blair's <hi rend="i">The Grave</hi></title></objtitle><origination>William Blake<role>inventor, </role><role>delineator, </role><role>colorist</role></origination><compdate value="1805.A">1805</compdate></objdescid><objinfo><numberobj>1</numberobj><objsize>15.4 x 20.8 cm.<note>The mount (the backing mat) measures 26.7 x 33.3 cm.</note></objsize><numberleaves>1</numberleaves><leafsize>15.4 x 20.8 cm.<note>The mount (the backing mat) measures 26.7 x 33.3 cm.</note></leafsize><medium>pen and ink and water colors over traces of pencil<note>The mount inscriptions were first written (probably by Blake) in brown ink, then partly over-written (probably by another hand) in black ink.</note></medium><support>wove paper<note>The mount (the backing mat) is thick cardboard.  The mounts of all twenty water colors are of the same type; those for objects 2 and 16 show watermarks with an 1800 date.</note></support><watermark>none visible</watermark><pennednumbers>none</pennednumbers><framelines>3<note>The framing lines are on the mount (the backing mat), not on the water color itself.  There is gray wash between the outer two framing lines.</note></framelines><binding>none<note>This design may have been housed, unbound, in the red morocco wallet-style portfolio with nineteen other water-color illustrations to Blair's <hi rend="i">The Grave</hi>.  It was separated from the others at an unknown time, probably in the early- or mid-nineteenth century.</note></binding><stabholes>none</stabholes></objinfo><provenance n="1"><name>Yale Center for British Art</name><date>1971</date><dealer>Baskett and Day</dealer><price>£2100</price><note>Commissioned from Blake by Robert H. Cromek in the fall of 1805 (Cromek probably paid £21 for the group of twenty finished designs).  This water color was probably part of the group acquired by Thomas Sivright of Edinburgh but was separated from its companions at an unknown time (see Work Information for all the water colors).  Perhaps still with the other nineteen water colors when the group was sold from Sivright's collection, C. B. Tait auction, Edinburgh, 10 Feb. 1836, lot 1835, described as a "Volume of Drawings by Blake, Illustrative of Blair's Grave" and "entitled," apparently on a label no longer extant, "Black Spirits and White, Blue Spirits and Grey" (£1.1s., possibly to John Stannard or a dealer acting for him).  This water color may be the design sold from the stock of the dealer Joseph Hogarth, Southgate and Barrett auction, London, 7 June 1854, lot 237, described as "Children at the Grave of their Parent" (with 5 others, 11s. to H. Palser).  The later history of this water color is as follows: J. F. Hall by 1876; the dealer Carfax &amp; Co., London; Mrs. Louisa Bishop, nee Salaman, by 1912; her son, Euston Bishop, probably by gift or inheritance; sold Sotheby's, 19 May 1958, lot 11 (£280 to the dealer Agnew's acting for Gwen, Lady Melchett); sold from Lady Melchett's collection, Christie's, 9 Nov. 1971, lot 74 (£2100 to the dealer Baskett and Day acting for Mr. and Mrs. Paul Mellon); given by Mellon in 1975 to the Yale Center for British Art.</note></provenance><repository><institution>Yale Center for British Art</institution><addressline>Box 208280</addressline><addressline>New Haven, Connecticut 06520-82-80</addressline><addressline>telephone: 203-432-2800</addressline><addressline>fax: 203-432-9695</addressline><addressline>URL (general): http://www.yale.edu/ycba/</addressline><addressline>URL (Dept. of Prints and Drawings): http://www.yale/edu/ycba/collect/print.htm</addressline><department>Prints and Drawings</department><repositoryid label="Call number">B1975.1026</repositoryid></repository></source><desc id="inscbut633.1.rm.01" dbi="BUT633.1.1-full.RM"><objtitle><title type="transcribed">The Widow Embracing her Husband's Grave: full view including mount inscriptions</title><title type="alt">A Widow Embracing the Turf which Covers her Husband's Grave: full view including mount inscriptions</title>,
-<objid><objnumber code="A1">full view including mount inscriptions </objnumber><objcode code="U1">(Butlin 633)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>26.7 x 33.3 cm.</objsize><objnote><p>The mount inscriptions were probably written by Blake in brown ink, then partly over-written by another hand in black ink.  See the Textual Transcription.  This water color was separated from its 19 companions at an unknown time, probably in the early- or mid-nineteenth century (see the note on provenance on the Work Information page).  The design is listed in Cromek's first prospectus of Nov. 1805, but it was not published in the 1808 edition.  A preliminary sketch is in the British Museum (Butlin 634).</p></objnote><windowsize width="650" height="600"/></physdesc><phystext><vspace extent="5"/><lg justify="left"><l n="inscbut633.1.rm.01.01" justify="left" indent="60">W. Blake. del</l><l n="inscbut633.1.rm.01.02" justify="left" indent="13">Prone on the lowly grave ___ she drops__</l><l n="inscbut633.1.rm.01.03" justify="left" indent="13">Clings yet more closely to the senseless turf.</l><l n="inscbut633.1.rm.01.04" justify="left" indent="13">Nor heeds the passenger who looks that way.</l></lg></phystext></desc><desc id="inscbut633.1.rm.02" dbi="BUT633.1.1-insc-b.RM"><objtitle><title type="transcribed">The Widow Embracing her Husband's Grave: bottom mount inscriptions</title><title type="alt">A Widow Embracing the Turf which Covers her Husband's Grave: bottom mount inscriptions</title>,
-                <objid><objnumber code="A1">bottom mount inscriptions </objnumber><objcode code="U1">(Butlin 633)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>3.7 x 33.3 cm.</objsize><objnote><p>The mount inscriptions were probably written by Blake in brown ink, then partly over-written by another hand in black ink.  See the Textual Transcription.  This water color was separated from its 19 companions at an unknown time, probably in the early- or mid-nineteenth century (see the note on provenance on the Work Information page).  The design is listed in Cromek's first prospectus of Nov. 1805, but it was not published in the 1808 edition.  A preliminary sketch is in the British Museum (Butlin 634).</p></objnote><windowsize width="900" height="400"/></physdesc><phystext><lg justify="left"><l n="inscbut633.1.rm.02.01" justify="left" indent="60">W. Blake. del</l><l n="inscbut633.1.rm.02.02" justify="left" indent="13">Prone on the lowly grave ___ she drops__</l><l n="inscbut633.1.rm.02.03" justify="left" indent="13">Clings yet more closely to the senseless turf.</l><l n="inscbut633.1.rm.02.04" justify="left" indent="13">Nor heeds the passenger who looks that way.</l></lg></phystext></desc></objdesc></bad>
+				<objid>
+					<objnumber code="A1">full view including mount inscriptions </objnumber>
+					<objcode code="U1">(Butlin 633)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>26.7 x 33.3 cm.</objsize>
+				<objnote>
+					<p>The mount inscriptions were probably written by Blake in brown ink, then partly over-written by another hand in black ink.  See the Textual Transcription.  This water color was separated from its 19 companions at an unknown time, probably in the early- or mid-nineteenth century (see the note on provenance on the Work Information page).  The design is listed in Cromek's first prospectus of Nov. 1805, but it was not published in the 1808 edition.  A preliminary sketch is in the British Museum (Butlin 634).</p>
+				</objnote>
+				<windowsize height="600" width="650"/>
+			</physdesc>
+			<phystext>
+				<vspace extent="5"/>
+				<lg justify="left">
+					<l indent="60" justify="left" n="inscbut633.1.rm.01.01">W. Blake. del</l>
+					<l indent="13" justify="left" n="inscbut633.1.rm.01.02">Prone on the lowly grave ___ she drops__</l>
+					<l indent="13" justify="left" n="inscbut633.1.rm.01.03">Clings yet more closely to the senseless turf.</l>
+					<l indent="13" justify="left" n="inscbut633.1.rm.01.04">Nor heeds the passenger who looks that way.</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="BUT633.1.1-insc-b.RM" id="inscbut633.1.rm.02">
+			<objtitle>
+				<title type="transcribed">The Widow Embracing her Husband's Grave: bottom mount inscriptions</title>
+				<title type="alt">A Widow Embracing the Turf which Covers her Husband's Grave: bottom mount inscriptions</title>,
+                
+				<objid>
+					<objnumber code="A1">bottom mount inscriptions </objnumber>
+					<objcode code="U1">(Butlin 633)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>3.7 x 33.3 cm.</objsize>
+				<objnote>
+					<p>The mount inscriptions were probably written by Blake in brown ink, then partly over-written by another hand in black ink.  See the Textual Transcription.  This water color was separated from its 19 companions at an unknown time, probably in the early- or mid-nineteenth century (see the note on provenance on the Work Information page).  The design is listed in Cromek's first prospectus of Nov. 1805, but it was not published in the 1808 edition.  A preliminary sketch is in the British Museum (Butlin 634).</p>
+				</objnote>
+				<windowsize height="400" width="900"/>
+			</physdesc>
+			<phystext>
+				<lg justify="left">
+					<l indent="60" justify="left" n="inscbut633.1.rm.02.01">W. Blake. del</l>
+					<l indent="13" justify="left" n="inscbut633.1.rm.02.02">Prone on the lowly grave ___ she drops__</l>
+					<l indent="13" justify="left" n="inscbut633.1.rm.02.03">Clings yet more closely to the senseless turf.</l>
+					<l indent="13" justify="left" n="inscbut633.1.rm.02.04">Nor heeds the passenger who looks that way.</l>
+				</lg>
+			</phystext>
+		</desc>
+	</objdesc>
+</bad>

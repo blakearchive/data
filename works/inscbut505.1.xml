@@ -1,41 +1,357 @@
-<bad id="inscbut505.1" type="rmoth" work="The Ascension, related materials" copy="1" copyid="1" institution="fitzwilliam" catalog="butlin" catid="505" hidden="false"><header><filedesc><titlestmt><title reg="The Ascension, related materials"><main>The Ascension</main>
-: electronic edition
-</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of
+<bad catalog="butlin" catid="505" copy="1" copyid="1" hidden="false" id="inscbut505.1" institution="fitzwilliam" type="rmoth" work="The Ascension, related materials">
+  <header>
+    <filedesc>
+      <titlestmt>
+        <title reg="The Ascension, related materials">
+          <main>The Ascension</main>: electronic edition</title>
+        <principal>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of
 Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt/><sponsor>The University of North Carolina at Chapel Hill and the Library of Congress</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>2 XML files approx. 12KB; 6 JPEG (ISO/IEC
+
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+
+          <name>Joseph Viscomi</name>
+          , University of North Carolina at Chapel Hill</principal>
+        <respstmt/>
+        <sponsor>The University of North Carolina at Chapel Hill and the Library of Congress</sponsor>
+        <funder/>
+      </titlestmt>
+      <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+      <extent>2 XML files approx. 12KB; 6 JPEG (ISO/IEC
 10918)
-files ranging in size from 33KB to 2100KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives<date>March 2011</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
-    The William Blake Archive is pleased to announce the publication of an electronic edition of thirty-three of Blake’s water color illustrations to the Bible.  All take their subjects from the New Testament and have been added to the twenty Old Testament subjects published in March 2010 as “Illustrations to the Bible, c. 1780-1824,” under Drawings and Paintings, Water Color Drawings.  This new group is presented in our Preview mode, one that provides all the features of the Archive except Image Search and Inote (which provides detailed descriptions of Blake’s images).
-                <lb/><lb/>
-                   Blake executed most of these New Testament water colors c. 1800-05 for his patron Thomas Butts.  The exceptions are <hi rend="i">The Whore of Babylon</hi> of 1809 and <hi rend="i">The Parable of the Wise and Foolish Virgins</hi> in the Yale Center for British Art, datable to c. 1825. The subjects range from the childhood of Jesus to his ascension, the later history of his parents and one of his major followers, St. Paul, and a group of eight designs based on the Book of Revelation.  While the illustrations of the life of Christ are fairly conventional in their subjects, in part because of the long tradition of picturing almost every event in the Gospels, individual motifs recall designs in Blake’s illuminated books and thus offer a window on Blake’s visual interpretation of the Bible. The illustrations of Revelation complement Blake’s intense engagement with apocalyptic events and images in his own poetry.
-                    <lb/><lb/>
-                        The selection of fifty-three biblical water colors now available in the Archive will be supplemented in the future with early works, such as <hi rend="i">Abraham and Isaac</hi>, datable to c. 1780, and will continue through Blake’s final biblical water colors, such as <hi rend="i">Moses Placed in the Ark of the Bulrushes</hi>. 
-                    <lb/><lb/>
-                    As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.
-</updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2011</date> by Morris Eaves, Robert N. Essick,
+files ranging in size from 33KB to 2100KB</extent>
+      <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives
+        <date>March 2011</date></publicationstmt>
+      <seriesstmt>The William Blake Archive</seriesstmt>
+      <updatestmt>The William Blake Archive is pleased to announce the publication of an electronic edition of thirty-three of Blake’s water color illustrations to the Bible.  All take their subjects from the New Testament and have been added to the twenty Old Testament subjects published in March 2010 as “Illustrations to the Bible, c. 1780-1824,” under Drawings and Paintings, Water Color Drawings.  This new group is presented in our Preview mode, one that provides all the features of the Archive except Image Search and Inote (which provides detailed descriptions of Blake’s images).
+                
+        <lb/>
+        <lb/>
+        Blake executed most of these New Testament water colors c. 1800-05 for his patron Thomas Butts.  The exceptions are 
+        <hi rend="i">The Whore of Babylon</hi>
+        of 1809 and 
+        <hi rend="i">The Parable of the Wise and Foolish Virgins</hi>
+        in the Yale Center for British Art, datable to c. 1825. The subjects range from the childhood of Jesus to his ascension, the later history of his parents and one of his major followers, St. Paul, and a group of eight designs based on the Book of Revelation.  While the illustrations of the life of Christ are fairly conventional in their subjects, in part because of the long tradition of picturing almost every event in the Gospels, individual motifs recall designs in Blake’s illuminated books and thus offer a window on Blake’s visual interpretation of the Bible. The illustrations of Revelation complement Blake’s intense engagement with apocalyptic events and images in his own poetry.
+                    
+        <lb/>
+        <lb/>
+        The selection of fifty-three biblical water colors now available in the Archive will be supplemented in the future with early works, such as 
+        <hi rend="i">Abraham and Isaac</hi>
+        , datable to c. 1780, and will continue through Blake’s final biblical water colors, such as 
+        <hi rend="i">Moses Placed in the Ark of the Bulrushes</hi>
+        . 
+                    
+        <lb/>
+        <lb/>
+        As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.</updatestmt>
+      <notesstmt/>
+    </filedesc>
+    <userestrict>Copyright © 
+      <date>2011</date>
+      by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved.  Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
 express written consent from the editors and advance notification of the
 publisher. Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/><lb/>
-This image copyright © 2011 Fitzwilliam Museum</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>November 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Illustration markup</change><date>Summer 2011</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Elizabeth Goodfellow,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Final proofing and publication</change><date>March 2011</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Robin Curry,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Elizabeth Goodfellow,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Sarah Tolf,</name><name>Joseph Vogel,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>BAD created</change><date>July 2010</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Lauren Cameron,</name><name>Robin Curry,</name><name>Andrea Everett,</name><name>Joseph Lamperez,</name><name>Rachel Lee,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Sarah Tolf,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Images received, catalogued and color corrected</change><date>April 2005</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>Andrea Laue</name><resp>Project Manager: </resp><name>Justin Van Kleeck</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Wesley N. Raabe, </name><name>Wayne C. Ripley, </name><name>William Shaw</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">The Ascension</hi></title></objtitle><origination>William Blake<role>inventor, </role><role>delineator, </role><role>colorist</role></origination><origination>Anonymous<role>delineator.  The inscribed roman numeral above the design and the title inscription below the design are not by Blake.</role></origination><compdate value="1803">c. 1803-05</compdate></objdescid><objinfo><numberobj>1</numberobj><objsize>42.5 x 31.9 cm.</objsize><numberleaves>1</numberleaves><leafsize>52.3 x 43.0 cm.</leafsize><medium>pencil, pen and ink, and water color<note>The inscribed roman numeral above the design and the title inscription below the design are in pencil.  Neither is by Blake.</note></medium><support>wove paper</support><watermark>none recorded</watermark><pennednumbers>none<note>The roman numeral inscribed above the design is in pencil.  This number is not by Blake.</note></pennednumbers><framelines>There are six framing lines, with pale washes between three sets of lines.  The innermost framing line is contiguous with the edge of the design.</framelines></objinfo><provenance n="1"><name>Fitzwilliam Museum</name><date>1949</date><dealer>none recorded</dealer><price>£7350</price><note>Commissioned and acquired from Blake by Thomas Butts c. 1803-05; by inheritance in 1845 to Thomas Butts, Jr.; by inheritance in 1862 to Frederick J. Butts; offered Sotheby's, 24 June 1903, lot 17 (bought-in by "Dimsdale," possibly T. E. Dimsdale, for £115); acquired in Feb. 1904 by W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949, lot 38 (£7350 to the executors of Robertson's estate for presentation through the National Arts Collection Fund to the Fitzwilliam Museum).</note></provenance><repository><institution>Fitzwilliam Museum</institution><addressline>Trumpington Street</addressline><addressline>Cambridge CB2 1RB</addressline><addressline>United Kingdom</addressline><addressline>Telephone: 01223-332900</addressline><addressline>Fax: 01223-332923</addressline><addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline><addressline>URL, Department of Paintings, Drawings and Prints: http://www.fitzmuseum.cam.ac.uk/dept/pdp</addressline><addressline>Email, Department of Paintings, Drawings and Prints: fitzmuseum-pdp@lists.cam.ac.uk</addressline><addressline>URL, Image Library: http://www.fitzmuseum.cam.ac.uk/dept/imagelibrary</addressline><addressline>Telephone, Image Library: 01223 332927</addressline><addressline>Fax, Image Library: 01223 768591</addressline><addressline>Email, Image Library: images@fitzmuseum.cam.ac.uk</addressline><department>Department of Paintings, Drawings and Prints</department><repositoryid label="Accession number">PD.32-1949</repositoryid></repository></source><desc id="inscbut505.1.rm.01" dbi="BUT505.1.1-full.RM"><objtitle><title type="transcribed">The Ascension</title>,
-<objid><objnumber code="A1">full view including all inscriptions </objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>Blake signed the work, lower left, with his monogram, and inscribed a reference to the passage illustrated below the design on the right.  See the textual transcription.  The inscribed roman numeral above the design and the title inscribed below the design are not by Blake.</p></objnote><objsize>52.3 x 43.0 cm.</objsize><windowsize width="700" height="875"/></physdesc></desc><desc id="inscbut505.1.rm.02" dbi="BUT505.1.1-insc-t.RM"><objtitle><title type="transcribed">The Ascension</title>,
-            <objid><objnumber code="A1">top inscription </objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>The inscribed roman numeral above the design is not by Blake.</p></objnote><objsize>2.6 x 27.5 cm.</objsize><windowsize width="800" height="400"/></physdesc><phystext><lg justify="left"><l n="inscbut505.1.rm.02.01" justify="left" indent="28">VII</l></lg></phystext></desc><desc id="inscbut505.1.rm.03" dbi="BUT505.1.1-insc-b.RM"><objtitle><title type="transcribed">The Ascension</title>,
-            <objid><objnumber code="A1">bottom inscription </objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>The title inscribed below the design is not by Blake.</p></objnote><objsize>4.2 x 24.4 cm.</objsize><windowsize width="800" height="400"/></physdesc><phystext><lg justify="left"><l n="inscbut505.1.rm.03.01" justify="left" indent="23">The Ascension.</l></lg></phystext></desc></objdesc></bad>
+granted by the owners of the originals for this publication only.
+      <lb/>
+      <lb/>
+      This image copyright © 2011 Fitzwilliam Museum</userestrict>
+    <encodingdesc/>
+    <profiledesc/>
+    <revisiondesc>
+      <changestmt>
+        <change>Final proofing and publication</change>
+        <date>November 2012</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Coordinator, University of Rochester: </resp>
+          <name>Rachel Lee</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Gabrielle Kiriloff,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Hardeep Sidhu,</name>
+          <name>Sarah Tolf,</name>
+          <name>Lisa Vandenbossche,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Illustration markup</change>
+        <date>Summer 2011</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Coordinator, University of Rochester:</resp>
+          <name>Rachel Lee</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Elizabeth Goodfellow,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Hardeep Sidhu,</name>
+          <name>Sarah Tolf,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Final proofing and publication</change>
+        <date>March 2011</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Coordinator, University of Rochester:</resp>
+          <name>Rachel Lee</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Robin Curry,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Elizabeth Goodfellow,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Sarah Tolf,</name>
+          <name>Joseph Vogel,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>BAD created</change>
+        <date>July 2010</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Lauren Cameron,</name>
+          <name>Robin Curry,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Lamperez,</name>
+          <name>Rachel Lee,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Sarah Tolf,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Images received, catalogued and color corrected</change>
+        <date>April 2005</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>Andrea Laue</name>
+          <resp>Project Manager: </resp>
+          <name>Justin Van Kleeck</name>
+          <resp>Project Assistants: </resp>
+          <name>Christopher N. Jackson, </name>
+          <name>Wesley N. Raabe, </name>
+          <name>Wayne C. Ripley, </name>
+          <name>William Shaw</name></respstmt>
+      </changestmt>
+    </revisiondesc>
+  </header>
+  <objdesc>
+    <source>
+      <objdescid>
+        <objtitle>
+          <title>
+            <hi rend="i">The Ascension</hi>
+          </title>
+        </objtitle>
+        <origination>William Blake
+          <role>inventor, </role>
+          <role>delineator, </role>
+          <role>colorist</role></origination>
+        <origination>Anonymous
+          <role>delineator.  The inscribed roman numeral above the design and the title inscription below the design are not by Blake.</role></origination>
+        <compdate value="1803">c. 1803-05</compdate>
+      </objdescid>
+      <objinfo>
+        <numberobj>1</numberobj>
+        <objsize>42.5 x 31.9 cm.</objsize>
+        <numberleaves>1</numberleaves>
+        <leafsize>52.3 x 43.0 cm.</leafsize>
+        <medium>pencil, pen and ink, and water color
+          <note>The inscribed roman numeral above the design and the title inscription below the design are in pencil.  Neither is by Blake.</note></medium>
+        <support>wove paper</support>
+        <watermark>none recorded</watermark>
+        <pennednumbers>none
+          <note>The roman numeral inscribed above the design is in pencil.  This number is not by Blake.</note></pennednumbers>
+        <framelines>There are six framing lines, with pale washes between three sets of lines.  The innermost framing line is contiguous with the edge of the design.</framelines>
+      </objinfo>
+      <provenance n="1">
+        <name>Fitzwilliam Museum</name>
+        <date>1949</date>
+        <dealer>none recorded</dealer>
+        <price>£7350</price>
+        <note>Commissioned and acquired from Blake by Thomas Butts c. 1803-05; by inheritance in 1845 to Thomas Butts, Jr.; by inheritance in 1862 to Frederick J. Butts; offered Sotheby's, 24 June 1903, lot 17 (bought-in by &quot;Dimsdale,&quot; possibly T. E. Dimsdale, for £115); acquired in Feb. 1904 by W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949, lot 38 (£7350 to the executors of Robertson's estate for presentation through the National Arts Collection Fund to the Fitzwilliam Museum).</note>
+      </provenance>
+      <repository>
+        <institution>Fitzwilliam Museum</institution>
+        <addressline>Trumpington Street</addressline>
+        <addressline>Cambridge CB2 1RB</addressline>
+        <addressline>United Kingdom</addressline>
+        <addressline>Telephone: 01223-332900</addressline>
+        <addressline>Fax: 01223-332923</addressline>
+        <addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline>
+        <addressline>URL, Department of Paintings, Drawings and Prints: http://www.fitzmuseum.cam.ac.uk/dept/pdp</addressline>
+        <addressline>Email, Department of Paintings, Drawings and Prints: fitzmuseum-pdp@lists.cam.ac.uk</addressline>
+        <addressline>URL, Image Library: http://www.fitzmuseum.cam.ac.uk/dept/imagelibrary</addressline>
+        <addressline>Telephone, Image Library: 01223 332927</addressline>
+        <addressline>Fax, Image Library: 01223 768591</addressline>
+        <addressline>Email, Image Library: images@fitzmuseum.cam.ac.uk</addressline>
+        <department>Department of Paintings, Drawings and Prints</department>
+        <repositoryid label="Accession number">PD.32-1949</repositoryid>
+      </repository>
+    </source>
+    <desc dbi="BUT505.1.1-full.RM" id="inscbut505.1.rm.01">
+      <objtitle>
+        <title type="transcribed">The Ascension</title>,
+
+        <objid>
+          <objnumber code="A1">full view including all inscriptions </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>Blake signed the work, lower left, with his monogram, and inscribed a reference to the passage illustrated below the design on the right.  See the textual transcription.  The inscribed roman numeral above the design and the title inscribed below the design are not by Blake.</p>
+        </objnote>
+        <objsize>52.3 x 43.0 cm.</objsize>
+        <windowsize height="875" width="700"/>
+      </physdesc>
+    </desc>
+    <desc dbi="BUT505.1.1-insc-t.RM" id="inscbut505.1.rm.02">
+      <objtitle>
+        <title type="transcribed">The Ascension</title>,
+            
+        <objid>
+          <objnumber code="A1">top inscription </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>The inscribed roman numeral above the design is not by Blake.</p>
+        </objnote>
+        <objsize>2.6 x 27.5 cm.</objsize>
+        <windowsize height="400" width="800"/>
+      </physdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="28" justify="left" n="inscbut505.1.rm.02.01">VII</l>
+        </lg>
+      </phystext>
+    </desc>
+    <desc dbi="BUT505.1.1-insc-b.RM" id="inscbut505.1.rm.03">
+      <objtitle>
+        <title type="transcribed">The Ascension</title>,
+            
+        <objid>
+          <objnumber code="A1">bottom inscription </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>The title inscribed below the design is not by Blake.</p>
+        </objnote>
+        <objsize>4.2 x 24.4 cm.</objsize>
+        <windowsize height="400" width="800"/>
+      </physdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="23" justify="left" n="inscbut505.1.rm.03.01">The Ascension.</l>
+        </lg>
+      </phystext>
+    </desc>
+  </objdesc>
+</bad>

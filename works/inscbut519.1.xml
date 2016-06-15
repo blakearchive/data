@@ -1,29 +1,283 @@
-<bad id="inscbut519.1" type="wc" work="The Great Red Dragon and the Woman Clothed with the Sun" copy="1" copyid="1" institution="brooklyn" catalog="butlin" catid="519" hidden="false"><header><filedesc><titlestmt><title reg="The Great Red Dragon and the Woman Clothed with the Sun"><main>The Great Red Dragon and the Woman Clothed with the Sun</main>
-                    : electronic edition
-                </title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of
+<bad catalog="butlin" catid="519" copy="1" copyid="1" hidden="false" id="inscbut519.1" institution="brooklyn" type="wc" work="The Great Red Dragon and the Woman Clothed with the Sun">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Great Red Dragon and the Woman Clothed with the Sun">
+                    <main>The Great Red Dragon and the Woman Clothed with the Sun</main>: electronic edition</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of
                     Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt/><sponsor>The University of North Carolina at Chapel Hill, the University of Rochester, and the Library of Congress</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>1 XML file approx. 11KB; 6 JPEG (ISO/IEC
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi</name>
+                    , University of North Carolina at Chapel Hill</principal>
+                <respstmt/>
+                <sponsor>The University of North Carolina at Chapel Hill, the University of Rochester, and the Library of Congress</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 11KB; 6 JPEG (ISO/IEC
                 10918)
-                files ranging in size from 49KB to 1000KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives<date>November 2012</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
-                
-            </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2012</date> by Morris Eaves, Robert N. Essick,
+                files ranging in size from 49KB to 1000KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives
+                <date>November 2012</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt/>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © 
+            <date>2012</date>
+            by Morris Eaves, Robert N. Essick,
             and Joseph Viscomi, all rights reserved.  Items in the Archive may be
             shared in accordance with the Fair Use provisions of U.S. copyright law.
             Redistribution or republication on other terms, in any medium, requires
             express written consent from the editors and advance notification of the
             publisher. Permission to reproduce the graphic images in this archive has been
-            granted by the owners of the originals for this publication only.<lb/><lb/>
-            This image copyright © 2012 Brooklyn Museum</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>November 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>BAD creation, copyheader and illustration description</change><date>Summer 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Image acquisition and color correction</change><date>May 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">The Great Red Dragon and the Woman Clothed with the Sun</hi></title></objtitle><origination>William Blake<role>inventor, </role><role>delineator, </role><role>colorist</role></origination><origination>Anonymous<role>delineator.  The inscriptions on the mount are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written. The identity of the calligrapher who wrote the inscriptions is not known.</role></origination><compdate value="1803">c. 1803-05</compdate></objdescid><objinfo><numberobj>1</numberobj><objsize>43.7 x 34.8 cm.</objsize><numberleaves>1</numberleaves><leafsize>43.7 x 34.8 cm.</leafsize><medium>black chalk, pen and ink, and water color</medium><support>wove paper</support><watermark>none recorded</watermark><pennednumbers>none</pennednumbers><framelines>none</framelines></objinfo><provenance n="1"><name>Brooklyn Museum</name><date>1915</date><dealer>none</dealer><price>gift</price><note>Commissioned and acquired from Blake by Thomas Butts c. 1803-05; by inheritance in 1845 to Thomas Butts, Jr.; sold Sotheby's, 26 June 1852, lot 162 (£1.2s. to "Fuller," possibly a dealer, who still owned the work in 1863); Hugh Andrew Johnstone Munro; his estate or heirs by 1864; sold Christie's, 24 April 1868, lot 489 (£2.15s. to "Kibble," probably a dealer, possibly acting for Marsden J. Perry); sold by Perry in 1908 to William Augustus White; given by White to the Brooklyn Museum in Jan. 1915.</note></provenance><repository><institution>Brooklyn Museum</institution><addressline>200 Eastern Parkway</addressline><addressline>Brooklyn, NY 11238-6052</addressline><addressline>Telephone: 718 638 5000</addressline><addressline>Fax: 718 501 6136</addressline><addressline>Email: information@brooklynmuseum.org</addressline><addressline>URL: http://www.brooklynmuseum.org</addressline><addressline>Telephone, Image Services: 718 501 6202</addressline><addressline>Fax, Image Services: 718 501 6145</addressline><addressline>Email, Image Services: reproductions@brooklynmuseum.org</addressline><addressline>URL, Image Services: http://www.brooklynmuseum.org/image_service.php</addressline><repositoryid label="Accession number">15.368</repositoryid></repository></source><desc id="inscbut519.1.rm.01" dbi="BUT519.1.1-full.RM"><objtitle><title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun</title>,
-                <objid><objnumber code="A1">full view including mount inscriptions</objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>The inscriptions on the mount are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p></objnote><objsize>55.1 x 43.3 cm.</objsize><windowsize width="700" height="950"/></physdesc></desc><desc id="inscbut519.1.rm.02" dbi="BUT519.1.1-insc-t.RM"><objtitle><title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun</title>,
-                <objid><objnumber code="A1">top mount inscription </objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>The inscriptions on the mount are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p></objnote><objsize>4.8 x 43.1 cm.</objsize><windowsize width="1000" height="300"/></physdesc><phystext><lg justify="left"><l n="inscbut519.1.rm.02.01" justify="left" indent="3">A Woman clothed with the sun, &amp; the moon under her feet, and</l><l n="inscbut519.1.rm.02.02" justify="left">upon her head a crown of twelve stars; and, behold, a great red dragon also.</l></lg></phystext></desc><desc id="inscbut519.1.rm.03" dbi="BUT519.1.1-insc-b.RM"><objtitle><title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun</title>,
-                <objid><objnumber code="A1">bottom mount inscriptions </objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>The inscriptions on the mount are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p></objnote><objsize>6.1 x 43.1 cm.</objsize><windowsize width="1000" height="300"/></physdesc><phystext><lg justify="left"><l n="inscbut519.1.rm.03.01" justify="left" indent="50">Rev:<hi rend="superscript">ns</hi> ch: 12:<hi rend="superscript">th</hi> v. 4.<hi rend="superscript">th</hi></l><l n="inscbut519.1.rm.03.02" justify="left">And the tail of the great red dragon, drew the third part of the stars of</l><l n="inscbut519.1.rm.03.03" justify="left">heaven, and did cast them to the earth.<space extent="2"/>And the dragon stood before the</l><l n="inscbut519.1.rm.03.04" justify="left">woman which was ready to be delivered, for to devour her child as soon as it was born</l></lg></phystext></desc></objdesc></bad>
+            granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This image copyright © 2012 Brooklyn Museum</userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation, copyheader and illustration description</change>
+                <date>Summer 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquisition and color correction</change>
+                <date>May 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Katherine Carlson,</name>
+                    <name>Cassandra Etter-Wenzel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Bihan Zhang</name></respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        <hi rend="i">The Great Red Dragon and the Woman Clothed with the Sun</hi>
+                    </title>
+                </objtitle>
+                <origination>William Blake
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role></origination>
+                <origination>Anonymous
+                    <role>delineator.  The inscriptions on the mount are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written. The identity of the calligrapher who wrote the inscriptions is not known.</role></origination>
+                <compdate value="1803">c. 1803-05</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>43.7 x 34.8 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>43.7 x 34.8 cm.</leafsize>
+                <medium>black chalk, pen and ink, and water color</medium>
+                <support>wove paper</support>
+                <watermark>none recorded</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>Brooklyn Museum</name>
+                <date>1915</date>
+                <dealer>none</dealer>
+                <price>gift</price>
+                <note>Commissioned and acquired from Blake by Thomas Butts c. 1803-05; by inheritance in 1845 to Thomas Butts, Jr.; sold Sotheby's, 26 June 1852, lot 162 (£1.2s. to &quot;Fuller,&quot; possibly a dealer, who still owned the work in 1863); Hugh Andrew Johnstone Munro; his estate or heirs by 1864; sold Christie's, 24 April 1868, lot 489 (£2.15s. to &quot;Kibble,&quot; probably a dealer, possibly acting for Marsden J. Perry); sold by Perry in 1908 to William Augustus White; given by White to the Brooklyn Museum in Jan. 1915.</note>
+            </provenance>
+            <repository>
+                <institution>Brooklyn Museum</institution>
+                <addressline>200 Eastern Parkway</addressline>
+                <addressline>Brooklyn, NY 11238-6052</addressline>
+                <addressline>Telephone: 718 638 5000</addressline>
+                <addressline>Fax: 718 501 6136</addressline>
+                <addressline>Email: information@brooklynmuseum.org</addressline>
+                <addressline>URL: http://www.brooklynmuseum.org</addressline>
+                <addressline>Telephone, Image Services: 718 501 6202</addressline>
+                <addressline>Fax, Image Services: 718 501 6145</addressline>
+                <addressline>Email, Image Services: reproductions@brooklynmuseum.org</addressline>
+                <addressline>URL, Image Services: http://www.brooklynmuseum.org/image_service.php</addressline>
+                <repositoryid label="Accession number">15.368</repositoryid>
+            </repository>
+        </source>
+        <desc dbi="BUT519.1.1-full.RM" id="inscbut519.1.rm.01">
+            <objtitle>
+                <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun</title>,
+                
+                <objid>
+                    <objnumber code="A1">full view including mount inscriptions</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>The inscriptions on the mount are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p>
+                </objnote>
+                <objsize>55.1 x 43.3 cm.</objsize>
+                <windowsize height="950" width="700"/>
+            </physdesc>
+        </desc>
+        <desc dbi="BUT519.1.1-insc-t.RM" id="inscbut519.1.rm.02">
+            <objtitle>
+                <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun</title>,
+                
+                <objid>
+                    <objnumber code="A1">top mount inscription </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>The inscriptions on the mount are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p>
+                </objnote>
+                <objsize>4.8 x 43.1 cm.</objsize>
+                <windowsize height="300" width="1000"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l indent="3" justify="left" n="inscbut519.1.rm.02.01">A Woman clothed with the sun, &amp; the moon under her feet, and</l>
+                    <l justify="left" n="inscbut519.1.rm.02.02">upon her head a crown of twelve stars; and, behold, a great red dragon also.</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc dbi="BUT519.1.1-insc-b.RM" id="inscbut519.1.rm.03">
+            <objtitle>
+                <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun</title>,
+                
+                <objid>
+                    <objnumber code="A1">bottom mount inscriptions </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>The inscriptions on the mount are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</p>
+                </objnote>
+                <objsize>6.1 x 43.1 cm.</objsize>
+                <windowsize height="300" width="1000"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l indent="50" justify="left" n="inscbut519.1.rm.03.01">Rev:
+                        <hi rend="superscript">ns</hi>
+                        ch: 12:
+                        <hi rend="superscript">th</hi>
+                        v. 4.
+                        <hi rend="superscript">th</hi></l>
+                    <l justify="left" n="inscbut519.1.rm.03.02">And the tail of the great red dragon, drew the third part of the stars of</l>
+                    <l justify="left" n="inscbut519.1.rm.03.03">heaven, and did cast them to the earth.
+                        <space extent="2"/>
+                        And the dragon stood before the</l>
+                    <l justify="left" n="inscbut519.1.rm.03.04">woman which was ready to be delivered, for to devour her child as soon as it was born</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

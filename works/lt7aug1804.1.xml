@@ -1,146 +1,621 @@
-<bad id="lt7aug1804.1" type="ltr" work="Letter to William Hayley, 7 August 1804" copy="1" copyid="1" institution="essick" catalog="wba" catid="lt86-7aug1804" hidden="false"><header><filedesc><titlestmt><title reg="Letter to William Hayley, 7 August 1804"><main>Letter to William Hayley, 7 August 1804</main> : electronic edition </title><principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester; <name>Robert
-                        Essick,</name>University of California, Riverside; and <name>Joseph
-                            Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt> </respstmt><sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
-                    and the University of Rochester</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2004</editionstmt><extent>1 XML file approx. 25.8KB; 8 JPEG (ISO/IEC 10918) files ranging in size from 179KB
-                to 1100KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>March 2014</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>                
-                The William Blake Archive is pleased to announce the publication of electronic editions of our second installment of Blake's letters, the correspondence of 1800-1805, which includes his three years with patron William Hayley in the coastal village of Felpham, West Sussex, and the frightening months leading up to his trial for sedition.
+<bad catalog="wba" catid="lt86-7aug1804" copy="1" copyid="1" hidden="false" id="lt7aug1804.1" institution="essick" type="ltr" work="Letter to William Hayley, 7 August 1804">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Letter to William Hayley, 7 August 1804">
+                    <main>Letter to William Hayley, 7 August 1804</main>: electronic edition </title>
+                <principal>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>University of Rochester; 
+                    <name>Robert
+                        Essick,</name>
+                    University of California, Riverside; and 
+                    <name>Joseph
+                            Viscomi</name>
+                    , University of North Carolina at Chapel Hill</principal>
+                <respstmt/>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
+            <extent>1 XML file approx. 25.8KB; 8 JPEG (ISO/IEC 10918) files ranging in size from 179KB
+                to 1100KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>March 2014</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>The William Blake Archive is pleased to announce the publication of electronic editions of our second installment of Blake's letters, the correspondence of 1800-1805, which includes his three years with patron William Hayley in the coastal village of Felpham, West Sussex, and the frightening months leading up to his trial for sedition.
+                
                 <lb/>
-                The letters in this group supplement the Archive’s publication in November 2013 of Blake's illustrations to works by Hayley, including his <hi rend="i">Essay on Sculpture</hi>, the broadside ballad <hi rend="i">Little Tom the Sailor</hi>, <hi rend="i">The Triumphs of Temper</hi>, <hi rend="i">The Life and Posthumous Writings of William Cowper</hi>, and <hi rend="i">The Life of George Romney</hi>, along with the republication of Blake’s etched and engraved illustrations to <hi rend="i">Designs to a Series of Ballads, Written by William Hayley</hi> (1802) and Hayley’s <hi rend="i">Ballads</hi> (1805). Letters from this period track the downward spiral from the most hopeful moments of Blake’s anticipations of working for the beloved “hermit of Eartham” to the bitterness and resentment he ultimately felt for that “pickthank.” The letters also show Blake in the process of conducting routine business: with Hayley but also with his important London patron Thomas Butts and with the publisher-promoter Robert Hartley Cromek, who was destined to become a focus of anger and frustration in the next stage of Blake’s life.  <lb/><lb/>
-                About ninety of Blake’s letters survive, an unknown fraction of the total. Several—ten in the present group of thirty-three—are known only from partial and full transcriptions in the second, expanded, edition of Alexander Gilchrist’s <hi rend="i">Life of William Blake</hi> (1880). Blake traveled seldom and not very far. His circle of correspondents was narrow and the geographical circuit small. But his modest body of correspondence comprises an absorbing, revealing miscellany of reports on work in progress alongside friendly and not so friendly exchanges on matters of practical and intellectual substance. Occasionally the letters burst out into visions that amalgamate, in a characteristic Blakean vein, homely details, intensely energized prose, and inspired poetry.&#160;    <lb/><lb/>
-                The letters are, in any case, indispensable in preserving facts and contexts for his life and work that would be otherwise unknown and in showing him shift pragmatically from role to role in a very natural—and human—way, exposing facets of character and personality not always so apparent in his art. The letters feel closer to the exigencies of everyday life than any other works from Blake’s hand. He seldom puts pen to paper without interesting consequences for readers.   <lb/><lb/>
-                The Archive now contains 136 fully searchable and scalable electronic editions of important manuscripts and series of engravings, color printed drawings, tempera paintings, water color drawings, including 90 copies of Blake's nineteen illuminated books—all in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies.   <lb/><lb/>
-                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.  
-            </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2014</date> by Morris Eaves, Robert N. Essick, and Joseph
+                The letters in this group supplement the Archive’s publication in November 2013 of Blake's illustrations to works by Hayley, including his 
+                <hi rend="i">Essay on Sculpture</hi>
+                , the broadside ballad 
+                <hi rend="i">Little Tom the Sailor</hi>
+                , 
+                <hi rend="i">The Triumphs of Temper</hi>
+                , 
+                <hi rend="i">The Life and Posthumous Writings of William Cowper</hi>
+                , and 
+                <hi rend="i">The Life of George Romney</hi>
+                , along with the republication of Blake’s etched and engraved illustrations to 
+                <hi rend="i">Designs to a Series of Ballads, Written by William Hayley</hi>
+                (1802) and Hayley’s 
+                <hi rend="i">Ballads</hi>
+                (1805). Letters from this period track the downward spiral from the most hopeful moments of Blake’s anticipations of working for the beloved “hermit of Eartham” to the bitterness and resentment he ultimately felt for that “pickthank.” The letters also show Blake in the process of conducting routine business: with Hayley but also with his important London patron Thomas Butts and with the publisher-promoter Robert Hartley Cromek, who was destined to become a focus of anger and frustration in the next stage of Blake’s life.  
+                <lb/>
+                <lb/>
+                About ninety of Blake’s letters survive, an unknown fraction of the total. Several—ten in the present group of thirty-three—are known only from partial and full transcriptions in the second, expanded, edition of Alexander Gilchrist’s 
+                <hi rend="i">Life of William Blake</hi>
+                (1880). Blake traveled seldom and not very far. His circle of correspondents was narrow and the geographical circuit small. But his modest body of correspondence comprises an absorbing, revealing miscellany of reports on work in progress alongside friendly and not so friendly exchanges on matters of practical and intellectual substance. Occasionally the letters burst out into visions that amalgamate, in a characteristic Blakean vein, homely details, intensely energized prose, and inspired poetry.     
+                <lb/>
+                <lb/>
+                The letters are, in any case, indispensable in preserving facts and contexts for his life and work that would be otherwise unknown and in showing him shift pragmatically from role to role in a very natural—and human—way, exposing facets of character and personality not always so apparent in his art. The letters feel closer to the exigencies of everyday life than any other works from Blake’s hand. He seldom puts pen to paper without interesting consequences for readers.   
+                <lb/>
+                <lb/>
+                The Archive now contains 136 fully searchable and scalable electronic editions of important manuscripts and series of engravings, color printed drawings, tempera paintings, water color drawings, including 90 copies of Blake's nineteen illuminated books—all in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies.   
+                <lb/>
+                <lb/>
+                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.  </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © 
+            <date>2014</date>
+            by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication only.<lb/><lb/>This image copyright © 2014 William Blake Archive. </userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>December 2013-January 2014</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>Michael Fox</name><resp>Project Manager: </resp><name>Joseph Fletcher</name><resp>Project Coordinator, University of Rochester: </resp><name>Laura Bell</name><resp>Consultant on Special Projects: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Amber Bertin,</name><name>Katherine Calvin,</name><name>Andrea Everett,</name><name>Duncan Graham,</name><name>Shannon Jaime,</name><name>Gabrielle Kiriloff,</name><name>Eric Loy,</name><name>Kate Massie,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Anastasia Nikolis,</name><name>Adair Rispoli,</name><name>Hardeep Sidhu,</name><name>Margaret Speer,</name><name>Sarah Tolf,</name><name>Danny Tsegai,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name><name>Megan Wilson,</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title>Letter to William Hayley, 7 August 1804</title></objtitle><origination>William Blake<role>author,</role><role> inventor,</role><role> delineator</role></origination><compdate value="1804.L">1804</compdate></objdescid><objinfo><numberobj>4</numberobj><objorder>1-4</objorder><objsize>full sheet 22.8 x 36.6 cm.<note>Full sheet and Leaf Size dimensions (height
+            archive has been granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This image copyright © 2014 William Blake Archive. </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>December 2013-January 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson,</name></respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Letter to William Hayley, 7 August 1804</title>
+                </objtitle>
+                <origination>William Blake
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator</role></origination>
+                <compdate value="1804.L">1804</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>4</numberobj>
+                <objorder>1-4</objorder>
+                <objsize>full sheet 22.8 x 36.6 cm.
+                    <note>Full sheet and Leaf Size dimensions (height
                         x width) are given according to the vertical orientation of the body of
                         Blake's letter; see the note on Number of Leaves, below. Object 1 has been
                         reoriented vertically in the Object View Page, as would be customary when
-                        reading the address.</note></objsize><numberleaves>2<note>The full sheet was folded to form two leaves. Blake's letter
+                        reading the address.</note></objsize>
+                <numberleaves>2
+                    <note>The full sheet was folded to form two leaves. Blake's letter
                         appears on the first recto (object 2), first verso (object 3), and second
                         recto (object 4). This folded sheet was folded further to form a sealed
                         packet for posting. The address appears on the second verso (object 1),
                         which would have been the exterior of the sealed packet. A large round hole
                         is visible along the edge of objects 1-4 where the red wax seal was opened.
                         Unfolded full sheet views of the letter are available under Supplemental
-                        Views on the Show Me pull-down menu for those objects.</note></numberleaves><leafsize>22.8 x 18.3 cm.</leafsize><medium>pen and ink</medium><inkcolor>black</inkcolor><support>laid paper</support><watermark>A large watermark in the center of the full sheet shows a horn within a
+                        Views on the Show Me pull-down menu for those objects.</note></numberleaves>
+                <leafsize>22.8 x 18.3 cm.</leafsize>
+                <medium>pen and ink</medium>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>A large watermark in the center of the full sheet shows a horn within a
                     shield, the shield surmounted by a crown and a finial at the lower termination
                     of the shield. Below these motifs is an elaborate JW cipher that identifies the
-                    paper as Whatman. The chain lines are 2.4 cm. apart.</watermark><binding>none</binding><postmark>"6", "A U / [7?] / [1]804"</postmark><sealDesc>red wax</sealDesc><addressee>William Hayley</addressee><placeLet>London</placeLet></objinfo><provenance n="1"><name>Robert N. Essick</name><date>18 December 2009</date><dealer>John Windle</dealer><price>£38,000 hammer price (£46,850 inclusive of the buyer’s premium)</price><note>William Hayley; sold from the Hayley Correspondence, Sotheby's, 20 May 1878,
+                    paper as Whatman. The chain lines are 2.4 cm. apart.</watermark>
+                <binding>none</binding>
+                <postmark>&quot;6&quot;, &quot;A U / [7?] / [1]804&quot;</postmark>
+                <sealDesc>red wax</sealDesc>
+                <addressee>William Hayley</addressee>
+                <placeLet>London</placeLet>
+            </objinfo>
+            <provenance n="1">
+                <name>Robert N. Essick</name>
+                <date>18 December 2009</date>
+                <dealer>John Windle</dealer>
+                <price>£38,000 hammer price (£46,850 inclusive of the buyer’s premium)</price>
+                <note>William Hayley; sold from the Hayley Correspondence, Sotheby's, 20 May 1878,
                     lot 22 (£3.10s. to Naylor); sold posthumously from Naylor's stock, Sotheby's, 1
                     August 1885, lot 1031 (£3.18s. to Molini and Green of King William Street,
                     Strand); according to Sotheby's 17 December 2009 auction catalog, lot 72, the
                     letter had resided for many decades, possibly since the 1880s, in the collection
                     of Robert Griffin (c. 1840-1921) of Court Garden, Marlow, Buckinghamshire, from
-                    whom it passed "by descent" to Sotheby’s anonymous seller at the 2009 auction;
+                    whom it passed &quot;by descent&quot; to Sotheby’s anonymous seller at the 2009 auction;
                     sold 17 December 2009, lot 72 (£38,000 hammer price, £46,850 inclusive of the
                     buyer’s premium, to John Windle of San Francisco, acting for Robert N. Essick);
-                    received by Essick 9 February 2010.</note></provenance><repository><institution>Collection of Robert N. Essick</institution><addressline>Altadena, CA</addressline></repository></source><desc id="lt7aug1804.1.ltr.01" dbi="lt7aug1804.1.1.LT"><objtitle><title type="editorial">Address</title> , <objid><objnumber code="A1">object 1 </objnumber></objid></objtitle><physdesc desclevel="brief"><objsize>18.3 x 22.8 cm.</objsize><objnote><p>The full sheet was folded to form two leaves. Blake's letter appears on the
+                    received by Essick 9 February 2010.</note>
+            </provenance>
+            <repository>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena, CA</addressline>
+            </repository>
+        </source>
+        <desc dbi="lt7aug1804.1.1.LT" id="lt7aug1804.1.ltr.01">
+            <objtitle>
+                <title type="editorial">Address</title>, 
+                <objid>
+                    <objnumber code="A1">object 1 </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>18.3 x 22.8 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the
                         first recto (object 2), first verso (object 3), and second recto (object 4).
                         This folded sheet was folded further to form a sealed packet for posting.
                         The address appears on the second verso (object 1), which would have been
                         the exterior of the sealed packet. A large round hole is visible along the
                         edge of objects 1-4 where the red wax seal was opened. Unfolded full sheet
                         views of the letter are available under Supplemental Views on the Show Me
-                        pull-down menu for those objects.</p></objnote><windowsize width="500" height="630"/></physdesc><supplemental objectid="supplt7aug1804.1.rm.01" ovp="noindex"/><phystext><lg type="prose" justify="left"><l n="lt7aug1804.1.ltr.01.01" justify="left">To</l><l n="lt7aug1804.1.ltr.01.02" justify="left" indent="3">William Hayley <choice><orig>Esq<hi rend="superscript">re</hi></orig><reg>Esquire</reg></choice></l><l n="lt7aug1804.1.ltr.01.03" justify="left" indent="5">Felpham near</l><l n="lt7aug1804.1.ltr.01.04" justify="left" indent="11">Chichester</l><l n="lt7aug1804.1.ltr.01.05" justify="left" indent="14">Sussex</l></lg></phystext></desc><desc id="lt7aug1804.1.ltr.02" dbi="lt7aug1804.1.2.LT"><objtitle><title type="transcribed">I have deliverd your Letter to M<hi rend="superscript">r</hi> Walker</title> , <objid><objnumber code="A2">object 2 </objnumber></objid></objtitle><physdesc desclevel="brief"><objsize>22.8 x 18.3 cm.</objsize><objnote><p>The full sheet was folded to form two leaves. Blake's letter appears on the
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+            <supplemental>
+                 <desc dbi="lt7aug1804.1.1+2.RM" id="supplt7aug1804.1.rm.01">
+            <objtitle>, 
+                <objid>
+                    <objnumber code="A1">full sheet view, objects 1 and 2</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.8 x 36.6 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the
                         first recto (object 2), first verso (object 3), and second recto (object 4).
                         This folded sheet was folded further to form a sealed packet for posting.
                         The address appears on the second verso (object 1), which would have been
                         the exterior of the sealed packet. A large round hole is visible along the
                         edge of objects 1-4 where the red wax seal was opened. Unfolded full sheet
                         views of the letter are available under Supplemental Views on the Show Me
-                        pull-down menu for those objects.</p></objnote><windowsize width="500" height="630"/></physdesc><supplemental objectid="supplt7aug1804.1.rm.01" ovp="noindex"/><phystext><lg type="prose" justify="left"><l n="lt7aug1804.1.ltr.02.01" justify="left">Dear Sir</l><l n="lt7aug1804.1.ltr.02.02" justify="left" indent="7">I have <choice><orig>deliverd</orig><reg>delivered</reg></choice> your Letter to M<hi rend="superscript">r</hi> Wal<unclear resp="nw">ker</unclear>. at his house. he</l><l n="lt7aug1804.1.ltr.02.03" justify="left">is out of Town. I desired it might
-                        be sent to him immediately</l><l n="lt7aug1804.1.ltr.02.04" justify="left">‘Our benevolent Lady of Lavants
-                        Recovery, has given me &amp; my</l><l n="lt7aug1804.1.ltr.02.05" justify="left">wife the most heartfelt pleasure.
-                        hope she may soon be perfectly</l><l n="lt7aug1804.1.ltr.02.06" justify="left">restored to the hills &amp; valleys
-                        of beautiful Sussex which must sadly</l><l n="lt7aug1804.1.ltr.02.07" justify="left">lament her sickness _ The Good
-                        &amp; Excellent Lady &amp; her affectionately</l><l n="lt7aug1804.1.ltr.02.08" justify="left"><choice><sic>rememberd</sic><reg>remembered</reg></choice> Son, whom you have so agreeably <choice><orig>announcd</orig><reg>announced</reg></choice>. I have not yet</l><l n="lt7aug1804.1.ltr.02.09" justify="left">had the pleasure of seeing. I also
-                        particularly rejoice to hear that</l><l n="lt7aug1804.1.ltr.02.10" justify="left"><unclear resp="nw">y</unclear>our Muse is rocking the Cradle Pray take care
-                        of both Mother<note><illus filename="lt7aug1804.2.10.note.jpg"/>Part of the
-                            "y" is obscured by the gap caused by the circular hole along the left
-                            edge of object 2 where the seal was opened.</note></l><l n="lt7aug1804.1.ltr.02.11" justify="left">&amp; Child &amp; suffer not the
-                        wicked harlot Prose to <choice><sic>ingross</sic><reg>engross</reg></choice> too much</l><l n="lt7aug1804.1.ltr.02.12" justify="left">of your precious time</l><l n="lt7aug1804.1.ltr.02.13" justify="left" indent="7">It is certainly
-                        necessary that the best Artists that can be<note>Keynes (<hi rend="i">Letters</hi>, page 98) reads "artists" for "Artists".</note></l><l n="lt7aug1804.1.ltr.02.14" justify="left">engaged should be <choice><orig>Employd</orig><reg>Employed</reg></choice> in the Work of Romneys Life. Flaxman<note>Erdman (page 754) and
-                            Keynes (<hi rend="i">Letters</hi>, page 98) read "employed" for
-                            "Employd". Keynes reads "on" for "in". Bentley (<hi rend="i">Writings</hi> volume 2, page 1610) reads "work" for
-                        "Work".</note></l><l n="lt7aug1804.1.ltr.02.15" justify="left">no doubt was considering the
-                        Magnitude of the Work rather than any</l><l n="lt7aug1804.1.ltr.02.16" justify="left">politeness to a Lady. This I think
-                        is certain Miss. W. would Engrave</l><l n="lt7aug1804.1.ltr.02.17" justify="left">your Sons Medallion of Romney most
-                        delicately.</l><l n="lt7aug1804.1.ltr.02.18" justify="left" indent="7">I hoped by incessant
-                        Labour to have managed my Money</l><l n="lt7aug1804.1.ltr.02.19" justify="left">Matters so well as not to have
-                        troubled you for any till I <choice><orig>producd</orig><reg>produced</reg></choice></l><l n="lt7aug1804.1.ltr.02.20" justify="left">a Proof of my Plate. Your
-                            Kindn<unclear resp="nw">e</unclear>ss has got before my Industry</l><l n="lt7aug1804.1.ltr.02.21" justify="left">as Usual &amp; I embrace it
-                        gratefully. a supply of ten Pounds</l><l n="lt7aug1804.1.ltr.02.22" justify="left">at this moment will set me quite at
-                        ease. the Plate goes</l></lg></phystext></desc><desc id="lt7aug1804.1.ltr.03" dbi="lt7aug1804.1.3.LT"><objtitle><title type="editorial">cont.</title> , <objid><objnumber code="A2">object 3 </objnumber></objid></objtitle><physdesc desclevel="brief"><objsize>22.8 x 18.3 cm.</objsize><objnote><p>The full sheet was folded to form two leaves. Blake's letter appears on the
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+        </desc>
+            </supplemental>
+            <phystext>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="lt7aug1804.1.ltr.01.01">To</l>
+                    <l indent="3" justify="left" n="lt7aug1804.1.ltr.01.02">William Hayley 
+                        <choice>
+                            <orig>
+                                Esq
+                                <hi rend="superscript">re</hi></orig>
+                            <reg>Esquire</reg>
+                        </choice>
+                    </l>
+                    <l indent="5" justify="left" n="lt7aug1804.1.ltr.01.03">Felpham near</l>
+                    <l indent="11" justify="left" n="lt7aug1804.1.ltr.01.04">Chichester</l>
+                    <l indent="14" justify="left" n="lt7aug1804.1.ltr.01.05">Sussex</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc dbi="lt7aug1804.1.2.LT" id="lt7aug1804.1.ltr.02">
+            <objtitle>
+                <title type="transcribed">I have deliverd your Letter to M
+                    <hi rend="superscript">r</hi>
+                    Walker</title>, 
+                <objid>
+                    <objnumber code="A2">object 2 </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.8 x 18.3 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the
                         first recto (object 2), first verso (object 3), and second recto (object 4).
                         This folded sheet was folded further to form a sealed packet for posting.
                         The address appears on the second verso (object 1), which would have been
                         the exterior of the sealed packet. A large round hole is visible along the
                         edge of objects 1-4 where the red wax seal was opened. Unfolded full sheet
                         views of the letter are available under Supplemental Views on the Show Me
-                        pull-down menu for those objects.</p></objnote><windowsize width="500" height="630"/></physdesc><supplemental objectid="supplt7aug1804.1.rm.02" ovp="noindex"/><phystext><lg type="prose" justify="left"><l n="lt7aug1804.1.ltr.03.01" justify="left">on with Spirit &amp; neatness as
-                        does Romneys Head I doubt not</l><l n="lt7aug1804.1.ltr.03.02" justify="left">to get that which it wants by
-                        labour. &amp; attention. I know my</l><l n="lt7aug1804.1.ltr.03.03" justify="left">own weak side &amp; will by labour
-                        supply what Genius Refuses</l><l n="lt7aug1804.1.ltr.03.04" justify="left">how it can be that lightness should
-                        be wanting in my Works, while in<note>Bentley (<hi rend="i">Writings</hi>
-                            volume 2, page 1610) and Erdman (page 754) read "How" for "how". Bentley
-                            reads "can it" for "it can". Bentley and Erdman read "works" for
-                            "Works".</note></l><l n="lt7aug1804.1.ltr.03.05" justify="left">my life &amp; constitution I am too
-                        light &amp; aerial is a Paradox<note>Bentley (<hi rend="i">Writings</hi>
-                            volume 2, page 1610) and Erdman (page 754) read "and" for the ampersands
-                            in this line, and "aërial" for "aerial". Bentley reads "paradox"
-                            for "Paradox".</note></l><l n="lt7aug1804.1.ltr.03.06" justify="left">only to be accounted for by the
-                        things of another World. Money<note>Bentley (<hi rend="i">Writings</hi>
-                            volume 2, page 1610) and Erdman (page 754) read "world" for
-                            "World".</note></l><l n="lt7aug1804.1.ltr.03.07" justify="left">flies from me Profit never ventures
-                        upon my threshold tho every</l><l n="lt7aug1804.1.ltr.03.08" justify="left">other mans door stone is worn down
-                        into the very Earth by the<note>Bentley (<hi rend="i">Writings</hi> volume
-                            2, page 1610) and Erdman (page 754) read "doorstone" for "door stone";
-                            Keynes (<hi rend="i">Letters</hi>, page 98) reads "door-stone". Bentley
-                                (<hi rend="i">Writings</hi> volume 2, page 1610) and Erdman read
-                            "earth" for "Earth".</note></l><l n="lt7aug1804.1.ltr.03.09" justify="left">footsteps of the fiends of
-                        Commerce. Be it so as long as God<note>Bentley (<hi rend="i">Writings</hi>
-                            volume 2, page 1610), Erdman (page 754), and Keynes (<hi rend="i">Letters</hi>, page 98) read "commerce" for "Commerce".</note></l><l n="lt7aug1804.1.ltr.03.10" justify="left">permits which I foresee is not long
-                        I foresee a mighty Change<note>Bentley (<hi rend="i">Writings</hi> volume 2,
-                            page 1610) and Erdman (page 754) read "change" for "Change".</note></l><l n="lt7aug1804.1.ltr.03.11" justify="left">Your kind Genius will at length
-                        conquer for me this heaviness</l><l n="lt7aug1804.1.ltr.03.12" justify="left">I will obey to a tittle your kind
-                        hints &amp; I do know that</l><l n="lt7aug1804.1.ltr.03.13" justify="left">Soon these fiends will be <choice><orig>vanquishd</orig><reg>vanquished</reg></choice> _ Thanks for the</l><l n="lt7aug1804.1.ltr.03.14" justify="left">very beautiful Verses you sent me
-                        they would furnish very</l><l n="lt7aug1804.1.ltr.03.15" justify="left">beautiful Designs but I dare not
-                        touch any thing but</l><l n="lt7aug1804.1.ltr.03.16" justify="left">the Graver for some time to come
-                        &amp; they will no doubt fall</l><l n="lt7aug1804.1.ltr.03.17" justify="left">to the Lot of some happier Designer
-                        before that time</l><l n="lt7aug1804.1.ltr.03.18" justify="left" indent="8">You have quite <subst><del type="overwrite">El</del><add type="overwrite" place="inline">Ea</add></subst> lated my Wife &amp; not a little<note><illus filename="lt7aug1804.3.18.note.jpg"/>Mark Crosby and Robert N.
-                            Essick ("'the fiends of Commerce': Blake’s Letter to William Hayley, 7
-                            August 1804," <hi rend="i">Blake: An Illustrated Quarterly</hi> 44.2
-                            (fall 2010): 54n2) note in their transcription of this letter: "Blake
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+            <supplemental>
+                 <desc dbi="lt7aug1804.1.1+2.RM" id="supplt7aug1804.1.rm.01">
+            <objtitle>, 
+                <objid>
+                    <objnumber code="A1">full sheet view, objects 1 and 2</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.8 x 36.6 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the
+                        first recto (object 2), first verso (object 3), and second recto (object 4).
+                        This folded sheet was folded further to form a sealed packet for posting.
+                        The address appears on the second verso (object 1), which would have been
+                        the exterior of the sealed packet. A large round hole is visible along the
+                        edge of objects 1-4 where the red wax seal was opened. Unfolded full sheet
+                        views of the letter are available under Supplemental Views on the Show Me
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+        </desc>
+            </supplemental>
+            <phystext>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="lt7aug1804.1.ltr.02.01">Dear Sir</l>
+                    <l indent="7" justify="left" n="lt7aug1804.1.ltr.02.02">I have 
+                        <choice>
+                            <orig>deliverd</orig>
+                            <reg>delivered</reg></choice>your Letter to M
+                        <hi rend="superscript">r</hi>
+                        Wal
+                        <unclear resp="nw">ker</unclear>
+                        . at his house. he</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.03">is out of Town. I desired it might
+                        be sent to him immediately</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.04">‘Our benevolent Lady of Lavants
+                        Recovery, has given me &amp; my</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.05">wife the most heartfelt pleasure.
+                        hope she may soon be perfectly</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.06">restored to the hills &amp; valleys
+                        of beautiful Sussex which must sadly</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.07">lament her sickness _ The Good
+                        &amp; Excellent Lady &amp; her affectionately</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.08">
+                        <choice>
+                            <sic>rememberd</sic>
+                            <reg>remembered</reg>
+                        </choice>Son, whom you have so agreeably 
+                        <choice>
+                            <orig>announcd</orig>
+                            <reg>announced</reg></choice>. I have not yet</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.09">had the pleasure of seeing. I also
+                        particularly rejoice to hear that</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.10">
+                        <unclear resp="nw">y</unclear>our Muse is rocking the Cradle Pray take care
+                        of both Mother
+                        <note>
+                            <illus filename="lt7aug1804.2.10.note.jpg"/>
+                            Part of the
+                            &quot;y&quot; is obscured by the gap caused by the circular hole along the left
+                            edge of object 2 where the seal was opened.</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.11">&amp; Child &amp; suffer not the
+                        wicked harlot Prose to 
+                        <choice>
+                            <sic>ingross</sic>
+                            <reg>engross</reg></choice>too much</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.12">of your precious time</l>
+                    <l indent="7" justify="left" n="lt7aug1804.1.ltr.02.13">It is certainly
+                        necessary that the best Artists that can be
+                        <note>
+                            Keynes (
+                            <hi rend="i">Letters</hi>
+                            , page 98) reads &quot;artists&quot; for &quot;Artists&quot;.</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.14">engaged should be 
+                        <choice>
+                            <orig>Employd</orig>
+                            <reg>Employed</reg></choice>in the Work of Romneys Life. Flaxman
+                        <note>
+                            Erdman (page 754) and
+                            Keynes (
+                            <hi rend="i">Letters</hi>
+                            , page 98) read &quot;employed&quot; for
+                            &quot;Employd&quot;. Keynes reads &quot;on&quot; for &quot;in&quot;. Bentley (
+                            <hi rend="i">Writings</hi>
+                            volume 2, page 1610) reads &quot;work&quot; for
+                        &quot;Work&quot;.</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.15">no doubt was considering the
+                        Magnitude of the Work rather than any</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.16">politeness to a Lady. This I think
+                        is certain Miss. W. would Engrave</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.17">your Sons Medallion of Romney most
+                        delicately.</l>
+                    <l indent="7" justify="left" n="lt7aug1804.1.ltr.02.18">I hoped by incessant
+                        Labour to have managed my Money</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.19">Matters so well as not to have
+                        troubled you for any till I 
+                        <choice>
+                            <orig>producd</orig>
+                            <reg>produced</reg></choice>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.20">a Proof of my Plate. Your
+                            Kindn
+                        <unclear resp="nw">e</unclear>
+                        ss has got before my Industry</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.21">as Usual &amp; I embrace it
+                        gratefully. a supply of ten Pounds</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.02.22">at this moment will set me quite at
+                        ease. the Plate goes</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc dbi="lt7aug1804.1.3.LT" id="lt7aug1804.1.ltr.03">
+            <objtitle>
+                <title type="editorial">cont.</title>, 
+                <objid>
+                    <objnumber code="A2">object 3 </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.8 x 18.3 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the
+                        first recto (object 2), first verso (object 3), and second recto (object 4).
+                        This folded sheet was folded further to form a sealed packet for posting.
+                        The address appears on the second verso (object 1), which would have been
+                        the exterior of the sealed packet. A large round hole is visible along the
+                        edge of objects 1-4 where the red wax seal was opened. Unfolded full sheet
+                        views of the letter are available under Supplemental Views on the Show Me
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+            <supplemental>
+                <desc dbi="lt7aug1804.1.3+4.RM" id="supplt7aug1804.1.rm.02">
+            <objtitle>, 
+                
+                <objid>
+                    <objnumber code="A2">objects 3 and 4, full sheet view</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.8 x 36.6 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the
+                        first recto (object 2), first verso (object 3), and second recto (object 4).
+                        This folded sheet was folded further to form a sealed packet for posting.
+                        The address appears on the second verso (object 1), which would have been
+                        the exterior of the sealed packet. A large round hole is visible along the
+                        edge of objects 1-4 where the red wax seal was opened. Unfolded full sheet
+                        views of the letter are available under Supplemental Views on the Show Me
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+        </desc>
+            </supplemental>
+            <phystext>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="lt7aug1804.1.ltr.03.01">on with Spirit &amp; neatness as
+                        does Romneys Head I doubt not</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.02">to get that which it wants by
+                        labour. &amp; attention. I know my</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.03">own weak side &amp; will by labour
+                        supply what Genius Refuses</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.04">how it can be that lightness should
+                        be wanting in my Works, while in
+                        <note>
+                            Bentley (
+                            <hi rend="i">Writings</hi>
+                            volume 2, page 1610) and Erdman (page 754) read &quot;How&quot; for &quot;how&quot;. Bentley
+                            reads &quot;can it&quot; for &quot;it can&quot;. Bentley and Erdman read &quot;works&quot; for
+                            &quot;Works&quot;.</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.05">my life &amp; constitution I am too
+                        light &amp; aerial is a Paradox
+                        <note>
+                            Bentley (
+                            <hi rend="i">Writings</hi>
+                            volume 2, page 1610) and Erdman (page 754) read &quot;and&quot; for the ampersands
+                            in this line, and &quot;aërial&quot; for &quot;aerial&quot;. Bentley reads &quot;paradox&quot;
+                            for &quot;Paradox&quot;.</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.06">only to be accounted for by the
+                        things of another World. Money
+                        <note>
+                            Bentley (
+                            <hi rend="i">Writings</hi>
+                            volume 2, page 1610) and Erdman (page 754) read &quot;world&quot; for
+                            &quot;World&quot;.</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.07">flies from me Profit never ventures
+                        upon my threshold tho every</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.08">other mans door stone is worn down
+                        into the very Earth by the
+                        <note>
+                            Bentley (
+                            <hi rend="i">Writings</hi>
+                            volume
+                            2, page 1610) and Erdman (page 754) read &quot;doorstone&quot; for &quot;door stone&quot;;
+                            Keynes (
+                            <hi rend="i">Letters</hi>
+                            , page 98) reads &quot;door-stone&quot;. Bentley
+                                (
+                            <hi rend="i">Writings</hi>
+                            volume 2, page 1610) and Erdman read
+                            &quot;earth&quot; for &quot;Earth&quot;.</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.09">footsteps of the fiends of
+                        Commerce. Be it so as long as God
+                        <note>
+                            Bentley (
+                            <hi rend="i">Writings</hi>
+                            volume 2, page 1610), Erdman (page 754), and Keynes (
+                            <hi rend="i">Letters</hi>
+                            , page 98) read &quot;commerce&quot; for &quot;Commerce&quot;.</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.10">permits which I foresee is not long
+                        I foresee a mighty Change
+                        <note>
+                            Bentley (
+                            <hi rend="i">Writings</hi>
+                            volume 2,
+                            page 1610) and Erdman (page 754) read &quot;change&quot; for &quot;Change&quot;.</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.11">Your kind Genius will at length
+                        conquer for me this heaviness</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.12">I will obey to a tittle your kind
+                        hints &amp; I do know that</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.13">Soon these fiends will be 
+                        <choice>
+                            <orig>vanquishd</orig>
+                            <reg>vanquished</reg></choice>_ Thanks for the</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.14">very beautiful Verses you sent me
+                        they would furnish very</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.15">beautiful Designs but I dare not
+                        touch any thing but</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.16">the Graver for some time to come
+                        &amp; they will no doubt fall</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.17">to the Lot of some happier Designer
+                        before that time</l>
+                    <l indent="8" justify="left" n="lt7aug1804.1.ltr.03.18">You have quite 
+                        <subst>
+                            <del type="overwrite">El</del>
+                            <add place="inline" type="overwrite">Ea</add></subst>lated my Wife &amp; not a little
+                        <note>
+                            <illus filename="lt7aug1804.3.18.note.jpg"/>
+                            Mark Crosby and Robert N.
+                            Essick (&quot;'the fiends of Commerce': Blake’s Letter to William Hayley, 7
+                            August 1804,&quot; 
+                            <hi rend="i">Blake: An Illustrated Quarterly</hi>
+                            44.2
+                            (fall 2010): 54n2) note in their transcription of this letter: &quot;Blake
                             appears to have first written an upper-case 'E' followed by an upward
                             curve, then stopped and written over these a larger capital 'E,' a
                             lower-case 'a,' and continued to pen the word 'Elated.' Alexander
                             Gourlay has suggested that Blake began to write 'Excited,' starting with
                             the initial 'E' and the upward curve of an 'x,' but changed his mind
-                            before adding the diagonal of the 'x.'"</note></l><l n="lt7aug1804.1.ltr.03.19" justify="left">made me remember my own
-                            unwo<unclear resp="nw">r</unclear>thiness. by your kind</l><l n="lt7aug1804.1.ltr.03.20" justify="left">Klopstockian Compliment to her. She
-                        desires me with</l><l n="lt7aug1804.1.ltr.03.21" justify="left">her affectionate remembrances to
-                        you to Assure you</l></lg></phystext></desc><desc id="lt7aug1804.1.ltr.04" dbi="lt7aug1804.1.4.LT"><objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A2">object 4 </objnumber></objid></objtitle><physdesc desclevel="brief"><objsize>22.8 x 18.3 cm.</objsize><objnote><p>The full sheet was folded to form two leaves. Blake's letter appears on the
+                            before adding the diagonal of the 'x.'&quot;</note>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.19">made me remember my own
+                            unwo
+                        <unclear resp="nw">r</unclear>
+                        thiness. by your kind</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.20">Klopstockian Compliment to her. She
+                        desires me with</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.03.21">her affectionate remembrances to
+                        you to Assure you</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc dbi="lt7aug1804.1.4.LT" id="lt7aug1804.1.ltr.04">
+            <objtitle>
+                <title type="editorial">cont.</title>, 
+                <objid>
+                    <objnumber code="A2">object 4 </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.8 x 18.3 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the
                         first recto (object 2), first verso (object 3), and second recto (object 4).
                         This folded sheet was folded further to form a sealed packet for posting.
                         The address appears on the second verso (object 1), which would have been
                         the exterior of the sealed packet. A large round hole is visible along the
                         edge of objects 1-4 where the red wax seal was opened. Unfolded full sheet
                         views of the letter are available under Supplemental Views on the Show Me
-                        pull-down menu for those objects.</p></objnote><windowsize width="500" height="630"/></physdesc><supplemental objectid="supplt7aug1804.1.rm.02" ovp="noindex"/><phystext><lg type="prose" justify="left"><l n="lt7aug1804.1.ltr.04.01" justify="left">that She thinks herself Quite as
-                        happy in every respect. Wishes</l><l n="lt7aug1804.1.ltr.04.02" justify="left">she was as worthy. This she makes
-                        me write &amp; I obey</l><l n="lt7aug1804.1.ltr.04.03" justify="left">her injunction merely because it is
-                        a Wifes regard to her</l><l n="lt7aug1804.1.ltr.04.04" justify="left">Husband to which every one allows a
-                        Great deal of Latitude</l><l n="lt7aug1804.1.ltr.04.05" justify="left">with hers accept my Affectionate
-                        Respects</l><l n="lt7aug1804.1.ltr.04.06" justify="left" indent="25">I am Dear Sir</l><l n="lt7aug1804.1.ltr.04.07" justify="left">7 August<space extent="24"/>Yours
-                        Sincerely</l><l n="lt7aug1804.1.ltr.04.08" justify="left" indent="1"><hi rend="u">1804</hi></l><l n="lt7aug1804.1.ltr.04.09" justify="left"><gap agent="cutaway" extent="1"/>7 Sth Molton St.<space extent="16"/><hi rend="u">Will<hi rend="superscript">m</hi> Blake</hi><note><illus filename="lt7aug1804.4.9.note.jpg"/>The first number in Blake's
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+            <supplemental>
+                <desc dbi="lt7aug1804.1.3+4.RM" id="supplt7aug1804.1.rm.02">
+            <objtitle>, 
+                
+                <objid>
+                    <objnumber code="A2">objects 3 and 4, full sheet view</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.8 x 36.6 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the
+                        first recto (object 2), first verso (object 3), and second recto (object 4).
+                        This folded sheet was folded further to form a sealed packet for posting.
+                        The address appears on the second verso (object 1), which would have been
+                        the exterior of the sealed packet. A large round hole is visible along the
+                        edge of objects 1-4 where the red wax seal was opened. Unfolded full sheet
+                        views of the letter are available under Supplemental Views on the Show Me
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+        </desc>
+            </supplemental>
+            <phystext>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="lt7aug1804.1.ltr.04.01">that She thinks herself Quite as
+                        happy in every respect. Wishes</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.04.02">she was as worthy. This she makes
+                        me write &amp; I obey</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.04.03">her injunction merely because it is
+                        a Wifes regard to her</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.04.04">Husband to which every one allows a
+                        Great deal of Latitude</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.04.05">with hers accept my Affectionate
+                        Respects</l>
+                    <l indent="25" justify="left" n="lt7aug1804.1.ltr.04.06">I am Dear Sir</l>
+                    <l justify="left" n="lt7aug1804.1.ltr.04.07">7 August
+                        <space extent="24"/>
+                        Yours
+                        Sincerely</l>
+                    <l indent="1" justify="left" n="lt7aug1804.1.ltr.04.08">
+                        <hi rend="u">1804</hi>
+                    </l>
+                    <l justify="left" n="lt7aug1804.1.ltr.04.09">
+                        <gap agent="cutaway" extent="1"/>7 Sth Molton St.
+                        <space extent="16"/>
+                        <hi rend="u">
+                            Will
+                            <hi rend="superscript">m</hi>
+                            Blake</hi>
+                        <note>
+                            <illus filename="lt7aug1804.4.9.note.jpg"/>The first number in Blake's
                             address, 1, is missing due to the gap caused by the circular hole along
                             the left edge of object 2 where the seal was opened. Blake's full
-                            address would have read "[1]7 Sth Molton St." before the hole caused by
-                            opening the seal.</note></l></lg></phystext></desc></objdesc></bad>
+                            address would have read &quot;[1]7 Sth Molton St.&quot; before the hole caused by
+                            opening the seal.</note>
+                    </l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

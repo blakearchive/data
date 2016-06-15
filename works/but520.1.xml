@@ -1,43 +1,599 @@
-<bad id="but520.1" type="wc" work="The Great Red Dragon and the Woman Clothed with the Sun: 'The Devil is Come Down'" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="520" hidden="false"><header><filedesc><titlestmt><title reg="The Great Red Dragon and the Woman Clothed with the Sun: 'The Devil is Come Down'"><main>The Great Red Dragon and the Woman Clothed with the Sun: "The Devil is Come Down"</main>
-: electronic edition
-</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of
+<bad catalog="butlin" catid="520" copy="1" copyid="1" hidden="false" id="but520.1" institution="ngadc" type="wc" work="The Great Red Dragon and the Woman Clothed with the Sun: 'The Devil is Come Down'">
+  <header>
+    <filedesc>
+      <titlestmt>
+        <title reg="The Great Red Dragon and the Woman Clothed with the Sun: 'The Devil is Come Down'">
+          <main>The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</main>: electronic edition</title>
+        <principal>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of
 Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt/><sponsor>The University of North Carolina at Chapel Hill and the Library of Congress</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>2 XML files approx. 12KB; 2 JPEG (ISO/IEC
+
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+
+          <name>Joseph Viscomi</name>
+          , University of North Carolina at Chapel Hill</principal>
+        <respstmt/>
+        <sponsor>The University of North Carolina at Chapel Hill and the Library of Congress</sponsor>
+        <funder/>
+      </titlestmt>
+      <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+      <extent>2 XML files approx. 12KB; 2 JPEG (ISO/IEC
 10918)
-files ranging in size from 120KB to 746KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives<date>March 2011</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
-    The William Blake Archive is pleased to announce the publication of an electronic edition of thirty-three of Blake’s water color illustrations to the Bible.  All take their subjects from the New Testament and have been added to the twenty Old Testament subjects published in March 2010 as “Illustrations to the Bible, c. 1780-1824,” under Drawings and Paintings, Water Color Drawings.  This new group is presented in our Preview mode, one that provides all the features of the Archive except Image Search and Inote (which provides detailed descriptions of Blake’s images).
-                <lb/><lb/>
-                   Blake executed most of these New Testament water colors c. 1800-05 for his patron Thomas Butts.  The exceptions are <hi rend="i">The Whore of Babylon</hi> of 1809 and <hi rend="i">The Parable of the Wise and Foolish Virgins</hi> in the Yale Center for British Art, datable to c. 1825. The subjects range from the childhood of Jesus to his ascension, the later history of his parents and one of his major followers, St. Paul, and a group of eight designs based on the Book of Revelation.  While the illustrations of the life of Christ are fairly conventional in their subjects, in part because of the long tradition of picturing almost every event in the Gospels, individual motifs recall designs in Blake’s illuminated books and thus offer a window on Blake’s visual interpretation of the Bible. The illustrations of Revelation complement Blake’s intense engagement with apocalyptic events and images in his own poetry.
-                    <lb/><lb/>
-                        The selection of fifty-three biblical water colors now available in the Archive will be supplemented in the future with early works, such as <hi rend="i">Abraham and Isaac</hi>, datable to c. 1780, and will continue through Blake’s final biblical water colors, such as <hi rend="i">Moses Placed in the Ark of the Bulrushes</hi>. 
-                    <lb/><lb/>
-                    As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.
-</updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2011</date> by Morris Eaves, Robert N. Essick,
+files ranging in size from 120KB to 746KB</extent>
+      <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives
+        <date>March 2011</date></publicationstmt>
+      <seriesstmt>The William Blake Archive</seriesstmt>
+      <updatestmt>The William Blake Archive is pleased to announce the publication of an electronic edition of thirty-three of Blake’s water color illustrations to the Bible.  All take their subjects from the New Testament and have been added to the twenty Old Testament subjects published in March 2010 as “Illustrations to the Bible, c. 1780-1824,” under Drawings and Paintings, Water Color Drawings.  This new group is presented in our Preview mode, one that provides all the features of the Archive except Image Search and Inote (which provides detailed descriptions of Blake’s images).
+                
+        <lb/>
+        <lb/>
+        Blake executed most of these New Testament water colors c. 1800-05 for his patron Thomas Butts.  The exceptions are 
+        <hi rend="i">The Whore of Babylon</hi>
+        of 1809 and 
+        <hi rend="i">The Parable of the Wise and Foolish Virgins</hi>
+        in the Yale Center for British Art, datable to c. 1825. The subjects range from the childhood of Jesus to his ascension, the later history of his parents and one of his major followers, St. Paul, and a group of eight designs based on the Book of Revelation.  While the illustrations of the life of Christ are fairly conventional in their subjects, in part because of the long tradition of picturing almost every event in the Gospels, individual motifs recall designs in Blake’s illuminated books and thus offer a window on Blake’s visual interpretation of the Bible. The illustrations of Revelation complement Blake’s intense engagement with apocalyptic events and images in his own poetry.
+                    
+        <lb/>
+        <lb/>
+        The selection of fifty-three biblical water colors now available in the Archive will be supplemented in the future with early works, such as 
+        <hi rend="i">Abraham and Isaac</hi>
+        , datable to c. 1780, and will continue through Blake’s final biblical water colors, such as 
+        <hi rend="i">Moses Placed in the Ark of the Bulrushes</hi>
+        . 
+                    
+        <lb/>
+        <lb/>
+        As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.</updatestmt>
+      <notesstmt/>
+    </filedesc>
+    <userestrict>Copyright © 
+      <date>2011</date>
+      by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved.  Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
 express written consent from the editors and advance notification of the
 publisher. Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/><lb/>
-This image copyright © 2011 National Gallery of Art, Washington</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>November 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Illustration markup</change><date>Summer 2011</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Elizabeth Goodfellow,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Final proofing and publication</change><date>March 2011</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Robin Curry,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Elizabeth Goodfellow,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Sarah Tolf,</name><name>Joseph Vogel,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>BAD created</change><date>July 2010</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Lauren Cameron,</name><name>Robin Curry,</name><name>Andrea Everett,</name><name>Joseph Lamperez,</name><name>Rachel Lee,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Sarah Tolf,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Image color corrected</change><date>July 2009</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Lauren Cameron,</name><name>Andrea Everett,</name><name>Christopher N. Jackson,</name><name>Michelle Langston, </name><name>Rachel Lee,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Wayne C. Ripley,</name><name>Adair Rispoli,</name><name>Sarah Tolf,</name><name>Sarah Shaw</name></respstmt></changestmt><changestmt><change>Image scanned and catalogued</change><date>September 2002</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>Andrea Laue</name><resp>Project Manager: </resp><name>Andrea Dickens</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Gerald Miller, </name><name>Sarah Trippensee, </name><name>Justin Van Kleeck</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">The Great Red Dragon and the Woman Clothed with the Sun: "The Devil is Come Down"</hi></title></objtitle><origination>William Blake<role>inventor, </role><role>delineator, </role><role>colorist</role></origination><origination>Anonymous<role>delineator.  The inscriptions on the mount, available under Related Works in the Archive, are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</role></origination><compdate value="1805">c. 1805</compdate></objdescid><objinfo><numberobj>1</numberobj><objsize>40.8 x 33.7 cm.</objsize><numberleaves>1</numberleaves><leafsize>40.8 x 33.7 cm.</leafsize><medium>pen and ink and water color</medium><support>paper, probably wove</support><watermark>none recorded</watermark><pennednumbers>none</pennednumbers><framelines>none</framelines></objinfo><provenance n="1"><name>National Gallery of Art, Washington</name><date>1945</date><dealer>none</dealer><price>gift</price><note>Commissioned and acquired from Blake by Thomas Butts c. 1805; by inheritance in 1845 to Thomas Butts, Jr.; sold Sotheby's, 26 March 1852, lot 163, titled "The Devil is come down" as in the inscription on the mount above the design (£1.15s. to the dealer Henry G. Bohn); E. Daniel; sold Christie's, 1 June 1887, lot 262, titled "Subject from the Revelation of St. John" (£14 to the dealer John Pearson); the dealer Robson and Co.; offered by Robson in his catalogue 63 of 1897 and in a 1904 catalogue (£52.10s.); the dealer Carfax &amp; Co. by 1914; the dealer Thomas Agnew &amp; Sons by 1923; sold by Agnew for $2500 to A. Edward Newton by no later than May 1926; sold from Newton's collection, Parke-Bernet, New York, 16 April 1941, lot 118 ($10,100 to the dealer A. S. W. Rosenbach acting for Lessing J. Rosenwald); given by Rosenwald to the National Gallery of Art, Washington, in 1945.</note></provenance><repository><institution>National Gallery of Art, Washington</institution><addressline>Constitution Ave. NW, between 3rd and 9th Streets</addressline><addressline>Washington, D. C. 20565</addressline><addressline>mailing address: 2000B South Club Drive</addressline><addressline>Landover, Maryland 20785</addressline><addressline>United States</addressline><addressline>Telephone: 202-737-4215</addressline><addressline>URL: http://www.nga.gov/</addressline><addressline>Telephone, Print Study Room: 202-842-6380</addressline><addressline>Telephone, Visual Services: 202-842-6126</addressline><addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline><department>Drawings and Prints</department><collection>Lessing J. Rosenwald Collection, National Gallery of Art, Washington</collection><repositoryid label="Accession number">B-11064</repositoryid></repository></source><desc id="but520.1.wc.01" dbi="BUT520.1.1.WC"><objtitle><title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: "The Devil is Come Down"</title>,
-<objid><objnumber code="A1">object 1 </objnumber><objcode code="U1">(Butlin 520)</objcode></objid></objtitle><physdesc desclevel="brief"><objnote><p>Blake signed the work, lower left, with his monogram; see the textual transcription.  The inscriptions on the mount above and below the design are not by Blake.  These are available under Related Works in the Archive.</p></objnote><objsize>40.8 x 33.7 cm.</objsize><windowsize width="650" height="800"/></physdesc><related objectid="inscbut520.1.rm.01" ovp="noindex"/><related objectid="inscbut520.1.rm.02" ovp="noindex"/><related objectid="inscbut520.1.rm.03" ovp="noindex"/><illusdesc><illustration type="plate" location="E"><illusobjdesc>The design takes its subject from Revelation 12:12-17. At the top center is the figure of a dragon or devil facing forward and down. This figure may be male and nude. He has bat-like wings and a serpentine tail that loops three times to form a spiral. This figure has seven heads, the three leftmost looking left and down and the three rightmost looking right and down. The heads on each side of the central head, and closest to it, have short, curly hair and horns with one loop in each. The middle head wears a crown and has ram-like horns with one loop in each. His spine bone is visible. His arms are raised horizontally, palms down and his right leg is bent slightly. He may be looking at the woman beneath him. Dominating the bottom center of the design is a winged female angel wearing a gown—or, in the context of the title, the woman clothed with the sun. She sits or kneels with her legs bent and her right leg partly drawn up. Her arms are raised horizontally with her palms held vertically. She faces forward and slightly right and looks up and to the left. Her long, curly hair is flame-like and stands on end. The woman at the bottom center of the design kneels on an outjutting of rock, perhaps meant to represent a mountaintop or cliff. The sky in the background is dark, perhaps indicating that the scene takes place at night. Clouds are visible in the sky, as are bolts of lightning. In the background to the left of the woman may be at least five figures, facing left and away. They are mostly just visible as sketchy heads, but the leftmost figure may be gowned with short hair, facing down or bending forward. In the background to the right of the woman may be at least six figures, facing down and to the right. The leftmost figure may be that of a nude male with short, curly hair, facing away and bending forward. The second-to-left figure may be that of a gowned male with short hair, facing forward and looking up, mouth open. The third-to-left figure may be that of a nude male with long hair and a beard, facing away. His right arm is raised at 135 degrees and his body is nearly horizontal, suggesting that he may be flying, hovering, or falling. The fourth-to-right figure may be that of a gowned woman with long hair pulled up into a bun, facing away. Her body is nearly horizontal and her right arm is bent upward, perhaps with her hand to her face. The heads of two further figures appear above the arm of the figure third from the left.   
-                    </illusobjdesc><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>dragon</characteristic><characteristic>demon</characteristic><characteristic>devil</characteristic><characteristic>wing</characteristic><characteristic>bat-winged</characteristic><characteristic>tail</characteristic><characteristic>serpentine</characteristic><characteristic>loop</characteristic><characteristic>spiral</characteristic><characteristic>hovering</characteristic><characteristic>flying</characteristic><characteristic>floating</characteristic><characteristic>facing down</characteristic><characteristic>facing forward</characteristic><characteristic>looking</characteristic><characteristic>bending forward</characteristic><characteristic>head down</characteristic><characteristic>facing left</characteristic><characteristic>facing right</characteristic><characteristic>leg extended backward</characteristic><characteristic>leg bent at knee</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>palm down</characteristic><characteristic>horn</characteristic><characteristic>ram</characteristic><characteristic>spine</characteristic><characteristic>bone</characteristic><characteristic>crown</characteristic><characteristic>spiky</characteristic><characteristic>bald</characteristic><characteristic>short hair</characteristic><characteristic>curly hair</characteristic><characteristic>heads, multiple</characteristic><illusobjdesc>At the top center of the design is the figure of a dragon or devil facing forward and down. This figure may be male and nude. He has bat-like wings and a serpentine tail that loops three times to form a spiral. This figure has seven heads, the three leftmost looking left and down and the three rightmost looking right and down. The heads on each side of, and closest to, the central head have short, curly hair and horns with one loop in each. The middle head wears a spiky crown and has ram-like horns with one loop in each. His spine bone is visible. His arms are raised horizontally, palms down and his right leg is bent slightly. He may be looking at the woman beneath him. </illusobjdesc></component><component type="figure" location="CD"><characteristic>female</characteristic><characteristic>angel</characteristic><characteristic>sun</characteristic><characteristic>wing</characteristic><characteristic>gown</characteristic><characteristic>long hair</characteristic><characteristic>curly hair</characteristic><characteristic>flame-like hair</characteristic><characteristic>hair standing on end</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>hand raised, palm out</characteristic><characteristic>palm vertical</characteristic><characteristic>kneeling</characteristic><characteristic>sitting</characteristic><characteristic>crouching</characteristic><characteristic>looking</characteristic><characteristic>leg bent</characteristic><characteristic>leg drawn up</characteristic><characteristic>facing forward</characteristic><characteristic>facing right</characteristic><characteristic>facing up</characteristic><characteristic>facing left</characteristic><illusobjdesc>Dominating the bottom center of the design is a winged female angel wearing a gown—or, in the context of the title, the woman clothed with the sun. She sits or kneels with her legs bent and her right leg partly drawn up. Her arms are raised horizontally with her palms held vertically. She faces forward and slightly right and looks up and to the left. Her long, curly hair is flame-like and stands on end. </illusobjdesc></component><component type="object" location="CD"><characteristic>stone</characteristic><characteristic>cliff</characteristic><characteristic>mountain</characteristic><illusobjdesc>The woman at the bottom center of the design kneels on an outjutting of rock, perhaps meant to represent a mountaintop or cliff. </illusobjdesc></component><component type="object" location="E"><characteristic>sky</characteristic><characteristic>dark</characteristic><characteristic>night</characteristic><characteristic>cloud</characteristic><characteristic>lightning</characteristic><illusobjdesc>The sky in the background is dark, perhaps indicating that the scene takes place at night. Clouds are visible in the sky, as are bolts of lightning. </illusobjdesc></component><component type="figure" location="C"><characteristic>group of figures</characteristic><characteristic>head</characteristic><characteristic>facing left</characteristic><characteristic>facing down</characteristic><characteristic>facing away</characteristic><characteristic>seen from behind</characteristic><characteristic>bending forward</characteristic><characteristic>short hair</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>walking</characteristic><illusobjdesc>In the background to the left of the woman may be at least five figures, facing left and away. They are mostly just visible as sketchy heads, but the leftmost figure may be gowned with short hair, facing down or bending forward. </illusobjdesc></component><component type="figure" location="D"><characteristic>facing down</characteristic><characteristic>facing right</characteristic><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>bending forward</characteristic><characteristic>facing away</characteristic><characteristic>seen from behind</characteristic><characteristic>short hair</characteristic><characteristic>curly hair</characteristic><illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The leftmost figure may be that of a nude male with short, curly hair, facing away and bending forward. </illusobjdesc></component><component type="figure" location="D"><characteristic>male</characteristic><characteristic>facing down</characteristic><characteristic>facing right</characteristic><characteristic>gown</characteristic><characteristic>short hair</characteristic><characteristic>mouth open</characteristic><characteristic>facing forward</characteristic><characteristic>facing up</characteristic><characteristic>looking</characteristic><characteristic>arms bent</characteristic><characteristic>arms crossed</characteristic><characteristic>arms wrapped around body</characteristic><illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The second-to-left figure may be that of a gowned male with short hair, facing forward and looking up, mouth open. His arms may be crossed or wrapped around his body.</illusobjdesc></component><component type="figure" location="D"><characteristic>male</characteristic><characteristic>facing down</characteristic><characteristic>facing right</characteristic><characteristic>nude</characteristic><characteristic>long hair</characteristic><characteristic>beard</characteristic><characteristic>facing away</characteristic><characteristic>seen from behind</characteristic><characteristic>arm raised at 135 degrees</characteristic><characteristic>body horizontal</characteristic><characteristic>flying</characteristic><characteristic>hovering</characteristic><characteristic>falling</characteristic><characteristic>floating</characteristic><illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The third-to-left figure may be that of a nude male with long hair and a beard, facing away. His right arm is raised at 135 degrees and his body is nearly horizontal, suggesting that he may be flying, hovering, or falling. </illusobjdesc></component><component type="figure" location="D"><characteristic>female</characteristic><characteristic>facing down</characteristic><characteristic>facing right</characteristic><characteristic>long hair</characteristic><characteristic>bun</characteristic><characteristic>gown</characteristic><characteristic>facing away</characteristic><characteristic>seen from behind</characteristic><characteristic>arm bent upward</characteristic><characteristic>arm bent</characteristic><characteristic>hand on face</characteristic><characteristic>body horizontal</characteristic><characteristic>bending forward</characteristic><characteristic>lying</characteristic><characteristic>falling</characteristic><illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The fourth-to-right figure may be that of a gowned woman with long hair pulled up into a bun, facing away. Her body is nearly horizontal and her right arm is bent upward, perhaps with her hand to her face. </illusobjdesc></component><component type="figure" location="D"><characteristic>group of figures</characteristic><characteristic>head</characteristic><characteristic>facing right</characteristic><characteristic>facing away</characteristic><characteristic>seen from behind</characteristic><characteristic>facing down</characteristic><illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The heads of two of these figures appear above the outstretched right arm of the figure third from the left. Perhaps they are seen from behind.</illusobjdesc></component></illustration></illusdesc><phystext><lg justify="left"><l n="but520.1.wc.01.01" justify="left" indent="8">inv</l><l n="but520.1.wc.01.02" justify="left" indent="8">WB</l></lg></phystext></desc></objdesc></bad>
+granted by the owners of the originals for this publication only.
+      <lb/>
+      <lb/>
+      This image copyright © 2011 National Gallery of Art, Washington</userestrict>
+    <encodingdesc/>
+    <profiledesc/>
+    <revisiondesc>
+      <changestmt>
+        <change>Final proofing and publication</change>
+        <date>November 2012</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Coordinator, University of Rochester: </resp>
+          <name>Rachel Lee</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Gabrielle Kiriloff,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Hardeep Sidhu,</name>
+          <name>Sarah Tolf,</name>
+          <name>Lisa Vandenbossche,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Illustration markup</change>
+        <date>Summer 2011</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Coordinator, University of Rochester:</resp>
+          <name>Rachel Lee</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Elizabeth Goodfellow,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Hardeep Sidhu,</name>
+          <name>Sarah Tolf,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Final proofing and publication</change>
+        <date>March 2011</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Coordinator, University of Rochester:</resp>
+          <name>Rachel Lee</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Robin Curry,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Elizabeth Goodfellow,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Sarah Tolf,</name>
+          <name>Joseph Vogel,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>BAD created</change>
+        <date>July 2010</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Lauren Cameron,</name>
+          <name>Robin Curry,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Lamperez,</name>
+          <name>Rachel Lee,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Sarah Tolf,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Image color corrected</change>
+        <date>July 2009</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Lauren Cameron,</name>
+          <name>Andrea Everett,</name>
+          <name>Christopher N. Jackson,</name>
+          <name>Michelle Langston, </name>
+          <name>Rachel Lee,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Wayne C. Ripley,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Tolf,</name>
+          <name>Sarah Shaw</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Image scanned and catalogued</change>
+        <date>September 2002</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>Andrea Laue</name>
+          <resp>Project Manager: </resp>
+          <name>Andrea Dickens</name>
+          <resp>Project Assistants: </resp>
+          <name>Christopher N. Jackson, </name>
+          <name>Gerald Miller, </name>
+          <name>Sarah Trippensee, </name>
+          <name>Justin Van Kleeck</name></respstmt>
+      </changestmt>
+    </revisiondesc>
+  </header>
+  <objdesc>
+    <source>
+      <objdescid>
+        <objtitle>
+          <title>
+            <hi rend="i">The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</hi>
+          </title>
+        </objtitle>
+        <origination>William Blake
+          <role>inventor, </role>
+          <role>delineator, </role>
+          <role>colorist</role></origination>
+        <origination>Anonymous
+          <role>delineator.  The inscriptions on the mount, available under Related Works in the Archive, are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</role></origination>
+        <compdate value="1805">c. 1805</compdate>
+      </objdescid>
+      <objinfo>
+        <numberobj>1</numberobj>
+        <objsize>40.8 x 33.7 cm.</objsize>
+        <numberleaves>1</numberleaves>
+        <leafsize>40.8 x 33.7 cm.</leafsize>
+        <medium>pen and ink and water color</medium>
+        <support>paper, probably wove</support>
+        <watermark>none recorded</watermark>
+        <pennednumbers>none</pennednumbers>
+        <framelines>none</framelines>
+      </objinfo>
+      <provenance n="1">
+        <name>National Gallery of Art, Washington</name>
+        <date>1945</date>
+        <dealer>none</dealer>
+        <price>gift</price>
+        <note>Commissioned and acquired from Blake by Thomas Butts c. 1805; by inheritance in 1845 to Thomas Butts, Jr.; sold Sotheby's, 26 March 1852, lot 163, titled &quot;The Devil is come down&quot; as in the inscription on the mount above the design (£1.15s. to the dealer Henry G. Bohn); E. Daniel; sold Christie's, 1 June 1887, lot 262, titled &quot;Subject from the Revelation of St. John&quot; (£14 to the dealer John Pearson); the dealer Robson and Co.; offered by Robson in his catalogue 63 of 1897 and in a 1904 catalogue (£52.10s.); the dealer Carfax &amp; Co. by 1914; the dealer Thomas Agnew &amp; Sons by 1923; sold by Agnew for $2500 to A. Edward Newton by no later than May 1926; sold from Newton's collection, Parke-Bernet, New York, 16 April 1941, lot 118 ($10,100 to the dealer A. S. W. Rosenbach acting for Lessing J. Rosenwald); given by Rosenwald to the National Gallery of Art, Washington, in 1945.</note>
+      </provenance>
+      <repository>
+        <institution>National Gallery of Art, Washington</institution>
+        <addressline>Constitution Ave. NW, between 3rd and 9th Streets</addressline>
+        <addressline>Washington, D. C. 20565</addressline>
+        <addressline>mailing address: 2000B South Club Drive</addressline>
+        <addressline>Landover, Maryland 20785</addressline>
+        <addressline>United States</addressline>
+        <addressline>Telephone: 202-737-4215</addressline>
+        <addressline>URL: http://www.nga.gov/</addressline>
+        <addressline>Telephone, Print Study Room: 202-842-6380</addressline>
+        <addressline>Telephone, Visual Services: 202-842-6126</addressline>
+        <addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline>
+        <department>Drawings and Prints</department>
+        <collection>Lessing J. Rosenwald Collection, National Gallery of Art, Washington</collection>
+        <repositoryid label="Accession number">B-11064</repositoryid>
+      </repository>
+    </source>
+    <desc dbi="BUT520.1.1.WC" id="but520.1.wc.01">
+      <objtitle>
+        <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</title>,
+
+        <objid>
+          <objnumber code="A1">object 1 </objnumber>
+          <objcode code="U1">(Butlin 520)</objcode></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>Blake signed the work, lower left, with his monogram; see the textual transcription.  The inscriptions on the mount above and below the design are not by Blake.  These are available under Related Works in the Archive.</p>
+        </objnote>
+        <objsize>40.8 x 33.7 cm.</objsize>
+        <windowsize height="800" width="650"/>
+      </physdesc>
+      <related objectid="inscbut520.1.rm.01" ovp="noindex"/>
+      <related objectid="inscbut520.1.rm.02" ovp="noindex"/>
+      <related objectid="inscbut520.1.rm.03" ovp="noindex"/>
+      <illusdesc>
+        <illustration location="E" type="plate">
+          <illusobjdesc>The design takes its subject from Revelation 12:12-17. At the top center is the figure of a dragon or devil facing forward and down. This figure may be male and nude. He has bat-like wings and a serpentine tail that loops three times to form a spiral. This figure has seven heads, the three leftmost looking left and down and the three rightmost looking right and down. The heads on each side of the central head, and closest to it, have short, curly hair and horns with one loop in each. The middle head wears a crown and has ram-like horns with one loop in each. His spine bone is visible. His arms are raised horizontally, palms down and his right leg is bent slightly. He may be looking at the woman beneath him. Dominating the bottom center of the design is a winged female angel wearing a gown—or, in the context of the title, the woman clothed with the sun. She sits or kneels with her legs bent and her right leg partly drawn up. Her arms are raised horizontally with her palms held vertically. She faces forward and slightly right and looks up and to the left. Her long, curly hair is flame-like and stands on end. The woman at the bottom center of the design kneels on an outjutting of rock, perhaps meant to represent a mountaintop or cliff. The sky in the background is dark, perhaps indicating that the scene takes place at night. Clouds are visible in the sky, as are bolts of lightning. In the background to the left of the woman may be at least five figures, facing left and away. They are mostly just visible as sketchy heads, but the leftmost figure may be gowned with short hair, facing down or bending forward. In the background to the right of the woman may be at least six figures, facing down and to the right. The leftmost figure may be that of a nude male with short, curly hair, facing away and bending forward. The second-to-left figure may be that of a gowned male with short hair, facing forward and looking up, mouth open. The third-to-left figure may be that of a nude male with long hair and a beard, facing away. His right arm is raised at 135 degrees and his body is nearly horizontal, suggesting that he may be flying, hovering, or falling. The fourth-to-right figure may be that of a gowned woman with long hair pulled up into a bun, facing away. Her body is nearly horizontal and her right arm is bent upward, perhaps with her hand to her face. The heads of two further figures appear above the arm of the figure third from the left.   
+                    </illusobjdesc>
+          <component location="AB" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>dragon</characteristic>
+            <characteristic>demon</characteristic>
+            <characteristic>devil</characteristic>
+            <characteristic>wing</characteristic>
+            <characteristic>bat-winged</characteristic>
+            <characteristic>tail</characteristic>
+            <characteristic>serpentine</characteristic>
+            <characteristic>loop</characteristic>
+            <characteristic>spiral</characteristic>
+            <characteristic>hovering</characteristic>
+            <characteristic>flying</characteristic>
+            <characteristic>floating</characteristic>
+            <characteristic>facing down</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>bending forward</characteristic>
+            <characteristic>head down</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>leg extended backward</characteristic>
+            <characteristic>leg bent at knee</characteristic>
+            <characteristic>arm raised horizontally</characteristic>
+            <characteristic>palm down</characteristic>
+            <characteristic>horn</characteristic>
+            <characteristic>ram</characteristic>
+            <characteristic>spine</characteristic>
+            <characteristic>bone</characteristic>
+            <characteristic>crown</characteristic>
+            <characteristic>spiky</characteristic>
+            <characteristic>bald</characteristic>
+            <characteristic>short hair</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>heads, multiple</characteristic>
+            <illusobjdesc>At the top center of the design is the figure of a dragon or devil facing forward and down. This figure may be male and nude. He has bat-like wings and a serpentine tail that loops three times to form a spiral. This figure has seven heads, the three leftmost looking left and down and the three rightmost looking right and down. The heads on each side of, and closest to, the central head have short, curly hair and horns with one loop in each. The middle head wears a spiky crown and has ram-like horns with one loop in each. His spine bone is visible. His arms are raised horizontally, palms down and his right leg is bent slightly. He may be looking at the woman beneath him. </illusobjdesc>
+          </component>
+          <component location="CD" type="figure">
+            <characteristic>female</characteristic>
+            <characteristic>angel</characteristic>
+            <characteristic>sun</characteristic>
+            <characteristic>wing</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>flame-like hair</characteristic>
+            <characteristic>hair standing on end</characteristic>
+            <characteristic>arm raised horizontally</characteristic>
+            <characteristic>hand raised, palm out</characteristic>
+            <characteristic>palm vertical</characteristic>
+            <characteristic>kneeling</characteristic>
+            <characteristic>sitting</characteristic>
+            <characteristic>crouching</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>leg bent</characteristic>
+            <characteristic>leg drawn up</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>facing left</characteristic>
+            <illusobjdesc>Dominating the bottom center of the design is a winged female angel wearing a gown—or, in the context of the title, the woman clothed with the sun. She sits or kneels with her legs bent and her right leg partly drawn up. Her arms are raised horizontally with her palms held vertically. She faces forward and slightly right and looks up and to the left. Her long, curly hair is flame-like and stands on end. </illusobjdesc>
+          </component>
+          <component location="CD" type="object">
+            <characteristic>stone</characteristic>
+            <characteristic>cliff</characteristic>
+            <characteristic>mountain</characteristic>
+            <illusobjdesc>The woman at the bottom center of the design kneels on an outjutting of rock, perhaps meant to represent a mountaintop or cliff. </illusobjdesc>
+          </component>
+          <component location="E" type="object">
+            <characteristic>sky</characteristic>
+            <characteristic>dark</characteristic>
+            <characteristic>night</characteristic>
+            <characteristic>cloud</characteristic>
+            <characteristic>lightning</characteristic>
+            <illusobjdesc>The sky in the background is dark, perhaps indicating that the scene takes place at night. Clouds are visible in the sky, as are bolts of lightning. </illusobjdesc>
+          </component>
+          <component location="C" type="figure">
+            <characteristic>group of figures</characteristic>
+            <characteristic>head</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>facing down</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>bending forward</characteristic>
+            <characteristic>short hair</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>walking</characteristic>
+            <illusobjdesc>In the background to the left of the woman may be at least five figures, facing left and away. They are mostly just visible as sketchy heads, but the leftmost figure may be gowned with short hair, facing down or bending forward. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>facing down</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>male</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>bending forward</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>short hair</characteristic>
+            <characteristic>curly hair</characteristic>
+            <illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The leftmost figure may be that of a nude male with short, curly hair, facing away and bending forward. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>facing down</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>short hair</characteristic>
+            <characteristic>mouth open</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>arms bent</characteristic>
+            <characteristic>arms crossed</characteristic>
+            <characteristic>arms wrapped around body</characteristic>
+            <illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The second-to-left figure may be that of a gowned male with short hair, facing forward and looking up, mouth open. His arms may be crossed or wrapped around his body.</illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>facing down</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>arm raised at 135 degrees</characteristic>
+            <characteristic>body horizontal</characteristic>
+            <characteristic>flying</characteristic>
+            <characteristic>hovering</characteristic>
+            <characteristic>falling</characteristic>
+            <characteristic>floating</characteristic>
+            <illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The third-to-left figure may be that of a nude male with long hair and a beard, facing away. His right arm is raised at 135 degrees and his body is nearly horizontal, suggesting that he may be flying, hovering, or falling. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>female</characteristic>
+            <characteristic>facing down</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>bun</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>arm bent upward</characteristic>
+            <characteristic>arm bent</characteristic>
+            <characteristic>hand on face</characteristic>
+            <characteristic>body horizontal</characteristic>
+            <characteristic>bending forward</characteristic>
+            <characteristic>lying</characteristic>
+            <characteristic>falling</characteristic>
+            <illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The fourth-to-right figure may be that of a gowned woman with long hair pulled up into a bun, facing away. Her body is nearly horizontal and her right arm is bent upward, perhaps with her hand to her face. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>group of figures</characteristic>
+            <characteristic>head</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>facing down</characteristic>
+            <illusobjdesc>In the background to the right of the woman may be at least six figures, facing down and to the right. The heads of two of these figures appear above the outstretched right arm of the figure third from the left. Perhaps they are seen from behind.</illusobjdesc>
+          </component>
+        </illustration>
+      </illusdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="8" justify="left" n="but520.1.wc.01.01">inv</l>
+          <l indent="8" justify="left" n="but520.1.wc.01.02">WB</l>
+        </lg>
+      </phystext>
+      <supplemental>
+         <desc dbi="BUT520.1.1-full.RM" id="inscbut520.1.rm.01">
+      <objtitle>
+        <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</title>,
+
+        <objid>
+          <objnumber code="A1">full view including mount inscriptions </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>Blake signed the work, lower left, with his monogram; see the textual transcription.  The inscriptions on the mount (the backing mat) above and below the design are not by Blake.</p>
+        </objnote>
+        <objsize>50.8 x 35.0 cm.</objsize>
+        <windowsize height="800" width="600"/>
+      </physdesc>
+    </desc>
+    <desc dbi="BUT520.1.1-insc-t.RM" id="inscbut520.1.rm.02">
+      <objtitle>
+        <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</title>,
+            
+        <objid>
+          <objnumber code="A1">top mount inscription </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>The inscription on the mount (the backing mat) above the design is not by Blake.</p>
+        </objnote>
+        <objsize>3.3 x 19.4 cm.</objsize>
+        <windowsize height="700" width="600"/>
+      </physdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="18" justify="left" n="inscbut520.1.rm.02.01">The Devil is come down</l>
+        </lg>
+      </phystext>
+    </desc>
+    <desc dbi="BUT520.1.1-insc-b.RM" id="inscbut520.1.rm.03">
+      <objtitle>
+        <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</title>,
+            
+        <objid>
+          <objnumber code="A1">bottom mount inscriptions </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>The inscriptions on the mount (the backing mat) below the design are not by Blake.</p>
+        </objnote>
+        <objsize>7.2 x 33.6 cm.</objsize>
+        <windowsize height="700" width="600"/>
+      </physdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="50" justify="left" n="inscbut520.1.rm.03.01">Re  
+            <hi rend="superscript">ns</hi>
+            14
+            <hi rend="superscript">th</hi>
+            <note>
+              The mount is badly damaged in the area of this inscription.  In addition to the inscriptions we have tentatively transcribed, there are fragments of other letters and/or numbers, presumably all part of a reference to the passage illustrated.  Butlin 520 records &quot;Rev
+              <hi rend="superscript">ns</hi>
+              : ch [...]
+              <hi rend="superscript">th</hi>
+              14[?]
+              <hi rend="superscript">th</hi>
+              .&quot;</note>
+          </l>
+        </lg>
+        <vspace extent="1"/>
+        <lg justify="left">
+          <l justify="left" n="inscbut520.1.rm.03.02">And to the woman were given two wings of a great eagle, that</l>
+          <l justify="left" n="inscbut520.1.rm.03.03">she might fly into the wilderness, into her place, from the face of the</l>
+          <l indent="25" justify="left" n="inscbut520.1.rm.03.04">Serpent.</l>
+        </lg>
+      </phystext>
+    </desc>
+      </supplemental>
+    </desc>
+  </objdesc>
+</bad>

@@ -1,128 +1,580 @@
-<bad id="lt1sept1800.1" type="ltr" work="Letter to George Cumberland, 1 September 1800" copy="1" copyid="1" institution="essick" catalog="wba" catid="lt1sept1800"><header><filedesc><titlestmt><title reg="Letter to George Cumberland, 1 September 1800"><main>Letter to George Cumberland, 1 September 1800</main> : electronic edition </title><principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester; <name>Robert
-                        Essick,</name>University of California, Riverside; and <name>Joseph
-                            Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt> </respstmt><sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
-                    and the University of Rochester</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2004</editionstmt><extent>1 XML file approx. 25KB; 8 JPEG (ISO/IEC 10918) files ranging in size from 247KB
-                to 1400KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>March 2014</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>                
-                The William Blake Archive is pleased to announce the publication of electronic editions of our second installment of Blake's letters, the correspondence of 1800-1805, which includes his three years with patron William Hayley in the coastal village of Felpham, West Sussex, and the frightening months leading up to his trial for sedition.
+<bad catalog="wba" catid="lt1sept1800" copy="1" copyid="1" id="lt1sept1800.1" institution="essick" type="ltr" work="Letter to George Cumberland, 1 September 1800">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Letter to George Cumberland, 1 September 1800">
+                    <main>Letter to George Cumberland, 1 September 1800</main>: electronic edition </title>
+                <principal>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>University of Rochester; 
+                    <name>Robert
+                        Essick,</name>
+                    University of California, Riverside; and 
+                    <name>Joseph
+                            Viscomi</name>
+                    , University of North Carolina at Chapel Hill</principal>
+                <respstmt/>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
+            <extent>1 XML file approx. 25KB; 8 JPEG (ISO/IEC 10918) files ranging in size from 247KB
+                to 1400KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>March 2014</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>The William Blake Archive is pleased to announce the publication of electronic editions of our second installment of Blake's letters, the correspondence of 1800-1805, which includes his three years with patron William Hayley in the coastal village of Felpham, West Sussex, and the frightening months leading up to his trial for sedition.
+                
                 <lb/>
-                The letters in this group supplement the Archive’s publication in November 2013 of Blake's illustrations to works by Hayley, including his <hi rend="i">Essay on Sculpture</hi>, the broadside ballad <hi rend="i">Little Tom the Sailor</hi>, <hi rend="i">The Triumphs of Temper</hi>, <hi rend="i">The Life and Posthumous Writings of William Cowper</hi>, and <hi rend="i">The Life of George Romney</hi>, along with the republication of Blake’s etched and engraved illustrations to <hi rend="i">Designs to a Series of Ballads, Written by William Hayley</hi> (1802) and Hayley’s <hi rend="i">Ballads</hi> (1805). Letters from this period track the downward spiral from the most hopeful moments of Blake’s anticipations of working for the beloved “hermit of Eartham” to the bitterness and resentment he ultimately felt for that “pickthank.” The letters also show Blake in the process of conducting routine business: with Hayley but also with his important London patron Thomas Butts and with the publisher-promoter Robert Hartley Cromek, who was destined to become a focus of anger and frustration in the next stage of Blake’s life.  <lb/><lb/>
-                About ninety of Blake’s letters survive, an unknown fraction of the total. Several—ten in the present group of thirty-three—are known only from partial and full transcriptions in the second, expanded, edition of Alexander Gilchrist’s <hi rend="i">Life of William Blake</hi> (1880). Blake traveled seldom and not very far. His circle of correspondents was narrow and the geographical circuit small. But his modest body of correspondence comprises an absorbing, revealing miscellany of reports on work in progress alongside friendly and not so friendly exchanges on matters of practical and intellectual substance. Occasionally the letters burst out into visions that amalgamate, in a characteristic Blakean vein, homely details, intensely energized prose, and inspired poetry.&#160;    <lb/><lb/>
-                The letters are, in any case, indispensable in preserving facts and contexts for his life and work that would be otherwise unknown and in showing him shift pragmatically from role to role in a very natural—and human—way, exposing facets of character and personality not always so apparent in his art. The letters feel closer to the exigencies of everyday life than any other works from Blake’s hand. He seldom puts pen to paper without interesting consequences for readers.   <lb/><lb/>
-                The Archive now contains 136 fully searchable and scalable electronic editions of important manuscripts and series of engravings, color printed drawings, tempera paintings, water color drawings, including 90 copies of Blake's nineteen illuminated books—all in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies.   <lb/><lb/>
-                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.  
-            </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2014</date> by Morris Eaves, Robert N. Essick, and
+                The letters in this group supplement the Archive’s publication in November 2013 of Blake's illustrations to works by Hayley, including his 
+                <hi rend="i">Essay on Sculpture</hi>
+                , the broadside ballad 
+                <hi rend="i">Little Tom the Sailor</hi>
+                , 
+                <hi rend="i">The Triumphs of Temper</hi>
+                , 
+                <hi rend="i">The Life and Posthumous Writings of William Cowper</hi>
+                , and 
+                <hi rend="i">The Life of George Romney</hi>
+                , along with the republication of Blake’s etched and engraved illustrations to 
+                <hi rend="i">Designs to a Series of Ballads, Written by William Hayley</hi>
+                (1802) and Hayley’s 
+                <hi rend="i">Ballads</hi>
+                (1805). Letters from this period track the downward spiral from the most hopeful moments of Blake’s anticipations of working for the beloved “hermit of Eartham” to the bitterness and resentment he ultimately felt for that “pickthank.” The letters also show Blake in the process of conducting routine business: with Hayley but also with his important London patron Thomas Butts and with the publisher-promoter Robert Hartley Cromek, who was destined to become a focus of anger and frustration in the next stage of Blake’s life.  
+                <lb/>
+                <lb/>
+                About ninety of Blake’s letters survive, an unknown fraction of the total. Several—ten in the present group of thirty-three—are known only from partial and full transcriptions in the second, expanded, edition of Alexander Gilchrist’s 
+                <hi rend="i">Life of William Blake</hi>
+                (1880). Blake traveled seldom and not very far. His circle of correspondents was narrow and the geographical circuit small. But his modest body of correspondence comprises an absorbing, revealing miscellany of reports on work in progress alongside friendly and not so friendly exchanges on matters of practical and intellectual substance. Occasionally the letters burst out into visions that amalgamate, in a characteristic Blakean vein, homely details, intensely energized prose, and inspired poetry.     
+                <lb/>
+                <lb/>
+                The letters are, in any case, indispensable in preserving facts and contexts for his life and work that would be otherwise unknown and in showing him shift pragmatically from role to role in a very natural—and human—way, exposing facets of character and personality not always so apparent in his art. The letters feel closer to the exigencies of everyday life than any other works from Blake’s hand. He seldom puts pen to paper without interesting consequences for readers.   
+                <lb/>
+                <lb/>
+                The Archive now contains 136 fully searchable and scalable electronic editions of important manuscripts and series of engravings, color printed drawings, tempera paintings, water color drawings, including 90 copies of Blake's nineteen illuminated books—all in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies.   
+                <lb/>
+                <lb/>
+                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.  </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © 
+            <date>2014</date>
+            by Morris Eaves, Robert N. Essick, and
             Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance
             with the Fair Use provisions of U.S. copyright law. Redistribution or republication on
             other terms, in any medium, requires express written consent from the editors and
             advance notification of the publisher. Permission to reproduce the graphic images in
-            this archive has been granted by the owners of the originals for this publication only.<lb/><lb/>This image copyright © 2014 William Blake Archive. </userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>December 2013-January 2014</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>Michael Fox</name><resp>Project Manager: </resp><name>Joseph Fletcher</name><resp>Project Coordinator, University of Rochester: </resp><name>Laura Bell</name><resp>Consultant on Special Projects: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Amber Bertin,</name><name>Katherine Calvin,</name><name>Andrea Everett,</name><name>Duncan Graham,</name><name>Shannon Jaime,</name><name>Gabrielle Kiriloff,</name><name>Eric Loy,</name><name>Kate Massie,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Anastasia Nikolis,</name><name>Adair Rispoli,</name><name>Hardeep Sidhu,</name><name>Margaret Speer,</name><name>Sarah Tolf,</name><name>Danny Tsegai,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name><name>Megan Wilson,</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title>Letter to George Cumberland, 1 September 1800</title></objtitle><origination>William Blake<role>author, </role><role>inventor, </role><role>
-                        delineator</role></origination><compdate value="1800.E">1800</compdate></objdescid><objinfo><numberobj>4</numberobj><objorder>1-4</objorder><objsize>full sheet 19.5 x 32.0 cm.<note>Unfolded full sheet and Leaf Size
+            this archive has been granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This image copyright © 2014 William Blake Archive. </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>December 2013-January 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson,</name></respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Letter to George Cumberland, 1 September 1800</title>
+                </objtitle>
+                <origination>William Blake
+                    <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role></origination>
+                <compdate value="1800.E">1800</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>4</numberobj>
+                <objorder>1-4</objorder>
+                <objsize>full sheet 19.5 x 32.0 cm.
+                    <note>Unfolded full sheet and Leaf Size
                         dimensions (height x width) are given according to the vertical orientation
                         of the body of Blake's letter; see the note on Number of Leaves, below.
                         Object 1 has been reoriented vertically in the Object View Page, as would be
-                        customary when reading the address.</note></objsize><numberleaves>2<note>The full sheet was folded to form two leaves. The letter
+                        customary when reading the address.</note></objsize>
+                <numberleaves>2
+                    <note>The full sheet was folded to form two leaves. The letter
                         appears on the first recto (object 2), first verso (object 3), and second
                         recto (object 4) of the folded sheet. This folded sheet was folded further
                         to form a sealed packet for posting. The address appears on the second verso
                         (object 1), which would have been the exterior of the folded packet. The
                         unfolded full sheet views of the letter are available under Supplemental
-                        Views on the Show Me pull-down menu for those objects.</note></numberleaves><leafsize>19.5 cm. X 16.0 cm.</leafsize><medium>pen and ink</medium><inkcolor>black</inkcolor><support>laid paper</support><watermark>crown and shield</watermark><binding>loose</binding><postmark>"[H?]" or "[17?]", "[BRID]GE / [West]mins[t]er [A.]S[.E.]" and "C.S.E / 1
-                    / "[1]800"</postmark><sealDesc>wafer</sealDesc><addressee>George Cumberland</addressee><placeLet>London</placeLet></objinfo><provenance n="1"><name>Collection of Robert N. Essick</name><date>1997</date><dealer>John Windle</dealer><note>Early history unknown, but this letter apparently passed from a member of the
+                        Views on the Show Me pull-down menu for those objects.</note></numberleaves>
+                <leafsize>19.5 cm. X 16.0 cm.</leafsize>
+                <medium>pen and ink</medium>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>crown and shield</watermark>
+                <binding>loose</binding>
+                <postmark>&quot;[H?]&quot; or &quot;[17?]&quot;, &quot;[BRID]GE / [West]mins[t]er [A.]S[.E.]&quot; and &quot;C.S.E / 1
+                    / &quot;[1]800&quot;</postmark>
+                <sealDesc>wafer</sealDesc>
+                <addressee>George Cumberland</addressee>
+                <placeLet>London</placeLet>
+            </objinfo>
+            <provenance n="1">
+                <name>Collection of Robert N. Essick</name>
+                <date>1997</date>
+                <dealer>John Windle</dealer>
+                <note>Early history unknown, but this letter apparently passed from a member of the
                     Cumberland family living in or near Bristol to the family of Lord Coleridge (6th
                     Baron Coleridge) at an unknown time; acquired from Lord Coleridge by private
                     treaty in December 1997 by Robert Essick, John Windle acting as agent. This
                     letter was brought to the attention of Morton D. Paley by Lord Coleridge in the
-                    summer of 1997.</note></provenance><repository><institution>Collection of Robert N. Essick</institution><addressline>Altadena, CA</addressline></repository></source><desc id="lt1sept1800.1.ltr.01" dbi="lt1sept1800.1.1.LT"><objtitle><title type="editorial">Address</title><title type="alt">Letter to George Cumberland, 1 September 1800</title>, <objid><objnumber code="A1">object 1 </objnumber></objid></objtitle><physdesc desclevel="brief"><objsize>16.0 x 19.5 cm.</objsize><objnote><p>The full sheet was folded to form two leaves. The letter appears on the first
+                    summer of 1997.</note>
+            </provenance>
+            <repository>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena, CA</addressline>
+            </repository>
+        </source>
+        <desc dbi="lt1sept1800.1.1.LT" id="lt1sept1800.1.ltr.01">
+            <objtitle>
+                <title type="editorial">Address</title>
+                <title type="alt">Letter to George Cumberland, 1 September 1800</title>, 
+                <objid>
+                    <objnumber code="A1">object 1 </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>16.0 x 19.5 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. The letter appears on the first
                         recto (object 2), first verso (object 3), and second recto (object 4) of the
                         folded sheet. This folded sheet was folded further to form a sealed packet
                         for posting. The address appears on the second verso (object 1), which would
                         have been the exterior of the folded packet. The unfolded full sheet views
                         of the letter are available under Supplemental Views on the Show Me
-                        pull-down menu for those objects.</p><p>Left of the address, oriented vertically, "W<hi rend="superscript">m</hi>.
-                        Blake 1800" is inscribed in pencil in an unknown hand.</p></objnote><windowsize width="500" height="630"/></physdesc><supplemental objectid="supplt1sept1800.1.rm.01" ovp="noindex"/><phystext><lg type="prose" justify="left"><l n="lt1sept1800.1.ltr.01.01" justify="left" indent="1">M<hi rend="superscript">r</hi> Cumberland</l><l n="lt1sept1800.1.ltr.01.02" justify="left" indent="2">Bishopsgate</l><l n="lt1sept1800.1.ltr.01.03" justify="left">Windsor Great Park</l></lg></phystext></desc><desc id="lt1sept1800.1.ltr.02" dbi="lt1sept1800.1.2.LT"><objtitle><title type="transcribed">To have obtaind your friendship is better</title>, <objid><objnumber code="A2">object 2</objnumber></objid></objtitle><physdesc desclevel="brief"><objsize>19.5 x 16.0 cm.</objsize><objnote><p>The full sheet was folded to form two leaves. The letter appears on the first
+                        pull-down menu for those objects.</p>
+                    <p>Left of the address, oriented vertically, &quot;W
+                        <hi rend="superscript">m</hi>
+                        .
+                        Blake 1800&quot; is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+            <supplemental>
+                <desc dbi="lt1sept1800.1.1+2.RM" id="supplt1sept1800.1.rm.01">
+            <objtitle>, 
+                
+                <objid>
+                    <objnumber code="A1">objects 1 and 2, full sheet view</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>19.5 x 32.0 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. The letter appears on the first
                         recto (object 2), first verso (object 3), and second recto (object 4) of the
                         folded sheet. This folded sheet was folded further to form a sealed packet
                         for posting. The address appears on the second verso (object 1), which would
                         have been the exterior of the folded packet. The unfolded full sheet views
                         of the letter are available under Supplemental Views on the Show Me
-                        pull-down menu for those objects.</p></objnote><windowsize width="500" height="630"/></physdesc><supplemental objectid="supplt1sept1800.1.rm.01" ovp="noindex"/><phystext><lg type="prose" justify="left"><l n="lt1sept1800.1.ltr.02.01" justify="left" indent="1">My Dear Cumberland</l><l n="lt1sept1800.1.ltr.02.02" justify="left" indent="9">To have obtained your
-                        friendship is better tha<subst><del type="overwrite">t</del><add type="overwrite" place="inline">n</add></subst> to have sold ten thousand</l><l n="lt1sept1800.1.ltr.02.03" justify="left" indent="1">books. I am now upon
-                        the verge of a happy alteration in my life</l><l n="lt1sept1800.1.ltr.02.04" justify="left" indent="1">which you will join
-                        with my London friends in Giving me joy of—</l><l n="lt1sept1800.1.ltr.02.05" justify="left" indent="1">It is an alteration in
-                        my situation on the surface of this dull Planet</l><l n="lt1sept1800.1.ltr.02.06" justify="left" indent="1">I have taken a Cottage
-                        at Felpham on the Sea Shore of Sussex</l><l n="lt1sept1800.1.ltr.02.07" justify="left" indent="47"><add type="insertion" place="supralinear" symbol="caret">soon to be</add></l><l n="lt1sept1800.1.ltr.02.08" justify="left" indent="1">between Arundel &amp;
-                        Chichester. M<hi rend="superscript">r</hi> Hayley the Poet is<add type="insertion" place="supralinear" symbol="caret"><hi rend="subscript">^</hi></add> my neighbour</l><l n="lt1sept1800.1.ltr.02.09" justify="left" indent="1">he is now my friend. to
-                        him I owe the happy suggestion for it was</l><l n="lt1sept1800.1.ltr.02.10" justify="left" indent="1">on a visit to him that
-                        I fell in love with my Cottage. I have</l><l n="lt1sept1800.1.ltr.02.11" justify="left" indent="1">now better prospects
-                        than ever The little I want will be easily supplied</l><l n="lt1sept1800.1.ltr.02.12" justify="left" indent="1">he has given me a
-                        twelvemonths work already. &amp; there is a great deal</l><l n="lt1sept1800.1.ltr.02.13" justify="left" indent="1"><unclear resp="nw">m</unclear>ore in prospect I call myself now Independent. I can be Poet
-                                Painter<note><illus filename="lt1sept1800.2.13.note.jpg"/>Part of
-                            the first letter in "more" is covered by the remnant of the wafer
-                            seal.</note></l><l n="lt1sept1800.1.ltr.02.14" justify="left" indent="1"><subst><del type="overwrite">f</del><add type="overwrite" place="inline"><unclear resp="nw">&amp;</unclear></add></subst> Musician as the Inspiration comes. And now I take this first <choice><orig>oppor</orig><reg>opportunity</reg></choice><note><illus filename="lt1sept1800.2.14.note.jpg"/>Part of the
+                        pull-down menu for those objects.</p>
+                    <p>Above the address, &quot;W
+                        <hi rend="superscript">m</hi>
+                        . Blake 1800&quot; is inscribed
+                        in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize height="850" width="985"/>
+            </physdesc>
+        </desc>
+            </supplemental>
+            <phystext>
+                <lg justify="left" type="prose">
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.01.01">M
+                        <hi rend="superscript">r</hi>
+                        Cumberland</l>
+                    <l indent="2" justify="left" n="lt1sept1800.1.ltr.01.02">Bishopsgate</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.01.03">Windsor Great Park</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc dbi="lt1sept1800.1.2.LT" id="lt1sept1800.1.ltr.02">
+            <objtitle>
+                <title type="transcribed">To have obtaind your friendship is better</title>, 
+                <objid>
+                    <objnumber code="A2">object 2</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>19.5 x 16.0 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. The letter appears on the first
+                        recto (object 2), first verso (object 3), and second recto (object 4) of the
+                        folded sheet. This folded sheet was folded further to form a sealed packet
+                        for posting. The address appears on the second verso (object 1), which would
+                        have been the exterior of the folded packet. The unfolded full sheet views
+                        of the letter are available under Supplemental Views on the Show Me
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+            <supplemental>
+                <desc dbi="lt1sept1800.1.1+2.RM" id="supplt1sept1800.1.rm.01">
+            <objtitle>, 
+                
+                <objid>
+                    <objnumber code="A1">objects 1 and 2, full sheet view</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>19.5 x 32.0 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. The letter appears on the first
+                        recto (object 2), first verso (object 3), and second recto (object 4) of the
+                        folded sheet. This folded sheet was folded further to form a sealed packet
+                        for posting. The address appears on the second verso (object 1), which would
+                        have been the exterior of the folded packet. The unfolded full sheet views
+                        of the letter are available under Supplemental Views on the Show Me
+                        pull-down menu for those objects.</p>
+                    <p>Above the address, &quot;W
+                        <hi rend="superscript">m</hi>
+                        . Blake 1800&quot; is inscribed
+                        in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize height="850" width="985"/>
+            </physdesc>
+        </desc>
+            </supplemental>
+            <phystext>
+                <lg justify="left" type="prose">
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.01">My Dear Cumberland</l>
+                    <l indent="9" justify="left" n="lt1sept1800.1.ltr.02.02">To have obtained your
+                        friendship is better tha
+                        <subst>
+                            <del type="overwrite">t</del>
+                            <add place="inline" type="overwrite">n</add></subst>to have sold ten thousand</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.03">books. I am now upon
+                        the verge of a happy alteration in my life</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.04">which you will join
+                        with my London friends in Giving me joy of—</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.05">It is an alteration in
+                        my situation on the surface of this dull Planet</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.06">I have taken a Cottage
+                        at Felpham on the Sea Shore of Sussex</l>
+                    <l indent="47" justify="left" n="lt1sept1800.1.ltr.02.07">
+                        <add place="supralinear" symbol="caret" type="insertion">soon to be</add>
+                    </l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.08">between Arundel &amp;
+                        Chichester. M
+                        <hi rend="superscript">r</hi>
+                        Hayley the Poet is
+                        <add place="supralinear" symbol="caret" type="insertion">
+                            <hi rend="subscript">^</hi></add>my neighbour</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.09">he is now my friend. to
+                        him I owe the happy suggestion for it was</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.10">on a visit to him that
+                        I fell in love with my Cottage. I have</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.11">now better prospects
+                        than ever The little I want will be easily supplied</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.12">he has given me a
+                        twelvemonths work already. &amp; there is a great deal</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.13">
+                        <unclear resp="nw">m</unclear>ore in prospect I call myself now Independent. I can be Poet
+                                Painter
+                        <note>
+                            <illus filename="lt1sept1800.2.13.note.jpg"/>
+                            Part of
+                            the first letter in &quot;more&quot; is covered by the remnant of the wafer
+                            seal.</note>
+                    </l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.14">
+                        <subst>
+                            <del type="overwrite">f</del>
+                            <add place="inline" type="overwrite">
+                                <unclear resp="nw">&amp;</unclear>
+                            </add>
+                        </subst>Musician as the Inspiration comes. And now I take this first 
+                        <choice>
+                            <orig>oppor</orig>
+                            <reg>opportunity</reg></choice>
+                        <note>
+                            <illus filename="lt1sept1800.2.14.note.jpg"/>Part of the
                             first character in this line is obscured by the gap left where the wafer
-                            seal was attached and opened.</note></l><l n="lt1sept1800.1.ltr.02.15" justify="left" indent="1">-tunity to Invite you
-                        down to Felpham we lie on a Pleasant</l><l n="lt1sept1800.1.ltr.02.16" justify="left" indent="1">shore it is within a
-                        mile of Bognor to which our Fash<subst><add/></subst>nables resort</l><l n="lt1sept1800.1.ltr.02.17" justify="left" indent="1">My Cottage faces the
-                        South about a Quarter of a Mile from the</l><l n="lt1sept1800.1.ltr.02.18" justify="left" indent="1">Sea, only corn fields
-                        between. tell M<hi rend="superscript">rs</hi> Cumberland that my
-                            Wife<note>Robert Essick and Morton D. Paley (“Dear Generous Cumberland:
+                            seal was attached and opened.</note>
+                    </l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.15">-tunity to Invite you
+                        down to Felpham we lie on a Pleasant</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.16">shore it is within a
+                        mile of Bognor to which our Fash
+                        <subst>
+                            <add/></subst>nables resort</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.17">My Cottage faces the
+                        South about a Quarter of a Mile from the</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.18">Sea, only corn fields
+                        between. tell M
+                        <hi rend="superscript">rs</hi>
+                        Cumberland that my
+                            Wife
+                        <note>Robert Essick and Morton D. Paley (“Dear Generous Cumberland:
                             A Newly Discovered Letter and Poem by William Blake,” Blake/An
-                            Illustrated Quarterly (Spring 1998), page 4) read "Fields" for
-                            "fields".</note></l><l n="lt1sept1800.1.ltr.02.19" justify="left" indent="1">thirsts for the
-                        opportunity to Entertain her at our Cottage</l><l n="lt1sept1800.1.ltr.02.20" justify="left" indent="9">Your Vision of the
-                        Happy Sophis I have <choice><sic>devourd</sic><reg>devoured</reg></choice>. O most</l><l n="lt1sept1800.1.ltr.02.21" justify="left" indent="1">delicious book how
-                        canst thou Expect any thing but Envy in Londons</l><l n="lt1sept1800.1.ltr.02.22" justify="left" indent="1">accursed walls. You
-                        have my dear friend given me a task which</l><l n="lt1sept1800.1.ltr.02.23" justify="left" indent="1">I have <choice><sic>endeavourd</sic><reg>endeavored</reg></choice> to fulfill I have given a sketch of your Propo</l><l n="lt1sept1800.1.ltr.02.24" justify="left" indent="1">-sal to the Editor of
-                        the Monthly Magazine desiri<unclear resp="nw">n</unclear>g that he will</l></lg></phystext></desc><desc id="lt1sept1800.1.ltr.03" dbi="lt1sept1800.1.3.LT"><objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A2">object 3 </objnumber></objid></objtitle><physdesc desclevel="brief"><objsize>19.5 x 16.0 cm.</objsize><objnote><p>The full sheet was folded to form two leaves. The letter appears on the first
+                            Illustrated Quarterly (Spring 1998), page 4) read &quot;Fields&quot; for
+                            &quot;fields&quot;.</note></l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.19">thirsts for the
+                        opportunity to Entertain her at our Cottage</l>
+                    <l indent="9" justify="left" n="lt1sept1800.1.ltr.02.20">Your Vision of the
+                        Happy Sophis I have 
+                        <choice>
+                            <sic>devourd</sic>
+                            <reg>devoured</reg></choice>. O most</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.21">delicious book how
+                        canst thou Expect any thing but Envy in Londons</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.22">accursed walls. You
+                        have my dear friend given me a task which</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.23">I have 
+                        <choice>
+                            <sic>endeavourd</sic>
+                            <reg>endeavored</reg></choice>to fulfill I have given a sketch of your Propo</l>
+                    <l indent="1" justify="left" n="lt1sept1800.1.ltr.02.24">-sal to the Editor of
+                        the Monthly Magazine desiri
+                        <unclear resp="nw">n</unclear>
+                        g that he will</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc dbi="lt1sept1800.1.3.LT" id="lt1sept1800.1.ltr.03">
+            <objtitle>
+                <title type="editorial">cont.</title>, 
+                <objid>
+                    <objnumber code="A2">object 3 </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>19.5 x 16.0 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. The letter appears on the first
                         recto (object 2), first verso (object 3), and second recto (object 4) of the
                         folded sheet. This folded sheet was folded further to form a sealed packet
                         for posting. The address appears on the second verso (object 1), which would
                         have been the exterior of the folded packet. The unfolded full sheet views
                         of the letter are available under Supplemental Views on the Show Me
-                        pull-down menu for those objects.</p></objnote><windowsize width="500" height="630"/></physdesc><supplemental objectid="supplt1sept1800.1.rm.02" ovp="noindex"/><phystext><lg type="prose" justify="left"><l n="lt1sept1800.1.ltr.03.01" justify="left">give it to the Public hope he will
-                        do so. I have shown your Bonasoni</l><l n="lt1sept1800.1.ltr.03.02" justify="left">to M<hi rend="superscript">r</hi>
-                        Hawkins my friend desiring that he will place yo<unclear resp="nw">u</unclear>r Proposal</l><l n="lt1sept1800.1.ltr.03.03" justify="left">to the account of its real author.
-                        wherever he goes</l><l n="lt1sept1800.1.ltr.03.04" justify="left" indent="7">How Sorry I am that you
-                        should ever be Ill. it also gives</l><l n="lt1sept1800.1.ltr.03.05" justify="left">me pain to hear that you intend to
-                        leave Bishopsgate &amp; it would</l><l n="lt1sept1800.1.ltr.03.06" justify="left">give me more pleasure to hear that
-                        Sussex was preferred by you</l><l n="lt1sept1800.1.ltr.03.07" justify="left">to Somersetshire But wherever you
-                        Go God bless you.</l><l n="lt1sept1800.1.ltr.03.08" justify="left" indent="7">Perhaps I ought to give
-                        you My Letter to the Editor of the</l><l n="lt1sept1800.1.ltr.03.09" justify="left">Monthly <choice><orig>Mag</orig><reg>Magazine</reg></choice>. It is this</l><l n="lt1sept1800.1.ltr.03.10" justify="left" indent="8">Sir</l><l n="lt1sept1800.1.ltr.03.11" justify="left" indent="12">Your Magazine being so
-                        universally Read induces</l><l n="lt1sept1800.1.ltr.03.12" justify="left">me to recommend to your notice a
-                        Proposal made some</l><l n="lt1sept1800.1.ltr.03.13" justify="left">years ago in a Life of Julio
-                        Bonasoni which Proposal</l><l n="lt1sept1800.1.ltr.03.14" justify="left">ought to be given to the Public in
-                        Every work of the</l><l n="lt1sept1800.1.ltr.03.15" justify="left">nature of yours. It is. For the
-                        Erection of National</l><l n="lt1sept1800.1.ltr.03.16" justify="left">Galleries for the Reception of
-                        Casts in Plaster from</l><l n="lt1sept1800.1.ltr.03.17" justify="left">all the Beautiful Antique. Statues
-                        Basso Relivos &amp;<hi rend="superscript">c</hi></l><l n="lt1sept1800.1.ltr.03.18" justify="left">that can be procured at home or
-                        abroad. Which</l><l n="lt1sept1800.1.ltr.03.19" justify="left">Galleries may be built &amp;
-                        filled by Public Subscription</l><l n="lt1sept1800.1.ltr.03.20" justify="left">To be open to The Public. Their
-                        Use would be</l><l n="lt1sept1800.1.ltr.03.21" justify="left">To Correct &amp; Determine Public
-                        Taste as well</l><l n="lt1sept1800.1.ltr.03.21" justify="left">as to be Treasures of Study for
-                        Artists. If you think</l></lg></phystext></desc><desc id="lt1sept1800.1.ltr.04" dbi="lt1sept1800.1.4.LT"><objtitle><title type="editorial">cont.</title><title type="alt">Letter to George Cumberland, 1 Sept 1800</title>, <objid><objnumber code="A2">object 4 </objnumber></objid></objtitle><physdesc desclevel="brief"><objsize>19.5 x 16.0 cm.</objsize><objnote><p>The full sheet was folded to form two leaves. The letter appears on the first
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+            <supplemental>
+                        <desc dbi="lt1sept1800.1.3+4.RM" id="supplt1sept1800.1.rm.02">
+            <objtitle>, 
+                <objid>
+                    <objnumber code="A1">objects 3 and 4, full sheet view</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>19.5 x 32.0 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. The letter appears on the first
                         recto (object 2), first verso (object 3), and second recto (object 4) of the
                         folded sheet. This folded sheet was folded further to form a sealed packet
                         for posting. The address appears on the second verso (object 1), which would
                         have been the exterior of the folded packet. The unfolded full sheet views
                         of the letter are available under Supplemental Views on the Show Me
-                        pull-down menu for those objects.</p></objnote><windowsize width="500" height="630"/></physdesc><supplemental objectid="supplt1sept1800.1.rm.02" ovp="noindex"/><phystext><lg type="prose" justify="left"><l n="lt1sept1800.1.ltr.04.01" justify="left">that this Proposal is of the
-                        Consequence that it</l><l n="lt1sept1800.1.ltr.04.02" justify="left">appears to me to be, You will
-                        Extract the Authors own</l><l n="lt1sept1800.1.ltr.04.03" justify="left"> words &amp; give them in your
-                        valuable Magazine. The</l><l n="lt1sept1800.1.ltr.04.04" justify="left">Work is Intitled "Some Anecdotes
-                        of the Life</l><l n="lt1sept1800.1.ltr.04.05" justify="left" indent="20"><add type="insertion" place="supralinear" symbol="caret">by George Cumberland</add></l><l n="lt1sept1800.1.ltr.04.06" justify="left">of Julio Bonasoni &amp;<add type="insertion" place="supralinear" symbol="caret"><hi rend="subscript"> ^</hi></add> Publishd by Robinsons</l><l n="lt1sept1800.1.ltr.04.07" justify="left">Paternoster Row 1793</l><l n="lt1sept1800.1.ltr.04.08" justify="left" indent="21">Yours <unclear resp="nw">W</unclear>.B.</l><l n="lt1sept1800.1.ltr.04.09" justify="left" indent="3">I so little understand
-                        the way to get such things into Magazines</l><l n="lt1sept1800.1.ltr.04.10" justify="left">or News papers that if I have done
-                        wrong in Merely deliver<unclear resp="nw">in</unclear>g the</l><l n="lt1sept1800.1.ltr.04.11" justify="left">Letter at the Publishers of the
-                        Magazine beg you will inform me</l><l n="lt1sept1800.1.ltr.04.12" justify="left" indent="5">My Wife joins with me
-                        in Love &amp; Respect to yourself &amp; <choice><sic>familly</sic><reg>family</reg></choice></l><l n="lt1sept1800.1.ltr.04.13" justify="left" indent="23">I am Your devoted
-                        artist</l><l n="lt1sept1800.1.ltr.04.14" justify="left" indent="38">Will<hi rend="superscript">m</hi> Blake</l><l n="lt1sept1800.1.ltr.04.15" justify="left"/><l n="lt1sept1800.1.ltr.04.16" justify="left">PS. I hope to be Settled in Sussex
-                        before the End of September</l><l n="lt1sept1800.1.ltr.04.17" justify="left">it is certainly the sweetest
-                        country upon the face of the Earth</l><l n="lt1sept1800.1.ltr.04.18" justify="left">Dear Generous Cumberland nobly
-                        solicitous for a Friends welfare. Behold me</l><l n="lt1sept1800.1.ltr.04.19" justify="left">Whom your Friendship has
-                        Magnified: Rending the manacles of Londons Dungeon dark</l><l n="lt1sept1800.1.ltr.04.20" justify="left">I have rent the black net &amp; <choice><sic>escap'd</sic><reg>escaped</reg></choice>. See My Cottage at Felpham in joy</l><l n="lt1sept1800.1.ltr.04.21" justify="left">Beams over the sea, a bright light
-                        over France, but the Web &amp; the Veil I have left</l><l n="lt1sept1800.1.ltr.04.22" justify="left">Behind me at London resists every
-                        beam of light; hanging from heaven to Earth</l><l n="lt1sept1800.1.ltr.04.23" justify="left">Dropping with human gore. Lo! I
-                        have left it! I have torn it from my limbs</l><l n="lt1sept1800.1.ltr.04.24" justify="left">I shake my wings ready to take my
-                        flight! Pale, Ghastly pale: stands the City in fear</l></lg></phystext></desc></objdesc></bad>
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="850" width="985"/>
+            </physdesc>
+        </desc>
+            </supplemental>
+            <phystext>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="lt1sept1800.1.ltr.03.01">give it to the Public hope he will
+                        do so. I have shown your Bonasoni</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.02">to M
+                        <hi rend="superscript">r</hi>
+                        Hawkins my friend desiring that he will place yo
+                        <unclear resp="nw">u</unclear>
+                        r Proposal</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.03">to the account of its real author.
+                        wherever he goes</l>
+                    <l indent="7" justify="left" n="lt1sept1800.1.ltr.03.04">How Sorry I am that you
+                        should ever be Ill. it also gives</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.05">me pain to hear that you intend to
+                        leave Bishopsgate &amp; it would</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.06">give me more pleasure to hear that
+                        Sussex was preferred by you</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.07">to Somersetshire But wherever you
+                        Go God bless you.</l>
+                    <l indent="7" justify="left" n="lt1sept1800.1.ltr.03.08">Perhaps I ought to give
+                        you My Letter to the Editor of the</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.09">Monthly 
+                        <choice>
+                            <orig>Mag</orig>
+                            <reg>Magazine</reg></choice>. It is this</l>
+                    <l indent="8" justify="left" n="lt1sept1800.1.ltr.03.10">Sir</l>
+                    <l indent="12" justify="left" n="lt1sept1800.1.ltr.03.11">Your Magazine being so
+                        universally Read induces</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.12">me to recommend to your notice a
+                        Proposal made some</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.13">years ago in a Life of Julio
+                        Bonasoni which Proposal</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.14">ought to be given to the Public in
+                        Every work of the</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.15">nature of yours. It is. For the
+                        Erection of National</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.16">Galleries for the Reception of
+                        Casts in Plaster from</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.17">all the Beautiful Antique. Statues
+                        Basso Relivos &amp;
+                        <hi rend="superscript">c</hi></l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.18">that can be procured at home or
+                        abroad. Which</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.19">Galleries may be built &amp;
+                        filled by Public Subscription</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.20">To be open to The Public. Their
+                        Use would be</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.21">To Correct &amp; Determine Public
+                        Taste as well</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.03.21">as to be Treasures of Study for
+                        Artists. If you think</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc dbi="lt1sept1800.1.4.LT" id="lt1sept1800.1.ltr.04">
+            <objtitle>
+                <title type="editorial">cont.</title>
+                <title type="alt">Letter to George Cumberland, 1 Sept 1800</title>, 
+                <objid>
+                    <objnumber code="A2">object 4 </objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>19.5 x 16.0 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. The letter appears on the first
+                        recto (object 2), first verso (object 3), and second recto (object 4) of the
+                        folded sheet. This folded sheet was folded further to form a sealed packet
+                        for posting. The address appears on the second verso (object 1), which would
+                        have been the exterior of the folded packet. The unfolded full sheet views
+                        of the letter are available under Supplemental Views on the Show Me
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="630" width="500"/>
+            </physdesc>
+            <supplemental>
+                        <desc dbi="lt1sept1800.1.3+4.RM" id="supplt1sept1800.1.rm.02">
+            <objtitle>, 
+                <objid>
+                    <objnumber code="A1">objects 3 and 4, full sheet view</objnumber></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>19.5 x 32.0 cm.</objsize>
+                <objnote>
+                    <p>The full sheet was folded to form two leaves. The letter appears on the first
+                        recto (object 2), first verso (object 3), and second recto (object 4) of the
+                        folded sheet. This folded sheet was folded further to form a sealed packet
+                        for posting. The address appears on the second verso (object 1), which would
+                        have been the exterior of the folded packet. The unfolded full sheet views
+                        of the letter are available under Supplemental Views on the Show Me
+                        pull-down menu for those objects.</p>
+                </objnote>
+                <windowsize height="850" width="985"/>
+            </physdesc>
+        </desc>
+            </supplemental>
+            <phystext>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="lt1sept1800.1.ltr.04.01">that this Proposal is of the
+                        Consequence that it</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.02">appears to me to be, You will
+                        Extract the Authors own</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.03">words &amp; give them in your
+                        valuable Magazine. The</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.04">Work is Intitled &quot;Some Anecdotes
+                        of the Life</l>
+                    <l indent="20" justify="left" n="lt1sept1800.1.ltr.04.05">
+                        <add place="supralinear" symbol="caret" type="insertion">by George Cumberland</add>
+                    </l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.06">of Julio Bonasoni &amp;
+                        <add place="supralinear" symbol="caret" type="insertion">
+                            <hi rend="subscript">^</hi></add>Publishd by Robinsons</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.07">Paternoster Row 1793</l>
+                    <l indent="21" justify="left" n="lt1sept1800.1.ltr.04.08">Yours 
+                        <unclear resp="nw">W</unclear>
+                        .B.</l>
+                    <l indent="3" justify="left" n="lt1sept1800.1.ltr.04.09">I so little understand
+                        the way to get such things into Magazines</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.10">or News papers that if I have done
+                        wrong in Merely deliver
+                        <unclear resp="nw">in</unclear>
+                        g the</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.11">Letter at the Publishers of the
+                        Magazine beg you will inform me</l>
+                    <l indent="5" justify="left" n="lt1sept1800.1.ltr.04.12">My Wife joins with me
+                        in Love &amp; Respect to yourself &amp; 
+                        <choice>
+                            <sic>familly</sic>
+                            <reg>family</reg></choice>
+                    </l>
+                    <l indent="23" justify="left" n="lt1sept1800.1.ltr.04.13">I am Your devoted
+                        artist</l>
+                    <l indent="38" justify="left" n="lt1sept1800.1.ltr.04.14">Will
+                        <hi rend="superscript">m</hi>
+                        Blake</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.15"/>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.16">PS. I hope to be Settled in Sussex
+                        before the End of September</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.17">it is certainly the sweetest
+                        country upon the face of the Earth</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.18">Dear Generous Cumberland nobly
+                        solicitous for a Friends welfare. Behold me</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.19">Whom your Friendship has
+                        Magnified: Rending the manacles of Londons Dungeon dark</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.20">I have rent the black net &amp; 
+                        <choice>
+                            <sic>escap'd</sic>
+                            <reg>escaped</reg></choice>. See My Cottage at Felpham in joy</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.21">Beams over the sea, a bright light
+                        over France, but the Web &amp; the Veil I have left</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.22">Behind me at London resists every
+                        beam of light; hanging from heaven to Earth</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.23">Dropping with human gore. Lo! I
+                        have left it! I have torn it from my limbs</l>
+                    <l justify="left" n="lt1sept1800.1.ltr.04.24">I shake my wings ready to take my
+                        flight! Pale, Ghastly pale: stands the City in fear</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

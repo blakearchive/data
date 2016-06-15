@@ -1,35 +1,348 @@
-<bad id="inscbut520.1" type="rm" work="The Great Red Dragon and the Woman Clothed with the Sun: 'The Devil is Come Down'" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="520" hidden="false"><header><filedesc><titlestmt><title reg="The Great Red Dragon and the Woman Clothed with the Sun: 'The Devil is Come Down'"><main>The Great Red Dragon and the Woman Clothed with the Sun: "The Devil is Come Down"</main>
-: electronic edition
-</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of
+<bad catalog="butlin" catid="520" copy="1" copyid="1" hidden="false" id="inscbut520.1" institution="ngadc" type="rm" work="The Great Red Dragon and the Woman Clothed with the Sun: 'The Devil is Come Down'">
+  <header>
+    <filedesc>
+      <titlestmt>
+        <title reg="The Great Red Dragon and the Woman Clothed with the Sun: 'The Devil is Come Down'">
+          <main>The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</main>: electronic edition</title>
+        <principal>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of
 Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt/><sponsor>The University of North Carolina at Chapel Hill and the Library of Congress</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>2 XML files approx. 9KB; 8 JPEG (ISO/IEC
+
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+
+          <name>Joseph Viscomi</name>
+          , University of North Carolina at Chapel Hill</principal>
+        <respstmt/>
+        <sponsor>The University of North Carolina at Chapel Hill and the Library of Congress</sponsor>
+        <funder/>
+      </titlestmt>
+      <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+      <extent>2 XML files approx. 9KB; 8 JPEG (ISO/IEC
 10918)
-files ranging in size from 91KB to 2400KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives<date>???</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
-            
-         </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2010</date> by Morris Eaves, Robert N. Essick,
+files ranging in size from 91KB to 2400KB</extent>
+      <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives
+        <date>???</date></publicationstmt>
+      <seriesstmt>The William Blake Archive</seriesstmt>
+      <updatestmt/>
+      <notesstmt/>
+    </filedesc>
+    <userestrict>Copyright © 
+      <date>2010</date>
+      by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved.  Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
 express written consent from the editors and advance notification of the
 publisher. Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/><lb/>
-This image copyright © 2010 National Gallery of Art, Washington</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>November 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Illustration markup</change><date>Summer 2011</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Elizabeth Goodfellow,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>BAD created</change><date>July 2010</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Lauren Cameron,</name><name>Robin Curry,</name><name>Andrea Everett,</name><name>Joseph Lamperez,</name><name>Rachel Lee,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Sarah Tolf,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Image color corrected</change><date>July 2009</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Lauren Cameron,</name><name>Andrea Everett,</name><name>Christopher N. Jackson,</name><name>Michelle Langston, </name><name>Rachel Lee,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Wayne C. Ripley,</name><name>Adair Rispoli,</name><name>Sarah Tolf,</name><name>Sarah Shaw</name></respstmt></changestmt><changestmt><change>Image scanned and catalogued</change><date>September 2002</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>Andrea Laue</name><resp>Project Manager: </resp><name>Andrea Dickens</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Gerald Miller, </name><name>Sarah Trippensee, </name><name>Justin Van Kleeck</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">The Great Red Dragon and the Woman Clothed with the Sun: "The Devil is Come Down"</hi></title></objtitle><origination>William Blake<role>inventor, </role><role>delineator, </role><role>colorist</role></origination><origination>Anonymous<role>delineator.  The inscriptions on the mount (the backing mat) are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</role></origination><compdate value="1805">c. 1805<note>The mount (the backing mat) is probably a type of Turnbull's Crayon Board not produced until 1846.</note></compdate></objdescid><objinfo><numberobj>1</numberobj><objsize>40.8 x 33.7 cm.<note>The mount (the backing mat) measures 50.8 x 35.0 cm.</note></objsize><numberleaves>1</numberleaves><leafsize>40.8 x 33.7 cm.<note>The mount (the backing mat) measures 50.8 x 35.0 cm.</note></leafsize><medium>pen and ink and water color<note>The inscriptions on the mount (the backing mat) are in pen and ink.</note></medium><support>paper, probably wove<note>The mount (the backing mat) is probably Turnbull's Crayon Board, a card-like paper.</note></support><watermark>none recorded</watermark><pennednumbers>none</pennednumbers><framelines>none</framelines></objinfo><provenance n="1"><name>National Gallery of Art, Washington</name><date>1945</date><dealer>none</dealer><price>gift</price><note>Commissioned and acquired from Blake by Thomas Butts c. 1805; by inheritance in 1845 to Thomas Butts, Jr.; sold Sotheby's, 26 March 1852, lot 163, titled "The Devil is come down" as in the inscription on the mount above the design (£1.15s. to the dealer Henry G. Bohn); E. Daniel; sold Christie's, 1 June 1887, lot 262, titled "Subject from the Revelation of St. John" (£14 to the dealer John Pearson); the dealer Robson and Co.; offered by Robson in his catalogue 63 of 1897 and in a 1904 catalogue (£52.10s.); the dealer Carfax &amp; Co. by 1914; the dealer Thomas Agnew &amp; Sons by 1923; sold by Agnew for $2500 to A. Edward Newton by no later than May 1926; sold from Newton's collection, Parke-Bernet, New York, 16 April 1941, lot 118 ($10,100 to the dealer A. S. W. Rosenbach acting for Lessing J. Rosenwald); given by Rosenwald to the National Gallery of Art, Washington, in 1945.</note></provenance><repository><institution>National Gallery of Art, Washington</institution><addressline>Constitution Ave. NW, between 3rd and 9th Streets</addressline><addressline>Washington, D. C. 20565</addressline><addressline>mailing address: 2000B South Club Drive</addressline><addressline>Landover, Maryland 20785</addressline><addressline>United States</addressline><addressline>Telephone: 202-737-4215</addressline><addressline>URL: http://www.nga.gov/</addressline><addressline>Telephone, Print Study Room: 202-842-6380</addressline><addressline>Telephone, Visual Services: 202-842-6126</addressline><addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline><department>Drawings and Prints</department><collection>Lessing J. Rosenwald Collection, National Gallery of Art, Washington</collection><repositoryid label="Accession number">B-11064</repositoryid></repository></source><desc id="inscbut520.1.rm.01" dbi="BUT520.1.1-full.RM"><objtitle><title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: "The Devil is Come Down"</title>,
-<objid><objnumber code="A1">full view including mount inscriptions </objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>Blake signed the work, lower left, with his monogram; see the textual transcription.  The inscriptions on the mount (the backing mat) above and below the design are not by Blake.</p></objnote><objsize>50.8 x 35.0 cm.</objsize><windowsize width="600" height="800"/></physdesc></desc><desc id="inscbut520.1.rm.02" dbi="BUT520.1.1-insc-t.RM"><objtitle><title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: "The Devil is Come Down"</title>,
-            <objid><objnumber code="A1">top mount inscription </objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>The inscription on the mount (the backing mat) above the design is not by Blake.</p></objnote><objsize>3.3 x 19.4 cm.</objsize><windowsize width="600" height="700"/></physdesc><phystext><lg justify="left"><l n="inscbut520.1.rm.02.01" justify="left" indent="18">The Devil is come down</l></lg></phystext></desc><desc id="inscbut520.1.rm.03" dbi="BUT520.1.1-insc-b.RM"><objtitle><title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: "The Devil is Come Down"</title>,
-            <objid><objnumber code="A1">bottom mount inscriptions </objnumber></objid></objtitle><physdesc desclevel="brief"><objnote><p>The inscriptions on the mount (the backing mat) below the design are not by Blake.</p></objnote><objsize>7.2 x 33.6 cm.</objsize><windowsize width="600" height="700"/></physdesc><phystext><lg justify="left"><l n="inscbut520.1.rm.03.01" justify="left" indent="50">Re  <hi rend="superscript">ns</hi>     14<hi rend="superscript">th</hi><note>The mount is badly damaged in the area of this inscription.  In addition to the inscriptions we have tentatively transcribed, there are fragments of other letters and/or numbers, presumably all part of a reference to the passage illustrated.  Butlin 520 records "Rev<hi rend="superscript">ns</hi>: ch [...]<hi rend="superscript">th</hi> 14[?]<hi rend="superscript">th</hi>."</note></l></lg><vspace extent="1"/><lg justify="left"><l n="inscbut520.1.rm.03.02" justify="left">And to the woman were given two wings of a great eagle, that</l><l n="inscbut520.1.rm.03.03" justify="left">she might fly into the wilderness, into her place, from the face of the</l><l n="inscbut520.1.rm.03.04" justify="left" indent="25">Serpent.</l></lg></phystext></desc></objdesc></bad>
+granted by the owners of the originals for this publication only.
+      <lb/>
+      <lb/>
+      This image copyright © 2010 National Gallery of Art, Washington</userestrict>
+    <encodingdesc/>
+    <profiledesc/>
+    <revisiondesc>
+      <changestmt>
+        <change>Final proofing and publication</change>
+        <date>November 2012</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Coordinator, University of Rochester: </resp>
+          <name>Rachel Lee</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Gabrielle Kiriloff,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Hardeep Sidhu,</name>
+          <name>Sarah Tolf,</name>
+          <name>Lisa Vandenbossche,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Illustration markup</change>
+        <date>Summer 2011</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Coordinator, University of Rochester:</resp>
+          <name>Rachel Lee</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Elizabeth Goodfellow,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Hardeep Sidhu,</name>
+          <name>Sarah Tolf,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>BAD created</change>
+        <date>July 2010</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Lauren Cameron,</name>
+          <name>Robin Curry,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Lamperez,</name>
+          <name>Rachel Lee,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Sarah Tolf,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Image color corrected</change>
+        <date>July 2009</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Lauren Cameron,</name>
+          <name>Andrea Everett,</name>
+          <name>Christopher N. Jackson,</name>
+          <name>Michelle Langston, </name>
+          <name>Rachel Lee,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Wayne C. Ripley,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Tolf,</name>
+          <name>Sarah Shaw</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Image scanned and catalogued</change>
+        <date>September 2002</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>Andrea Laue</name>
+          <resp>Project Manager: </resp>
+          <name>Andrea Dickens</name>
+          <resp>Project Assistants: </resp>
+          <name>Christopher N. Jackson, </name>
+          <name>Gerald Miller, </name>
+          <name>Sarah Trippensee, </name>
+          <name>Justin Van Kleeck</name></respstmt>
+      </changestmt>
+    </revisiondesc>
+  </header>
+  <objdesc>
+    <source>
+      <objdescid>
+        <objtitle>
+          <title>
+            <hi rend="i">The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</hi>
+          </title>
+        </objtitle>
+        <origination>William Blake
+          <role>inventor, </role>
+          <role>delineator, </role>
+          <role>colorist</role></origination>
+        <origination>Anonymous
+          <role>delineator.  The inscriptions on the mount (the backing mat) are not by Blake.  They could not have been written before 1846, the earliest known date for the production of the paper on which the inscriptions are written.  The identity of the calligrapher who wrote the inscriptions is not known.</role></origination>
+        <compdate value="1805">c. 1805
+          <note>The mount (the backing mat) is probably a type of Turnbull's Crayon Board not produced until 1846.</note></compdate>
+      </objdescid>
+      <objinfo>
+        <numberobj>1</numberobj>
+        <objsize>40.8 x 33.7 cm.
+          <note>The mount (the backing mat) measures 50.8 x 35.0 cm.</note></objsize>
+        <numberleaves>1</numberleaves>
+        <leafsize>40.8 x 33.7 cm.
+          <note>The mount (the backing mat) measures 50.8 x 35.0 cm.</note></leafsize>
+        <medium>pen and ink and water color
+          <note>The inscriptions on the mount (the backing mat) are in pen and ink.</note></medium>
+        <support>paper, probably wove
+          <note>The mount (the backing mat) is probably Turnbull's Crayon Board, a card-like paper.</note></support>
+        <watermark>none recorded</watermark>
+        <pennednumbers>none</pennednumbers>
+        <framelines>none</framelines>
+      </objinfo>
+      <provenance n="1">
+        <name>National Gallery of Art, Washington</name>
+        <date>1945</date>
+        <dealer>none</dealer>
+        <price>gift</price>
+        <note>Commissioned and acquired from Blake by Thomas Butts c. 1805; by inheritance in 1845 to Thomas Butts, Jr.; sold Sotheby's, 26 March 1852, lot 163, titled &quot;The Devil is come down&quot; as in the inscription on the mount above the design (£1.15s. to the dealer Henry G. Bohn); E. Daniel; sold Christie's, 1 June 1887, lot 262, titled &quot;Subject from the Revelation of St. John&quot; (£14 to the dealer John Pearson); the dealer Robson and Co.; offered by Robson in his catalogue 63 of 1897 and in a 1904 catalogue (£52.10s.); the dealer Carfax &amp; Co. by 1914; the dealer Thomas Agnew &amp; Sons by 1923; sold by Agnew for $2500 to A. Edward Newton by no later than May 1926; sold from Newton's collection, Parke-Bernet, New York, 16 April 1941, lot 118 ($10,100 to the dealer A. S. W. Rosenbach acting for Lessing J. Rosenwald); given by Rosenwald to the National Gallery of Art, Washington, in 1945.</note>
+      </provenance>
+      <repository>
+        <institution>National Gallery of Art, Washington</institution>
+        <addressline>Constitution Ave. NW, between 3rd and 9th Streets</addressline>
+        <addressline>Washington, D. C. 20565</addressline>
+        <addressline>mailing address: 2000B South Club Drive</addressline>
+        <addressline>Landover, Maryland 20785</addressline>
+        <addressline>United States</addressline>
+        <addressline>Telephone: 202-737-4215</addressline>
+        <addressline>URL: http://www.nga.gov/</addressline>
+        <addressline>Telephone, Print Study Room: 202-842-6380</addressline>
+        <addressline>Telephone, Visual Services: 202-842-6126</addressline>
+        <addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline>
+        <department>Drawings and Prints</department>
+        <collection>Lessing J. Rosenwald Collection, National Gallery of Art, Washington</collection>
+        <repositoryid label="Accession number">B-11064</repositoryid>
+      </repository>
+    </source>
+    <desc dbi="BUT520.1.1-full.RM" id="inscbut520.1.rm.01">
+      <objtitle>
+        <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</title>,
+
+        <objid>
+          <objnumber code="A1">full view including mount inscriptions </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>Blake signed the work, lower left, with his monogram; see the textual transcription.  The inscriptions on the mount (the backing mat) above and below the design are not by Blake.</p>
+        </objnote>
+        <objsize>50.8 x 35.0 cm.</objsize>
+        <windowsize height="800" width="600"/>
+      </physdesc>
+    </desc>
+    <desc dbi="BUT520.1.1-insc-t.RM" id="inscbut520.1.rm.02">
+      <objtitle>
+        <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</title>,
+            
+        <objid>
+          <objnumber code="A1">top mount inscription </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>The inscription on the mount (the backing mat) above the design is not by Blake.</p>
+        </objnote>
+        <objsize>3.3 x 19.4 cm.</objsize>
+        <windowsize height="700" width="600"/>
+      </physdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="18" justify="left" n="inscbut520.1.rm.02.01">The Devil is come down</l>
+        </lg>
+      </phystext>
+    </desc>
+    <desc dbi="BUT520.1.1-insc-b.RM" id="inscbut520.1.rm.03">
+      <objtitle>
+        <title type="transcribed">The Great Red Dragon and the Woman Clothed with the Sun: &quot;The Devil is Come Down&quot;</title>,
+            
+        <objid>
+          <objnumber code="A1">bottom mount inscriptions </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>The inscriptions on the mount (the backing mat) below the design are not by Blake.</p>
+        </objnote>
+        <objsize>7.2 x 33.6 cm.</objsize>
+        <windowsize height="700" width="600"/>
+      </physdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="50" justify="left" n="inscbut520.1.rm.03.01">Re  
+            <hi rend="superscript">ns</hi>
+            14
+            <hi rend="superscript">th</hi>
+            <note>
+              The mount is badly damaged in the area of this inscription.  In addition to the inscriptions we have tentatively transcribed, there are fragments of other letters and/or numbers, presumably all part of a reference to the passage illustrated.  Butlin 520 records &quot;Rev
+              <hi rend="superscript">ns</hi>
+              : ch [...]
+              <hi rend="superscript">th</hi>
+              14[?]
+              <hi rend="superscript">th</hi>
+              .&quot;</note>
+          </l>
+        </lg>
+        <vspace extent="1"/>
+        <lg justify="left">
+          <l justify="left" n="inscbut520.1.rm.03.02">And to the woman were given two wings of a great eagle, that</l>
+          <l justify="left" n="inscbut520.1.rm.03.03">she might fly into the wilderness, into her place, from the face of the</l>
+          <l indent="25" justify="left" n="inscbut520.1.rm.03.04">Serpent.</l>
+        </lg>
+      </phystext>
+    </desc>
+  </objdesc>
+</bad>

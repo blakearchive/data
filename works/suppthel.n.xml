@@ -1,48 +1,353 @@
-<!--Step 3 conversion -Data modification/normalization  datamodsblake.xsl 2004-11-30T15:29:41-05:00 Aziza Technology Associates--><!--Step 2 Conversion to BAD DTD 2004 using modblake.pl Fri Oct 15 10:43:09 2004 Aziza Technology Associates--><bad id="suppthel.n" type="rm" work="The Book of Thel, supplemental views" copy="N" copyid="N" institution="cincinnati" catalog="bentley" catid="N"><header><filedesc><titlestmt><title reg="The Book of Thel, Copy N, supplemental views"><main>The Book of Thel</main><copy>copy N</copy>
-: electronic edition
-</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;  
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt/><sponsor>The University of North Carolina at Chapel Hill, the University of Rochester, and the Library of Congress</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 20KB; 1 JPEG (ISO/IEC 10918) file
-approx 1000KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
-         <date>July 2014</date></publicationstmt><seriesstmt>William Blake Archive</seriesstmt><updatestmt>
-                The William Blake Archive is pleased to announce the publication of an electronic edition of <hi rend="i">The Book of Thel copy N</hi> and <hi rend="i">Enoch Walked with God</hi>, both in the Cincinnati Art Museum. We have also republished <hi rend="i">Songs of Innocence</hi> copy U with a more authoritative arrangement of the plates and an enhanced Copy Information page.   
-                <lb/><lb/><lb/><hi rend="i">Thel</hi> is dated 1789 by Blake on the title page, but the first plate (Thel's Motto) and the last (her descent into the netherworld) appear to have been completed and first printed in 1790, while Blake was working on <hi rend="i">The Marriage of Heaven and Hell</hi>. Copy N, never before reproduced, was printed and colored c. 1818 along with copy O. It is one of sixteen extant copies, ten of which are in the Blake Archive—including copy O—and four of which are in
+<!--Step 3 conversion -Data modification/normalization  datamodsblake.xsl 2004-11-30T15:29:41-05:00 Aziza Technology Associates-->
+<!--Step 2 Conversion to BAD DTD 2004 using modblake.pl Fri Oct 15 10:43:09 2004 Aziza Technology Associates-->
+<bad catalog="bentley" catid="N" copy="N" copyid="N" id="suppthel.n" institution="cincinnati" type="rm" work="The Book of Thel, supplemental views">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Book of Thel, Copy N, supplemental views">
+                    <main>The Book of Thel</main>
+                    <copy>copy N</copy>: electronic edition</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;  
+
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+
+                    <name>Joseph Viscomi</name>
+                    , University of North Carolina at Chapel Hill</principal>
+                <respstmt/>
+                <sponsor>The University of North Carolina at Chapel Hill, the University of Rochester, and the Library of Congress</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 20KB; 1 JPEG (ISO/IEC 10918) file
+approx 1000KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+         
+                <date>July 2014</date></publicationstmt>
+            <seriesstmt>William Blake Archive</seriesstmt>
+            <updatestmt>The William Blake Archive is pleased to announce the publication of an electronic edition of 
+                <hi rend="i">The Book of Thel copy N</hi>
+                and 
+                <hi rend="i">Enoch Walked with God</hi>
+                , both in the Cincinnati Art Museum. We have also republished 
+                <hi rend="i">Songs of Innocence</hi>
+                copy U with a more authoritative arrangement of the plates and an enhanced Copy Information page.   
+                
+                <lb/>
+                <lb/>
+                <lb/>
+                <hi rend="i">Thel</hi>
+                is dated 1789 by Blake on the title page, but the first plate (Thel's Motto) and the last (her descent into the netherworld) appear to have been completed and first printed in 1790, while Blake was working on 
+                <hi rend="i">The Marriage of Heaven and Hell</hi>
+                . Copy N, never before reproduced, was printed and colored c. 1818 along with copy O. It is one of sixteen extant copies, ten of which are in the Blake Archive—including copy O—and four of which are in
                 preparation for future publication. Like copy O, copy N was printed in orange ink on Ruse &amp; Turners paper, watermarked 1815, beautifully colored, numbered by Blake in pen and ink, and bound with Thel's Motto as the last instead of the first of the book's eight plates. Unlike copy O, its plates have a single orange line framing them. 
-                <lb/><lb/>
-                Blake included the book in his advertisement "To the Public" of October 1793: "The Book of Thel, a Poem in Illuminated Printing. Quarto, with 6 designs, price 3s." He listed it again in 1818, in a letter to Dawson Turner, in which he priced it for £2.2.0., the price for which copy N almost certainly sold. This letter is also in preparation for future publication.
-                <lb/><lb/><hi rend="i">Enoch Walked with God</hi>, at 17.5 x 24 inches, is one of Blake's largest early designs. It was executed c. 1780-85 in water colors and pen and ink over pencil and charcoal. It joins sixty-four other water color drawings in the Archive illustrating the Bible.  
-                <lb/><lb/> 
+                
+                <lb/>
+                <lb/>
+                Blake included the book in his advertisement &quot;To the Public&quot; of October 1793: &quot;The Book of Thel, a Poem in Illuminated Printing. Quarto, with 6 designs, price 3s.&quot; He listed it again in 1818, in a letter to Dawson Turner, in which he priced it for £2.2.0., the price for which copy N almost certainly sold. This letter is also in preparation for future publication.
+                
+                <lb/>
+                <lb/>
+                <hi rend="i">Enoch Walked with God</hi>
+                , at 17.5 x 24 inches, is one of Blake's largest early designs. It was executed c. 1780-85 in water colors and pen and ink over pencil and charcoal. It joins sixty-four other water color drawings in the Archive illustrating the Bible.  
+                
+                <lb/>
+                <lb/>
                 This is the first time that works from the Cincinnati Art Museum have been represented in the Archive. Accordingly, we are also publishing the museum's Blake collection list, which includes all of its original works by Blake, not just those published in the Archive, and joins the Collection Lists of over thirty other contributing institutions.
-                <lb/><lb/>
+                
+                <lb/>
+                <lb/>
                 Additionally, with this publication, the Archive has implemented a new feature on its main viewing page to enable users to rotate the image, a particularly salient feature for Blake's texts written upside down or vertically.
-                <lb/><lb/>
+                
+                <lb/>
+                <lb/>
                 The Archive has also updated its General and Specific Bibliographies, which now incorporate links to many Google Books.
-                <lb/><lb/>
-                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.                  </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2014</date> by Morris Eaves, Robert N. Essick,
+                
+                <lb/>
+                <lb/>
+                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.                  </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © 
+            <date>2014</date>
+            by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved.  Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
 express written consent from the editors and advance notification of the
 publisher.
 Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/><lb/>
-This image copyright © 2014 Cincinnati Art Museum.</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>July 2014</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>Michael Fox</name><resp>Project Manager: </resp><name>Joseph Fletcher</name><resp>Project Coordinator, University of Rochester: </resp><name>Laura Bell</name><resp>Consultant on Special Projects: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Amber Bertin,</name><name>Abby Brengle,</name><name>Katherine Calvin,</name><name>Adam Engel,</name><name>Andrea Everett,</name><name>Duncan Graham,</name><name>Shannon Jaime,</name><name>Gabrielle Kiriloff,</name><name>Eric Loy,</name><name>Kate Massie,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Anastasia Nikolis,</name><name>Kylie Regan,</name><name>Hardeep Sidhu,</name><name>Margaret Speer,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name><name>Megan Wilson</name></respstmt></changestmt><changestmt><change>BAD creation</change><date>April 2014</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>Michael Fox</name><resp>Project Manager: </resp><name>Joseph Fletcher</name><resp>Project Coordinator, University of Rochester: </resp><name>Laura Bell</name><resp>Consultant on Special Projects: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Amber Bertin,</name><name>Abby Brengle,</name><name>Katherine Calvin,</name><name>Adam Engel,</name><name>Andrea Everett,</name><name>Duncan Graham,</name><name>Shannon Jaime,</name><name>Gabrielle Kiriloff,</name><name>Eric Loy,</name><name>Kate Massie,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Anastasia Nikolis,</name><name>Kylie Regan,</name><name>Adair Rispoli,</name><name>Hardeep Sidhu,</name><name>Margaret Speer,</name><name>Sarah Tolf,</name><name>Danny Tsegai,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name><name>Megan Wilson</name></respstmt></changestmt><changestmt><change>Image acquisition, scanning and color correction</change><date>January 2014</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>Michael Fox</name><resp>Project Manager: </resp><name>Joseph Fletcher</name><resp>Project Coordinator, University of Rochester: </resp><name>Laura Bell</name><resp>Consultant on Special Projects: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Amber Bertin,</name><name>Abby Brengle,</name><name>Katherine Calvin,</name><name>Adam Engel,</name><name>Andrea Everett,</name><name>Duncan Graham,</name><name>Shannon Jaime,</name><name>Gabrielle Kiriloff,</name><name>Eric Loy,</name><name>Kate Massie,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Anastasia Nikolis,</name><name>Kylie Regan,</name><name>Adair Rispoli,</name><name>Hardeep Sidhu,</name><name>Margaret Speer,</name><name>Sarah Tolf,</name><name>Danny Tsegai,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia Wegner,</name><name>Megan Wilson</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">The Book of Thel</hi></title></objtitle><origination>William Blake <role>author, </role><role>inventor, </role><role>delineator, </role><role>etcher, </role><role>printer, </role><role>colorist</role></origination><origination>Catherine Blake <role>printer</role></origination><imprint><publisher>William Blake</publisher><pubplace>London</pubplace><date>1789</date></imprint><compdate value="1789.B">1789<note>Objects 7 and 8 (Bentley plates 8 and 1) may have been composed at a slightly later
+granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This image copyright © 2014 Cincinnati Art Museum.</userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>July 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation</change>
+                <date>April 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name></respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquisition, scanning and color correction</change>
+                <date>January 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name></respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        <hi rend="i">The Book of Thel</hi>
+                    </title>
+                </objtitle>
+                <origination>William Blake 
+                    <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>etcher, </role>
+                    <role>printer, </role>
+                    <role>colorist</role></origination>
+                <origination>Catherine Blake 
+                    <role>printer</role></origination>
+                <imprint>
+                    <publisher>William Blake</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1789</date>
+                </imprint>
+                <compdate value="1789.B">1789
+                    <note>Objects 7 and 8 (Bentley plates 8 and 1) may have been composed at a slightly later
 date (late 1789 or early 1790) than the others.  These same two plates
 were probably etched later than the others (late 1789 or early
-1790).</note></compdate></objdescid><objinfo><printdate value="1818.A">c. 1818</printdate><numberobj>8</numberobj><objorder>Bentley plates 2-8, 1<note>The placement of "Thel's Motto" (Bentley plate 1) at the end of this copy is authorized by Blake's pen and ink number, "8," inscribed on it.  This is also true of copy O, like copy N printed in 1818.</note></objorder><objsize>Objects 1-7, approx. 15.0 x 11.0 cm.; object 8, 6.1 x 10.1 cm.</objsize><numberleaves>8</numberleaves><leafsize>28.0 x 23.0 cm.</leafsize><medium>relief etching with hand coloring in water colors</medium><printingstyle>relief</printingstyle><inkcolor>reddish orange</inkcolor><support>wove paper</support><watermark>RUSE &amp; TURNERS/1815<note>The watermark appears only in the leaves bearing objects 5 and 7 (Bentley plates 6 and 8). </note></watermark><etchednumbers>Blake etched numbers 1-6 on the copperplates of objects 2-7 (Bentley plates 3-8).  Only those on objects 3, 4, 6, and 7 are even minimally legible in this copy.</etchednumbers><pennednumbers>Object 2 is numbered "2" top right, and objects 6-8 are numbered 6-8 top right, in ink that matches the color of the printing ink.<note>The pen and ink numbers were probably intended to supersede the etched numbers, but Blake did not complete the numbering of all plates, there being no pen and ink numbers on objects 3 through 5.  The pencil numbers, 3-5 top right on objects 3-5, are almost certainly not by Blake.  They may have been added by a binder who collated the plates and supplied the missing numbers.</note></pennednumbers><framelines>1<note>Some plates have a pen and ink outline drawn at the edges of the images.</note></framelines><binding>red morocco by Riviere<note>This binding was created after the sale of the book in 1890.  At that sale, this copy of <hi rend="i">The Book of Thel</hi> was bound in calf with <hi rend="i">The Marriage of Heaven and Hell</hi> copy G and <hi rend="i">Visions of the Daughters of Albion</hi> copy P.</note></binding><stabholes>none visible</stabholes></objinfo><provenance n="1"><name>Cincinnati Art Museum</name><date>1969</date><dealer>none</dealer><price>gift</price><note>Sold, when bound with <hi rend="i">The Marriage of Heaven and Hell</hi> copy G and <hi rend="i">Visions of the Daughters of Albion</hi> copy P, Sotheby's, 17 Feb. 1890, lot 301 (£121 to "Robson," probably the dealer Robson &amp; Kerslake); offered by Robson &amp; Kerslake to Alexander Mackay in a letter of 25 March 1890 (see Bentley page 129); Mackay's wife, probably by inheritance; sold from the estate of Mrs. Alexander Mackay, Christie's, 26 April 1921, lot 1 (£205 to "Shoebridge," probably a code name for a dealer); John J. Emery no later than 1939; given by Emery to the Cincinnati Art Museum in 1969.</note></provenance><repository><institution>Cincinnati Art Museum</institution><addressline>953 Eden Park Drive</addressline><addressline>Cincinnati, Ohio 45202</addressline><addressline>Telephone: 1-513-639-2941</addressline><addressline>URL: http://www.cincinnatiartmuseum.org</addressline><addressline>Email, Photo Services: photo_services@cincyart.org</addressline><repositoryid label="Accession number">1969.510.1-8</repositoryid></repository></source><desc id="suppthel.n.rm.01" dbi="thel.N.P1-2-full"><objtitle><title type="transcribed">The Book of Thel</title>,
-<objid><objnumber code="A1">object 1 </objnumber><objcode code="B2">(Bentley 2, </objcode><objcode code="Eii">Erdman ii, </objcode><objcode code="Kii">Keynes ii)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>28.0 x 23.0 cm.</objsize><windowsize height="806" width="556"/></physdesc></desc></objdesc></bad>
+1790).</note></compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1818.A">c. 1818</printdate>
+                <numberobj>8</numberobj>
+                <objorder>Bentley plates 2-8, 1
+                    <note>The placement of &quot;Thel's Motto&quot; (Bentley plate 1) at the end of this copy is authorized by Blake's pen and ink number, &quot;8,&quot; inscribed on it.  This is also true of copy O, like copy N printed in 1818.</note></objorder>
+                <objsize>Objects 1-7, approx. 15.0 x 11.0 cm.; object 8, 6.1 x 10.1 cm.</objsize>
+                <numberleaves>8</numberleaves>
+                <leafsize>28.0 x 23.0 cm.</leafsize>
+                <medium>relief etching with hand coloring in water colors</medium>
+                <printingstyle>relief</printingstyle>
+                <inkcolor>reddish orange</inkcolor>
+                <support>wove paper</support>
+                <watermark>RUSE &amp; TURNERS/1815
+                    <note>The watermark appears only in the leaves bearing objects 5 and 7 (Bentley plates 6 and 8). </note></watermark>
+                <etchednumbers>Blake etched numbers 1-6 on the copperplates of objects 2-7 (Bentley plates 3-8).  Only those on objects 3, 4, 6, and 7 are even minimally legible in this copy.</etchednumbers>
+                <pennednumbers>Object 2 is numbered &quot;2&quot; top right, and objects 6-8 are numbered 6-8 top right, in ink that matches the color of the printing ink.
+                    <note>The pen and ink numbers were probably intended to supersede the etched numbers, but Blake did not complete the numbering of all plates, there being no pen and ink numbers on objects 3 through 5.  The pencil numbers, 3-5 top right on objects 3-5, are almost certainly not by Blake.  They may have been added by a binder who collated the plates and supplied the missing numbers.</note></pennednumbers>
+                <framelines>1
+                    <note>Some plates have a pen and ink outline drawn at the edges of the images.</note></framelines>
+                <binding>red morocco by Riviere
+                    <note>
+                        This binding was created after the sale of the book in 1890.  At that sale, this copy of 
+                        <hi rend="i">The Book of Thel</hi>
+                        was bound in calf with 
+                        <hi rend="i">The Marriage of Heaven and Hell</hi>
+                        copy G and 
+                        <hi rend="i">Visions of the Daughters of Albion</hi>
+                        copy P.</note>
+                </binding>
+                <stabholes>none visible</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Cincinnati Art Museum</name>
+                <date>1969</date>
+                <dealer>none</dealer>
+                <price>gift</price>
+                <note>Sold, when bound with 
+                    <hi rend="i">The Marriage of Heaven and Hell</hi>
+                    copy G and 
+                    <hi rend="i">Visions of the Daughters of Albion</hi>
+                    copy P, Sotheby's, 17 Feb. 1890, lot 301 (£121 to &quot;Robson,&quot; probably the dealer Robson &amp; Kerslake); offered by Robson &amp; Kerslake to Alexander Mackay in a letter of 25 March 1890 (see Bentley page 129); Mackay's wife, probably by inheritance; sold from the estate of Mrs. Alexander Mackay, Christie's, 26 April 1921, lot 1 (£205 to &quot;Shoebridge,&quot; probably a code name for a dealer); John J. Emery no later than 1939; given by Emery to the Cincinnati Art Museum in 1969.</note>
+            </provenance>
+            <repository>
+                <institution>Cincinnati Art Museum</institution>
+                <addressline>953 Eden Park Drive</addressline>
+                <addressline>Cincinnati, Ohio 45202</addressline>
+                <addressline>Telephone: 1-513-639-2941</addressline>
+                <addressline>URL: http://www.cincinnatiartmuseum.org</addressline>
+                <addressline>Email, Photo Services: photo_services@cincyart.org</addressline>
+                <repositoryid label="Accession number">1969.510.1-8</repositoryid>
+            </repository>
+        </source>
+        <desc dbi="thel.N.P1-2-full" id="suppthel.n.rm.01">
+            <objtitle>
+                <title type="transcribed">The Book of Thel</title>,
+
+                <objid>
+                    <objnumber code="A1">object 1 </objnumber>
+                    <objcode code="B2">(Bentley 2, </objcode>
+                    <objcode code="Eii">Erdman ii, </objcode>
+                    <objcode code="Kii">Keynes ii)</objcode></objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>28.0 x 23.0 cm.</objsize>
+                <windowsize height="806" width="556"/>
+            </physdesc>
+        </desc>
+    </objdesc>
+</bad>

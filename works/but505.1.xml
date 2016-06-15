@@ -1,40 +1,669 @@
-<bad id="but505.1" type="wc" work="The Ascension" copy="1" copyid="1" institution="fitzwilliam" catalog="butlin" catid="505" hidden="false"><header><filedesc><titlestmt><title reg="The Ascension"><main>The Ascension</main>
-: electronic edition
-</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of
+<bad catalog="butlin" catid="505" copy="1" copyid="1" hidden="false" id="but505.1" institution="fitzwilliam" type="wc" work="The Ascension">
+  <header>
+    <filedesc>
+      <titlestmt>
+        <title reg="The Ascension">
+          <main>The Ascension</main>: electronic edition</title>
+        <principal>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of
 Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt/><sponsor>The University of North Carolina at Chapel Hill and the Library of Congress</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>2 XML files approx. 10KB; 2 JPEG (ISO/IEC
+
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+
+          <name>Joseph Viscomi</name>
+          , University of North Carolina at Chapel Hill</principal>
+        <respstmt/>
+        <sponsor>The University of North Carolina at Chapel Hill and the Library of Congress</sponsor>
+        <funder/>
+      </titlestmt>
+      <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+      <extent>2 XML files approx. 10KB; 2 JPEG (ISO/IEC
 10918)
-files ranging in size from 112KB to 1400KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives<date>March 2011</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
-    The William Blake Archive is pleased to announce the publication of an electronic edition of thirty-three of Blake’s water color illustrations to the Bible.  All take their subjects from the New Testament and have been added to the twenty Old Testament subjects published in March 2010 as “Illustrations to the Bible, c. 1780-1824,” under Drawings and Paintings, Water Color Drawings.  This new group is presented in our Preview mode, one that provides all the features of the Archive except Image Search and Inote (which provides detailed descriptions of Blake’s images).
-                <lb/><lb/>
-                   Blake executed most of these New Testament water colors c. 1800-05 for his patron Thomas Butts.  The exceptions are <hi rend="i">The Whore of Babylon</hi> of 1809 and <hi rend="i">The Parable of the Wise and Foolish Virgins</hi> in the Yale Center for British Art, datable to c. 1825. The subjects range from the childhood of Jesus to his ascension, the later history of his parents and one of his major followers, St. Paul, and a group of eight designs based on the Book of Revelation.  While the illustrations of the life of Christ are fairly conventional in their subjects, in part because of the long tradition of picturing almost every event in the Gospels, individual motifs recall designs in Blake’s illuminated books and thus offer a window on Blake’s visual interpretation of the Bible. The illustrations of Revelation complement Blake’s intense engagement with apocalyptic events and images in his own poetry.
-                    <lb/><lb/>
-                        The selection of fifty-three biblical water colors now available in the Archive will be supplemented in the future with early works, such as <hi rend="i">Abraham and Isaac</hi>, datable to c. 1780, and will continue through Blake’s final biblical water colors, such as <hi rend="i">Moses Placed in the Ark of the Bulrushes</hi>. 
-                    <lb/><lb/>
-                    As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.
-</updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>2011</date> by Morris Eaves, Robert N. Essick,
+files ranging in size from 112KB to 1400KB</extent>
+      <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives
+        <date>March 2011</date></publicationstmt>
+      <seriesstmt>The William Blake Archive</seriesstmt>
+      <updatestmt>The William Blake Archive is pleased to announce the publication of an electronic edition of thirty-three of Blake’s water color illustrations to the Bible.  All take their subjects from the New Testament and have been added to the twenty Old Testament subjects published in March 2010 as “Illustrations to the Bible, c. 1780-1824,” under Drawings and Paintings, Water Color Drawings.  This new group is presented in our Preview mode, one that provides all the features of the Archive except Image Search and Inote (which provides detailed descriptions of Blake’s images).
+                
+        <lb/>
+        <lb/>
+        Blake executed most of these New Testament water colors c. 1800-05 for his patron Thomas Butts.  The exceptions are 
+        <hi rend="i">The Whore of Babylon</hi>
+        of 1809 and 
+        <hi rend="i">The Parable of the Wise and Foolish Virgins</hi>
+        in the Yale Center for British Art, datable to c. 1825. The subjects range from the childhood of Jesus to his ascension, the later history of his parents and one of his major followers, St. Paul, and a group of eight designs based on the Book of Revelation.  While the illustrations of the life of Christ are fairly conventional in their subjects, in part because of the long tradition of picturing almost every event in the Gospels, individual motifs recall designs in Blake’s illuminated books and thus offer a window on Blake’s visual interpretation of the Bible. The illustrations of Revelation complement Blake’s intense engagement with apocalyptic events and images in his own poetry.
+                    
+        <lb/>
+        <lb/>
+        The selection of fifty-three biblical water colors now available in the Archive will be supplemented in the future with early works, such as 
+        <hi rend="i">Abraham and Isaac</hi>
+        , datable to c. 1780, and will continue through Blake’s final biblical water colors, such as 
+        <hi rend="i">Moses Placed in the Ark of the Bulrushes</hi>
+        . 
+                    
+        <lb/>
+        <lb/>
+        As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.</updatestmt>
+      <notesstmt/>
+    </filedesc>
+    <userestrict>Copyright © 
+      <date>2011</date>
+      by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved.  Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
 express written consent from the editors and advance notification of the
 publisher. Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/><lb/>
-This image copyright © 2011 Fitzwilliam Museum</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication</change><date>November 2012</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester: </resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle Kiriloff,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Illustration markup</change><date>Summer 2011</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Elizabeth Goodfellow,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Final proofing and publication</change><date>March 2011</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Laura Bell,</name><name>Lauren Cameron,</name><name>Katherine Carlson,</name><name>Robin Curry,</name><name>Cassandra Etter-Wenzel,</name><name>Andrea Everett,</name><name>Joseph Fletcher,</name><name>Elizabeth Goodfellow,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Sarah Tolf,</name><name>Joseph Vogel,</name><name>Nikolaus Wasmoen,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>BAD created</change><date>July 2010</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Esther Arnold,</name><name>Kate Attkisson,</name><name>Lauren Cameron,</name><name>Robin Curry,</name><name>Andrea Everett,</name><name>Joseph Lamperez,</name><name>Rachel Lee,</name><name>Ali McGhee,</name><name>Jennifer Park,</name><name>Adair Rispoli,</name><name>Sarah Shaw,</name><name>Sarah Tolf,</name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Images received, catalogued and color corrected</change><date>April 2005</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp><name>Andrea Laue</name><resp>Project Manager: </resp><name>Justin Van Kleeck</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Wesley N. Raabe, </name><name>Wayne C. Ripley, </name><name>William Shaw</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">The Ascension</hi></title></objtitle><origination>William Blake<role>inventor, </role><role>delineator, </role><role>colorist</role></origination><origination>Anonymous<role>delineator.  The inscribed roman numeral above the design and the title inscription below the design, both available under Related Works in the Archive, are not by Blake.</role></origination><compdate value="1803">c. 1803-05</compdate></objdescid><objinfo><numberobj>1</numberobj><objsize>42.5 x 31.9 cm.</objsize><numberleaves>1</numberleaves><leafsize>52.3 x 43.0 cm.</leafsize><medium>pencil, pen and ink, and water color<note>The inscribed roman numeral above the design and the title inscription below the design are in pencil.  Neither is by Blake; see Related Works in the Archive.</note></medium><support>wove paper</support><watermark>none recorded</watermark><pennednumbers>none</pennednumbers><framelines>There are six framing lines, with pale washes between three sets of lines.  The innermost framing line is contiguous with the edge of the design.</framelines></objinfo><provenance n="1"><name>Fitzwilliam Museum</name><date>1949</date><dealer>none recorded</dealer><price>£7350</price><note>Commissioned and acquired from Blake by Thomas Butts c. 1803-05; by inheritance in 1845 to Thomas Butts, Jr.; by inheritance in 1862 to Frederick J. Butts; offered Sotheby's, 24 June 1903, lot 17 (bought-in by "Dimsdale," possibly T. E. Dimsdale, for £115); acquired in Feb. 1904 by W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949, lot 38 (£7350 to the executors of Robertson's estate for presentation through the National Arts Collection Fund to the Fitzwilliam Museum).</note></provenance><repository><institution>Fitzwilliam Museum</institution><addressline>Trumpington Street</addressline><addressline>Cambridge CB2 1RB</addressline><addressline>United Kingdom</addressline><addressline>Telephone: 01223-332900</addressline><addressline>Fax: 01223-332923</addressline><addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline><addressline>URL, Department of Paintings, Drawings and Prints: http://www.fitzmuseum.cam.ac.uk/dept/pdp</addressline><addressline>Email, Department of Paintings, Drawings and Prints: fitzmuseum-pdp@lists.cam.ac.uk</addressline><addressline>URL, Image Library: http://www.fitzmuseum.cam.ac.uk/dept/imagelibrary</addressline><addressline>Telephone, Image Library: 01223 332927</addressline><addressline>Fax, Image Library: 01223 768591</addressline><addressline>Email, Image Library: images@fitzmuseum.cam.ac.uk</addressline><department>Department of Paintings, Drawings and Prints</department><repositoryid label="Accession number">PD.32-1949</repositoryid></repository></source><desc id="but505.1.wc.01" dbi="BUT505.1.1.WC"><objtitle><title type="transcribed">The Ascension</title>,
-<objid><objnumber code="A1">object 1 </objnumber><objcode code="U1">(Butlin 505)</objcode></objid></objtitle><physdesc desclevel="brief"><objnote><p>Blake signed the work, lower left, with his monogram, and inscribed a reference to the passage illustrated below the design on the right.  See the textual transcription.  The inscribed roman numeral above the design and the title inscribed below the design are not by Blake.  These are available under Related Works in the Archive.</p></objnote><objsize>42.5 x 31.9 cm.</objsize><windowsize width="650" height="800"/></physdesc><related objectid="inscbut505.1.rm.01" ovp="noindex"/><related objectid="inscbut505.1.rm.02" ovp="noindex"/><related objectid="inscbut505.1.rm.03" ovp="noindex"/><related objectid="but624v.1.penc.01"/><related objectid="butwba10.1.wc.13"/><illusdesc><illustration type="plate" location="E"><illusobjdesc>The design is based on Acts 1:9-11. Toward the top center hovers Jesus, ascending into heaven. He wears a gown and faces away, with his left leg bent and extended backward. He has long, curly hair and his arms are raised at 135 degrees. To the left of Jesus hovers a winged and gowned male angel with short, curly hair. He is upside down and faces forward and right, looking down at the crowd below. He is probably descending. His mouth may be slightly open. His arms are at his side, pointing upward. To the right of Jesus hovers a winged and gowned male angel with long, curly hair. He is upside down and faces forwad and left, looking down at the crowd on the ground. He may be descending. His arms are at his side, pointing upward. The sky backing the scene is mostly clear, with a few clouds. At the top center of the design is a radiance that likely indicates the divine presence or entrance to heaven. Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The leftmost figure has a long beard and faces forward and to the right, looking up. His arms are bent upward with his hands together as though in prayer or supplication. The second-to-left figure faces right and forward, looking up. The middle figure of this group appears to be old, and faces away, looking up and to the right. His arms are bent upward with his fingers spread and his palms vertical. His left leg is bent and extended back slightly on tiptoe. He wears sandals on his feet. The second-to-right figure has a beard and wears a sandal on his right foot, which is on tiptoe. His right leg is bent and extended backward slightly. His right arm is bent upward with his right palm vertical. The rightmost figure of this group faces away and to the right and looks up. He has a beard and bends his right leg back slightly. He bends his arms upward with his palms together as though in prayer or supplication. Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are also his apostles. The leftmost figure has long hair and faces away and to the left, looking up. His left leg is bent and extended backward slightly, on tiptoe. He wears a sandal on his left foot. His mouth is open. He bends his arms upward with his palms together as though in prayer or supplication. This may be John, the youngest of Christ's disciples. The second-to-left figure has a long beard and may have his mouth open slightly. He faces away and to the left and looks up. His arms are bent upward with his hands clenched together as though in prayer or supplication. His left leg is bent back slightly and his left foot is on tiptoe. The third-to-left figure appears to be that of an old man with a long beard. He faces forward and to the left and looks up. His mouth may be partly open. The third-to-right figure has short hair and faces to the left, looking up. His left arm is at his side but may be bent. The second-to-right figure has short hair and faces forward and to the left, looking up. His mouth may be partly open. The rightmost figure is that of an old man with a long beard. He faces left and slightly forward, looking up. His left arm may be at his side. The figures on the ground stand on what appears to be a strip of bare earth. 
-                    </illusobjdesc><component type="figure" location="E"><characteristic>Christ</characteristic><characteristic>male</characteristic><characteristic>long hair</characteristic><characteristic>curly hair</characteristic><characteristic>gown</characteristic><characteristic>seen from behind</characteristic><characteristic>facing away</characteristic><characteristic>arms raised at 135 degrees</characteristic><characteristic>hovering</characteristic><characteristic>flying</characteristic><characteristic>floating</characteristic><characteristic>rising</characteristic><characteristic>leg bent at knee</characteristic><characteristic>leg extended backward</characteristic><illusobjdesc>Toward the top center of the design hovers Jesus, ascending into Heaven. He wears a gown and faces away, with his left leg bent and extended backward. He has long, curly hair and his arms are raised at 135 degrees. </illusobjdesc></component><component type="figure" location="A"><characteristic>male</characteristic><characteristic>angel</characteristic><characteristic>wing</characteristic><characteristic>gown</characteristic><characteristic>short hair</characteristic><characteristic>curly hair</characteristic><characteristic>flying</characteristic><characteristic>floating</characteristic><characteristic>hovering</characteristic><characteristic>descending</characteristic><characteristic>upside down</characteristic><characteristic>facing right</characteristic><characteristic>facing forward</characteristic><characteristic>facing down</characteristic><characteristic>looking</characteristic><characteristic>mouth open</characteristic><characteristic>arms at side</characteristic><characteristic>pointing</characteristic><illusobjdesc>To the left of Jesus hovers a winged and gowned male angel with short, curly hair. He is upside down and faces forward and right, looking down at the crowd below. His mouth may be slightly open. His arms are at his side, pointing upward. He may be descending</illusobjdesc></component><component type="figure" location="B"><characteristic>male</characteristic><characteristic>angel</characteristic><characteristic>wing</characteristic><characteristic>gown</characteristic><characteristic>long hair</characteristic><characteristic>curly hair</characteristic><characteristic>flying</characteristic><characteristic>floating</characteristic><characteristic>hovering</characteristic><characteristic>descending</characteristic><characteristic>upside down</characteristic><characteristic>facing left</characteristic><characteristic>facing forward</characteristic><characteristic>facing down</characteristic><characteristic>looking</characteristic><characteristic>arms at side</characteristic><characteristic>pointing</characteristic><illusobjdesc>To the right of Jesus hovers a winged and gowned male angel with long, curly hair. He is upside down and faces forwad and left, looking down at the crowd on the ground. His arms are at his side, pointing upward. He may be descending.</illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>disciple</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>gown</characteristic><characteristic>facing forward</characteristic><characteristic>facing right</characteristic><characteristic>facing up</characteristic><characteristic>long hair</characteristic><characteristic>beard</characteristic><characteristic>arms bent</characteristic><characteristic>arms bent upward</characteristic><characteristic>hands together</characteristic><characteristic>praying</characteristic><characteristic>supplicating</characteristic><characteristic>looking</characteristic><illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The leftmost figure has a long beard and faces forward and to the right, looking up. His arms are bent upward with his hands together as though in prayer or supplication. </illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>disciple</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>gown</characteristic><characteristic>facing right</characteristic><characteristic>facing forward</characteristic><characteristic>facing up</characteristic><characteristic>looking</characteristic><characteristic>short hair</characteristic><illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The second-to-left figure faces right and forward, looking up. </illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>disciple</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>gown</characteristic><characteristic>looking</characteristic><characteristic>short hair</characteristic><characteristic>beard</characteristic><characteristic>facing up</characteristic><characteristic>facing right</characteristic><characteristic>facing away</characteristic><characteristic>seen from behind</characteristic><characteristic>arms bent</characteristic><characteristic>arms bent upward</characteristic><characteristic>fingers spread</characteristic><characteristic>palms vertical</characteristic><characteristic>sandal</characteristic><characteristic>leg bent at knee</characteristic><characteristic>leg extended backward</characteristic><characteristic>tiptoe</characteristic><illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The middle figure of this group appears to be old, and faces away, looking up and to the right. His arms are bent upward with his fingers spread and his palms vertical. His left leg is bent and extended back slightly on tiptoe. He wears sandals on his feet. He has a beard and short hair.</illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>disciple</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>gown</characteristic><characteristic>beard</characteristic><characteristic>sandal</characteristic><characteristic>tiptoe</characteristic><characteristic>leg bent at knee</characteristic><characteristic>leg extended backward</characteristic><characteristic>arm bent</characteristic><characteristic>arm bent upward</characteristic><characteristic>palm vertical</characteristic><characteristic>looking</characteristic><illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The second-to-right figure has a beard and wears a sandal on his right foot, which is on tiptoe. His right leg is bent and extended backward slightly. His right arm is bent upward with his right palm vertical. </illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>disciple</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>gown</characteristic><characteristic>looking</characteristic><characteristic>facing up</characteristic><characteristic>facing right</characteristic><characteristic>facing away</characteristic><characteristic>seen from behind</characteristic><characteristic>beard</characteristic><characteristic>leg bent at knee</characteristic><characteristic>leg extended backward</characteristic><characteristic>arms bent</characteristic><characteristic>arms bent upward</characteristic><characteristic>hands together</characteristic><characteristic>praying</characteristic><characteristic>supplicating</characteristic><illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The rightmost figure of this group faces away and to the right and looks up. He has a beard and bends his right leg back slightly. He bends his arms upward with his palms together as though in prayer or supplication. </illusobjdesc></component><component type="figure" location="D"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>disciple</characteristic><characteristic>John</characteristic><characteristic>looking</characteristic><characteristic>facing left</characteristic><characteristic>long hair</characteristic><characteristic>facing away</characteristic><characteristic>seen from behind</characteristic><characteristic>facing up</characteristic><characteristic>mouth open</characteristic><characteristic>leg bent at knee</characteristic><characteristic>leg extended backward</characteristic><characteristic>tiptoe</characteristic><characteristic>arms bent</characteristic><characteristic>arms bent upward</characteristic><characteristic>hands together</characteristic><characteristic>praying</characteristic><characteristic>supplicating</characteristic><characteristic>sandal</characteristic><characteristic>left foot</characteristic><illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The leftmost figure has long hair and faces away and to the left, looking up. This may be John, the youngest of Christ's disciples. His left leg is bent and extended backward slightly, on tiptoe. He wears a sandal on his left foot. His mouth is open. He bends his arms upward with his palms together as though in prayer or supplication. </illusobjdesc></component><component type="figure" location="D"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>disciple</characteristic><characteristic>looking</characteristic><characteristic>facing left</characteristic><characteristic>facing up</characteristic><characteristic>long hair</characteristic><characteristic>beard</characteristic><characteristic>mouth open</characteristic><characteristic>facing away</characteristic><characteristic>seen from behind</characteristic><characteristic>leg bent at knee</characteristic><characteristic>leg extended backward</characteristic><characteristic>tiptoe</characteristic><characteristic>arms bent</characteristic><characteristic>arms bent upward</characteristic><characteristic>hands together</characteristic><characteristic>praying</characteristic><characteristic>supplicating</characteristic><characteristic>left foot</characteristic><illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The second-to-left figure has a long beard and may have his mouth open slightly. He faces away and to the left and looks up. His arms are bent upward with his hands clenched together as though in prayer or supplication. His left leg is bent back slightly and his left foot is on tiptoe. </illusobjdesc></component><component type="figure" location="D"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>disciple</characteristic><characteristic>looking</characteristic><characteristic>facing left</characteristic><characteristic>old</characteristic><characteristic>long hair</characteristic><characteristic>beard</characteristic><characteristic>mouth open</characteristic><characteristic>facing forward</characteristic><characteristic>facing up</characteristic><illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The third-to-left figure appears to be that of an old man with a long beard. He faces forward and to the left and looks up. His mouth may be partly open. </illusobjdesc></component><component type="figure" location="D"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>disciple</characteristic><characteristic>looking</characteristic><characteristic>facing left</characteristic><characteristic>facing up</characteristic><characteristic>short hair</characteristic><characteristic>arm at side</characteristic><characteristic>arm bent</characteristic><illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The third-to-right figure has short hair and faces to the left, looking up. His left arm is at his side but may be bent. </illusobjdesc></component><component type="figure" location="D"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>disciple</characteristic><characteristic>looking</characteristic><characteristic>facing left</characteristic><characteristic>facing up</characteristic><characteristic>short hair</characteristic><characteristic>facing forward</characteristic><characteristic>mouth open</characteristic><illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The second-to-right figure has short hair and faces forward and to the left, looking up. His mouth may be partly open. </illusobjdesc></component><component type="figure" location="D"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>curly hair</characteristic><characteristic>disciple</characteristic><characteristic>looking</characteristic><characteristic>facing left</characteristic><characteristic>facing up</characteristic><characteristic>old</characteristic><characteristic>long hair</characteristic><characteristic>beard</characteristic><characteristic>facing forward</characteristic><characteristic>arm at side</characteristic><illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The rightmost figure is that of an old man with a long beard. He faces left and slightly forward, looking up. His left arm may be at his side.</illusobjdesc></component><component type="object" location="AB"><characteristic>radiance</characteristic><characteristic>beams of light</characteristic><characteristic>heaven</characteristic><illusobjdesc>At the top center of the design is a radiance that likely indicates the divine presence or entrance to heaven. </illusobjdesc></component><component type="object" location="E"><characteristic>sky</characteristic><characteristic>cloud</characteristic><illusobjdesc>The sky backing the scene is mostly clear, with a few clouds. </illusobjdesc></component><component type="object" location="CD"><characteristic>earth</characteristic><illusobjdesc>The figures on the ground stand on what appears to be a strip of bare earth.</illusobjdesc></component></illustration></illusdesc><phystext><lg justify="left"><l n="but505.1.wc.01.01" justify="left" indent="4">inv</l><l n="but505.1.wc.01.02" justify="left" indent="4">WB</l><l n="but505.1.wc.01.03" justify="left" indent="45">Acts I c. 9 &amp; 10 v</l></lg></phystext></desc></objdesc></bad>
+granted by the owners of the originals for this publication only.
+      <lb/>
+      <lb/>
+      This image copyright © 2011 Fitzwilliam Museum</userestrict>
+    <encodingdesc/>
+    <profiledesc/>
+    <revisiondesc>
+      <changestmt>
+        <change>Final proofing and publication</change>
+        <date>November 2012</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Coordinator, University of Rochester: </resp>
+          <name>Rachel Lee</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Gabrielle Kiriloff,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Hardeep Sidhu,</name>
+          <name>Sarah Tolf,</name>
+          <name>Lisa Vandenbossche,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Illustration markup</change>
+        <date>Summer 2011</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Coordinator, University of Rochester:</resp>
+          <name>Rachel Lee</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Elizabeth Goodfellow,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Hardeep Sidhu,</name>
+          <name>Sarah Tolf,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Final proofing and publication</change>
+        <date>March 2011</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Coordinator, University of Rochester:</resp>
+          <name>Rachel Lee</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Laura Bell,</name>
+          <name>Lauren Cameron,</name>
+          <name>Katherine Carlson,</name>
+          <name>Robin Curry,</name>
+          <name>Cassandra Etter-Wenzel,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Fletcher,</name>
+          <name>Elizabeth Goodfellow,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Sarah Tolf,</name>
+          <name>Joseph Vogel,</name>
+          <name>Nikolaus Wasmoen,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>BAD created</change>
+        <date>July 2010</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold,</name>
+          <name>Kate Attkisson,</name>
+          <name>Lauren Cameron,</name>
+          <name>Robin Curry,</name>
+          <name>Andrea Everett,</name>
+          <name>Joseph Lamperez,</name>
+          <name>Rachel Lee,</name>
+          <name>Ali McGhee,</name>
+          <name>Jennifer Park,</name>
+          <name>Adair Rispoli,</name>
+          <name>Sarah Shaw,</name>
+          <name>Sarah Tolf,</name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Images received, catalogued and color corrected</change>
+        <date>April 2005</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+               
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+               
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+               
+          <resp>Technical Editor: </resp>
+          <name>Andrea Laue</name>
+          <resp>Project Manager: </resp>
+          <name>Justin Van Kleeck</name>
+          <resp>Project Assistants: </resp>
+          <name>Christopher N. Jackson, </name>
+          <name>Wesley N. Raabe, </name>
+          <name>Wayne C. Ripley, </name>
+          <name>William Shaw</name></respstmt>
+      </changestmt>
+    </revisiondesc>
+  </header>
+  <objdesc>
+    <source>
+      <objdescid>
+        <objtitle>
+          <title>
+            <hi rend="i">The Ascension</hi>
+          </title>
+        </objtitle>
+        <origination>William Blake
+          <role>inventor, </role>
+          <role>delineator, </role>
+          <role>colorist</role></origination>
+        <origination>Anonymous
+          <role>delineator.  The inscribed roman numeral above the design and the title inscription below the design, both available under Related Works in the Archive, are not by Blake.</role></origination>
+        <compdate value="1803">c. 1803-05</compdate>
+      </objdescid>
+      <objinfo>
+        <numberobj>1</numberobj>
+        <objsize>42.5 x 31.9 cm.</objsize>
+        <numberleaves>1</numberleaves>
+        <leafsize>52.3 x 43.0 cm.</leafsize>
+        <medium>pencil, pen and ink, and water color
+          <note>The inscribed roman numeral above the design and the title inscription below the design are in pencil.  Neither is by Blake; see Related Works in the Archive.</note></medium>
+        <support>wove paper</support>
+        <watermark>none recorded</watermark>
+        <pennednumbers>none</pennednumbers>
+        <framelines>There are six framing lines, with pale washes between three sets of lines.  The innermost framing line is contiguous with the edge of the design.</framelines>
+      </objinfo>
+      <provenance n="1">
+        <name>Fitzwilliam Museum</name>
+        <date>1949</date>
+        <dealer>none recorded</dealer>
+        <price>£7350</price>
+        <note>Commissioned and acquired from Blake by Thomas Butts c. 1803-05; by inheritance in 1845 to Thomas Butts, Jr.; by inheritance in 1862 to Frederick J. Butts; offered Sotheby's, 24 June 1903, lot 17 (bought-in by &quot;Dimsdale,&quot; possibly T. E. Dimsdale, for £115); acquired in Feb. 1904 by W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949, lot 38 (£7350 to the executors of Robertson's estate for presentation through the National Arts Collection Fund to the Fitzwilliam Museum).</note>
+      </provenance>
+      <repository>
+        <institution>Fitzwilliam Museum</institution>
+        <addressline>Trumpington Street</addressline>
+        <addressline>Cambridge CB2 1RB</addressline>
+        <addressline>United Kingdom</addressline>
+        <addressline>Telephone: 01223-332900</addressline>
+        <addressline>Fax: 01223-332923</addressline>
+        <addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline>
+        <addressline>URL, Department of Paintings, Drawings and Prints: http://www.fitzmuseum.cam.ac.uk/dept/pdp</addressline>
+        <addressline>Email, Department of Paintings, Drawings and Prints: fitzmuseum-pdp@lists.cam.ac.uk</addressline>
+        <addressline>URL, Image Library: http://www.fitzmuseum.cam.ac.uk/dept/imagelibrary</addressline>
+        <addressline>Telephone, Image Library: 01223 332927</addressline>
+        <addressline>Fax, Image Library: 01223 768591</addressline>
+        <addressline>Email, Image Library: images@fitzmuseum.cam.ac.uk</addressline>
+        <department>Department of Paintings, Drawings and Prints</department>
+        <repositoryid label="Accession number">PD.32-1949</repositoryid>
+      </repository>
+    </source>
+    <desc dbi="BUT505.1.1.WC" id="but505.1.wc.01">
+      <objtitle>
+        <title type="transcribed">The Ascension</title>,
+
+        <objid>
+          <objnumber code="A1">object 1 </objnumber>
+          <objcode code="U1">(Butlin 505)</objcode></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>Blake signed the work, lower left, with his monogram, and inscribed a reference to the passage illustrated below the design on the right.  See the textual transcription.  The inscribed roman numeral above the design and the title inscribed below the design are not by Blake.  These are available under Related Works in the Archive.</p>
+        </objnote>
+        <objsize>42.5 x 31.9 cm.</objsize>
+        <windowsize height="800" width="650"/>
+      </physdesc>
+      <related objectid="inscbut505.1.rm.01" ovp="noindex"/>
+      <related objectid="inscbut505.1.rm.02" ovp="noindex"/>
+      <related objectid="inscbut505.1.rm.03" ovp="noindex"/>
+      <related objectid="but624v.1.penc.01"/>
+      <related objectid="butwba10.1.wc.13"/>
+      <illusdesc>
+        <illustration location="E" type="plate">
+          <illusobjdesc>The design is based on Acts 1:9-11. Toward the top center hovers Jesus, ascending into heaven. He wears a gown and faces away, with his left leg bent and extended backward. He has long, curly hair and his arms are raised at 135 degrees. To the left of Jesus hovers a winged and gowned male angel with short, curly hair. He is upside down and faces forward and right, looking down at the crowd below. He is probably descending. His mouth may be slightly open. His arms are at his side, pointing upward. To the right of Jesus hovers a winged and gowned male angel with long, curly hair. He is upside down and faces forwad and left, looking down at the crowd on the ground. He may be descending. His arms are at his side, pointing upward. The sky backing the scene is mostly clear, with a few clouds. At the top center of the design is a radiance that likely indicates the divine presence or entrance to heaven. Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The leftmost figure has a long beard and faces forward and to the right, looking up. His arms are bent upward with his hands together as though in prayer or supplication. The second-to-left figure faces right and forward, looking up. The middle figure of this group appears to be old, and faces away, looking up and to the right. His arms are bent upward with his fingers spread and his palms vertical. His left leg is bent and extended back slightly on tiptoe. He wears sandals on his feet. The second-to-right figure has a beard and wears a sandal on his right foot, which is on tiptoe. His right leg is bent and extended backward slightly. His right arm is bent upward with his right palm vertical. The rightmost figure of this group faces away and to the right and looks up. He has a beard and bends his right leg back slightly. He bends his arms upward with his palms together as though in prayer or supplication. Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are also his apostles. The leftmost figure has long hair and faces away and to the left, looking up. His left leg is bent and extended backward slightly, on tiptoe. He wears a sandal on his left foot. His mouth is open. He bends his arms upward with his palms together as though in prayer or supplication. This may be John, the youngest of Christ's disciples. The second-to-left figure has a long beard and may have his mouth open slightly. He faces away and to the left and looks up. His arms are bent upward with his hands clenched together as though in prayer or supplication. His left leg is bent back slightly and his left foot is on tiptoe. The third-to-left figure appears to be that of an old man with a long beard. He faces forward and to the left and looks up. His mouth may be partly open. The third-to-right figure has short hair and faces to the left, looking up. His left arm is at his side but may be bent. The second-to-right figure has short hair and faces forward and to the left, looking up. His mouth may be partly open. The rightmost figure is that of an old man with a long beard. He faces left and slightly forward, looking up. His left arm may be at his side. The figures on the ground stand on what appears to be a strip of bare earth. 
+                    </illusobjdesc>
+          <component location="E" type="figure">
+            <characteristic>Christ</characteristic>
+            <characteristic>male</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>arms raised at 135 degrees</characteristic>
+            <characteristic>hovering</characteristic>
+            <characteristic>flying</characteristic>
+            <characteristic>floating</characteristic>
+            <characteristic>rising</characteristic>
+            <characteristic>leg bent at knee</characteristic>
+            <characteristic>leg extended backward</characteristic>
+            <illusobjdesc>Toward the top center of the design hovers Jesus, ascending into Heaven. He wears a gown and faces away, with his left leg bent and extended backward. He has long, curly hair and his arms are raised at 135 degrees. </illusobjdesc>
+          </component>
+          <component location="A" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>angel</characteristic>
+            <characteristic>wing</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>short hair</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>flying</characteristic>
+            <characteristic>floating</characteristic>
+            <characteristic>hovering</characteristic>
+            <characteristic>descending</characteristic>
+            <characteristic>upside down</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing down</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>mouth open</characteristic>
+            <characteristic>arms at side</characteristic>
+            <characteristic>pointing</characteristic>
+            <illusobjdesc>To the left of Jesus hovers a winged and gowned male angel with short, curly hair. He is upside down and faces forward and right, looking down at the crowd below. His mouth may be slightly open. His arms are at his side, pointing upward. He may be descending</illusobjdesc>
+          </component>
+          <component location="B" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>angel</characteristic>
+            <characteristic>wing</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>flying</characteristic>
+            <characteristic>floating</characteristic>
+            <characteristic>hovering</characteristic>
+            <characteristic>descending</characteristic>
+            <characteristic>upside down</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing down</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>arms at side</characteristic>
+            <characteristic>pointing</characteristic>
+            <illusobjdesc>To the right of Jesus hovers a winged and gowned male angel with long, curly hair. He is upside down and faces forwad and left, looking down at the crowd on the ground. His arms are at his side, pointing upward. He may be descending.</illusobjdesc>
+          </component>
+          <component location="C" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>arms bent</characteristic>
+            <characteristic>arms bent upward</characteristic>
+            <characteristic>hands together</characteristic>
+            <characteristic>praying</characteristic>
+            <characteristic>supplicating</characteristic>
+            <characteristic>looking</characteristic>
+            <illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The leftmost figure has a long beard and faces forward and to the right, looking up. His arms are bent upward with his hands together as though in prayer or supplication. </illusobjdesc>
+          </component>
+          <component location="C" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>short hair</characteristic>
+            <illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The second-to-left figure faces right and forward, looking up. </illusobjdesc>
+          </component>
+          <component location="C" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>short hair</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>arms bent</characteristic>
+            <characteristic>arms bent upward</characteristic>
+            <characteristic>fingers spread</characteristic>
+            <characteristic>palms vertical</characteristic>
+            <characteristic>sandal</characteristic>
+            <characteristic>leg bent at knee</characteristic>
+            <characteristic>leg extended backward</characteristic>
+            <characteristic>tiptoe</characteristic>
+            <illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The middle figure of this group appears to be old, and faces away, looking up and to the right. His arms are bent upward with his fingers spread and his palms vertical. His left leg is bent and extended back slightly on tiptoe. He wears sandals on his feet. He has a beard and short hair.</illusobjdesc>
+          </component>
+          <component location="C" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>sandal</characteristic>
+            <characteristic>tiptoe</characteristic>
+            <characteristic>leg bent at knee</characteristic>
+            <characteristic>leg extended backward</characteristic>
+            <characteristic>arm bent</characteristic>
+            <characteristic>arm bent upward</characteristic>
+            <characteristic>palm vertical</characteristic>
+            <characteristic>looking</characteristic>
+            <illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The second-to-right figure has a beard and wears a sandal on his right foot, which is on tiptoe. His right leg is bent and extended backward slightly. His right arm is bent upward with his right palm vertical. </illusobjdesc>
+          </component>
+          <component location="C" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>leg bent at knee</characteristic>
+            <characteristic>leg extended backward</characteristic>
+            <characteristic>arms bent</characteristic>
+            <characteristic>arms bent upward</characteristic>
+            <characteristic>hands together</characteristic>
+            <characteristic>praying</characteristic>
+            <characteristic>supplicating</characteristic>
+            <illusobjdesc>Five gowned male figures with curly hair stand on the ground to the left of Jesus; they are his apostles. The rightmost figure of this group faces away and to the right and looks up. He has a beard and bends his right leg back slightly. He bends his arms upward with his palms together as though in prayer or supplication. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>John</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>mouth open</characteristic>
+            <characteristic>leg bent at knee</characteristic>
+            <characteristic>leg extended backward</characteristic>
+            <characteristic>tiptoe</characteristic>
+            <characteristic>arms bent</characteristic>
+            <characteristic>arms bent upward</characteristic>
+            <characteristic>hands together</characteristic>
+            <characteristic>praying</characteristic>
+            <characteristic>supplicating</characteristic>
+            <characteristic>sandal</characteristic>
+            <characteristic>left foot</characteristic>
+            <illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The leftmost figure has long hair and faces away and to the left, looking up. This may be John, the youngest of Christ's disciples. His left leg is bent and extended backward slightly, on tiptoe. He wears a sandal on his left foot. His mouth is open. He bends his arms upward with his palms together as though in prayer or supplication. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>mouth open</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>leg bent at knee</characteristic>
+            <characteristic>leg extended backward</characteristic>
+            <characteristic>tiptoe</characteristic>
+            <characteristic>arms bent</characteristic>
+            <characteristic>arms bent upward</characteristic>
+            <characteristic>hands together</characteristic>
+            <characteristic>praying</characteristic>
+            <characteristic>supplicating</characteristic>
+            <characteristic>left foot</characteristic>
+            <illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The second-to-left figure has a long beard and may have his mouth open slightly. He faces away and to the left and looks up. His arms are bent upward with his hands clenched together as though in prayer or supplication. His left leg is bent back slightly and his left foot is on tiptoe. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>old</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>mouth open</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing up</characteristic>
+            <illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The third-to-left figure appears to be that of an old man with a long beard. He faces forward and to the left and looks up. His mouth may be partly open. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>short hair</characteristic>
+            <characteristic>arm at side</characteristic>
+            <characteristic>arm bent</characteristic>
+            <illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The third-to-right figure has short hair and faces to the left, looking up. His left arm is at his side but may be bent. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>short hair</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>mouth open</characteristic>
+            <illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The second-to-right figure has short hair and faces forward and to the left, looking up. His mouth may be partly open. </illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>disciple</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>old</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>arm at side</characteristic>
+            <illusobjdesc>Six gowned male figures with curly hair stand on the ground to the right of Jesus; they are his apostles. The rightmost figure is that of an old man with a long beard. He faces left and slightly forward, looking up. His left arm may be at his side.</illusobjdesc>
+          </component>
+          <component location="AB" type="object">
+            <characteristic>radiance</characteristic>
+            <characteristic>beams of light</characteristic>
+            <characteristic>heaven</characteristic>
+            <illusobjdesc>At the top center of the design is a radiance that likely indicates the divine presence or entrance to heaven. </illusobjdesc>
+          </component>
+          <component location="E" type="object">
+            <characteristic>sky</characteristic>
+            <characteristic>cloud</characteristic>
+            <illusobjdesc>The sky backing the scene is mostly clear, with a few clouds. </illusobjdesc>
+          </component>
+          <component location="CD" type="object">
+            <characteristic>earth</characteristic>
+            <illusobjdesc>The figures on the ground stand on what appears to be a strip of bare earth.</illusobjdesc>
+          </component>
+        </illustration>
+      </illusdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="4" justify="left" n="but505.1.wc.01.01">inv</l>
+          <l indent="4" justify="left" n="but505.1.wc.01.02">WB</l>
+          <l indent="45" justify="left" n="but505.1.wc.01.03">Acts I c. 9 &amp; 10 v</l>
+        </lg>
+      </phystext>
+      <supplemental>
+        <desc dbi="BUT505.1.1-full.RM" id="inscbut505.1.rm.01">
+      <objtitle>
+        <title type="transcribed">The Ascension</title>,
+
+        <objid>
+          <objnumber code="A1">full view including all inscriptions </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>Blake signed the work, lower left, with his monogram, and inscribed a reference to the passage illustrated below the design on the right.  See the textual transcription.  The inscribed roman numeral above the design and the title inscribed below the design are not by Blake.</p>
+        </objnote>
+        <objsize>52.3 x 43.0 cm.</objsize>
+        <windowsize height="875" width="700"/>
+      </physdesc>
+    </desc>
+    <desc dbi="BUT505.1.1-insc-t.RM" id="inscbut505.1.rm.02">
+      <objtitle>
+        <title type="transcribed">The Ascension</title>,
+            
+        <objid>
+          <objnumber code="A1">top inscription </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>The inscribed roman numeral above the design is not by Blake.</p>
+        </objnote>
+        <objsize>2.6 x 27.5 cm.</objsize>
+        <windowsize height="400" width="800"/>
+      </physdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="28" justify="left" n="inscbut505.1.rm.02.01">VII</l>
+        </lg>
+      </phystext>
+    </desc>
+    <desc dbi="BUT505.1.1-insc-b.RM" id="inscbut505.1.rm.03">
+      <objtitle>
+        <title type="transcribed">The Ascension</title>,
+            
+        <objid>
+          <objnumber code="A1">bottom inscription </objnumber></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objnote>
+          <p>The title inscribed below the design is not by Blake.</p>
+        </objnote>
+        <objsize>4.2 x 24.4 cm.</objsize>
+        <windowsize height="400" width="800"/>
+      </physdesc>
+      <phystext>
+        <lg justify="left">
+          <l indent="23" justify="left" n="inscbut505.1.rm.03.01">The Ascension.</l>
+        </lg>
+      </phystext>
+    </desc>
+      </supplemental>
+    </desc>
+  </objdesc>
+</bad>
