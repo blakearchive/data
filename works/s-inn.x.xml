@@ -1,0 +1,2917 @@
+<!--Step 3 conversion -Data modification/normalization  datamodsblake.xsl 2007-04-28T11:21:05-04:00 Aziza Technology Associates-->
+<bad id="s-inn.x" type="illbk" work="Songs of Innocence" copy="X" copyid="X" institution="ngvic" catalog="bentley" catid="X" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Songs of Innocence">
+                    <main>Songs of Innocence</main>
+                    <copy>copy X</copy>
+: electronic edition
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of
+Rochester; 
+<name>Robert Essick, </name>University of California, Riverside;
+and 
+<name>Joseph Viscomi</name>, University of North Carolina at Chapel
+Hill</principal>
+                <respstmt>
+              
+            </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill, and the University of Rochester
+            </sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file derived from 1 SGML (ISO 8879) encoded file approx. 180KB; 28 JPEG
+(ISO/IEC 10918) 
+files ranging in size from 40KB to 805KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>December 2015</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>
+                The William Blake Archive is pleased to announce the publication of electronic editions of <hi rend="i">Songs of Innocence</hi> copies I, X, and Z from the Huntington Library and Art Gallery, National Gallery of Victoria, and the Bayerische Staatsbibliothek, Munich. They join copies B from the Library of Congress, G from the Yale Center for British Art, L from the Bodleian Library, and U from the Houghton Library.<lb/>
+                <lb/>
+                Blake etched the plates of <hi rend="i">Songs of Innocence</hi> in relief, with white-line work in some designs, on thirty-one plates in 1789, the date on the title page. In 1794, for the first copies of the combined <hi rend="i">Songs of Innocence and of Experience</hi>, Blake moved “The Little Girl Lost” and “The Little Girl Found” (plates 34-36) from <hi rend="i">Innocence</hi> to <hi rend="i">Experience</hi>. He moved “The School Boy” and “The Voice of the Ancient Bard” (plates 53, 54) from <hi rend="i">Innocence</hi> to <hi rend="i">Experience</hi> in the last eight copies of <hi rend="i">Songs</hi>. Hence, Innocence evolved from its earliest autonomous copies with thirty-one plates to its last iteration as a twenty-six-plate section in the combined <hi rend="i">Songs</hi>.<lb/>
+                <lb/>
+                In <hi rend="i">Innocence</hi> copy I, all thirty-one plates were printed in green and light blue inks, with several intermediate hues, on both sides of 17 leaves. The texts were given light washes, a style of coloring Blake began to use c. 1795, suggesting that this copy was colored later than the other 1789 copies, or refinished before it was sold. Copy I is unusual, though, in having all thirty-one plates that late; for <hi rend="i">Innocence</hi> copy L, for example, also in the Archive, Blake had extracted plates 34-36, a sign that he had reconfigured and sold it after 1794. The color washes on some plates in copy I have faded badly due to overexposure to light.<lb/>
+                <lb/>
+                <hi rend="i">Innocence</hi> copy I was printed in the same ink colors as—and presumably with—<hi rend="i">Innocence</hi> copy X and <hi rend="i">Innocence</hi> of <hi rend="i">Songs</hi> copy F, which is in the Archive. <hi rend="i">Innocence</hi> copy X is incomplete, with fourteen plates printed on seven leaves, but among them are plates 35 and 36, strongly suggesting that it had initially all thirty-one plates. An eighth leaf, with plates 9 and 10, is in the Fitzwilliam Museum. The simple washes in copy X exemplify Blake’s earliest style of illumination, with just a few light washes applied to the vignettes but the texts left untouched.<lb/>
+                <lb/>
+                <hi rend="i">Innocence</hi> copy Z, also an early copy, was printed after the green issue in the raw sienna ink used for the sets of <hi rend="i">Innocence</hi> in <hi rend="i">Songs</hi> B, C, D, and E (all but copy D are in the Archive). Copy Z has twenty-seven of thirty-one plates; it is missing plates 27, 34, 35, and 36 printed on two leaves. The same leaves were extracted from <hi rend="i">Innocence</hi> copy K, though copy K has plate 27, printed separately on one side of the leaf and added as its last plate. Copy Z is the only copy of <hi rend="i">Innocence</hi> numbered by Blake, which, along with the extracted plates, suggests that it was sold after 1795, when he began numbering his plates. It was acquired in the mid-nineteenth century for the library of Ludwig I of Bavaria.<lb/>
+                <lb/>
+                With the publication of <hi rend="i">Songs of Innocence</hi> copies I, X, and Z, the Archive now contains fully searchable and scalable electronic editions of ninety-eight copies of Blake's nineteen illuminated books in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies. New protocols for transcription, which produce improved accuracy and fuller documentation in editors' notes, have been applied to all copies of <hi rend="i">Innocence</hi> in the Archive. With the Archive's Compare feature, users can easily juxtapose multiple impressions of any plate across all or selected copies of this or any of the other illuminated books and, with the Virtual Lightbox, users can examine any images in the Archive, as well as crop, zoom, and juxtapose them for close study.<lb/>
+                <lb/>
+                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.                           
+            </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+Viscomi,
+all rights reserved.  Items in the Archive may be shared in
+accordance
+with the Fair Use provisions of U.S. copyright law. Redistribution
+or
+republication on other terms, in any medium, requires express
+written
+consent from the editors and advance notification of the publisher. Permission to
+reproduce the graphic images in this archive has been granted by
+the
+owners of the originals for this publication only.<lb/>
+            <lb/> This image copyright © 2015 National Gallery of Victoria.</userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>December 2015</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Rachel Lee,</name>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Grant Glass,</name>
+                    <name>Jarrod Ingles,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Mary Learner,</name>
+                    <name>Eric Loy,</name>
+                    <name>Dasha Lynch,</name>
+                    <name>Adam McCune,</name>
+                    <name>Scott Robinson,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Miles Simon,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Illustration markup created</change>
+                <date>Fall 2008</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+               <name>Robert Essick, </name>University of California, Riverside; and
+               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+               <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>April Brown, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Eric Forster, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah E. Jones, </name>
+                    <name>Lauren Klapper-Lehman, </name>
+                    <name>Michelle Langston, </name>
+                    <name>Rachel Lee, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>This work has been revised to include corrections and improvements (to the
+textual transcriptions and editors' notes for consistency, accuracy, and
+visual presentation) that were not reflected in the original XML conversion.</change>
+                <date>2007</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+<name>Robert Essick, </name>University of California, Riverside; and
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+<resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>William Shaw</name>
+                    <resp>Conversion: </resp>
+                    <name>William Shaw</name>; <name>Aziza Technology Associates</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah E. Jones, </name>
+                    <name>Ashley Reed, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Sarah Tolf</name>
+                    <resp>Consultant: </resp>
+                    <name>Wesley N. Raabe</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images received, scanned and catalogued</change>
+                <date>May 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+               <name>Robert Essick, </name>University of California, Riverside; and
+               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+               <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        <hi rend="i">Songs of Innocence</hi>
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>etcher, </role>
+                    <role>printer, </role>
+                    <role>colorist</role>
+                </origination>
+                <origination>Catherine Blake <role>printer</role>
+                </origination>
+                <imprint>
+                    <publisher>William Blake</publisher>
+                    <pubplace>London<note>The place of publication is not recorded in
+the volume, but Blake was living in London at the time of its
+composition, etching, and printing.</note>
+                    </pubplace>
+                    <date>1789</date>
+                </imprint>
+                <compdate value="1789">1789</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1789.Q">1789</printdate>
+                <numberobj>14</numberobj>
+                <objorder>35, 36, 18, 25, 16, 17, 13, 14, 24, 27, 19, 54, 23, 53<note>The plates are printed recto verso, as follows: 35/36, 18/25, 16/17, 13/14, 24/27, 19/54, 23/53.  The leaves are presently loose; the plate order given here is the order in which the plates were bound from c. 1965-1988.  This copy is incomplete, as the presence of plate 35 (the second plate of "The Little Girl Lost") without plate 34 (the first plate of "The Little Girl Lost"), and the presence of plate 23 (the second plate of "Spring") without plate 22 (the first plate of "Spring") clearly indicate.  When issued by Blake, this copy probably contained the usual complement of 31 plates (2-27, 34-36, 53-54) found in complete copies of <hi rend="i">Songs of Innocence</hi> printed by Blake in 1789.  The time at which the missing plates were removed is unknown but must have been before 1941, when Geoffrey Keynes acquired impressions of plates 9 and 10, printed recto/verso on a single leaf.  The leaf size, ink color, and pattern of stab holes indicate that this leaf, now in the Keynes Collection, Fitzwilliam Museum, was once part of copy X.  Bentley plate
+numbers are used unless otherwise stated.</note>
+                </objorder>
+                <objsize>Ranging between 11.8 x 7.8 cm. and 10.5 x 6.3
+cm.</objsize>
+                <numberleaves>7</numberleaves>
+                <leafsize>18.9 x 13.6 cm.</leafsize>
+                <medium>relief etching, with some white-line etching, and hand
+coloring</medium>
+                <printingstyle>relief</printingstyle>
+                <inkcolor>green</inkcolor>
+                <support>wove paper</support>
+                <watermark>E &amp; P<note>The watermark appears only on the leaf bearing 7 and 8 (Bentley plates 13 and 14).</note>
+                </watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>unbound<note>between c. 1965-1988, bound in full cream morocco, the leaves mounted onto stubs</note>
+                </binding>
+                <stabholes>3<note>The holes are 5.3 cm. from the top of each leaf and 3.8 cm. and 3.9 cm. apart.</note>
+                </stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>National Gallery of Victoria</name>
+                <date>1988</date>
+                <dealer>Garton &amp; Co.</dealer>
+                <price>not recorded</price>
+                <note>Not recorded until its sale from a private collection, Sotheby's, 9 Nov. 1964, #112, disbound (£220 to the bookseller Alan G. Thomas, possibly acting for Raymond Lister); by 1964 in the collection of Lister, who had the plates cleaned and bound; on consignment from Lister with the dealer Shaunagh Fitzgerald Ltd. in 1985; offered at Sotheby's, 27 June 1986, lot 746 (not sold); on consignment from Lister with the print dealer Garton &amp; Co. in 1987 for £75,000; offered Garton &amp; Co., May 1988 catalogue, <hi rend="i">Visions of Landscape</hi>, item 1 ("price on application"); acquired 1988 by The National Gallery of Victoria, Melbourne, Australia.</note>
+            </provenance>
+            <repository>
+                <lb/>
+                <institution>National Gallery of Victoria</institution>
+                <department>Prints and Drawings</department>
+                <collection>none</collection>
+                <repositoryid label="Call number">P122a-g/1988</repositoryid>
+                <repositoryid label="Catalog number">39a-n</repositoryid>
+            </repository>
+        </source>
+        <desc id="s-inn.x.illbk.01" dbi="s-inn.X.P1-35">
+            <objtitle>
+                <title type="transcribed">The Little Girl Found</title>,
+<objid>
+                    <objnumber code="A1">object 1 </objnumber>
+                    <objcode code="B35">(Bentley 35, </objcode>
+                    <objcode code="E35">Erdman 35, </objcode>
+                    <objcode code="K35">Keynes 35)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.1 x 6.8 cm.</objsize>
+                <windowsize height="577" width="354"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="AB">
+                    <illusobjdesc>A young(?), gowned female reclines on the ground
+under two large trees that frame the design on the left and right. 
+She may be Lyca, "Lost in desart [i.e., wilderness] wild" (Erdman page 20; plate not in this copy).  
+Three other large trees, closely spaced, are visible in
+the center background, and there is other indeterminate vegetation in the far background.  
+A slender tree or vine with a few leaves rises in the far left margin.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>Lyca</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm wrapped around body</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head up</characteristic>
+                        <illusobjdesc>Under trees, a young(?) gowned female--perhaps
+identical with her unidentified counterpart on the previous object
+or perhaps Lyca, "Lost in desart [i.e., wilderness] wild" (Erdman page 20; plate not in this copy)--reclines with her legs crossed and her weight resting
+on her braced right arm, her bent left arm folded across her body. 
+Her hair is long, with a few locks visible above her left shoulder. 
+Her left foot is exposed.  She looks upward to the
+right.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>leafless</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>grass</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>A female reclines on the grass under two large trees
+that frame the design on the left and right.  Three other large
+trees, closely spaced, are visible in the center background, and 
+there is other indeterminate vegetation in the far background.  The
+tree on the left has a bare branch that extends vertically up the
+margin, but its lower branches might be leafy, as are the branches
+of the other trees in the design.  A thin, straight vine with
+leaves grows between the left margin and the large
+tree.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="plate" location="CD">
+                    <illusobjdesc>One of the "tygers" (line 1) or the "lioness" (line
+9) mentioned in the last stanza of the companion poem, "The Little
+Girl Lost," stands on the ground beneath an arching tree.  There
+are tufts of grass and/or indeterminate vegetation behind the
+animal.</illusobjdesc>
+                    <component type="animal" location="D">
+                        <characteristic>lion</characteristic>
+                        <characteristic>tiger</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head up</characteristic>
+                        <illusobjdesc>One of the "tygers" (line 1) or the "lioness" (line
+9) mentioned in the last stanza of the companion poem, "The Little
+Girl Lost," stands on the ground beneath a tree.   Its head is
+turned to the right and raised, echoing the position of the female
+in the design above.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>tree</characteristic>
+                        <characteristic>leafless</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>grass</characteristic>
+                        <characteristic>plant</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>A lion or tiger stands beneath an arching tree, bare
+except for one or two leaves far left.  There are tufts of grass
+and/or indeterminate vegetation behind the animal.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="C">
+                    <illusobjdesc>The initial letters "T" and "L" of the first two
+words of the title (line 13) have vine-like loopy extensions linking them
+together.  This vine, with a very small break, appears to be the
+same as the one bearing leaves and flowers that descends in the
+left margin of the text.  Alternatively, this marginal vine may be
+growing from the lower left corner of the plate.</illusobjdesc>
+                    <component type="vegetation" location="C">
+                        <characteristic>vine</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>flower</characteristic>
+                        <illusobjdesc>The initial letters "T" and "L" of the first two
+words of the title (line 13) have vine-like loopy extensions linking them
+together.  This vine, with a very small break, appears to be the
+same as the one bearing leaves and flowers that descends in the
+left margin of the text.  Alternatively, this marginal vine may be
+growing from the lower left corner of the plate.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.01.01" justify="left">Leopards, tygers play,</l>
+                    <l n="s-inn.x.illbk.01.02" justify="left">Round her as she lay;</l>
+                    <l n="s-inn.x.illbk.01.03" justify="left">While the lion old,</l>
+                    <l n="s-inn.x.illbk.01.04" justify="left">Bow'd his mane of gold,</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.01.05" justify="left">And her bosom lick,</l>
+                    <l n="s-inn.x.illbk.01.06" justify="left">And upon her neck,</l>
+                    <l n="s-inn.x.illbk.01.07" justify="left">From his eyes of flame,</l>
+                    <l n="s-inn.x.illbk.01.08" justify="left">Ruby tears there came;</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.01.09" justify="left">While the lioness.</l>
+                    <l n="s-inn.x.illbk.01.10" justify="left">Loos'd her slender dress,</l>
+                    <l n="s-inn.x.illbk.01.11" justify="left">And naked they convey'd</l>
+                    <l n="s-inn.x.illbk.01.12" justify="left">To caves the sleeping maid.</l>
+                </lg>
+                <vspace extent="4"/>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.01.13" justify="left">The Little Girl Found</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.01.14" justify="left">All the night in woe,</l>
+                    <l n="s-inn.x.illbk.01.15" justify="left">Lyca's parents go:</l>
+                    <l n="s-inn.x.illbk.01.16" justify="left">Over vallies deep.</l>
+                    <l n="s-inn.x.illbk.01.17" justify="left">While the desarts weep.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.01.18" justify="left">Tired and woe-begone.</l>
+                    <l n="s-inn.x.illbk.01.19" justify="left">Hoarse with making moan:</l>
+                    <l n="s-inn.x.illbk.01.20" justify="left">Arm in arm seven days.</l>
+                    <l n="s-inn.x.illbk.01.21" justify="left">They trac'd the desart ways,</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.01.22" justify="left">Seven nights they sleep.</l>
+                    <l n="s-inn.x.illbk.01.23" justify="left">Among shadows deep:</l>
+                    <l n="s-inn.x.illbk.01.24" justify="left">And dream they see their child</l>
+                    <l n="s-inn.x.illbk.01.25" justify="left">Starv'd in desart wild,</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.01.26" justify="left">Pale thro' pathless ways</l>
+                    <l n="s-inn.x.illbk.01.27" justify="left">The fancied image strays,</l>
+                </lg>
+                <textfoot justify="left">
+                    <l n="s-inn.x.illbk.01.28" justify="left" indent="23">
+                        <catchword>Famish'd</catchword>
+                    </l>
+                </textfoot>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.02" dbi="s-inn.X.P2-36">
+            <objtitle>
+                <title type="transcribed">The Little Girl Found (continued)</title>,
+<objid>
+                    <objnumber code="A2">object 2 </objnumber>
+                    <objcode code="B36">(Bentley 36, </objcode>
+                    <objcode code="E36">Erdman 36, </objcode>
+                    <objcode code="K36">Keynes 36)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.1 x 6.9 cm.</objsize>
+                <windowsize height="577" width="359"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>On grass at the foot of the entwined trunks of two
+leafy trees (in turn entwined by leafy vines) in the right margin
+and near a pair of vines or a sapling and a vine in the left
+margin, a lion (right) lies close beside a seated infant while a
+lioness (left) or, less likely, a tiger (both mentioned in the
+text) lies with a nude infant sitting on her back.  A nude female
+child stands beside them, holding the infant's arm, while a nude
+young(?) female lies sleeping(?) in front of them.  She may be
+Lyca, "the maid" who "lies asleep" in the "palace" (lines 28-30) of
+the royal lion who turns into a "spirit arm'd in gold" (line 22). 
+Lyca's parents see their "sleeping child. / Among 
+tygers wild" (lines 33-34).  Light blue washes in the upper-left and lower portions of the plate suggest sky.</illusobjdesc>
+                    <component type="figure" location="D">
+                        <characteristic>infant</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>hand resting</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <illusobjdesc>A curly-haired nude infant or child sits leaning on
+a lion and looks right toward it.  The child's right hand rests on or holds
+the lion's right front leg.  Although the child's body faces forward, his shoulders and head are twisted to the right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>infant</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>holding</characteristic>
+                        <illusobjdesc>A nude, short-haired infant or child, perhaps male,
+sits on the back of a lioness or tiger.  His body faces left toward
+the front of the animal, and he reaches forward with his right hand
+as if to hold the animal by its head; but the infant reaches back
+with the left hand to hold the arm of a girl behind
+them.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>hand resting</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>A nude female child with long hair leans left toward
+an infant or child sitting on a lioness or tiger.  With her left
+hand she reaches across her body to hold the left arm of the
+infant while her right hand seems to rest on the rear end of the
+animal.  She looks down at the animal; her legs might be crossed or her right leg bent at the knee and extended backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>Lyca</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>sleeping</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>arms wrapped around head</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>head on arm</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>A young(?) nude female lies sleeping(?) on her left
+side facing away from the viewer with her head to the left and her
+right leg extended along the ground (left leg not pictured in this
+copy).  Her upper body is twisted to face the ground and her arms
+are wrapped around her head.  She may be Lyca, "the maid" who "lies
+asleep" in the "palace" (lines 28-30) of the royal 
+lion who turns into a "spirit arm'd in gold" (line 22).  Lyca's
+parents see their "sleeping child / Among tygers wild" (lines
+33-34).</illusobjdesc>
+                    </component>
+                    <component type="animal" location="C">
+                        <characteristic>lion</characteristic>
+                        <characteristic>tiger</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>On the left a lioness or, less likely, a tiger lies
+with its body facing left, its head twisted around to look right
+toward the child on its back.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="D">
+                        <characteristic>lion</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>A lion with a mane lies facing forward with its front
+paws extended as an infant or child sits next to it.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="BD">
+                        <characteristic>tree</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <illusobjdesc>The entwined trunks of two large and leafy trees
+occupy the right margin.  Small branches and leaves spring from
+both, although perhaps we are to imagine that these grow from an
+intertwined vine.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AC">
+                        <characteristic>vine</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>tree</characteristic>
+                        <characteristic>loop</characteristic>
+                        <illusobjdesc>A pair of vines, one with loops, or a leafless
+sapling entwined by a leafy vine occupies the left 
+margin.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc>Green tinting suggests that the forest floor is
+covered with grass.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>sky</characteristic>
+                        <illusobjdesc>Light blue washes in the upper-left and lower portions of the plate suggest sky.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.01" justify="left">Famish'd. weeping. weak</l>
+                    <l n="s-inn.x.illbk.02.02" justify="left">With hollow piteous shriek</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.03" justify="left">Rising from unrest,</l>
+                    <l n="s-inn.x.illbk.02.04" justify="left">The trembling woman prest,</l>
+                    <l n="s-inn.x.illbk.02.05" justify="left">With feet of weary woe;</l>
+                    <l n="s-inn.x.illbk.02.06" justify="left">She could no further go.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.07" justify="left">In his arms he bore.</l>
+                    <l n="s-inn.x.illbk.02.08" justify="left">Her arm'd with sorrow sore;</l>
+                    <l n="s-inn.x.illbk.02.09" justify="left">Till before their way,</l>
+                    <l n="s-inn.x.illbk.02.10" justify="left">A couching lion lay.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.11" justify="left">Turning back was vain,</l>
+                    <l n="s-inn.x.illbk.02.12" justify="left">Soon his heavy mane.</l>
+                    <l n="s-inn.x.illbk.02.13" justify="left">Bore them to the ground;</l>
+                    <l n="s-inn.x.illbk.02.14" justify="left">Then he stalk'd around,</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.15" justify="left">Smelling to his prey.</l>
+                    <l n="s-inn.x.illbk.02.16" justify="left">But their fears allay.</l>
+                    <l n="s-inn.x.illbk.02.17" justify="left">When he licks their hands:</l>
+                    <l n="s-inn.x.illbk.02.18" justify="left">And silent by them stands.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.19" justify="left">They look upon his eyes</l>
+                    <l n="s-inn.x.illbk.02.20" justify="left">Fill'd with deep surprise:</l>
+                    <l n="s-inn.x.illbk.02.21" justify="left">And wondering behold,</l>
+                    <l n="s-inn.x.illbk.02.22" justify="left">A spirit arm'd in gold.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.23" justify="left">On his head a crown</l>
+                    <l n="s-inn.x.illbk.02.24" justify="left">On his shoulders down.</l>
+                    <l n="s-inn.x.illbk.02.25" justify="left">Flow'd his golden hair.</l>
+                    <l n="s-inn.x.illbk.02.26" justify="left">Gone was all their care.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.27" justify="left">Follow me he said,</l>
+                    <l n="s-inn.x.illbk.02.28" justify="left">Weep not for the maid;</l>
+                    <l n="s-inn.x.illbk.02.29" justify="left">In my palace deep,</l>
+                    <l n="s-inn.x.illbk.02.30" justify="left">Lyca lies asleep.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.31" justify="left">Then they followed,</l>
+                    <l n="s-inn.x.illbk.02.32" justify="left">Where the vision led:</l>
+                    <l n="s-inn.x.illbk.02.33" justify="left">And saw their sleeping child.</l>
+                    <l n="s-inn.x.illbk.02.34" justify="left">Among tygers wild.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.02.35" justify="left">To this day they dwell</l>
+                    <l n="s-inn.x.illbk.02.36" justify="left">In a lonely dell,</l>
+                    <l n="s-inn.x.illbk.02.37" justify="left">Nor fear the wolvish howl,</l>
+                    <l n="s-inn.x.illbk.02.38" justify="left">Nor the lions growl.</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.03" dbi="s-inn.X.P3-18">
+            <objtitle>
+                <title type="transcribed">The Divine Image</title>,
+<objid>
+                    <objnumber code="A3">object 3 </objnumber>
+                    <objcode code="B18">(Bentley 18, </objcode>
+                    <objcode code="E18">Erdman 18, </objcode>
+                    <objcode code="K18">Keynes 18)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.2 x 7.0 cm.</objsize>
+                <windowsize height="582" width="364"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>A serpentine plant-like structure with
+flame-like leaves, apparently rooted at right in the strip of
+grassy ground lower right, grows along the ground under the last stanza and then up
+the left margin.  Between 
+stanzas three and four the plant forks.  One part continues up the
+left margin and ends under the 
+title.  Another part of the plant curves between the third and
+fourth stanzas and crosses into the 
+right margin, curves back over the title and ends in an upward
+flourish at top left.  The large plant 
+is encircled in its upper reaches by a leafy vine that is rooted,
+like the plant itself, at the bottom 
+right corner.  From there the vine climbs up the right margin right
+of the standing figure and then, 
+after arching over the figure's head, onto the flame-like plant,
+which the vine continues to climb, finally terminating just left of
+the title.  A second vine, much shorter, appears in front of the
+plant at the bottom of the plate, left of the reclining figure. 
+There are several human 
+figures on and around the plants: (at top left) a gowned female
+with long hair walks right; a second gowned female with long hair
+floats behind her, pointing right; two figures kneel side by side,
+facing right, hands raised in prayer; (at bottom right) a gowned
+figure stands, with an arm extended, perhaps touching the left hand
+of a nude(?) male figure to the left, who reclines 
+with his right arm braced for support, his left raised vertically;
+below and in front of this pair, a 
+third figure, perhaps a nude female, reclines, supported on her
+left arm.</illusobjdesc>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>pitcher</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm drawn back</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>At top left, a gowned woman with long hair walks and looks
+right; her right arm is drawn back behind her.  Her left arm is at her side and she may be holding an object in her left hand, possibly a pitcher.  Another gowned female with long hair hovers behind her,
+pointing right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>gown</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>praying</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>Two gowned figures kneel side by side, facing right,
+hands raised in prayer.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>male</characteristic>
+                        <characteristic>Christ</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>Adam</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>Eve</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <illusobjdesc>At bottom right, a figure in a high-waisted gown
+stands, with an arm extended, perhaps touching the left hand of a
+short-haired male figure to the left, who reclines with his right
+arm braced for support, his left raised vertically toward the hand
+of the standing figure.  He is probably nude.  Below and in front of the male pair,
+a third figure, perhaps a nude female, reclines, supported on her
+left arm.  Her body faces forward, and her head appears to be turned slightly to the right and down.  The male and female conceivably represent Adam and Eve;
+the standing gowned figure may be Christ.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>plant</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>serpentine</characteristic>
+                        <characteristic>flame-like</characteristic>
+                        <illusobjdesc>A serpentine plant-like structure with flame-like
+leaves, apparently rooted at bottom right, grows along the ground
+under the last stanza and then up the left margin.  Between 
+stanzas three and four the plant forks.  One part continues up the
+left margin and ends under the title.  Another part of the plant
+curves between the third and fourth stanzas and crosses into the
+right margin, curves back over the title and ends in an upward curl
+at top left.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <characteristic>climbing</characteristic>
+                        <characteristic>encircling</characteristic>
+                        <illusobjdesc>The large plant is encircled in its upper reaches by
+a leafy vine that is rooted, like the plant itself, at the bottom
+right corner.  From there the vine climbs up the right margin
+behind the standing figure and then, after arching over the
+figure's head, onto the flame-like plant (sending out 
+occasional tendrils to the left, into the spaces left by short
+lines of the poem) until it terminates in a 
+cluster of leaves that dangles just left of the title.  A second
+vine, much shorter, appears in front of the plant at the bottom of
+the plate, left of the reclining figure.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc>The flame-like plant and vine are apparently rooted
+at bottom left in a small strip of grassy ground.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.03.01" justify="left">The Divine Image.</l>
+                </texthead>
+                <vspace extent="4"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.03.02" justify="left" indent="3">To Mercy Pity Peace and Love,</l>
+                    <l n="s-inn.x.illbk.03.03" justify="left" indent="3">All pray in their distress:</l>
+                    <l n="s-inn.x.illbk.03.04" justify="left" indent="3">And to these virtues of delight</l>
+                    <l n="s-inn.x.illbk.03.05" justify="left" indent="3">Return their thankfulness.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.03.06" justify="left" indent="3">For Mercy Pity Peace and Love,</l>
+                    <l n="s-inn.x.illbk.03.07" justify="left" indent="3">Is God our father dear:</l>
+                    <l n="s-inn.x.illbk.03.08" justify="left" indent="3">And Mercy Pity Peace and Love.</l>
+                    <l n="s-inn.x.illbk.03.09" justify="left" indent="3">Is Man his child and care.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.03.10" justify="left" indent="3">For Mercy has a human heart</l>
+                    <l n="s-inn.x.illbk.03.11" justify="left" indent="3">Pity, a human face:</l>
+                    <l n="s-inn.x.illbk.03.12" justify="left" indent="3">And Love, the human form divine.</l>
+                    <l n="s-inn.x.illbk.03.13" justify="left" indent="3">And Peace, the human dress.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.03.14" justify="left" indent="3">Then every man of every clime,</l>
+                    <l n="s-inn.x.illbk.03.15" justify="left" indent="3">That prays in his distress,</l>
+                    <l n="s-inn.x.illbk.03.16" justify="left" indent="3">Prays to the human form divine</l>
+                    <l n="s-inn.x.illbk.03.17" justify="left" indent="3">Love Mercy Pity Peace.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.03.18" justify="left" indent="3">And all must love the human form,</l>
+                    <l n="s-inn.x.illbk.03.19" justify="left" indent="3">In heathen, turk or jew,</l>
+                    <l n="s-inn.x.illbk.03.20" justify="left" indent="3">Where Mercy. Love &amp; Pity dwell</l>
+                    <l n="s-inn.x.illbk.03.21" justify="left" indent="3">There God is dwelling too.</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.04" dbi="s-inn.X.P4-25">
+            <objtitle>
+                <title type="transcribed">Infant Joy</title>,
+<objid>
+                    <objnumber code="A4">object 4 </objnumber>
+                    <objcode code="B25">(Bentley 25, </objcode>
+                    <objcode code="E25">Erdman 25, </objcode>
+                    <objcode code="K25">Keynes 25)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.1 x 6.8 cm.</objsize>
+                <windowsize height="577" width="354"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Rooted at the lower right edge of the plate, a
+leafy, blooming plant with two major stems embraces the text of the
+poem above.  The lesser stem, which culminates in a closed blossom
+or unopened bud, grows in an s-curve up the right margin.  The
+greater stem curves left and then up the left margin.  It 
+culminates in a large and lavish blossom whose flame-like petals
+open into the space above the text.  Within the blossom, in place
+of stamens and pistils, are three figures.  At left, a long-haired,
+gowned female sits holding an infant.  Facing right, she looks down
+at it as she rests her right arm 
+across it.  To the right, facing them, stands a winged and gowned
+female angel who looks down at the infant and holds her hands out
+toward it.  Each of her small wings is marked with a dot.  The
+infant and seated mother(?) may be identified with the two speakers
+of the poem; there, the infant names 
+itself "Joy" (line 6).  A third stem of the plant, with no blossom
+but with large leaves, grows across the bottom of the 
+plate alongside the major stem; in the center-left margin yet
+another stem sprouts from the main one.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>mother</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>infant</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>Within the blossom, in place of stamens and pistils,
+are three figures.  At left, a long-haired, gowned female sits
+holding a nude infant.  Facing right, she looks down at it as she
+rests her right arm across it.  To the right, facing them, stands
+a winged and gowned female angel who looks down at the infant and
+holds her hands out toward it.  The infant and seated mother(?) may
+be identified with the two speakers of the poem; there, the infant
+names itself "Joy" (line 6).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>plant</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>flame-like</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>petal</characteristic>
+                        <characteristic>bud</characteristic>
+                        <illusobjdesc>Rooted at the lower right edge of the plate, a
+leafy, blooming plant with two major stems embraces the text of the
+poem above.  The lesser stem, which culminates in a drooping closed
+blossom or unopened bud, grows in an s-curve up the right
+margin.  The greater stem curves left and then up the left margin. 
+It culminates in a large and lavish blossom whose flame-like petals
+open into the space above the text.  Within the blossom, in place
+of stamens and pistils, are three figures.  A third stem of the
+plant, with no blossom but with large leaves, grows across the
+bottom of the plate alongside the major stem; in the middle-left
+margin yet another stem sprouts from the main one.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>sky</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <illusobjdesc>Yellow background coloring throughout the plate suggests sky.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.04.01" justify="left">Infant Joy</l>
+                </texthead>
+                <vspace extent="6"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.04.02" justify="left" indent="2">I have no name</l>
+                    <l n="s-inn.x.illbk.04.03" justify="left" indent="2">I am but two days old.__</l>
+                    <l n="s-inn.x.illbk.04.04" justify="left" indent="2">What shall I call thee?</l>
+                    <l n="s-inn.x.illbk.04.05" justify="left" indent="2">I happy am</l>
+                    <l n="s-inn.x.illbk.04.06" justify="left" indent="2">Joy is my name,__</l>
+                    <l n="s-inn.x.illbk.04.07" justify="left" indent="2">Sweet joy befall thee!</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.04.08" justify="left" indent="2">Pretty joy!</l>
+                    <l n="s-inn.x.illbk.04.09" justify="left" indent="2">Sweet joy but two days old,</l>
+                    <l n="s-inn.x.illbk.04.10" justify="left" indent="2">Sweet joy I call thee;</l>
+                    <l n="s-inn.x.illbk.04.11" justify="left" indent="2">Thou dost smile.</l>
+                    <l n="s-inn.x.illbk.04.12" justify="left" indent="2">I sing the while</l>
+                    <l n="s-inn.x.illbk.04.13" justify="left" indent="2">Sweet joy befall thee.</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.05" dbi="s-inn.X.P5-16">
+            <objtitle>
+                <title type="transcribed">A Cradle Song</title>,
+<objid>
+                    <objnumber code="A5">object 5 </objnumber>
+                    <objcode code="B16">(Bentley 16, </objcode>
+                    <objcode code="E16">Erdman 16, </objcode>
+                    <objcode code="K16">Keynes 16)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.3 x 7.2 cm.</objsize>
+                <windowsize height="588" width="374"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="interlinear" location="E">
+                    <illusobjdesc>Indeterminate (but varied) vegetation interspersed
+with tiny
+human figures surrounds the text, especially left, right, and top,
+and fills
+spaces between all the stanzas.  There are three
+figures in the letters "A," "C," and "D" of the title (line 1); five(?) in
+the left
+margin; and five(?) in the right.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>leaning</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>piper</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>There are three figures in the letters of the title (line 1):
+a piper, facing left, playing(?) as he leans against 
+the left side of the "A"; a figure, facing right, sitting inside the "C"; and a
+figure standing, probably facing forward, inside the "D."</illusobjdesc>
+                    </component>
+                    <component type="object" location="A">
+                        <characteristic>pipe</characteristic>
+                        <illusobjdesc>A piper plays his pipe(?) as he leans against the
+letter "A" in the title (line 1).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>reading</characteristic>
+                        <characteristic>book</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>hunched over</characteristic>
+                        <characteristic>head up</characteristic>
+                        <illusobjdesc>There are five(?) figures in the left margin (top to
+bottom): a gowned woman 
+standing with her arm raised vertically beside the second stanza;
+a small winged(?) figure--very lightly printed in this copy--next to "Hover" 
+(line 11), and just beneath it a sitting, hunched over figure, possibly reading a book; a seated, gowned,
+hunched over
+figure, facing right, with head lowered and at least one arm on its lap, left of
+the fifth stanza; and, beside the sixth stanza, possibly a standing
+figure with its arm raised.  This final figure tends to merge with
+the vegetation in this copy.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>head down</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arm behind back</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>hand on knee</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>head down</characteristic>
+                        <illusobjdesc>There are five(?) figures visible in the right margin
+(top to bottom): a gowned figure seated, with head down, right of
+line 4; a gowned female(?) figure lying horizontally, arm extended,
+in the flame-like vegetation to the right of lines 5 and 6;
+possibly a figure standing in the vines right of lines 10-11, legs
+spread and arms raised to hold the vegetation above; a figure
+seated facing left on a vine right of lines 15-16 with one arm
+behind its back and braced against the vine, the other arm extended
+with the hand on the knee; and a figure walking right at the end of
+lines 16-17.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>flame-like</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>spiral</characteristic>
+                        <illusobjdesc>Indeterminate vegetation of various sorts
+interspersed with tiny human figures surrounds the text, especially
+left, right, and top, and fills spaces between all the stanzas.  The dominant form is perhaps the vegetation with flame-like leaves
+that swirls in the spaces of the right margin (with a more
+conventional leaf or two at bottom right), underneath the title,
+and down the left margin.  Tendrils extending from both margins
+help separate the stanzas from one another.  The vine right of the
+final stanza on the plate has several loops suggesting a spiral. 
+The vine full of leaves and flowers(?) that extends across the top
+of the plate above the title and fills the top right corner and the
+space right of the first stanza is distinct from the flame-like 
+vegetation that dominates the rest of the plate.  Extensions of
+letters in the title (line 1) contribute to both forms of vegetation: the
+initial "A" and "C" to the vine above, the "S" to both.  In the
+text of the poem, occasional letters have modest decorative
+extensions, and there are a few bits of stray decorative
+vegetation.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.05.01" justify="left" indent="5">A CRADLE SONG</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.05.02" justify="left">Sweet dreams form a shade,</l>
+                    <l n="s-inn.x.illbk.05.03" justify="left">O'er my lovely infants head.</l>
+                    <l n="s-inn.x.illbk.05.04" justify="left">Sweet dreams of pleasant streams,</l>
+                    <l n="s-inn.x.illbk.05.05" justify="left">By happy silent moony beams</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.05.06" justify="left">Sweet sleep with soft down,</l>
+                    <l n="s-inn.x.illbk.05.07" justify="left">Weave thy brows an infant crown,</l>
+                    <l n="s-inn.x.illbk.05.08" justify="left">Sweet sleep Angel mild,</l>
+                    <l n="s-inn.x.illbk.05.09" justify="left">Hover o'er my happy child.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.05.10" justify="left">Sweet smiles in the night,</l>
+                    <l n="s-inn.x.illbk.05.11" justify="left">Hover over my delight.</l>
+                    <l n="s-inn.x.illbk.05.12" justify="left">Sweet smiles Mothers smiles</l>
+                    <l n="s-inn.x.illbk.05.13" justify="left">All the livelong night beguiles.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.05.14" justify="left">Sweet moans, dovelike sighs,</l>
+                    <l n="s-inn.x.illbk.05.15" justify="left">Chase not slumber from thy eyes,</l>
+                    <l n="s-inn.x.illbk.05.16" justify="left">Sweet moans. sweeter smiles.</l>
+                    <l n="s-inn.x.illbk.05.17" justify="left">All the dovelike moans beguiles.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.05.18" justify="left">Sleep sleep happy child.</l>
+                    <l n="s-inn.x.illbk.05.19" justify="left">All creation slept and smil'd,</l>
+                    <l n="s-inn.x.illbk.05.20" justify="left">Sleep sleep, happy sleep,</l>
+                    <l n="s-inn.x.illbk.05.21" justify="left">While o'er thee thy mother weep</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.05.22" justify="left">Sweet babe in thy face.</l>
+                    <l n="s-inn.x.illbk.05.23" justify="left">Holy image I can trace.</l>
+                    <l n="s-inn.x.illbk.05.24" justify="left">Sweet babe once like thee.</l>
+                    <l n="s-inn.x.illbk.05.25" justify="left">Thy maker lay and wept for me</l>
+                </lg>
+                <textfoot justify="left">
+                    <l n="s-inn.x.illbk.05.26" justify="left" indent="35">
+                        <catchword>Wept</catchword>
+                    </l>
+                </textfoot>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.06" dbi="s-inn.X.P6-17">
+            <objtitle>
+                <title type="transcribed">A CRADLE SONG (continued)</title>,
+<objid>
+                    <objnumber code="A6">object 6 </objnumber>
+                    <objcode code="B17">(Bentley 17, </objcode>
+                    <objcode code="E17">Erdman 17, </objcode>
+                    <objcode code="K17">Keynes 17)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.1 x 7.0 cm.</objsize>
+                <windowsize height="577" width="364"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>From a sitting position in a curved-back chair, a
+female nurse or mother dressed in a high-waisted gown and hat or
+headdress of some sort leans over a swaddled infant who sleeps in
+a hooded wicker cradle.  The infant's pillow suggests a halo, and
+the speaker of the poem proposes an identification of the infant
+with Christ: "Infant smiles are his own smiles" (line 7).  A carpet
+with a complex pattern covers the floor, with dark shadows below
+the woman and cradle.  Fabric hung between vertical uprights creates a
+curtain-like screen in the background.</illusobjdesc>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>mother</characteristic>
+                        <characteristic>nurse</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>scarf</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arms folded</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>From a sitting position in a curved-back chair, a
+female nurse or mother, dressed in a high-waisted gown and hat,
+scarf, or headdress of some sort, leans over an infant in a cradle. 
+She faces right; at least her right arm, and probably her left, are
+folded in front of her.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>infant</characteristic>
+                        <characteristic>Christ</characteristic>
+                        <characteristic>swaddled</characteristic>
+                        <characteristic>halo</characteristic>
+                        <characteristic>sleeping</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>A nurse or mother leans over a swaddled infant who
+sleeps in a cradle.  The configuration of the infant's pillow
+suggests a halo, and the speaker of the poem proposes an 
+identification of the smiling infant with Christ: "Infant smiles
+are his own smiles" 
+(line 7).</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>pillow</characteristic>
+                        <illusobjdesc>The configuration of the infant's pillow suggests a
+halo.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>cradle</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>wicker</characteristic>
+                        <characteristic>hood</characteristic>
+                        <illusobjdesc>An infant sleeps in a wicker cradle with a hood that
+arches over the infant's head.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>carpet</characteristic>
+                        <characteristic>dark</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>A carpet with an elaborate pattern covers the floor. 
+Dark shadows fall over it beneath the cradle and on the left beneath the woman.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>curtain</characteristic>
+                        <illusobjdesc>Fabric hung between vertical uprights creates a
+curtain-like screen in the background.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>chair</characteristic>
+                        <illusobjdesc>The mother or nurse sits in a curved-back
+chair.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="AB">
+                    <illusobjdesc>The two dominant kinds of vegetation from the
+previous object reappear here: a vine-like tendril over the text
+that ends in a flourish of flame-like leaves in the top right
+corner; and a second tendril that separates the two stanzas and
+expands into an extravagant cluster with shorter leaves and a large
+loop (after a small loop above "on" in line 5) in the right margin
+beside the second stanza.  There are other bits of vegetation in
+the left margin and beneath the text.  In the left margin there are
+four human figures: beside the first stanza, a gowned woman(?) 
+stands with an infant(?) in her arms; left of lines 5-6 is a
+running or leaping figure facing right with its legs spread and arms raised horizontally; and left
+of line 7 is a small gowned figure facing, and perhaps walking,
+left, also with its legs spread.</illusobjdesc>
+                    <component type="vegetation" location="AB">
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>flame-like</characteristic>
+                        <illusobjdesc>The two dominant kinds of vegetation from the
+previous object reappear here: a vine-like tendril over the text
+that ends in a flourish of flame-like leaves in the top right
+corner; and a second tendril that separates the two stanzas and
+expands into an extravagant cluster with shorter 
+leaves and a large loop (after a small loop above "on" in line 5)
+in the right margin beside the second stanza.  There are other
+bits of vegetation in the right margin and beneath the text.  Two
+of these are extensions of letters in the text: the "S" of "Smiles"
+(line 5) and the "p" of "peace" (line 8).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>mother</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>infant</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>Left of the first stanza, a gowned woman(?) stands,
+facing right, with an infant(?) in her arms.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>hovering</characteristic>
+                        <characteristic>striding</characteristic>
+                        <characteristic>leaping</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <illusobjdesc>Left of lines 5-6, a small figure strides or leaps or
+hovers in the air, facing right.  Its legs are spread apart and its
+arms raised horizontally.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>infant</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <illusobjdesc>A tiny figure, perhaps gowned, hovers or walks to the
+left just left of line 7.  Its legs are spread apart.  This may be the "infant" referenced in
+the first word of line 7.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.06.01" justify="left">Wept for me for thee for all,</l>
+                    <l n="s-inn.x.illbk.06.02" justify="left">When he was an infant small.</l>
+                    <l n="s-inn.x.illbk.06.03" justify="left">Thou his image ever see,</l>
+                    <l n="s-inn.x.illbk.06.04" justify="left">Heavenly face that smiles on thee,</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.06.05" justify="left">Smiles on thee on me on all,</l>
+                    <l n="s-inn.x.illbk.06.06" justify="left">Who became an infant small,</l>
+                    <l n="s-inn.x.illbk.06.07" justify="left">Infant smiles are his own smiles.</l>
+                    <l n="s-inn.x.illbk.06.08" justify="left">Heaven &amp; earth to peace beguiles</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.07" dbi="s-inn.X.P7-13">
+            <objtitle>
+                <title type="transcribed">The Little Boy Lost</title>,
+<objid>
+                    <objnumber code="A7">object 7 </objnumber>
+                    <objcode code="B13">(Bentley 13, </objcode>
+                    <objcode code="E13">Erdman 13, </objcode>
+                    <objcode code="K13">Keynes 13)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.8 x 7.2 cm.</objsize>
+                <windowsize height="614" width="374"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="AB">
+                    <illusobjdesc>In the darkness, a small boy in a gown holds his arms
+out toward a triangle of light at the left.  He is presumably the
+"Little Boy lost" (line 1), who in the text mistakes a "vapour" (line 9: i.e.,
+will o' the wisp) for his "father" (lines 2, 4).  A tree rises on
+the right and branches over the child's head.  The cave-like
+background may be formed of vegetation.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>little boy lost</characteristic>
+                        <characteristic>pursuing</characteristic>
+                        <illusobjdesc>In the darkness, a small boy in a gown holds his arms
+out toward a triangle of light on the left.  The dark wash above
+his head might indicate a hat.  He is presumably the "Little Boy
+lost" (line 1).  His hair appears to be curly.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>leafless</characteristic>
+                        <illusobjdesc>A leafless tree grows on the right.  One branch extends above the child.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>darkness</characteristic>
+                        <characteristic>night</characteristic>
+                        <characteristic>cave</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>The boy wanders at night in the darkness.  The cave-like background may be formed of vegetation.</illusobjdesc>
+                    </component>
+                    <component type="object" location="A">
+                        <characteristic>light</characteristic>
+                        <characteristic>triangle</characteristic>
+                        <characteristic>vapor</characteristic>
+                        <characteristic>will o' the wisp</characteristic>
+                        <illusobjdesc>A small boy holds his arms out toward a triangle of
+light at the left.  He is presumably the "Little Boy lost" (line 1), who in
+the text mistakes a "vapour" (line 9: i.e., will o' the wisp) 
+for his "father" (lines 2, 4).</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="CD">
+                    <illusobjdesc>The text is surrounded on the bottom and sides by six
+angels, four winged.  The letters of the title sprout vegetative
+extensions, and there are other bits of vegetation amidst the
+angels (notably at the bottom), between the quatrains of the poem,
+and at the ends of shorter lines.  There are also two seated
+figures in the title letters, one facing left on the "L" of
+"Little" (line 1) and one with raised arm in the "B" of "Boy."  There are four flying birds and a
+swan or duck among the lines of the title and the first
+stanza.</illusobjdesc>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>banner</characteristic>
+                        <characteristic>flag</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>walking</characteristic>
+                        <illusobjdesc>The text is surrounded on the bottom and sides by six
+angels, all probably female.  They are symmetrically arranged, two
+beside each stanza and two, aligned foot to foot, beneath.  They
+are all gowned, and the four in the right and left margins
+have wings.  The two in the right margin have their arms at their
+sides; the two wingless figures below float or fly horizontally
+with one arm raised (with banners or flags of drapery arranged
+symmetrically); the lower figure in the left margin has its arms by
+its side; the upper figure on that side faces right, has its left
+arm raised vertically, and may be pointing to the scene
+above.  The upper figure on the right may be facing and walking toward the left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>leg dangling</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <illusobjdesc>There are two figures sitting in the title letters,
+one facing left, with bent arm raised to its head and at least one leg dangling, on the "L" of
+"Little" (line 1), the other sitting with arm raised at about 135 degrees in
+the "B" of "Boy."  There might be a figure, seen from behind,
+reclining on the lower curve of the "B."</illusobjdesc>
+                    </component>
+                    <component type="animal" location="CD">
+                        <characteristic>bird</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>swan</characteristic>
+                        <characteristic>duck</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>Four birds fly among the lines of the title and the
+first stanza: over "lost" in the title (line 1), over "where" and "going" in
+line 2, and after "fast" in line 3.  There is a swan or duck, facing right, above the "y" of "Boy."</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>loop</characteristic>
+                        <illusobjdesc>The letters of the title sprout vine-like vegetative
+extensions that extend above most of the title (line 1).  The "y" of "Boy"
+is extended, and an unattached clump of plant-like decoration
+surrounds the right end of the title.  There are other bits of
+leafy (and/or flowery) vegetation around the two figures at the
+bottom, between the quatrains of the poem, and at the ends of
+shorter lines.  There is a particularly loopy, leafy tendril after
+line 5 and between the 
+two stanzas.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="6"/>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.07.01" justify="left" indent="5">The Little Boy lost</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.07.02" justify="left">Father. father. where are you going</l>
+                    <l n="s-inn.x.illbk.07.03" justify="left">O do not walk so fast,</l>
+                    <l n="s-inn.x.illbk.07.04" justify="left">Speak father. speak to your little boy</l>
+                    <l n="s-inn.x.illbk.07.05" justify="left">Or else I shall be lost,</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.07.06" justify="left">The night was dark no father was there</l>
+                    <l n="s-inn.x.illbk.07.07" justify="left">The child was wet with dew,</l>
+                    <l n="s-inn.x.illbk.07.08" justify="left">The mire was deep, &amp; the child did weep</l>
+                    <l n="s-inn.x.illbk.07.09" justify="left">And away the vapour flew</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.08" dbi="s-inn.X.P8-14">
+            <objtitle>
+                <title type="transcribed">The Little Boy Found</title>,
+<objid>
+                    <objnumber code="A8">object 8 </objnumber>
+                    <objcode code="B14">(Bentley 14, </objcode>
+                    <objcode code="E14">Erdman 14, </objcode>
+                    <objcode code="K14">Keynes 14)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.7 x 7.2 cm.</objsize>
+                <windowsize height="608" width="374"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="AB">
+                    <illusobjdesc>In a dark landscape dominated by the trunks of three
+large trees, a long-haired adult 
+figure, visually ambiguous but male according to the text, dressed
+in a high-waisted long gown 
+holds the arm of a gowned child.  The two figures look at one
+another as they walk forward, on 
+rather barren ground, toward the viewer.  A thin halo appears above
+the adult's head; the child appears to be wearing a hat with a
+halo-like brim.  The child raises his
+right arm to hold the adult's arm.  The text describes the 
+"little boy lost" who is "by the hand led" to safety by "God . . .
+like his father in white" (lines 2-6).</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>halo</characteristic>
+                        <characteristic>God</characteristic>
+                        <characteristic>Christ</characteristic>
+                        <characteristic>father</characteristic>
+                        <illusobjdesc>A long-haired adult figure in a high-waisted long
+gown--visually ambiguous 
+though the reference to "God . . . like his father" (lines 4-5)
+suggests that he is male--walks beside
+a boy whose arm he holds (he holds his opposite arm by his side). 
+The thin rim of a halo appears above his head.  If this is God, it is very probably Christ, given the similarities
+between this figure and several of Blake's other representations of
+Christ.  Both feet are exposed; his left 
+foot is forward.  He looks down toward the boy.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>little boy lost</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>halo</characteristic>
+                        <illusobjdesc>The two figures walk forward toward the viewer.  A
+gowned male child with short hair and a hat suggestive of a halo walks forward toward the viewer
+beside a similarly dressed adult whose arm he holds and up at whom
+he looks.  The child raises his left arm at 45 
+degrees, his right at 135 degrees.  He steps forward with his right leg.
+The text describes the "little boy lost" who
+is "by the hand led" to safety by "God . . . like his father in
+white" (lines 2-6).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>branch</characteristic>
+                        <illusobjdesc>A dark landscape--the "lonely dale" (line 8) of the
+text--is dominated by three large and ominous tree trunks--two left
+and one right--without visible leaves or other vegetation.  The
+trunks and branches arch to create a kind of dark tunnel in which the two
+figures walk.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>darkness</characteristic>
+                        <characteristic>night</characteristic>
+                        <characteristic>hill</characteristic>
+                        <characteristic>mountain</characteristic>
+                        <illusobjdesc>The darkness suggests that the time is still the
+"night" (line 6) specified in "The Little Boy lost" (object
+7).  What may be the crest of a hill or mountain above the child's head divides
+                  the dark landscape from the gray sky.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="CD">
+                    <illusobjdesc>A gowned angelic spirit with long hair flies with
+arms outstretched, facing left, in the right 
+margin.  Her gown and a loop of drapery (or part of her gown) right of her back trail
+behind her.  The letters of the title sprout vine-like vegetative
+extensions that extend above and below most of the title and into
+the left margin; another group of detached vegetative decorations
+fills the space below the poem and up the right margin to the
+angelic spirit.  Another loopy vine descends in the left
+margin.</illusobjdesc>
+                    <component type="figure" location="D">
+                        <characteristic>angel</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mother</characteristic>
+                        <illusobjdesc>A gowned angelic spirit, probably female, floats with
+arms outstretched, facing left, in the right margin.  She looks
+sharply upward, as if at the design above.  Her gown and a loop of
+drapery (or part of her gown) right of her back trail behind her.  This may be the
+child's "mother" (line 7) to whom he is led.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>vine</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <illusobjdesc>The letters of the title sprout vine-like vegetative
+extensions that extend above and below most of the title.  The
+capital letters of the title all have such extensions.  The "y" of
+"Boy" (line 1) extends far to the left and down the left margin, and the
+vertical stroke of the "d" of "Found" is extravagantly extended to
+fill the space above the angel.  Another cluster of vine-like
+decorations begins in the right margin in front of the legs of the
+angel and extends downward (with loops and at least one leaf) into the space
+below the 
+poem.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="6"/>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.08.01" justify="left" indent="5">The Little Boy Found</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.08.02" justify="left">The little boy lost in the lonely fen,</l>
+                    <l n="s-inn.x.illbk.08.03" justify="left">Led by the wand'ring light,</l>
+                    <l n="s-inn.x.illbk.08.04" justify="left">Began to cry, but God ever nigh,</l>
+                    <l n="s-inn.x.illbk.08.05" justify="left">Appeard like his father in white,</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.08.06" justify="left">He kissed the child &amp; by the hand led</l>
+                    <l n="s-inn.x.illbk.08.07" justify="left">And to his mother brought,</l>
+                    <l n="s-inn.x.illbk.08.08" justify="left">Who in sorrow pale thro' the lonely dale<note>The comma, etched on the plate after "pale", did not print in copy X.</note>
+                    </l>
+                    <l n="s-inn.x.illbk.08.09" justify="left">Her little boy weeping sought.</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.09" dbi="s-inn.X.P9-24">
+            <objtitle>
+                <title type="transcribed">Nurse's Song</title>
+                <title type="alt">Nurses Song</title>,
+<objid>
+                    <objnumber code="A9">object 9 </objnumber>
+                    <objcode code="B24">(Bentley 24, </objcode>
+                    <objcode code="E24">Erdman 24, </objcode>
+                    <objcode code="K24">Keynes 24)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.5 x 7.8 cm.</objsize>
+                <windowsize height="598" width="406"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="CD">
+                    <illusobjdesc>At the bottom, under the lower limb of a tree with a few leaves, seven
+children--four boys and two, probably 
+three, girls--hold hands and play, or perhaps dance, in an
+incomplete circle.  The two children furthest left stretch something, perhaps a piece of cloth, between them.  
+A matron-figure in cap and gown, evidently the nurse of the title, sits on the ground against the trunk and 
+reads a book in her lap.  To the right is a second tree, slimmer and more obviously leafy, with a vine around 
+its trunk.  There are two "hills" (line 13) in the background with a notch between them.  A dark shadow falls 
+across the foreground.  The coloring of the sky indicates a sunset (line 6).</illusobjdesc>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arms raised at 135 degrees</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>dancing</characteristic>
+                        <characteristic>running</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>striding</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <illusobjdesc>Seven children hold hands and play vigorously, or
+perhaps dance, in an incomplete circle.  Clockwise from the left: the two children furthest left (a
+girl[?] and a boy) stretch something, perhaps a piece of cloth used
+in a game, between them; a girl raises her arms horizontally and
+faces right with legs outspread; a boy raises his arms 
+higher, as does the long-haired(?) girl to the right of him, whose
+leg is extended behind her; holding her hand, a boy runs left and reaches forward to hold the hand of
+another running or striding boy, left leg extended behind him, who raises his free left hand as he
+moves left and back, perhaps toward the opening between the pair furthest left.  All the girls
+wear gowns; all the boys apparently wear tight-fitting garments, though the next-to-last boy appears to wear a shirt and breeches.  These are the "little ones" who "leaped &amp;
+shouted &amp; laugh'd" (line 16) and remonstrate with the nurse in the poem.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>nurse</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>reading</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>lap</characteristic>
+                        <characteristic>arms on lap</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head down</characteristic>
+                        <illusobjdesc>Facing right, a matron-figure in cap and gown,
+evidently the nurse of the title who 
+remonstrates with the children of the poem, sits on the ground or
+a low seat against the trunk of a 
+tree and reads a book that she holds in her lap.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>tree</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc>On the left is the trunk of a tree whose lowermost
+branch, with a few leaves, spreads over the nurse who sits at the base of
+its trunk.  On the right is a second tree, slimmer and more obviously leafy, with a 
+vine climbing up its trunk.  Between the trees is the grassy "green" of
+line 2.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>hill</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <characteristic>sky</characteristic>
+                        <illusobjdesc>There are two "hills" (line 13) in the background
+with a notch between them.  The coloring of the sky suggests the
+sunset alluded to in the text, line 6.  A dark shadow falls across the foreground.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>book</characteristic>
+                        <illusobjdesc>The nurse reads a book that she holds in her lap.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="E">
+                    <illusobjdesc>On this plate the interlinear designs are especially
+dense around the title, in the margins, and between the three stanzas.  The title area is 
+full of vegetative swirls, curls, and loops, much of it associated with the extravagant extensions of three
+letters, the initial capitals "N" and "S" and the terminal "g" (line 1).  There are also three prominent leafy
+formations in this area: one at the top of the "S," another growing from the "N" of "Nurse's," and the
+third in the top left corner.  Some of the loopy, vine-like decoration dangles in the left margin, and a large 
+leafy structure occupies
+the space at the end of short line 5.  Below it is a leafy weeping
+willow tree that leans right; its branches arch down into what may be water.  Between stanzas (after lines 5, 9, 
+and 13) and, in the right margin, at the ends of short lines are other vinelike structures.  The initial letters of
+stanzas 2, 3, and 4 have extensions that add to the decoration in
+the left margin.  Several human figures populate the network of interlinear vegetation: two on the "N" of "Nurse's," 
+climbing the left stroke and 
+sitting on a leaf at the end of the curling right stroke; one
+reaching downward through the following "u," joining hands with another who reaches up from below; one leaning
+against the "S" of "Song" with head propped on one hand, elbow on
+knee; two beneath "Song" on the long horizontal descender of the
+"g"; one at the top of the "S" of "Song," facing right and reaching overhead to grasp the curling
+vine above; one reclining, with right arm raised horizontally, on the bit
+of vegetation at the end of line 3 and another(?), who merges almost indistinguishably with the
+vegetation in this copy, seated on the leafy structure at the end of line 5.  Between the
+lines there are a few birdlike shapes.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>nude</characteristic>
+                        <characteristic>climbing</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>straddling</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm drawn back</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>standing</characteristic>
+                        <illusobjdesc>Several human figures populate the network of
+interlinear vegetation.  Clockwise from top left: two on the "N" of
+"Nurse's," one (nude?) climbing the left stroke and the other sitting, facing right, 
+on a leaf at the end of the curling right
+stroke; one hovering in the following "u," reaching downward and
+joining hands with another who reaches up from below, where he/she
+is seated, facing left, on the end of the long horizontal descender
+of the "g"; one facing left and leaning, with one leg drawn up,
+against the "S" of "Song"; one standing(?) at the top of the "S" of "Song," facing right
+and reaching overhead to grasp the curling vine above; further up on that same descender, two
+reclining, the one on the left straddling the vegetation; one, right arm
+raised horizontally and the left drawn back for support, reclining on the bit of 
+vegetation at the end of line 3 and another(?), who merges almost indistinguishably
+with the vegetation in this copy, seated on the leafy structure at the end of line
+5.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="CD">
+                        <characteristic>bird</characteristic>
+                        <characteristic>flying</characteristic>
+                        <illusobjdesc>There are two or three birdlike shapes above "for it
+is" in line 10 and another above "hills" in the last
+line (line 17).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>willow</characteristic>
+                        <characteristic>tree</characteristic>
+                        <characteristic>arching</characteristic>
+                        <illusobjdesc>The title area is full of vegetative swirls, curls,
+and loops, much of it associated with the extravagant extensions of
+three letters, the initial capitals "N" and "S" and the terminal
+"g."  There are several long, slender leaves (the descender on the
+"g," for instance), and there are three other prominent leafy
+formations in this area: one at the top of the "S," another growing
+from the "N" of "Nurse's," and the third in the top left corner. 
+Some of the loopy, vine-like decoration dangles in the left margin,
+and a large leafy structure occupies the space at the end of short
+line 5.  Below it is a leafy weeping willow tree that leans right;
+its branches arch down
+into what may be water.  Between stanzas (after lines 5, 9, and 13)
+and, in the right margin, at the ends of short lines are other vine-like structures.  The initial letters of
+stanzas 2, 3, and 4 have extensions that add to the decoration in the left margin.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>water</characteristic>
+                        <illusobjdesc>A few lines may represent water into which the
+branches of the willow descend.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.09.01" justify="left" indent="10">Nurse's Song</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.09.02" justify="left">When the voices of children are heard on the
+green</l>
+                    <l n="s-inn.x.illbk.09.03" justify="left">And laughing is heard on the hill,</l>
+                    <l n="s-inn.x.illbk.09.04" justify="left">My heart is at rest within my breast</l>
+                    <l n="s-inn.x.illbk.09.05" justify="left">And every thing else is still</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.09.06" justify="left">Then come home my children, the sun is gone
+down</l>
+                    <l n="s-inn.x.illbk.09.07" justify="left">And the dews of night arise</l>
+                    <l n="s-inn.x.illbk.09.08" justify="left">Come come leave off play, and let us away</l>
+                    <l n="s-inn.x.illbk.09.09" justify="left">Till the morning appears in the skies</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.09.10" justify="left">No no let us play, for it is yet day</l>
+                    <l n="s-inn.x.illbk.09.11" justify="left">And we cannot go to sleep</l>
+                    <l n="s-inn.x.illbk.09.12" justify="left">Besides in the sky, the little birds fly</l>
+                    <l n="s-inn.x.illbk.09.13" justify="left">And the hills are all coverd with sheep</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.09.14" justify="left">Well well go &amp; play till the light fades
+away</l>
+                    <l n="s-inn.x.illbk.09.15" justify="left">And then go home to bed</l>
+                    <l n="s-inn.x.illbk.09.16" justify="left">The little ones leaped &amp; shouted &amp; laugh'd</l>
+                    <l n="s-inn.x.illbk.09.17" justify="left">And all the hills ecchoed</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.10" dbi="s-inn.X.P10-27">
+            <objtitle>
+                <title type="transcribed">On Anothers Sorrow</title>
+                <title type="alt">On Another's Sorrow</title>,
+<objid>
+                    <objnumber code="A10">object 10 </objnumber>
+                    <objcode code="B27">(Bentley 27, </objcode>
+                    <objcode code="E27">Erdman 27, </objcode>
+                    <objcode code="K27">Keynes 27)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.2 x 7.1 cm.</objsize>
+                <windowsize height="582" width="369"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="interlinear" location="E">
+                    <illusobjdesc>A lithe and leafy tree, rooted bottom right, grows up
+the right edge of the plate.  A vine grows up around its trunk;
+grape clusters are visible opposite stanzas 6 and 7.  At the
+midway point the vine seems to produce the loopy tendril that terminates near the bird with long tail
+feathers that ascends to the right of stanza 6.  Other birds fly to the right of lines 3, 6, and 12.  The
+letters of the title are ornamented with elaborate extensions and
+flourishes.  The three capital letters, along with the "h" of
+"Anothers," which is decorated with a kind of forked top
+above and a long flag below, and the coil following the final "w,"
+are the most notable.  The left margin is dominated by a lattice of
+branches from two thin trees rooted at bottom left.  Leafless below, the branches in the upper reaches of the margin
+carry the suggestion of leaves, and there are very loopy tendrils
+beside the first three stanzas that may be a separate vine or part
+of the tree.  A figure playing a pipe stands next to the right
+tree, lower left.  At the piper's feet is an indistinct shape, possibly a dog(?).  There is a second figure climbing in the
+branches above, opposite stanza 7.  There may also be a third
+figure with arms raised, opposite stanzas 2 and 3, although the
+figure merges with the tendrils in this copy.  A fourth human form,
+left of stanza 1, stands facing right with at least one arm raised. 
+A narrow band of green wash suggests grassy ground just above the
+bottom of the plate.  The background of the plate is colored to suggest a sky, possibly at sunrise or sunset and with a few clouds.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>standing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>piper</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>climbing</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>supplicating</characteristic>
+                        <characteristic>vegetating</characteristic>
+                        <illusobjdesc>There may be as many as four figures in the left
+margin, although only three are clearly pictured in this copy.  A
+figure, facing left, stands at the base of the tree on the left and
+plays a pipe.  A second figure climbs in the branches above,
+opposite stanza 7.  A third, opposite stanzas 2 and 3, raises his
+arms as if in supplication--although in this copy the figure is
+hard to separate from the vines.  The final figure, clearly
+represented left of stanza 1, stands facing right with at least one
+arm raised vertically.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="C">
+                        <characteristic>dog</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>listening</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>An indistinct shape, possibly a dog, sits(?) at the feet of the piper in the lower left corner of the plate; it looks up, perhaps listening to the piper play.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>bird</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>rising</characteristic>
+                        <characteristic>tail</characteristic>
+                        <characteristic>perching</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>A bird with long tail feathers ascends to the right
+of stanza 6.  Three other birds fly to the right of lines 3, 6, and
+12.  There may be a bird, facing left, perched on the branch right of line 5.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>tree</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>grape</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <illusobjdesc>A lithe and leafy tree, rooted bottom right, grows up
+the right margin.  A vine grows up its trunk; at the midway point
+the vine seems to produce the loopy tendril that terminates near
+stanza 6.  The vine bears grape clusters opposite stanzas 6 and
+7.  The letters of the title are ornamented with elaborate extensions
+and flourishes.  The three capital letters, along with the "h" of
+"Anothers," which is decorated with a kind of forked top above and a long flag below,
+and the coil following the final "w," are the most notable.  In the
+left margin is a lattice of branches from two thin trees rooted at
+bottom left.  Leafless below, the branches in the upper reaches of
+the margin carry the suggestion of leaves, and there are very loopy
+tendrils beside the first three stanzas that may be a separate vine
+or part of the tree.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc>A narrow strip of green wash suggests grassy ground just above the bottom of the plate.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>pipe</characteristic>
+                        <illusobjdesc>The standing figure at bottom left is playing a pipe.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>sky</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>The background of the plate is colored to suggest a sky, 
+                     possibly at sunrise or sunset and with a few clouds.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.10.01" justify="left">On Anothers Sorrow</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.10.02" justify="left">Can I see anothers woe.</l>
+                    <l n="s-inn.x.illbk.10.03" justify="left">And not be in sorrow too.</l>
+                    <l n="s-inn.x.illbk.10.04" justify="left">Can I see anothers grief.</l>
+                    <l n="s-inn.x.illbk.10.05" justify="left">And not seek for kind relief.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.10.06" justify="left">Can I see a falling tear.</l>
+                    <l n="s-inn.x.illbk.10.07" justify="left">And not feel my sorrows share,</l>
+                    <l n="s-inn.x.illbk.10.08" justify="left">Can a father see his child.</l>
+                    <l n="s-inn.x.illbk.10.09" justify="left">Weep, nor be with sorrow fill'd.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.10.10" justify="left">Can a mother sit and hear.</l>
+                    <l n="s-inn.x.illbk.10.11" justify="left">An infant groan an infant fear__</l>
+                    <l n="s-inn.x.illbk.10.12" justify="left">No no never can it be.</l>
+                    <l n="s-inn.x.illbk.10.13" justify="left">Never never can it be.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.10.14" justify="left">And can he who smiles on all</l>
+                    <l n="s-inn.x.illbk.10.15" justify="left">Hear the wren with sorrows small.</l>
+                    <l n="s-inn.x.illbk.10.16" justify="left">Hear the small birds grief &amp; care</l>
+                    <l n="s-inn.x.illbk.10.17" justify="left">Hear the woes that infants bear__</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.10.18" justify="left">And not sit beside the nest</l>
+                    <l n="s-inn.x.illbk.10.19" justify="left">Pouring pity in their breast.</l>
+                    <l n="s-inn.x.illbk.10.20" justify="left">And not sit the cradle near</l>
+                    <l n="s-inn.x.illbk.10.21" justify="left">Weeping tear on infants tear.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.10.22" justify="left">And not sit both night &amp; day,</l>
+                    <l n="s-inn.x.illbk.10.23" justify="left">Wiping all our tears away,</l>
+                    <l n="s-inn.x.illbk.10.24" justify="left">O! no never can it be,</l>
+                    <l n="s-inn.x.illbk.10.25" justify="left">Never never can it be.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.10.26" justify="left">He doth give his joy to all,</l>
+                    <l n="s-inn.x.illbk.10.27" justify="left">He becomes an infant small.</l>
+                    <l n="s-inn.x.illbk.10.28" justify="left">He becomes a man of woe</l>
+                    <l n="s-inn.x.illbk.10.29" justify="left">He doth feel the sorrow too.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.10.30" justify="left">Think not. thou canst sigh a sigh,</l>
+                    <l n="s-inn.x.illbk.10.31" justify="left">And thy maker is not by.</l>
+                    <l n="s-inn.x.illbk.10.32" justify="left">Think not, thou canst weep a tear,</l>
+                    <l n="s-inn.x.illbk.10.33" justify="left">And thy maker is not near.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.10.34" justify="left">O! he gives to us his joy.</l>
+                    <l n="s-inn.x.illbk.10.35" justify="left">That our grief he may destroy</l>
+                    <l n="s-inn.x.illbk.10.36" justify="left">Till our grief is fled &amp; gone</l>
+                    <l n="s-inn.x.illbk.10.37" justify="left">He doth sit by us and moan</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.11" dbi="s-inn.X.P11-19">
+            <objtitle>
+                <title type="transcribed">Holy Thursday</title>,
+<objid>
+                    <objnumber code="A11">object 11 </objnumber>
+                    <objcode code="B19">(Bentley 19, </objcode>
+                    <objcode code="E19">Erdman 19, </objcode>
+                    <objcode code="K19">Keynes 19)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.4 x 7.7 cm.</objsize>
+                <windowsize height="593" width="400"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Nine pairs of uniformed boys in coats walk to the
+right across the top of the plate.  The precise positions of the
+children are not always clear.  Some of the boys may be holding one another.  A few of the boys may wear hats (clearest
+on the boy fifth from the left).  They are led by a pair of gowned
+adults, both with hats, one carrying a staff or scepter.  At the bottom of the plate a similar procession occurs, though with seven pairs of girls instead of nine of boys, walking left instead of right, and
+led by a single gowned female(?) figure.  The girls wear
+dresses, possibly with aprons.  The figures altogether represent
+the charity children of the text, "walking two &amp; two" behind the
+"Grey headed beadles" who "walkd before with wands" into St. Paul's
+cathedral "on a Holy Thursday" (lines 2-6).  Washes behind the two processions suggest sunrise or sunset.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>hat</characteristic>
+                        <illusobjdesc>Nine pairs of uniformed boys in coats walk to the
+right across the top of the plate.  The precise positions of the
+children are not always clear.  Some of the boys may be holding one another.  A few of the boys may wear hats or caps (clearest on the boy fifth from the left).  Along with the figures
+at the bottom, these represent the charity children of the text,
+"walking two &amp; two" behind the "Grey headed beadles" (lines
+3-5).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>beadle</characteristic>
+                        <illusobjdesc>The procession of children is led by a pair of robed
+adults, probably male(?), both with hats, one holding a staff or
+scepter.  They are the "Grey headed beadles" who "walkd before with
+wands" (line 5).</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>staff</characteristic>
+                        <characteristic>scepter</characteristic>
+                        <illusobjdesc>A beadle at the head of the procession holds a staff
+or scepter, one of the "wands" (line 5) of the text.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>skirt</characteristic>
+                        <characteristic>apron</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <illusobjdesc>Seven pairs of girls walk left, led by a single adult
+figure.  The girls wear uniform dresses, perhaps with aprons.  They may be wearing hats or head coverings of some sort.  Their positions are not always clear; girls in the fourth and fifth
+pairs from the right gesture with their hands.  Along with the
+figures at the top, these represent the charity children of the text, "walking two &amp; two" behind the "Grey headed
+beadles" who "walkd before with wands" into St. Paul's cathedral
+"on a Holy Thursday" (lines 2-6).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>gown</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>The procession of girls is led by a single gowned
+figure, of indeterminate gender.  The figure appears to be wearing
+a wig or cap.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>hat</characteristic>
+                        <characteristic>wig</characteristic>
+                        <illusobjdesc>The robed figure who is leading the procession may be
+wearing a cap or wig.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <characteristic>sky</characteristic>
+                        <illusobjdesc>Washes behind the processions of figures at the top and bottom of the 
+                     plate suggest sky at sunrise or sunset.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="E">
+                    <illusobjdesc>The text is crowded with a mixture of interlinear
+vegetation, animals, birds, and human figures.  The block letters
+of the title are surrounded by vine-like loops and flame-like leaves (attached to the "H" and "L" of "HOLY" and the "S" and "Y"
+of "THURSDAY" [line 1]) and combinations of those with other long-leaved
+plants (especially under the title).  Many of the
+letters of the long-lined poem have decorative vine-like
+extensions.  After the area around the title, the most extravagant decoration is reserved for the spaces between
+stanzas, where rows of leaves and vines (most of them originating
+in extensions of letters of the text in lines adjacent to the
+spaces) alternate with an occasional bird (below "into the" in line
+6) or human figure (beneath "innocent" in line 10).  Beneath the
+final stanza is another particularly busy area of decoration,
+dominated by vines and leaves but including a bird perching on a
+vine, wings outspread, facing the viewer.  Some of the decorations
+are suggestive of birds (e.g., above "Seated" in line 8 and above
+"their" in line 10) or human figures (e.g., on the sprig of
+vegetation beneath the "Y" of "HOLY") but are more likely to be
+bits of vine or leaf.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>running</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>There is a tiny human figure, running or hovering with arms
+raised horizontally, beneath "innocent" in line 10.  Some of the
+decorations are suggestive of human figures (e.g., on the sprig
+of vegetation beneath the "Y" of "HOLY") but are more likely to be
+bits of vine or leaf.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="E">
+                        <characteristic>bird</characteristic>
+                        <characteristic>eagle</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>perching</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>There are birds beneath "into the" in line 6--flying
+to the right--and beneath "you drive" in line 14--perching and
+facing forward, with wings outspread, on a vine.  The latter bird
+may be an eagle.  Some of the decorations are suggestive of birds
+(e.g., above "Seated" in line 8 and above "their" in line 10) but
+are more likely to be bits of vine or leaf.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>flame-like</characteristic>
+                        <characteristic>loop</characteristic>
+                        <illusobjdesc>The text is crowded with a mixture of interlinear
+vegetation, animals, birds, and human figures.  The block letters
+of the title are surrounded by vine-like loops and flame-like leaves (attached to the "H" and "L" of "HOLY" and the "S" and "Y"
+of "THURSDAY" [line 1]) and combinations of those with other long-leaved
+plants (especially under the title).  Many of the letters of the long-lined poem have decorative vine-like extensions.  After
+the area around the title, the most extravagant decoration is
+reserved for the spaces between stanzas, where rows of leaves and
+vines (most of them originating in extensions of letters of the
+text in lines adjacent to the spaces) alternate with an occasional
+bird or human figure.  Beneath the final stanza is another
+particularly busy area of decoration, dominated by vines and
+leaves.  Some of the decorations are suggestive
+of birds (e.g., above "Seated" in line 8 and above "their" in line
+10) or human figures (e.g., on the sprig of vegetation beneath the
+"Y" of "HOLY") but are equally likely to be bits of vine or
+leaf.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="4"/>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.11.01" justify="left" indent="12">HOLY THURSDAY</l>
+                </texthead>
+                <vspace extent="2"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.11.02" justify="left">Twas on a Holy Thursday their innocent faces
+clean</l>
+                    <l n="s-inn.x.illbk.11.03" justify="left">The children walking two &amp; two in red &amp; blue
+&amp; green </l>
+                    <l n="s-inn.x.illbk.11.04" justify="left" indent="43">(snow</l>
+                    <l n="s-inn.x.illbk.11.05" justify="left">Grey headed beadles walkd before with wands
+as white as</l>
+                    <l n="s-inn.x.illbk.11.06" justify="left">Till into the high dome of Pauls they like
+Thames waters flow</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.11.07" justify="left">O what a multitude they seemd these flowers of
+London town</l>
+                    <l n="s-inn.x.illbk.11.08" justify="left">Seated in companies they sit, with radiance all
+their own</l>
+                    <l n="s-inn.x.illbk.11.09" justify="left">The hum of multitudes was there but multitudes
+of lambs</l>
+                    <l n="s-inn.x.illbk.11.10" justify="left">Thousands of little boys &amp; girls raising their
+innocent hands</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.11.11" justify="left">Now like a mighty wind they raise to heaven
+the voice of song</l>
+                    <l n="s-inn.x.illbk.11.12" justify="left">Or like harmonious thunderings the seats of
+heaven among</l>
+                    <l n="s-inn.x.illbk.11.13" justify="left">Beneath them sit the aged men wise guardians
+of the poor</l>
+                    <l n="s-inn.x.illbk.11.14" justify="left">Then cherish pity, lest you drive an angel
+from your door</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.12" dbi="s-inn.X.P12-54">
+            <objtitle>
+                <title type="transcribed">The Voice of the Ancient Bard</title>,
+<objid>
+                    <objnumber code="A12">object 12 </objnumber>
+                    <objcode code="B54">(Bentley 54, </objcode>
+                    <objcode code="E54">Erdman 54, </objcode>
+                    <objcode code="K54">Keynes 54)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.0 x 6.3 cm.</objsize>
+                <windowsize height="572" width="328"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>A gowned, bearded old man stands, playing a large
+harp, before an audience of perhaps two children--standing in the middle of the group--and six older youths.  He may be the bard of the title.  To the left stand two young females who embrace.  To the right stand the two children and a group of three gowned females who face the bard.  At their feet, facing them, kneels another female.  All the figures appear to be gowned.  The
+scene is set outdoors on a strip of slightly inclined grassy ground with a dark shadow lower right.  A palm-like frond arches over the head of the figure at far right and the vine in the left margin
+of the text dangles down into this major design above the heads of
+the embracing couple.  Background washes suggest sky, possibly at sunset or sunrise with a cloud on the left.</illusobjdesc>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>embracing</characteristic>
+                        <illusobjdesc>At left stands an embracing couple.  The young
+female, with curly hair, faces away from the viewer with her
+visible arm raised vertically to hold the shoulder of her
+companion.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>embracing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm down</characteristic>
+                        <illusobjdesc>At left stands an embracing couple.  Facing left, the
+taller figure might be an older female.  Her hair is short or drawn
+back into a bun.  She looks down at the other figure and holds her
+visible hand on her companion's buttocks.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>shackled</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>bard</characteristic>
+                        <illusobjdesc>A tall, bearded old man in a gown stands facing right
+as he plays a large triangular harp with a bent right arm and a raised left one.  He may be the bard of the title.  His right foot shows beneath the hem of his garment.  In this copy, his right ankle appears to bear a cuff--or perhaps even a shackle with a short length of chain to the right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>child</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>listening</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>In the middle of the group, just right of the old
+man, stand two gowned children (distinctly shorter than their companions).  The listening child to
+the left faces forward and looks up toward the bard or his harp.  The child on the right faces right
+as he looks up toward the threesome to the right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm behind back</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm wrapped around body</characteristic>
+                        <characteristic>listening</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <illusobjdesc>At right stand three young gowned females, at least
+the one on the left with short hair.  They look toward and listen
+to the bard.  The left-most of the three holds her arm, slightly
+bent, at her side and partly behind her back; the 
+right-most faces left and bends her arm up to hold the arm of the
+middle figure.  At their feet and facing away from the viewer
+kneels a fourth young female similarly dressed and coiffured.  Her left arm
+is bent upward, with her left hand raised and fingers spread apart.  She
+looks toward the threesome rather than at the bard.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="B">
+                        <characteristic>palm</characteristic>
+                        <illusobjdesc>Over the head of the figure at far right arches a
+palm-like frond.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc>The green tinting of the ground beneath the figures'
+feet suggests grass.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>sky</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <characteristic>dark</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>Blue and yellow tinting indicates sky, possibly at sunrise or sunset. 
+                     The dark form lower left may represent a cloud.  A dark triangle of shadow extends 
+                     from the lower right corner.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>harp</characteristic>
+                        <characteristic>triangle</characteristic>
+                        <illusobjdesc>An old man, perhaps a bard, plays a large triangular
+harp that rests on the ground at his feet.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>shackle</characteristic>
+                        <characteristic>chain</characteristic>
+                        <illusobjdesc>In this copy, the right ankle of the bard playing the
+harp appears to bear a cuff--or perhaps even a shackle with a short
+length of chain to the right.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="E">
+                    <illusobjdesc>Left of the "A" of the title is a large, spiky leaf. 
+A vine right of lines 3-10 branches into three leaves on three long stems.  A vine descends in the left margin of the text and into the sky of the lower
+design.</illusobjdesc>
+                    <component type="vegetation" location="AB">
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>snake-like</characteristic>
+                        <illusobjdesc>Left of the "A" of the title is a large, spiky leaf. 
+A vine right of lines 3-10 branches into three leaves on three long stems.  A vine descends in the left margin of the text and into the sky of the lower
+design.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.12.01" justify="left" indent="5">The Voice of the</l>
+                    <l n="s-inn.x.illbk.12.02" justify="left" indent="8">Ancient Bard.</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.12.03" justify="left">Youth of delight come hither,</l>
+                    <l n="s-inn.x.illbk.12.04" justify="left">And see the opening morn,</l>
+                    <l n="s-inn.x.illbk.12.05" justify="left">Image of truth new-born.</l>
+                    <l n="s-inn.x.illbk.12.06" justify="left">Doubt is fled &amp; clouds of reason.</l>
+                    <l n="s-inn.x.illbk.12.07" justify="left">Dark disputes &amp; artful teazing.</l>
+                    <l n="s-inn.x.illbk.12.08" justify="left">Folly is an endless maze,</l>
+                    <l n="s-inn.x.illbk.12.09" justify="left">Tangled roots perplex her ways,</l>
+                    <l n="s-inn.x.illbk.12.10" justify="left">How many have fallen there!</l>
+                    <l n="s-inn.x.illbk.12.11" justify="left">They stumble all night over bones of the
+dead:</l>
+                    <l n="s-inn.x.illbk.12.12" justify="left">And feel they know not what but care;</l>
+                    <l n="s-inn.x.illbk.12.13" justify="left">And wish to lead others when they should be
+led.</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.13" dbi="s-inn.X.P13-23">
+            <objtitle>
+                <title type="transcribed">Spring (continued)</title>,
+<objid>
+                    <objnumber code="A13">object 13 </objnumber>
+                    <objcode code="B23">(Bentley 23, </objcode>
+                    <objcode code="E23">Erdman 23, </objcode>
+                    <objcode code="K23">Keynes 23)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>10.5 x 7.7 cm.</objsize>
+                <windowsize height="546" width="400"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>A nude infant with curly hair reclines on grassy
+ground.  With both hands the infant touches a lamb to the left, and
+the two of them look at one another.  Two sheep also lie on the
+ground, left and right of the infant.  He may be the one who speaks
+to the "Little Lamb" in the final stanza of the poem (line 8).  Blue wash in
+the lower background suggests sky.</illusobjdesc>
+                    <component type="figure" location="CD">
+                        <characteristic>infant</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>speaking</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>A nude infant with short, curly hair reclines, with
+his left leg crossed over his extended right leg, in the midst of
+a group of three sheep.  With his left hand he touches the neck--and with his right the back--of a lamb to the left; the two of them
+look at one another.  The infant may be the one who speaks to the
+"Little Lamb" in the final stanza of the poem.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="CD">
+                        <characteristic>sheep</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>lying</characteristic>
+                        <illusobjdesc>An infant touches a lamb to the left, and the two of
+them look at one another.  One sheep, with its mouth open as if bleating and its head turned 
+toward them, lies to the left and another to the right.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc>The green wash on the ground beneath the infant and
+sheep suggests grass.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>sky</characteristic>
+                        <illusobjdesc>Blue wash in the lower background suggests sky.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>Shadows fall on the ground to the right of the lamb, infant, and right-most sheep.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="E">
+                    <illusobjdesc>Vine-like extensions of the "L's" in the initial
+words of the two stanzas on this plate dangle, with loops and
+leaves, in the left margin, and the lower extension divides into tendrils 
+that wrap almost completely around the vignette at bottom.  Two grain tassels 
+grow from this framing vine; the lower tassel dangles through the right side of the vignette. 
+Two clusters of similar vegetation, each with one or more grain
+tassels, fill the spaces left in the right margin by the short lines
+of the poem.  There is a figure associated with each cluster of
+vegetation in the right margin: below, a gowned angel with large
+wings sitting on a curve of the plant with her(?) knees drawn up
+and her head down; above, a gowned figure standing, with arms
+outspread, in a semi-circle made by the plant.</illusobjdesc>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>arms raised at 135 degrees</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <illusobjdesc>Right of the first stanza, a gowned figure stands in
+a semi-circle made by a vine or leaf.  Her(?) arms are outspread,
+partially hidden by the vine-like plant that circles around in front of her.  Her body may be twisting away from the viewer.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>head on knees</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>legs drawn up</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>Right of the last stanza, a winged, gowned angel sits
+on a curve of the plant with her(?) legs drawn up and her head
+down, her body facing left.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>grain tassel</characteristic>
+                        <illusobjdesc>Vine-like extensions of the "L's" in the initial
+words of the two stanzas on this plate dangle, with loops and
+leaves, in the left margin, and the lower extension divides into
+tendrils that wrap almost completely around the vignette at bottom.  
+Two clusters of similar vegetation fill the spaces left in the right margin by the short lines of the poem.  
+There are grain tassels at the right side of the lower vignette, to the right of lines 13-15, 
+to the right of lines 8-9, and just below the top right corner of the plate.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.13.01" justify="left">Little Girl</l>
+                    <l n="s-inn.x.illbk.13.02" justify="left">Sweet and small,</l>
+                    <l n="s-inn.x.illbk.13.03" justify="left">Cock does crow</l>
+                    <l n="s-inn.x.illbk.13.04" justify="left">So do you,</l>
+                    <l n="s-inn.x.illbk.13.05" justify="left">Merry voice</l>
+                    <l n="s-inn.x.illbk.13.06" justify="left">Infant noise</l>
+                    <l n="s-inn.x.illbk.13.07" justify="left">Merrily Merrily to welcome in the Year</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.13.08" justify="left">Little Lamb</l>
+                    <l n="s-inn.x.illbk.13.09" justify="left">Here I am,</l>
+                    <l n="s-inn.x.illbk.13.10" justify="left">Come and lick</l>
+                    <l n="s-inn.x.illbk.13.11" justify="left">My white neck.</l>
+                    <l n="s-inn.x.illbk.13.12" justify="left">Let me pull</l>
+                    <l n="s-inn.x.illbk.13.13" justify="left">Your soft Wool.</l>
+                    <l n="s-inn.x.illbk.13.14" justify="left">Let me kiss</l>
+                    <l n="s-inn.x.illbk.13.15" justify="left">Your soft face. <space extent="13"/>Year</l>
+                    <l n="s-inn.x.illbk.13.16" justify="left">Merrily Merrily we welcome in the</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="s-inn.x.illbk.14" dbi="s-inn.X.P14-53">
+            <objtitle>
+                <title type="transcribed">The School Boy</title>,
+<objid>
+                    <objnumber code="A14">object 14 </objnumber>
+                    <objcode code="B53">(Bentley 53, </objcode>
+                    <objcode code="E53">Erdman 53, </objcode>
+                    <objcode code="K53">Keynes 53)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.1 x 6.9 cm.</objsize>
+                <windowsize height="577" width="359"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Below the text are three boys playing a game (of
+marbles?) on the ground.  To the right of the boys is a bit of
+indeterminate spiny vegetation and two large intertwining
+grapevines extending up the right margin to the top of the plate.  
+On the vines are four other children wearing tights: (bottom to top) 
+one--long-haired and thus perhaps a girl--standing with arms raised, two
+boys(?) climbing, and another boy(?) sitting and reading.  In the
+left margin are a slender tree and a vine intertwined with it.  
+A large bird perches near the top, left of the first stanza. 
+A standing figure, left of the fourth stanza in other copies, 
+prints just a few scattered fragments in this copy.</illusobjdesc>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm down</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>hand on ground</characteristic>
+                        <illusobjdesc>The short-haired boy in tights on the left kneels on
+the ground with his arm down, as if poised to shoot a marble in the
+game that he and the other children present are
+playing.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>arms down</characteristic>
+                        <characteristic>arms braced</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>hands on ground</characteristic>
+                        <illusobjdesc>The short-haired boy in tights in the middle kneels,
+leaning forward, with his arms 
+braced to support his weight.  He looks down toward the hand of the
+boy to the left.  His left leg is bent under him; his right leg is extended to the left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>child</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>arms down</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>The right-most child--apparently male--in the group
+below the text has short hair and wears tights.  He is sitting,
+bending sharply forward with
+head and arms down.  Though facing left, he appears to be looking
+down at the ground rather than at the game.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>child</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>climbing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>vegetating</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <illusobjdesc>A long-haired girl or boy in tights stands at the
+intersection of two vines, perhaps in the process of climbing them
+(like the figure just above it).  The left-facing figure's head is
+thrown sharply back, its arms are raised vertically to hold onto
+the vines above its head, and its weight is on its extended left
+leg.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>child</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>climbing</characteristic>
+                        <illusobjdesc>A short-haired boy (in tights?) climbs in the
+intertwining vines that extend up the right margin.  Facing
+forward(?), with his head turned to the right, he raises his arms vertically to hold onto the vines
+over his head.  His right leg is drawn up toward his body; his left
+leg is extended along the vine.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>child</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>climbing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>A child in tights, probably a boy though other
+identifying features are not shown, climbs the vine.  His arms are
+raised vertically to cling to the vines over his head.  His legs
+are spread wide.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>child</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>reading</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>holding</characteristic>
+                        <illusobjdesc>Facing right, a child of indeterminate sex, wearing
+tights, sits in a curve at the top of a vine in the right margin. 
+He holds, and appears to be reading, a book.</illusobjdesc>
+                    </component>
+                    <component type="object" location="A">
+                        <characteristic>book</characteristic>
+                        <characteristic>open</characteristic>
+                        <illusobjdesc>The figure sitting at the top of the vines on the right appears to be reading an open book.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="A">
+                        <characteristic>bird</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>tail</characteristic>
+                        <characteristic>perching</characteristic>
+                        <illusobjdesc>A bird with long forked tail and wings partially
+spread perches in the vegetation to the left of the first
+stanza.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="BD">
+                        <characteristic>indeterminate</characteristic>
+                        <characteristic>grass</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <characteristic>grape</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <illusobjdesc>Behind the right-most figure below the text is a bit
+of indeterminate spiny vegetation--perhaps grass--and two large
+intertwining grapevines extending up the right margin to the top of
+the plate.  The vines have numerous tendrils and leaves and at
+least one large cluster of fruit, to the right of line 20.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AC">
+                        <characteristic>vine</characteristic>
+                        <characteristic>tree</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <characteristic>loop</characteristic>
+                        <illusobjdesc>Rooted at lower left, a slender tree with leaves
+extends up the left margin and ends opposite line 7(?).  An
+intertwined vine climbs the tree, with one loop left of the fifth
+stanza.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="AB">
+                    <illusobjdesc>Title letters "T," "S," "B," and "y" (line 1) have loopy
+vine-like extensions that relate them to the marginal trees and
+vines.  The first of these, upper left, descends in loops and
+supports a bird (considered here to be part of the main
+illustration).  Tendrils from the vines in the right margin--part
+of the main illustration--are extended into some of the spaces left
+by short lines.</illusobjdesc>
+                    <component type="vegetation" location="AB">
+                        <characteristic>vine</characteristic>
+                        <characteristic>loop</characteristic>
+                        <illusobjdesc>Title letters "T," "S," "B," and "y" (line 1) have loopy 
+vine-like extensions that relate them to the marginal vines.  The
+first of these, upper left, descends in loops and supports a bird
+(considered here to be part of the main
+illustration).</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <texthead justify="left">
+                    <l n="s-inn.x.illbk.14.01" justify="left" indent="5">The School Boy</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.14.02" justify="left">I love to rise in a summer morn,</l>
+                    <l n="s-inn.x.illbk.14.03" justify="left">When the birds sing on every tree;</l>
+                    <l n="s-inn.x.illbk.14.04" justify="left">The distant huntsman winds his horn,</l>
+                    <l n="s-inn.x.illbk.14.05" justify="left">And the sky-lark sings with me.</l>
+                    <l n="s-inn.x.illbk.14.06" justify="left">O! what sweet company.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.14.07" justify="left">But to go to school in a summer morn,</l>
+                    <l n="s-inn.x.illbk.14.08" justify="left">O! it drives all joy away;</l>
+                    <l n="s-inn.x.illbk.14.09" justify="left">Under a cruel eye outworn.</l>
+                    <l n="s-inn.x.illbk.14.10" justify="left">The little ones spend the day,</l>
+                    <l n="s-inn.x.illbk.14.11" justify="left">In sighing and dismay.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.14.12" justify="left">Ah! then at times I drooping sit,</l>
+                    <l n="s-inn.x.illbk.14.13" justify="left">And spend many an anxious hour,</l>
+                    <l n="s-inn.x.illbk.14.14" justify="left">Nor in my book can I take delight,</l>
+                    <l n="s-inn.x.illbk.14.15" justify="left">Nor sit in learnings bower,</l>
+                    <l n="s-inn.x.illbk.14.16" justify="left">Worn thro' with the dreary shower.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.14.17" justify="left">How can the bird that is born for joy,</l>
+                    <l n="s-inn.x.illbk.14.18" justify="left">Sit in a cage and sing,</l>
+                    <l n="s-inn.x.illbk.14.19" justify="left">How can a child when fears annoy.</l>
+                    <l n="s-inn.x.illbk.14.20" justify="left">But droop his tender wing.</l>
+                    <l n="s-inn.x.illbk.14.21" justify="left">And forget his youthful spring.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.14.22" justify="left">O! father &amp; mother, if buds are nip'd,</l>
+                    <l n="s-inn.x.illbk.14.23" justify="left">And blossoms blown away,</l>
+                    <l n="s-inn.x.illbk.14.24" justify="left">And if the tender plants are strip'd</l>
+                    <l n="s-inn.x.illbk.14.25" justify="left">Of their joy in the springing day,</l>
+                    <l n="s-inn.x.illbk.14.26" justify="left">By sorrow and cares dismay.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="s-inn.x.illbk.14.27" justify="left">How shall the summer arise in joy.</l>
+                    <l n="s-inn.x.illbk.14.28" justify="left">Or the summer fruits appear, <space extent="5"/>(troy</l>
+                    <l n="s-inn.x.illbk.14.29" justify="left">Or how shall we gather what griefs des</l>
+                    <l n="s-inn.x.illbk.14.30" justify="left">Or bless the mellowing year.</l>
+                    <l n="s-inn.x.illbk.14.31" justify="left">When the blasts of winter appear.</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
