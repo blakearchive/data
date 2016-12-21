@@ -1,4 +1,4 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/blake/webpages/about/articles" owner="blake" group="blake" mode="755" created="2006-01-09T15:16:26-05:00" version="1">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/webpages/about/articles" owner="blake" group="blake" mode="755" created="2006-01-09T15:16:26-05:00" version="1">
     <resource type="XMLResource" name="choice.html" owner="blake" group="blake" mode="755" created="2008-09-19T14:21:21-04:00" modified="2008-10-16T08:43:30-04:00" filename="choice.html" mimetype="text/html"/>
     <resource type="XMLResource" name="index.html" owner="blake" group="blake" mode="755" created="2008-09-19T14:21:21-04:00" modified="2008-10-16T08:43:30-04:00" filename="index.html" mimetype="text/html"/>
 </collection>
