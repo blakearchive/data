@@ -1,0 +1,1175 @@
+<bad id="thel.a-proof" type="illbk" work="The Book of Thel" copy="a-proof" copyid="a-proof" institution="morgan" catalog="bentley" catid="a" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Book of Thel, The">
+                    <main>The Book of Thel</main>
+                    <copy> Copy a</copy>
+: electronic edition
+</title>
+                <principal>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                </principal>
+                <respstmt/>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 70KB; 10 JPEG (ISO/IEC 10918) files
+ranging in size from 300KB to 1500KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+         <date>February 2017</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>
+                The William Blake Archive is pleased to announce the publication of digital editions of <hi rend="i">The Book of Thel</hi> copy C from the Morgan Library and Museum, copies E and K from Yale’s Beinecke Library, and copy M from the New York Public Library. They are accompanied by proofs of five of <hi rend="i">Thel</hi>’s eight plates (2-5 and 7) that form copy a in the Morgan Library.  These copies and proofs join copies B, D, F, G, H, I, J, L, N, O, and R. The Archive has now published all extant copies of this illuminated book except copy A in a private collection. 
+                <lb/>
+                <lb/>
+                <hi rend="i">The Book of Thel</hi> is dated 1789 by Blake on the title page, but the first plate, which comprises the four questions of “Thel's Motto,” and the last plate, which includes ten questions emanating from Thel’s grave, were written in a different hand and appear to have been completed and first printed in 1790, while Blake was working on <hi rend="i">The Marriage of Heaven and Hell</hi>. Copies C, E, K, and M are from the first of three printings of <hi rend="i">Thel</hi>, during which Blake produced at least thirteen copies, including copy A. Blake diversified his stock by printing copies in different inks; copy K was printed in green, copies E and M in raw sienna, and copy C in brown. All four copies were lightly finished in water colors and pen and ink. With the proof impressions of copy a, printed in black with enough pressure to pick up ink from the shallows, Blake was able to check the designs as well as the pressure of his printing press.
+                <lb/>
+                <lb/>
+                Copies of <hi rend="i">Thel</hi> from this first press run were certainly on hand when Blake included the book in his advertisement "To the Public" of October 1793: "The Book of Thel, a Poem in Illuminated Printing. Quarto, with 6 designs, price 3s." Blake printed <hi rend="i">Thel</hi> again in c. 1795 (copy F) and 1818 (copies N and O). 
+                <lb/>
+                <lb/>
+                With the publication of <hi rend="i">The Book of Thel</hi> copies C, E, K, and M, and proof copy a, the Archive now contains fully searchable and scalable digital editions of 104 copies of Blake's nineteen illuminated books. They are the first publications in the redesigned Archive, which is faster and easier to navigate, is aesthetically more appealing, and offers a more robust search feature. Users may view color corrected digital images of Blake’s works at their true size, and enlarge and rotate these images to examine the text and illustrations in detail. The images are accompanied by diplomatic transcriptions and editors’ notes, as well as illustration descriptions that make it possible to search Blake’s works for visual motifs. The Archive also provides full bibliographic and provenance information for each digital edition it publishes. Though the Archive retains its focus on the material conditions of Blake’s art, presenting images in the context of works and copies, such as <hi rend="i">The Book of Thel</hi> copy C, the newly designed site contextualizes each work, copy, and object in a network of relations. Users of the site can view each Blakean object alongside objects in the same copy, objects printed from the same matrix, objects from the same production sequence, and objects with similar designs. This contextualization, which draws on the expertise of the Archive’s editors, enables comparisons across time, medium, and genre, and foregrounds the immense variety and the recurring themes of Blake’s art.
+                <lb/>
+                <lb/>
+                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.
+            </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2017</date> by Morris Eaves, Robert N. Essick,
+and Joseph Viscomi, all rights reserved.  Items in the Archive may be
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+Redistribution or republication on other terms, in any medium, requires
+express written consent from the editors and advance notification of the
+publisher.
+Permission to reproduce the graphic images in this archive has been
+granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+This image copyright © 2017 Morgan Library and Museum</userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>BAD created, final proofing and publication</change>
+                <date>January-February 2017</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Anna Alden,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Patrick Delehanty,</name>
+                    <name>Adam Engel,</name>
+                    <name>Alison Harper,</name>
+                    <name>Jarrod Ingles,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joel Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Adam McCune,</name>
+                    <name>Rob Rich,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Lisa Vandenbossche,</name>
+                </respstmt>
+            </changestmt>            
+            <changestmt>
+                <change>Images received and catalogued, IP records created</change>
+                <date>February 2007</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah E. Jones, </name>
+                    <name>Lauren Klapper-Lehman, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Adair Rispoli, and</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        <hi rend="i">The Book of Thel</hi>
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>etcher, </role>
+                    <role>printer </role>
+                </origination>
+                <origination>Catherine Blake <role>printer</role>
+                </origination>
+                <imprint>
+                    <publisher>William Blake</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1789</date>
+                </imprint>
+                <compdate value="1789.B">1789</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1789.A">c. 1789</printdate>
+                <numberobj>5</numberobj>
+                <objorder>Bentley Plates 2-5, 7</objorder>
+                <objsize>Approx. 15.4 x 10.8 cm.</objsize>
+                <numberleaves>5</numberleaves>
+                <leafsize>24.1 x 17.0 cm. (Object 1), 25.0 x 10.3 cm. (Object 2), 30.0 x 23.8 cm. (Object 3), 30.2 x 24.1 cm. (Object 4), 19.4 x 14.8 cm. (Object 5)</leafsize>
+                <medium>relief etching</medium>
+                <printingstyle>relief</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>J WHATMAN<note>The watermark appears only in Object 1.</note></watermark>
+                <etchednumbers>
+                    <note>Object 2 is numbered "1" top right, Object 3 is numbered "2" upper right, Object 4 is numbered "3" upper right, and Object 5 is numbered "5" upper right.  The etched number on Object 2 is not printed in this copy.</note></etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>loose</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Morgan Library and Museum</name>
+                <date>1906</date>
+                <dealer>Abbey</dealer>
+                <price>&#163;155</price>
+                <note>Acquired at an unknown time by Robert Arthington and sold from his collection, Sotheby's, 17 May 1866, lot 24, bound in calf with forty-eight drawings, etchings, and engravings by Blake (&#163;11 to "Pickering," probably the dealer B. M. Pickering); the volume sold Christie's, 1 June 1887, lot 258 (&#163;34 to Henry White); the volume sold from White's collection, Sotheby's, 22 April 1902, lot 270 (&#163;87 to "Roberts," probably a dealer); the volume sold Sotheby's, 9 Dec. 1905, lot 921 (&#163;80 to "Paul," probably a dealer); the volume sold Sotheby's, 15 Dec. 1906, lot 482 (&#163;155 to the dealer "Abbey" acting for the Pierpont Morgan Library, now the Morgan Library and Museum); the leaves disbound and mounted by the Morgan Library and Museum.</note>
+            </provenance>
+            <repository>
+                <institution>Morgan Library and Museum</institution>
+                <addressline>225 Madison Avenue</addressline>
+                <addressline>New York, New York 10016</addressline>
+                <addressline>Telephone: 1 212 685 0008</addressline>
+                <addressline>Fax: 1 212 481 3484</addressline>
+                <addressline>URL: http://www.themorgan.org</addressline>
+                <addressline>Telephone, Photography and Rights Department: 1 212 590 0386</addressline>
+                <addressline>Email, Photography and Rights Department: photoservices@themorgan.org</addressline>
+                <addressline>URL, Photography and Rights Department: http://themorgan.org/research/photo.asp</addressline>
+                <department>Department of Printed Books and Bindings</department>
+                <repositoryid label="Call number">009948.1, 2, 25, 26, 23</repositoryid>
+            </repository>
+        </source>
+        <desc id="thel.a-proof.illbk.01" dbi="thel.a-proof.P1-2" compwith="bb136.A10">
+            <objtitle>,
+                <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="B2">(Bentley 2, </objcode>
+                    <objcode code="Eii">Erdman ii, </objcode>
+                    <objcode code="Kii">Keynes ii)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>15.5 x 10.7 cm</objsize>
+                <windowsize height="806" width="556"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>A slender tree, entwined with a vine, arches protectively over the title words and major pictorial motifs.  This combination of motifs and their position suggests a tombstone.  Two birds and a human figure soar in the sky; seven other human forms, one winged, rest or climb among the title letters.  Thel, wearing a long gown and holding a shepherd's crook, stands lower left and casts a short, dark shadow in front of her (right of where she stands).  Thel gazes at a nude man embracing a woman around the waist.  The latter wears a gown and raises her arms.  These small figures seem to emerge from the large, bowl-like flowers lower center and right.  The leaves of this plant and a flower bud complete the design lower center and right.  The design does not directly illustrate a scene in the text, but the figures embracing above the flowers may suggest the "raptures" (Object 4, line 13) of the Cloud and the "fair eyed dew" (Object 4, line 15) during their courtship.</illusobjdesc>
+                    <component type="vegetation" location="E">
+                        <characteristic>tree</characteristic>
+                        <characteristic>willow</characteristic>
+                        <characteristic>birch</characteristic>
+                        <characteristic>tombstone</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <illusobjdesc>A large tree, perhaps a willow or birch, 
+arches over the title words and major pictorial motifs. 
+This shape, with letters within, suggests the outline of 
+a tombstone.  The tree splits into several branches 
+(perhaps bearing long, slender leaves) on the right.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <illusobjdesc>A slender vine twines around the 
+over-arching tree.  Some of the vine's branches bear 
+flowers and/or leaves.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>plant</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>pasqueflower</characteristic>
+                        <characteristic>anemone pulsatilla</characteristic>
+                        <characteristic>bud</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>wind</characteristic>
+                        <characteristic>grain tassel</characteristic>
+                        <illusobjdesc>Two open flowers and one bud bloom from 
+the slender stems of a plant.  These flowers may be the 
+pasqueflower (anemone pulsatilla).  They seem to be blown 
+to the left by a gentle wind.  The plant's large leaves 
+bend to the ground. Three stems bearing spiky leaves, or the
+remnants of blossoms, or perhaps grain tassels also grow from the
+plant.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>vine</characteristic>
+                        <illusobjdesc>Vines or tendrils grow from all four 
+letters of the word "BOOK" (line 2).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="A">
+                        <characteristic>vine</characteristic>
+                        <characteristic>tree</characteristic>
+                        <characteristic>arching</characteristic>
+                        <illusobjdesc>A vine or miniature tree arches over the 
+figure seated and leaning against the B of the word 
+"BOOK" (line 2).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="A">
+                        <characteristic>plant</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>flame-like</characteristic>
+                        <illusobjdesc>Flame-like leaves spring from the first O 
+of the word "BOOK" (line 2).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="B">
+                        <characteristic>flower</characteristic>
+                        <characteristic>pasqueflower</characteristic>
+                        <characteristic>anemone pulsatilla</characteristic>
+                        <characteristic>stamen</characteristic>
+                        <illusobjdesc>A flower, similar in shape to the much 
+larger ones below, blooms from the K of the word "BOOK" (line 2). 
+Two long stamens curve upwards from the flower.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <characteristic>spiral</characteristic>
+                        <illusobjdesc>Slender vines twine about the letters of 
+"THEL" (line 4).  Two form empty spirals.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>Thel</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>shepherd</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>contrapposto</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hem</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>shepherd's crook</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Thel, wearing a gown and holding a 
+shepherd's crook, stands in a delicate contrapposto 
+posture and looks upon the figures and flowers on the 
+right.  Her long hair cascades down her neck, touching 
+both shoulders; the hem of her gown curls about her 
+feet and over the ground. </illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>Thel casts a short, dark shadow in front of her (right of where she stands). It extends to the large leaves at the bottom of the plate.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>skirt</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>striding</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>hands raised, palms up</characteristic>
+                        <illusobjdesc>A youthful female hovers to the left of an 
+open flower.  She wears a gown (or at least a skirt) and 
+raises both arms above her head as a nude male embraces 
+her waist.  Her legs are spread apart as though she were 
+striding to the left.  Strands of her long hair can be 
+seen left of her right arm and perhaps right of her 
+torso.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>embracing</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <illusobjdesc>A nude, apparently youthful, man hovers to 
+the left of an open flower and embraces a young woman 
+around her waist.  His legs are spread apart.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>reading</characteristic>
+                        <characteristic>writing</characteristic>
+                        <characteristic>tablet</characteristic>
+                        <characteristic>book</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>head bowed</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>leg dangling</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>A seated human figure, perhaps reading or 
+writing in a book or tablet, sits and leans against the 
+vertical of the letter B in the word "BOOK" (line 2).  The figure's left leg dangles
+downward; the right leg appears to be crossed over the left (?) upper leg.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>shepherd</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>shepherd's crook</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>A human figure, probably male, stands within 
+the second O of "BOOK" (line 2).  He wears a hat and holds a 
+shepherd's crook.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>climbing</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <illusobjdesc>A young man, apparently nude, climbs the 
+vertical of the letter T in "Thel" (line 4).  He probably turns his face upward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <illusobjdesc>A gowned young woman stands on (or hovers just above) the foot of 
+the left vertical of the letter H in "THEL" (line 4).  She raises 
+both arms above her head and appears to be facing up.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>floating</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>young</characteristic>
+                        <illusobjdesc>A gowned young woman hovers above the 
+horizontal of the letter H in "THEL" (line 4).  She raises 
+both her arms above her head.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>standing</characteristic>
+                        <illusobjdesc>A very small figure stands just to the 
+right of the second vertical of the H in "THEL" (line 4).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>nude</characteristic>
+                        <illusobjdesc>A figure, possibly female, hovers above the 
+letters E and L of "THEL" (line 4).  Her legs extend to the left; 
+her arms are raised horizontally.  There may be a small 
+object in her left hand.  Her right leg may be bent 
+at the knee, with the lower leg behind her.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>angel</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>book</characteristic>
+                        <characteristic>tablet</characteristic>
+                        <characteristic>reading</characteristic>
+                        <illusobjdesc>An angel with large wings sits on 
+the horizontal, and leans against the vertical, of the 
+letter L of "THEL" (line 4).  The figure may be reading the book or tablet propped against his (?) knees.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="A">
+                        <characteristic>bird</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>flying</characteristic>
+                        <illusobjdesc>A bird, wings extended, soars left of the 
+word "of" in the title (line 3).</illusobjdesc>
+                    </component>
+                    <component type="animal" location="B">
+                        <characteristic>bird</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>flying</characteristic>
+                        <illusobjdesc>A bird, wings extended, soars right of the 
+word "of" in the title (line 3).</illusobjdesc>
+                    </component>
+                    <component type="text" location="AB">
+                        <illusobjdesc>The title words are integrated into the full-page
+design.</illusobjdesc>
+                        <transcription>
+                            <lg type="prose" justify="left">
+                                <l justify="left">THE BOOK of THEL</l>
+                            </lg>
+                        </transcription>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="thel.a-proof.illbk.01.01" justify="center">THE</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="prose" justify="left">
+                    <l n="thel.a-proof.illbk.01.02" justify="center">BOOK</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="prose" justify="left">
+                    <l n="thel.a-proof.illbk.01.03" justify="center">of</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="prose" justify="left">
+                    <l n="thel.a-proof.illbk.01.04" justify="center">THEL</l>
+                </lg>
+                <vspace extent="4"/>
+                <lg type="prose" justify="left">
+                    <l n="thel.a-proof.illbk.01.05" justify="left" indent="45">The Author &amp; Printer Will.<hi rend="superscript">m</hi> Blake.
+1789.</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="thel.a-proof.illbk.02" dbi="thel.a-proof.P2-3">
+            <objtitle>,
+<objid>
+                    <objnumber code="A2">Object 2 </objnumber>
+                    <objcode code="B3">(Bentley 3, </objcode>
+                    <objcode code="E1">Erdman 1, </objcode>
+                    <objcode code="K1">Keynes 1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>15.4 x 11.0 cm.</objsize>
+                <windowsize height="801" width="572"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="AB">
+                    <illusobjdesc>Five human figures soar around the title-word "THEL" (line 1): a nude man reaching toward a large eagle, a nude man holding a sword and shield, and a gowned woman holding a small child in her outstretched arms.  Below, a nude man rests on the branch of a tree (or perhaps a tassel of grain) and looks up toward the child.  Spiraling vines and stylized flowers, perhaps lilies, spring from several of the title letters.  The design does not represent any specific incident in the text, but the man with shield and spear may be one of the "thousand fighting men" referred to near the end of the poem (Erdman page 6, Bentley Plate 8, not included in this copy).</illusobjdesc>
+                    <component type="vegetation" location="A">
+                        <characteristic>vine</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>lily</characteristic>
+                        <illusobjdesc>Two vines, each terminating in what may be 
+lily-like flowers, spring from the lower-left termination 
+of the T of "THEL" (line 1).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="A">
+                        <characteristic>vine</characteristic>
+                        <characteristic>spiral</characteristic>
+                        <illusobjdesc>A spiral vine descends from the H of
+"THEL" (line 1).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="B">
+                        <characteristic>vine</characteristic>
+                        <characteristic>spiral</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>lily</characteristic>
+                        <illusobjdesc>A vine spirals upwards from the L of "THEL" (line 1). 
+It terminates in what may be a flower, perhaps a
+lily.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="A">
+                        <characteristic>flower</characteristic>
+                        <characteristic>lily</characteristic>
+                        <illusobjdesc>A spiky form that may be a stylized lily 
+springs from the top-left corner of the H of "THEL" (line 1).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="A">
+                        <characteristic>vine</characteristic>
+                        <characteristic>branch</characteristic>
+                        <illusobjdesc>A small vine, branching at its lower end, 
+hovers between the feet of the T and H in "THEL" (line 1).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="B">
+                        <characteristic>vine</characteristic>
+                        <illusobjdesc>A small vine extends horizontally beneath 
+the E and L of "THEL" (line 1).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>vine</characteristic>
+                        <illusobjdesc>Two small vines extend horizontally above 
+the T and first vertical of the H of "THEL" (line 1).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="A">
+                        <characteristic>branch</characteristic>
+                        <characteristic>grain tassel</characteristic>
+                        <characteristic>arching</characteristic>
+                        <illusobjdesc>One of the figures rests on a tree branch 
+or, if the perspective is microscopic, a tassel of grain. 
+Another branch arches over his head.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>A nude man hovers in the air, legs spread 
+and with his right arm reaching (or pointing with one finger) toward an eagle.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>sword</characteristic>
+                        <characteristic>spiral</characteristic>
+                        <characteristic>shield</characteristic>
+                        <illusobjdesc>A nude male hovers in the air.  He holds a 
+sword with a spiraling blade in his right hand; a shield is
+apparently strapped to his left arm.  This may be one of the "thousand fighting men" referred to near the end of the poem (Erdman page 6, Bentley Plate 8, not included in this copy).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>arms resting</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>leg bent forward</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <illusobjdesc>A nude man reclines on a branch or tassel of 
+grain.  He props himself up with his right arm and turns 
+his head upward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>A gowned woman hovers in the air.  Her 
+outstretched arms hold a young child.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>child</characteristic>
+                        <characteristic>infant</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <illusobjdesc>An infant or young child hovers in the air, 
+supported by a woman's outstretched arms.  The child's legs are spread apart and its right arm may be extended toward the woman.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="A">
+                        <characteristic>bird</characteristic>
+                        <characteristic>eagle</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>beak</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <illusobjdesc>A large bird, probably an eagle, soars above 
+the title-word "THEL" (line 1).  Its prominent beak is open.</illusobjdesc>
+                    </component>
+                    <component type="text" location="AB">
+                        <illusobjdesc>The letters of the heading are integrated into the
+design.</illusobjdesc>
+                        <transcription>
+                            <lg type="prose" justify="left">
+                                <l justify="left">THEL</l>
+                            </lg>
+                        </transcription>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <texthead justify="left">
+                    <l n="thel.a-proof.illbk.02.XX" justify="left">
+                        <note>The etched number "1" is not printed in this copy.</note>
+                    </l>
+                    <l n="thel.a-proof.illbk.02.01" justify="left" indent="25">THEL</l>
+                </texthead>
+                <vspace extent="1"/>
+                <texthead justify="left">
+                    <l n="thel.a-proof.illbk.02.02" justify="left" indent="28">I</l>
+                </texthead>
+                <vspace extent="2"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.02.03" justify="left">The daughters of Mne Seraphim led round their sunny
+flocks,</l>
+                    <l n="thel.a-proof.illbk.02.04" justify="left">All but the youngest, she in paleness sought the
+secret air.</l>
+                    <l n="thel.a-proof.illbk.02.05" justify="left">To fade away like morning beauty from her mortal
+day:</l>
+                    <l n="thel.a-proof.illbk.02.06" justify="left">Down by the river of Adona her soft voice is
+heard;</l>
+                    <l n="thel.a-proof.illbk.02.07" justify="left">And thus her gentle lamentation falls like morning
+dew,</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.02.08" justify="left">O life of this our spring! why fades the lotus of the
+water?</l>
+                    <l n="thel.a-proof.illbk.02.09" justify="left">Why fade these children of the spring? born but to
+smile &amp; fall.</l>
+                    <l n="thel.a-proof.illbk.02.10" justify="left">Ah! Thel is like a watry bow, and like a parting
+cloud.</l>
+                    <l n="thel.a-proof.illbk.02.11" justify="left">Like a reflection in a glass. like shadows in the
+water.</l>
+                    <l n="thel.a-proof.illbk.02.12" justify="left">Like dreams of infants. like a smile upon an infants
+face.</l>
+                    <l n="thel.a-proof.illbk.02.13" justify="left">Like the doves voice, like transient day. like music
+in the air;</l>
+                    <l n="thel.a-proof.illbk.02.14" justify="left">Ah! gentle may I lay me down. and gentle rest my head.<note>The first instance of the word "gentle" printed lightly in this copy and is difficult to see.</note></l>
+                    <l n="thel.a-proof.illbk.02.15" justify="left">And gentle sleep the sleep of death. and gentley hear
+                  the voice<note>At the end of the ninth word ("gentle") in line 15, Blake first 
+                     wrote "e" and then wrote "y" over it before etching the copper plate.  
+                     Both letters printed in proof Copy a and possibly Copy C; 
+                     Blake then removed the "e" from the copper and printed the word as "gently" 
+                     in Copies K and R.  He then reshaped the "y" into an "e" on the copper plate 
+                     and printed the word as "gentle" in all other copies, sometimes 
+                     strengthening the "e" in pen and ink.</note>
+                    </l>
+                    <l n="thel.a-proof.illbk.02.16" justify="left">Of him that walketh in the garden in the evening
+time.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.02.17" justify="left">The Lilly of the valley breathing in the humble
+grass</l>
+                    <l n="thel.a-proof.illbk.02.18" justify="left">Answer'd the lovely maid and said; I am a watry
+weed.</l>
+                    <l n="thel.a-proof.illbk.02.19" justify="left">And I am very small, and love to dwell in lowly
+vales;</l>
+                    <l n="thel.a-proof.illbk.02.20" justify="left">So weak, the gilded butterfly scarce perches on my
+head</l>
+                    <l n="thel.a-proof.illbk.02.21" justify="left">Yet I am visited from heaven, and he that smiles on
+all.</l>
+                    <l n="thel.a-proof.illbk.02.22" justify="left">Walks in the valley. and each morn over me spreads his
+hand</l>
+                    <l n="thel.a-proof.illbk.02.23" justify="left">Saying, rejoice thou humble grass, thou new born lilly
+flower,</l>
+                    <l n="thel.a-proof.illbk.02.24" justify="left">Thou gentle maid of silent valleys. and of modest
+brooks:</l>
+                    <l n="thel.a-proof.illbk.02.25" justify="left">For thou shalt be clothed in light, and fed with
+morning manna;</l>
+                    <l n="thel.a-proof.illbk.02.26" justify="left">Till summers heat melts thee beside the fountains and the springs</l>
+                    <l n="thel.a-proof.illbk.02.27" justify="left">To flourish in eternal vales: then why should Thel
+complain,</l>
+                </lg>
+                <textfoot justify="left">
+                    <l n="thel.a-proof.illbk.02.28" justify="left" indent="50">
+                        <catchword>Why</catchword>
+                    </l>
+                </textfoot>
+            </phystext>
+        </desc>
+        <desc id="thel.a-proof.illbk.03" dbi="thel.a-proof.P3-4" compwith="bb136.A23">
+            <objtitle>,
+<objid>
+                    <objnumber code="A3">Object 3 </objnumber>
+                    <objcode code="B4">(Bentley 4, </objcode>
+                    <objcode code="E2">Erdman 2, </objcode>
+                    <objcode code="K2">Keynes 2)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>15.3 x 10.9 cm.</objsize>
+                <windowsize height="796" width="567"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="CD">
+                    <illusobjdesc>Thel stands beneath the arching branches of a tree, perhaps a birch or willow.  She bows slightly toward the personified Lilly who, with arms folded, bows more deeply toward Thel. Both females wear long gowns, ruffled along the hems.  A vine climbs lazily about the tree trunk.  This vine seems to grow from the plant right of Thel.  The plant behind and to the right of the Lilly is probably a lily, perhaps the St. Bernard's lily.  The design illustrates the dialogue between Thel and the Lilly given in the text on this plate.  The moment pictured may be their parting, when "the Lilly bowd her modest head" (line 18).</illusobjdesc>
+                    <component type="vegetation" location="CD">
+                        <characteristic>tree</characteristic>
+                        <characteristic>willow</characteristic>
+                        <characteristic>birch</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <illusobjdesc>A tree with arching branches forms a canopy 
+over the figures.  It may be a birch or willow.  Small 
+leaves dangle from the smaller branches on the left.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="D">
+                        <characteristic>plant</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>vine</characteristic>
+                        <illusobjdesc>A plant grows between Thel and the tree and 
+right of the tree.  Flowering, vine-like stems curl 
+upwards from this plant.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>plant</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>lily</characteristic>
+                        <characteristic>St. Bernard's lily</characteristic>
+                        <illusobjdesc>A large lily plant, perhaps the St. 
+Bernard's lily, blooms behind and to the right 
+of the personified Lilly.  It bears three flowering 
+stems.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>bowing</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hem</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>feet</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>Thel</characteristic>
+                        <characteristic>young</characteristic>
+                        <illusobjdesc>Thel, wearing a long gown with a ruffled 
+hem, stands with her arms at her side in a slightly bowed 
+posture, facing to the left.  Her long hair falls over her
+shoulders.  Her feet (right foot forward) are bare.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>bowing</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hem</characteristic>
+                        <characteristic>arms folded</characteristic>
+                        <characteristic>Lilly</characteristic>
+                        <characteristic>young</characteristic>
+                        <illusobjdesc>The personified Lilly bows, with arms apparently 
+folded, toward Thel.  The hem of the Lilly's gown 
+is elaborately ruffled.  She faces down and to the
+right.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <texthead justify="right">
+                    <l n="thel.a-proof.illbk.03.01" justify="right">
+                        <physnumber type="etched">2</physnumber>
+                    </l>
+                </texthead>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.03.02" justify="left">Why should the mistress of the vales of Har, utter a
+sigh.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.03.03" justify="left">She ceasd &amp; smil'd in tears, then sat down in her
+silver shrine.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.03.04" justify="left">Thel answerd, O thou little virgin of the peaceful
+valley.</l>
+                    <l n="thel.a-proof.illbk.03.05" justify="left">Giving to those that cannot crave, the voiceless, the
+o'erfired:
+                    </l>
+                    <l n="thel.a-proof.illbk.03.06" justify="left">Thy breath doth nourish the innocent lamb, he smells
+thy milky garments,<note>In Copy a, the "s" at the end of "garments" printed lightly and is difficult to see.</note></l>
+                    <l n="thel.a-proof.illbk.03.07" justify="left">He crops thy flowers. while thou sittest smiling in
+his face,</l>
+                    <l n="thel.a-proof.illbk.03.08" justify="left">Wiping his mild and meekin mouth from all contagious
+taints.</l>
+                    <l n="thel.a-proof.illbk.03.09" justify="left">Thy wine doth purify the golden honey, thy
+perfume.</l>
+                    <l n="thel.a-proof.illbk.03.10" justify="left">Which thou dost scatter on every little blade of grass
+that springs</l>
+                    <l n="thel.a-proof.illbk.03.11" justify="left">Revives the milked cow, &amp; tames the fire-breathing
+steed.</l>
+                    <l n="thel.a-proof.illbk.03.12" justify="left">But Thel is like a faint cloud kindled at the rising
+sun;</l>
+                    <l n="thel.a-proof.illbk.03.13" justify="left">I vanish from my pearly throne, and who shall find my
+place.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.03.14" justify="left">Queen of the vales the Lilly answerd, ask the tender
+cloud,</l>
+                    <l n="thel.a-proof.illbk.03.15" justify="left">And it shall tell thee why it glitters in the morning
+sky,</l>
+                    <l n="thel.a-proof.illbk.03.16" justify="left">And why it scatters its bright beauty thro' the humid
+air.</l>
+                    <l n="thel.a-proof.illbk.03.17" justify="left">Descend O little cloud &amp; hover before the eyes of
+Thel;</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.03.18" justify="left">The Cloud descended, and the Lilly bowd her modest
+head:</l>
+                    <l n="thel.a-proof.illbk.03.19" justify="left">And went to mind her numerous charge among the verdant
+grass</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="thel.a-proof.illbk.04" dbi="thel.a-proof.P4-5">
+            <objtitle>,
+<objid>
+                    <objnumber code="A4">Object 4 </objnumber>
+                    <objcode code="B5">(Bentley 5, </objcode>
+                    <objcode code="E3">Erdman 3, </objcode>
+                    <objcode code="K3">Keynes 3)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>15.3 x 10.7 cm.</objsize>
+                <windowsize height="796" width="556"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="interlinear" location="A">
+                    <illusobjdesc>Two vines, one bearing lily-like flowers, spring 
+ from the beginning of the first line of verse (line 3).</illusobjdesc>
+                    <component type="vegetation" location="A">
+                        <characteristic>vine</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>lily</characteristic>
+                        <illusobjdesc>Two vines, one bearing lily-like flowers, 
+spring from the beginning of the first line of
+verse (line 3).</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="D">
+                    <illusobjdesc>A vine or two branches grow from the end 
+  of the last line of verse (line 33).</illusobjdesc>
+                    <component type="vegetation" location="D">
+                        <characteristic>vine</characteristic>
+                        <characteristic>branch</characteristic>
+                        <illusobjdesc>A vine or two branches grow from the end 
+of the last line of verse (line 33).</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <texthead justify="right">
+                    <l n="thel.a-proof.illbk.04.01" justify="right">
+                        <physnumber type="etched">3</physnumber></l>
+                    <l n="thel.a-proof.illbk.04.02" justify="left" indent="24">II.</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.04.03" justify="left">O little Cloud. the virgin said. I charge thee tell to
+me.</l>
+                    <l n="thel.a-proof.illbk.04.04" justify="left">Why thou complainest not when in one hour thou fade
+away;</l>
+                    <l n="thel.a-proof.illbk.04.05" justify="left">Then we shall seek thee but not find; ah Thel is like
+to thee.</l>
+                    <l n="thel.a-proof.illbk.04.06" justify="left">I pass away. yet I complain, and no one hears my
+voice.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.04.07" justify="left">The Cloud then shewd his golden head &amp; his bright form
+                        emerg'd,</l>
+                    <l n="thel.a-proof.illbk.04.08" justify="left">Hovering and glittering on the air before the face of
+Thel.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.04.09" justify="left">O virgin know'st thou not: our steeds drink of the
+golden springs</l>
+                    <l n="thel.a-proof.illbk.04.10" justify="left">Where Luvah doth renew his horses: look'st thou on my
+youth,</l>
+                    <l n="thel.a-proof.illbk.04.11" justify="left">And fearest thou because I vanish and am seen no
+more.</l>
+                    <l n="thel.a-proof.illbk.04.12" justify="left">Nothing remains; O maid I tell thee, when I pass
+away,</l>
+                    <l n="thel.a-proof.illbk.04.13" justify="left">It is to tenfold life, to love, to peace, and raptures
+holy:</l>
+                    <l n="thel.a-proof.illbk.04.14" justify="left">Unseen descending. weigh my light wings upon balmy
+flowers:</l>
+                    <l n="thel.a-proof.illbk.04.15" justify="left">And court the fair eyed dew. to take me to her shining
+tent;</l>
+                    <l n="thel.a-proof.illbk.04.16" justify="left">The weeping virgin. trembling kneels before the risen
+sun</l>
+                    <l n="thel.a-proof.illbk.04.17" justify="left">Till we arise link'd in a golden band, and never
+part;</l>
+                    <l n="thel.a-proof.illbk.04.18" justify="left">But walk united, bearing food to all our tender
+flowers.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.04.19" justify="left">Dost thou O little Cloud? I fear that I am not like
+thee;</l>
+                    <l n="thel.a-proof.illbk.04.20" justify="left">For I walk through the vales of Har, and smell the
+sweetest flowers</l>
+                    <l n="thel.a-proof.illbk.04.21" justify="left">But I feed not the little flowers: I hear the warbling
+birds,</l>
+                    <l n="thel.a-proof.illbk.04.22" justify="left">But I feed not the warbling birds. they fly and seek
+their food;</l>
+                    <l n="thel.a-proof.illbk.04.23" justify="left">But Thel delights in these no more because I fade
+away</l>
+                    <l n="thel.a-proof.illbk.04.24" justify="left">And all shall say, without a use this shining woman
+liv'd.</l>
+                    <l n="thel.a-proof.illbk.04.25" justify="left">Or did she only live. to be at death the food of
+worms.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.04.26" justify="left">The Cloud reclind upon his airy throne and answer'd
+thus.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.04.27" justify="left">Then if thou art the food of worms. O virgin of the
+skies,</l>
+                    <l n="thel.a-proof.illbk.04.28" justify="left">How great thy use. how great thy blessing; every thing
+that lives,</l>
+                    <l n="thel.a-proof.illbk.04.29" justify="left">Lives not alone, nor for itself: fear not and I will
+call</l>
+                    <l n="thel.a-proof.illbk.04.30" justify="left">The weak worm from its lowly bed. and thou shalt hear
+its voice.</l>
+                    <l n="thel.a-proof.illbk.04.31" justify="left">Come forth worm of the silent valley, to thy pensive
+queen.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.04.32" justify="left">The helpless worm arose, and sat upon the Lillys
+leaf,</l>
+                    <l n="thel.a-proof.illbk.04.33" justify="left">And the bright Cloud saild on, to find his partner in
+the vale.</l>
+                </lg>
+                <vspace extent="1"/>
+                <textfoot justify="left">
+                    <l n="thel.a-proof.illbk.04.34" justify="left" indent="50">
+                        <catchword>III.</catchword>
+                    </l>
+                </textfoot>
+            </phystext>
+        </desc>
+        <desc id="thel.a-proof.illbk.05" dbi="thel.a-proof.P5-7" compwith="bb136.A22">
+            <objtitle>,
+<objid>
+                    <objnumber code="A5">Object 5 </objnumber>
+                    <objcode code="B7">(Bentley 7, </objcode>
+                    <objcode code="E5">Erdman 5, </objcode>
+                    <objcode code="K5">Keynes 5)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>15.4 x 10.6 cm.</objsize>
+                <windowsize height="801" width="551"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="CD">
+                    <illusobjdesc>Thel squats on the ground, arms folded, and looks at the personified Worm and Clod (or "matron Clay" [line 15]).  Her long hair cascades over her shoulders; the hem of her long gown billows around her.  The infant Worm extends both arms and looks at the Clod, a young, nude woman lying on the ground.  Right of Thel is a large plant with spiky leaves and two blossoms, one of which arches over Thel's head.  Left of Thel is another plant with similar leaves but no blossoms.  Each of the two plants may cast a short, dark shadow on the ground surrounding Thel, the Clod, and the Worm.  The design may in part illustrate lines on Bentley Plate 6 (not included in this copy): "The Clod of Clay heard the Worms voice, &#38; raisd her pitying head; / She bow'd over the weeping infant..." (Erdman page 5).</illusobjdesc>
+                    <component type="vegetation" location="D">
+                        <characteristic>plant</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>bud</characteristic>
+                        <characteristic>stamen</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>Meadia</characteristic>
+                        <characteristic>dodecatheon</characteristic>
+                        <characteristic>amaryllis</characteristic>
+                        <characteristic>lily</characteristic>
+                        <characteristic>St. Bernard's lily</characteristic>
+                        <illusobjdesc>A large plant with spiky leaves grows 
+on the right.  One of its two flowers arches above 
+Thel's head.  Long stamens dangle from the blossom 
+on the right; the blossom on the left is less open and 
+may be only a bud.  The plant may be a combination of the 
+flowers of the Meadia or dodecatheon, the golden 
+amaryllis, and the leaves of the St. Bernard's lily.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="C">
+                        <characteristic>plant</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>monotropa</characteristic>
+                        <characteristic>corpse-plant</characteristic>
+                        <illusobjdesc>A large plant with spiky leaves rises 
+to the left of Thel.  This may be the colorless 
+monotropa or corpse-plant.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="C">
+                        <characteristic>plant</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>lily</characteristic>
+                        <illusobjdesc>Two stems grow just left of Thel's waist. 
+Both terminate in a small, lily-like flower.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>Thel</characteristic>
+                        <characteristic>hem</characteristic>
+                        <characteristic>arms folded</characteristic>
+                        <characteristic>squatting</characteristic>
+                        <characteristic>knees</characteristic>
+                        <characteristic>bowing</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>arms crossed</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>head bowed</characteristic>
+                        <characteristic>legs drawn up</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>arms wrapped around knees</characteristic>
+                        <characteristic>arms crossed</characteristic>
+                        <characteristic>hands on knees</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Thel squats on the ground, her arms folded 
+over her chest and knees in a contracted position.  
+Her long hair falls over her shoulders; the hem of her 
+long gown cascades around her. She looks down at the 
+personified Clod and Worm with head bowed.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>male</characteristic>
+                        <characteristic>Worm</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>infant</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arms raised at 135 degrees</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>hand raised, palm up</characteristic>
+                        <illusobjdesc>The nude, infant Worm lies on the ground 
+with legs crossed and arms extended at an angle of 135 degrees. 
+His head is turned toward the Clod.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>Clod</characteristic>
+                        <characteristic>matron Clay</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <illusobjdesc>The personified Clod or "matron Clay" (line 15) lies 
+on the ground.  She is a nude young woman with long hair.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+						<characteristic>shadow</characteristic>
+						<illusobjdesc>Each of the two plants may cast a short, dark shadow on the ground surrounding Thel, the Clod, and the Worm.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext id="thel.a-proof.P5.t">
+                <texthead justify="right">
+                    <l n="thel.a-proof.illbk.05.01" justify="right">
+                        <physnumber type="etched">5</physnumber>
+                    </l>
+                </texthead>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.05.02" justify="left">But he that loves the lowly, pours his oil upon my
+head,</l>
+                    <l n="thel.a-proof.illbk.05.03" justify="left">And kisses me, and binds his nuptial bands around my
+breast.</l>
+                    <l n="thel.a-proof.illbk.05.04" justify="left">And says; Thou mother of my children, I have loved
+thee.</l>
+                    <l n="thel.a-proof.illbk.05.05" justify="left">And I have given thee a crown that none can take away:<note>In Copy a, this colon printed lightly and is difficult to see.</note></l>
+                    <l n="thel.a-proof.illbk.05.06" justify="left">But how this is sweet maid, I know not, and I cannot
+know,</l>
+                    <l n="thel.a-proof.illbk.05.07" justify="left">I ponder, and I cannot ponder; yet I live and
+love.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.05.08" justify="left">The daughter of beauty wip'd her pitying tears with
+her white veil,</l>
+                    <l n="thel.a-proof.illbk.05.09" justify="left">And said. Alas! I knew not this. and therefore did I
+weep:</l>
+                    <l n="thel.a-proof.illbk.05.10" justify="left">That God would love a Worm I knew, and punish the evil
+foot</l>
+                    <l n="thel.a-proof.illbk.05.11" justify="left">That wilful, bruis'd its helpless form: but that he
+cherish'd it</l>
+                    <l n="thel.a-proof.illbk.05.12" justify="left">With milk and oil, I never knew; and therefore did I
+weep.</l>
+                    <l n="thel.a-proof.illbk.05.13" justify="left">And I complaind in the mild air, because I fade
+away.</l>
+                    <l n="thel.a-proof.illbk.05.14" justify="left">And lay me down in thy cold bed, and leave my shining
+lot.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="thel.a-proof.illbk.05.15" justify="left">Queen of the vales, the matron Clay answerd; I heard
+thy sighs.</l>
+                    <l n="thel.a-proof.illbk.05.16" justify="left">And all thy moans flew o'er my roof. but I have call'd
+them down:</l>
+                    <l n="thel.a-proof.illbk.05.17" justify="left">Wilt thou O Queen enter my house. 'tis given thee to
+enter.</l>
+                    <l n="thel.a-proof.illbk.05.18" justify="left">And to return; fear nothing. enter with thy virgin
+feet.</l>
+                </lg>
+                <vspace extent="6"/>
+                <textfoot justify="left">
+                    <l n="thel.a-proof.illbk.05.19" justify="left" indent="55">
+                        <catchword>IV</catchword></l>
+                </textfoot>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
