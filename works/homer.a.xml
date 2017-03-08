@@ -1,0 +1,549 @@
+<bad id="homer.a" type="illbk" work="On Homers Poetry [and] On Virgil" copy="A" copyid="A"
+               institution="ngadc" catalog="bentley" catid="A" hidden="false">
+               <header>
+                              <filedesc>
+                                             <titlestmt>
+                                                  <title reg="On Homers Poetry [and] On Virgil"
+                                                  ><main>On Homers Poetry [and] On
+                                                  Virgil</main><copy> copy A</copy> : electronic
+                                                  edition </title>
+                                                  <principal><resp>Editors: </resp><name>Morris
+                                                  Eaves, </name>University of Rochester;
+                                                  <name>Robert Essick, </name>University of
+                                                  California, Riverside; and <name>Joseph
+                                                  Viscomi</name>, University of North Carolina at
+                                                  Chapel Hill</principal>
+                                                  <respstmt> </respstmt>
+                                                  <sponsor>The Library of Congress, the University
+                                                  of North Carolina at Chapel Hill and the
+                                                  University of Rochester</sponsor>
+                                                  <funder/>
+                                             </titlestmt>
+                                             <editionstmt>Blake Archive Description DTD Version
+                                                  2005</editionstmt>
+                                             <extent>1 XML file approx. 32KB; 2 JPEG (ISO/IEC 10918)
+                                                  files approx. 108KB and 480KB</extent>
+                                             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi;
+                                                  Carolina Digital Library and
+                                                  Archives<date>???</date></publicationstmt>
+                                             <seriesstmt>The William Blake Archive</seriesstmt>
+                                             <notesstmt/>
+                              </filedesc>
+                              <userestrict>Copyright © <date>2009</date> by Morris Eaves, Robert N.
+                                             Essick, and Joseph Viscomi, all rights reserved. Items
+                                             in the Archive may be shared in accordance with the
+                                             Fair Use provisions of U.S. copyright law.
+                                             Redistribution or republication on other terms, in any
+                                             medium, requires express written consent from the
+                                             editors and advance notification of the publisher.
+                                             Permission to reproduce the graphic images in this
+                                             archive has been granted by the owners of the originals
+                                             for this publication only.<lb/><lb/> This image
+                                             copyright © 2009 National Gallery of Art,
+                                             Washington.</userestrict>
+                              <encodingdesc/>
+                              <profiledesc/>
+                              <revisiondesc>
+                                             <changestmt>
+                                                  <change>Conversion to XML and Blake Archive
+                                                  Description DTD 2005</change>
+                                                  <date>June 2009</date>
+                                                  <respstmt><resp>Editors: </resp><name>Morris
+                                                  Eaves, </name>University of Rochester;
+                                                  <name>Robert Essick, </name>University of
+                                                  California, Riverside; and <name>Joseph Viscomi,
+                                                  </name>University of North Carolina at Chapel Hill
+                                                  <resp>Technical Editor: </resp><name>William
+                                                  Shaw</name><resp>Project Manager:
+                                                  </resp><name>Ashley
+                                                  Reed</name><resp>Bibliographer: </resp><name>Mark
+                                                  Crosby</name><resp>Project Assistants:
+                                                  </resp><name>Esther Arnold, </name><name>Kate
+                                                  Attkisson, </name><name>Lauren Cameron,
+                                                  </name><name>Andrea Everett, </name><name>Michelle
+                                                  Langston, </name><name>Rachel Lee,
+                                                  </name><name>Ali McGhee, </name><name>Jennifer
+                                                  Park, </name><name>Wayne C. Ripley,
+                                                  </name><name>Adair Rispoli, </name><name>Sarah
+                                                  Shaw, </name><name>Sarah Tolf</name></respstmt>
+                                             </changestmt>
+                                             <changestmt>
+                                                  <change>Conversion to Blake Archive Description
+                                                  DTD 2.1; Styles 2.0</change>
+                                                  <date>Summer 2000</date>
+                                                  <respstmt><resp>Editors: </resp><name>Morris
+                                                  Eaves, </name>University of Rochester;
+                                                  <name>Robert Essick, </name>University of
+                                                  California, Riverside; and <name>Joseph Viscomi,
+                                                  </name>University of North Carolina at Chapel Hill
+                                                  <resp>Technical Editor: </resp><name>Matthew
+                                                  Kirschenbaum</name><resp>Programmer/Analysts:
+                                                  </resp><name>Robert Bingler, </name><name>David
+                                                  Cosca, </name><name>Kirk V.
+                                                  Hastings</name><resp>Project Manager:
+                                                  </resp><name>Andrea Laue</name><resp>Project
+                                                  Assistants: </resp><name>Christopher N. Jackson,
+                                                  </name><name>Kari Kraus, </name><name>Wayne C.
+                                                  Ripley</name></respstmt>
+                                             </changestmt>
+                                             <changestmt>
+                                                  <change>SGML BAD created</change>
+                                                  <date>1998</date>
+                                                  <respstmt><resp>Editors: </resp><name>Morris
+                                                  Eaves, </name>University of Rochester;
+                                                  <name>Robert Essick, </name>University of
+                                                  California, Riverside; and <name>Joseph Viscomi,
+                                                  </name>University of North Carolina at Chapel Hill
+                                                  <resp>Technical Editor: </resp><name>Andrea
+                                                  Laue</name><resp>Programmer/Analyst:</resp><name>Robert
+                                                  Bingler</name><resp>Project Manager:
+                                                  </resp><name>Justin Van Kleeck</name><resp>Project
+                                                  Assistants: </resp><name>Sarah Ficke,
+                                                  </name><name>Christopher N. Jackson,
+                                                  </name><name>Kari Kraus, </name><name>Gerald
+                                                  Miller, </name><name>Wesley N. Raabe,
+                                                  </name><name>Wayne C. Ripley, </name><name>Sarah
+                                                  Trippensee</name></respstmt>
+                                             </changestmt>
+                              </revisiondesc>
+               </header>
+               <objdesc>
+                              <source>
+                                             <objdescid>
+                                                  <objtitle>
+                                                  <title>
+                                                  *On Homers Poetry [and] On Virgil*
+                                                  </title>
+                                                  </objtitle>
+                                                  <origination>William Blake <role>author,
+                                                  </role><role>inventor, </role><role>delineator,
+                                                  </role><role>etcher,
+                                                  </role><role>printer</role></origination>
+                                                  <origination>Catherine Blake
+                                                  <role>printer</role></origination>
+                                                  <imprint>
+                                                  <publisher>William Blake <note>Blake's name does
+                                                  not appear in the work, but, if "published" at
+                                                  all, Blake was certainly the
+                                                  publisher.</note></publisher>
+                                                  <pubplace>London <note>The place of publication is
+                                                  not given in the work, but Blake lived in London
+                                                  during its production.</note></pubplace>
+                                                  </imprint>
+                                                  <compdate value="1822.A">c. 1822</compdate>
+                                             </objdescid>
+                                             <objinfo>
+                                                  <printdate value="1822.A">c. 1822</printdate>
+                                                  <numberobj>1</numberobj>
+                                                  <objorder/>
+                                                  <objsize>13.0 x 10.6 cm.</objsize>
+                                                  <numberleaves>1</numberleaves>
+                                                  <leafsize>28.9 x 23.3 cm.</leafsize>
+                                                  <medium>relief etching</medium>
+                                                  <printingstyle>relief</printingstyle>
+                                                  <inkcolor>black</inkcolor>
+                                                  <support>wove paper</support>
+                                                  <watermark>none</watermark>
+                                                  <etchednumbers>none</etchednumbers>
+                                                  <pennednumbers>none</pennednumbers>
+                                                  <framelines>none</framelines>
+                                                  <binding>loose<note>Stitched with *The
+                                                  Ghost of Abel* copy A and an impression of
+                                                  "The Man Sweeping the Interpreter's Parlour"
+                                                  between 1852 and 1912.</note></binding>
+                                                  <stabholes>none</stabholes>
+                                             </objinfo>
+                                             <provenance n="1">
+                                                  <name>National Gallery of Art, Washington</name>
+                                                  <date>1929 to Lessing J. Rosenwald; given to the
+                                                  National Gallery of Art in 1945.</date>
+                                                  <dealer>A. S. W. Rosenbach</dealer>
+                                                  <price>not recorded</price>
+                                                  <note>Thomas Butts; sold from the Butts collection
+                                                  (stitched together with *The Ghost of
+                                                  Abel* copy A and an impression of "The Man
+                                                  Sweeping the Interpreter's Parlour"), Sotheby's,
+                                                  26 March 1852, lot 55 (R. M. Milnes, £2); Milnes'
+                                                  son, the Earl of Crewe, apparently by inheritance;
+                                                  sold from the Crewe collection, Sotheby's, 30
+                                                  March 1903, lot 8, still bound with the 2 other
+                                                  works as above (the dealer Bernard Quaritch, £43);
+                                                  William A. White by no later than 1905; all 3
+                                                  works sold from the White collection through the
+                                                  dealer A. S. W. Rosenbach to Lessing J. Rosenwald
+                                                  on 1 May 1929; given by Rosenwald to the National
+                                                  Gallery of Art, Washington, D.C., in 1945.</note>
+                                             </provenance>
+                                             <repository>
+                                                  <institution>National Gallery of Art,
+                                                  Washington</institution>
+                                                  <addressline>Constitution Ave. NW, between 3rd and
+                                                  9th Sts.</addressline>
+                                                  <addressline>Washington, D. C. 20565</addressline>
+                                                  <addressline>Mailing address: 2000B South Club
+                                                  Drive</addressline>
+                                                  <addressline>Landover, Maryland
+                                                  20785</addressline>
+                                                  <addressline>United States</addressline>
+                                                  <addressline>Telephone: 202-737-4215</addressline>
+                                                  <addressline>Print Study Rooms:
+                                                  202-842-6380</addressline>
+                                                  <addressline>Visual Services:
+                                                  202-842-6126</addressline>
+                                                  <addressline>URL:
+                                                  http://www.nga.gov/</addressline>
+                                                  <department>Drawings and Prints</department>
+                                                  <collection>Lessing J. Rosenwald Collection,
+                                                  National Gallery of Art, Washington </collection>
+                                                  <repositoryid label="Call number">N
+                                                  4203</repositoryid>
+                                             </repository>
+                              </source>
+                              <desc id="homer.a.illbk.01" dbi="homer.A.P1">
+                                             <objtitle><title type="transcribed">On Homers Poetry
+                                                  [and] On Virgil</title>, <objid><objnumber
+                                                  code="A1">object 1 </objnumber><objcode code="B1"
+                                                  >(Bentley 1, </objcode><objcode code="E1">Erdman
+                                                  1, </objcode><objcode code="K1">Keynes
+                                                  1)</objcode></objid></objtitle>
+                                             <physdesc desclevel="brief">
+                                                  <objsize>13.0 x 10.6 cm.</objsize>
+                                                  <windowsize height="676" width="551"/>
+                                             </physdesc>
+                                             <illusdesc>
+                                                  <illustration type="interlinear" location="E">
+                                                  <illusobjdesc>Cloud forms appear right and left of
+                                                  the heading at the top of the plate ("On Homers
+                                                  Poetry," line 1). The cloud--if that is what it
+                                                  is--on the left is twisted into a spiral shape.
+                                                  The first vertical of "Homers" in the heading
+                                                  extends into a vine, as does the descender of the
+                                                  last letter of "Poetry." A wavy line, perhaps a
+                                                  vine, follows line 8 of the text. The wavy lines
+                                                  right of lines 22-32 might be vines, roots, or
+                                                  flames. On the left side of the plate, between
+                                                  lines 21 and 25 and left of lines 22-24 and the
+                                                  "On Virgil" heading (line 25), we see a tree trunk
+                                                  along the left margin. Standing just to the right
+                                                  is a gowned and bearded male facing right. At
+                                                  least his right arm is bent at the elbow and he
+                                                  holds (and presumably plays) a large harp. This is
+                                                  probably the bard Homer. His audience consists of
+                                                  four figures to the right, all probably gowned and
+                                                  standing. The left-most figured in the group,
+                                                  facing left, has her or his head bowed slightly,
+                                                  with the right arm bent over the chest. The next
+                                                  figure to the right, facing forward, apparently
+                                                  has her or his arms at the side or behind the
+                                                  back. The next figure to the right, apparently
+                                                  facing forward, has her or his right arm bent over
+                                                  the chest. The final figure is larger and probably
+                                                  male. He faces to the left with head bowed and
+                                                  arms probably crossed over his chest. To the right
+                                                  of this group is a tree with two branches. It is
+                                                  leafless (unless we consider the words above it as
+                                                  its metonymic "leaves"). To the right of this tree
+                                                  and below the "On Virgil" heading is some grass or
+                                                  small plants followed by a spiraling vine. The
+                                                  right upper termination of the "V" of "Virgil"
+                                                  also becomes a vine with a single loop. In the
+                                                  space between lines 33 and 34 are, on the left,
+                                                  some horizontal wavy lines that may be vines,
+                                                  cloud outlines, or waves. To the right are the
+                                                  vague outlines of two (female?) figures lying
+                                                  horizontally, one with her head on the left and
+                                                  the other (far right) with her head on the right.
+                                                  At the bottom of the plate are a number of
+                                                  indistinct forms that may be hovering human
+                                                  figures (note particularly the figure, with arms
+                                                  raised horizontally below "Gothic" in line 38). In
+                                                  the lower right corner of the plate is an
+                                                  indistinct form that might possibly be a human
+                                                  figure with long hair, bent low to the ground (in
+                                                  prayer?) with head and extended arms on the left.
+                                                  This figure's legs, on the right, are drawn up and
+                                                  may be covered by a gown.</illusobjdesc>
+                                                  <component type="object" location="AB">
+                                                  <characteristic>cloud</characteristic>
+                                                  <characteristic>twisted</characteristic>
+                                                  <characteristic>spiral</characteristic>
+                                                  <illusobjdesc>Cloud forms appear right and left of
+                                                  the heading at the top of the plate ("On Homers
+                                                  Poetry," line 1). The cloud--if that is what it
+                                                  is--on the left is twisted into a spiral
+                                                  shape.</illusobjdesc>
+                                                  </component>
+                                                  <component type="vegetation" location="B">
+                                                  <characteristic>leaf</characteristic>
+                                                  <characteristic>vine</characteristic>
+                                                  <characteristic>branch</characteristic>
+                                                  <illusobjdesc>The cloud-like forms right of the
+                                                  heading, in the upper right corner of the plate,
+                                                  suggest a leaf and a vine or
+                                                  branch.</illusobjdesc>
+                                                  </component>
+                                                  <component type="vegetation" location="AB">
+                                                  <characteristic>vine</characteristic>
+                                                  <illusobjdesc>The first vertical of "Homers" in
+                                                  the heading (line 1) extends into a vine, as does
+                                                  the descender of the last letter of "Poetry." A
+                                                  wavy line, perhaps a vine, follows line 8 of the
+                                                  text.</illusobjdesc>
+                                                  </component>
+                                                  <component type="vegetation" location="BD">
+                                                  <characteristic>vine</characteristic>
+                                                  <characteristic>root</characteristic>
+                                                  <characteristic>fire</characteristic>
+                                                  <illusobjdesc>The wavy lines right of lines 22-32
+                                                  of the text might be vines, roots, or
+                                                  flames.</illusobjdesc>
+                                                  </component>
+                                                  <component type="vegetation" location="E">
+                                                  <characteristic>tree</characteristic>
+                                                  <characteristic>trunk</characteristic>
+                                                  <characteristic>branch</characteristic>
+                                                  <characteristic>leafless</characteristic>
+                                                  <characteristic>plant</characteristic>
+                                                  <characteristic>grass</characteristic>
+                                                  <characteristic>vine</characteristic>
+                                                  <characteristic>loop</characteristic>
+                                                  <characteristic>spiral</characteristic>
+                                                  <illusobjdesc>On the left side of the plate,
+                                                  between lines 21 and 25 and left of lines 22-24
+                                                  and the "On Virgil" heading (line 25), we see a
+                                                  tree trunk along the left margin. Another tree,
+                                                  with two leafless branches, stands further to the
+                                                  right, right of the group of five standing
+                                                  figures. To the right of this tree and below the
+                                                  "On Virgil" heading is some grass or small plants
+                                                  followed by a spiraling vine. The right upper
+                                                  termination of the "V" of "Virgil" also becomes a
+                                                  vine with a single loop.</illusobjdesc>
+                                                  </component>
+                                                  <component type="figure" location="AC">
+                                                  <characteristic>male</characteristic>
+                                                  <characteristic>gown</characteristic>
+                                                  <characteristic>standing</characteristic>
+                                                  <characteristic>facing right</characteristic>
+                                                  <characteristic>arm bent</characteristic>
+                                                  <characteristic>beard</characteristic>
+                                                  <characteristic>holding</characteristic>
+                                                  <characteristic>playing</characteristic>
+                                                  <characteristic>harp</characteristic>
+                                                  <characteristic>bard</characteristic>
+                                                  <characteristic>Homer</characteristic>
+                                                  <illusobjdesc>A gowned and bearded male stands
+                                                  facing right just to the right of the tree near
+                                                  the left margin of the plate. At least his right
+                                                  arm is bent at the elbow and he holds (and
+                                                  presumably plays) a large harp. This is probably
+                                                  the bard Homer.</illusobjdesc>
+                                                  </component>
+                                                  <component type="figure" location="AC">
+                                                  <characteristic>standing</characteristic>
+                                                  <characteristic>gown</characteristic>
+                                                  <characteristic>head down</characteristic>
+                                                  <characteristic>facing left</characteristic>
+                                                  <characteristic>arm bent</characteristic>
+                                                  <characteristic>facing forward</characteristic>
+                                                  <characteristic>arms at side</characteristic>
+                                                  <characteristic>arms drawn back</characteristic>
+                                                  <characteristic>male</characteristic>
+                                                  <characteristic>arms crossed</characteristic>
+                                                  <illusobjdesc>To the right of the figure playing a
+                                                  harp is his audience, consisting of four figures,
+                                                  all probably gowned and standing. The left-most
+                                                  figured in the group, facing left, has her or his
+                                                  head bowed slightly, with the right arm bent over
+                                                  the chest. The next figure to the right, facing
+                                                  forward, apparently has her or his arms at the
+                                                  side or behind the back. The next figure to the
+                                                  right, apparently facing forward, has her or his
+                                                  right arm bent over the chest. The final figure is
+                                                  larger and probably male. He faces to the left
+                                                  with head bowed and arms probably crossed over his
+                                                  chest.</illusobjdesc>
+                                                  </component>
+                                                  <component type="vegetation" location="C">
+                                                  <characteristic>vine</characteristic>
+                                                  <characteristic>cloud</characteristic>
+                                                  <characteristic>waves</characteristic>
+                                                  <characteristic>water</characteristic>
+                                                  <illusobjdesc>In the space between lines 33 and 34
+                                                  of the text are, on the left side of the plate,
+                                                  some horizontal wavy lines that may be vines,
+                                                  cloud outlines, or waves.</illusobjdesc>
+                                                  </component>
+                                                  <component type="figure" location="D">
+                                                  <characteristic>female</characteristic>
+                                                  <characteristic>lying</characteristic>
+                                                  <characteristic>body horizontal</characteristic>
+                                                  <illusobjdesc>In the space between lines 33 and 34
+                                                  of the text are, on the right side of the plate,
+                                                  the vague outlines of two (female?) figures lying
+                                                  horizontally, one with her head on the left and
+                                                  the other (far right) with her head on the
+                                                  right.</illusobjdesc>
+                                                  </component>
+                                                  <component type="figure" location="CD">
+                                                  <characteristic>hovering</characteristic>
+                                                  <characteristic>arms raised
+                                                  horizontally</characteristic>
+                                                  <illusobjdesc>At the bottom of the plate are a
+                                                  number of indistinct forms that may be hovering
+                                                  human figures (note particularly the figure, with
+                                                  arms raised horizontally below "Gothic" in line 38
+                                                  of the text).</illusobjdesc>
+                                                  </component>
+                                                  <component type="figure" location="D">
+                                                  <characteristic>bowing</characteristic>
+                                                  <characteristic>praying</characteristic>
+                                                  <characteristic>contracted</characteristic>
+                                                  <characteristic>hunched over</characteristic>
+                                                  <characteristic>arms raised
+                                                  horizontally</characteristic>
+                                                  <characteristic>long hair</characteristic>
+                                                  <characteristic>gown</characteristic>
+                                                  <characteristic>legs drawn up</characteristic>
+                                                  <illusobjdesc>In the lower right corner of the
+                                                  plate is an indistinct form that might possibly be
+                                                  a human figure with long hair, bent low to the
+                                                  ground (in prayer?) with head and extended arms on
+                                                  the left. This figure's legs, on the right, are
+                                                  drawn up and may be covered by a
+                                                  gown.</illusobjdesc>
+                                                  </component>
+                                                  </illustration>
+                                             </illusdesc>
+                                             <phystext>
+                                                  <texthead justify="left">
+                                                  <l n="homer.a.illbk.01.01" justify="left"
+                                                  indent="18">On Homers' Poetry</l>
+                                                  </texthead>
+                                                  <vspace extent="1"/>
+                                                  <lg type="prose" justify="left">
+                                                  <l n="homer.a.illbk.01.02" justify="left"
+                                                  indent="2">Every Poem must necessarily be a
+                                                  perfect Unity, but why</l>
+                                                  <l n="homer.a.illbk.01.03" justify="left"> Homers
+                                                  is peculiarly so. I cannot tell; he has told
+                                                  the</l>
+                                                  <l n="homer.a.illbk.01.04" justify="left"> story
+                                                  of Bellerophon &amp; omitted the Judgment of Paris
+                                                  which</l>
+                                                  <l n="homer.a.illbk.01.05" justify="left"> is not
+                                                  only a part, but a principal part of Homers
+                                                  subject</l>
+                                                  <l n="homer.a.illbk.01.06" justify="left"
+                                                  indent="1"> But when a Work has Unity it is as
+                                                  much in a Part as in the</l>
+                                                  <l n="homer.a.illbk.01.07" justify="left"> Whole.
+                                                  the Torso is as much a Unity as the Laocoon</l>
+                                                  <l n="homer.a.illbk.01.08" justify="left"> As
+                                                  Unity is the cloke of folly so Goodness is the
+                                                  cloke of</l>
+                                                  <l n="homer.a.illbk.01.09" justify="left"> knavery
+                                                  Those who will have Unity exclusively in Homer</l>
+                                                  <l n="homer.a.illbk.01.10" justify="left"> come
+                                                  out with a Moral like a sting in the tail:
+                                                  Aristotle says</l>
+                                                  <l n="homer.a.illbk.01.11" justify="left">
+                                                  Characters are either Good or Bad: now Goodness or
+                                                  Badness</l>
+                                                  <l n="homer.a.illbk.01.12" justify="left"> has
+                                                  nothing to do with Character. an Apple tree a Pear
+                                                  tree</l>
+                                                  <l n="homer.a.illbk.01.13" justify="left"> a Horse
+                                                  a Lion. are Characters but a Good Apple tree or
+                                                  a</l>
+                                                  <l n="homer.a.illbk.01.14" justify="left"> Bad. is
+                                                  an Apple tree still: a Horse is not more a Lion
+                                                  for</l>
+                                                  <l n="homer.a.illbk.01.15" justify="left"> being a
+                                                  Bad Horse. that is its Character; its Goodness
+                                                  or</l>
+                                                  <l n="homer.a.illbk.01.16" justify="left"> Badness
+                                                  is another consideration.</l>
+                                                  <l n="homer.a.illbk.01.17" justify="left"
+                                                  indent="1"> It is the same with the Moral of a
+                                                  whole Poem as with the</l>
+                                                  <l n="homer.a.illbk.01.18" justify="left"> Moral
+                                                  Goodness of its parts Unity &amp; Morality. are
+                                                  secondary</l>
+                                                  <l n="homer.a.illbk.01.19" justify="left">
+                                                  considerations &amp; belong to Philosophy &amp;
+                                                  not to Poetry. to Excep-</l>
+                                                  <l n="homer.a.illbk.01.20" justify="left">-tion
+                                                  &amp; not to Rule. to Accident &amp; not to
+                                                  Substance, the Anci-</l>
+                                                  <l n="homer.a.illbk.01.21" justify="left"> ents
+                                                  calld it eating of the tree of good &amp;
+                                                  evil.</l>
+                                                  </lg>
+                                                  <vspace extent="1"/>
+                                                  <lg type="prose" justify="left">
+                                                  <l n="homer.a.illbk.01.22" justify="left"
+                                                  indent="22">The Classics, it is the Classics!</l>
+                                                  <l n="homer.a.illbk.01.23" justify="left"
+                                                  indent="22">&amp; not Goths nor Monks, that</l>
+                                                  <l n="homer.a.illbk.01.24" justify="left"
+                                                  indent="22">Desolate Europe with Wars.</l>
+                                                  </lg>
+                                                  <vspace extent="1"/>
+                                                  <texthead justify="left">
+                                                  <l n="homer.a.illbk.01.25" justify="left"
+                                                  indent="26">On Virgil</l>
+                                                  </texthead>
+                                                  <vspace extent="1"/>
+                                                  <lg type="prose" justify="left">
+                                                  <l n="homer.a.illbk.01.26" justify="left"
+                                                  indent="2"> Sacred Truth has pronounced that
+                                                  Greece &amp; Rome as</l>
+                                                  <l n="homer.a.illbk.01.27" justify="left"> Babylon
+                                                  &amp; Egypt: so far from being parents of Arts
+                                                  &amp; Sci-</l>
+                                                  <l n="homer.a.illbk.01.28" justify="left"> -ences
+                                                  as they pretend: were destroyers of all Art.
+                                                  Homer</l>
+                                                  <l n="homer.a.illbk.01.29" justify="left"> Virgil
+                                                  &amp; Ovid confirm this opinion &amp; make us
+                                                  reverence</l>
+                                                  <l n="homer.a.illbk.01.30" justify="left"
+                                                  indent="1"> The Word of God. the only light of
+                                                  antiquity that remains</l>
+                                                  <l n="homer.a.illbk.01.31" justify="left">
+                                                  unperverted by War. Virgil in the Eneid Book VI,
+                                                  line 848</l>
+                                                  <l n="homer.a.illbk.01.32" justify="left"> says
+                                                  Let others study Art;<space extent="5"/> Rome has
+                                                  somewhat better to</l>
+                                                  <l n="homer.a.illbk.01.33" justify="left"> do.
+                                                  namely War &amp; Dominion</l>
+                                                  </lg>
+                                                  <vspace extent="1"/>
+                                                  <lg type="prose" justify="left">
+                                                  <l n="homer.a.illbk.01.34" justify="left"
+                                                  indent="1"> Rome &amp; Greece swept Art into their
+                                                  maw &amp; destroyd it</l>
+                                                  <l n="homer.a.illbk.01.35" justify="left"> a
+                                                  Warlike State never can produce Art. It will Rob
+                                                  &amp; Plunder</l>
+                                                  <l n="homer.a.illbk.01.36" justify="left"> &amp;
+                                                  accumulate into one place. &amp; Translate &amp;
+                                                  Copy &amp; Buy &amp;</l>
+                                                  <l n="homer.a.illbk.01.37" justify="left"> Sell
+                                                  &amp; Criticise. but not Make. Grecian is
+                                                  Mathematic Form</l>
+                                                  <l n="homer.a.illbk.01.38" justify="left"
+                                                  indent="2"> Mathematic Form is Eternal in<space
+                                                  extent="9"/> Gothic is Living</l>
+                                                  <l n="homer.a.illbk.01.39" justify="left"> the
+                                                  Reasoning Memory. Living Form <space extent="15"
+                                                  />Form</l>
+                                                  <l n="homer.a.illbk.01.40" justify="left"> is
+                                                  Eternal Existenc</l>
+                                                  </lg>
+                                             </phystext>
+                              </desc>
+               </objdesc>
+</bad>
