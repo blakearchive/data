@@ -1,22 +1,24 @@
-<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/bad.dtd">
-<bad id="s-los.f" type="illbk" work="The Song of Los" copy="F" copyid="F" institution="munich" catalog="bentley" catid="F" hidden="false">
+<!DOCTYPE bad
+  PUBLIC '-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML'
+  'http://www.blakearchive.org/bad.dtd'>
+<bad catalog="bentley" catid="F" copy="F" copyid="F" hidden="false" id="s-los.f" institution="munich" type="illbk" work="The Song of Los">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="The Song of Los">
                     <main>The Song of Los</main>
-                    <copy> Copy F</copy>
-: electronic edition
-</title>
+                    <copy>Copy F</copy>: electronic edition</title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of
 Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-               
-            </respstmt>
+
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+
+                    <name>Joseph Viscomi</name>
+                    , University of North Carolina at Chapel Hill</principal>
+                <respstmt/>
                 <sponsor>The
                Library of Congress, the University of North Carolina at Chapel Hill
                and the University of Rochester</sponsor>
@@ -24,39 +26,87 @@ Rochester;
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>XML file approx. 89KB; 16 JPEG (ISO/IEC 10918) files ranging in size from 150KB to 1300KB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2015</date>
-            </publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>February 2015</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            <updatestmt>
-                The William Blake Archive is pleased to announce the publication of an electronic edition of <hi rend="i">The Song of Los</hi> copy F, from the Bayerische Staatsbibliothek, Munich, Germany. It joins copies A and D from the British Museum, copy B from the Library of Congress, copy C from the Morgan Library and Museum, and copy E from the Huntington Library. The Archive now has all six extant copies of this illuminated book, making <hi rend="i">The Song of Los</hi> the fifth illuminated book whose entire publishing history is reproduced in the Archive, joining <hi rend="i">Milton a Poem</hi>, <hi rend="i">All Religions are One</hi>, <hi rend="i">The Book of Ahania</hi>, and <hi rend="i">The Book of Los</hi>. The Archive will add <hi rend="i">The Marriage of Heaven and Hell</hi> and all complete copies of <hi rend="i">There is No Natural Religion</hi> to the list later this year.     
+            <updatestmt>The William Blake Archive is pleased to announce the publication of an electronic edition of 
+                <hi rend="i">The Song of Los</hi>
+                copy F, from the Bayerische Staatsbibliothek, Munich, Germany. It joins copies A and D from the British Museum, copy B from the Library of Congress, copy C from the Morgan Library and Museum, and copy E from the Huntington Library. The Archive now has all six extant copies of this illuminated book, making 
+                <hi rend="i">The Song of Los</hi>
+                the fifth illuminated book whose entire publishing history is reproduced in the Archive, joining 
+                <hi rend="i">Milton a Poem</hi>
+                , 
+                <hi rend="i">All Religions are One</hi>
+                , 
+                <hi rend="i">The Book of Ahania</hi>
+                , and 
+                <hi rend="i">The Book of Los</hi>
+                . The Archive will add 
+                <hi rend="i">The Marriage of Heaven and Hell</hi>
+                and all complete copies of 
+                <hi rend="i">There is No Natural Religion</hi>
+                to the list later this year.     
+                
                 <lb/>
                 <lb/>
-                The eight plates of <hi rend="i">The Song of Los</hi> were produced in 1795; all extant copies (A-F) were color printed in that year in a single pressrun. Divided into sections entitled "Africa" and "Asia," <hi rend="i">The Song of Los</hi> is the last of Blake's "Continental Prophecies" (see also <hi rend="i">America</hi> [1793] and <hi rend="i">Europe</hi> [1794], exemplary printings of which are in the Archive). Blake abandons direct references to contemporary events to pursue the junctures among biblical narrative, the origins of law and religion, and his own developing mythology. Adam, Noah, Socrates, Brama, Los, Urizen, and several others represent both historical periods and states of consciousness. The loose narrative structure reaches towards a vision of universal history ending with apocalyptic resurrection.
+                The eight plates of 
+                <hi rend="i">The Song of Los</hi>
+                were produced in 1795; all extant copies (A-F) were color printed in that year in a single pressrun. Divided into sections entitled &quot;Africa&quot; and &quot;Asia,&quot; 
+                <hi rend="i">The Song of Los</hi>
+                is the last of Blake's &quot;Continental Prophecies&quot; (see also 
+                <hi rend="i">America</hi>
+                [1793] and 
+                <hi rend="i">Europe</hi>
+                [1794], exemplary printings of which are in the Archive). Blake abandons direct references to contemporary events to pursue the junctures among biblical narrative, the origins of law and religion, and his own developing mythology. Adam, Noah, Socrates, Brama, Los, Urizen, and several others represent both historical periods and states of consciousness. The loose narrative structure reaches towards a vision of universal history ending with apocalyptic resurrection.
+                
                 <lb/>
                 <lb/>
-                Plates 1, 2, 5, and 8 (frontispiece, title page, and full-page designs) are color printed drawings, executed on millboards and printed in the planographic manner of—and probably concurrent with—the twelve Large Color Printed Drawings of 1795, which are also in the Archive. Plates 3 and 4, which make up "Africa," and plates 6 and 7, which make up "Asia," were executed first, side by side on two oblong pieces of copper (plates 3/4, 6/7). Initially designed with double columns in landscape format, the texts of the poems were transformed into vertical pages by printing the oblong plates with one side masked. 
+                Plates 1, 2, 5, and 8 (frontispiece, title page, and full-page designs) are color printed drawings, executed on millboards and printed in the planographic manner of—and probably concurrent with—the twelve Large Color Printed Drawings of 1795, which are also in the Archive. Plates 3 and 4, which make up &quot;Africa,&quot; and plates 6 and 7, which make up &quot;Asia,&quot; were executed first, side by side on two oblong pieces of copper (plates 3/4, 6/7). Initially designed with double columns in landscape format, the texts of the poems were transformed into vertical pages by printing the oblong plates with one side masked. 
+                
                 <lb/>
                 <lb/>
-                With the publication of <hi rend="i">The Song of Los</hi> copy F, the Archive now contains fully searchable and scalable electronic editions of 92 copies of Blake's nineteen illuminated books in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies. New protocols for transcription, which produce improved accuracy and fuller documentation in editors' notes, have been applied to all copies of <hi rend="i">The Song of Los</hi> in the Archive. With the Archive's Compare feature, users can easily juxtapose multiple impressions of any plate across all or selected copies of this or any of the other illuminated books and, with the Virtual Lightbox, users can examine any images in the Archive, as well as crop, zoom, and juxtapose them for close study.
+                With the publication of 
+                <hi rend="i">The Song of Los</hi>
+                copy F, the Archive now contains fully searchable and scalable electronic editions of 92 copies of Blake's nineteen illuminated books in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies. New protocols for transcription, which produce improved accuracy and fuller documentation in editors' notes, have been applied to all copies of 
+                <hi rend="i">The Song of Los</hi>
+                in the Archive. With the Archive's Compare feature, users can easily juxtapose multiple impressions of any plate across all or selected copies of this or any of the other illuminated books and, with the Virtual Lightbox, users can examine any images in the Archive, as well as crop, zoom, and juxtapose them for close study.
+                
                 <lb/>
-                <lb/> 
+                <lb/>
                 This is the first time that works from the Bayerische Staatsbibliothek have been represented in the Archive. Accordingly, we are also publishing the library’s Blake collection list, which includes all of its original works by Blake, not just those published in the Archive, and joins the Collection Lists of over thirty other contributing institutions.
+                
                 <lb/>
                 <lb/>
-                In addition to illuminated books, the Archive contains many important manuscripts and series of engravings, sketches, and water color drawings, including Blake's illustrations to Thomas Gray's <hi rend="i">Poems</hi>, water color and engraved illustrations to Dante's <hi rend="i">Divine Comedy</hi>, the large color printed drawings of 1795 and c. 1805, the Linnell and Butts sets of the <hi rend="i">Book of Job</hi> water colors and the sketchbook containing drawings for the engraved illustrations to the <hi rend="i">Book of Job</hi>, the water color illustrations to Robert Blair's <hi rend="i">The Grave</hi>, and all nine of Blake's water color series illustrating the poetry of John Milton. In December 2014, the Archive launched a new wing, which contains searchable HTML and PDF editions of thirty-nine past issues of <hi rend="i">Blake/An Illustrated Quarterly</hi> published from 2000 through 2009. PDF versions present the journal as originally published, but the HTML versions are re-implemented with many full-color images from the Blake Archive, making it possible for users to link directly to those works that have been published in the Archive.
+                In addition to illuminated books, the Archive contains many important manuscripts and series of engravings, sketches, and water color drawings, including Blake's illustrations to Thomas Gray's 
+                <hi rend="i">Poems</hi>
+                , water color and engraved illustrations to Dante's 
+                <hi rend="i">Divine Comedy</hi>
+                , the large color printed drawings of 1795 and c. 1805, the Linnell and Butts sets of the 
+                <hi rend="i">Book of Job</hi>
+                water colors and the sketchbook containing drawings for the engraved illustrations to the 
+                <hi rend="i">Book of Job</hi>
+                , the water color illustrations to Robert Blair's 
+                <hi rend="i">The Grave</hi>
+                , and all nine of Blake's water color series illustrating the poetry of John Milton. In December 2014, the Archive launched a new wing, which contains searchable HTML and PDF editions of thirty-nine past issues of 
+                <hi rend="i">Blake/An Illustrated Quarterly</hi>
+                published from 2000 through 2009. PDF versions present the journal as originally published, but the HTML versions are re-implemented with many full-color images from the Blake Archive, making it possible for users to link directly to those works that have been published in the Archive.
+                
                 <lb/>
                 <lb/>
                 As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.                  </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
+        <userestrict>Copyright © 
+            <date>2015</date>
+            by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved.  Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
 express written consent from the editors and advance notification of the
 publisher.
 Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
+granted by the owners of the originals for this publication only.
+            <lb/>
             <lb/>
             This image copyright © 2015 Bayerische Staatsbibliothek, Munich</userestrict>
         <encodingdesc/>
@@ -68,8 +118,13 @@ granted by the owners of the originals for this publication only.<lb/>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
                     <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
@@ -101,8 +156,7 @@ granted by the owners of the originals for this publication only.<lb/>
                     <name>Lisa Vandenbossche,</name>
                     <name>Nikolaus Wasmoen,</name>
                     <name>Alia Wegner,</name>
-                    <name>Megan Wilson</name>
-                </respstmt>
+                    <name>Megan Wilson</name></respstmt>
             </changestmt>
             <changestmt>
                 <change>BAD and illustration description creation</change>
@@ -110,8 +164,13 @@ granted by the owners of the originals for this publication only.<lb/>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
                     <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
@@ -143,8 +202,7 @@ granted by the owners of the originals for this publication only.<lb/>
                     <name>Lisa Vandenbossche,</name>
                     <name>Nikolaus Wasmoen,</name>
                     <name>Alia Wegner,</name>
-                    <name>Megan Wilson,</name>
-                </respstmt>
+                    <name>Megan Wilson,</name></respstmt>
             </changestmt>
             <changestmt>
                 <change>Image acquisition, metadata creation, and color correction</change>
@@ -152,8 +210,13 @@ granted by the owners of the originals for this publication only.<lb/>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    
                     <resp>Technical Editor: </resp>
                     <name>William Shaw </name>
                     <resp>Project Manager: </resp>
@@ -178,8 +241,7 @@ granted by the owners of the originals for this publication only.<lb/>
                     <name>Hardeep Sidhu,</name>
                     <name>Sarah Tolf,</name>
                     <name>Nikolaus Wasmoen,</name>
-                    <name>Bihan Zhang</name>
-                </respstmt>
+                    <name>Bihan Zhang</name></respstmt>
             </changestmt>
         </revisiondesc>
     </header>
@@ -188,20 +250,20 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        <hi rend="i">The Song of Los</hi>
+                        *The Song of Los*
                     </title>
                 </objtitle>
-                <origination>William Blake <role>author, </role>
+                <origination>William Blake 
+                    <role>author, </role>
                     <role>inventor, </role>
                     <role>delineator, </role>
                     <role>etcher, </role>
                     <role>printer, </role>
-                    <role>colorist</role>
-                </origination>
-                <origination>Catherine Blake <role>printer</role>
-                </origination>
+                    <role>colorist</role></origination>
+                <origination>Catherine Blake 
+                    <role>printer</role></origination>
                 <imprint>
-                    <publisher> William Blake</publisher>
+                    <publisher>William Blake</publisher>
                     <pubplace>Lambeth</pubplace>
                     <date>1795</date>
                 </imprint>
@@ -210,7 +272,7 @@ granted by the owners of the originals for this publication only.<lb/>
             <objinfo>
                 <printdate value="1795.F">1795</printdate>
                 <numberobj>8</numberobj>
-                <objorder> Bentley plate numbers 1-8</objorder>
+                <objorder>Bentley plate numbers 1-8</objorder>
                 <objsize>ranging between 24.3 x 17.5 cm. and 21.5 x 13.5 cm.</objsize>
                 <numberleaves>8</numberleaves>
                 <leafsize>37.1 x 26.0 cm.</leafsize>
@@ -220,13 +282,13 @@ color printed planographically.</medium>
                 <printingstyle>Relief with color printing. The title page and
 full-plate designs (objects 1-2, 5, 8) were color printed
 planographically.</printingstyle>
-                <inkcolor>olive brown<note>objects 1, 5, and 8 may not contain any underlying ink beneath the thick color printing.  The brownish-gray color of the text on object 2 may be color-printing medium rather than ink.</note>
-                </inkcolor>
+                <inkcolor>olive brown
+                    <note>objects 1, 5, and 8 may not contain any underlying ink beneath the thick color printing.  The brownish-gray color of the text on object 2 may be color-printing medium rather than ink.</note></inkcolor>
                 <support>wove paper</support>
                 <watermark>none</watermark>
                 <etchednumbers>none</etchednumbers>
-                <pennednumbers>objects 3-8 numbered 1-6 top right<note>Object 1 is inscribed "a" (top left) and object 2 is inscribed "b" (top right) in pencil.  These letters are not by Blake and may have been added during rebinding in May 1963 to indicate the proper sequence of these plates.</note>
-                </pennednumbers>
+                <pennednumbers>objects 3-8 numbered 1-6 top right
+                    <note>Object 1 is inscribed &quot;a&quot; (top left) and object 2 is inscribed &quot;b&quot; (top right) in pencil.  These letters are not by Blake and may have been added during rebinding in May 1963 to indicate the proper sequence of these plates.</note></pennednumbers>
                 <framelines>none</framelines>
                 <binding>bound May 1963 in light beige cloth</binding>
                 <stabholes>stabbed through four holes, 6.8 cm. from the top and 8.3, 7.5, and 4.6 cm. apart</stabholes>
@@ -236,7 +298,7 @@ planographically.</printingstyle>
                 <date>no later than c. 1841</date>
                 <dealer>not recorded</dealer>
                 <price>not recorded</price>
-                <note>Acquired at an unknown time, no later than c. 1841, from an unrecorded source by the library of Ludwig I of Bavaria and listed in his library catalogue dated "1832-1840/41"; the court library of Ludwig I renamed the Bayerische Staatsbibliothek, Munich, in 1919.</note>
+                <note>Acquired at an unknown time, no later than c. 1841, from an unrecorded source by the library of Ludwig I of Bavaria and listed in his library catalogue dated &quot;1832-1840/41&quot;; the court library of Ludwig I renamed the Bayerische Staatsbibliothek, Munich, in 1919.</note>
             </provenance>
             <repository>
                 <institution>Bayerische Staatsbibliothek, Munich</institution>
@@ -251,25 +313,25 @@ planographically.</printingstyle>
                 <repositoryid label="Accession number">BV001649164, shelf mark Chalc. 160</repositoryid>
             </repository>
         </source>
-        <desc id="s-los.f.illbk.01" dbi="s-los.f.P1">
+        <desc dbi="s-los.f.P1" id="s-los.f.illbk.01">
             <objtitle>
                 <title type="transcribed">The Song of Los</title>,
-<objid>
+
+                <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="B1">(Bentley 1, </objcode>
                     <objcode code="E1">Erdman 1, </objcode>
-                    <objcode code="K1">Keynes 1)</objcode>
-                </objid>
+                    <objcode code="K1">Keynes 1)</objcode></objid>
             </objtitle>
             <physdesc desclevel="brief">
                 <objnote>
-                    <p>Object 1 is inscribed "a" (top left) and object 2 is inscribed "b" (top right) in pencil.  These letters are not by Blake and may have been added during rebinding in May 1963 to indicate the proper sequence of these plates. A check mark, also in penci, appears top right on object 1.  This is also not by Blake.</p>
+                    <p>Object 1 is inscribed &quot;a&quot; (top left) and object 2 is inscribed &quot;b&quot; (top right) in pencil.  These letters are not by Blake and may have been added during rebinding in May 1963 to indicate the proper sequence of these plates. A check mark, also in penci, appears top right on object 1.  This is also not by Blake.</p>
                 </objnote>
                 <objsize>23.4 x 17.3 cm.</objsize>
                 <windowsize height="1217" width="900"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>We see from behind a figure, probably male, kneeling 
 and bowing over an altar.  He may be praying.  His feet are 
 prominently displayed beneath the hem of a garment that extends 
@@ -284,7 +346,7 @@ design.  The area surrounding the globe is probably the void of
 space.  The line below the globe, rising in stages from left
 to right, may be the outline of a distant mountain.  The figure might be either Urizen (note the white hair) 
 or a priest who represents false religion.</illusobjdesc>
-                    <component type="figure" location="CD">
+                    <component location="CD" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>gown</characteristic>
                         <characteristic>Urizen</characteristic>
@@ -304,7 +366,7 @@ only to his waist.  The figure might be either Urizen (note the
 white hair) or a priest who represents false 
 religion.</illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>altar</characteristic>
                         <characteristic>stone</characteristic>
                         <characteristic>book</characteristic>
@@ -313,7 +375,7 @@ religion.</illusobjdesc>
 probably a stone altar.  The top of the altar may be an open book,
 seen only along its lower edge.</illusobjdesc>
                     </component>
-                    <component type="object" location="AB">
+                    <component location="AB" type="object">
                         <characteristic>sun</characteristic>
                         <characteristic>dark</characteristic>
                         <characteristic>globe</characteristic>
@@ -330,7 +392,7 @@ around the globe is probably just the void of
 space.  The line below the globe, rising in stages from left
 to right, may be the outline of a distant mountain.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>grass</characteristic>
                         <characteristic>lichens</characteristic>
                         <characteristic>indeterminate</characteristic>
@@ -338,28 +400,29 @@ to right, may be the outline of a distant mountain.</illusobjdesc>
 covered with grass or lichens.</illusobjdesc>
                     </component>
                 </illustration>
-            </illusdesc><!-- [Full-page design] -->
+            </illusdesc>
+            <!-- [Full-page design] -->
         </desc>
-        <desc id="s-los.f.illbk.02" dbi="s-los.f.P2">
+        <desc dbi="s-los.f.P2" id="s-los.f.illbk.02">
             <objtitle>,
-<objid>
+
+                <objid>
                     <objnumber code="A2">object 2 </objnumber>
                     <objcode code="B2">(Bentley 2, </objcode>
                     <objcode code="E2">Erdman 2, </objcode>
-                    <objcode code="K2">Keynes 2)</objcode>
-                </objid>
+                    <objcode code="K2">Keynes 2)</objcode></objid>
             </objtitle>
             <physdesc desclevel="brief">
                 <objnote>
-                    <p>Object 1 is inscribed "a" (top left) and object 2 is inscribed "b" (top right) in pencil.  These letters are not by Blake and may have been added during rebinding in May 1963 to indicate the proper sequence of these plates.</p>
+                    <p>Object 1 is inscribed &quot;a&quot; (top left) and object 2 is inscribed &quot;b&quot; (top right) in pencil.  These letters are not by Blake and may have been added during rebinding in May 1963 to indicate the proper sequence of these plates.</p>
                 </objnote>
                 <objsize>24.3 x 17.2 cm.</objsize>
                 <windowsize height="1264" width="894"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
-                    <illusobjdesc>The title page is treated as a full-page design, with the area bearing the title words (lines 1-3) treated as the sky.  At the lower margin, an old bearded man lies supine on the ground.  His gown covers all but his left hand, which rests on a skull, and his face.  He faces and looks up, with his legs extended to the left.  This figure has been variously identified as Urizen, Moses, Adam, and Noah—see "And Noah as white as snow / On the mountains of Ararat" (plate 7, lines 22-23).  The skull may be Adam's—see "For Adam, a mouldering skeleton / Lay bleach'd on the garden of Eden" (plate 7, lines 20-21). The background behind and above the figure may be hills (covered with indeterminate vegetation) closest to the figure, and either more distant hills or waves of the sea in the far background.  The red area in the distance above the figure's legs may be fire.  In the sky, three birds with extended wings fly above and to the left of the first letter of "LOS" (line 3) in the title. The rightmost and largest bird is red, while the other two are black.</illusobjdesc>
-                    <component type="figure" location="CD">
+                <illustration location="E" type="plate">
+                    <illusobjdesc>The title page is treated as a full-page design, with the area bearing the title words (lines 1-3) treated as the sky.  At the lower margin, an old bearded man lies supine on the ground.  His gown covers all but his left hand, which rests on a skull, and his face.  He faces and looks up, with his legs extended to the left.  This figure has been variously identified as Urizen, Moses, Adam, and Noah—see &quot;And Noah as white as snow / On the mountains of Ararat&quot; (plate 7, lines 22-23).  The skull may be Adam's—see &quot;For Adam, a mouldering skeleton / Lay bleach'd on the garden of Eden&quot; (plate 7, lines 20-21). The background behind and above the figure may be hills (covered with indeterminate vegetation) closest to the figure, and either more distant hills or waves of the sea in the far background.  The red area in the distance above the figure's legs may be fire.  In the sky, three birds with extended wings fly above and to the left of the first letter of &quot;LOS&quot; (line 3) in the title. The rightmost and largest bird is red, while the other two are black.</illusobjdesc>
+                    <component location="CD" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>gown</characteristic>
                         <characteristic>lying</characteristic>
@@ -382,17 +445,17 @@ covered with grass or lichens.</illusobjdesc>
 ground.  His gown covers all but his left hand, which rests on a 
 skull, and his face.  He faces and looks up, with his legs 
 extended to the left.  This figure has been variously identified 
-                     as Urizen, Moses, Adam, and Noah—see "And Noah as white as snow 
-/ On the mountains of Ararat" (plate 7, lines 22-23).</illusobjdesc>
+                     as Urizen, Moses, Adam, and Noah—see &quot;And Noah as white as snow 
+/ On the mountains of Ararat&quot; (plate 7, lines 22-23).</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
+                    <component location="D" type="object">
                         <characteristic>skull</characteristic>
                         <characteristic>Adam</characteristic>
                         <illusobjdesc>The old man rests his left hand on a human skull, 
-                     perhaps the skull of Adam—see "For Adam, a mouldering skeleton / 
-Lay bleach'd on the garden of Eden" (plate 7, lines 20-21).</illusobjdesc>
+                     perhaps the skull of Adam—see &quot;For Adam, a mouldering skeleton / 
+Lay bleach'd on the garden of Eden&quot; (plate 7, lines 20-21).</illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>hill</characteristic>
                         <characteristic>waves</characteristic>
                         <characteristic>sea</characteristic>
@@ -401,82 +464,86 @@ Lay bleach'd on the garden of Eden" (plate 7, lines 20-21).</illusobjdesc>
 composed of hills, closest to him, and either hills or waves of 
 the sea in the distance.  The red area in the distance above the figure's legs may be fire.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>indeterminate</characteristic>
                         <illusobjdesc>The green hills and the area just right of the figure's left shoulder may be covered with some sort of vegetation.</illusobjdesc>
                     </component>
-                    <component type="object" location="E">
+                    <component location="E" type="object">
                         <characteristic>sky</characteristic>
                         <characteristic>cloud</characteristic>
                         <illusobjdesc>The area containing the text of the title is treated as though it were the sky. Streaks of blue leave a negative white space suggesting clouds.</illusobjdesc>
                     </component>
-                    <component type="animal" location="A">
+                    <component location="A" type="animal">
                         <characteristic>bird</characteristic>
                         <characteristic>wing</characteristic>
                         <characteristic>flying</characteristic>
-                        <illusobjdesc>In the sky, three birds with extended wings fly above and to the left of the first letter of "LOS" (line 3) in the title. The rightmost and largest bird is red, while the other two are black. There is also another red bird to the right of “THE” (line 1).</illusobjdesc>
+                        <illusobjdesc>In the sky, three birds with extended wings fly above and to the left of the first letter of &quot;LOS&quot; (line 3) in the title. The rightmost and largest bird is red, while the other two are black. There is also another red bird to the right of “THE” (line 1).</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.02.01" justify="center">THE </l>
+                <lg justify="left" type="prose">
+                    <l justify="center" n="s-los.f.illbk.02.01">THE </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.02.02" justify="center">SONG of</l>
+                <lg justify="left" type="prose">
+                    <l justify="center" n="s-los.f.illbk.02.02">SONG of</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.02.03" justify="center">LOS</l>
+                <lg justify="left" type="prose">
+                    <l justify="center" n="s-los.f.illbk.02.03">LOS</l>
                 </lg>
                 <vspace extent="4"/>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.02.04" justify="center">Lambeth<space extent="2"/>Printed by W Blake<space extent="2"/>1795</l>
+                <lg justify="left" type="prose">
+                    <l justify="center" n="s-los.f.illbk.02.04">Lambeth
+                        <space extent="2"/>
+                        Printed by W Blake
+                        <space extent="2"/>
+                        1795</l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="s-los.f.illbk.03" dbi="s-los.f.P3">
+        <desc dbi="s-los.f.P3" id="s-los.f.illbk.03">
             <objtitle>,
-<objid>
+
+                <objid>
                     <objnumber code="A3">object 3 </objnumber>
                     <objcode code="B3">(Bentley 3, </objcode>
                     <objcode code="E3">Erdman 3, </objcode>
-                    <objcode code="K3">Keynes 3)</objcode>
-                </objid>
+                    <objcode code="K3">Keynes 3)</objcode></objid>
             </objtitle>
             <physdesc desclevel="brief">
                 <objsize>21.5 x 13.9 cm.</objsize>
                 <windowsize height="1118" width="723"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="AB">
-                    <illusobjdesc>A snake is intertwined through the letters of the heading ("AFRICA," line 1).  The snake's head points down and its mouth is open; its forked tongue hangs down.  The reptilian theme is continued by a small lizard, apparently climbing the first diagonal of the first "A" in the heading.  Many vines, some with loops and spirals (far left), and a few leaves also play about and are intertwined with the heading.  Several flying insects, perhaps moths or butterflies, are also pictured, particularly below the first "A" and the "F" of the heading and just left of and below the final "A."  Below, with five lines of text intervening, is the lower half of what is probably a unified composition, particularly given the marginal vegetation linking them.  On the left is a nude young male, probably a shepherd boy, lying on the ground in a contracted posture and probably sleeping.  The downward-directed mouth of the serpent above may be threatening him.  The male's legs are drawn up and his head, with curly hair, rests face down on his left arm.  To the right is one sheep, also lying on the ground with its face on the left. Behind the first sheep and further to the right is another sheep plus some vegetation.  Above this area, and just below the final word of line 4, is a flying insect with bat-like wings. A caterpillar crawls on the vine that ascends beneath this bat-winged insect.</illusobjdesc>
-                    <component type="animal" location="AB">
+                <illustration location="AB" type="plate">
+                    <illusobjdesc>A snake is intertwined through the letters of the heading (&quot;AFRICA,&quot; line 1).  The snake's head points down and its mouth is open; its forked tongue hangs down.  The reptilian theme is continued by a small lizard, apparently climbing the first diagonal of the first &quot;A&quot; in the heading.  Many vines, some with loops and spirals (far left), and a few leaves also play about and are intertwined with the heading.  Several flying insects, perhaps moths or butterflies, are also pictured, particularly below the first &quot;A&quot; and the &quot;F&quot; of the heading and just left of and below the final &quot;A.&quot;  Below, with five lines of text intervening, is the lower half of what is probably a unified composition, particularly given the marginal vegetation linking them.  On the left is a nude young male, probably a shepherd boy, lying on the ground in a contracted posture and probably sleeping.  The downward-directed mouth of the serpent above may be threatening him.  The male's legs are drawn up and his head, with curly hair, rests face down on his left arm.  To the right is one sheep, also lying on the ground with its face on the left. Behind the first sheep and further to the right is another sheep plus some vegetation.  Above this area, and just below the final word of line 4, is a flying insect with bat-like wings. A caterpillar crawls on the vine that ascends beneath this bat-winged insect.</illusobjdesc>
+                    <component location="AB" type="animal">
                         <characteristic>snake</characteristic>
                         <characteristic>tongue</characteristic>
                         <characteristic>intertwined</characteristic>
                         <characteristic>head down</characteristic>
                         <characteristic>mouth open</characteristic>
                         <illusobjdesc>A snake is intertwined through the letters of the 
-heading ("AFRICA," line 2).  The snake's mouth is open; its forked tongue 
+heading (&quot;AFRICA,&quot; line 2).  The snake's mouth is open; its forked tongue 
 hangs down.  The snake may be threatening the sleeping youth 
 below his downward-pointing head.</illusobjdesc>
                     </component>
-                    <component type="animal" location="A">
+                    <component location="A" type="animal">
                         <characteristic>lizard</characteristic>
                         <characteristic>climbing</characteristic>
                         <illusobjdesc>A small lizard climbs the first diagonal of the 
-first "A" in the heading ("AFRICA," line 2).</illusobjdesc>
+first &quot;A&quot; in the heading (&quot;AFRICA,&quot; line 2).</illusobjdesc>
                     </component>
-                    <component type="animal" location="AB">
+                    <component location="AB" type="animal">
                         <characteristic>sheep</characteristic>
                         <characteristic>lying</characteristic>
                         <characteristic>facing left</characteristic>
                         <characteristic>sleeping</characteristic>
                         <illusobjdesc>One sheep lies on the ground right of the sleeping youth.  The sheep's head is on the left; it may be asleep. The densely color-printed area to the right includes the hind end of another sheep.</illusobjdesc>
                     </component>
-                    <component type="animal" location="A">
+                    <component location="A" type="animal">
                         <characteristic>insect</characteristic>
                         <characteristic>wing</characteristic>
                         <characteristic>hovering</characteristic>
@@ -484,10 +551,10 @@ first "A" in the heading ("AFRICA," line 2).</illusobjdesc>
                         <characteristic>butterfly</characteristic>
                         <characteristic>moth</characteristic>
                         <illusobjdesc>Several winged insects, perhaps butterflies or 
-moths, hover below the first "A" and the "F" of the heading 
-("AFRICA," line 2).</illusobjdesc>
+moths, hover below the first &quot;A&quot; and the &quot;F&quot; of the heading 
+(&quot;AFRICA,&quot; line 2).</illusobjdesc>
                     </component>
-                    <component type="animal" location="B">
+                    <component location="B" type="animal">
                         <characteristic>insect</characteristic>
                         <characteristic>wing</characteristic>
                         <characteristic>hovering</characteristic>
@@ -496,12 +563,12 @@ moths, hover below the first "A" and the "F" of the heading
                         <characteristic>moth</characteristic>
                         <characteristic>bird</characteristic>
                         <illusobjdesc>Several winged insects, perhaps butterflies or 
-moths, hover between the "C" and final "A" of the heading 
-("AFRICA," line 2).  Two winged insects hover below the final "A" near the right margin.  
+moths, hover between the &quot;C&quot; and final &quot;A&quot; of the heading 
+(&quot;AFRICA,&quot; line 2).  Two winged insects hover below the final &quot;A&quot; near the right margin.  
 A winged insect or bird flies in the upper right-hand corner of the plate, 
-and another winged creature between the snake's tail and the final word of line 3 ("Prophet"). </illusobjdesc>
+and another winged creature between the snake's tail and the final word of line 3 (&quot;Prophet&quot;). </illusobjdesc>
                     </component>
-                    <component type="animal" location="B">
+                    <component location="B" type="animal">
                         <characteristic>insect</characteristic>
                         <characteristic>bat-winged</characteristic>
                         <characteristic>hovering</characteristic>
@@ -511,11 +578,11 @@ and another winged creature between the snake's tail and the final word of line 
                         <illusobjdesc>A bat-winged insect, perhaps a moth or butterfly, 
 hovers below and to the right of the final word in line 4.</illusobjdesc>
                     </component>
-                    <component type="animal" location="B">
+                    <component location="B" type="animal">
                         <characteristic>caterpillar</characteristic>
                         <illusobjdesc>A caterpillar climbs a vine right of the sheep and below the bat-winged insect.  </illusobjdesc>
                     </component>
-                    <component type="figure" location="A">
+                    <component location="A" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>shepherd</characteristic>
@@ -535,16 +602,16 @@ arm.  We see only the top of his head and his curly hair.  Given
 his proximity to the sheep to the right, this may be a sleeping 
 shepherd.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="AB">
+                    <component location="AB" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>intertwined</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>loop</characteristic>
                         <characteristic>spiral</characteristic>
                         <illusobjdesc>Many vines, some with leaves, are intertwined with 
-the heading ("AFRICA," line 2).  At least one, far left, includes loops and a spiral.</illusobjdesc>
+the heading (&quot;AFRICA,&quot; line 2).  At least one, far left, includes loops and a spiral.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="AC">
+                    <component location="AC" type="vegetation">
                         <characteristic>indeterminate</characteristic>
                         <characteristic>vine</characteristic>
                         <characteristic>branch</characteristic>
@@ -555,14 +622,14 @@ represents vegetation.  One vine or bare branch extends from this
 marginal coloring to the indented beginning of line 5 of the 
 text.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="B">
+                    <component location="B" type="vegetation">
                         <characteristic>indeterminate</characteristic>
                         <illusobjdesc>The dense color printing right of the sheep may 
 represent vegetation.</illusobjdesc>
                     </component>
-                    <component type="text" location="AB">
+                    <component location="AB" type="text">
                         <transcription>
-                            <lg type="prose" justify="left">
+                            <lg justify="left" type="prose">
                                 <l justify="left">AFRICA</l>
                             </lg>
                         </transcription>
@@ -570,9 +637,9 @@ represent vegetation.</illusobjdesc>
 design.</illusobjdesc>
                     </component>
                 </illustration>
-                <illustration type="interlinear" location="E">
-                    <illusobjdesc>The plate contains a good deal of interlinear decoration.  A large winged insect, printed mostly in blind, appears in the far right margin right of lines 8-10.  Several vines with leaves and loops extend between lines 11 and 13 of the text.  This area also includes three flying birds, wings extended, below "children of Los" in line 11. Other vines follow line 15 and fill the space between lines 22 and 23.  Green color printing, probably representing vegetation, extends along the right margin from line 17 to the bottom of the plate.  A reptile of some sort, possibly a snake or lizard, emerges from this vegetation and faces left, holding its mouth open; it is colored brown and white, with reddish stripes, in this copy.  To the left of lines 22-23, a small green snake hangs downward from a vine. As the text continues to the bottom of the page, the interceding lines of vegetation become less vine-like and more abstract; the dark green color fades, and is lightest in the middle of the bottom border.</illusobjdesc>
-                    <component type="animal" location="B">
+                <illustration location="E" type="interlinear">
+                    <illusobjdesc>The plate contains a good deal of interlinear decoration.  A large winged insect, printed mostly in blind, appears in the far right margin right of lines 8-10.  Several vines with leaves and loops extend between lines 11 and 13 of the text.  This area also includes three flying birds, wings extended, below &quot;children of Los&quot; in line 11. Other vines follow line 15 and fill the space between lines 22 and 23.  Green color printing, probably representing vegetation, extends along the right margin from line 17 to the bottom of the plate.  A reptile of some sort, possibly a snake or lizard, emerges from this vegetation and faces left, holding its mouth open; it is colored brown and white, with reddish stripes, in this copy.  To the left of lines 22-23, a small green snake hangs downward from a vine. As the text continues to the bottom of the page, the interceding lines of vegetation become less vine-like and more abstract; the dark green color fades, and is lightest in the middle of the bottom border.</illusobjdesc>
+                    <component location="B" type="animal">
                         <characteristic>insect</characteristic>
                         <characteristic>moth</characteristic>
                         <characteristic>butterfly</characteristic>
@@ -580,14 +647,14 @@ design.</illusobjdesc>
                         <characteristic>flying</characteristic>
                         <illusobjdesc>A large winged insect, printed mostly in blind, appears in the far right margin right of lines 8-10.</illusobjdesc>
                     </component>
-                    <component type="animal" location="B">
+                    <component location="B" type="animal">
                         <characteristic>bird</characteristic>
                         <characteristic>wing</characteristic>
                         <characteristic>flying</characteristic>
-                        <illusobjdesc>Three birds fly, with wings extended, below "children 
-of Los" in line 11 of the text.</illusobjdesc>
+                        <illusobjdesc>Three birds fly, with wings extended, below &quot;children 
+of Los&quot; in line 11 of the text.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="E">
+                    <component location="E" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>loop</characteristic>
                         <characteristic>leaf</characteristic>
@@ -595,32 +662,32 @@ of Los" in line 11 of the text.</illusobjdesc>
                         <characteristic>ivy</characteristic>
                         <illusobjdesc>Several vines extend horizontally between lines 11 and 13 of the text.  The vine on the left forms loops; the center vine bears ivy-like leaves.  This vine merges with at least one other near the right margin.  Two of its tendrils form loops suggestive of (if not quite forming) spirals.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="D">
+                    <component location="D" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>ivy</characteristic>
                         <illusobjdesc>A vine with ivy-like leaves extends horizontally from the end of line 15 of the text toward the right margin.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>snake-like</characteristic>
                         <illusobjdesc>A snake-like vine twists horizontally between lines 
 22 and 23 of the text.</illusobjdesc>
                     </component>
-                    <component type="animal" location="D">
+                    <component location="D" type="animal">
                         <characteristic>lizard</characteristic>
                         <characteristic>snake</characteristic>
                         <characteristic>facing left</characteristic>
                         <characteristic>mouth open</characteristic>
                         <illusobjdesc>A reptile of some sort, possibly a snake or lizard, emerges from the vegetation right of lines 18-20 and faces left, holding its mouth open.</illusobjdesc>
                     </component>
-                    <component type="animal" location="C">
+                    <component location="C" type="animal">
                         <characteristic>snake</characteristic>
                         <characteristic>head down </characteristic>
                         <characteristic>hanging</characteristic>
                         <illusobjdesc>To the left of lines 22-23, a small green snake hangs downward from a vine.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>indeterminate</characteristic>
                         <characteristic>vine</characteristic>
                         <illusobjdesc>Dark green and brown color printing along the right 
@@ -633,79 +700,79 @@ a vine.</illusobjdesc>
                 </illustration>
             </illusdesc>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.03.01" justify="left" indent="56">1</l>
+                <lg justify="left" type="prose">
+                    <l indent="56" justify="left" n="s-los.f.illbk.03.01">1</l>
                 </lg>
                 <texthead justify="left">
-                    <l n="s-los.f.illbk.03.02" justify="left" indent="15">AFRICA</l>
+                    <l indent="15" justify="left" n="s-los.f.illbk.03.02">AFRICA</l>
                 </texthead>
                 <vspace extent="2"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.03.03" justify="left">I will sing you a song of Los, the Eternal Prophet:</l>
-                    <l n="s-los.f.illbk.03.04" justify="left">He sung it to four harps at the tables of Eternity, </l>
-                    <l n="s-los.f.illbk.03.05" justify="left" indent="8">In heart-formed Africa.</l>
-                    <l n="s-los.f.illbk.03.06" justify="left">Urizen faded! Ariston shudderd!</l>
-                    <l n="s-los.f.illbk.03.07" justify="left" indent="5">And thus the Song began</l>
+                <lg justify="left" type="verse">
+                    <l justify="left" n="s-los.f.illbk.03.03">I will sing you a song of Los, the Eternal Prophet:</l>
+                    <l justify="left" n="s-los.f.illbk.03.04">He sung it to four harps at the tables of Eternity, </l>
+                    <l indent="8" justify="left" n="s-los.f.illbk.03.05">In heart-formed Africa.</l>
+                    <l justify="left" n="s-los.f.illbk.03.06">Urizen faded! Ariston shudderd!</l>
+                    <l indent="5" justify="left" n="s-los.f.illbk.03.07">And thus the Song began</l>
                 </lg>
                 <vspace extent="4"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.03.08" justify="left" indent="3">Adam stood in the garden of Eden;</l>
-                    <l n="s-los.f.illbk.03.09" justify="left">And Noah on the mountains of Ararat;</l>
-                    <l n="s-los.f.illbk.03.10" justify="left">They saw Urizen give his Laws to the Nations</l>
-                    <l n="s-los.f.illbk.03.11" justify="left">By the hands of the children of Los.</l>
-                    <l n="s-los.f.illbk.03.12" justify="left" indent="38">African</l>
-                    <l n="s-los.f.illbk.03.13" justify="left">Adam shudderd! Noah faded! black grew the sunny</l>
-                    <l n="s-los.f.illbk.03.14" justify="left">When Rintrah gave Abstract Philosophy to Brama in the East.</l>
-                    <l n="s-los.f.illbk.03.15" justify="left" indent="4">(Night spoke to the Cloud!</l>
-                    <l n="s-los.f.illbk.03.16" justify="left">Lo these Human form'd spirits in smiling hipocrisy, War</l>
-                    <l n="s-los.f.illbk.03.17" justify="left">Against one another; so let them War on; slaves to the</l>
-                    <l n="s-los.f.illbk.03.18" justify="left" indent="11">eternal Elements)</l>
-                    <l n="s-los.f.illbk.03.19" justify="left">Noah shrunk beneath the waters;</l>
-                    <l n="s-los.f.illbk.03.20" justify="left">Abram fled in fires from Chaldea;</l>
-                    <l n="s-los.f.illbk.03.21" justify="left">Moses beheld upon Mount Sinai forms of dark delusion;</l>
+                <lg justify="left" type="verse">
+                    <l indent="3" justify="left" n="s-los.f.illbk.03.08">Adam stood in the garden of Eden;</l>
+                    <l justify="left" n="s-los.f.illbk.03.09">And Noah on the mountains of Ararat;</l>
+                    <l justify="left" n="s-los.f.illbk.03.10">They saw Urizen give his Laws to the Nations</l>
+                    <l justify="left" n="s-los.f.illbk.03.11">By the hands of the children of Los.</l>
+                    <l indent="38" justify="left" n="s-los.f.illbk.03.12">African</l>
+                    <l justify="left" n="s-los.f.illbk.03.13">Adam shudderd! Noah faded! black grew the sunny</l>
+                    <l justify="left" n="s-los.f.illbk.03.14">When Rintrah gave Abstract Philosophy to Brama in the East.</l>
+                    <l indent="4" justify="left" n="s-los.f.illbk.03.15">(Night spoke to the Cloud!</l>
+                    <l justify="left" n="s-los.f.illbk.03.16">Lo these Human form'd spirits in smiling hipocrisy, War</l>
+                    <l justify="left" n="s-los.f.illbk.03.17">Against one another; so let them War on; slaves to the</l>
+                    <l indent="11" justify="left" n="s-los.f.illbk.03.18">eternal Elements)</l>
+                    <l justify="left" n="s-los.f.illbk.03.19">Noah shrunk beneath the waters;</l>
+                    <l justify="left" n="s-los.f.illbk.03.20">Abram fled in fires from Chaldea;</l>
+                    <l justify="left" n="s-los.f.illbk.03.21">Moses beheld upon Mount Sinai forms of dark delusion;</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.03.22" justify="left" indent="2">To Trismegistus, Palamabron gave an abstract Law;</l>
-                    <l n="s-los.f.illbk.03.23" justify="left" indent="2">To Pythagoras Socrates &amp; Plato.</l>
+                <lg justify="left" type="verse">
+                    <l indent="2" justify="left" n="s-los.f.illbk.03.22">To Trismegistus, Palamabron gave an abstract Law;</l>
+                    <l indent="2" justify="left" n="s-los.f.illbk.03.23">To Pythagoras Socrates &amp; Plato.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.03.24" justify="left">Times rolled on o'er all the sons of Har, time after time </l>
-                    <l n="s-los.f.illbk.03.25" justify="left">Orc on Mount Atlas howld. chain'd down with the Chain of Jealousy</l>
-                    <l n="s-los.f.illbk.03.26" justify="left">Then Oothoon hoverd over Judah &amp; Jerusalem</l>
-                    <l n="s-los.f.illbk.03.27" justify="left">And Jesus heard her voice (a man of sorrows) he recievd</l>
-                    <l n="s-los.f.illbk.03.28" justify="left">A Gospel from wretched Theotormon. </l>
+                <lg justify="left" type="verse">
+                    <l justify="left" n="s-los.f.illbk.03.24">Times rolled on o'er all the sons of Har, time after time </l>
+                    <l justify="left" n="s-los.f.illbk.03.25">Orc on Mount Atlas howld. chain'd down with the Chain of Jealousy</l>
+                    <l justify="left" n="s-los.f.illbk.03.26">Then Oothoon hoverd over Judah &amp; Jerusalem</l>
+                    <l justify="left" n="s-los.f.illbk.03.27">And Jesus heard her voice (a man of sorrows) he recievd</l>
+                    <l justify="left" n="s-los.f.illbk.03.28">A Gospel from wretched Theotormon. </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.03.29" justify="left">The human race began to wither. for the healthy built</l>
-                    <l n="s-los.f.illbk.03.30" justify="left">Secluded places, fearing the joys of Love</l>
-                    <l n="s-los.f.illbk.03.31" justify="left">And the disease'd only propagated;</l>
-                    <l n="s-los.f.illbk.03.32" justify="left">So Antamon call'd up Leutha from her valleys of delight:</l>
-                    <l n="s-los.f.illbk.03.33" justify="left">And to Mahomet a loose Bible gave.</l>
-                    <l n="s-los.f.illbk.03.34" justify="left" indent="1">But in the North, to Odin, Sotha gave a Code of War.</l>
-                    <l n="s-los.f.illbk.03.35" justify="left" indent="2">Because of Diralada thinking to reclaim his joy.</l>
+                <lg justify="left" type="verse">
+                    <l justify="left" n="s-los.f.illbk.03.29">The human race began to wither. for the healthy built</l>
+                    <l justify="left" n="s-los.f.illbk.03.30">Secluded places, fearing the joys of Love</l>
+                    <l justify="left" n="s-los.f.illbk.03.31">And the disease'd only propagated;</l>
+                    <l justify="left" n="s-los.f.illbk.03.32">So Antamon call'd up Leutha from her valleys of delight:</l>
+                    <l justify="left" n="s-los.f.illbk.03.33">And to Mahomet a loose Bible gave.</l>
+                    <l indent="1" justify="left" n="s-los.f.illbk.03.34">But in the North, to Odin, Sotha gave a Code of War.</l>
+                    <l indent="2" justify="left" n="s-los.f.illbk.03.35">Because of Diralada thinking to reclaim his joy.</l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="s-los.f.illbk.04" dbi="s-los.f.P4">
+        <desc dbi="s-los.f.P4" id="s-los.f.illbk.04">
             <objtitle>,
+                
                 <objid>
                     <objnumber code="A4">object 4 </objnumber>
                     <objcode code="B4">(Bentley 4, </objcode>
                     <objcode code="E4">Erdman 4, </objcode>
-                    <objcode code="K4">Keynes 4)</objcode>
-                </objid>
+                    <objcode code="K4">Keynes 4)</objcode></objid>
             </objtitle>
             <physdesc desclevel="brief">
                 <objsize>21.5 x 13.6 cm.</objsize>
                 <windowsize height="1118" width="707"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
-                    <illusobjdesc>The plate is treated as a full-page design, with the text areas representing clouds in the sky. On the earth below the text, an embracing couple runs to the right. These are probably Har and Heva, who "fled" from the "War &amp; Lust" of "their brethren" (lines 6-7). They face forward, but may be looking back to the left.  Both faces express fear or horror. The male is nude. Both figures have their mouths open, as though speaking or uttering a cry. The female wears a skirt but would appear to be undraped above the waist. The female's hair is long, the man's curly. They appear to be fleeing from some unrepresented presence on the left. The man's left arm holds the woman's waist.  His right hand may be holding the woman below her right arm. The woman's left arm is wrapped around the man's head. Her right arm is extended at 135 degrees, with the palm facing to the left as though fending off a pursuer. The ground on which they run may be covered with low vegetation. A hill or mound of vegetation rises behind the man and woman, who run against a background of dark sky with red streaks just above the horizon. The sky is dark mustard yellow around the clouds that contain the text. A mountain, perhaps partly covered with snow and partly with a red substance that may be lava or a reflection of the red sky, rises in the right background. There may be a bird at the end of a cloud outline left of the woman's raised forearm.  Above, on the upper cloud or text panel, is a nude human figure of ambiguous gender hovering in the air.  We see it from behind with one leg drawn up and the other extended. It faces to the left, with its arms extended horizontally. Its large, bat-like wings extend below its arms. A dark mound appears where its buttocks might be. A bird with extended wings, facing left, appears to the left of this figure.</illusobjdesc>
-                    <component type="figure" location="CD">
+                <illustration location="E" type="plate">
+                    <illusobjdesc>The plate is treated as a full-page design, with the text areas representing clouds in the sky. On the earth below the text, an embracing couple runs to the right. These are probably Har and Heva, who &quot;fled&quot; from the &quot;War &amp; Lust&quot; of &quot;their brethren&quot; (lines 6-7). They face forward, but may be looking back to the left.  Both faces express fear or horror. The male is nude. Both figures have their mouths open, as though speaking or uttering a cry. The female wears a skirt but would appear to be undraped above the waist. The female's hair is long, the man's curly. They appear to be fleeing from some unrepresented presence on the left. The man's left arm holds the woman's waist.  His right hand may be holding the woman below her right arm. The woman's left arm is wrapped around the man's head. Her right arm is extended at 135 degrees, with the palm facing to the left as though fending off a pursuer. The ground on which they run may be covered with low vegetation. A hill or mound of vegetation rises behind the man and woman, who run against a background of dark sky with red streaks just above the horizon. The sky is dark mustard yellow around the clouds that contain the text. A mountain, perhaps partly covered with snow and partly with a red substance that may be lava or a reflection of the red sky, rises in the right background. There may be a bird at the end of a cloud outline left of the woman's raised forearm.  Above, on the upper cloud or text panel, is a nude human figure of ambiguous gender hovering in the air.  We see it from behind with one leg drawn up and the other extended. It faces to the left, with its arms extended horizontally. Its large, bat-like wings extend below its arms. A dark mound appears where its buttocks might be. A bird with extended wings, facing left, appears to the left of this figure.</illusobjdesc>
+                    <component location="CD" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>Har</characteristic>
@@ -727,9 +794,9 @@ a vine.</illusobjdesc>
                         <illusobjdesc>A nude male embraces a woman and runs to the right.  
                             He faces forward, but may be looking back to the left at some 
                             unrepresented presence from which he is fleeing.  His hair is 
-                            curly.  His left arm holds the woman around the waist.  His right hand may be holding the woman below her right arm.  His mouth is open; he may be speaking or crying out.  His face expresses fear or terror.  He is probably Har, who "fled" with Heva from the "War &amp; Lust" of "their brethren" (lines 6-7).</illusobjdesc>
+                            curly.  His left arm holds the woman around the waist.  His right hand may be holding the woman below her right arm.  His mouth is open; he may be speaking or crying out.  His face expresses fear or terror.  He is probably Har, who &quot;fled&quot; with Heva from the &quot;War &amp; Lust&quot; of &quot;their brethren&quot; (lines 6-7).</illusobjdesc>
                     </component>
-                    <component type="figure" location="CD">
+                    <component location="CD" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>Heva</characteristic>
                         <characteristic>partly nude</characteristic>
@@ -756,10 +823,10 @@ a vine.</illusobjdesc>
                             around the man's head; her right arm is extended at 135 degrees 
                             with the palm facing to the left, as though she were fending off 
                             some pursuer.  Her mouth is slightly open; she may be speaking or crying out.  Her face suggests fear or terror.  She is probably 
-                            Heva, who with Har "fled" from the "War &amp; Lust" of "their 
-                            brethren" (lines 6-7).</illusobjdesc>
+                            Heva, who with Har &quot;fled&quot; from the &quot;War &amp; Lust&quot; of &quot;their 
+                            brethren&quot; (lines 6-7).</illusobjdesc>
                     </component>
-                    <component type="figure" location="B">
+                    <component location="B" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>short hair</characteristic>
@@ -777,23 +844,23 @@ a vine.</illusobjdesc>
                         <characteristic>twisted</characteristic>
                         <illusobjdesc>A human figure, nude and of ambiguous gender but possibly male, hovers in the air on the upper cloud or text panel.  We see it from behind. It faces to the left, with its arms extended horizontally and its legs extended to the left. Its large, bat-like wings extend below its arms. A dark mound that could be a tail appears where its buttocks might be.</illusobjdesc>
                     </component>
-                    <component type="animal" location="C">
+                    <component location="C" type="animal">
                         <characteristic>bird</characteristic>
                         <illusobjdesc>There may be a bird at the upper end of a cloud outline left of the woman's raised forearm.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>indeterminate</characteristic>
                         <characteristic>grass</characteristic>
                         <illusobjdesc>The ground over which the embracing couple runs may 
                             be covered with low vegetation, such as grass.</illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>hill</characteristic>
                         <characteristic>indeterminate</characteristic>
                         <characteristic>mound</characteristic>
                         <illusobjdesc>A hill or mound of vegetation rises behind the embracing couple.</illusobjdesc>
                     </component>
-                    <component type="object" location="E">
+                    <component location="E" type="object">
                         <characteristic>dark</characteristic>
                         <characteristic>sky</characteristic>
                         <characteristic>sunrise</characteristic>
@@ -803,140 +870,156 @@ a vine.</illusobjdesc>
                         <characteristic>lava</characteristic>
                         <illusobjdesc>Behind and above the embracing couple is a dark sky, but with red streaks (of a sunrise or sunset?) just above the horizon. The sky is yellow around the clouds that contain the text. A mountain, perhaps partly covered with snow and partly with a red substance that may be lava or a reflection of the red sky, rises in the right background.</illusobjdesc>
                     </component>
-                    <component type="object" location="E">
+                    <component location="E" type="object">
                         <characteristic>cloud</characteristic>
                         <illusobjdesc>Given their shape, the text panels would seem to 
                             function as clouds within the pictorial image.</illusobjdesc>
                     </component>
                 </illustration>
-                <illustration type="interlinear" location="E">
+                <illustration location="E" type="interlinear">
                     <illusobjdesc>The left margin of the text is decorated with 
                         several vines.  One extends vertically from line 13 to line 2.  
                         Horizontal vines extend from the beginning of line 4 to the left 
                         margin and between lines 5 and 6.  Vines with loops appear in the 
-                        left margin at lines 19 to 21, and at the start of line 22.  Two birds soar on extended wings, one to the right of "forms" in line 9, and one above "Rousseau" in line 19.</illusobjdesc>
-                    <component type="animal" location="B">
+                        left margin at lines 19 to 21, and at the start of line 22.  Two birds soar on extended wings, one to the right of &quot;forms&quot; in line 9, and one above &quot;Rousseau&quot; in line 19.</illusobjdesc>
+                    <component location="B" type="animal">
                         <characteristic>bird</characteristic>
                         <characteristic>wing</characteristic>
                         <characteristic>flying</characteristic>
-                        <illusobjdesc>A bird soars on extended wings to the right of 'forms" in 
+                        <illusobjdesc>A bird soars on extended wings to the right of 'forms&quot; in 
                             line 8 of the text.</illusobjdesc>
                     </component>
-                    <component type="animal" location="B">
+                    <component location="B" type="animal">
                         <characteristic>bird</characteristic>
                         <characteristic>wing</characteristic>
                         <characteristic>flying</characteristic>
-                        <illusobjdesc>A bird soars on extended wings above "Rousseau" in 
+                        <illusobjdesc>A bird soars on extended wings above &quot;Rousseau&quot; in 
                             line 19 of the text.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="A">
+                    <component location="A" type="vegetation">
                         <characteristic>vine</characteristic>
                         <illusobjdesc>A curving line that may represent a vine extends 
                             vertically in the right margin of the text from lines 13 to 
                             2.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="A">
+                    <component location="A" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>leaf</characteristic>
                         <illusobjdesc>A vine, perhaps with small leaves, extends 
                             horizontally between the left margin and the beginning of line 
                             4.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="A">
+                    <component location="A" type="vegetation">
                         <characteristic>vine</characteristic>
                         <illusobjdesc>A vine extends from the first letter in line 6 of 
                             the text and continues horizontally between lines 5 and 5.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="A">
+                    <component location="A" type="vegetation">
                         <characteristic>vine</characteristic>
                         <illusobjdesc>A vine grows from the first letter in line 14 of the 
                             text.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="AB">
+                    <component location="AB" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>hill</characteristic>
                         <illusobjdesc>A horizontal line between lines 18 and 19 of the text
                             probably represents a break in the clouds.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="A">
+                    <component location="A" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>loop</characteristic>
                         <illusobjdesc>A vine with many loops appears in the margin left of 
                             lines 19 to 21 of the text.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="AC">
+                    <component location="AC" type="vegetation">
                         <characteristic>vine</characteristic>
-                        <illusobjdesc>A vine extends from the "d" in "clouds" in line 19. </illusobjdesc>
+                        <illusobjdesc>A vine extends from the &quot;d&quot; in &quot;clouds&quot; in line 19. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="AC">
+                    <component location="AC" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>leaf</characteristic>
                         <illusobjdesc>A vine with two branches extends 
                             horizontally left of the first word in line 22.  There may be two faintly printed leaves below it. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="E">
+                    <component location="E" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>branch</characteristic>
-                        <illusobjdesc>A branching line, possibly a vine, extends downward and to the left below the first letter in "Albion," line 22.</illusobjdesc>
+                        <illusobjdesc>A branching line, possibly a vine, extends downward and to the left below the first letter in &quot;Albion,&quot; line 22.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.04.01" justify="left" indent="56">2</l>
+                <lg justify="left" type="prose">
+                    <l indent="56" justify="left" n="s-los.f.illbk.04.01">2</l>
                 </lg>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.04.02" justify="left" indent="5">These were the Churches: Hospitals; Castles; Palaces;</l>
-                    <l n="s-los.f.illbk.04.03" justify="left" indent="3">Like nets &amp; gins &amp; traps to catch the joys of Eternity</l>
-                    <l n="s-los.f.illbk.04.04" justify="left" indent="18">And all the rest a desart;</l>
-                    <l n="s-los.f.illbk.04.05" justify="left" indent="2">Till like a dream Eternity was obliterated &amp; erased, </l>
-                </lg>
-                <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.04.06" justify="left" indent="3">Since that dread day when Har and Heva fled, </l>
-                    <l n="s-los.f.illbk.04.07" justify="left" indent="3">Because their brethren &amp; sisters liv'd in War &amp; Lust;</l>
-                    <l n="s-los.f.illbk.04.08" justify="left" indent="3">And as they fled they shrunk</l>
-                    <l n="s-los.f.illbk.04.09" justify="left" indent="3">Into two narrow doleful forms;</l>
-                    <l n="s-los.f.illbk.04.10" justify="left" indent="3">Creeping in reptile flesh upon</l>
-                    <l n="s-los.f.illbk.04.11" justify="left" indent="3">The bosom of the ground;</l>
-                    <l n="s-los.f.illbk.04.12" justify="left" indent="3">And all the vast of Nature shrunk</l>
-                    <l n="s-los.f.illbk.04.13" justify="left" indent="3">Before their shrunken eyes.</l>
+                <lg justify="left" type="verse">
+                    <l indent="5" justify="left" n="s-los.f.illbk.04.02">These were the Churches: Hospitals; Castles; Palaces;</l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.04.03">Like nets &amp; gins &amp; traps to catch the joys of Eternity</l>
+                    <l indent="18" justify="left" n="s-los.f.illbk.04.04">And all the rest a desart;</l>
+                    <l indent="2" justify="left" n="s-los.f.illbk.04.05">Till like a dream Eternity was obliterated &amp; erased, </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.04.14" justify="left">Thus the terrible race of Los &amp; Enitharmon gave</l>
-                    <l n="s-los.f.illbk.04.15" justify="left">Laws &amp; Religions to the sons of Har binding them more</l>
-                    <l n="s-los.f.illbk.04.16" justify="left">And more to Earth: closing and restraining;</l>
-                    <l n="s-los.f.illbk.04.17" justify="left">Till a Philosophy of Five Senses was complete</l>
-                    <l n="s-los.f.illbk.04.18" justify="left">Urizen wept &amp; gave it into the hands of Newton &amp; Locke</l>
+                <lg justify="left" type="verse">
+                    <l indent="3" justify="left" n="s-los.f.illbk.04.06">Since that dread day when Har and Heva fled, </l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.04.07">Because their brethren &amp; sisters liv'd in War &amp; Lust;</l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.04.08">And as they fled they shrunk</l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.04.09">Into two narrow doleful forms;</l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.04.10">Creeping in reptile flesh upon</l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.04.11">The bosom of the ground;</l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.04.12">And all the vast of Nature shrunk</l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.04.13">Before their shrunken eyes.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.04.19" justify="left" indent="7">Clouds roll heavy upon the Alps round Rousseau &amp; Voltaire.</l>
-                    <l n="s-los.f.illbk.04.20" justify="left" indent="7">And on the mountains of Lebanon round the deceased Gods</l>
-                    <l n="s-los.f.illbk.04.21" justify="left" indent="7">Of Asia; &amp; on the desarts of Africa round the Fallen Angels</l>
-                    <l n="s-los.f.illbk.04.22" justify="left" indent="7">The Guardian Prince of Albion burns in his nightly tent.</l>
+                <lg justify="left" type="verse">
+                    <l justify="left" n="s-los.f.illbk.04.14">Thus the terrible race of Los &amp; Enitharmon gave</l>
+                    <l justify="left" n="s-los.f.illbk.04.15">Laws &amp; Religions to the sons of Har binding them more</l>
+                    <l justify="left" n="s-los.f.illbk.04.16">And more to Earth: closing and restraining;</l>
+                    <l justify="left" n="s-los.f.illbk.04.17">Till a Philosophy of Five Senses was complete</l>
+                    <l justify="left" n="s-los.f.illbk.04.18">Urizen wept &amp; gave it into the hands of Newton &amp; Locke</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg justify="left" type="verse">
+                    <l indent="7" justify="left" n="s-los.f.illbk.04.19">Clouds roll heavy upon the Alps round Rousseau &amp; Voltaire.</l>
+                    <l indent="7" justify="left" n="s-los.f.illbk.04.20">And on the mountains of Lebanon round the deceased Gods</l>
+                    <l indent="7" justify="left" n="s-los.f.illbk.04.21">Of Asia; &amp; on the desarts of Africa round the Fallen Angels</l>
+                    <l indent="7" justify="left" n="s-los.f.illbk.04.22">The Guardian Prince of Albion burns in his nightly tent.</l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="s-los.f.illbk.05" dbi="s-los.f.P5">
+        <desc dbi="s-los.f.P5" id="s-los.f.illbk.05">
             <objtitle>,
+                
                 <objid>
                     <objnumber code="A5">object 5 </objnumber>
                     <objcode code="B5">(Bentley 5, </objcode>
                     <objcode code="E5">Erdman 5, </objcode>
-                    <objcode code="K5">Keynes 5)</objcode>
-                </objid>
+                    <objcode code="K5">Keynes 5)</objcode></objid>
             </objtitle>
             <physdesc desclevel="brief">
                 <objsize>23.2 x 17.5 cm.</objsize>
                 <windowsize height="1206" width="910"/>
             </physdesc>
-
+            <supplemental>
+                <desc dbi="s-los.F.P5-full" id="supps-los.f.rm.01">
+                    <objtitle>, 
+                        <objid>
+                            <objnumber code="A1">full leaf view</objnumber>
+                        </objid>
+                    </objtitle>
+                    <physdesc desclevel="brief">
+                        <objsize>37.1 x 26.0 cm.</objsize>
+                        <windowsize height="1206" width="910"/>
+                    </physdesc>
+                </desc>
+            </supplemental>
             <illusdesc>
-                <illustration type="plate" location="E">
-                    <illusobjdesc>Two figures rest on large lilies.  The ground from which the lily plant grows is not clearly represented, but there may be a river behind its stems.  Gently sloping hills rise behind what may be the river.  The stems appear brown toward the center of their base.  If we assume that this is a plant of normal size, then the human figures are diminutive, perhaps fairies.  The female, wearing a gown that seemingly does not cover her left shoulder and breast, lies on one blossom with eyes closed; she may be asleep.  Her head rests on her right arm and hand.  Her hair is long.  The male wears a long gown and a separate cloak.  He is crowned, and thus probably a king; by association, the woman may be a queen.  His eyes are open and he faces forward.  He has long hair and a beard.  He is more seated than lying on his blossom, with upper body propped up with his right arm.  He holds a scepter in his left hand.  His bare right foot is visible just below his scepter, resting against his left knee.  The night sky in the distance contains indications of stars, which seem to shine through a gray fog, mist, or cloud cover.  The design is based loosely on a monochrome wash drawing, now usually attributed to Blake's brother Robert, in Blake's Notebook, page 5.  There is also a separate water color of the design by William Blake (private collection).  The two figures have traditionally been identified as Oberon and Titania, although the relevance of Shakespeare's <hi rend="i">A Midsummer Night's Dream</hi> to <hi rend="i">The Song of Los</hi> is not immediately apparent.  Other critics have identified the figures as Har and Heva, as on object 4.  Perhaps, given the cosmic scale of object 8, this plate represents the microscopic world of the Blakean imagination.</illusobjdesc>
-                    <component type="figure" location="B">
+                <illustration location="E" type="plate">
+                    <illusobjdesc>Two figures rest on large lilies.  The ground from which the lily plant grows is not clearly represented, but there may be a river behind its stems.  Gently sloping hills rise behind what may be the river.  The stems appear brown toward the center of their base.  If we assume that this is a plant of normal size, then the human figures are diminutive, perhaps fairies.  The female, wearing a gown that seemingly does not cover her left shoulder and breast, lies on one blossom with eyes closed; she may be asleep.  Her head rests on her right arm and hand.  Her hair is long.  The male wears a long gown and a separate cloak.  He is crowned, and thus probably a king; by association, the woman may be a queen.  His eyes are open and he faces forward.  He has long hair and a beard.  He is more seated than lying on his blossom, with upper body propped up with his right arm.  He holds a scepter in his left hand.  His bare right foot is visible just below his scepter, resting against his left knee.  The night sky in the distance contains indications of stars, which seem to shine through a gray fog, mist, or cloud cover.  The design is based loosely on a monochrome wash drawing, now usually attributed to Blake's brother Robert, in Blake's Notebook, page 5.  There is also a separate water color of the design by William Blake (private collection).  The two figures have traditionally been identified as Oberon and Titania, although the relevance of Shakespeare's 
+                        <hi rend="i">A Midsummer Night's Dream</hi>
+                        to 
+                        <hi rend="i">The Song of Los</hi>
+                        is not immediately apparent.  Other critics have identified the figures as Har and Heva, as on object 4.  Perhaps, given the cosmic scale of object 8, this plate represents the microscopic world of the Blakean imagination.</illusobjdesc>
+                    <component location="B" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>gown</characteristic>
                         <characteristic>cloak</characteristic>
@@ -956,9 +1039,11 @@ a vine.</illusobjdesc>
                         <characteristic>king</characteristic>
                         <characteristic>Har</characteristic>
                         <characteristic>Oberon</characteristic>
-                        <illusobjdesc>A male figure, wearing a gown and a separate cloak, sits on a lily.  If the flower determines the scale, then this diminutive male may be a fairy.  He is crowned and holds a scepter in his left hand; he may be a king.  He props up his upper body with his right arm; his right leg is drawn up and his left leg dangles from the edge of the flower.  He faces forward and has long hair and a beard.  He has been identified by modern critics as either Har (see object 4) or Oberon from Shakespeare's <hi rend="i">A Midsummer Night's Dream</hi>.</illusobjdesc>
+                        <illusobjdesc>A male figure, wearing a gown and a separate cloak, sits on a lily.  If the flower determines the scale, then this diminutive male may be a fairy.  He is crowned and holds a scepter in his left hand; he may be a king.  He props up his upper body with his right arm; his right leg is drawn up and his left leg dangles from the edge of the flower.  He faces forward and has long hair and a beard.  He has been identified by modern critics as either Har (see object 4) or Oberon from Shakespeare's 
+                            <hi rend="i">A Midsummer Night's Dream</hi>
+                            .</illusobjdesc>
                     </component>
-                    <component type="figure" location="AB">
+                    <component location="AB" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>gown</characteristic>
                         <characteristic>long hair</characteristic>
@@ -974,9 +1059,11 @@ a vine.</illusobjdesc>
                         <characteristic>head on arm</characteristic>
                         <characteristic>arm bent</characteristic>
                         <characteristic>arm at side</characteristic>
-                        <illusobjdesc>A female wearing a gown lies on a lily.  Her left shoulder and breasts are bare.  Her head and long hair rest on her right arm. Her eyes are closed and she may be sleeping.  If the scale of the design is determined by the flower, then this diminutive female may be a fairy.  Given her association with the crowned male to the right, she may be a queen.  She has been identified by modern critics as either Heva (see object 4) or Titania from Shakespeare's <hi rend="i">A Midsummer Night's Dream</hi>.</illusobjdesc>
+                        <illusobjdesc>A female wearing a gown lies on a lily.  Her left shoulder and breasts are bare.  Her head and long hair rest on her right arm. Her eyes are closed and she may be sleeping.  If the scale of the design is determined by the flower, then this diminutive female may be a fairy.  Given her association with the crowned male to the right, she may be a queen.  She has been identified by modern critics as either Heva (see object 4) or Titania from Shakespeare's 
+                            <hi rend="i">A Midsummer Night's Dream</hi>
+                            .</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="E">
+                    <component location="E" type="vegetation">
                         <characteristic>plant</characteristic>
                         <characteristic>flower</characteristic>
                         <characteristic>lily</characteristic>
@@ -984,12 +1071,12 @@ a vine.</illusobjdesc>
                         <characteristic>stamen</characteristic>
                         <illusobjdesc>A lily plant, with three blossoms (two fully open), two stamens, and numerous stems and leaves dominates the image.  The stems appear brown toward the center of their base. </illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>river</characteristic>
                         <characteristic>hills</characteristic>
                         <illusobjdesc>A gray horizontal section of color printing may represent a river behind the lily plant.  Gently sloping hills rise behind what may be the river.</illusobjdesc>
                     </component>
-                    <component type="object" location="AB">
+                    <component location="AB" type="object">
                         <characteristic>sky</characteristic>
                         <characteristic>star</characteristic>
                         <characteristic>night</characteristic>
@@ -999,55 +1086,42 @@ a vine.</illusobjdesc>
                 </illustration>
             </illusdesc>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.05.01" justify="left" indent="56">3</l>
+                <lg justify="left" type="prose">
+                    <l indent="56" justify="left" n="s-los.f.illbk.05.01">3</l>
                 </lg>
             </phystext>
-
-
-             <supplemental>
-                <desc id="supps-los.f.rm.01" dbi="s-los.F.P5-full">
-            <objtitle>, <objid><objnumber code="A1">full leaf view</objnumber></objid></objtitle>
-            <physdesc desclevel="brief">
-                <objsize>37.1 x 26.0 cm.</objsize>
-                <windowsize height="1206" width="910"/>
-            </physdesc>
         </desc>
-    </supplemental>
-
-            
-        </desc>
-        <desc id="s-los.f.illbk.06" dbi="s-los.f.P6">
+        <desc dbi="s-los.f.P6" id="s-los.f.illbk.06">
             <objtitle>,
-<objid>
+
+                <objid>
                     <objnumber code="A6">object 6 </objnumber>
                     <objcode code="B6">(Bentley 6, </objcode>
                     <objcode code="E6">Erdman 6, </objcode>
-                    <objcode code="K6">Keynes 6)</objcode>
-                </objid>
+                    <objcode code="K6">Keynes 6)</objcode></objid>
             </objtitle>
             <physdesc desclevel="brief">
                 <objsize>23.2 x 13.6 cm.</objsize>
                 <windowsize height="1206" width="707"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
-                    <illusobjdesc>Although containing considerable text, the plate would seem to be treated as a single, interrelated pictorial image.  Several figures, not very clearly defined, disport among the letters of the heading ("ASIA," line 2).  A seated figure, with the left leg drawn up, appears just left of the first letter.  He may be facing up and to the right.  To his left, and covering his right leg, is a steeply arching mound of dark green coloring that may be vegetation. Within the upper loop of the second letter, a figure clutches his head and falls head first.  In the lower part of this same letter, there may be a gowned figure hunched over and with its hands clutching its head.  Two embracing(?) figures, poorly defined but probably a male and female, stride to the left just left of the lower part of the letter "I."  An ill-defined cluster of lines may be a seated figure at the lower parts of the final "A."  The sky behind the heading contains clouds; the pink, red, and yellow coloring of the clouds suggests a sunrise or sunset.  Below “ASIA,” we see a great tree arching over from left to right.  In a cave-like niche below the tree are two figures, a nude male holding a gowned woman.  He squats or sits on the ground, apparently with his head lowered since we see only the curly hair on the top of his head.  The female's head and left arm fall downward; she may be dead.  The dark green coloring to the left of the man and woman may be vegetation. Undifferentiated vegetation continues down both margins of the text; some vine-like shapes intrude between lines of text and fill areas on the right of the text.  A nude figure, probably male, sits or kneels in an extremely contracted posture in the lower right corner of the plate.  His left leg is drawn up to his left shoulder.  His head is turned to the left (his face is not pictured); he clutches his lowered head with both hands. He (or, perhaps, she) may have long hair.</illusobjdesc>
-                    <component type="figure" location="A">
+                <illustration location="E" type="plate">
+                    <illusobjdesc>Although containing considerable text, the plate would seem to be treated as a single, interrelated pictorial image.  Several figures, not very clearly defined, disport among the letters of the heading (&quot;ASIA,&quot; line 2).  A seated figure, with the left leg drawn up, appears just left of the first letter.  He may be facing up and to the right.  To his left, and covering his right leg, is a steeply arching mound of dark green coloring that may be vegetation. Within the upper loop of the second letter, a figure clutches his head and falls head first.  In the lower part of this same letter, there may be a gowned figure hunched over and with its hands clutching its head.  Two embracing(?) figures, poorly defined but probably a male and female, stride to the left just left of the lower part of the letter &quot;I.&quot;  An ill-defined cluster of lines may be a seated figure at the lower parts of the final &quot;A.&quot;  The sky behind the heading contains clouds; the pink, red, and yellow coloring of the clouds suggests a sunrise or sunset.  Below “ASIA,” we see a great tree arching over from left to right.  In a cave-like niche below the tree are two figures, a nude male holding a gowned woman.  He squats or sits on the ground, apparently with his head lowered since we see only the curly hair on the top of his head.  The female's head and left arm fall downward; she may be dead.  The dark green coloring to the left of the man and woman may be vegetation. Undifferentiated vegetation continues down both margins of the text; some vine-like shapes intrude between lines of text and fill areas on the right of the text.  A nude figure, probably male, sits or kneels in an extremely contracted posture in the lower right corner of the plate.  His left leg is drawn up to his left shoulder.  His head is turned to the left (his face is not pictured); he clutches his lowered head with both hands. He (or, perhaps, she) may have long hair.</illusobjdesc>
+                    <component location="A" type="figure">
                         <characteristic>sitting</characteristic>
                         <characteristic>leg drawn up</characteristic>
                         <characteristic>head bent back</characteristic>
                         <characteristic>facing right</characteristic>
                         <characteristic>facing up</characteristic>
                         <illusobjdesc>A small figure with at least the left leg drawn 
-up to the chest sits to the left of the first "A" in the heading ("ASIA," line 2).  
+up to the chest sits to the left of the first &quot;A&quot; in the heading (&quot;ASIA,&quot; line 2).  
 He may be facing up and to the right. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="A">
+                    <component location="A" type="vegetation">
                         <characteristic>indeterminate</characteristic>
-                        <illusobjdesc>To the left of the figure seated before the "A," and covering his right leg, is a steeply arching mound of dark green coloring that may be vegetation.</illusobjdesc>
+                        <illusobjdesc>To the left of the figure seated before the &quot;A,&quot; and covering his right leg, is a steeply arching mound of dark green coloring that may be vegetation.</illusobjdesc>
                     </component>
-                    <component type="figure" location="AB">
+                    <component location="AB" type="figure">
                         <characteristic>nude</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>falling</characteristic>
@@ -1059,20 +1133,20 @@ He may be facing up and to the right. </illusobjdesc>
                         <characteristic>leg bent at the knee</characteristic>
                         <characteristic>upside down</characteristic>
                         <illusobjdesc>A nude figure, probably male, falls head first at 
-the top of the letter "S" of the heading (line 2).  He clutches his head 
+the top of the letter &quot;S&quot; of the heading (line 2).  He clutches his head 
 with both hands.  His legs are spread apart, with one leg bent at the knee.</illusobjdesc>
                     </component>
-                    <component type="figure" location="A">
+                    <component location="A" type="figure">
                         <characteristic>gown</characteristic>
                         <characteristic>facing left</characteristic>
                         <characteristic>facing down</characteristic>
                         <characteristic>contracted</characteristic>
                         <characteristic>hunched over</characteristic>
                         <characteristic>arms wrapped around head</characteristic>
-                        <illusobjdesc>In the lower part of the letter "S" of the heading (line 2), 
+                        <illusobjdesc>In the lower part of the letter &quot;S&quot; of the heading (line 2), 
                      there may be a gowned figure hunched over and with its arms wrapped around its head.</illusobjdesc>
                     </component>
-                    <component type="figure" location="B">
+                    <component location="B" type="figure">
                         <characteristic>gown</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>female</characteristic>
@@ -1083,19 +1157,19 @@ with both hands.  His legs are spread apart, with one leg bent at the knee.</ill
                         <characteristic>running</characteristic>
                         <characteristic>scarf</characteristic>
                         <illusobjdesc>Two figures, probably a male and female, stride to 
-the left just left of the lower part of the letter "I" in the 
+the left just left of the lower part of the letter &quot;I&quot; in the 
 heading (line 2).  Both seem to wear gowns and may be embracing.  
 The lower portions of their gowns trail to the right; a long scarf floats to the right behind one of the 
 figures.</illusobjdesc>
                     </component>
-                    <component type="figure" location="B">
+                    <component location="B" type="figure">
                         <characteristic>gown</characteristic>
                         <characteristic>sitting</characteristic>
                         <illusobjdesc>A cluster of lines between the two diagonals of the 
-final "A" of the heading (line 2) may represent a gowned and seated 
+final &quot;A&quot; of the heading (line 2) may represent a gowned and seated 
 figure.</illusobjdesc>
                     </component>
-                    <component type="figure" location="A">
+                    <component location="A" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>sitting</characteristic>
@@ -1111,7 +1185,7 @@ and holds a dead or dying female.  His right leg is drawn up just to
 the left of his right shoulder.  His face is not shown; we see only
 his curly hair.</illusobjdesc>
                     </component>
-                    <component type="figure" location="AB">
+                    <component location="AB" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>facing up</characteristic>
                         <characteristic>gown</characteristic>
@@ -1126,7 +1200,7 @@ his curly hair.</illusobjdesc>
 held by a nude man.  Her head, long hair, and left arm descend limply downward; she
 may be dead.  Her legs and the drapery from her gown are bent beneath her. </illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>female</characteristic>
                         <characteristic>nude</characteristic>
@@ -1148,7 +1222,7 @@ left leg is drawn up to his left shoulder.  His head is turned to
 the left (his face is not pictured); he clutches his lowered head 
 with both hands. He (or, perhaps, she) may have long hair. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="AB">
+                    <component location="AB" type="vegetation">
                         <characteristic>tree</characteristic>
                         <characteristic>arching</characteristic>
                         <characteristic>branch</characteristic>
@@ -1157,27 +1231,27 @@ with both hands. He (or, perhaps, she) may have long hair. </illusobjdesc>
                         <illusobjdesc>A large tree arches over and forms a cave for the 
 man holding the (dead?) woman.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="A">
+                    <component location="A" type="vegetation">
                         <characteristic>indeterminate</characteristic>
                         <illusobjdesc>The dark green coloring to the left of the man and woman may be vegetation.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>indeterminate</characteristic>
                         <characteristic>vine</characteristic>
                         <illusobjdesc>A good deal of undifferentiated vegetation decorates 
                      both margins of the text.  Some of this vegetation intrudes, in 
                      the form of vines, between lines of text.</illusobjdesc>
                     </component>
-                    <component type="object" location="AB">
+                    <component location="AB" type="object">
                         <characteristic>sky</characteristic>
                         <characteristic>cloud</characteristic>
                         <characteristic>sunrise</characteristic>
                         <characteristic>sunset</characteristic>
                         <illusobjdesc>The sky behind and above the heading contains clouds.  The pink, red, and yellow coloring of the clouds suggests a sunrise or sunset.</illusobjdesc>
                     </component>
-                    <component type="text" location="AB">
+                    <component location="AB" type="text">
                         <transcription>
-                            <lg type="prose" justify="left">
+                            <lg justify="left" type="prose">
                                 <l justify="left">ASIA</l>
                             </lg>
                         </transcription>
@@ -1185,98 +1259,98 @@ man holding the (dead?) woman.</illusobjdesc>
 image.</illusobjdesc>
                     </component>
                 </illustration>
-                <illustration type="interlinear" location="E">
+                <illustration location="E" type="interlinear">
                     <illusobjdesc>A good deal of undifferentiated vegetation decorates both margins of the text. Some of this vegetation intrudes in the form of vines or branches between lines 
                   8-9, 16-17, 20-21, and 24-25.  </illusobjdesc>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>indeterminate</characteristic>
                         <characteristic>vine</characteristic>
                         <illusobjdesc>A good deal of undifferentiated vegetation decorates 
                      both margins of the text.  Some of this vegetation intrudes, in 
                      the form of vines or branches, between lines 8-9, 16-17, 20-21, and 24-25.  The vine between 8-9 grows into a leafy branch
-                     that extends downward into the right margin.  An additional vine descends right of "laborious" in line 18, merges with the 
-                     vegetation beneath the kneeling figure, and attaches to the final letter of "path" in line 25. A vine with two loops also grows from the first letter of line 25.  </illusobjdesc>
+                     that extends downward into the right margin.  An additional vine descends right of &quot;laborious&quot; in line 18, merges with the 
+                     vegetation beneath the kneeling figure, and attaches to the final letter of &quot;path&quot; in line 25. A vine with two loops also grows from the first letter of line 25.  </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="A">
+                    <component location="A" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>loop</characteristic>
                         <illusobjdesc>A vine with several loops extends from the first letter of line 2. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="C">
+                    <component location="C" type="vegetation">
                         <characteristic>vine</characteristic>
-                        <illusobjdesc>A vine with several loops extends from the first letter of line 11 and connects to the first letter of "King" later in the same line.  </illusobjdesc>
+                        <illusobjdesc>A vine with several loops extends from the first letter of line 11 and connects to the first letter of &quot;King&quot; later in the same line.  </illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.06.01" justify="left" indent="56">4</l>
+                <lg justify="left" type="prose">
+                    <l indent="56" justify="left" n="s-los.f.illbk.06.01">4</l>
                 </lg>
                 <vspace extent="1"/>
                 <texthead justify="left">
-                    <l n="s-los.f.illbk.06.02" justify="left" indent="10">ASIA</l>
+                    <l indent="10" justify="left" n="s-los.f.illbk.06.02">ASIA</l>
                 </texthead>
                 <vspace extent="4"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.06.03" justify="left" indent="3">The Kings of Asia heard</l>
-                    <l n="s-los.f.illbk.06.04" justify="left">The howl rise up from Europe!</l>
-                    <l n="s-los.f.illbk.06.05" justify="left">And each ran out from his Web;</l>
-                    <l n="s-los.f.illbk.06.06" justify="left">From his ancient woven Den;</l>
-                    <l n="s-los.f.illbk.06.07" justify="left">For the darkness of Asia was startled</l>
-                    <l n="s-los.f.illbk.06.08" justify="left">At the thick-flaming, thought-creating fires of Orc.</l>
+                <lg justify="left" type="verse">
+                    <l indent="3" justify="left" n="s-los.f.illbk.06.03">The Kings of Asia heard</l>
+                    <l justify="left" n="s-los.f.illbk.06.04">The howl rise up from Europe!</l>
+                    <l justify="left" n="s-los.f.illbk.06.05">And each ran out from his Web;</l>
+                    <l justify="left" n="s-los.f.illbk.06.06">From his ancient woven Den;</l>
+                    <l justify="left" n="s-los.f.illbk.06.07">For the darkness of Asia was startled</l>
+                    <l justify="left" n="s-los.f.illbk.06.08">At the thick-flaming, thought-creating fires of Orc.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.06.09" justify="left">And the Kings of Asia stood</l>
-                    <l n="s-los.f.illbk.06.10" justify="left">And cried in bitterness of soul.</l>
+                <lg justify="left" type="verse">
+                    <l justify="left" n="s-los.f.illbk.06.09">And the Kings of Asia stood</l>
+                    <l justify="left" n="s-los.f.illbk.06.10">And cried in bitterness of soul.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.06.11" justify="left" indent="1">Shall not the King call for Famine from the heath?</l>
-                    <l n="s-los.f.illbk.06.12" justify="left">Nor the Priest, for Pestilence from the fen?</l>
-                    <l n="s-los.f.illbk.06.13" justify="left">To restrain! to dismay! to thin!</l>
-                    <l n="s-los.f.illbk.06.14" justify="left">The inhabitants of mountain and plain;</l>
-                    <l n="s-los.f.illbk.06.15" justify="left">In the day of full-feeding prosperity;</l>
-                    <l n="s-los.f.illbk.06.16" justify="left">And the night of delicious songs.</l>
+                <lg justify="left" type="verse">
+                    <l indent="1" justify="left" n="s-los.f.illbk.06.11">Shall not the King call for Famine from the heath?</l>
+                    <l justify="left" n="s-los.f.illbk.06.12">Nor the Priest, for Pestilence from the fen?</l>
+                    <l justify="left" n="s-los.f.illbk.06.13">To restrain! to dismay! to thin!</l>
+                    <l justify="left" n="s-los.f.illbk.06.14">The inhabitants of mountain and plain;</l>
+                    <l justify="left" n="s-los.f.illbk.06.15">In the day of full-feeding prosperity;</l>
+                    <l justify="left" n="s-los.f.illbk.06.16">And the night of delicious songs.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.06.17" justify="left" indent="1">Shall not the Councellor throw his curb</l>
-                    <l n="s-los.f.illbk.06.18" justify="left">Of Poverty on the laborious?</l>
-                    <l n="s-los.f.illbk.06.19" justify="left">To fix the price of labour;</l>
-                    <l n="s-los.f.illbk.06.20" justify="left">To invent allegoric riches:</l>
+                <lg justify="left" type="verse">
+                    <l indent="1" justify="left" n="s-los.f.illbk.06.17">Shall not the Councellor throw his curb</l>
+                    <l justify="left" n="s-los.f.illbk.06.18">Of Poverty on the laborious?</l>
+                    <l justify="left" n="s-los.f.illbk.06.19">To fix the price of labour;</l>
+                    <l justify="left" n="s-los.f.illbk.06.20">To invent allegoric riches:</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.06.21" justify="left" indent="1">And the privy admonishers of men</l>
-                    <l n="s-los.f.illbk.06.22" justify="left">Call for fires in the City</l>
-                    <l n="s-los.f.illbk.06.23" justify="left">For heaps of smoking ruins,</l>
-                    <l n="s-los.f.illbk.06.24" justify="left">In the night of prosperity &amp; wantonness</l>
+                <lg justify="left" type="verse">
+                    <l indent="1" justify="left" n="s-los.f.illbk.06.21">And the privy admonishers of men</l>
+                    <l justify="left" n="s-los.f.illbk.06.22">Call for fires in the City</l>
+                    <l justify="left" n="s-los.f.illbk.06.23">For heaps of smoking ruins,</l>
+                    <l justify="left" n="s-los.f.illbk.06.24">In the night of prosperity &amp; wantonness</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.06.25" justify="left" indent="1">To turn man from his path,</l>
-                    <l n="s-los.f.illbk.06.26" justify="left">To restrain the child from the womb,</l>
+                <lg justify="left" type="verse">
+                    <l indent="1" justify="left" n="s-los.f.illbk.06.25">To turn man from his path,</l>
+                    <l justify="left" n="s-los.f.illbk.06.26">To restrain the child from the womb,</l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="s-los.f.illbk.07" dbi="s-los.f.P7">
+        <desc dbi="s-los.f.P7" id="s-los.f.illbk.07">
             <objtitle>,
-<objid>
+
+                <objid>
                     <objnumber code="A7">object 7 </objnumber>
                     <objcode code="B7">(Bentley 7, </objcode>
                     <objcode code="E7">Erdman 7, </objcode>
-                    <objcode code="K7">Keynes 7)</objcode>
-                </objid>
+                    <objcode code="K7">Keynes 7)</objcode></objid>
             </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.3 x 13.5 cm.</objsize>
                 <windowsize height="1160" width="702"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>Although it contains considerable text, the plate is treated pictorially as a full-page design.  Upper right, a nude male falls or hangs head first in front of clouds or foliage.  His legs are bent at the knee, so that his lower legs are not shown, and his arms are similarly bent at the elbows.  His posture is contracted, with his head bent back.  Both margins of the text are filled with undifferentiated masses of vegetation, some of which appear to be leafy branches and intrude between lines of text.</illusobjdesc>
-                    <component type="figure" location="B">
+                    <component location="B" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>facing forward</characteristic>
@@ -1293,7 +1367,7 @@ image.</illusobjdesc>
                         <characteristic>tree</characteristic>
                         <illusobjdesc>A nude male falls or hangs head first in front of clouds or foliage.  His legs are bent at the knee, so that his lower legs are not shown, and his arms are similarly bent at the elbows.  His posture is contracted, with his head bent back.  He may be bound.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="E">
+                    <component location="E" type="vegetation">
                         <characteristic>branch</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>indeterminate</characteristic>
@@ -1303,28 +1377,28 @@ Some of this vegetation intrudes between lines of
 text.</illusobjdesc>
                     </component>
                 </illustration>
-                <illustration type="interlinear" location="E">
-                    <illusobjdesc>Vine-like extensions of the "y" in "may" and "y" in "obey" (line 3) extend horizontally between lines 3 and 4 of the text.  
-                  Other letters of the text have similar vine-like extensions, such as the "p" in "weeping" (line 17), 
-                  the "d" in "clouds" (line 20), which includes a loop, and the "d" in "Adam" (line 21).  An independent vine with multiple loops extends horizontally 
+                <illustration location="E" type="interlinear">
+                    <illusobjdesc>Vine-like extensions of the &quot;y&quot; in &quot;may&quot; and &quot;y&quot; in &quot;obey&quot; (line 3) extend horizontally between lines 3 and 4 of the text.  
+                  Other letters of the text have similar vine-like extensions, such as the &quot;p&quot; in &quot;weeping&quot; (line 17), 
+                  the &quot;d&quot; in &quot;clouds&quot; (line 20), which includes a loop, and the &quot;d&quot; in &quot;Adam&quot; (line 21).  An independent vine with multiple loops extends horizontally 
 between lines 9 and 10 of the text.  The horizontal forms between
 lines 35 and 36 may also represent vines.</illusobjdesc>
-                    <component type="vegetation" location="AB">
+                    <component location="AB" type="vegetation">
                         <characteristic>vine</characteristic>
                         <characteristic>loop</characteristic>
-                        <illusobjdesc>Vine-like extensions of the "y" in "may" and "y" in "obey" 
+                        <illusobjdesc>Vine-like extensions of the &quot;y&quot; in &quot;may&quot; and &quot;y&quot; in &quot;obey&quot; 
                      (line 3) extend horizontally between lines 3 and 4 of the text.  
                      Other letters of the text have similar vine-like extensions, such as 
-                     "y" in "Heavy" (line 17), the "p" in "weeping" (line 17), the "d" in "clouds" (line 20), 
-                     and the "d" in "Adam" (line 21).  An independent vine with 
+                     &quot;y&quot; in &quot;Heavy&quot; (line 17), the &quot;p&quot; in &quot;weeping&quot; (line 17), the &quot;d&quot; in &quot;clouds&quot; (line 20), 
+                     and the &quot;d&quot; in &quot;Adam&quot; (line 21).  An independent vine with 
                      multiple loops extends horizontally between lines 9 and 10 of the text. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>vine</characteristic>
                         <illusobjdesc>The horizontal forms between lines 35 and 36 of the
 text may represent vines.</illusobjdesc>
                     </component>
-                    <component type="object" location="B">
+                    <component location="B" type="object">
                         <characteristic>sky</characteristic>
                         <characteristic>cloud</characteristic>
                         <characteristic>dark</characteristic>
@@ -1335,96 +1409,96 @@ text may represent vines.</illusobjdesc>
                 </illustration>
             </illusdesc>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.07.01" justify="left" indent="56">5</l>
+                <lg justify="left" type="prose">
+                    <l indent="56" justify="left" n="s-los.f.illbk.07.01">5</l>
                 </lg>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.07.02" justify="left">To cut off the bread from the city,</l>
-                    <l n="s-los.f.illbk.07.03" justify="left">That the remnant may learn to obey.</l>
-                </lg>
-                <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.07.04" justify="left" indent="1">That the pride of the heart may fail;</l>
-                    <l n="s-los.f.illbk.07.05" justify="left">That the lust of the eyes may be quench'd;</l>
-                    <l n="s-los.f.illbk.07.06" justify="left">That the delicate ear in its infancy</l>
-                    <l n="s-los.f.illbk.07.07" justify="left">May be dull'd; and the nostrils clos'd up.</l>
-                    <l n="s-los.f.illbk.07.08" justify="left">To teach mortal worms the path</l>
-                    <l n="s-los.f.illbk.07.09" justify="left">That leads from the gates of the Grave.</l>
+                <lg justify="left" type="verse">
+                    <l justify="left" n="s-los.f.illbk.07.02">To cut off the bread from the city,</l>
+                    <l justify="left" n="s-los.f.illbk.07.03">That the remnant may learn to obey.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.07.10" justify="left" indent="5">Urizen heard them cry;</l>
-                    <l n="s-los.f.illbk.07.11" justify="left">And his shudd'ring waving wings</l>
-                    <l n="s-los.f.illbk.07.12" justify="left">Went enormous above the red flames</l>
-                    <l n="s-los.f.illbk.07.13" justify="left">Drawing clouds of despair thro' the heavens</l>
-                    <l n="s-los.f.illbk.07.14" justify="left">Of Europe as he went:</l>
-                    <l n="s-los.f.illbk.07.15" justify="left" indent="1">And his Books of brass iron &amp; gold</l>
-                    <l n="s-los.f.illbk.07.16" justify="left" indent="1">Melted over the land as he flew,</l>
-                    <l n="s-los.f.illbk.07.17" justify="left" indent="1">Heavy-waving, howling, weeping.</l>
+                <lg justify="left" type="verse">
+                    <l indent="1" justify="left" n="s-los.f.illbk.07.04">That the pride of the heart may fail;</l>
+                    <l justify="left" n="s-los.f.illbk.07.05">That the lust of the eyes may be quench'd;</l>
+                    <l justify="left" n="s-los.f.illbk.07.06">That the delicate ear in its infancy</l>
+                    <l justify="left" n="s-los.f.illbk.07.07">May be dull'd; and the nostrils clos'd up.</l>
+                    <l justify="left" n="s-los.f.illbk.07.08">To teach mortal worms the path</l>
+                    <l justify="left" n="s-los.f.illbk.07.09">That leads from the gates of the Grave.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.07.18" justify="left" indent="20">And he stood over Judea, </l>
-                    <l n="s-los.f.illbk.07.19" justify="left" indent="19">And stay'd in his ancient place: </l>
-                    <l n="s-los.f.illbk.07.20" justify="left" indent="18">And stretch'd his clouds over Jerusalem, </l>
+                <lg justify="left" type="verse">
+                    <l indent="5" justify="left" n="s-los.f.illbk.07.10">Urizen heard them cry;</l>
+                    <l justify="left" n="s-los.f.illbk.07.11">And his shudd'ring waving wings</l>
+                    <l justify="left" n="s-los.f.illbk.07.12">Went enormous above the red flames</l>
+                    <l justify="left" n="s-los.f.illbk.07.13">Drawing clouds of despair thro' the heavens</l>
+                    <l justify="left" n="s-los.f.illbk.07.14">Of Europe as he went:</l>
+                    <l indent="1" justify="left" n="s-los.f.illbk.07.15">And his Books of brass iron &amp; gold</l>
+                    <l indent="1" justify="left" n="s-los.f.illbk.07.16">Melted over the land as he flew,</l>
+                    <l indent="1" justify="left" n="s-los.f.illbk.07.17">Heavy-waving, howling, weeping.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.07.21" justify="left" indent="18">For Adam, a mouldering skeleton</l>
-                    <l n="s-los.f.illbk.07.22" justify="left" indent="18">Lay bleach'd on the garden of Eden; </l>
-                    <l n="s-los.f.illbk.07.23" justify="left" indent="18">And Noah as white as snow</l>
-                    <l n="s-los.f.illbk.07.24" justify="left" indent="18">On the mountains of Ararat.</l>
+                <lg justify="left" type="verse">
+                    <l indent="20" justify="left" n="s-los.f.illbk.07.18">And he stood over Judea, </l>
+                    <l indent="19" justify="left" n="s-los.f.illbk.07.19">And stay'd in his ancient place: </l>
+                    <l indent="18" justify="left" n="s-los.f.illbk.07.20">And stretch'd his clouds over Jerusalem, </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.07.25" justify="left" indent="12">Then the thunders of Urizen bellow'd aloud</l>
-                    <l n="s-los.f.illbk.07.26" justify="left" indent="12">From his woven darkness above. </l>
+                <lg justify="left" type="verse">
+                    <l indent="18" justify="left" n="s-los.f.illbk.07.21">For Adam, a mouldering skeleton</l>
+                    <l indent="18" justify="left" n="s-los.f.illbk.07.22">Lay bleach'd on the garden of Eden; </l>
+                    <l indent="18" justify="left" n="s-los.f.illbk.07.23">And Noah as white as snow</l>
+                    <l indent="18" justify="left" n="s-los.f.illbk.07.24">On the mountains of Ararat.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg justify="left" type="verse">
+                    <l indent="12" justify="left" n="s-los.f.illbk.07.25">Then the thunders of Urizen bellow'd aloud</l>
+                    <l indent="12" justify="left" n="s-los.f.illbk.07.26">From his woven darkness above. </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.07.27" justify="left" indent="13">Orc raging in European darkness</l>
-                    <l n="s-los.f.illbk.07.28" justify="left" indent="13">Arose like a pillar of fire above the Alps</l>
-                    <l n="s-los.f.illbk.07.29" justify="left" indent="13">Like a serpent of fiery flame!</l>
-                    <l n="s-los.f.illbk.07.30" justify="left" indent="22">The sullen Earth</l>
-                    <l n="s-los.f.illbk.07.31" justify="left" indent="23">Shrunk! </l>
+                <lg justify="left" type="verse">
+                    <l indent="13" justify="left" n="s-los.f.illbk.07.27">Orc raging in European darkness</l>
+                    <l indent="13" justify="left" n="s-los.f.illbk.07.28">Arose like a pillar of fire above the Alps</l>
+                    <l indent="13" justify="left" n="s-los.f.illbk.07.29">Like a serpent of fiery flame!</l>
+                    <l indent="22" justify="left" n="s-los.f.illbk.07.30">The sullen Earth</l>
+                    <l indent="23" justify="left" n="s-los.f.illbk.07.31">Shrunk! </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.07.32" justify="left" indent="2">Forth from the dead dust rattling bones to bones</l>
-                    <l n="s-los.f.illbk.07.33" justify="left" indent="2">Join: shaking convuls'd the shivring clay breathes</l>
-                    <l n="s-los.f.illbk.07.34" justify="left" indent="3">And all flesh naked stands; Fathers and Friends;</l>
-                    <l n="s-los.f.illbk.07.35" justify="left" indent="3">Mothers &amp; Infants; Kings &amp; Warriors;</l>
+                <lg justify="left" type="verse">
+                    <l indent="2" justify="left" n="s-los.f.illbk.07.32">Forth from the dead dust rattling bones to bones</l>
+                    <l indent="2" justify="left" n="s-los.f.illbk.07.33">Join: shaking convuls'd the shivring clay breathes</l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.07.34">And all flesh naked stands; Fathers and Friends;</l>
+                    <l indent="3" justify="left" n="s-los.f.illbk.07.35">Mothers &amp; Infants; Kings &amp; Warriors;</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="verse" justify="left">
-                    <l n="s-los.f.illbk.07.36" justify="left" indent="10">The Grave shrieks with delight, &amp; shakes</l>
-                    <l n="s-los.f.illbk.07.37" justify="left" indent="10">Her hollow womb, &amp; clasps the solid stem;</l>
-                    <l n="s-los.f.illbk.07.38" justify="left" indent="10">Her bosom swells with wild desire;</l>
-                    <l n="s-los.f.illbk.07.39" justify="left" indent="10">And milk &amp; blood &amp; glandous wine,</l>
-                    <l n="s-los.f.illbk.07.40" justify="left" indent="10">In rivers rush &amp; shout &amp; dance,</l>
-                    <l n="s-los.f.illbk.07.41" justify="left" indent="10">On mountain, dale and plain.</l>
-                    <l n="s-los.f.illbk.07.42" justify="left" indent="17">The SONG of LOS is Ended.</l>
-                    <l n="s-los.f.illbk.07.43" justify="left" indent="19">Urizen Wept.</l>
+                <lg justify="left" type="verse">
+                    <l indent="10" justify="left" n="s-los.f.illbk.07.36">The Grave shrieks with delight, &amp; shakes</l>
+                    <l indent="10" justify="left" n="s-los.f.illbk.07.37">Her hollow womb, &amp; clasps the solid stem;</l>
+                    <l indent="10" justify="left" n="s-los.f.illbk.07.38">Her bosom swells with wild desire;</l>
+                    <l indent="10" justify="left" n="s-los.f.illbk.07.39">And milk &amp; blood &amp; glandous wine,</l>
+                    <l indent="10" justify="left" n="s-los.f.illbk.07.40">In rivers rush &amp; shout &amp; dance,</l>
+                    <l indent="10" justify="left" n="s-los.f.illbk.07.41">On mountain, dale and plain.</l>
+                    <l indent="17" justify="left" n="s-los.f.illbk.07.42">The SONG of LOS is Ended.</l>
+                    <l indent="19" justify="left" n="s-los.f.illbk.07.43">Urizen Wept.</l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="s-los.f.illbk.08" dbi="s-los.f.P8">
+        <desc dbi="s-los.f.P8" id="s-los.f.illbk.08">
             <objtitle>,
+                
                 <objid>
                     <objnumber code="A8">object 8 </objnumber>
                     <objcode code="B8">(Bentley 8, </objcode>
                     <objcode code="E8">Erdman 8, </objcode>
-                    <objcode code="K8">Keynes 8)</objcode>
-                </objid>
+                    <objcode code="K8">Keynes 8)</objcode></objid>
             </objtitle>
             <physdesc desclevel="brief">
                 <objsize>23.5 x 17.5 cm.</objsize>
                 <windowsize height="1222" width="910"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>A nude male sits or kneels, with legs spread apart, on what may be clouds or partly formed cosmic globes.  He faces forward, but looks down at the red, perhaps occluded, globe of a sun or star. Black streaks obscure the top right and bottom half of the globe.  The male holds, with both hands, a large hammer.  His hair is curly or flame-like; his expression is serious, perhaps even melancholy.  The red sun or star below him has around its circumference spiky beams of light.  Two small beams of dark radiance rise from the top right surface of the sun or star. Right and left of this man are at least two other suns or stars, also radiating beams of light.  Beyond is the void of space.  The figure is almost certainly Los, in his character as the blacksmith-like creator of the temporal universe.</illusobjdesc>
-                    <component type="figure" location="AB">
+                    <component location="AB" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>Los</characteristic>
@@ -1455,13 +1529,13 @@ text may represent vines.</illusobjdesc>
                             This figure is almost certainly Los, in his character as the 
                             blacksmith-like creator of the temporal universe.</illusobjdesc>
                     </component>
-                    <component type="object" location="E">
+                    <component location="E" type="object">
                         <characteristic>cloud</characteristic>
                         <characteristic>globe</characteristic>
                         <illusobjdesc>The figure may be sitting on either clouds or 
                             partly formed cosmic globes.</illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>sun</characteristic>
                         <characteristic>star</characteristic>
                         <characteristic>globe</characteristic>
@@ -1471,7 +1545,7 @@ text may represent vines.</illusobjdesc>
                         <characteristic>spiky</characteristic>
                         <illusobjdesc>The man looks down upon a red and perhaps occluded sun or star.  Spiky beams of light surround its circumference.  Two small beams of dark radiance rise from the top right surface of the sun or star.  The dark, horizontal forms that obscure the top right and bottom half of the sun or star suggest clouds.</illusobjdesc>
                     </component>
-                    <component type="object" location="AB">
+                    <component location="AB" type="object">
                         <characteristic>sun</characteristic>
                         <characteristic>star</characteristic>
                         <characteristic>spiky</characteristic>
@@ -1486,8 +1560,8 @@ text may represent vines.</illusobjdesc>
                 </illustration>
             </illusdesc>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="s-los.f.illbk.08.01" justify="left" indent="56">6</l>
+                <lg justify="left" type="prose">
+                    <l indent="56" justify="left" n="s-los.f.illbk.08.01">6</l>
                 </lg>
             </phystext>
         </desc>
