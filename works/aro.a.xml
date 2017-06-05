@@ -1,68 +1,262 @@
-<bad id="aro.a" type="illbk" work="All Religions are One" copy="A" copyid="A" institution="huntington fitzwilliam" catalog="bentley" catid="A"><header><filedesc><titlestmt><title reg="All Religions are One"><main>All Religions are One</main><copy> Copy A</copy>
-: electronic edition
-</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of
+<bad catalog="bentley" catid="A" copy="A" copyid="A" id="aro.a" institution="huntington fitzwilliam" type="illbk" work="All Religions are One">
+	<header>
+		<filedesc>
+			<titlestmt>
+				<title reg="All Religions are One">
+					<main>All Religions are One</main>
+					<copy>Copy A</copy>: electronic edition</title>
+				<principal>
+					<resp>Editors: </resp>
+					<name>Morris Eaves, </name>University of
 Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt><resp>Programmer/Analysts: </resp><name>David Cosca </name>and
-<name>Robert Bingler</name><resp>Project Manager: </resp><name>Matthew
-Kirschenbaum</name><resp>Project Assistant: </resp><name>Greg
-Murray</name></respstmt><sponsor>The Institute for Advanced Technology in the Humanities, the
+
+					<name>Robert Essick, </name>
+					University of California, Riverside; and
+
+					<name>Joseph Viscomi</name>
+					, University of North Carolina at Chapel Hill</principal>
+				<respstmt>
+					<resp>Programmer/Analysts: </resp>
+					<name>David Cosca </name>and
+
+					<name>Robert Bingler</name>
+					<resp>Project Manager: </resp>
+					<name>Matthew
+Kirschenbaum</name>
+					<resp>Project Assistant: </resp>
+					<name>Greg
+Murray</name></respstmt>
+				<sponsor>The Institute for Advanced Technology in the Humanities, the
 Library of Congress, and the University of North Carolina at Chapel Hill
 with a software grant from Inso Corporation and hardware and software
-grants from Sun Microsystems</sponsor><funder>National Endowment for the Humanities, 2000-02</funder><funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder><funder>Getty Grant Program, 1995-98</funder></titlestmt><editionstmt>Blake Archive Description DTD Version 2004</editionstmt><extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 55KB; 20 JPEG (ISO/IEC
-10918) files ranging in size from 35KB to 510KB</extent><publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH
-         <date>June 1998</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><updatestmt>
-            The editors of the William Blake Archive are pleased to announce the publication of six new electronic editions of Blake's illuminated books. They are: <hi rend="i">All Religions are One</hi> Copy A, <hi rend="i">There is No Natural Religion</hi> Copies B, C, G, and L, and <hi rend="i">Milton, a Poem</hi> Copy C.<lb/><lb/>
-            Composed and executed in 1788, <hi rend="i">All Religions are One</hi> and <hi rend="i">There is No Natural Religion</hi> are Blake's first works in illuminated printing, though no copy of either work survives from this date. The ten plates of <hi rend="i">All Religions</hi> were followed quickly by twenty <hi rend="i">No Natural Religion</hi> plates in two antithetical sets (a and b series). Only one copy of <hi rend="i">All Religion</hi> is extant, now in the Huntington Library, printed c. 1795 with and in the same style as <hi rend="i">There is No Natural Religion</hi> Copy L, the only copy consisting exclusively of the ten b-series of plates, now in The Pierpont Morgan Library. The other twelve recorded copies of this book consist of a mixture of the same eight to twelve plates, which appeared to be merely incomplete sets of proofs until it was discovered that six of these copies were 19th-century reproductions. Once the inauthentic impressions were weeded out, it became apparent that what remained was Blake's selection of a and b plates for an abridged version of the work printed around 1794. We present Copies B, C, and G of this twelve-plate work, now in the collections of the Yale Center for British Art, Library of Congress, and The Pierpont Morgan Library, respectively.<lb/><lb/>
-            There are only four copies of <hi rend="i">Milton</hi>, Blake's most personal epic. Copy C, from the New York Public Library, was Blake's own copy. Printed c. 1811, it was later reconfigured and renumbered by Blake when he inserted extra plates, which he appears to have done on at least two different occasions.<lb/><lb/>
-            All of these editions have newly edited texts and are all fully searchable for both text and images and supported by the unique Inote and ImageSizer applications described in our previous updates.<lb/><lb/>
-            We now have twenty-two copies of thirteen illuminated books. Over this and next year, we will be adding Blake's last illuminated works, <hi rend="i">On Homers Poetry [&amp;] On Virgil</hi>, <hi rend="i">The Ghost of Abel</hi>, and <hi rend="i">Laocoön</hi>, as well as <hi rend="i">Milton</hi> Copy D and <hi rend="i">Jerusalem</hi> Copy E. We will also be adding at least six more copies of <hi rend="i">Songs of Innocence and of Experience</hi>, two copies of <hi rend="i">Songs of Innocence</hi>, five copies of <hi rend="i">The Marriage of Heaven and Hell</hi>, four copies of <hi rend="i">The Book of Urizen</hi>, and two copies each of <hi rend="i">America, a Prophecy</hi> and <hi rend="i">Europe, a Prophecy</hi>. In addition, work continues on the SGML edition of David V. Erdman's <hi rend="i">Complete Poetry and Prose of William Blake</hi>.<lb/><lb/>
-            We will continue to post updates on various lists every few months, but readers interested in the progress of the Archive can subscribe to our Blake Update list, which can be found on the Archive's Contents Page. On this page readers will also find that we have opened the top level of the Contributing Institutions Page, which provides contact information and links to institutions participating in the Archive. In the coming months, we plan to include color-coded and linked lists of each institution's entire Blake collection to indicate what is and is not in the Archive and what is forthcoming.
-         </updatestmt><notesstmt/></filedesc><userestrict>Copyright © <date>1998</date> by Morris Eaves, Robert N. Essick,
+grants from Sun Microsystems</sponsor>
+				<funder>National Endowment for the Humanities, 2000-02</funder>
+				<funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder>
+				<funder>Getty Grant Program, 1995-98</funder>
+			</titlestmt>
+			<editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
+			<extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 55KB; 20 JPEG (ISO/IEC
+10918) files ranging in size from 35KB to 510KB</extent>
+			<publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH
+         
+				<date>June 1998</date></publicationstmt>
+			<seriesstmt>The William Blake Archive</seriesstmt>
+			<updatestmt>The editors of the William Blake Archive are pleased to announce the publication of six new electronic editions of Blake's illuminated books. They are: 
+				<hi rend="i">All Religions are One</hi>
+				Copy A, 
+				<hi rend="i">There is No Natural Religion</hi>
+				Copies B, C, G, and L, and 
+				<hi rend="i">Milton, a Poem</hi>
+				Copy C.
+				<lb/>
+				<lb/>
+				Composed and executed in 1788, 
+				<hi rend="i">All Religions are One</hi>
+				and 
+				<hi rend="i">There is No Natural Religion</hi>
+				are Blake's first works in illuminated printing, though no copy of either work survives from this date. The ten plates of 
+				<hi rend="i">All Religions</hi>
+				were followed quickly by twenty 
+				<hi rend="i">No Natural Religion</hi>
+				plates in two antithetical sets (a and b series). Only one copy of 
+				<hi rend="i">All Religion</hi>
+				is extant, now in the Huntington Library, printed c. 1795 with and in the same style as 
+				<hi rend="i">There is No Natural Religion</hi>
+				Copy L, the only copy consisting exclusively of the ten b-series of plates, now in The Pierpont Morgan Library. The other twelve recorded copies of this book consist of a mixture of the same eight to twelve plates, which appeared to be merely incomplete sets of proofs until it was discovered that six of these copies were 19th-century reproductions. Once the inauthentic impressions were weeded out, it became apparent that what remained was Blake's selection of a and b plates for an abridged version of the work printed around 1794. We present Copies B, C, and G of this twelve-plate work, now in the collections of the Yale Center for British Art, Library of Congress, and The Pierpont Morgan Library, respectively.
+				<lb/>
+				<lb/>
+				There are only four copies of 
+				<hi rend="i">Milton</hi>
+				, Blake's most personal epic. Copy C, from the New York Public Library, was Blake's own copy. Printed c. 1811, it was later reconfigured and renumbered by Blake when he inserted extra plates, which he appears to have done on at least two different occasions.
+				<lb/>
+				<lb/>
+				All of these editions have newly edited texts and are all fully searchable for both text and images and supported by the unique Inote and ImageSizer applications described in our previous updates.
+				<lb/>
+				<lb/>
+				We now have twenty-two copies of thirteen illuminated books. Over this and next year, we will be adding Blake's last illuminated works, 
+				<hi rend="i">On Homers Poetry [&amp;] On Virgil</hi>
+				, 
+				<hi rend="i">The Ghost of Abel</hi>
+				, and 
+				<hi rend="i">Laocoön</hi>
+				, as well as 
+				<hi rend="i">Milton</hi>
+				Copy D and 
+				<hi rend="i">Jerusalem</hi>
+				Copy E. We will also be adding at least six more copies of 
+				<hi rend="i">Songs of Innocence and of Experience</hi>
+				, two copies of 
+				<hi rend="i">Songs of Innocence</hi>
+				, five copies of 
+				<hi rend="i">The Marriage of Heaven and Hell</hi>
+				, four copies of 
+				<hi rend="i">The Book of Urizen</hi>
+				, and two copies each of 
+				<hi rend="i">America, a Prophecy</hi>
+				and 
+				<hi rend="i">Europe, a Prophecy</hi>
+				. In addition, work continues on the SGML edition of David V. Erdman's 
+				<hi rend="i">Complete Poetry and Prose of William Blake</hi>
+				.
+				<lb/>
+				<lb/>
+				We will continue to post updates on various lists every few months, but readers interested in the progress of the Archive can subscribe to our Blake Update list, which can be found on the Archive's Contents Page. On this page readers will also find that we have opened the top level of the Contributing Institutions Page, which provides contact information and links to institutions participating in the Archive. In the coming months, we plan to include color-coded and linked lists of each institution's entire Blake collection to indicate what is and is not in the Archive and what is forthcoming.</updatestmt>
+			<notesstmt/>
+		</filedesc>
+		<userestrict>Copyright © 
+			<date>1998</date>
+			by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved.  Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law. 
 Redistribution or republication on other terms, in any medium, requires
 express written consent from the editors and advance notification of the
 publisher. Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/><lb/>
-This image copyright © 1998 Henry E. Huntington Library and Art Gallery (Plates
-1, 3-10) and Fitzwilliam Museum (Plate 2).</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Conversion to Blake Archive Description DTD 2.1; Styles 2.0</change><date>Summer 2000</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-<resp>Technical Editor: </resp><name>Matthew Kirschenbaum</name><resp>Programmer/Analysts: </resp><name>Robert Bingler, </name><name>David Cosca, </name><name>Kirk V. Hastings</name><resp>Project Manager: </resp><name>Andrea Laue</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Kari Kraus, </name><name>Wayne C. Ripley</name></respstmt></changestmt><changestmt><change>Conversion to XML and Blake Archive Description DTD 2004</change><date>2004</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-<resp>Technical Editor: </resp><name>Andrea Laue</name><resp>Conversion: </resp><name>Aziza Technology Associates</name><resp>Project Manager: </resp><name>Justin Van Kleeck</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Kari Kraus, </name><name>Wesley N. Raabe, </name><name>Wayne C. Ripley, </name><name>William Shaw</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title>*All Religions are One*</title></objtitle><origination>William Blake <role>author, </role><role>inventor, </role><role>delineator, </role><role>etcher, </role><role>printer, </role><role>colorist</role><note>Blake's authorship is not indicated in this work, but
-the attribution is certain.</note></origination><origination>Catherine Blake <role>printer</role></origination><imprint><publisher>William Blake
-<note>Blake does not name himself as the publisher in
-this work, but the only known copy was printed by him.</note></publisher><pubplace>London
-<note>The place of publication is not given in
+granted by the owners of the originals for this publication only.
+			<lb/>
+			<lb/>
+			This image copyright © 1998 Henry E. Huntington Library and Art Gallery (Plates
+1, 3-10) and Fitzwilliam Museum (Plate 2).</userestrict>
+		<encodingdesc/>
+		<profiledesc/>
+		<revisiondesc>
+			<changestmt>
+				<change>Conversion to Blake Archive Description DTD 2.1; Styles 2.0</change>
+				<date>Summer 2000</date>
+				<respstmt>
+					<resp>Editors: </resp>
+					<name>Morris Eaves, </name>University of Rochester;
+
+					<name>Robert Essick, </name>
+					University of California, Riverside; and
+
+					<name>Joseph Viscomi, </name>
+					University of North Carolina at Chapel Hill
+
+					<resp>Technical Editor: </resp>
+					<name>Matthew Kirschenbaum</name>
+					<resp>Programmer/Analysts: </resp>
+					<name>Robert Bingler, </name>
+					<name>David Cosca, </name>
+					<name>Kirk V. Hastings</name>
+					<resp>Project Manager: </resp>
+					<name>Andrea Laue</name>
+					<resp>Project Assistants: </resp>
+					<name>Christopher N. Jackson, </name>
+					<name>Kari Kraus, </name>
+					<name>Wayne C. Ripley</name></respstmt>
+			</changestmt>
+			<changestmt>
+				<change>Conversion to XML and Blake Archive Description DTD 2004</change>
+				<date>2004</date>
+				<respstmt>
+					<resp>Editors: </resp>
+					<name>Morris Eaves, </name>University of Rochester;
+
+					<name>Robert Essick, </name>
+					University of California, Riverside; and
+
+					<name>Joseph Viscomi, </name>
+					University of North Carolina at Chapel Hill
+
+					<resp>Technical Editor: </resp>
+					<name>Andrea Laue</name>
+					<resp>Conversion: </resp>
+					<name>Aziza Technology Associates</name>
+					<resp>Project Manager: </resp>
+					<name>Justin Van Kleeck</name>
+					<resp>Project Assistants: </resp>
+					<name>Christopher N. Jackson, </name>
+					<name>Kari Kraus, </name>
+					<name>Wesley N. Raabe, </name>
+					<name>Wayne C. Ripley, </name>
+					<name>William Shaw</name></respstmt>
+			</changestmt>
+		</revisiondesc>
+	</header>
+	<objdesc>
+		<source>
+			<objdescid>
+				<objtitle>
+					<title>*All Religions are One*</title>
+				</objtitle>
+				<origination>William Blake 
+					<role>author, </role>
+					<role>inventor, </role>
+					<role>delineator, </role>
+					<role>etcher, </role>
+					<role>printer, </role>
+					<role>colorist</role>
+					<note>Blake's authorship is not indicated in this work, but
+the attribution is certain.</note></origination>
+				<origination>Catherine Blake 
+					<role>printer</role></origination>
+				<imprint>
+					<publisher>William Blake
+
+						<note>Blake does not name himself as the publisher in
+this work, but the only known copy was printed by him.</note></publisher>
+					<pubplace>London
+
+						<note>The place of publication is not given in
 the work, but Blake was living in London during its etching and
-printing.</note></pubplace></imprint><compdate value="1788.A">c. 1788</compdate></objdescid><objinfo><printdate value="1795">c. 1795
-<note>The only known copy of *All Religions are One* is
+printing.</note></pubplace>
+				</imprint>
+				<compdate value="1788.A">c. 1788</compdate>
+			</objdescid>
+			<objinfo>
+				<printdate value="1795">c. 1795
+
+					<note>The only known copy of *All Religions are One* is
 part of Blake's large-paper printing of his illuminated books c.
-1795.</note></printdate><numberobj>10</numberobj><objorder>1-10</objorder><objsize>between 4.6 x 3.0 and 5.9 x 4.1 cm.</objsize><numberleaves>10</numberleaves><leafsize>Plate 2, 29.5 x 23.2 cm.; Plates 1, 3-10, 37.8 x 27.0
-cm.</leafsize><medium>relief etching with touches of white-line etching on plates
-4, 6, 7, 9, and 10</medium><printingstyle>relief, with rudimentary color printing and pen and
+1795.</note></printdate>
+				<numberobj>10</numberobj>
+				<objorder>1-10</objorder>
+				<objsize>between 4.6 x 3.0 and 5.9 x 4.1 cm.</objsize>
+				<numberleaves>10</numberleaves>
+				<leafsize>Plate 2, 29.5 x 23.2 cm.; Plates 1, 3-10, 37.8 x 27.0
+cm.</leafsize>
+				<medium>relief etching with touches of white-line etching on plates
+4, 6, 7, 9, and 10</medium>
+				<printingstyle>relief, with rudimentary color printing and pen and
 ink outlining
-<note>The pen and ink framing lines and additions to
+
+					<note>The pen and ink framing lines and additions to
 the images were probably added at a much later date than the
 printing c. 1795.  Perhaps these additions were not made until
 shortly before the book left Blake's hands (1818 at the
-earliest).</note></printingstyle><inkcolor>green</inkcolor><support>wove paper</support><watermark>I Taylor (Plate 1); 1794 / I Taylor (plate
-6)</watermark><etchednumbers>Plates 4-10 are numbered 1-7.
-<note>The etched numbers are part of the headings,
+earliest).</note></printingstyle>
+				<inkcolor>green</inkcolor>
+				<support>wove paper</support>
+				<watermark>I Taylor (Plate 1); 1794 / I Taylor (plate
+6)</watermark>
+				<etchednumbers>Plates 4-10 are numbered 1-7.
+
+					<note>The etched numbers are part of the headings,
 each number preceded by the word
-"PRINCIPLE."</note></etchednumbers><pennednumbers>none</pennednumbers><framelines><note>Plate 1 has six framing lines, Plate 2 has four,
-and Plates 3-10 have five.</note></framelines><binding>loose in blue cloth portfolio
-<note>There is no evidence of any earlier binding.</note></binding><stabholes>none</stabholes></objinfo><provenance n="1"><name>Plate 2, Keynes Collection, Fitzwilliam Museum, Cambridge,
+&quot;PRINCIPLE.&quot;</note></etchednumbers>
+				<pennednumbers>none</pennednumbers>
+				<framelines>
+					<note>Plate 1 has six framing lines, Plate 2 has four,
+and Plates 3-10 have five.</note>
+				</framelines>
+				<binding>loose in blue cloth portfolio
+
+					<note>There is no evidence of any earlier binding.</note></binding>
+				<stabholes>none</stabholes>
+			</objinfo>
+			<provenance n="1">
+				<name>Plate 2, Keynes Collection, Fitzwilliam Museum, Cambridge,
 England; Plates 1, 3-10, Henry E. Huntington Library, San Marino,
-California</name><date>Plate 2 acquired by the Fitzwilliam Museum in 1982;
-Plates 1, 3-10 acquired by Henry E. Huntington in 1918.</date><dealer>Plate 2 acquired by bequest from Sir Geoffrey Keynes;
+California</name>
+				<date>Plate 2 acquired by the Fitzwilliam Museum in 1982;
+Plates 1, 3-10 acquired by Henry E. Huntington in 1918.</date>
+				<dealer>Plate 2 acquired by bequest from Sir Geoffrey Keynes;
 Plates 1, 3-10 acquired by George D. Smith at auction for Henry E.
-Huntington.</dealer><price>Plate 2 acquired by bequest; Plates 1, 3-10 purchased for
+Huntington.</dealer>
+				<price>Plate 2 acquired by bequest; Plates 1, 3-10 purchased for
 Henry E. Huntington at auction for 84 plus dealer's
-commission.</price><note>Plate 2, detached from the other plates at an
+commission.</price>
+				<note>Plate 2, detached from the other plates at an
 unknown date, acquired by George A. Smith c. 1853; perhaps William
 Muir; Sir Hickman Bacon, sold from his collection at Sotheby's, 21
 July 1953, lot 470 with 6 plates from William Muir's facsimile of
@@ -72,14 +266,67 @@ Sir Geoffrey Keynes).  Plates 1, 3-10 acquired by John Linnell not
 before 1818; sold from the Linnell estate, Christie's, 15 March
 1918, lot 203 with plate a2 of *There is No Natural Religion*
 (£84 to
-the dealer George D. Smith acting for Henry E. Huntington).</note></provenance><repository><institution>Henry E. Huntington Library and Art Gallery</institution><addressline>1151 Oxford Road</addressline><addressline>San Marino, California 91108</addressline><addressline>USA</addressline><addressline>Telephone: 626-405-2100</addressline><addressline>Fax: 626-405-0225</addressline><addressline>URL: http://www.huntington.org/</addressline><department>Library Division (Plates 1, 3-10)</department><collection>Henry E. Huntington Library and Art Gallery</collection><repositoryid label="Call number">57445</repositoryid><lb/><institution>Fitzwilliam Museum</institution><addressline>Trumpington Street</addressline><addressline>Cambridge CB2 1RB</addressline><addressline>United Kingdom</addressline><addressline>Telephone: 44-1223-332900</addressline><addressline>Fax: 44-1223-332923</addressline><addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline><department>Department of Paintings, Drawings and Prints (Plate 2)</department><collection>Sir Geoffrey Keynes Collection, Fitzwilliam Museum</collection><repositoryid label="Call number">P.712-1985</repositoryid></repository></source><desc id="aro.a.illbk.01" dbi="aro.A.P1"><objtitle>,
-<objid><objnumber code="A1">Object 1 </objnumber><objcode code="B1">(Bentley 1, </objcode><objcode code="E1">Erdman 1, </objcode><objcode code="K2">Keynes 2)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>4.6 x 3.7 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="interlinear" location="CD"><illusobjdesc>A variety of vegetative forms surround the text
+the dealer George D. Smith acting for Henry E. Huntington).</note>
+			</provenance>
+			<repositories>
+			<repository>
+				<institution>Henry E. Huntington Library and Art Gallery</institution>
+				<addressline>1151 Oxford Road</addressline>
+				<addressline>San Marino, California 91108</addressline>
+				<addressline>USA</addressline>
+				<addressline>Telephone: 626-405-2100</addressline>
+				<addressline>Fax: 626-405-0225</addressline>
+				<addressline>URL: http://www.huntington.org/</addressline>
+				<department>Library Division (Plates 1, 3-10)</department>
+				<collection>Henry E. Huntington Library and Art Gallery</collection>
+				<repositoryid label="Call number">57445</repositoryid>
+			</repository>
+			<repository>
+				<institution>Fitzwilliam Museum</institution>
+				<addressline>Trumpington Street</addressline>
+				<addressline>Cambridge CB2 1RB</addressline>
+				<addressline>United Kingdom</addressline>
+				<addressline>Telephone: 44-1223-332900</addressline>
+				<addressline>Fax: 44-1223-332923</addressline>
+				<addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline>
+				<department>Department of Paintings, Drawings and Prints (Plate 2)</department>
+				<collection>Sir Geoffrey Keynes Collection, Fitzwilliam Museum</collection>
+				<repositoryid label="Call number">P.712-1985</repositoryid>
+			</repository>
+		</repositories>
+		</source>
+		<desc dbi="aro.A.P1" id="aro.a.illbk.01">
+			<objtitle>,
+
+				<objid>
+					<objnumber code="A1">Object 1 </objnumber>
+					<objcode code="B1">(Bentley 1, </objcode>
+					<objcode code="E1">Erdman 1, </objcode>
+					<objcode code="K2">Keynes 2)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>4.6 x 3.7 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="CD" type="interlinear">
+					<illusobjdesc>A variety of vegetative forms surround the text
 on both sides and on the bottom.  These forms include a branch
 or vine bearing a single leaf (left of the second line of
-text).</illusobjdesc><component type="vegetation" location="CD"><characteristic>indeterminate</characteristic><characteristic>branch</characteristic><characteristic>vine</characteristic><characteristic>leaf</characteristic><illusobjdesc>A variety of indeterminate vegetative forms
+text).</illusobjdesc>
+					<component location="CD" type="vegetation">
+						<characteristic>indeterminate</characteristic>
+						<characteristic>branch</characteristic>
+						<characteristic>vine</characteristic>
+						<characteristic>leaf</characteristic>
+						<illusobjdesc>A variety of indeterminate vegetative forms
 surround the text on both sides and on the bottom.  A branch or
 vine bearing a single leaf precedes the second line of
-text.</illusobjdesc></component></illustration><illustration type="plate" location="E"><illusobjdesc>A male, nude from the waist up, sits on a large
+text.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="E" type="plate">
+					<illusobjdesc>A male, nude from the waist up, sits on a large
 stone or mound of earth and points with both arms to the
 right.  The index fingers of both hands are extended, thereby
 emphasizing the pointing gesture.  His lower legs are crossed
@@ -88,10 +335,40 @@ foot is clearly defined and prominent.  He looks out at the
 viewer; his hair appears to be short and curly.  The
 background is filled with what appear to be tree trunks and
 leaves.  Given the text below the design, the figure is
-very probably John the Baptist.</illusobjdesc><component type="vegetation" location="E"><characteristic>wilderness</characteristic><characteristic>tree</characteristic><characteristic>leaf</characteristic><characteristic>trunk thick</characteristic><illusobjdesc>The background of the design is filled
-with a wilderness of thick tree trunks and leaves.</illusobjdesc></component><component type="vegetation" location="CD"><characteristic>stone</characteristic><characteristic>mound</characteristic><characteristic>grass</characteristic><characteristic>moss</characteristic><illusobjdesc>The large stone or mound on which the figure
+very probably John the Baptist.</illusobjdesc>
+					<component location="E" type="vegetation">
+						<characteristic>wilderness</characteristic>
+						<characteristic>tree</characteristic>
+						<characteristic>leaf</characteristic>
+						<characteristic>trunk thick</characteristic>
+						<illusobjdesc>The background of the design is filled
+with a wilderness of thick tree trunks and leaves.</illusobjdesc>
+					</component>
+					<component location="CD" type="vegetation">
+						<characteristic>stone</characteristic>
+						<characteristic>mound</characteristic>
+						<characteristic>grass</characteristic>
+						<characteristic>moss</characteristic>
+						<illusobjdesc>The large stone or mound on which the figure
 sits and the ground beneath him and to the right
-may be covered with moss or grass.</illusobjdesc></component><component type="figure" location="E"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>John the Baptist</characteristic><characteristic>drapery</characteristic><characteristic>sitting</characteristic><characteristic>pointing</characteristic><characteristic>legs crossed</characteristic><characteristic>fingers</characteristic><characteristic>right foot</characteristic><characteristic>curly hair</characteristic><characteristic>knees</characteristic><characteristic>facing forward</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>young</characteristic><illusobjdesc>A youthful male, nude from the waist up,
+may be covered with moss or grass.</illusobjdesc>
+					</component>
+					<component location="E" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>nude</characteristic>
+						<characteristic>John the Baptist</characteristic>
+						<characteristic>drapery</characteristic>
+						<characteristic>sitting</characteristic>
+						<characteristic>pointing</characteristic>
+						<characteristic>legs crossed</characteristic>
+						<characteristic>fingers</characteristic>
+						<characteristic>right foot</characteristic>
+						<characteristic>curly hair</characteristic>
+						<characteristic>knees</characteristic>
+						<characteristic>facing forward</characteristic>
+						<characteristic>arms raised horizontally</characteristic>
+						<characteristic>young</characteristic>
+						<illusobjdesc>A youthful male, nude from the waist up,
 sits on a large stone or mound of earth and points with
 both arms to the right.  The index fingers of both hands
 are extended, thereby emphasizing the pointing gesture.
@@ -100,8 +377,35 @@ least his left leg is covered with drapery.  His right
 foot is clearly defined and prominent.  He looks out at
 the viewer; his hair appears to be short and curly.
 Given the text beneath, quoted from all four Gospels, the
-figure is very probably John the Baptist.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="10"/><lg type="prose" justify="left"><l n="aro.a.illbk.01.01" justify="left" indent="1">The Voice of one crying in the</l><l n="aro.a.illbk.01.02" justify="left" indent="11">Wilderness</l></lg></phystext></desc><desc id="aro.a.illbk.02" dbi="aro.A.P2"><objtitle><title type="transcribed">ALL RELIGIONS are ONE</title>,
-<objid><objnumber code="A2">Object 2 </objnumber><objcode code="B2">(Bentley 2, </objcode><objcode code="E2">Erdman 2, </objcode><objcode code="K1">Keynes 1)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.2 x 3.6 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="plate" location="E"><illusobjdesc>An old, bearded man sits on the right.  His
+figure is very probably John the Baptist.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<vspace extent="10"/>
+				<lg justify="left" type="prose">
+					<l indent="1" justify="left" n="aro.a.illbk.01.01">The Voice of one crying in the</l>
+					<l indent="11" justify="left" n="aro.a.illbk.01.02">Wilderness</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="aro.A.P2" id="aro.a.illbk.02">
+			<objtitle>
+				<title type="transcribed">ALL RELIGIONS are ONE</title>,
+
+				<objid>
+					<objnumber code="A2">Object 2 </objnumber>
+					<objcode code="B2">(Bentley 2, </objcode>
+					<objcode code="E2">Erdman 2, </objcode>
+					<objcode code="K1">Keynes 1)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>5.2 x 3.6 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="E" type="plate">
+					<illusobjdesc>An old, bearded man sits on the right.  His
 hands rest on an open book perched on his lap in such a way
 that allows the viewer to see the book's pages.  His eyes may
 be raised or closed.  His legs appear to be crossed at the
@@ -112,38 +416,131 @@ bearded man's head; the angel's left hand appears to rest on
 the old man's shoulder.  The angel's right arm extends over,
 and his right hand rests on, a large tablet with a double-
 arched top reminiscent of the stone tablets of the decalogue
-or tombstones.  The tablet bears the title words, "ALL
-RELIGIONS are ONE," as though they were inscribed on the
+or tombstones.  The tablet bears the title words, &quot;ALL
+RELIGIONS are ONE,&quot; as though they were inscribed on the
 tablet. The angel may be looking down toward the tablet.  Both
 figures and the tablet appear to be raised on a (stone?)
 plinth.  The background above and behind the angel is composed
-of non-representational lines of hatching.</illusobjdesc><component type="figure" location="BD"><characteristic>male</characteristic><characteristic>prophet</characteristic><characteristic>Old Testament</characteristic><characteristic>legs crossed</characteristic><characteristic>gown</characteristic><characteristic>old</characteristic><characteristic>beard</characteristic><characteristic>sitting</characteristic><characteristic>holding</characteristic><characteristic>facing forward</characteristic><characteristic>eyes closed</characteristic><characteristic>eyes raised</characteristic><characteristic>right foot</characteristic><characteristic>arms reaching downward</characteristic><characteristic>fingers</characteristic><illusobjdesc>A seated old man with a long beard rests
+of non-representational lines of hatching.</illusobjdesc>
+					<component location="BD" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>prophet</characteristic>
+						<characteristic>Old Testament</characteristic>
+						<characteristic>legs crossed</characteristic>
+						<characteristic>gown</characteristic>
+						<characteristic>old</characteristic>
+						<characteristic>beard</characteristic>
+						<characteristic>sitting</characteristic>
+						<characteristic>holding</characteristic>
+						<characteristic>facing forward</characteristic>
+						<characteristic>eyes closed</characteristic>
+						<characteristic>eyes raised</characteristic>
+						<characteristic>right foot</characteristic>
+						<characteristic>arms reaching downward</characteristic>
+						<characteristic>fingers</characteristic>
+						<illusobjdesc>A seated old man with a long beard rests
 his hands on an open book perched on his lap.  The
 fingers of both hands are clearly delineated.  He faces
 forward with his eyes raised or closed, although perhaps
 we are meant to think that he has been reading the book.
 His legs appear to be crossed at the ankles beneath his
 long gown; his right foot projects from beneath the
-gown's hem.  He may be an Old Testament prophet.</illusobjdesc></component><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>angel</characteristic><characteristic>wing</characteristic><characteristic>gown</characteristic><characteristic>standing</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>facing down</characteristic><characteristic>arms resting</characteristic><illusobjdesc>An angel with large wings stands behind the
+gown's hem.  He may be an Old Testament prophet.</illusobjdesc>
+					</component>
+					<component location="AB" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>angel</characteristic>
+						<characteristic>wing</characteristic>
+						<characteristic>gown</characteristic>
+						<characteristic>standing</characteristic>
+						<characteristic>arms raised horizontally</characteristic>
+						<characteristic>facing down</characteristic>
+						<characteristic>arms resting</characteristic>
+						<illusobjdesc>An angel with large wings stands behind the
 bearded patriarch and the tablet.  He may be wearing a
 gown, as indicated by a few etched lines on his chest.
 His left arm extends behind the old man's head and his
 left hand would seem to rest on the old man's left
 shoulder.  The angel's right arm extends over the tablet,
 with his right hand resting on it.  His face is turned
-down slightly; he may be looking at the tablet.</illusobjdesc></component><component type="object" location="AC"><characteristic>tablet</characteristic><characteristic>arch</characteristic><characteristic>decalogue</characteristic><characteristic>tombstone</characteristic><characteristic>stone</characteristic><illusobjdesc>A tablet, reminiscent of the stone tablets
+down slightly; he may be looking at the tablet.</illusobjdesc>
+					</component>
+					<component location="AC" type="object">
+						<characteristic>tablet</characteristic>
+						<characteristic>arch</characteristic>
+						<characteristic>decalogue</characteristic>
+						<characteristic>tombstone</characteristic>
+						<characteristic>stone</characteristic>
+						<illusobjdesc>A tablet, reminiscent of the stone tablets
 of the decalogue or tombstones, bears the title letters.
 Its double-arched top suggests two tablets side by side,
-but no seam appears between them.</illusobjdesc></component><component type="object" location="D"><characteristic>book</characteristic><characteristic>open</characteristic><characteristic>page</characteristic><illusobjdesc>An open book rests, rather uneasily, on the
+but no seam appears between them.</illusobjdesc>
+					</component>
+					<component location="D" type="object">
+						<characteristic>book</characteristic>
+						<characteristic>open</characteristic>
+						<characteristic>page</characteristic>
+						<illusobjdesc>An open book rests, rather uneasily, on the
 old man's lap.  It is tilted toward the viewer and thus
-its pages are clearly visible.</illusobjdesc></component><component type="object" location="CD"><characteristic>plinth</characteristic><characteristic>stone</characteristic><illusobjdesc>Both figures and the tablet would seem to
-be placed on a (stone?) plinth.</illusobjdesc></component><component type="text" location="AC"><characteristic>inscription</characteristic><transcription><lg type="prose" justify="left"><l justify="left">ALL RELIGIONS are ONE</l></lg></transcription><illusobjdesc>The title letters are inscribed on a
-tablet.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="5"/><lg type="prose" justify="left"><l n="aro.a.illbk.02.01" justify="left" indent="4">ALL</l><l n="aro.a.illbk.02.02" justify="left" indent="1">RELIGIONS</l><l n="aro.a.illbk.02.03" justify="left" indent="5">are</l><l n="aro.a.illbk.02.04" justify="left" indent="4">ONE</l></lg></phystext></desc><desc id="aro.a.illbk.03" dbi="aro.A.P2-3"><objtitle>,
-<objid><objnumber code="A3">Object 3 </objnumber><objcode code="B3">(Bentley 3, </objcode><objcode code="E3">Erdman 3, </objcode><objcode code="K3">Keynes 3)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>4.9 x 3.0 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="interlinear" location="AB"><illusobjdesc>A few lines, apparently representing
-vegetation such as vines or branches, surround "The
-Argument" at the top of the plate.</illusobjdesc><component type="vegetation" location="AB"><characteristic>indeterminate</characteristic><characteristic>vine</characteristic><characteristic>branch</characteristic><illusobjdesc>A few lines, apparently representing
-vegetation such as vines or branches, surround "The
-Argument" at the top of the plate.</illusobjdesc></component></illustration><illustration type="plate" location="CD"><illusobjdesc>A figure, probably clothed and male, lies on the
+its pages are clearly visible.</illusobjdesc>
+					</component>
+					<component location="CD" type="object">
+						<characteristic>plinth</characteristic>
+						<characteristic>stone</characteristic>
+						<illusobjdesc>Both figures and the tablet would seem to
+be placed on a (stone?) plinth.</illusobjdesc>
+					</component>
+					<component location="AC" type="text">
+						<characteristic>inscription</characteristic>
+						<transcription>
+							<lg justify="left" type="prose">
+								<l justify="left">ALL RELIGIONS are ONE</l>
+							</lg>
+						</transcription>
+						<illusobjdesc>The title letters are inscribed on a
+tablet.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<vspace extent="5"/>
+				<lg justify="left" type="prose">
+					<l indent="4" justify="left" n="aro.a.illbk.02.01">ALL</l>
+					<l indent="1" justify="left" n="aro.a.illbk.02.02">RELIGIONS</l>
+					<l indent="5" justify="left" n="aro.a.illbk.02.03">are</l>
+					<l indent="4" justify="left" n="aro.a.illbk.02.04">ONE</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="aro.A.P2-3" id="aro.a.illbk.03">
+			<objtitle>,
+
+				<objid>
+					<objnumber code="A3">Object 3 </objnumber>
+					<objcode code="B3">(Bentley 3, </objcode>
+					<objcode code="E3">Erdman 3, </objcode>
+					<objcode code="K3">Keynes 3)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>4.9 x 3.0 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="AB" type="interlinear">
+					<illusobjdesc>A few lines, apparently representing
+vegetation such as vines or branches, surround &quot;The
+Argument&quot; at the top of the plate.</illusobjdesc>
+					<component location="AB" type="vegetation">
+						<characteristic>indeterminate</characteristic>
+						<characteristic>vine</characteristic>
+						<characteristic>branch</characteristic>
+						<illusobjdesc>A few lines, apparently representing
+vegetation such as vines or branches, surround &quot;The
+Argument&quot; at the top of the plate.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="CD" type="plate">
+					<illusobjdesc>A figure, probably clothed and male, lies on the
 ground on his right side.  His head is propped on his right
 hand in a position traditionally indicative of melancholy.
 His left elbow is bent so that his left forearm extends under
@@ -151,32 +548,155 @@ his chest.  A few lines indicate a plant or grasses right of
 his feet and extending over his lower body; a smaller clump of
 vegetation appears left of his right arm.  A few broken lines
 on the right may represent the side of a hill or
-cliff.</illusobjdesc><component type="vegetation" location="D"><characteristic>plant</characteristic><characteristic>grass</characteristic><illusobjdesc>A few lines indicate a plant or grasses
+cliff.</illusobjdesc>
+					<component location="D" type="vegetation">
+						<characteristic>plant</characteristic>
+						<characteristic>grass</characteristic>
+						<illusobjdesc>A few lines indicate a plant or grasses
 right of the figure's feet and extending over his lower
-body.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>indeterminate</characteristic><illusobjdesc>A few lines left of the figure's head
-may indicate vegetation.</illusobjdesc></component><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>lying</characteristic><characteristic>melancholy</characteristic><characteristic>arm braced</characteristic><characteristic>arms bent</characteristic><characteristic>facing down</characteristic><characteristic>head on hand</characteristic><illusobjdesc>A figure, probably clothed and male, lies on
+body.</illusobjdesc>
+					</component>
+					<component location="C" type="vegetation">
+						<characteristic>indeterminate</characteristic>
+						<illusobjdesc>A few lines left of the figure's head
+may indicate vegetation.</illusobjdesc>
+					</component>
+					<component location="CD" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>lying</characteristic>
+						<characteristic>melancholy</characteristic>
+						<characteristic>arm braced</characteristic>
+						<characteristic>arms bent</characteristic>
+						<characteristic>facing down</characteristic>
+						<characteristic>head on hand</characteristic>
+						<illusobjdesc>A figure, probably clothed and male, lies on
 the ground on his right side.  His head is propped on his
 right hand in a position traditionally indicative of
 melancholy.  His left elbow is bent so that his left
 forearm extends under his chest.  He is probably facing
-down.</illusobjdesc></component><component type="object" location="D"><characteristic>cliff</characteristic><characteristic>hill</characteristic><illusobjdesc>A few lines to the right of the figure's
-feet may represent the side of a hill or cliff.</illusobjdesc></component></illustration></illusdesc><phystext><texthead justify="left"><l n="aro.a.illbk.03.01" justify="left">The Argument</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="aro.a.illbk.03.02" justify="left"> As the true meth-</l><l n="aro.a.illbk.03.03" justify="left">-od of knowledge</l><l n="aro.a.illbk.03.04" justify="left" indent="1">is experiment</l><l n="aro.a.illbk.03.05" justify="left" indent="1">the true faculty</l><l n="aro.a.illbk.03.06" justify="left" indent="1">of knowing must</l><l n="aro.a.illbk.03.07" justify="left">be the faculty which</l><l n="aro.a.illbk.03.08" justify="left">experiences, This</l><l n="aro.a.illbk.03.09" justify="left">faculty I treat of.</l></lg></phystext></desc><desc id="aro.a.illbk.04" dbi="aro.A.P3-4"><objtitle>,
-<objid><objnumber code="A4">Object 4 </objnumber><objcode code="B4">(Bentley 4, </objcode><objcode code="E4">Erdman 4, </objcode><objcode code="K4">Keynes 4)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.4 x 3.8 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="plate" location="AB"><illusobjdesc>A man, apparently old and bearded, sits among
+down.</illusobjdesc>
+					</component>
+					<component location="D" type="object">
+						<characteristic>cliff</characteristic>
+						<characteristic>hill</characteristic>
+						<illusobjdesc>A few lines to the right of the figure's
+feet may represent the side of a hill or cliff.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<texthead justify="left">
+					<l justify="left" n="aro.a.illbk.03.01">The Argument</l>
+				</texthead>
+				<vspace extent="1"/>
+				<lg justify="left" type="prose">
+					<l justify="left" n="aro.a.illbk.03.02">As the true meth-</l>
+					<l justify="left" n="aro.a.illbk.03.03">-od of knowledge</l>
+					<l indent="1" justify="left" n="aro.a.illbk.03.04">is experiment</l>
+					<l indent="1" justify="left" n="aro.a.illbk.03.05">the true faculty</l>
+					<l indent="1" justify="left" n="aro.a.illbk.03.06">of knowing must</l>
+					<l justify="left" n="aro.a.illbk.03.07">be the faculty which</l>
+					<l justify="left" n="aro.a.illbk.03.08">experiences, This</l>
+					<l justify="left" n="aro.a.illbk.03.09">faculty I treat of.</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="aro.A.P3-4" id="aro.a.illbk.04">
+			<objtitle>,
+
+				<objid>
+					<objnumber code="A4">Object 4 </objnumber>
+					<objcode code="B4">(Bentley 4, </objcode>
+					<objcode code="E4">Erdman 4, </objcode>
+					<objcode code="K4">Keynes 4)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>5.4 x 3.8 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="AB" type="plate">
+					<illusobjdesc>A man, apparently old and bearded, sits among
 clouds.  His knees, drawn up to his chest in a contracted
 posture, may be covered with drapery.  His arms are raised
 horizontally, with each arm and hand resting on a cloud.  The
-figure may be one of the manifestations of the "Poetic Genius
+figure may be one of the manifestations of the &quot;Poetic Genius
 ... which by the Ancients was call'd an Angel &amp; Spirit &amp;
-Demon"</illusobjdesc><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>old</characteristic><characteristic>angel</characteristic><characteristic>spirit</characteristic><characteristic>demon</characteristic><characteristic>beard</characteristic><characteristic>drapery</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>knees drawn up</characteristic><characteristic>legs drawn up</characteristic><characteristic>arms rested</characteristic><characteristic>hands resting</characteristic><characteristic>sitting</characteristic><characteristic>contracted</characteristic><characteristic>cloud</characteristic><illusobjdesc>A man, apparently old and bearded, sits
+Demon&quot;</illusobjdesc>
+					<component location="AB" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>old</characteristic>
+						<characteristic>angel</characteristic>
+						<characteristic>spirit</characteristic>
+						<characteristic>demon</characteristic>
+						<characteristic>beard</characteristic>
+						<characteristic>drapery</characteristic>
+						<characteristic>arm raised horizontally</characteristic>
+						<characteristic>knees drawn up</characteristic>
+						<characteristic>legs drawn up</characteristic>
+						<characteristic>arms rested</characteristic>
+						<characteristic>hands resting</characteristic>
+						<characteristic>sitting</characteristic>
+						<characteristic>contracted</characteristic>
+						<characteristic>cloud</characteristic>
+						<illusobjdesc>A man, apparently old and bearded, sits
 among clouds.  His knees, drawn up to his chest in a
 contracted posture, may be covered with drapery.  His
 arms are raised horizontally, with each arm and hand
 resting on a cloud.  He may be one of the manifestations
-of the "Poetic Genius ... which by the Ancients was
-call'd an Angel &amp; Spirit &amp; Demon"</illusobjdesc></component></illustration><illustration type="plate" location="CD"><illusobjdesc>A vine or thorny branch extends along the
-bottom margin of the plate.</illusobjdesc><component type="vegetation" location="CD"><characteristic>vine</characteristic><characteristic>branch</characteristic><characteristic>thorn</characteristic><illusobjdesc>A vine or thorny branch extends along
-the bottom margin of the plate.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="3"/><texthead justify="left"><l n="aro.a.illbk.04.01" justify="left" indent="5">PRINCIPLE 1<hi rend="superscript">st</hi></l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="aro.a.illbk.04.02" justify="left">That the Poetic Genius is</l><l n="aro.a.illbk.04.03" justify="left">the true Man. and that</l><l n="aro.a.illbk.04.04" justify="left">the body or outward form</l><l n="aro.a.illbk.04.05" justify="left">of Man is derived from the</l><l n="aro.a.illbk.04.06" justify="left">Poetic Genius. Likewise</l><l n="aro.a.illbk.04.07" justify="left">that the forms of all things</l><l n="aro.a.illbk.04.08" justify="left">are derived from their</l><l n="aro.a.illbk.04.09" justify="left">Genius. which by the</l><l n="aro.a.illbk.04.10" justify="left">Ancients was call'd an</l><l n="aro.a.illbk.04.11" justify="left">Angel &amp; Spirit &amp; Demon.</l></lg></phystext></desc><desc id="aro.a.illbk.05" dbi="aro.A.P4-5"><objtitle>,
-<objid><objnumber code="A5">Object 5 </objnumber><objcode code="B5">(Bentley 5, </objcode><objcode code="E5">Erdman 5, </objcode><objcode code="K5">Keynes 5)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.0 x 4.1 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="plate" location="AB"><illusobjdesc>A figure, probably male and nude, sits on
+of the &quot;Poetic Genius ... which by the Ancients was
+call'd an Angel &amp; Spirit &amp; Demon&quot;</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="CD" type="plate">
+					<illusobjdesc>A vine or thorny branch extends along the
+bottom margin of the plate.</illusobjdesc>
+					<component location="CD" type="vegetation">
+						<characteristic>vine</characteristic>
+						<characteristic>branch</characteristic>
+						<characteristic>thorn</characteristic>
+						<illusobjdesc>A vine or thorny branch extends along
+the bottom margin of the plate.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<vspace extent="3"/>
+				<texthead justify="left">
+					<l indent="5" justify="left" n="aro.a.illbk.04.01">PRINCIPLE 1
+						<hi rend="superscript">st</hi></l>
+				</texthead>
+				<vspace extent="1"/>
+				<lg justify="left" type="prose">
+					<l justify="left" n="aro.a.illbk.04.02">That the Poetic Genius is</l>
+					<l justify="left" n="aro.a.illbk.04.03">the true Man. and that</l>
+					<l justify="left" n="aro.a.illbk.04.04">the body or outward form</l>
+					<l justify="left" n="aro.a.illbk.04.05">of Man is derived from the</l>
+					<l justify="left" n="aro.a.illbk.04.06">Poetic Genius. Likewise</l>
+					<l justify="left" n="aro.a.illbk.04.07">that the forms of all things</l>
+					<l justify="left" n="aro.a.illbk.04.08">are derived from their</l>
+					<l justify="left" n="aro.a.illbk.04.09">Genius. which by the</l>
+					<l justify="left" n="aro.a.illbk.04.10">Ancients was call'd an</l>
+					<l justify="left" n="aro.a.illbk.04.11">Angel &amp; Spirit &amp; Demon.</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="aro.A.P4-5" id="aro.a.illbk.05">
+			<objtitle>,
+
+				<objid>
+					<objnumber code="A5">Object 5 </objnumber>
+					<objcode code="B5">(Bentley 5, </objcode>
+					<objcode code="E5">Erdman 5, </objcode>
+					<objcode code="K5">Keynes 5)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>5.0 x 4.1 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="AB" type="plate">
+					<illusobjdesc>A figure, probably male and nude, sits on
 the ground.  He props up his torso with his left arm; his
 face is turned upwards.  His left leg is extended, his right
 bent at the knee.  Immediately behind him is another figure,
@@ -186,133 +706,554 @@ the more distant figure is probably female).  She too raises
 her face as though looking skyward; her hands are together as
 if in prayer.  The figures are surrounded by branches and
 perhaps large leaves extending from the tree (a palm?) in
-the design below the text.</illusobjdesc><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>Adam</characteristic><characteristic>sitting</characteristic><characteristic>arm braced</characteristic><characteristic>facing up</characteristic><characteristic>leg extended</characteristic><characteristic>leg bent at knee</characteristic><illusobjdesc>A figure, probably male and nude, sits on
+the design below the text.</illusobjdesc>
+					<component location="AB" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>nude</characteristic>
+						<characteristic>Adam</characteristic>
+						<characteristic>sitting</characteristic>
+						<characteristic>arm braced</characteristic>
+						<characteristic>facing up</characteristic>
+						<characteristic>leg extended</characteristic>
+						<characteristic>leg bent at knee</characteristic>
+						<illusobjdesc>A figure, probably male and nude, sits on
 the ground.  He props up his torso with his left arm; his
 face is turned upwards.  His left leg is extended, his
 right bent at the knee.  He may be Adam with Eve emerging
-from his side.</illusobjdesc></component><component type="figure" location="AB"><characteristic>female</characteristic><characteristic>nude</characteristic><characteristic>Eve</characteristic><characteristic>hands together</characteristic><characteristic>praying</characteristic><characteristic>facing up</characteristic><illusobjdesc>A second figure, probably nude, sits on the
+from his side.</illusobjdesc>
+					</component>
+					<component location="AB" type="figure">
+						<characteristic>female</characteristic>
+						<characteristic>nude</characteristic>
+						<characteristic>Eve</characteristic>
+						<characteristic>hands together</characteristic>
+						<characteristic>praying</characteristic>
+						<characteristic>facing up</characteristic>
+						<illusobjdesc>A second figure, probably nude, sits on the
 ground just behind the figure closest to the viewer.  She
 may be Eve emerging from Adam's side.  Her face is turned
-upward and her hands are together as if in prayer.</illusobjdesc></component><component type="vegetation" location="AB"><characteristic>branch</characteristic><characteristic>leaf</characteristic><characteristic>palm</characteristic><illusobjdesc>The figures are surrounded by branches
+upward and her hands are together as if in prayer.</illusobjdesc>
+					</component>
+					<component location="AB" type="vegetation">
+						<characteristic>branch</characteristic>
+						<characteristic>leaf</characteristic>
+						<characteristic>palm</characteristic>
+						<illusobjdesc>The figures are surrounded by branches
 and large leaves growing from the tree, perhaps a palm,
-in the design below the text.</illusobjdesc></component></illustration><illustration type="plate" location="E"><illusobjdesc>Below the text, a flock of sheep graze on grassy
+in the design below the text.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="E" type="plate">
+					<illusobjdesc>Below the text, a flock of sheep graze on grassy
 ground.  On the right is a small tree, apparently a palm.  A much
 larger tree, perhaps also a palm, ascends along the left margin of
 the text and spreads its branches or leaves around the figures in
 the top design.  The lower trunk of the tree on the left is
-surrounded by a spiraling vine.</illusobjdesc><component type="animal" location="CD"><characteristic>sheep</characteristic><characteristic>flock</characteristic><characteristic>grass</characteristic><illusobjdesc>A flock of sheep graze on grassy ground.</illusobjdesc></component><component type="vegetation" location="D"><characteristic>tree</characteristic><characteristic>palm</characteristic><illusobjdesc>A small tree, probably a palm, grows just right of the
-flock of sheep.</illusobjdesc></component><component type="vegetation" location="AC"><characteristic>tree</characteristic><characteristic>palm</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><characteristic>vine</characteristic><characteristic>spiral</characteristic><illusobjdesc>A large tree, perhaps a palm, grows up the left margin
+surrounded by a spiraling vine.</illusobjdesc>
+					<component location="CD" type="animal">
+						<characteristic>sheep</characteristic>
+						<characteristic>flock</characteristic>
+						<characteristic>grass</characteristic>
+						<illusobjdesc>A flock of sheep graze on grassy ground.</illusobjdesc>
+					</component>
+					<component location="D" type="vegetation">
+						<characteristic>tree</characteristic>
+						<characteristic>palm</characteristic>
+						<illusobjdesc>A small tree, probably a palm, grows just right of the
+flock of sheep.</illusobjdesc>
+					</component>
+					<component location="AC" type="vegetation">
+						<characteristic>tree</characteristic>
+						<characteristic>palm</characteristic>
+						<characteristic>branch</characteristic>
+						<characteristic>leaf</characteristic>
+						<characteristic>vine</characteristic>
+						<characteristic>spiral</characteristic>
+						<illusobjdesc>A large tree, perhaps a palm, grows up the left margin
 of the text and spreads its branches and leaves around the figures
 in the top design.  A vine spirals around the lower trunk of the
-tree.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="3"/><texthead justify="left"><l n="aro.a.illbk.05.01" justify="left" indent="3">PRINCIPLE 2<hi rend="superscript">d</hi></l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="aro.a.illbk.05.02" justify="left">As all men are alike in</l><l n="aro.a.illbk.05.03" justify="left">outward form, So (and</l><l n="aro.a.illbk.05.04" justify="left">with the same infinite</l><l n="aro.a.illbk.05.05" justify="left">variety) all are alike in</l><l n="aro.a.illbk.05.06" justify="left">the Poetic Genius</l></lg></phystext></desc><desc id="aro.a.illbk.06" dbi="aro.A.P5-6"><objtitle>,
-<objid><objnumber code="A6">Object 6 </objnumber><objcode code="B6">(Bentley 6, </objcode><objcode code="E6">Erdman 6, </objcode><objcode code="K6">Keynes 6)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.9 x 4.0 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="interlinear" location="CD"><illusobjdesc>A vine with two loops extends from the end of the text
+tree.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<vspace extent="3"/>
+				<texthead justify="left">
+					<l indent="3" justify="left" n="aro.a.illbk.05.01">PRINCIPLE 2
+						<hi rend="superscript">d</hi></l>
+				</texthead>
+				<vspace extent="1"/>
+				<lg justify="left" type="prose">
+					<l justify="left" n="aro.a.illbk.05.02">As all men are alike in</l>
+					<l justify="left" n="aro.a.illbk.05.03">outward form, So (and</l>
+					<l justify="left" n="aro.a.illbk.05.04">with the same infinite</l>
+					<l justify="left" n="aro.a.illbk.05.05">variety) all are alike in</l>
+					<l justify="left" n="aro.a.illbk.05.06">the Poetic Genius</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="aro.A.P5-6" id="aro.a.illbk.06">
+			<objtitle>,
+
+				<objid>
+					<objnumber code="A6">Object 6 </objnumber>
+					<objcode code="B6">(Bentley 6, </objcode>
+					<objcode code="E6">Erdman 6, </objcode>
+					<objcode code="K6">Keynes 6)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>5.9 x 4.0 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="CD" type="interlinear">
+					<illusobjdesc>A vine with two loops extends from the end of the text
 and into the space below the text.  A second branch of the vine
-terminates in a leaf.  The last letter of "every" in the last line
-of the text extends into the lower margin as a vine.</illusobjdesc><component type="vegetation" location="KLM"><characteristic>vine</characteristic><characteristic>loop</characteristic><characteristic>leaf</characteristic><illusobjdesc>A vine with two loops extends from the end of the text
+terminates in a leaf.  The last letter of &quot;every&quot; in the last line
+of the text extends into the lower margin as a vine.</illusobjdesc>
+					<component location="KLM" type="vegetation">
+						<characteristic>vine</characteristic>
+						<characteristic>loop</characteristic>
+						<characteristic>leaf</characteristic>
+						<illusobjdesc>A vine with two loops extends from the end of the text
 and into the space below the text.  A second branch of the vine
-terminates in a leaf.</illusobjdesc></component><component type="vegetation" location="C"><characteristic>vine</characteristic><illusobjdesc>The last letter of "every" in the last line of text
-extends into the lower margin as a vine.</illusobjdesc></component></illustration><illustration type="plate" location="AB"><illusobjdesc>A bearded old man sits in a chair with an arched back
+terminates in a leaf.</illusobjdesc>
+					</component>
+					<component location="C" type="vegetation">
+						<characteristic>vine</characteristic>
+						<illusobjdesc>The last letter of &quot;every&quot; in the last line of text
+extends into the lower margin as a vine.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="AB" type="plate">
+					<illusobjdesc>A bearded old man sits in a chair with an arched back
 and writes with a pen or quill on a tablet or in a book resting on
 his lap.  His long gown covers his legs and cascades to the ground.
 Behind him is another seated man, apparently also wearing a long
 gown.  His beard and curly hair are darker.  He too holds a book or
 tablet resting on his lap; he may be reading.  Both men look down
 to their book or tablet.  They may be philosophers representing the
-"sects of Philosophy" (E1) mentioned in the text.  To the left is
+&quot;sects of Philosophy&quot; (E1) mentioned in the text.  To the left is
 a row of three tree trunks or fluted pillars.  Further to the left
 are a few lines, possibly representing vines or branches.  Along
 the right margin is a curving form that may be a vine, possibly
 with a flower at the top, or a serpent twisting upward with its
-tongue extended.</illusobjdesc><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>philosopher</characteristic><characteristic>gown</characteristic><characteristic>sitting</characteristic><characteristic>writing</characteristic><characteristic>eyes down</characteristic><characteristic>facing right</characteristic><characteristic>beard</characteristic><characteristic>old</characteristic><characteristic>long hair</characteristic><characteristic>holding</characteristic><characteristic>pen</characteristic><characteristic>quill</characteristic><characteristic>book</characteristic><characteristic>tablet</characteristic><illusobjdesc>A bearded old man sits in a chair with an arched back
+tongue extended.</illusobjdesc>
+					<component location="AB" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>philosopher</characteristic>
+						<characteristic>gown</characteristic>
+						<characteristic>sitting</characteristic>
+						<characteristic>writing</characteristic>
+						<characteristic>eyes down</characteristic>
+						<characteristic>facing right</characteristic>
+						<characteristic>beard</characteristic>
+						<characteristic>old</characteristic>
+						<characteristic>long hair</characteristic>
+						<characteristic>holding</characteristic>
+						<characteristic>pen</characteristic>
+						<characteristic>quill</characteristic>
+						<characteristic>book</characteristic>
+						<characteristic>tablet</characteristic>
+						<illusobjdesc>A bearded old man sits in a chair with an arched back
 and writes with a pen or quill on a tablet or in a book resting on
 his lap.  He looks down towards the book or tablet.  His long gown
 covers his legs and cascades to the ground.  He may be a
-philosopher representing the "sects of Philosophy" (E1) mentioned
-in the text.</illusobjdesc></component><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>beard</characteristic><characteristic>curly hair</characteristic><characteristic>sitting</characteristic><characteristic>reading</characteristic><characteristic>eyes down</characteristic><characteristic>facing right</characteristic><characteristic>holding</characteristic><characteristic>book</characteristic><characteristic>tablet</characteristic><illusobjdesc>Behind the seated man closest to the viewer sits a
+philosopher representing the &quot;sects of Philosophy&quot; (E1) mentioned
+in the text.</illusobjdesc>
+					</component>
+					<component location="AB" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>gown</characteristic>
+						<characteristic>beard</characteristic>
+						<characteristic>curly hair</characteristic>
+						<characteristic>sitting</characteristic>
+						<characteristic>reading</characteristic>
+						<characteristic>eyes down</characteristic>
+						<characteristic>facing right</characteristic>
+						<characteristic>holding</characteristic>
+						<characteristic>book</characteristic>
+						<characteristic>tablet</characteristic>
+						<illusobjdesc>Behind the seated man closest to the viewer sits a
 second man, bearded and with curly hair.  He holds a tablet or book
 in his lap and may be looking down toward it and reading.  His
 knees appear to be covered with a long gown.  He may be a
-philosopher representing the "sects of Philosophy" (E1) mentioned
-in the text.</illusobjdesc></component><component type="vegetation" location="A"><characteristic>tree</characteristic><illusobjdesc>Three vertical forms that may be the trunks of trees
-stand left of the two seated figures.</illusobjdesc></component><component type="vegetation" location="A"><characteristic>vine</characteristic><characteristic>branch</characteristic><characteristic>pillar</characteristic><illusobjdesc>Three wavy lines near the left margin may represent
+philosopher representing the &quot;sects of Philosophy&quot; (E1) mentioned
+in the text.</illusobjdesc>
+					</component>
+					<component location="A" type="vegetation">
+						<characteristic>tree</characteristic>
+						<illusobjdesc>Three vertical forms that may be the trunks of trees
+stand left of the two seated figures.</illusobjdesc>
+					</component>
+					<component location="A" type="vegetation">
+						<characteristic>vine</characteristic>
+						<characteristic>branch</characteristic>
+						<characteristic>pillar</characteristic>
+						<illusobjdesc>Three wavy lines near the left margin may represent
 vines or branches.  Alternatively, these may be fluted
-pillars.</illusobjdesc></component><component type="vegetation" location="B"><characteristic>vine</characteristic><characteristic>flower</characteristic><characteristic>loop</characteristic><characteristic>snake</characteristic><characteristic>loop</characteristic><characteristic>tongue</characteristic><illusobjdesc>A twisting line right of the seated figures may be a
+pillars.</illusobjdesc>
+					</component>
+					<component location="B" type="vegetation">
+						<characteristic>vine</characteristic>
+						<characteristic>flower</characteristic>
+						<characteristic>loop</characteristic>
+						<characteristic>snake</characteristic>
+						<characteristic>loop</characteristic>
+						<characteristic>tongue</characteristic>
+						<illusobjdesc>A twisting line right of the seated figures may be a
 vine with a single loop and a flower at its top.  alternatively,
 this may be a snake with a single loop in its body, its head at the
-top, and its tongue extended.</illusobjdesc></component><component type="object" location="A"><characteristic>chair</characteristic><characteristic>arch</characteristic><illusobjdesc>The man closest to the viewer sits on a chair with a
-fashionably arched back.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="3"/><texthead justify="left"><l n="aro.a.illbk.06.01" justify="left" indent="3">PRINCIPLE 3<hi rend="superscript">d</hi></l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="aro.a.illbk.06.02" justify="left" indent="1">No man can think</l><l n="aro.a.illbk.06.03" justify="left">write or speak from his</l><l n="aro.a.illbk.06.04" justify="left">heart but he must intend</l><l n="aro.a.illbk.06.05" justify="left">truth. Thus all sects of</l><l n="aro.a.illbk.06.06" justify="left">Philosophy are from the</l><l n="aro.a.illbk.06.07" justify="left">Poetic Genius adapted</l><l n="aro.a.illbk.06.08" justify="left">to the weaknesses of</l><l n="aro.a.illbk.06.09" justify="left">every individual</l></lg></phystext></desc><desc id="aro.a.illbk.07" dbi="aro.A.P6-7"><objtitle>,
-<objid><objnumber code="A7">Object 7 </objnumber><objcode code="B7">(Bentley 7, </objcode><objcode code="E7">Erdman 7, </objcode><objcode code="K7">Keynes 7)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.2 x 3.1 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="interlinear" location="E"><illusobjdesc>A vine with several loops and perhaps a few leaves
+top, and its tongue extended.</illusobjdesc>
+					</component>
+					<component location="A" type="object">
+						<characteristic>chair</characteristic>
+						<characteristic>arch</characteristic>
+						<illusobjdesc>The man closest to the viewer sits on a chair with a
+fashionably arched back.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<vspace extent="3"/>
+				<texthead justify="left">
+					<l indent="3" justify="left" n="aro.a.illbk.06.01">PRINCIPLE 3
+						<hi rend="superscript">d</hi></l>
+				</texthead>
+				<vspace extent="1"/>
+				<lg justify="left" type="prose">
+					<l indent="1" justify="left" n="aro.a.illbk.06.02">No man can think</l>
+					<l justify="left" n="aro.a.illbk.06.03">write or speak from his</l>
+					<l justify="left" n="aro.a.illbk.06.04">heart but he must intend</l>
+					<l justify="left" n="aro.a.illbk.06.05">truth. Thus all sects of</l>
+					<l justify="left" n="aro.a.illbk.06.06">Philosophy are from the</l>
+					<l justify="left" n="aro.a.illbk.06.07">Poetic Genius adapted</l>
+					<l justify="left" n="aro.a.illbk.06.08">to the weaknesses of</l>
+					<l justify="left" n="aro.a.illbk.06.09">every individual</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="aro.A.P6-7" id="aro.a.illbk.07">
+			<objtitle>,
+
+				<objid>
+					<objnumber code="A7">Object 7 </objnumber>
+					<objcode code="B7">(Bentley 7, </objcode>
+					<objcode code="E7">Erdman 7, </objcode>
+					<objcode code="K7">Keynes 7)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>5.2 x 3.1 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="E" type="interlinear">
+					<illusobjdesc>A vine with several loops and perhaps a few leaves
 climbs along the left margin of the text and extends horizontally
-between the heading and the first line of text.</illusobjdesc><component type="vegetation" location="E"><characteristic>vine</characteristic><characteristic>leaf</characteristic><characteristic>loop</characteristic><illusobjdesc>A vine with several loops and perhaps a few leaves
+between the heading and the first line of text.</illusobjdesc>
+					<component location="E" type="vegetation">
+						<characteristic>vine</characteristic>
+						<characteristic>leaf</characteristic>
+						<characteristic>loop</characteristic>
+						<illusobjdesc>A vine with several loops and perhaps a few leaves
 climbs along the left margin of the text and extends horizontally
-between the heading and the first line of text.</illusobjdesc></component></illustration><illustration type="interlinear" location="CD"><illusobjdesc>A vine extends horizontally just below the last line
-of text.</illusobjdesc><component type="vegetation" location="CD"><characteristic>vine</characteristic><illusobjdesc>A vine extends horizontally just below the last line
-of text.</illusobjdesc></component></illustration><illustration type="plate" location="AB"><illusobjdesc>A man wearing a calf-length coat strides to the right.
+between the heading and the first line of text.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="CD" type="interlinear">
+					<illusobjdesc>A vine extends horizontally just below the last line
+of text.</illusobjdesc>
+					<component location="CD" type="vegetation">
+						<characteristic>vine</characteristic>
+						<illusobjdesc>A vine extends horizontally just below the last line
+of text.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="AB" type="plate">
+					<illusobjdesc>A man wearing a calf-length coat strides to the right.
 He wears a hat and holds a staff or walking-stick in his right
 hand.  His right arm is extended horizontally in front of him.  The
 shading right and left of the figure may represent hills.  The man
-is probably a traveler, a representative of those who, "by
-traveling over known lands," cannot "find out the
-unknown."</illusobjdesc><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>striding</characteristic><characteristic>traveler</characteristic><characteristic>facing right</characteristic><characteristic>holding</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>coat</characteristic><characteristic>hat</characteristic><characteristic>staff</characteristic><characteristic>walking-stick</characteristic><illusobjdesc>A man wearing a calf-length coat strides to the right.
+is probably a traveler, a representative of those who, &quot;by
+traveling over known lands,&quot; cannot &quot;find out the
+unknown.&quot;</illusobjdesc>
+					<component location="AB" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>striding</characteristic>
+						<characteristic>traveler</characteristic>
+						<characteristic>facing right</characteristic>
+						<characteristic>holding</characteristic>
+						<characteristic>arm raised horizontally</characteristic>
+						<characteristic>coat</characteristic>
+						<characteristic>hat</characteristic>
+						<characteristic>staff</characteristic>
+						<characteristic>walking-stick</characteristic>
+						<illusobjdesc>A man wearing a calf-length coat strides to the right.
 He wears a hat and holds a staff or walking-stick in his right
 hand.  His right arm is extended horizontally in front of him.  He
-is probably a traveler, a representative of those who, "by
-traveling over known lands," cannot "find out the
-unknown."</illusobjdesc></component><component type="object" location="AB"><characteristic>hill</characteristic><illusobjdesc>The shading behind and on each side of the figure may
-represent hills.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="3"/><texthead justify="left"><l n="aro.a.illbk.07.01" justify="left">PRINCIPLE 4.</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="aro.a.illbk.07.02" justify="left" indent="1">As none by trave</l><l n="aro.a.illbk.07.03" justify="left" indent="1">ling over known</l><l n="aro.a.illbk.07.04" justify="left" indent="1">lands can find out</l><l n="aro.a.illbk.07.05" justify="left" indent="1">the unknown. So</l><l n="aro.a.illbk.07.06" justify="left" indent="1">from already ac-</l><l n="aro.a.illbk.07.07" justify="left" indent="1">quired knowledge<note>In Copy A, several letters near the ends of lines 7-11 printed poorly and were strengthened by Blake in pen and ink.</note></l><l n="aro.a.illbk.07.08" justify="left" indent="1">Man could not ac</l><l n="aro.a.illbk.07.09" justify="left" indent="1">quire more. there</l><l n="aro.a.illbk.07.10" justify="left">fore an universal</l><l n="aro.a.illbk.07.11" justify="left">Poetic Genius exists</l></lg></phystext></desc><desc id="aro.a.illbk.08" dbi="aro.A.P7-8"><objtitle>,
-<objid><objnumber code="A8">Object 8 </objnumber><objcode code="B8">(Bentley 8, </objcode><objcode code="E8">Erdman 8, </objcode><objcode code="K8">Keynes 8)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.7 x 3.8 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="interlinear" location="AB"><illusobjdesc>A vine with thorns zigs and zags horizontally between
-the heading and first line of text.</illusobjdesc><component type="vegetation" location="AB"><characteristic>vine</characteristic><characteristic>thorn</characteristic><illusobjdesc>A vine with thorns zigs and zags horizontally between
-the heading and first line of text.</illusobjdesc></component></illustration><illustration type="interlinear" location="D"><illusobjdesc>A vine, or perhaps a branch with long, slender leaves,
-grows downward from the end of the last line of text.</illusobjdesc><component type="vegetation" location="D"><characteristic>vine</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><illusobjdesc>A vine, or perhaps a branch with long, slender leaves,
-grows downward from the end of the last line of text.</illusobjdesc></component></illustration><illustration type="plate" location="AB"><illusobjdesc>Above the text, a  group of five or six small figures,
+is probably a traveler, a representative of those who, &quot;by
+traveling over known lands,&quot; cannot &quot;find out the
+unknown.&quot;</illusobjdesc>
+					</component>
+					<component location="AB" type="object">
+						<characteristic>hill</characteristic>
+						<illusobjdesc>The shading behind and on each side of the figure may
+represent hills.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<vspace extent="3"/>
+				<texthead justify="left">
+					<l justify="left" n="aro.a.illbk.07.01">PRINCIPLE 4.</l>
+				</texthead>
+				<vspace extent="1"/>
+				<lg justify="left" type="prose">
+					<l indent="1" justify="left" n="aro.a.illbk.07.02">As none by trave</l>
+					<l indent="1" justify="left" n="aro.a.illbk.07.03">ling over known</l>
+					<l indent="1" justify="left" n="aro.a.illbk.07.04">lands can find out</l>
+					<l indent="1" justify="left" n="aro.a.illbk.07.05">the unknown. So</l>
+					<l indent="1" justify="left" n="aro.a.illbk.07.06">from already ac-</l>
+					<l indent="1" justify="left" n="aro.a.illbk.07.07">quired knowledge
+						<note>In Copy A, several letters near the ends of lines 7-11 printed poorly and were strengthened by Blake in pen and ink.</note></l>
+					<l indent="1" justify="left" n="aro.a.illbk.07.08">Man could not ac</l>
+					<l indent="1" justify="left" n="aro.a.illbk.07.09">quire more. there</l>
+					<l justify="left" n="aro.a.illbk.07.10">fore an universal</l>
+					<l justify="left" n="aro.a.illbk.07.11">Poetic Genius exists</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="aro.A.P7-8" id="aro.a.illbk.08">
+			<objtitle>,
+
+				<objid>
+					<objnumber code="A8">Object 8 </objnumber>
+					<objcode code="B8">(Bentley 8, </objcode>
+					<objcode code="E8">Erdman 8, </objcode>
+					<objcode code="K8">Keynes 8)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>5.7 x 3.8 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="AB" type="interlinear">
+					<illusobjdesc>A vine with thorns zigs and zags horizontally between
+the heading and first line of text.</illusobjdesc>
+					<component location="AB" type="vegetation">
+						<characteristic>vine</characteristic>
+						<characteristic>thorn</characteristic>
+						<illusobjdesc>A vine with thorns zigs and zags horizontally between
+the heading and first line of text.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="D" type="interlinear">
+					<illusobjdesc>A vine, or perhaps a branch with long, slender leaves,
+grows downward from the end of the last line of text.</illusobjdesc>
+					<component location="D" type="vegetation">
+						<characteristic>vine</characteristic>
+						<characteristic>branch</characteristic>
+						<characteristic>leaf</characteristic>
+						<illusobjdesc>A vine, or perhaps a branch with long, slender leaves,
+grows downward from the end of the last line of text.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="AB" type="plate">
+					<illusobjdesc>Above the text, a  group of five or six small figures,
 possibly children and wearing long gowns, stands or kneels and
 looks right toward a much larger figure seated in a chair.  This
 gowned figure is probably male; he looks to the left and leans
 forward toward his audience.  The background consists of a curtain
 or the inside of a large tent open on the side facing the viewer. 
 This may be a scenof religious instruction, given the comments
-about the "Religions of all Nations" (E1) in the
-text.</illusobjdesc><component type="figure" location="AB"><characteristic>group of figures</characteristic><characteristic>child</characteristic><characteristic>standing</characteristic><characteristic>kneeling</characteristic><characteristic>gown</characteristic><characteristic>facing right</characteristic><illusobjdesc>A group of five or six small figures, possibly
+about the &quot;Religions of all Nations&quot; (E1) in the
+text.</illusobjdesc>
+					<component location="AB" type="figure">
+						<characteristic>group of figures</characteristic>
+						<characteristic>child</characteristic>
+						<characteristic>standing</characteristic>
+						<characteristic>kneeling</characteristic>
+						<characteristic>gown</characteristic>
+						<characteristic>facing right</characteristic>
+						<illusobjdesc>A group of five or six small figures, possibly
 children and wearing long gowns, stands or kneels and looks to the
-right.</illusobjdesc></component><component type="figure" location="B"><characteristic>male</characteristic><characteristic>gown</characteristic><characteristic>sitting</characteristic><characteristic>facing left</characteristic><characteristic>leaning</characteristic><characteristic>speaking</characteristic><characteristic>chair</characteristic><illusobjdesc>A gowned figure, probably male, sits in a chair and
+right.</illusobjdesc>
+					</component>
+					<component location="B" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>gown</characteristic>
+						<characteristic>sitting</characteristic>
+						<characteristic>facing left</characteristic>
+						<characteristic>leaning</characteristic>
+						<characteristic>speaking</characteristic>
+						<characteristic>chair</characteristic>
+						<illusobjdesc>A gowned figure, probably male, sits in a chair and
 looks to the left.  He leans slightly forward toward an audience of
-smaller figures to whom he may be speaking.</illusobjdesc></component><component type="object" location="AB"><characteristic>curtain</characteristic><characteristic>text</characteristic><illusobjdesc>The background of the design above the text consists
-of a curtain or the inside of a large tent.</illusobjdesc></component></illustration><illustration type="plate" location="CD"><illusobjdesc>A nude male strides energetically to the left.  His
+smaller figures to whom he may be speaking.</illusobjdesc>
+					</component>
+					<component location="AB" type="object">
+						<characteristic>curtain</characteristic>
+						<characteristic>text</characteristic>
+						<illusobjdesc>The background of the design above the text consists
+of a curtain or the inside of a large tent.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="CD" type="plate">
+					<illusobjdesc>A nude male strides energetically to the left.  His
 bearded face is raised as though he were looking upward.  His hair
 is probably curly.  He holds a large harp; his left arm extends
 along its left side and his left hand rests on top of the harp.
 One or more of the fingers on his left hand point upward at a 45
 degree angle.  He may be a bard or prophet and thus a
-representative of the "Spirit of Prophecy" (E1) named in the text.
+representative of the &quot;Spirit of Prophecy&quot; (E1) named in the text.
 The forms right and left of the figure are probably
-clouds.</illusobjdesc><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>nude</characteristic><characteristic>bard</characteristic><characteristic>prophet</characteristic><characteristic>beard</characteristic><characteristic>curly hair</characteristic><characteristic>striding</characteristic><characteristic>facing left</characteristic><characteristic>facing up</characteristic><characteristic>holding</characteristic><characteristic>harp</characteristic><characteristic>arm raised at 135 degrees</characteristic><characteristic>pointing</characteristic><characteristic>fingers</characteristic><characteristic>running</characteristic><illusobjdesc>A nude male strides energetically to the left.  His
+clouds.</illusobjdesc>
+					<component location="CD" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>nude</characteristic>
+						<characteristic>bard</characteristic>
+						<characteristic>prophet</characteristic>
+						<characteristic>beard</characteristic>
+						<characteristic>curly hair</characteristic>
+						<characteristic>striding</characteristic>
+						<characteristic>facing left</characteristic>
+						<characteristic>facing up</characteristic>
+						<characteristic>holding</characteristic>
+						<characteristic>harp</characteristic>
+						<characteristic>arm raised at 135 degrees</characteristic>
+						<characteristic>pointing</characteristic>
+						<characteristic>fingers</characteristic>
+						<characteristic>running</characteristic>
+						<illusobjdesc>A nude male strides energetically to the left.  His
 bearded face is raised as though he were looking upward.  His hair
 is probably curly.  He holds a large harp; his left arm extends
 along its left side and his left hand rests on top of the harp.
 One or more of the fingers on his left hand point upward at a 45
 degree angle.  He may be a bard or prophet and thus a
-representative of the "Spirit of Prophecy" (E1) named in the
-text.</illusobjdesc></component><component type="object" location="CD"><characteristic>cloud</characteristic><illusobjdesc>In the design below the text, the forms below and to
-the right of the figure are probably clouds.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="3"/><texthead justify="left"><l n="aro.a.illbk.08.01" justify="left" indent="5">PRINCIPLE, 5.</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="aro.a.illbk.08.02" justify="left" indent="2">The Religions of all Nati-</l><l n="aro.a.illbk.08.03" justify="left">-ons are derived from each</l><l n="aro.a.illbk.08.04" justify="left" indent="1">Nations different reception</l><l n="aro.a.illbk.08.05" justify="left" indent="1">of the Poetic Genius which</l><l n="aro.a.illbk.08.06" justify="left" indent="1">is every where call'd the Spi</l><l n="aro.a.illbk.08.07" justify="left">-rit of Prophecy.</l></lg></phystext></desc><desc id="aro.a.illbk.09" dbi="aro.A.P8-9"><objtitle>,
-<objid><objnumber code="A9">Object 9 </objnumber><objcode code="B9">(Bentley 9, </objcode><objcode code="E9">Erdman 9, </objcode><objcode code="K9">Keynes 9)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.4 x 3.6 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="plate" location="AB"><illusobjdesc>Above the text, two (stone?) tablets probably
-represent the decalogue—see "The Jewish &amp; Christian Testaments"
+representative of the &quot;Spirit of Prophecy&quot; (E1) named in the
+text.</illusobjdesc>
+					</component>
+					<component location="CD" type="object">
+						<characteristic>cloud</characteristic>
+						<illusobjdesc>In the design below the text, the forms below and to
+the right of the figure are probably clouds.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<vspace extent="3"/>
+				<texthead justify="left">
+					<l indent="5" justify="left" n="aro.a.illbk.08.01">PRINCIPLE, 5.</l>
+				</texthead>
+				<vspace extent="1"/>
+				<lg justify="left" type="prose">
+					<l indent="2" justify="left" n="aro.a.illbk.08.02">The Religions of all Nati-</l>
+					<l justify="left" n="aro.a.illbk.08.03">-ons are derived from each</l>
+					<l indent="1" justify="left" n="aro.a.illbk.08.04">Nations different reception</l>
+					<l indent="1" justify="left" n="aro.a.illbk.08.05">of the Poetic Genius which</l>
+					<l indent="1" justify="left" n="aro.a.illbk.08.06">is every where call'd the Spi</l>
+					<l justify="left" n="aro.a.illbk.08.07">-rit of Prophecy.</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="aro.A.P8-9" id="aro.a.illbk.09">
+			<objtitle>,
+
+				<objid>
+					<objnumber code="A9">Object 9 </objnumber>
+					<objcode code="B9">(Bentley 9, </objcode>
+					<objcode code="E9">Erdman 9, </objcode>
+					<objcode code="K9">Keynes 9)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>5.4 x 3.6 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="AB" type="plate">
+					<illusobjdesc>Above the text, two (stone?) tablets probably
+represent the decalogue—see &quot;The Jewish &amp; Christian Testaments&quot;
 (E1) in the text—but also recall tombstones.  A few horizontal
 lines on the tablets indicate an inscription.  The background
-shading suggests clouds or a cave.</illusobjdesc><component type="object" location="AB"><characteristic>tablet</characteristic><characteristic>stone</characteristic><characteristic>decalogue</characteristic><characteristic>Old Testament</characteristic><characteristic>tombstone</characteristic><characteristic>inscription</characteristic><illusobjdesc>Two (stone?) tablets probably represent the
-decalogue—see "The Jewish &amp; Christian Testaments" (E1) in the
+shading suggests clouds or a cave.</illusobjdesc>
+					<component location="AB" type="object">
+						<characteristic>tablet</characteristic>
+						<characteristic>stone</characteristic>
+						<characteristic>decalogue</characteristic>
+						<characteristic>Old Testament</characteristic>
+						<characteristic>tombstone</characteristic>
+						<characteristic>inscription</characteristic>
+						<illusobjdesc>Two (stone?) tablets probably represent the
+decalogue—see &quot;The Jewish &amp; Christian Testaments&quot; (E1) in the
 text—but also recall tombstones.  A few horizontal lines on the
-tablets indicate an inscription.</illusobjdesc></component><component type="object" location="AB"><characteristic>cloud</characteristic><characteristic>cave</characteristic><illusobjdesc>The background shading may represent clouds or a
-cave.</illusobjdesc></component></illustration><illustration type="plate" location="CD"><illusobjdesc>Below the text, a figure, wearing a long gown and of
+tablets indicate an inscription.</illusobjdesc>
+					</component>
+					<component location="AB" type="object">
+						<characteristic>cloud</characteristic>
+						<characteristic>cave</characteristic>
+						<illusobjdesc>The background shading may represent clouds or a
+cave.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="CD" type="plate">
+					<illusobjdesc>Below the text, a figure, wearing a long gown and of
 uncertain gender, strides to the right, arms raised horizontally. 
 The heavy background shading probably represents dark and dense
-vegetation.  The design would seem to signify the "confined nature
-of bodily sensation" (E1).</illusobjdesc><component type="figure" location="CD"><characteristic>gown</characteristic><characteristic>striding</characteristic><characteristic>facing right</characteristic><characteristic>arms raised horizontally</characteristic><illusobjdesc>Below the text, a figure, wearing a long gown and of
+vegetation.  The design would seem to signify the &quot;confined nature
+of bodily sensation&quot; (E1).</illusobjdesc>
+					<component location="CD" type="figure">
+						<characteristic>gown</characteristic>
+						<characteristic>striding</characteristic>
+						<characteristic>facing right</characteristic>
+						<characteristic>arms raised horizontally</characteristic>
+						<illusobjdesc>Below the text, a figure, wearing a long gown and of
 uncertain gender,
 strides to the right, arms raised horizontally.  This figure may
-personify the "confined nature of bodily sensation."</illusobjdesc></component><component type="vegetation" location="CD"><characteristic>dark</characteristic><characteristic>indeterminate</characteristic><characteristic>night</characteristic><illusobjdesc>The heavy background shading in the design below the
+personify the &quot;confined nature of bodily sensation.&quot;</illusobjdesc>
+					</component>
+					<component location="CD" type="vegetation">
+						<characteristic>dark</characteristic>
+						<characteristic>indeterminate</characteristic>
+						<characteristic>night</characteristic>
+						<illusobjdesc>The heavy background shading in the design below the
 text probably represents dark and dense vegetation.  This may be a
-night scene.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="3"/><texthead justify="left"><l n="aro.a.illbk.09.01" justify="left" indent="3">PRINCIPLE 6</l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="aro.a.illbk.09.02" justify="left" indent="1">The Jewish &amp; Chris-</l><l n="aro.a.illbk.09.03" justify="left" indent="1">tian Testaments are</l><l n="aro.a.illbk.09.04" justify="left" indent="1">An original derivati-</l><l n="aro.a.illbk.09.05" justify="left">-on from the Poetic Ge-</l><l n="aro.a.illbk.09.06" justify="left">nius. this is necessary</l><l n="aro.a.illbk.09.07" justify="left">from the confined natu</l><l n="aro.a.illbk.09.08" justify="left">re of bodily sensation</l></lg></phystext></desc><desc id="aro.a.illbk.10" dbi="aro.A.P9-10"><objtitle>,
-<objid><objnumber code="A10">Object 10 </objnumber><objcode code="B10">(Bentley 10, </objcode><objcode code="E10">Erdman 10, </objcode><objcode code="K10">Keynes 10)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>5.5 x 3.5 cm.</objsize><windowsize width="600" height="800"/></physdesc><illusdesc><illustration type="plate" location="AB"><illusobjdesc>A figure, probably male, dominates the center of the
+night scene.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<vspace extent="3"/>
+				<texthead justify="left">
+					<l indent="3" justify="left" n="aro.a.illbk.09.01">PRINCIPLE 6</l>
+				</texthead>
+				<vspace extent="1"/>
+				<lg justify="left" type="prose">
+					<l indent="1" justify="left" n="aro.a.illbk.09.02">The Jewish &amp; Chris-</l>
+					<l indent="1" justify="left" n="aro.a.illbk.09.03">tian Testaments are</l>
+					<l indent="1" justify="left" n="aro.a.illbk.09.04">An original derivati-</l>
+					<l justify="left" n="aro.a.illbk.09.05">-on from the Poetic Ge-</l>
+					<l justify="left" n="aro.a.illbk.09.06">nius. this is necessary</l>
+					<l justify="left" n="aro.a.illbk.09.07">from the confined natu</l>
+					<l justify="left" n="aro.a.illbk.09.08">re of bodily sensation</l>
+				</lg>
+			</phystext>
+		</desc>
+		<desc dbi="aro.A.P9-10" id="aro.a.illbk.10">
+			<objtitle>,
+
+				<objid>
+					<objnumber code="A10">Object 10 </objnumber>
+					<objcode code="B10">(Bentley 10, </objcode>
+					<objcode code="E10">Erdman 10, </objcode>
+					<objcode code="K10">Keynes 10)</objcode></objid>
+			</objtitle>
+			<physdesc desclevel="brief">
+				<objsize>5.5 x 3.5 cm.</objsize>
+				<windowsize height="800" width="600"/>
+			</physdesc>
+			<illusdesc>
+				<illustration location="AB" type="plate">
+					<illusobjdesc>A figure, probably male, dominates the center of the
 design above the text.  He is pictured from the chest up, with his
 arms raised energetically at 135 degrees.  Below him on the left is
 a figure lying on the ground but with his upper body raised
@@ -324,27 +1265,99 @@ horizontally to the right.  He may be looking back and up at the
 central figure.  The central figure may be Christ rising from the
 tomb with two startled soldiers below (see Matthew 28:4).  The dark
 background might represent clouds or a cave-like
-tomb.</illusobjdesc><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>upper body</characteristic><characteristic>arms raised at 135 degrees</characteristic><characteristic>Christ</characteristic><illusobjdesc>A figure, probably male, is pictured from the chest
+tomb.</illusobjdesc>
+					<component location="AB" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>upper body</characteristic>
+						<characteristic>arms raised at 135 degrees</characteristic>
+						<characteristic>Christ</characteristic>
+						<illusobjdesc>A figure, probably male, is pictured from the chest
 up, with his arms raised energetically at 135 degrees.  He may be
 Christ rising from the tomb with two startled soldiers below (see
-Matthew 28:4).</illusobjdesc></component><component type="figure" location="A"><characteristic>male</characteristic><characteristic>soldier</characteristic><characteristic>lying</characteristic><characteristic>arm raised</characteristic><characteristic>facing up</characteristic><characteristic>leg extended</characteristic><illusobjdesc>A figure, probably male, on the left side of the
+Matthew 28:4).</illusobjdesc>
+					</component>
+					<component location="A" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>soldier</characteristic>
+						<characteristic>lying</characteristic>
+						<characteristic>arm raised</characteristic>
+						<characteristic>facing up</characteristic>
+						<characteristic>leg extended</characteristic>
+						<illusobjdesc>A figure, probably male, on the left side of the
 design above the text lies on the ground, but with his upper body
 raised slightly on his right elbow.  His left arm is raised and
 bent at the elbow so that his forearm extends over his (upraised?)
 head.  He may be a soldier at Christ's tomb (see Matthew
-28:4).</illusobjdesc></component><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>soldier</characteristic><characteristic>lying</characteristic><characteristic>twisted</characteristic><characteristic>facing up</characteristic><characteristic>leg extended</characteristic><illusobjdesc>A figure, probably male, on the right side of the
+28:4).</illusobjdesc>
+					</component>
+					<component location="AB" type="figure">
+						<characteristic>male</characteristic>
+						<characteristic>soldier</characteristic>
+						<characteristic>lying</characteristic>
+						<characteristic>twisted</characteristic>
+						<characteristic>facing up</characteristic>
+						<characteristic>leg extended</characteristic>
+						<illusobjdesc>A figure, probably male, on the right side of the
 design lies on the ground.  His upper body is raised slightly and
 probably twisted away from the central figure.  His arms extend
 horizontally to the right.  He may be looking back and up at the
 central figure.  Perhaps this is a soldier at Christ's tomb (see
-Matthew 28:4).</illusobjdesc></component><component type="object" location="AB"><characteristic>cloud</characteristic><characteristic>night</characteristic><characteristic>cave</characteristic><characteristic>tomb</characteristic><illusobjdesc>The dark background in the design above the text might
-represent clouds, the night sky, or a cave-like tomb.</illusobjdesc></component></illustration><illustration type="plate" location="CD"><illusobjdesc>Below the text, a bird, wings extended, hovers over
+Matthew 28:4).</illusobjdesc>
+					</component>
+					<component location="AB" type="object">
+						<characteristic>cloud</characteristic>
+						<characteristic>night</characteristic>
+						<characteristic>cave</characteristic>
+						<characteristic>tomb</characteristic>
+						<illusobjdesc>The dark background in the design above the text might
+represent clouds, the night sky, or a cave-like tomb.</illusobjdesc>
+					</component>
+				</illustration>
+				<illustration location="CD" type="plate">
+					<illusobjdesc>Below the text, a bird, wings extended, hovers over
 horizontal lines probably representing dark water.  The bird may be
-the dove of the Holy Ghost moving "upon the face of the waters"
+the dove of the Holy Ghost moving &quot;upon the face of the waters&quot;
 (Genesis 1:2).  The shading left and right of the water are edges
 of the etching border and are probably not
-representational.</illusobjdesc><component type="animal" location="CD"><characteristic>bird</characteristic><characteristic>dove</characteristic><characteristic>Holy Ghost</characteristic><characteristic>hovering</characteristic><characteristic>flying</characteristic><characteristic>wing</characteristic><illusobjdesc>A bird, wings extended, hovers over horizontal lines
+representational.</illusobjdesc>
+					<component location="CD" type="animal">
+						<characteristic>bird</characteristic>
+						<characteristic>dove</characteristic>
+						<characteristic>Holy Ghost</characteristic>
+						<characteristic>hovering</characteristic>
+						<characteristic>flying</characteristic>
+						<characteristic>wing</characteristic>
+						<illusobjdesc>A bird, wings extended, hovers over horizontal lines
 probably representing dark water.  The bird may be the dove of the
-Holy Ghost moving "upon the face of the waters" (Genesis
-1:2).</illusobjdesc></component><component type="object" location="CD"><characteristic>water</characteristic><characteristic>dark</characteristic><illusobjdesc>In the design below the text, horizontal lines below
-the bird probably represent dark water.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="3"/><texthead justify="left"><l n="aro.a.illbk.10.01" justify="left" indent="1">PRINCIPLE 7<note>In Copy A, the superscripted text to the right of the "7"possibly "th"is illegible.</note></l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="aro.a.illbk.10.02" justify="left">As all men are alike</l><l n="aro.a.illbk.10.03" justify="left">(tho' infinitely vari-</l><l n="aro.a.illbk.10.04" justify="left">ous) So all Religions</l><l n="aro.a.illbk.10.05" justify="left">&amp; as all similars have</l><l n="aro.a.illbk.10.06" justify="left">one source</l><l n="aro.a.illbk.10.07" justify="left" indent="1">The true Man is the</l><l n="aro.a.illbk.10.08" justify="left">source he being the</l><l n="aro.a.illbk.10.09" justify="left">Poetic Genius</l></lg></phystext></desc></objdesc></bad>
+Holy Ghost moving &quot;upon the face of the waters&quot; (Genesis
+1:2).</illusobjdesc>
+					</component>
+					<component location="CD" type="object">
+						<characteristic>water</characteristic>
+						<characteristic>dark</characteristic>
+						<illusobjdesc>In the design below the text, horizontal lines below
+the bird probably represent dark water.</illusobjdesc>
+					</component>
+				</illustration>
+			</illusdesc>
+			<phystext>
+				<vspace extent="3"/>
+				<texthead justify="left">
+					<l indent="1" justify="left" n="aro.a.illbk.10.01">PRINCIPLE 7
+						<note>In Copy A, the superscripted text to the right of the &quot;7&quot;possibly &quot;th&quot;is illegible.</note></l>
+				</texthead>
+				<vspace extent="1"/>
+				<lg justify="left" type="prose">
+					<l justify="left" n="aro.a.illbk.10.02">As all men are alike</l>
+					<l justify="left" n="aro.a.illbk.10.03">(tho' infinitely vari-</l>
+					<l justify="left" n="aro.a.illbk.10.04">ous) So all Religions</l>
+					<l justify="left" n="aro.a.illbk.10.05">&amp; as all similars have</l>
+					<l justify="left" n="aro.a.illbk.10.06">one source</l>
+					<l indent="1" justify="left" n="aro.a.illbk.10.07">The true Man is the</l>
+					<l justify="left" n="aro.a.illbk.10.08">source he being the</l>
+					<l justify="left" n="aro.a.illbk.10.09">Poetic Genius</l>
+				</lg>
+			</phystext>
+		</desc>
+	</objdesc>
+</bad>
