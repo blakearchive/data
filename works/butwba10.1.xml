@@ -301,6 +301,7 @@
                     Mr. and Mrs. Paul Mellon); given by Mellon in 1975 to the Yale Center for
                     British Art.</note>
             </provenance>
+            <repositories>
             <repository>
                 <institution>Robert N. Essick (Objects 13, 14)</institution>
                 <addressline>Altadena, California</addressline>
@@ -313,15 +314,24 @@
                 <addressline>URL: http://www.louvre.fr</addressline>
                 <department>Prints and Drawings</department>
                 <repositoryid label="Call number">RF 54420 recto</repositoryid>
-                <lb/>
+            </repository>
+            <repository>
                 <institution>Marburg Ltd. (Objects 6, 7, 11)</institution>
                 <addressline>London</addressline>
+            </repository>
+            <repository>
                 <institution>Alan Parker (Objects 2, 5)</institution>
                 <addressline>London</addressline>
+            </repository>
+            <repository>
                 <institution>H. Charles and Jessie Price (Object 18)</institution>
                 <addressline>Dallas, Texas</addressline>
+            </repository>
+            <repository>
                 <institution>Winterstein Collection (Object 17)</institution>
                 <addressline>Munich, Germany</addressline>
+            </repository>
+            <repository>
                 <institution>Yale Center for British Art (Object 4)</institution>
                 <addressline>Box 208280</addressline>
                 <addressline>New Haven, Connecticut 06520-82-80</addressline>
@@ -332,9 +342,11 @@
                     http://www.yale/edu/ycba/collect/print.htm</addressline>
                 <department>Prints and Drawings</department>
                 <repositoryid label="Call number">B1975.1026</repositoryid>
-                <lb/>
+             </repository>
+             <repository>
                 <institution>private owners (Objects 1, 3, 9, 10, 12, 15, 16, 19, 20)</institution>
             </repository>
+        </repositories>
         </source>
         <desc dbi="BUTWBA10.1.1.WC" id="butwba10.1.wc.01">
             <objtitle>
