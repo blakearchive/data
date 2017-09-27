@@ -8,7 +8,7 @@ British Museum<br/>
 London<br/>
 Related to Object 1.
 </relationship><relationship>
-Edward Young, *Night Thoughts*, Object 12<br/>
+<link type="object" ptr="copy/bb515.1?descId=bb515.1.comb.01">Edward Young, *Night Thoughts*, Object 12</link><br/>
 Engraving, 1797.  Bentley 515.<br/>
 Multiple owners<br/>
 Related to Object 1.
@@ -18,23 +18,23 @@ Manuscript, c. 1797-1807.  Bentley 209.<br/>
 British Library<br/>
 London<br/>
 Related to Object 1.
-</relationship><relationship><link type="object" ptr="but505.1.wc.01">*The Ascension*</link><br/>
+</relationship><relationship><link type="object" ptr="copy/biblicalwc?descId=but505.1.wc.01">*The Ascension*</link><br/>
             Water color, c. 1803-05.  Butlin 505.<br/>
             Fitzwilliam Museum<br/>
             Cambridge, England<br/>
             Related to Object 7.
 </relationship><relationship>
-*Jerusalem*, Plate 78<br/>
+<link type="work" ptr="jerusalem">*Jerusalem*</link>, Plate 78<br/>
 Relief etching, c. 1804-21.  Bentley 75.<br/>
 Multiple owners<br/>
 Related to Object 4.
 </relationship>
-<relationship><link type="object" ptr="but612.1.wd.01">*An Angel Awakening the Dead with a Trumpet*</link><br/> 
+<relationship><link type="object" ptr="copy/gravewd?descId=but612.1.wd.01">*An Angel Awakening the Dead with a Trumpet*</link><br/> 
             Monochrome wash drawing, c. 1805 (?). Butlin 612.<br/>
             British Museum<br/>
             London<br/>
             Related to Object 1.
-        </relationship><relationship><link type="object" ptr="but611.1.wc.01">*An Angel with a Trumpet*</link><br/> 
+        </relationship><relationship><link type="object" ptr="copy/gravewc?descId=but611.1.wc.01">*An Angel with a Trumpet*</link><br/> 
             Water color, c. 1805 (?). Butlin 611.<br/>
             Yale Center for British Art<br/>
             New Haven, Connecticut<br/>
@@ -45,41 +45,41 @@ Related to Object 4.
             Untraced<br/>
             Related to Object 8.
         </relationship><relationship>
-*Illustrations to Robert Blair’s “The Grave,”* Object 1<br/>
+<link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.01">*Illustrations to Robert Blair’s “The Grave,”* Object 1</link><br/>
     Water color, 1805.  Not in Butlin.<br/>
     Private collection<br/>
     Related to Object 1.
 </relationship><relationship>
-*Illustrations to Robert Blair’s “The Grave,”* Object 2<br/>
+<link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.02">*Illustrations to Robert Blair’s “The Grave,”* Object 2</link><br/>
     Water color, 1805.  Not in Butlin.<br/>
     Collection of Alan Parker<br/>
     London<br/>
     Related to Object 4.
 </relationship><relationship>
-*Illustrations to Robert Blair’s “The Grave,”* Object 8<br/>
+<link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.08">*Illustrations to Robert Blair’s “The Grave,”* Object 8</link><br/>    
     Water color, 1805.  Not in Butlin.<br/>
     Louvre Museum<br/>
     Paris, France<br/>
     Related to Object 6.
 </relationship><relationship>
-*Illustrations to Robert Blair’s “The Grave,”* Object 9<br/>
+<link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.09">*Illustrations to Robert Blair’s “The Grave,”* Object 9</link><br/>
     Water color, 1805.  Not in Butlin.<br/>
     Private collection<br/>
     Related to Object 8.
 </relationship><relationship>
-*Illustrations to Robert Blair’s “The Grave,”* Object 13<br/>
+<link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.13">*Illustrations to Robert Blair’s “The Grave,”* Object 13</link><br/>    
     Water color, 1805.  Not in Butlin.<br/>
     Collection of Robert N. Essick<br/>
     Altadena, California<br/>
     Related to Object 7.
 </relationship><relationship>
-*Illustrations to Robert Blair’s “The Grave,”* Object 17<br/>
+<link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.17">*Illustrations to Robert Blair’s “The Grave,”* Object 17</link><br/>    
     Water color, 1805.  Not in Butlin.<br/>
     Winterstein Collection<br/>
     Munich, Germany<br/>
     Related to Object 5.
 </relationship><relationship>
-*Illustrations to Robert Blair’s “The Grave,”* Object 20<br/>
+<link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.20">*Illustrations to Robert Blair’s “The Grave,”* Object 20</link><br/>    
     Water color, 1805.  Not in Butlin.<br/>
     Private collection<br/>
     Related to Object 9.
@@ -99,7 +99,7 @@ Lois Bateson<br/>
 Chapel Hill, North Carolina<br/>
 Related to Object 1.
         </relationship><relationship>
-<link type="object" ptr="but621r.1.penc.01">*Sketch for Plate 2, "Christ Descending into the Grave, with the Keys of Death and Hell"*</link><br/>
+<link type="object" ptr="copy/gravepd?descId=but621r.1.penc.01">*Sketch for Plate 2, "Christ Descending into the Grave, with the Keys of Death and Hell"*</link><br/>
 Pencil sketch, 1805. Butlin 621.<br/>
 British Museum<br/>
 London<br/>
@@ -117,17 +117,18 @@ Related to Object 4.
             Untraced<br/>
             Related to Object 1.
         </relationship><relationship>
-To William Hayley<br/>
+<link type="object" ptr="copy/letters?descId=lt27nov1805.1.ltr.01">To William Hayley</link><br/><br/>
     Letter, 27 November 1805.  Bentley 86.<br/>
     Houghton Library, Harvard University<br/>
     Cambridge, Massachusetts
-</relationship><relationship><link type="object" ptr="but613.1.wc.01">*Alternative Design for the Title Page: The Resurrection of the Dead*</link><br/> 
+</relationship><relationship><link type="object" ptr="copy/gravewc?descId=but613.1.wc.01">*Alternative Design for the Title Page: The Resurrection of the Dead*</link><br/> 
             Water color, 1806. Butlin 613.<br/>
             British Museum<br/>
             London<br/>
             Related to Object 1.
         </relationship><relationship>
-<link type="object" ptr="but614r.1.penc.01">*Sketch for Alternative Title Page* (recto)</link>; <link type="object" ptr="but614v.1.penc.01">*Sketch Perhaps for the Same* (verso)</link><br/>
+<link type="object" ptr="copy/gravepd?descId=but614r.1.penc.01">*Sketch for Alternative Title Page* (recto)</link>; <br/>
+<link type="object" ptr="copy/gravepd?descId=but614v.1.penc.01">*Sketch Perhaps for the Same* (verso)</link><br/>
 Pencil sketches, c. 1806. Butlin 614.<br/>
 Morgan Library and Museum<br/>
 New York City<br/>
@@ -169,32 +170,32 @@ The thirteen copperplates for Blair’s *Grave*, Object 10<br/>
    Washington, D.C.<br/>
    Related to Object 9.
 </relationship><relationship>
-Robert Blair, *The Grave*, 1808, Object 2<br/>
+<link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.02">Robert Blair, *The Grave*, 1808, Object 2</link><br/>
    Engraving by Louis Schiavonetti, 1808.  Bentley 435.<br/>
    Multiple owners<br/>
    Related to Objects 1 and 2.
 </relationship><relationship>
-Robert Blair, *The Grave*, 1808, Object 3<br/>
+<link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.03">Robert Blair, *The Grave*, 1808, Object 3</link><br/>   
    Engraving by Louis Schiavonetti, 1808.  Bentley 435.<br/>
    Multiple owners<br/>
    Related to Object 4.
 </relationship><relationship>
-Robert Blair, *The Grave*, 1808, Object 4<br/>
+<link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.04">Robert Blair, *The Grave*, 1808, Object 4</link><br/>
    Engraving by Louis Schiavonetti, 1808.  Bentley 435.<br/>
    Multiple owners<br/>
    Related to Object 5.
 </relationship><relationship>
-Robert Blair, *The Grave*, 1808, Object 6<br/>
+<link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.06">Robert Blair, *The Grave*, 1808, Object 6</link><br/>   
    Engraving by Louis Schiavonetti, 1808.  Bentley 435.<br/>
    Multiple owners<br/>
    Related to Object 6.
 </relationship><relationship>
-Robert Blair, *The Grave*, 1808, Object 7<br/>
+<link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.07">Robert Blair, *The Grave*, 1808, Object 7</link><br/>   
    Engraving by Louis Schiavonetti, 1808.  Bentley 435.<br/>
    Multiple owners<br/>
    Related to Object 8.
 </relationship><relationship>
-Robert Blair, *The Grave*, 1808, Object 10<br/>
+<link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.10">Robert Blair, *The Grave*, 1808, Object 10</link><br/>   
    Engraving by Louis Schiavonetti, 1808.  Bentley 435.<br/>
    Multiple owners<br/>
    Related to Object 9.
