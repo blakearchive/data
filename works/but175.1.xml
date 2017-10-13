@@ -1,4 +1,4 @@
-<bad id="but175.1.1" type="penink" work="Figures From a Greek Vase, After D’Hancarville: A Bacchic Mystery" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="1" hidden="false">
+<bad id="but175.1" type="penink" work="Figures From a Greek Vase, After D’Hancarville: A Bacchic Mystery" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="175" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
@@ -22,10 +22,18 @@ Rochester;
             <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
 10918)
 files ranging in size from 92KB to 1100KB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October 2015</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+            <updatestmt>
+                The William Blake Archive is pleased to announce the publication of seventeen pen and ink drawings by Blake. Ranging chronologically from his apprenticeship as an engraver to the final decade of his life, this group offers a comprehensive overview of his work in the medium. Most were created when Blake was learning his craft as an artist and reveal his exploration of various themes and genres. His apprentice drawings for James Basire (<hi rend="i">The Body of Edward I and Countess Aveline</hi>) show his early engagement with medieval art. Another group (two drawings titled <hi rend="i">Figures from a Greek Vase</hi> and <hi rend="i">Charon</hi>) is clearly based on classical art or mythology, responses to which were central to British art and design in the second half of the eighteenth century. The cluster of related sketches on two leaves, each titled <hi rend="i">Four Composition Sketches</hi>, is the earliest extant example of Blake’s attempt to construct a pictorial narrative through a series of images. In these, he began to develop his own version of the sublime, an aesthetic more fully represented by the texts and designs in the illuminated books of the 1790s. Several works from the 1780s show the influence of neoclassicism and take their subjects from two fields of lasting interest to Blake: British history (<hi rend="i">King Alfred</hi>, <hi rend="i">A Woman Enthroned</hi>, and <hi rend="i">Procession of Monks</hi>) and the Bible (<hi rend="i">Saul and David</hi>, <hi rend="i">Goliath Cursing David</hi>, and two versions of <hi rend="i">The Good Farmer</hi>). The three much later drawings are exceptions to Blake’s customary procedures and subjects: a landscape <hi rend="i">Garden Path</hi>, <hi rend="i">The Prophet Isaiah</hi> drawn on a woodblock for a wood engraving never executed, and <hi rend="i">Lady Torrens</hi>, a copy of a family portrait by his friend and patron John Linnell.<lb/>
+                <lb/>
+                Blake did not execute a large number of pen and ink drawings. This is a bit surprising, given the compatibility between the linearity of the medium and his insistence on “the distinct, sharp, and wirey ... bounding line” as the “great and golden rule of art” (Blake’s <hi rend="i">Descriptive Catalogue</hi>). He did, however, make extensive use of pen and ink work to outline forms in his water colors, color prints, and hand tinted relief etchings in the illuminated books. For preliminary sketching, Blake favored pencil over pen and ink, probably because of the lower cost of pencil and the ease of erasure and correction it offered. The Archive will publish his pencil sketches decade by decade, beginning with the earliest works, 1779 through 1790.<lb/>
+                <lb/>
+                This is the first time that works from the Society of Antiquaries, London have been represented in the Archive. Accordingly, we are also publishing the Society's Blake collection list, which includes all of its original works by Blake, not just those published in the Archive, and joins the Collection Lists of over thirty other contributing institutions.<lb/>
+                <lb/>
+                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.                           
+            </updatestmt>
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
@@ -43,7 +51,47 @@ granted by the owners of the originals for this publication only.<lb/>
         <revisiondesc>
             <changestmt>
                 <change>Final proofing and publication</change>
-                <date>April-May 2014</date>
+                <date>September-October 2015</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Rachel Lee,</name>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Grant Glass,</name>
+                    <name>Jarrod Ingles,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Mary Learner,</name>
+                    <name>Eric Loy,</name>
+                    <name>Adam McCune,</name>
+                    <name>Scott Robinson,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created</change>
+                <date>April 2015</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester;
@@ -87,58 +135,22 @@ granted by the owners of the originals for this publication only.<lb/>
                 </respstmt>
             </changestmt>
             <changestmt>
-                <change>BAD created</change>
-                <date>September 2012</date>
-                <respstmt>
-                    <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
-                    <name>William Shaw</name>
-                    <resp>Project Manager: </resp>
-                    <name>Ashley Reed</name>
-                    <resp>Bibliographer:</resp>
-                    <name>Mark Crosby</name>
-                    <resp>Project Coordinator, University of Rochester:</resp>
-                    <name>Rachel Lee</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Esther Arnold, </name>
-                    <name>Kate Attkisson, </name>
-                    <name>Laura Bell, </name>
-                    <name>Lauren Cameron, </name>
-                    <name>Katherine Carlson, </name>
-                    <name>Cassandra Etter-Wenzel, </name>
-                    <name>Andrea Everett, </name>
-                    <name>Joseph Fletcher, </name>
-                    <name>Ali McGhee, </name>
-                    <name>Jennifer Park, </name>
-                    <name>Adair Rispoli, </name>
-                    <name>Sarah Shaw, </name>
-                    <name>Hardeep Sidhu, </name>
-                    <name>Sarah Tolf, </name>
-                    <name>Nikolaus Wasmoen, </name>
-                    <name>Bihan Zhang</name>
-                </respstmt>
-            </changestmt>
-            <changestmt>
                 <change>Image acquired and catalogued</change>
-                <date>September 2002</date>
+                <date>February 2007</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester;
                     <name>Robert Essick, </name>University of California, Riverside; and
                     <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
-                    <name>Matthew Kirschenbaum</name>
-                    <name>Andrea Laue</name>
-                    <resp>Project Manager: </resp>
-                    <name>Andrea Dickens</name>
+                    <resp>Project Manager and Technical Editor: </resp>
+                    <name>William Shaw</name>
                     <resp>Project Assistants: </resp>
+                    <name>Kate Attkisson, </name>
                     <name>Christopher N. Jackson, </name>
-                    <name>Gerald Miller, </name>
-                    <name>Sarah Trippensee, </name>
-                    <name>Justin Van Kleeck</name>
+                    <name>Ashley Reed, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Sarah Tolf</name>
                 </respstmt>
             </changestmt>
         </revisiondesc>
@@ -148,7 +160,7 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *Figures From a Greek Vase, After D’Hancarville: A Bacchic Mystery*
+                        Figures From a Greek Vase, After D’Hancarville: A Bacchic Mystery
                     </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
@@ -157,7 +169,7 @@ granted by the owners of the originals for this publication only.<lb/>
                 <origination>Frederick Tatham<role>author.  Tatham wrote the pen and ink inscription, lower right.</role>
                     <role>delineator</role>
                 </origination>
-                <compdate value="1779">c. 1778-85?<note>The date of this work is far from certain.  Blake may have executed this drawing while still an apprentice to James Basire, 1772-79.  See also the companion drawing, *Figures from a Greek Vase, after D'Hancarville: The Apotheosis of Bacchus*, Butlin 174.  The reference to Alexander Gilchrist's biography of Blake, first published in 1863, in Tatham's inscription suggests that he did not write this note until that date or later.</note>
+                <compdate value="1779">c. 1778-85?<note>The date of this work is far from certain.  Blake may have executed this drawing while still an apprentice to James Basire, 1772-79.  See also the companion drawing, <hi rend="i">Figures from a Greek Vase, after D'Hancarville: The Apotheosis of Bacchus</hi>, Butlin 174.  The reference to Alexander Gilchrist's biography of Blake, first published in 1863, in Tatham's inscription suggests that he did not write this note until that date or later.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -194,11 +206,11 @@ granted by the owners of the originals for this publication only.<lb/>
                 <repositoryid label="Registration number">1867,1012.208</repositoryid>
             </repository>
         </source>
-        <desc id="but175.1.1.penink.01" dbi="BUT175.1.1.PID">
+        <desc id="but175.1.penink.01" dbi="BUT175.1.1.PID">
             <objtitle>
                 <title type="transcribed">Figures From a Greek Vase, After D’Hancarville: A Bacchic Mystery</title>,
 <objid>
-                    <objnumber code="A1">object 1 </objnumber>
+                    <objnumber code="A1">Object 1 </objnumber>
                     <objcode code="UI">(Butlin 175)</objcode>
                 </objid>
             </objtitle>
@@ -208,7 +220,7 @@ granted by the owners of the originals for this publication only.<lb/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Five mythological figures and one animal, a bull, stand or walk in this scene representing a Bacchic Mystery.  The bull occupies the center of the composition where it moves rightward with both front legs raised.  This animal represents Bacchus in the form of a bull.  In front of Bacchus is a winged female figure wearing a long gown and a spiky crown.  She walks rightward with her right leg and appears to pull with both hands on a string or rope attached to the bull's head.  This figure represents Genius, either Acratus in female guise or Ariadne.  In addition to the bull Bacchus and the female figure, there are four male attendants, all of whom have short curly hair, prominent genitals, and are nude except for a length of drapery and a hat or crown. The first attendant stands to the right of the bull, which he attempts to lead rightward with his right arm.  He holds a long torch in his left hand.  A second male attendant, upper left, faces and strides right.  He holds what appears to be a torch in his right hand (though the flame is not visible) and raises his bent left arm, which is draped.  The third male attendant stands directly above the bull in the center of the composition.  Although his body faces left, he turns his head to the right and extends both arms horizontally with hands raised and palms facing outward.  Drapery covers both of his shoulders.  The fourth male attendant, upper right, stands facing left with a torch in his left hand and drapery covering both shoulders.  This drawing is a copy of an engraving of a Greek vase painting in D'Hancarville (P. F. Hugues), *Antiquités etrusques, grecques et romaines, tirées du cabinet de M. Hamilton*, Naples 1766-67, volume 3, plate 36.</illusobjdesc>
+                    <illusobjdesc>Five mythological figures and one animal, a bull, stand or walk in this scene representing a Bacchic Mystery.  The bull occupies the center of the composition where it moves rightward with both front legs raised.  This animal represents Bacchus in the form of a bull.  In front of Bacchus is a winged female figure wearing a long gown and a spiky crown.  She walks rightward with her right leg and appears to pull with both hands on a string or rope attached to the bull's head.  This figure represents Genius, either Acratus in female guise or Ariadne.  In addition to the bull Bacchus and the female figure, there are four male attendants, all of whom have short curly hair, prominent genitals, and are nude except for a length of drapery and a hat or crown. The first attendant stands to the right of the bull, which he attempts to lead rightward with his right arm.  He holds a long torch in his left hand.  A second male attendant, upper left, faces and strides right.  He holds what appears to be a torch in his right hand (though the flame is not visible) and raises his bent left arm, which is draped.  The third male attendant stands directly above the bull in the center of the composition.  Although his body faces left, he turns his head to the right and extends both arms horizontally with hands raised and palms facing outward.  Drapery covers both of his shoulders.  The fourth male attendant, upper right, stands facing left with a torch in his left hand and drapery covering both shoulders.  This drawing is a copy of an engraving of a Greek vase painting in D'Hancarville (P. F. Hugues), <hi rend="i">Antiquités etrusques, grecques et romaines, tirées du cabinet de M. Hamilton</hi>, Naples 1766-67, volume 3, plate 36.</illusobjdesc>
                     <component type="animal" location="E">
                         <characteristic>cow</characteristic>
                         <characteristic>male</characteristic>
@@ -337,13 +349,14 @@ granted by the owners of the originals for this publication only.<lb/>
             </illusdesc>
             <phystext>
                 <lg justify="left">
-                    <l n="but175.1.penink.01" justify="left" indent="49">This is an original drawing-</l>
-                    <l n="but175.1.penink.02" justify="left" indent="49">most likely by Blake after</l>
-                    <l n="but175.1.penink.03" justify="left" indent="51">Cumberland -</l>
-                    <l n="but175.1.penink.04" justify="left" indent="42">William Blake</l>
-                    <l n="but175.1.penink.05" justify="left" indent="39">I suppose these figures were taken from</l>
-                    <l n="but175.1.penink.06" justify="left" indent="39">M<hi rend="superscript">r</hi>. Cumberlands designs - vide Gilchrists life</l>
-                    <l n="but175.1.penink.07" justify="left" indent="45">Frederick Tatham -<note>Frederick Tatham penned this inscription, although the drawing is in fact not "after [George] Cumberland" but a copy from a plate of a Greek vase painting in D'Hancarville (P.F. Hugues), *Antiquités etrusques, grecques et romaines, tirées du cabinet de M. Hamilton*, Naples 1766-67, volume 3, plate 36.</note></l>
+                    <l n="but175.1.penink.01.01" justify="left" indent="49">This is an original drawing-</l>
+                    <l n="but175.1.penink.01.02" justify="left" indent="49">most likely by Blake after</l>
+                    <l n="but175.1.penink.01.03" justify="left" indent="63">Cumberland -</l>
+                    <l n="but175.1.penink.01.04" justify="left" indent="42">William Blake</l>
+                    <l n="but175.1.penink.01.05" justify="left" indent="39">I suppose these figures were taken from</l>
+                    <l n="but175.1.penink.01.06" justify="left" indent="39">M<hi rend="superscript">r</hi>. Cumberlands designs - vide Gilchrists life</l>
+                    <l n="but175.1.penink.01.07" justify="left" indent="45">Frederick Tatham -<note>Frederick Tatham penned this inscription, although the drawing is in fact not "after [George] Cumberland" but a copy from a plate of a Greek vase painting in D'Hancarville (P.F. Hugues), <hi rend="i">Antiquités etrusques, grecques et romaines, tirées du cabinet de M. Hamilton</hi>, Naples 1766-67, volume 3, plate 36.</note>
+                    </l>
                 </lg>
             </phystext>
         </desc>
