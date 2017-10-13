@@ -1,14 +1,21 @@
-<bad id="bb499.2" type="comeng" work="Stedman, Narrative of a Five Years' Expedition" copyid="2"
-    copy="2" institution=" essick huntington" catalog="bentley" catid="499" hidden="false">
+<bad catalog="bentley" catid="499" copy="2" copyid="2" hidden="false" id="bb499.2" institution=" essick huntington" type="comeng" work="Stedman, Narrative of a Five Years' Expedition">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Narrative of a Five Years' Expedition"><main>John Gabriel Stedman,
+                <title reg="Narrative of a Five Years' Expedition">
+                    <main>John Gabriel Stedman,
                         Narrative, of a Five Years' Expedition, against the Revolted Negroes of
-                        Surinam</main><copy> Copy 2</copy>: electronic edition </title>
-                <principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                        <name>Robert Essick, </name>University of California, Riverside; and
-                        <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill </principal>
+                        Surinam</main>
+                    <copy>Copy 2</copy>: electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                        
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                        
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill </principal>
                 <respstmt/>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
@@ -18,20 +25,26 @@
             <extent>1 XML file approx. 34KB; 32 JPEG (ISO/IEC 10918) files ranging in size from
                 100KB to 1300KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                        Archives<date><hi rend="b">July 2013</hi></date></publicationstmt>
+                        Archives
+                <date>
+                    <hi rend="b">July 2013</hi></date>
+            </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-
-
-
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2013</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © 
+            <date>2013</date>
+            by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/> This image copyright © 2013 Henry E. Huntington Library and Art Gallery.
+            only.
+            <lb/>
+            <lb/>
+            This image copyright © 2013 Henry E. Huntington Library and Art Gallery.
+            
             <lb/></userestrict>
         <encodingdesc/>
         <profiledesc/>
@@ -39,96 +52,242 @@
             <changestmt>
                 <change>Republication in full mode</change>
                 <date>July 2013</date>
-                <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                        <name>Robert Essick, </name>University of California, Riverside; and
-                        <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                        <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project
-                        Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator,
-                        University of Rochester: </resp><name>Rachel
-                        Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project
-                        Assistants: </resp><name>Esther Arnold,</name><name>Kate
-                        Attkisson,</name><name>Laura Bell,</name><name>Andrea
-                        Everett,</name><name>Joseph Fletcher,</name><name>Gabrielle
-                        Kiriloff,</name><name>Adam McCune,</name><name>Ali McGhee,</name><name>Adair
-                        Rispoli,</name><name>Hardeep Sidhu,</name><name>Sarah Tolf,</name><name>Lisa
-                        Vandenbossche,</name><name>Nikolaus Wasmoen,</name><name>Alia
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                        
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                        
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                        
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project
+                        Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator,
+                        University of Rochester: </resp>
+                    <name>Rachel
+                        Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project
+                        Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate
+                        Attkisson,</name>
+                    <name>Laura Bell,</name>
+                    <name>Andrea
+                        Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Gabrielle
+                        Kiriloff,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Adair
+                        Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Lisa
+                        Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia
                     Wegner,</name></respstmt>
             </changestmt>
             <changestmt>
                 <change>Illustration markup created</change>
                 <date>October 2011</date>
-                <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                        <name>Robert Essick, </name>University of California, Riverside; and
-                        <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                        <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project
-                        Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator,
-                        University of Rochester:</resp><name>Rachel
-                        Lee</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project
-                        Assistants: </resp><name>Esther Arnold, </name><name>Kate Attkisson,
-                        </name><name>Laura Bell, </name><name>Lauren Cameron, </name><name>Katherine
-                        Carlson, </name><name>Cassandra Etter-Wenzel, </name><name>Andrea Everett,
-                        </name><name>Joseph Fletcher, </name><name>Elizabeth Goodfellow,
-                        </name><name>Ali McGhee, </name><name>Jennifer Park, </name><name>Adair
-                        Rispoli, </name><name>Sarah Shaw, </name><name>Hardeep Sidhu,
-                        </name><name>Sarah Tolf, </name><name>Nikolaus Wasmoen, </name><name>Bihan
-                        Zhang</name></respstmt>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                        
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                        
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                        
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project
+                        Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator,
+                        University of Rochester:</resp>
+                    <name>Rachel
+                        Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project
+                        Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson,</name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine
+                        Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett,
+                        </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Elizabeth Goodfellow,
+                        </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair
+                        Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu,
+                        </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan
+                        Zhang</name>
+                </respstmt>
             </changestmt>
             <changestmt>
                 <change>Final proofing and publication</change>
                 <date>November-December 2008</date>
-                <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                        <name>Robert Essick, </name>University of California, Riverside; and
-                        <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                        <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project
-                        Manager: </resp><name>Ashley Reed</name><resp>Project Assistants:
-                        </resp><name>Esther Arnold, </name><name>Kate Attkisson, </name><name>April
-                        Brown, </name><name>Kit Curtin, </name><name>Andrea Everett,
-                        </name><name>Eric Forster, </name><name>Christopher N. Jackson,
-                        </name><name>Lauren Klapper-Lehman,</name><name>Michelle
-                        Langston,</name><name>Rachel Lee,</name><name>Ali McGhee,</name><name>Wayne
-                        C. Ripley,</name><name>Adair Rispoli,</name><name>Sarah
-                        Shaw,</name><name>Sarah Tolf</name></respstmt>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                        
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                        
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                        
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project
+                        Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>April
+                        Brown, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Andrea Everett,
+                        </name>
+                    <name>Eric Forster, </name>
+                    <name>Christopher N. Jackson,
+                        </name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle
+                        Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Wayne
+                        C. Ripley,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah
+                        Shaw,</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
             </changestmt>
             <changestmt>
                 <change>BAD creation</change>
                 <date>Summer 2008</date>
-                <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                        <name>Robert Essick, </name>University of California, Riverside; and
-                        <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                        <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project
-                        Manager: </resp><name>Ashley Reed</name><resp>Project Assistants:
-                        </resp><name>Esther Arnold, </name><name>Kate Attkisson, </name><name>Kit
-                        Curtin, </name><name>Christopher N. Jackson, </name><name>Sarah
-                        Jones,</name><name>Lauren Klapper-Lehman,</name><name>Michelle
-                        Langston,</name><name>Rachel Lee,</name><name>Ali McGhee,</name><name>Wayne
-                        C. Ripley,</name><name>Adair Rispoli,</name><name>Sarah
-                    Tolf</name></respstmt>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                        
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                        
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                        
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project
+                        Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit
+                        Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah
+                        Jones,</name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle
+                        Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Wayne
+                        C. Ripley,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah
+                    Tolf</name>
+                </respstmt>
             </changestmt>
             <changestmt>
                 <change>Image color correction</change>
                 <date>June 2008</date>
-                <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                        <name>Robert Essick, </name>University of California, Riverside; and
-                        <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                        <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project
-                        Manager: </resp><name>Ashley Reed</name><resp>Project Assistants:
-                        </resp><name>Esther Arnold, </name><name>Kate Attkisson, </name><name>Kit
-                        Curtin, </name><name>Christopher N. Jackson, </name><name>Sarah
-                        Jones,</name><name>Lauren Klapper-Lehman,</name><name>Michelle
-                        Langston,</name><name>Rachel Lee,</name><name>Ali McGhee,</name><name>Wayne
-                        C. Ripley,</name><name>Adair Rispoli,</name><name>Sarah
-                    Tolf</name></respstmt>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                        
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                        
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                        
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project
+                        Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit
+                        Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah
+                        Jones,</name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle
+                        Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Wayne
+                        C. Ripley,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah
+                    Tolf</name>
+                </respstmt>
             </changestmt>
             <changestmt>
                 <change>Image scanning and metadata</change>
                 <date>April 2001</date>
-                <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                        <name>Robert Essick, </name>University of California, Riverside; and
-                        <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                        <resp>Technical Editor: </resp><name>Matthew
-                        Kirschenbaum</name><resp>Project Manager: </resp><name>Andrea
-                        Laue</name><resp>Project Assistants: </resp><name>Gwen Kern,
-                        </name><name>Sarah Trippensee</name></respstmt>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                        
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                        
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                        
+                    <resp>Technical Editor: </resp>
+                    <name>Matthew
+                        Kirschenbaum</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea
+                        Laue</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Gwen Kern,</name>
+                    <name>Sarah Trippensee</name>
+                </respstmt>
             </changestmt>
         </revisiondesc>
     </header>
@@ -139,11 +298,16 @@
                     <title>John Gabriel Stedman, *Narrative, of a Five Years' Expedition, against
                         the Revolted Negroes of Surinam*</title>
                 </objtitle>
-                <origination>William Blake<role>etcher, </role><role>engraver</role></origination>
-                <origination>John Gabriel Stedman<role>inventor, </role><role>delineator. Both title
+                <origination>William Blake
+                    <role>etcher, </role>
+                    <role>engraver</role></origination>
+                <origination>John Gabriel Stedman
+                    <role>inventor, </role>
+                    <role>delineator. Both title
                         pages specify that the plates were based on drawings by
                     Stedman.</role></origination>
-                <origination>Anonymous<role>colorist. There are no documents specifying who colored
+                <origination>Anonymous
+                    <role>colorist. There are no documents specifying who colored
                         the plates in most, perhaps all, large-paper copies. The nature of the
                         coloring indicates that the work was probably undertaken by anonymous
                         commercial colorists, perhaps working as a team. The consistency in coloring
@@ -165,16 +329,20 @@
                 <objsize>Objects 2-17 range between 22.2 x 13.0 cm. and 23.4 x 13.6 cm. Object 1,
                     the engraved title page for volume 1, measures 24.0 x 17.5 cm.</objsize>
                 <numberleaves>17</numberleaves>
-                <leafsize>28.9 x 22.5 cm.<note>The leaves have been trimmed and their edges
+                <leafsize>28.9 x 22.5 cm.
+                    <note>The leaves have been trimmed and their edges
                         gilt.</note></leafsize>
-                <medium>etching and engraving with hand tinting in water colors<note>The coloring
+                <medium>etching and engraving with hand tinting in water colors
+                    <note>The coloring
                         includes highlights in shell gold and silver (powdered gold and silver
                         suspended in a liquid binder) on a few plates.</note></medium>
                 <support>wove paper</support>
-                <watermark> J Whatman 1794<note>In the Huntington copy, the watermark appears in the
+                <watermark>J Whatman 1794
+                    <note>In the Huntington copy, the watermark appears in the
                         leaves bearing Objects 2, 4, 13, and 15.</note></watermark>
                 <etchednumbers>Objects 2-17 are numbered 7, 11, 13, 18, 19, 22, 25, 35, 42, 49, 52,
-                    55, 68, 71, 76, and 80 below the imprints.<note>In the Huntington copy, the
+                    55, 68, 71, 76, and 80 below the imprints.
+                    <note>In the Huntington copy, the
                         number (25) has been trimmed from Object 8.</note></etchednumbers>
                 <pennednumbers>none</pennednumbers>
                 <framelines>The pictorial images, excluding the inscriptions, are framed with either
@@ -186,12 +354,13 @@
             <provenance n="1">
                 <name>Robert N. Essick (Object 1), Huntington Library, Art Collections, and Botanical Gardens(Objects 2-17)</name>
                 <date>1991 (Essick copy), not recorded (Huntington copy)</date>
-                <dealer> Heritage Book Shop (Essick copy), not recorded (Huntington copy)</dealer>
+                <dealer>Heritage Book Shop (Essick copy), not recorded (Huntington copy)</dealer>
                 <price>$5000 (Essick copy), not recorded (Huntington copy)</price>
                 <note>Essick copy acquired Sept. 1991 from Heritage Book Shop ($5000); earlier
                     history unknown. The Huntington Library has no records about the acquisition or
                     provenance of its copy.</note>
             </provenance>
+            <repositories>
             <repository>
                 <institution>Robert N. Essick (Object 1)</institution>
                 <addressline>Altadena</addressline>
@@ -209,11 +378,16 @@
                 <department>Library Division, Rare Books</department>
                 <repositoryid label="Call number">23654</repositoryid>
             </repository>
+        </repositories>
         </source>
-        <desc id="bb499.2.comeng.01" dbi="BBWBA499.2.17.COM">
-            <objtitle><title type="transcribed">Engraved title page</title>, <objid><objnumber
-                        code="A1">Object 1 </objnumber><objcode code="B1">(Bentley
-                        WBA499.1)</objcode></objid></objtitle>
+        <desc dbi="BBWBA499.2.17.COM" id="bb499.2.comeng.01">
+            <objtitle>
+                <title type="transcribed">Engraved title page</title>, 
+                <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="B1">(Bentley
+                        WBA499.1)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objnote>
                     <p>The only part of this engraved title page executed by Blake is the vignette
@@ -227,16 +401,16 @@
                         inscription on the framing flag but before all other letters, is in the
                         collection of the E. J. Pratt Library, Victoria University, Toronto, call
                         no. Blake Suppl. no. 566. For full descriptions, see Robert N. Essick,
-                        "Blake in the Marketplace, 2014" *Blake: An Illustrated Quarterly* 48.4
+                        &quot;Blake in the Marketplace, 2014&quot; *Blake: An Illustrated Quarterly* 48.4
                         (spring 2015): illustrations 6-10 and their captions. This Object 1 is not
                         in Bentley because Blake's signature on the title page vignette was not
                         discovered until 2014.</p>
                 </objnote>
                 <objsize>24.0 x 17.5 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>In the title page vignette, five sailing ships float on a calm
                         sea. Flags fly from the top masts of all five ships and from flagpoles on
                         the sterns of two. Slight indications of clouds appear in the sky. This
@@ -244,11 +418,11 @@
                         lower left, these are the barrel of a cannon just below Blake's signature, a
                         rope attached to a circular (iron?) ring, the upper (wooden?) arm of the
                         anchor pictured lower right, a long, narrow flag bearing the inscription
-                        "cuncta mea mecum" ("my all is with me") attached to a flagpole on the
+                        &quot;cuncta mea mecum&quot; (&quot;my all is with me&quot;) attached to a flagpole on the
                         right, another flag attached to a flagpole, another part of the rope, and
                         the lower part of the anchor. The flags on the sterns of the ships and the
                         flags in the frame are colored according to the Dutch flag.</illusobjdesc>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>ship</characteristic>
                         <characteristic>flag</characteristic>
                         <characteristic>sea</characteristic>
@@ -262,7 +436,7 @@
                             sterns of the ships are colored according to the Dutch
                             flag.</illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>gun</characteristic>
                         <characteristic>cannon</characteristic>
                         <characteristic>flag</characteristic>
@@ -279,71 +453,79 @@
                             series of motifs. Reading clockwise from lower left, these are the
                             barrel of a canon just below Blake's signature, a rope attached to a
                             circular (iron?) ring, the upper (wooden?) arm of the anchor pictured
-                            lower right, a long, narrow flag bearing the inscription "cuncta mea
-                            mecum" ("my all is with me") attached to a flagpole on the right,
+                            lower right, a long, narrow flag bearing the inscription &quot;cuncta mea
+                            mecum&quot; (&quot;my all is with me&quot;) attached to a flagpole on the right,
                             another flag attached to a flagpole, another part of the rope, and the
                             lower part of the anchor. The Latin inscription is the family motto of
                             J. G. Stedman, the author of the book. Both flags are colored according
                             to the Dutch flag.</illusobjdesc>
-
-
                     </component>
                 </illustration>
             </illusdesc>
             <phystext>
                 <vspace extent="1"/>
                 <lg justify="left">
-                    <l n="bbwba499.1.rm.01.01" justify="left" indent="18">N A R R A T I V E,</l>
-                    <l n="bbwba499.1.rm.01.02" justify="left" indent="9">
+                    <l indent="18" justify="left" n="bbwba499.1.rm.01.01">N A R R A T I V E,</l>
+                    <l indent="9" justify="left" n="bbwba499.1.rm.01.02">
                         <hi rend="i">of a five years' expedition, against the</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.03" justify="left" indent="12">Revolted Negroes of
+                    <l indent="12" justify="left" n="bbwba499.1.rm.01.03">Revolted Negroes of
                         Surinam,</l>
-                    <l n="bbwba499.1.rm.01.04" justify="left" indent="10">
+                    <l indent="10" justify="left" n="bbwba499.1.rm.01.04">
                         <hi rend="i">in GUIANA, on the WILD COAST of</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.05" justify="left" indent="15">S O U T H<space extent="2"
-                        />A M E R I C A;</l>
-                    <l n="bbwba499.1.rm.01.06" justify="left" indent="14">
+                    <l indent="15" justify="left" n="bbwba499.1.rm.01.05">S O U T H
+                        <space extent="2"/>
+                        A M E R I C A;</l>
+                    <l indent="14" justify="left" n="bbwba499.1.rm.01.06">
                         <hi rend="i">from the year 1772, to 1777:</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.07" justify="left" indent="8">
+                    <l indent="8" justify="left" n="bbwba499.1.rm.01.07">
                         <hi rend="i">elucidating the History of that Country, and</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.08" justify="left" indent="13">describing its
-                        Productions, <hi rend="i">Viz.</hi></l>
-                    <l n="bbwba499.1.rm.01.09" justify="left">
+                    <l indent="13" justify="left" n="bbwba499.1.rm.01.08">describing its
+                        Productions, 
+                        <hi rend="i">Viz.</hi></l>
+                    <l justify="left" n="bbwba499.1.rm.01.09">
                         <hi rend="i">Quadrupedes, Birds, Fishes, Reptiles, Trees, Shrubs, Fruits,
-                            &#38; Roots;</hi>
+                            &amp; Roots;</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.10" justify="left">
-                        <hi rend="i">with an account of the INDIANS of Guiana, &#38; NEGROES of
+                    <l justify="left" n="bbwba499.1.rm.01.10">
+                        <hi rend="i">with an account of the INDIANS of Guiana, &amp; NEGROES of
                             Guinea</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.11" justify="left" indent="14">By CAPT<hi
-                            rend="superscript">N</hi>. J.G. STEDMAN.</l>
-                    <l n="bbwba499.1.rm.01.12" justify="left">
+                    <l indent="14" justify="left" n="bbwba499.1.rm.01.11">By CAPT
+                        <hi rend="superscript">N</hi>
+                        . J.G. STEDMAN.</l>
+                    <l justify="left" n="bbwba499.1.rm.01.12">
                         <hi rend="i">illustrated with 80 elegant Engravings, from drawings made by
                             the Author.</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.13" justify="left" indent="22">VOL. I.<note>"VOL. I." has
+                    <l indent="22" justify="left" n="bbwba499.1.rm.01.13">VOL. I.
+                        <note>&quot;VOL. I.&quot; has
                             a swelled line on each side of it</note></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg justify="left">
-                    <l n="bbwba499.1.rm.01.14" justify="left" indent="13">cuncta mea <space
-                            extent="5"/> mecum<note><foreign lang="latin">This phrase is Latin for
-                                "My all is with me."  This is the Stedman family motto.</foreign></note></l>
+                    <l indent="13" justify="left" n="bbwba499.1.rm.01.14">cuncta mea 
+                        <space extent="5"/>
+                        mecum
+                        <note>
+                            <foreign lang="latin">This phrase is Latin for
+                                &quot;My all is with me.&quot;  This is the Stedman family motto.</foreign></note>
+                    </l>
                 </lg>
                 <vspace extent="2"/>
                 <lg justify="left">
-                    <l n="bbwba499.1.rm.01.15" justify="left" indent="13">Blake</l>
+                    <l indent="13" justify="left" n="bbwba499.1.rm.01.15">Blake</l>
                 </lg>
                 <vspace extent="1"/>
                 <lg justify="left">
-                    <l n="bbwba499.1.rm.01.16" justify="left" indent="8">
-                        <hi rend="i">"O quantum terr&#230;, quantum cognoscere c&#230;li</hi>
-                        <note>Lines 16-22 are from Valerius Flaccus, <hi rend="i">Argonautica</hi>,
+                    <l indent="8" justify="left" n="bbwba499.1.rm.01.16">
+                        <hi rend="i">&quot;O quantum terræ, quantum cognoscere cæli</hi>
+                        <note>Lines 16-22 are from Valerius Flaccus, 
+                            <hi rend="i">Argonautica</hi>
+                            ,
                             1:168-73: “O what vast expanse of earth, what vast expanse of sky is it
                             granted us to know! To what great purposes do we open up the sea! Now
                             perhaps you think this a formidable undertaking, but when the ship
@@ -352,28 +534,29 @@
                             the peoples we have seen!” (trans. Andrew Zizzos, Oxford University
                             Press, 2008, pages 16-17).</note>
                     </l>
-                    <l n="bbwba499.1.rm.01.17" justify="left" indent="8">
+                    <l indent="8" justify="left" n="bbwba499.1.rm.01.17">
                         <hi rend="i">Permissum est! pelagus quantos aperimus in usus!</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.18" justify="left" indent="8">
-                        <hi rend="i">Nunc forsan grave reris opus; sed l&#230;ta recurret</hi>
+                    <l indent="8" justify="left" n="bbwba499.1.rm.01.18">
+                        <hi rend="i">Nunc forsan grave reris opus; sed læta recurret</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.19" justify="left" indent="8">
+                    <l indent="8" justify="left" n="bbwba499.1.rm.01.19">
                         <hi rend="i">Cum ratis, et carum cum jam mihi reddet Iolcon;</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.20" justify="left" indent="8">
+                    <l indent="8" justify="left" n="bbwba499.1.rm.01.20">
                         <hi rend="i">Quis pudor heu! nostros tibi tunc audire labores!</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.21" justify="left" indent="8">
-                        <hi rend="i">Quam referam visas tua per suspiria gentes!"</hi>
+                    <l indent="8" justify="left" n="bbwba499.1.rm.01.21">
+                        <hi rend="i">Quam referam visas tua per suspiria gentes!&quot;</hi>
                     </l>
-                    <l n="bbwba499.1.rm.01.22" justify="left" indent="45">
+                    <l indent="45" justify="left" n="bbwba499.1.rm.01.22">
                         <hi rend="i">Valerius Flaccus.</hi>
                     </l>
                 </lg>
                 <lg justify="left">
-                    <l n="bbwba499.1.rm.01.23" justify="left">London. Printed for J.Johnson, S<hi
-                        rend="superscript">t</hi>. Paul's Church Yard, &#38; J. Edwards, Pall Mall.
+                    <l justify="left" n="bbwba499.1.rm.01.23">London. Printed for J.Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard, &amp; J. Edwards, Pall Mall.
                         1796.</l>
                 </lg>
             </phystext>
@@ -397,15 +580,15 @@
                                 signed by Blake, with the inscription on the framing flag but before
                                 all other letters, is in the collection of the E. J. Pratt Library,
                                 Victoria University, Toronto, call no. Blake Suppl. no. 566. For
-                                full descriptions, see Robert N. Essick, "Blake in the Marketplace,
-                                2014" *Blake: An Illustrated Quarterly* 48.4 (spring 2015):
+                                full descriptions, see Robert N. Essick, &quot;Blake in the Marketplace,
+                                2014&quot; *Blake: An Illustrated Quarterly* 48.4 (spring 2015):
                                 illustrations 6-10 and their captions.</p>
                         </objnote>
                         <objsize>5.5 x 7.5 cm.</objsize>
                         <windowsize height="1300" width="863"/>
                     </physdesc>
                     <illusdesc>
-                        <illustration type="plate" location="E">
+                        <illustration location="E" type="plate">
                             <illusobjdesc>In this title page vignette, five sailing ships float on a
                                 calm sea. Flags fly from the top masts of all five ships and from
                                 flagpoles on the sterns of two. Slight indications of clouds appear
@@ -413,12 +596,12 @@
                                 Reading clockwise from lower left, these are the barrel of a cannon
                                 just below Blake's signature, a rope attached to a circular (iron?)
                                 ring, the upper (wooden?) arm of the anchor pictured lower right, a
-                                long, narrow flag bearing the inscription "cuncta mea mecum" ("my
-                                all is with me") attached to a flagpole on the right, another flag
+                                long, narrow flag bearing the inscription &quot;cuncta mea mecum&quot; (&quot;my
+                                all is with me&quot;) attached to a flagpole on the right, another flag
                                 attached to a flagpole, another part of the rope, and the lower part
                                 of the anchor. The flags on the sterns of the ships and the flags in
                                 the frame are colored according to the Dutch flag.</illusobjdesc>
-                            <component type="object" location="E">
+                            <component location="E" type="object">
                                 <characteristic>ship</characteristic>
                                 <characteristic>flag</characteristic>
                                 <characteristic>sea</characteristic>
@@ -432,7 +615,7 @@
                                     in the sky. The flags on the sterns of the ships are colored
                                     according to the Dutch flag.</illusobjdesc>
                             </component>
-                            <component type="object" location="E">
+                            <component location="E" type="object">
                                 <characteristic>gun</characteristic>
                                 <characteristic>cannon</characteristic>
                                 <characteristic>flag</characteristic>
@@ -450,34 +633,36 @@
                                     left, these are the barrel of a canon just below Blake's
                                     signature, a rope attached to a circular (iron?) ring, the upper
                                     (wooden?) arm of the anchor pictured lower right, a long, narrow
-                                    flag bearing the inscription "cuncta mea mecum" ("my all is with
-                                    me") attached to a flagpole on the right, another flag attached
+                                    flag bearing the inscription &quot;cuncta mea mecum&quot; (&quot;my all is with
+                                    me&quot;) attached to a flagpole on the right, another flag attached
                                     to a flagpole, another part of the rope, and the lower part of
                                     the anchor. The Latin inscription is the family motto of J. G.
                                     Stedman, the author of the book. Both flags are colored
                                     according to the Dutch flag.</illusobjdesc>
-
-
                             </component>
                         </illustration>
                     </illusdesc>
                     <phystext>
                         <vspace extent="1"/>
                         <lg justify="left">
-                            <l n="bbwba499.1.rm.01.01" justify="left" indent="5">cuncta mea <space
-                                    extent="5"/> mecum<note><foreign lang="latin">This phrase is
-                                        Latin for "My all is with me."  This is the Stedman family motto.</foreign></note></l>
+                            <l indent="5" justify="left" n="bbwba499.1.rm.01.01">cuncta mea 
+                                <space extent="5"/>
+                                mecum
+                                <note>
+                                    <foreign lang="latin">This phrase is
+                                        Latin for &quot;My all is with me.&quot;  This is the Stedman family motto.</foreign></note>
+                            </l>
                         </lg>
                         <vspace extent="5"/>
                         <lg justify="left">
-                            <l n="bbwba499.1.rm.01.02" justify="left" indent="5">Blake</l>
+                            <l indent="5" justify="left" n="bbwba499.1.rm.01.02">Blake</l>
                         </lg>
                     </phystext>
                 </desc>
                 <desc dbi="BBWBA499.2.17-sig.crop.RM" id="bbwba499.2.rm.02">
-                    <objtitle>, <objid>
-                            <objnumber code="A1">Object 1 signature </objnumber>
-                        </objid>
+                    <objtitle>, 
+                        <objid>
+                            <objnumber code="A1">Object 1 signature </objnumber></objid>
                     </objtitle>
                     <physdesc desclevel="full">
                         <objnote>
@@ -491,23 +676,27 @@
                     <phystext>
                         <vspace extent="2"/>
                         <lg justify="left">
-                            <l n="bbwba499.1.rm.01.01" justify="left" indent="10">Blake</l>
+                            <l indent="10" justify="left" n="bbwba499.1.rm.01.01">Blake</l>
                         </lg>
                     </phystext>
                 </desc>
             </supplemental>
-
         </desc>
-        <desc id="bb499.2.comeng.02" dbi="BB499.2.1.COM">
-            <objtitle><title type="transcribed">A Coromantyn Free Negro, or Ranger, armed.</title>,
-                        <objid><objnumber code="A1">Object 2 </objnumber><objcode code="B1">(Bentley
-                        499.1)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.1.COM" id="bb499.2.comeng.02">
+            <objtitle>
+                <title type="transcribed">A Coromantyn Free Negro, or Ranger, armed.</title>,
+                        
+                <objid>
+                    <objnumber code="A1">Object 2 </objnumber>
+                    <objcode code="B1">(Bentley
+                        499.1)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.2 x 13.6 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>An male Negro ranger (as John Stedman names rebel slave soldiers)
                         stands in the foreground resting a rifle upon his left shoulder, while
                         smoking from a pipe he holds in his right hand. He wears military attire
@@ -521,7 +710,7 @@
                         with four leaves. A stand of leafy trees and two palm trees appear lower
                         left; two further trees, perhaps palms, grow on the horizon seen between the
                         foreground figure's legs.</illusobjdesc>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>soldier</characteristic>
                         <characteristic>slave</characteristic>
                         <characteristic>male</characteristic>
@@ -568,7 +757,7 @@
                             three parallel lines, which may be paint or scars. He wears military
                             attire that identifies him as a rebel slave. His cap has a small branch
                             with leaves tucked within its flap on the right. The cap is inscribed
-                            with the number "300." Short curly hair protrudes from the sides of his
+                            with the number &quot;300.&quot; Short curly hair protrudes from the sides of his
                             cap. He wears breeches, with tied bows at the knees. Two bags, or a bag
                             and a gourd or bottle, are strapped across his bare chest and rest on
                             his right hip. The straps or belts may be made of rope. A sheathed sword
@@ -576,7 +765,7 @@
                             with his left leg slightly before his right leg. His feet are prominent.
                         </illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>slave</characteristic>
                         <characteristic>African</characteristic>
@@ -610,7 +799,7 @@
                             and he may be looking and talking to the figure to the right. His right
                             arm is raised horizontally as he points to the left. </illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>slave</characteristic>
                         <characteristic>African</characteristic>
@@ -635,27 +824,27 @@
                             upon his left shoulder. He may be looking at the figure to his left.
                         </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>palm (vegetation)</characteristic>
                         <characteristic>tree</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>trunk</characteristic>
-                        <illusobjdesc> In the lower left corner, there are two tall palm trees
+                        <illusobjdesc>In the lower left corner, there are two tall palm trees
                             before a group of leafy trees. There are two additional trees, possibly
                             palms, in the far distance between the central soldiers legs.
                         </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>plant</characteristic>
                         <characteristic>grass</characteristic>
                         <characteristic>indeterminate</characteristic>
                         <characteristic>branch</characteristic>
                         <characteristic>leaf</characteristic>
-                        <illusobjdesc> The foreground appears to be covered in grass, with a larger
+                        <illusobjdesc>The foreground appears to be covered in grass, with a larger
                             plant lower left and, below the central soldier's feet, a branch with
                             four leaves. </illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>hill</characteristic>
                         <illusobjdesc>There may be a hill in the distance.</illusobjdesc>
                     </component>
@@ -663,47 +852,57 @@
             </illusdesc>
             <phystext>
                 <vspace extent="1"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.02.01" justify="left" indent="30">300 </l>
+                <lg justify="left" type="prose">
+                    <l indent="30" justify="left" n="bb499.2.comeng.02.01">300 </l>
                 </lg>
                 <vspace extent="8"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.02.02" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.02.02">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.02.03" justify="left" indent="12">A Coromantyn Free Negro,
+                <lg justify="left" type="prose">
+                    <l indent="12" justify="left" n="bb499.2.comeng.02.03">A Coromantyn Free Negro,
                         or Ranger, armed. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.02.04" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">d</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Paul's Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.02.04">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">d</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.02.05" justify="left" indent="32">7 </l>
+                <lg justify="left" type="prose">
+                    <l indent="32" justify="left" n="bb499.2.comeng.02.05">7 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.03" dbi="BB499.2.2.COM">
-            <objtitle><title type="transcribed">A Negro hung alive by the Ribs to a
-                Gallows.</title>, <objid><objnumber code="A2">Object 3 </objnumber><objcode
-                        code="B2">(Bentley 499.2)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.2.COM" id="bb499.2.comeng.03">
+            <objtitle>
+                <title type="transcribed">A Negro hung alive by the Ribs to a
+                Gallows.</title>, 
+                <objid>
+                    <objnumber code="A2">Object 3 </objnumber>
+                    <objcode code="B2">(Bentley 499.2)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>23.0 x 13.1 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>A male slave hangs from the wooden gallows by a chain and iron(?)
                         hook. His arms are bound behind him as he hangs in a contorted position. He
                         looks up as he bleeds from his rib cage. Beneath his feet, in the grassy
                         foreground, a skull (lower right corner) lies among a bone, part of a rib
                         cage, and an additional broken bone (lower left corner). At the shoreline in
                         the distance are two staked skulls. A ship sails on the seal far right. </illusobjdesc>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -734,7 +933,7 @@
                         <characteristic>eyes raised</characteristic>
                         <characteristic>ribs</characteristic>
                         <characteristic>torture</characteristic>
-                        <illusobjdesc> A muscular male African slave hangs from the wooden gallows
+                        <illusobjdesc>A muscular male African slave hangs from the wooden gallows
                             by a chained iron hook that pierces his rib cage. He bleeds from the
                             gaping wound and the blood trails over his bare chest. His arms are
                             bound (?) behind him. He faces forward, down, and to the left in a
@@ -743,18 +942,18 @@
                             eyes are raised. His right leg is extended behind his left leg.
                         </illusobjdesc>
                     </component>
-                    <component type="structure" location="AC">
+                    <component location="AC" type="structure">
                         <characteristic>wood</characteristic>
                         <characteristic>gallows</characteristic>
                         <characteristic>iron</characteristic>
                         <characteristic>nail</characteristic>
                         <characteristic>hook</characteristic>
-                        <illusobjdesc> A wooden gallows stands along the left margin of the
+                        <illusobjdesc>A wooden gallows stands along the left margin of the
                             illustration. From the center of its top piece, a nail supports the
                             chain with its iron(?) hook. There are additional nails supporting the
                             crosspieces of the gallows. </illusobjdesc>
                     </component>
-                    <component type="object" location="D">
+                    <component location="D" type="object">
                         <characteristic>skull</characteristic>
                         <characteristic>wood</characteristic>
                         <characteristic>stick</characteristic>
@@ -763,28 +962,28 @@
                         <characteristic>facing away</characteristic>
                         <characteristic>seen from behind</characteristic>
                         <characteristic>bone</characteristic>
-                        <illusobjdesc> In the middle distance, there are two skulls mounted on
+                        <illusobjdesc>In the middle distance, there are two skulls mounted on
                             wooden(?) stakes. The skull staked the closest to the viewer faces the
                             right and slightly upward. The staked skull farther in the distance
                             appears to face away from the viewer. </illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>skull</characteristic>
                         <characteristic>facing forward</characteristic>
                         <characteristic>facing left</characteristic>
                         <characteristic>bone</characteristic>
                         <characteristic>ribs</characteristic>
                         <characteristic>blood</characteristic>
-                        <illusobjdesc> A larger skull, facing forward and to the left, adorns the
+                        <illusobjdesc>A larger skull, facing forward and to the left, adorns the
                             foreground in the lower right corner. To the left are a bone, part of a
                             rib cage, and a broken bone (far left). Red hand coloring indicates
                             blood on the partial rib cage. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>grass</characteristic>
                         <illusobjdesc>The foreground is probably grassy.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
+                    <component location="D" type="object">
                         <characteristic>sea</characteristic>
                         <characteristic>shore</characteristic>
                         <characteristic>ship</characteristic>
@@ -795,37 +994,48 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.03.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.03.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.03.02" justify="left" indent="12">A Negro hung alive by the
+                <lg justify="left" type="prose">
+                    <l indent="12" justify="left" n="bb499.2.comeng.03.02">A Negro hung alive by the
                         Ribs to a Gallows. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.03.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 1.<hi rend="superscript">st</hi> 1792, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Pauls Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.03.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        1.
+                        <hi rend="superscript">st</hi>
+                        1792, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Pauls Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.03.04" justify="left" indent="33">11 </l>
+                <lg justify="left" type="prose">
+                    <l indent="33" justify="left" n="bb499.2.comeng.03.04">11 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.04" dbi="BB499.2.3.COM">
-            <objtitle><title type="transcribed">A private Marine of Col. Fourgeoud's Corps.</title>,
-                        <objid><objnumber code="A3">Object 4 </objnumber><objcode code="B3">(Bentley
-                        499.3)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.3.COM" id="bb499.2.comeng.04">
+            <objtitle>
+                <title type="transcribed">A private Marine of Col. Fourgeoud's Corps.</title>,
+                        
+                <objid>
+                    <objnumber code="A3">Object 4 </objnumber>
+                    <objcode code="B3">(Bentley
+                        499.3)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.9 x 13.5 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
-                    <illusobjdesc> A young soldier prominently stands in the center of the
+                <illustration location="E" type="plate">
+                    <illusobjdesc>A young soldier prominently stands in the center of the
                         illustration. He wears military attire (including napsack or backpack,
                         sword, pistol, and purse) and holds a rifle as he stands facing forward and
                         a bit to the left. In the far distance, two additional soldiers with rifles
@@ -833,7 +1043,7 @@
                         horizon, is a ship. To the left of central is a building, probably a fort,
                         with a flag and the small figure of a soldier, watchman, or guard. The
                         foreground is grassy with a leafy bush in the lower left corner. </illusobjdesc>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
                         <characteristic>short hair</characteristic>
@@ -867,7 +1077,7 @@
                         <characteristic>fist</characteristic>
                         <characteristic>leg bent at knee</characteristic>
                         <characteristic>shadow</characteristic>
-                        <illusobjdesc> A young Marine stands prominently in the center of the
+                        <illusobjdesc>A young Marine stands prominently in the center of the
                             illustration. He wears military attire. With his right leg slightly
                             forward, he stands as he looks forward and slightly to the left. His
                             left arm is bent, with his left fist on his hip. His right arm is
@@ -882,7 +1092,7 @@
                             left and a sprig of vegetation on the right. He casts shadows to the
                             right. </illusobjdesc>
                     </component>
-                    <component type="structure" location="C">
+                    <component location="C" type="structure">
                         <characteristic>wall</characteristic>
                         <characteristic>stone</characteristic>
                         <characteristic>fort</characteristic>
@@ -899,7 +1109,7 @@
                             walls stand two buildings, a small tower, and a flag on a pole. An
                             arched doorway appears in the wall.</illusobjdesc>
                     </component>
-                    <component type="figure" location="C">
+                    <component location="C" type="figure">
                         <characteristic>watchman</characteristic>
                         <characteristic>guard</characteristic>
                         <characteristic>soldier</characteristic>
@@ -912,7 +1122,7 @@
                             figure, probably a male watchman or guard, with his arm extended
                             slightly before him. He(?) appears to be facing right. </illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
                         <characteristic>breeches</characteristic>
@@ -952,7 +1162,7 @@
                             his hammock slung across his chest and over his left shoulder. He is
                             wearing a cap.</illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
                         <characteristic>breeches</characteristic>
@@ -975,14 +1185,14 @@
                         <characteristic>arm bent upward</characteristic>
                         <characteristic>holding</characteristic>
                         <characteristic>bending forward</characteristic>
-                        <illusobjdesc> Two soldiers in the lower right middle distance appear to be
+                        <illusobjdesc>Two soldiers in the lower right middle distance appear to be
                             walking along the coastline. The Marine to the right faces left and away
                             and bends forward slightly. His left arm is bent upward to hold the
                             rifle that rests upon his shoulder. He wears a military outfit,
                             including a cap, a coat, and breeches. He appears to have a hammock or
                             bag slung across his back. </illusobjdesc>
                     </component>
-                    <component type="object" location="D">
+                    <component location="D" type="object">
                         <characteristic>ship</characteristic>
                         <characteristic>sailing</characteristic>
                         <characteristic>sea</characteristic>
@@ -992,7 +1202,7 @@
                             sailing near the horizon of the sea. The seashore may include
                             cliffs.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>grass</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>plant</characteristic>
@@ -1003,37 +1213,48 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.04.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.04.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.04.02" justify="left" indent="12">A private Marine of Col.
+                <lg justify="left" type="prose">
+                    <l indent="12" justify="left" n="bb499.2.comeng.04.02">A private Marine of Col.
                         Fourgeoud's Corps. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.04.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">d</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Pauls Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.04.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">d</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Pauls Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.04.04" justify="left" indent="32">13 </l>
+                <lg justify="left" type="prose">
+                    <l indent="32" justify="left" n="bb499.2.comeng.04.04">13 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.05" dbi="BB499.2.4.COM">
-            <objtitle><title type="transcribed">The Mecoo &amp; Kishee Kishee Monkeys.</title>,
-                        <objid><objnumber code="A4">Object 5 </objnumber><objcode code="B4">(Bentley
-                        499.4)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.4.COM" id="bb499.2.comeng.05">
+            <objtitle>
+                <title type="transcribed">The Mecoo &amp; Kishee Kishee Monkeys.</title>,
+                        
+                <objid>
+                    <objnumber code="A4">Object 5 </objnumber>
+                    <objcode code="B4">(Bentley
+                        499.4)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.7 x 13.4 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
-                    <illusobjdesc> A large, partly barren tree takes up the left margin of the
+                <illustration location="E" type="plate">
+                    <illusobjdesc>A large, partly barren tree takes up the left margin of the
                         design. Three monkeys, one with a baby clinging to its back, are climbing in
                         the tree. A fifth monkey leaps towards a smaller tree in the lower right
                         corner of the design. The trees along with additional leafy vegetation adorn
@@ -1077,12 +1298,12 @@
                         <characteristic>arms bent</characteristic>
                         <characteristic>head towards viewer</characteristic>
                         <characteristic>leaping</characteristic>
-                        <illusobjdesc> Three monkey, one with a baby on its back, climb in the tree.
+                        <illusobjdesc>Three monkey, one with a baby on its back, climb in the tree.
                             Another monkey leaps from the large tree to a smaller one, lower right.
                             Stedman distinguishes two species of monkeys by describing the Mecoo
-                            monkey as having "a black head" and a "very long tail," whereas the
-                            Kishee-Kishee monkey has a "milk white face with a black patch in the
-                            middle" and a tail that is "black at the extremity." By using Stedman's
+                            monkey as having &quot;a black head&quot; and a &quot;very long tail,&quot; whereas the
+                            Kishee-Kishee monkey has a &quot;milk white face with a black patch in the
+                            middle&quot; and a tail that is &quot;black at the extremity.&quot; By using Stedman's
                             identifiers, it seems likely that the two monkeys occupying the top
                             section of the large tree are Mecoo monkeys and that the three monkeys
                             occupying the bottom section of the illustration are Kishee Kishee
@@ -1111,7 +1332,7 @@
                         <characteristic>leafless</characteristic>
                         <characteristic>branch</characteristic>
                         <characteristic>trunk</characteristic>
-                        <illusobjdesc> In the lower right corner, there is a small tree with a five
+                        <illusobjdesc>In the lower right corner, there is a small tree with a five
                             leaves amongst its otherwise barren branches. </illusobjdesc>
                     </component>
                     <component location="CD" type="vegetation">
@@ -1144,7 +1365,7 @@
                         <characteristic>boat</characteristic>
                         <characteristic>rowing</characteristic>
                         <characteristic>oar</characteristic>
-                        <illusobjdesc> A figure of indeterminable gender, facing left, rows a boat
+                        <illusobjdesc>A figure of indeterminable gender, facing left, rows a boat
                             down the river. Its left arm is raised horizontally and bent upward as
                             it holds the oar.</illusobjdesc>
                     </component>
@@ -1152,36 +1373,46 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.05.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.05.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.05.02" justify="left" indent="15">The Mecoo &amp; Kishee
+                <lg justify="left" type="prose">
+                    <l indent="15" justify="left" n="bb499.2.comeng.05.02">The Mecoo &amp; Kishee
                         Kishee Monkeys. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.05.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">nd</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Pauls Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.05.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">nd</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Pauls Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.05.04" justify="left" indent="33">18 </l>
+                <lg justify="left" type="prose">
+                    <l indent="33" justify="left" n="bb499.2.comeng.05.04">18 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.06" dbi="BB499.2.5.COM">
-            <objtitle><title type="transcribed">The skinning of the Aboma Snake, shot by Cap.
-                    Stedman.</title>, <objid><objnumber code="A5">Object 6 </objnumber><objcode
-                        code="B5">(Bentley 499.5)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.5.COM" id="bb499.2.comeng.06">
+            <objtitle>
+                <title type="transcribed">The skinning of the Aboma Snake, shot by Cap.
+                    Stedman.</title>, 
+                <objid>
+                    <objnumber code="A5">Object 6 </objnumber>
+                    <objcode code="B5">(Bentley 499.5)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.6 x 13.1 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>John Stedman stands in the lower left corner with his back turned
                         towards the viewer as he points upward towards the Aboma snake. He holds his
                         sheathed(?) sword with his lowered left hand. His gun with bayonet leans
@@ -1245,7 +1476,7 @@
                         <characteristic>facing forward</characteristic>
                         <characteristic>facing left</characteristic>
                         <characteristic>facing down</characteristic>
-                        <illusobjdesc> A giant and scaly Aboma snake hangs, in a noose, from a
+                        <illusobjdesc>A giant and scaly Aboma snake hangs, in a noose, from a
                             branch in the middle of the design. He faces downwards (possibly looking
                             at the slave who is hanging onto him?) with his eyes down and his tongue
                             slightly visible. Blood runs from the wound created by the knife of the
@@ -1297,7 +1528,7 @@
                         <characteristic>facing forward</characteristic>
                         <characteristic>leg bent</characteristic>
                         <characteristic>legs spread</characteristic>
-                        <illusobjdesc> Two African slaves are pulling on the end of the rope, lower
+                        <illusobjdesc>Two African slaves are pulling on the end of the rope, lower
                             right, that suspends the Aboma snake. The African furthest from the
                             viewer faces to the left as he looks forward and slightly to the left.
                             He is nude, dark-skinned, and has short, curly hair. His arms are raised
@@ -1326,7 +1557,7 @@
                         <characteristic>facing right</characteristic>
                         <characteristic>legs bent</characteristic>
                         <characteristic>legs spread</characteristic>
-                        <illusobjdesc> Two African slaves are pulling on the end of the rope, lower
+                        <illusobjdesc>Two African slaves are pulling on the end of the rope, lower
                             right, that suspends the Aboma snake. The African closest to the viewer
                             faces to the left as his face is turned towards to the right. He is
                             nude, dark-skinned, and has short, curly hair. His arms are raised
@@ -1336,13 +1567,13 @@
                     </component>
                     <component location="E" type="object">
                         <characteristic>rope</characteristic>
-                        <illusobjdesc> A rope extends diagonally across the illustration to suspend
+                        <illusobjdesc>A rope extends diagonally across the illustration to suspend
                             the Aboma snake above the ground. </illusobjdesc>
                     </component>
                     <component location="CD" type="object">
                         <characteristic>gun</characteristic>
                         <characteristic>bayonet</characteristic>
-                        <illusobjdesc> A rifle with a bayonet leans against the central
+                        <illusobjdesc>A rifle with a bayonet leans against the central
                             tree.</illusobjdesc>
                     </component>
                     <component location="E" type="vegetation">
@@ -1351,7 +1582,7 @@
                         <characteristic>branch</characteristic>
                         <characteristic>barren</characteristic>
                         <characteristic>leafless</characteristic>
-                        <illusobjdesc> A large, leafy tree with several additional barren branches
+                        <illusobjdesc>A large, leafy tree with several additional barren branches
                             stands in the center of the illustration. </illusobjdesc>
                     </component>
                     <component location="CD" type="vegetation">
@@ -1360,7 +1591,7 @@
                         <characteristic>pine</characteristic>
                         <characteristic>wilderness</characteristic>
                         <characteristic>indeterminate</characteristic>
-                        <illusobjdesc> In the distant horizon, a line of indeterminate vegetation,
+                        <illusobjdesc>In the distant horizon, a line of indeterminate vegetation,
                             perhaps including trees, extends from the left to right margins of the
                             illustration. In the far distance, along the left margin, there are two
                             tall, leafy (pine?) trees. </illusobjdesc>
@@ -1369,14 +1600,14 @@
                         <characteristic>barren</characteristic>
                         <characteristic>leafless</characteristic>
                         <characteristic>branch</characteristic>
-                        <illusobjdesc> There is a large leafless branch lying on the ground in the
+                        <illusobjdesc>There is a large leafless branch lying on the ground in the
                             lower left corner of the illustration (behind Stedman). </illusobjdesc>
                     </component>
                     <component location="CD" type="vegetation">
                         <characteristic>plant</characteristic>
                         <characteristic>lichens</characteristic>
                         <characteristic>moss</characteristic>
-                        <illusobjdesc> In the lower left corner, there is a lichen-type plant. There
+                        <illusobjdesc>In the lower left corner, there is a lichen-type plant. There
                             two additional lichen plants, one in the middle of the bottom margin,
                             and another in the lower right corner.</illusobjdesc>
                     </component>
@@ -1385,7 +1616,7 @@
                         <characteristic>plant</characteristic>
                         <characteristic>branch</characteristic>
                         <characteristic>leafless</characteristic>
-                        <illusobjdesc> The foreground appears to be grassy with a leafy plant far
+                        <illusobjdesc>The foreground appears to be grassy with a leafy plant far
                             left. Above this plant is a bare branch.</illusobjdesc>
                     </component>
                     <component location="D" type="object">
@@ -1405,7 +1636,7 @@
                         <characteristic>holding</characteristic>
                         <characteristic>rowing</characteristic>
                         <characteristic>facing right</characteristic>
-                        <illusobjdesc> In the middle distance on the lake or river is a wooden(?)
+                        <illusobjdesc>In the middle distance on the lake or river is a wooden(?)
                             boat topped with a tent-like structure. To the left of the tent, there
                             is an outline of a figure holding an oar. Given the positioning of the
                             oar, the figure is probably sitting or standing and facing right. He may
@@ -1415,42 +1646,52 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.06.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.06.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.06.02" justify="left" indent="6">The skinning of the Aboma
+                <lg justify="left" type="prose">
+                    <l indent="6" justify="left" n="bb499.2.comeng.06.02">The skinning of the Aboma
                         Snake, shot by Cap. Stedman. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.06.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">d</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Paul's Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.06.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">d</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.06.04" justify="left" indent="32">19 </l>
+                <lg justify="left" type="prose">
+                    <l indent="32" justify="left" n="bb499.2.comeng.06.04">19 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.07" dbi="BB499.2.6.COM">
-            <objtitle><title type="transcribed">Group of Negros, as imported to be sold for
-                    Slaves.</title>, <objid><objnumber code="A6">Object 7 </objnumber><objcode
-                        code="B6">(Bentley 499.6)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.6.COM" id="bb499.2.comeng.07">
+            <objtitle>
+                <title type="transcribed">Group of Negros, as imported to be sold for
+                    Slaves.</title>, 
+                <objid>
+                    <objnumber code="A6">Object 7 </objnumber>
+                    <objcode code="B6">(Bentley 499.6)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.8 x 13.2 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
-                    <illusobjdesc> According to Stedman, this is a group of twelve barely clothed
+                <illustration location="E" type="plate">
+                    <illusobjdesc>According to Stedman, this is a group of twelve barely clothed
                         African slaves walking before a sailor (far right) towards the marketplace.
                         They have arrived aboard the ship in the right background. A small dog yaps
                         at the slaves' ankles. Stones, leafy plants, and possibly grass fill the
                         foreground.</illusobjdesc>
-                    <component type="figure" location="AC">
+                    <component location="AC" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -1485,7 +1726,7 @@
                             left hand on her hip or lower back. Her right arm is bent upward,
                             holding a pipe that she smokes.</illusobjdesc>
                     </component>
-                    <component type="figure" location="A">
+                    <component location="A" type="figure">
                         <characteristic>child</characteristic>
                         <characteristic>young</characteristic>
                         <characteristic>slave</characteristic>
@@ -1508,7 +1749,7 @@
                             which is raised horizontally. The child may be carried by the figure to
                             the right, the fourth figure from the left.</illusobjdesc>
                     </component>
-                    <component type="figure" location="AC">
+                    <component location="AC" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -1548,7 +1789,7 @@
                             right hand resting on the shoulder of the leftmost figure. He may carry
                             the child above his right shoulder on his back.</illusobjdesc>
                     </component>
-                    <component type="figure" location="AC">
+                    <component location="AC" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -1572,7 +1813,7 @@
                             faces left. He is nude and has short, curly hair. His right foot is on
                             tiptoe. He may hold or carry the child to the left.</illusobjdesc>
                     </component>
-                    <component type="figure" location="AC">
+                    <component location="AC" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -1602,7 +1843,7 @@
                             on tiptoe, facing left. Her left arm is bent and held at her side. Her
                             mouth may be slightly open.</illusobjdesc>
                     </component>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -1641,7 +1882,7 @@
                             carries. She is probably the child's mother. Her breasts are
                             prominent.</illusobjdesc>
                     </component>
-                    <component type="figure" location="B">
+                    <component location="B" type="figure">
                         <characteristic>child</characteristic>
                         <characteristic>young</characteristic>
                         <characteristic>African</characteristic>
@@ -1663,7 +1904,7 @@
                             appears to be looking to the right. Its arms are raised horizontally to
                             hold onto its mother's shoulders.</illusobjdesc>
                     </component>
-                    <component type="figure" location="CD">
+                    <component location="CD" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -1696,7 +1937,7 @@
                             to point to the right. Her left arm is at her side and holds the hand of
                             a nude child. Her breasts are prominent.</illusobjdesc>
                     </component>
-                    <component type="figure" location="BD">
+                    <component location="BD" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -1714,7 +1955,7 @@
                             that of an woman with short, curly hair. She walks, facing left, but
                             looking up slightly. She may be nude or partly nude.</illusobjdesc>
                     </component>
-                    <component type="figure" location="BD">
+                    <component location="BD" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>partly nude</characteristic>
@@ -1735,7 +1976,7 @@
                             walking or standing. He has short, curly hair and bends his arms
                             slightly, while holding them at his side.</illusobjdesc>
                     </component>
-                    <component type="figure" location="BD">
+                    <component location="BD" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>dark-skinned</characteristic>
@@ -1769,7 +2010,7 @@
                             arms are bent, with her left hand resting on her hip and her right hand
                             resting on her head.</illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>African</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>child</characteristic>
@@ -1799,7 +2040,7 @@
                             side, while his right arm is raised horizontally, holding the hand of
                             the woman to his left.</illusobjdesc>
                     </component>
-                    <component type="animal" location="CD">
+                    <component location="CD" type="animal">
                         <characteristic>dog</characteristic>
                         <characteristic>barking</characteristic>
                         <characteristic>mouth open</characteristic>
@@ -1812,7 +2053,7 @@
                             faces left and appears to be mid-jump. Its mouth is open and it has a
                             collar around its neck.</illusobjdesc>
                     </component>
-                    <component type="figure" location="BD">
+                    <component location="BD" type="figure">
                         <characteristic>sailor</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>standing</characteristic>
@@ -1843,18 +2084,18 @@
                             His hair is short and curly and topped with a broad-brimmed
                             hat.</illusobjdesc>
                     </component>
-                    <component type="object" location="AB">
+                    <component location="AB" type="object">
                         <characteristic>stick</characteristic>
                         <characteristic>staff</characteristic>
                         <illusobjdesc>The sailor holds a stick or staff over the heads of the
                             slaves.</illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>shadow</characteristic>
                         <illusobjdesc>The figures on the plate cast shadows to the right on the
                             ground.</illusobjdesc>
                     </component>
-                    <component type="object" location="BD">
+                    <component location="BD" type="object">
                         <characteristic>ship</characteristic>
                         <characteristic>boat</characteristic>
                         <characteristic>pole</characteristic>
@@ -1862,7 +2103,7 @@
                             the plate. Only its three sails on three masts are
                             pictured.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>grass</characteristic>
                         <characteristic>plant</characteristic>
                         <characteristic>stone</characteristic>
@@ -1874,47 +2115,60 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.07.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.07.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.07.02" justify="left" indent="9">Group of Negros, as
+                <lg justify="left" type="prose">
+                    <l indent="9" justify="left" n="bb499.2.comeng.07.02">Group of Negros, as
                         imported to be sold for Slaves. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.07.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">d</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Paul's Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.07.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">d</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.07.04" justify="left" indent="32">22 </l>
+                <lg justify="left" type="prose">
+                    <l indent="32" justify="left" n="bb499.2.comeng.07.04">22 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.08" dbi="BB499.2.7.COM">
-            <objtitle><title type="transcribed">The Sculls of Lieu.<hi rend="superscript">t</hi>.
-                    Leppar, &amp; Six of his Men</title>, <objid><objnumber code="A7">Object 8
-                        </objnumber><objcode code="B7">(Bentley 499.7)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.7.COM" id="bb499.2.comeng.08">
+            <objtitle>
+                <title type="transcribed">The Sculls of Lieu.
+                    <hi rend="superscript">t</hi>
+                    .
+                    Leppar, &amp; Six of his Men</title>, 
+                <objid>
+                    <objnumber code="A7">Object 8</objnumber>
+                    <objcode code="B7">(Bentley 499.7)</objcode>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objnote>
                     <p>In this copy, the imprint is slightly trimmed along its bottom edge. This
                         trimming has cut off the plate number (25) below the imprint.</p>
                 </objnote>
                 <objsize>23.4 x 13.0 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>This plate illustrates the discovery made by some private Marines
                         of Col. Fourgeoud's Corps, reported to Stedman, of the skulls of Lieutenant
                         Leppar and six of his men stuck on stakes. The bodies and parts of the dead
                         mens' garments were reported to be found rotting on the ground, which helped
                         to identify the skulls. The three soldiers wear hats and hold rifles. The
                         scene is backed by bushes or trees and a cloudy sky.</illusobjdesc>
-                    <component type="object" location="E">
+                    <component location="E" type="object">
                         <characteristic>skull</characteristic>
                         <characteristic>branch</characteristic>
                         <characteristic>leafless</characteristic>
@@ -1930,7 +2184,7 @@
                             leafless branches standing upright in the ground (described as stakes in
                             Stedman). Teeth are visible on most of the skulls.</illusobjdesc>
                     </component>
-                    <component type="figure" location="CD">
+                    <component location="CD" type="figure">
                         <characteristic>soldier</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>kneeling</characteristic>
@@ -1967,7 +2221,7 @@
                             show a piece of cloth with a button held in his right hand. This cloth
                             presumably belongs to the dead men and identifies them.</illusobjdesc>
                     </component>
-                    <component type="figure" location="AC">
+                    <component location="AC" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
                         <characteristic>standing</characteristic>
@@ -2002,7 +2256,7 @@
                             is bent and held at his side; in his left hand and over his left
                             shoulder he holds a bayoneted rifle.</illusobjdesc>
                     </component>
-                    <component type="figure" location="BD">
+                    <component location="BD" type="figure">
                         <characteristic>soldier</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>standing</characteristic>
@@ -2038,7 +2292,7 @@
                             does a sheathed sword. A shadow falls on the ground to the right of
                             him.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>plant</characteristic>
                         <characteristic>grass</characteristic>
                         <characteristic>leaf</characteristic>
@@ -2047,7 +2301,7 @@
                         <illusobjdesc>The ground appears to be grassy. Leafy vegetation dots the
                             foreground. Leafy bushes or trees line the background.</illusobjdesc>
                     </component>
-                    <component type="object" location="E">
+                    <component location="E" type="object">
                         <characteristic>sky</characteristic>
                         <characteristic>cloud</characteristic>
                         <illusobjdesc>The sky backing the scene is cloudy.</illusobjdesc>
@@ -2056,28 +2310,39 @@
             </illusdesc>
             <phystext>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.08.01" justify="left" indent="10">The Sculls of Lieu<hi
-                            rend="superscript">t</hi>. Leppar, &amp; Six of his Men. </l>
+                <lg justify="left" type="prose">
+                    <l indent="10" justify="left" n="bb499.2.comeng.08.01">The Sculls of Lieu
+                        <hi rend="superscript">t</hi>
+                        . Leppar, &amp; Six of his Men. </l>
                 </lg>
                 <vspace extent="5"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.08.02" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">d</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Paul's Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.08.02">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">d</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard. </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.09" dbi="BB499.2.8.COM">
-            <objtitle><title type="transcribed">Flagellation of a Female Samboe Slave.</title>,
-                        <objid><objnumber code="A8">Object 9 </objnumber><objcode code="B8">(Bentley
-                        499.8)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.8.COM" id="bb499.2.comeng.09">
+            <objtitle>
+                <title type="transcribed">Flagellation of a Female Samboe Slave.</title>,
+                        
+                <objid>
+                    <objnumber code="A8">Object 9 </objnumber>
+                    <objcode code="B8">(Bentley
+                        499.8)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>23.0 x 13.2 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>This plate illustrates the incident in which Stedman describes
                         himself as trying to intervene in the brutal flogging of a female slave,
                         only to have her punishment (for refusing her overseer's advances) redoubled
@@ -2087,7 +2352,7 @@
                         right middle ground is the overseer, ordering his two slaves to recommence
                         the punishment. In the right background, a house or hut is pictured. Three
                         figures row a boat on the river, lower left. </illusobjdesc>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -2126,7 +2391,7 @@
                             horizontal bloody wounds visible on her skin and there are patches of
                             blood on the strip of cloth. </illusobjdesc>
                     </component>
-                    <component type="figure" location="C">
+                    <component location="C" type="figure">
                         <characteristic>Stedman, John</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
@@ -2158,7 +2423,7 @@
                             and may be pointing upward. His left leg is bent and on tiptoe. He casts
                             a shadow on the ground to his right.</illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>standing</characteristic>
                         <characteristic>pointing</characteristic>
@@ -2188,7 +2453,7 @@
                             is raised at 135 degrees and his left arm is raised at around 45 degrees
                             and bent. He casts a shadow to the right on the ground. </illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>group of figures</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
@@ -2211,7 +2476,7 @@
                         <characteristic>whip</characteristic>
                         <characteristic>facing forward</characteristic>
                         <characteristic>facing left</characteristic>
-                        <illusobjdesc>Two male slaves, described by Stedman as "Negro drivers," are
+                        <illusobjdesc>Two male slaves, described by Stedman as &quot;Negro drivers,&quot; are
                             visible in the right midground. These men walk or run to further whip
                             the woman in the center of the plate, on the overseer's orders. Each man
                             has short, curly hair and appears to be nude. Each man also holds a
@@ -2221,14 +2486,14 @@
                             forward, with both legs bent and on tiptoe. Both of his arms are raised
                             at 45 degrees but bent to hold his whip.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
+                    <component location="D" type="object">
                         <characteristic>house</characteristic>
                         <characteristic>roof</characteristic>
                         <characteristic>door</characteristic>
                         <illusobjdesc>A small house or hut with a roof and possibly a door is
                             visible in the right background of this plate.</illusobjdesc>
                     </component>
-                    <component type="object" location="C">
+                    <component location="C" type="object">
                         <characteristic>boat</characteristic>
                         <characteristic>group of figures</characteristic>
                         <characteristic>sitting</characteristic>
@@ -2240,7 +2505,7 @@
                             visible. In the boat are four figures, all facing left and bending
                             forward. Two oars are visible.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="E">
+                    <component location="E" type="vegetation">
                         <characteristic>tree</characteristic>
                         <characteristic>branch</characteristic>
                         <characteristic>leafless</characteristic>
@@ -2258,7 +2523,7 @@
                             plate. Some indeterminate leafy vegetation, perhaps trees, grows on the
                             far side of the river bank.</illusobjdesc>
                     </component>
-                    <component type="object" location="C">
+                    <component location="C" type="object">
                         <characteristic>river</characteristic>
                         <illusobjdesc>A river runs in the bottom left corner of the
                             plate.</illusobjdesc>
@@ -2267,42 +2532,52 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.09.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.09.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.09.02" justify="left" indent="14">Flagellation of a Female
+                <lg justify="left" type="prose">
+                    <l indent="14" justify="left" n="bb499.2.comeng.09.02">Flagellation of a Female
                         Samboe Slave. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.09.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">d</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Paul's Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.09.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">d</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.09.04" justify="left" indent="32">35 </l>
+                <lg justify="left" type="prose">
+                    <l indent="32" justify="left" n="bb499.2.comeng.09.04">35 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.10" dbi="BB499.2.9.COM">
-            <objtitle><title type="transcribed">The Quato &amp; Saccawinkee Monkeys.</title>,
-                        <objid><objnumber code="A9">Object 10 </objnumber><objcode code="B9"
-                        >(Bentley 499.9)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.9.COM" id="bb499.2.comeng.10">
+            <objtitle>
+                <title type="transcribed">The Quato &amp; Saccawinkee Monkeys.</title>,
+                        
+                <objid>
+                    <objnumber code="A9">Object 10 </objnumber>
+                    <objcode code="B9">(Bentley 499.9)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.6 x 13.2 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>The two leftmost monkeys hanging from the branches of a large tree
                         are probably Quato monkeys, judging from Stedman's description of them. The
                         rightmost two monkeys standing in the tree, then, would be Saccawinkee
                         monkeys. The landscape includes mountains, a river, abundant vegetation, and
                         two palm trees.</illusobjdesc>
-                    <component type="animal" location="E">
+                    <component location="E" type="animal">
                         <characteristic>monkey</characteristic>
                         <characteristic>hanging</characteristic>
                         <characteristic>tail</characteristic>
@@ -2328,7 +2603,7 @@
                             having a long tail and thin arms and legs, and covered with black hair,
                             despite its red face.</illusobjdesc>
                     </component>
-                    <component type="animal" location="B">
+                    <component location="B" type="animal">
                         <characteristic>monkey</characteristic>
                         <characteristic>standing</characteristic>
                         <characteristic>climbing</characteristic>
@@ -2348,7 +2623,7 @@
                             monkey in Guiana, with long hair, a white face, long whiskers, and a
                             striped tail.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="E">
+                    <component location="E" type="vegetation">
                         <characteristic>tree</characteristic>
                         <characteristic>trunk</characteristic>
                         <characteristic>branch</characteristic>
@@ -2358,7 +2633,7 @@
                             leafless branches grow on its trunk, although clusters of leaves are
                             visible.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>grass</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>palm (vegetation)</characteristic>
@@ -2371,7 +2646,7 @@
                             Some spiky blades of grass are visible in the right
                             foreground.</illusobjdesc>
                     </component>
-                    <component type="object" location="C">
+                    <component location="C" type="object">
                         <characteristic>river</characteristic>
                         <characteristic>mountain</characteristic>
                         <characteristic>stone</characteristic>
@@ -2383,43 +2658,53 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.10.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.10.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.10.02" justify="left" indent="15">The Quato &amp;
+                <lg justify="left" type="prose">
+                    <l indent="15" justify="left" n="bb499.2.comeng.10.02">The Quato &amp;
                         Saccawinkee Monkeys. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.10.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">nd</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Pauls Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.10.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">nd</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Pauls Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.10.04" justify="left" indent="33">42 </l>
+                <lg justify="left" type="prose">
+                    <l indent="33" justify="left" n="bb499.2.comeng.10.04">42 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.11" dbi="BB499.2.10.COM">
-            <objtitle><title type="transcribed">A Surinam Planter in his Morning Dress.</title>,
-                        <objid><objnumber code="A10">Object 11 </objnumber><objcode code="B10"
-                        >(Bentley 499.10)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.10.COM" id="bb499.2.comeng.11">
+            <objtitle>
+                <title type="transcribed">A Surinam Planter in his Morning Dress.</title>,
+                        
+                <objid>
+                    <objnumber code="A10">Object 11 </objnumber>
+                    <objcode code="B10">(Bentley 499.10)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.5 x 13.4 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>This plate illustrates the typical clothing and activities of a
                         Surinam planter in the morning. In the center of the plate stands the
                         planter, smoking a pipe. To the right of the planter stands a partly nude
                         female slave, pouring a drink for the planter. The plantation house is
                         visible in the background. The landscape includes trees or bushes on the
                         left and a river.</illusobjdesc>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>slave owner</characteristic>
                         <characteristic>standing</characteristic>
@@ -2446,17 +2731,17 @@
                         <illusobjdesc>In the center of the plate stands a male figure, who is
                             supposed to represent the typical Surinam planter in the mornings that
                             he spends on his plantation. He is dressed in what Stedman describes as
-                            "a pair of the Finest holland Trowsers, White Silk Stockings, and red or
+                            &quot;a pair of the Finest holland Trowsers, White Silk Stockings, and red or
                             Yellow Morocco Slippers, the Neck of his Shirt open and Nothing over it,
                             A Loose flowing Night Gown of the Finest India Chintz Excepted—on his
-                            head is a Cotton Night Cap...and Over that an Enormous Beaver Hat." The
+                            head is a Cotton Night Cap...and Over that an Enormous Beaver Hat.&quot; The
                             hat is furry and includes a ribbon tied in a bow. He stands facing
                             forward but looking to the right. His legs are spread and his arms are
                             at his sides, with his right hand in a pocket and his left arm bent
                             upward to hold the pipe he smokes. He casts a shadow on the ground to
                             the right.</illusobjdesc>
                     </component>
-                    <component type="figure" location="BD">
+                    <component location="BD" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>slave</characteristic>
                         <characteristic>African</characteristic>
@@ -2479,7 +2764,7 @@
                         <characteristic>holding</characteristic>
                         <characteristic>shadow</characteristic>
                         <illusobjdesc>To the right of the plantation owner stands a partly nude
-                            female figure, described by Stedman as "a female Quaderoon Slave." She
+                            female figure, described by Stedman as &quot;a female Quaderoon Slave.&quot; She
                             wears a skirt around her waist and a piece of cloth wrapped like a
                             turban around her head. She faces forward and to the left, looking at
                             the plantation owner. Her left leg is bent and on tiptoe, perhaps
@@ -2489,7 +2774,7 @@
                             is raised almost horizontally, and in her right hand she holds a
                             decanter. She casts a shadow on the ground to the right.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
+                    <component location="D" type="object">
                         <characteristic>building</characteristic>
                         <characteristic>house</characteristic>
                         <characteristic>window</characteristic>
@@ -2499,7 +2784,7 @@
                             This is likely the plantation house. Seven windows and two chimneys are
                             visible.</illusobjdesc>
                     </component>
-                    <component type="object" location="BD">
+                    <component location="BD" type="object">
                         <characteristic>wine</characteristic>
                         <characteristic>water</characteristic>
                         <characteristic>glass</characteristic>
@@ -2507,10 +2792,10 @@
                         <characteristic>plate</characteristic>
                         <illusobjdesc>The female slave holds a tray or plate on which sits a
                             half-full glass. She also holds a decanter, from which she pours into
-                            the glass. Stedman tells us that plantation owners are often served "a
-                            Glass of Maderia and Water" in the morning.</illusobjdesc>
+                            the glass. Stedman tells us that plantation owners are often served &quot;a
+                            Glass of Maderia and Water&quot; in the morning.</illusobjdesc>
                     </component>
-                    <component type="animal" location="D">
+                    <component location="D" type="animal">
                         <characteristic>dog</characteristic>
                         <characteristic>standing</characteristic>
                         <characteristic>facing right</characteristic>
@@ -2518,7 +2803,7 @@
                             the middle ground between the two figures on the plate. It may be a
                             dog.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>grass</characteristic>
                         <characteristic>plant</characteristic>
                         <characteristic>leaf</characteristic>
@@ -2535,182 +2820,204 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.11.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.11.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.11.02" justify="left" indent="14">A Surinam Planter in his
+                <lg justify="left" type="prose">
+                    <l indent="14" justify="left" n="bb499.2.comeng.11.02">A Surinam Planter in his
                         Morning Dress. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.11.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">d</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Paul's Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.11.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">d</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.11.04" justify="left" indent="32">49 </l>
+                <lg justify="left" type="prose">
+                    <l indent="32" justify="left" n="bb499.2.comeng.11.04">49 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.12" dbi="BB499.2.11.COM">
-            <objtitle><title type="transcribed">Limes, Capsicum, Mammy Apple &amp;c.</title>,
-                        <objid><objnumber code="A11">Object 12 </objnumber><objcode code="B11"
-                        >(Bentley 499.11)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.11.COM" id="bb499.2.comeng.12">
+            <objtitle>
+                <title type="transcribed">Limes, Capsicum, Mammy Apple &amp;c.</title>,
+                        
+                <objid>
+                    <objnumber code="A11">Object 12 </objnumber>
+                    <objcode code="B11">(Bentley 499.11)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.4 x 13.3 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>On this plate are images of the various fruits and foods that
                         Stedman finds on the Godefrooy's table, which he also describes as
                         restorative to health. The foods illustrated include limes, cayenne peppers,
                         pimento peppers, chili peppers (capsicum), mammee apples, leaves of the
                         mammee tree, and pistachios. </illusobjdesc>
-                    <component type="vegetation" location="AB">
+                    <component location="AB" type="vegetation">
                         <characteristic>fruit</characteristic>
                         <characteristic>branch</characteristic>
                         <characteristic>leaf</characteristic>
-                        <illusobjdesc>The fruit labeled "A" on the plate is described by Stedman as
-                            a "Sprig of Limes in full Ripeness." Three leaves, three undeveloped
+                        <illusobjdesc>The fruit labeled &quot;A&quot; on the plate is described by Stedman as
+                            a &quot;Sprig of Limes in full Ripeness.&quot; Three leaves, three undeveloped
                             limes, and three full grown limes are shown on one branch.
                         </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="B">
+                    <component location="B" type="vegetation">
                         <characteristic>fruit</characteristic>
                         <characteristic>branch</characteristic>
-                        <illusobjdesc>The fruit labeled "B" on the plate is described by Stedman as
-                            "the Cayenne or Cica pepper." A round pepper with a small stem is
+                        <illusobjdesc>The fruit labeled &quot;B&quot; on the plate is described by Stedman as
+                            &quot;the Cayenne or Cica pepper.&quot; A round pepper with a small stem is
                             shown.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="B">
+                    <component location="B" type="vegetation">
                         <characteristic>fruit</characteristic>
                         <characteristic>branch</characteristic>
-                        <illusobjdesc>The fruit labeled "C" on the plate is described by Stedman as
-                            "the Pimento Pepper or Lattacaca." Three small peppers are shown, each
+                        <illusobjdesc>The fruit labeled &quot;C&quot; on the plate is described by Stedman as
+                            &quot;the Pimento Pepper or Lattacaca.&quot; Three small peppers are shown, each
                             with a stem.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="B">
+                    <component location="B" type="vegetation">
                         <characteristic>fruit</characteristic>
                         <characteristic>branch</characteristic>
-                        <illusobjdesc>The fruit labeled "D" on the plate is described by Stedman as
-                            "the Capsicum Call'd Dago Peepee," or what we might call a chili pepper.
+                        <illusobjdesc>The fruit labeled &quot;D&quot; on the plate is described by Stedman as
+                            &quot;the Capsicum Call'd Dago Peepee,&quot; or what we might call a chili pepper.
                             A large pepper is shown, with a stem. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="E">
+                    <component location="E" type="vegetation">
                         <characteristic>fruit</characteristic>
                         <characteristic>apple</characteristic>
                         <characteristic>branch</characteristic>
                         <characteristic>leaf</characteristic>
-                        <illusobjdesc>The fruit labeled "E" on the plate is described by Stedman as
-                            "the Mammee-Apple When it is fully ripe." A large round fruit, still
+                        <illusobjdesc>The fruit labeled &quot;E&quot; on the plate is described by Stedman as
+                            &quot;the Mammee-Apple When it is fully ripe.&quot; A large round fruit, still
                             attached to a branch, is shown. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="BD">
+                    <component location="BD" type="vegetation">
                         <characteristic>leaf</characteristic>
                         <characteristic>branch</characteristic>
-                        <illusobjdesc>The leaf marked "F" on the plate is described by Stedman as
-                            "the Leaf Above [of the mammee apple tree] of a Beautiful Green." A
+                        <illusobjdesc>The leaf marked &quot;F&quot; on the plate is described by Stedman as
+                            &quot;the Leaf Above [of the mammee apple tree] of a Beautiful Green.&quot; A
                             single leaf, attached to a stem, is indicated by this label.
                         </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>leaf</characteristic>
                         <characteristic>branch</characteristic>
-                        <illusobjdesc>The leaf marked "G" on the plate is described by Stedman as
-                            "the Leaf Below [of the mammee apple tree] of a Yellowish Green." The
+                        <illusobjdesc>The leaf marked &quot;G&quot; on the plate is described by Stedman as
+                            &quot;the Leaf Below [of the mammee apple tree] of a Yellowish Green.&quot; The
                             underside of a single leaf, attached to a stem, is indicated by this
                             label. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="C">
+                    <component location="C" type="vegetation">
                         <characteristic>nut</characteristic>
-                        <illusobjdesc>Two nuts, both marked "H" on the plate, are described by
-                            Stedman as "the Pistacho nut in the Husk." </illusobjdesc>
+                        <illusobjdesc>Two nuts, both marked &quot;H&quot; on the plate, are described by
+                            Stedman as &quot;the Pistacho nut in the Husk.&quot; </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="C">
+                    <component location="C" type="vegetation">
                         <characteristic>nut</characteristic>
                         <characteristic>branch</characteristic>
-                        <illusobjdesc>Two nuts, both marked "I" on the plate, are described by
-                            Stedman as "the Ground Pistachio in its Dried State." Both nuts still
+                        <illusobjdesc>Two nuts, both marked &quot;I&quot; on the plate, are described by
+                            Stedman as &quot;the Ground Pistachio in its Dried State.&quot; Both nuts still
                             have stems attached. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="C">
+                    <component location="C" type="vegetation">
                         <characteristic>nut</characteristic>
-                        <illusobjdesc>A nut marked "K" on the plate is described by Stedman as "one
-                            of the Kernels belonging to the Latter," that is, the dried pistachio.
+                        <illusobjdesc>A nut marked &quot;K&quot; on the plate is described by Stedman as &quot;one
+                            of the Kernels belonging to the Latter,&quot; that is, the dried pistachio.
                         </illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
             <phystext>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.01" justify="left" indent="50">C </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.12.01">C </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.02" justify="left" indent="35">B </l>
+                <lg justify="left" type="prose">
+                    <l indent="35" justify="left" n="bb499.2.comeng.12.02">B </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.03" justify="left" indent="50">D </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.12.03">D </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.04" justify="left" indent="5">A </l>
+                <lg justify="left" type="prose">
+                    <l indent="5" justify="left" n="bb499.2.comeng.12.04">A </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.05" justify="left" indent="42">F</l>
-                    <l n="bb499.2.comeng.12.06" justify="left" indent="30">H</l>
-                    <l n="bb499.2.comeng.12.07" justify="left" indent="2">K</l>
+                <lg justify="left" type="prose">
+                    <l indent="42" justify="left" n="bb499.2.comeng.12.05">F</l>
+                    <l indent="30" justify="left" n="bb499.2.comeng.12.06">H</l>
+                    <l indent="2" justify="left" n="bb499.2.comeng.12.07">K</l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.08" justify="left" indent="3">I</l>
-                    <l n="bb499.2.comeng.12.09" justify="left" indent="30">G<space extent="18"
-                        />E</l>
+                <lg justify="left" type="prose">
+                    <l indent="3" justify="left" n="bb499.2.comeng.12.08">I</l>
+                    <l indent="30" justify="left" n="bb499.2.comeng.12.09">G
+                        <space extent="18"/>
+                        E</l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.10" justify="left" indent="30">H</l>
-                    <l n="bb499.2.comeng.12.11" justify="left" indent="3">I</l>
+                <lg justify="left" type="prose">
+                    <l indent="30" justify="left" n="bb499.2.comeng.12.10">H</l>
+                    <l indent="3" justify="left" n="bb499.2.comeng.12.11">I</l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.12" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.12.12">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.13" justify="left" indent="15">Limes, Capsicum, Mammy
+                <lg justify="left" type="prose">
+                    <l indent="15" justify="left" n="bb499.2.comeng.12.13">Limes, Capsicum, Mammy
                         Apple &amp;c. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.14" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">nd</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Pauls Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.12.14">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">nd</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Pauls Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.12.15" justify="left" indent="33">52 </l>
+                <lg justify="left" type="prose">
+                    <l indent="33" justify="left" n="bb499.2.comeng.12.15">52 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.13" dbi="BB499.2.12.COM">
-            <objtitle><title type="transcribed">March thro' a swamp or Marsh, in
-                    Terra-firma.</title>, <objid><objnumber code="A12">Object 13
-                        </objnumber><objcode code="B12">(Bentley
-                499.12)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.12.COM" id="bb499.2.comeng.13">
+            <objtitle>
+                <title type="transcribed">March thro' a swamp or Marsh, in
+                    Terra-firma.</title>, 
+                <objid>
+                    <objnumber code="A12">Object 13</objnumber>
+                    <objcode code="B12">(Bentley
+                499.12)</objcode>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.2 x 13.3 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>This plate illustrates one of Stedman's marches through a swamp.
                         In the bottom left corner of the image is a slave, guiding Col. Fourgeoud
                         and a group of his officers and private Marines through the swamp. Most
@@ -2719,7 +3026,7 @@
                         above the water. The background wilderness includes five palm trees; figures
                         climb in the two on the left. Water plants grow just above the bottom margin
                         of the design.</illusobjdesc>
-                    <component type="figure" location="C">
+                    <component location="C" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>slave</characteristic>
                         <characteristic>African</characteristic>
@@ -2743,7 +3050,7 @@
                             forward and to the left, but may be looking at the
                             colonel.</illusobjdesc>
                     </component>
-                    <component type="figure" location="CD">
+                    <component location="CD" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>Fourgeoud, Col.</characteristic>
                         <characteristic>soldier</characteristic>
@@ -2771,7 +3078,7 @@
                             points to the left with his right hand. He faces partly forward but
                             looks to the left.</illusobjdesc>
                     </component>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
                         <characteristic>shirt</characteristic>
@@ -2800,7 +3107,7 @@
                             on his head with his left hand. In his raised right hand he holds a
                             bayoneted rifle.</illusobjdesc>
                     </component>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
                         <characteristic>standing</characteristic>
@@ -2837,7 +3144,7 @@
                             raised, while his right arm is bent over his torso. He points to the
                             right with his right hand. He may have curly hair.</illusobjdesc>
                     </component>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
                         <characteristic>standing</characteristic>
@@ -2864,7 +3171,7 @@
                             in both hands, pointing it up and to the left. A cord or string is
                             draped over his torso.</illusobjdesc>
                     </component>
-                    <component type="figure" location="CD">
+                    <component location="CD" type="figure">
                         <characteristic>group of figures</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
@@ -2889,7 +3196,7 @@
                             wears pants. At least the two on the right carry rifles above their
                             heads.</illusobjdesc>
                     </component>
-                    <component type="figure" location="C">
+                    <component location="C" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>dark-skinned</characteristic>
@@ -2917,7 +3224,7 @@
                             faces left and his upper half faces forward. He may be looking toward
                             Col. Fourgeoud.</illusobjdesc>
                     </component>
-                    <component type="figure" location="C">
+                    <component location="C" type="figure">
                         <characteristic>group of figures</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
@@ -2948,21 +3255,21 @@
                             rightmost figure have their left arms raised at 135
                             degrees.</illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>water</characteristic>
                         <characteristic>river</characteristic>
                         <characteristic>marsh</characteristic>
                         <illusobjdesc>The figures in this scene wade through water (probably a
                             river) in a swamp or marsh.</illusobjdesc>
                     </component>
-                    <component type="object" location="AB">
+                    <component location="AB" type="object">
                         <characteristic>sky</characteristic>
                         <characteristic>dark</characteristic>
                         <characteristic>rain</characteristic>
                         <illusobjdesc>The sky backing this scene is dark and streaky, perhaps
                             indicating rain.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="E">
+                    <component location="E" type="vegetation">
                         <characteristic>grass</characteristic>
                         <characteristic>wilderness</characteristic>
                         <characteristic>plant</characteristic>
@@ -2979,7 +3286,7 @@
                             including trees, lines the background of the plate, from which rise at
                             least five palm trees.</illusobjdesc>
                     </component>
-                    <component type="figure" location="A">
+                    <component location="A" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>dark-skinned</characteristic>
@@ -3006,34 +3313,43 @@
             </illusdesc>
             <phystext>
                 <vspace extent="15"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.13.01" justify="left" indent="10">March thro' a swamp or
+                <lg justify="left" type="prose">
+                    <l indent="10" justify="left" n="bb499.2.comeng.13.01">March thro' a swamp or
                         Marsh, in Terra-firma. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.13.02" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 1.<hi rend="superscript">st</hi> 1794, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Paul's Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.13.02">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        1.
+                        <hi rend="superscript">st</hi>
+                        1794, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.13.03" justify="left" indent="32">55 </l>
+                <lg justify="left" type="prose">
+                    <l indent="32" justify="left" n="bb499.2.comeng.13.03">55 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.14" dbi="BB499.2.13.COM">
-            <objtitle><title type="transcribed">Family of Negro Slaves from Loango.</title>,
-                        <objid><objnumber code="A13">Object 14 </objnumber><objcode code="B13"
-                        >(Bentley 499.13)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.13.COM" id="bb499.2.comeng.14">
+            <objtitle>
+                <title type="transcribed">Family of Negro Slaves from Loango.</title>,
+                        
+                <objid>
+                    <objnumber code="A13">Object 14 </objnumber>
+                    <objcode code="B13">(Bentley 499.13)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.9 x 13.2 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
-                    <illusobjdesc>Stedman describes this family of slaves as "in that State of
+                <illustration location="E" type="plate">
+                    <illusobjdesc>Stedman describes this family of slaves as &quot;in that State of
                         Tranquil Happiness to Which they are all entitled When they are Well treated
-                        by their Owners." The largest figure on the plate is that of a nearly nude
+                        by their Owners.&quot; The largest figure on the plate is that of a nearly nude
                         male, clothed only by a small loincloth, and identified by Stedman as of the
                         Loango nation by the marks on his body. The man carries a large fish on a
                         string in his right hand. His left arm balances a basket of smaller fish and
@@ -3043,7 +3359,7 @@
                         hands. A nude male child clings to her skirts. In the left background, two
                         small figures are pictured near the shore of a lake or river. A hill rises
                         on the right. </illusobjdesc>
-                    <component type="figure" location="AC">
+                    <component location="AC" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>African</characteristic>
                         <characteristic>slave</characteristic>
@@ -3082,7 +3398,7 @@
                             head, set atop a fishnet. He has short, curly hair and casts a shadow to
                             the right on the ground.</illusobjdesc>
                     </component>
-                    <component type="animal" location="AC">
+                    <component location="AC" type="animal">
                         <characteristic>fish</characteristic>
                         <characteristic>basket</characteristic>
                         <characteristic>net</characteristic>
@@ -3093,7 +3409,7 @@
                             straw basket filled with at least eleven small fish and three
                             eels.</illusobjdesc>
                     </component>
-                    <component type="figure" location="BD">
+                    <component location="BD" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>mother</characteristic>
                         <characteristic>slave</characteristic>
@@ -3126,7 +3442,7 @@
                             curly hair. On her head she carries a straw basket of fruit. She casts a
                             shadow on the ground to the right.</illusobjdesc>
                     </component>
-                    <component type="object" location="BD">
+                    <component location="BD" type="object">
                         <characteristic>basket</characteristic>
                         <characteristic>straw</characteristic>
                         <characteristic>fruit</characteristic>
@@ -3143,7 +3459,7 @@
                             thread, with the aid of a weight or bell tied to the end of the
                             string.</illusobjdesc>
                     </component>
-                    <component type="figure" location="BD">
+                    <component location="BD" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>infant</characteristic>
                         <characteristic>child</characteristic>
@@ -3162,7 +3478,7 @@
                             left but looks to the right. His left arm is bent and holds onto his
                             mother's upper arm.</illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>child</characteristic>
                         <characteristic>African</characteristic>
@@ -3194,7 +3510,7 @@
                             raised between the horizontal and 135 degrees. He casts a shadow on the
                             ground to the right.</illusobjdesc>
                     </component>
-                    <component type="figure" location="C">
+                    <component location="C" type="figure">
                         <characteristic>group of figures</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
@@ -3227,7 +3543,7 @@
                             45 degrees. He holds a stick, perhaps a fishing pole, in his right hand.
                             Both figures appear to have short hair.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>leaf</characteristic>
                         <characteristic>grass</characteristic>
                         <characteristic>plant</characteristic>
@@ -3237,7 +3553,7 @@
                             dotting it. Trees or bushes appear on the far side of the river bank.
                         </illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>lake</characteristic>
                         <characteristic>shore</characteristic>
                         <characteristic>hill</characteristic>
@@ -3249,41 +3565,51 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.14.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.14.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.14.02" justify="left" indent="14">Family of Negro Slaves
+                <lg justify="left" type="prose">
+                    <l indent="14" justify="left" n="bb499.2.comeng.14.02">Family of Negro Slaves
                         from Loango. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.14.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 1<hi rend="superscript">st</hi> 1792, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Pauls Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.14.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        1
+                        <hi rend="superscript">st</hi>
+                        1792, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Pauls Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.14.04" justify="left" indent="32">68 </l>
+                <lg justify="left" type="prose">
+                    <l indent="32" justify="left" n="bb499.2.comeng.14.04">68 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.15" dbi="BB499.2.14.COM">
-            <objtitle><title type="transcribed">The Execution of Breaking on the Rack.</title>,
-                        <objid><objnumber code="A14">Object 15 </objnumber><objcode code="B14"
-                        >(Bentley 499.14)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.14.COM" id="bb499.2.comeng.15">
+            <objtitle>
+                <title type="transcribed">The Execution of Breaking on the Rack.</title>,
+                        
+                <objid>
+                    <objnumber code="A14">Object 15 </objnumber>
+                    <objcode code="B14">(Bentley 499.14)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.9 x 13.2 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>This plate shows a male African slave or former slave being broken
                         on the rack by a black executioner. A dead body hangs from a gallows in the
                         background. An ax and a severed hand appear in the foreground; the
                         background includes two palm trees. </illusobjdesc>
-                    <component type="figure" location="CD">
+                    <component location="CD" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>dark-skinned</characteristic>
                         <characteristic>African</characteristic>
@@ -3318,7 +3644,7 @@
                             number of wounds on his body. He faces up, but looks forward. His body
                             position suggests crucifixion.</illusobjdesc>
                     </component>
-                    <component type="object" location="E">
+                    <component location="E" type="object">
                         <characteristic>stick</characteristic>
                         <characteristic>cross</characteristic>
                         <characteristic>wood</characteristic>
@@ -3329,7 +3655,7 @@
                             star-shaped structure. The ax used to sever his hand lies on the ground.
                             The executioner holds a long stick in his hands.</illusobjdesc>
                     </component>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>dark-skinned</characteristic>
                         <characteristic>African</characteristic>
@@ -3362,7 +3688,7 @@
                             His arms are raised above his head, bent to hold a stick with which he
                             breaks the bones of the man he is executing. </illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>grass</characteristic>
                         <characteristic>tree</characteristic>
                         <characteristic>palm (vegetation)</characteristic>
@@ -3371,7 +3697,7 @@
                             in the right background. Hills are visible in the left
                             background.</illusobjdesc>
                     </component>
-                    <component type="figure" location="C">
+                    <component location="C" type="figure">
                         <characteristic>gallows</characteristic>
                         <characteristic>wood</characteristic>
                         <characteristic>male</characteristic>
@@ -3388,35 +3714,44 @@
             </illusdesc>
             <phystext>
                 <vspace extent="15"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.15.01" justify="left" indent="14">The Execution of Breaking
+                <lg justify="left" type="prose">
+                    <l indent="14" justify="left" n="bb499.2.comeng.15.01">The Execution of Breaking
                         on the Rack. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.15.02" justify="left">London. Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">d</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Paul's Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.15.02">London. Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">d</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.15.03" justify="left" indent="32">71 </l>
+                <lg justify="left" type="prose">
+                    <l indent="32" justify="left" n="bb499.2.comeng.15.03">71 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.16" dbi="BB499.2.15.COM">
-            <objtitle><title type="transcribed">The celebrated Graman Quacy.</title>,
-                        <objid><objnumber code="A15">Object 16 </objnumber><objcode code="B15"
-                        >(Bentley 499.15)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.15.COM" id="bb499.2.comeng.16">
+            <objtitle>
+                <title type="transcribed">The celebrated Graman Quacy.</title>,
+                        
+                <objid>
+                    <objnumber code="A15">Object 16 </objnumber>
+                    <objcode code="B15">(Bentley 499.15)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.7 x 13.3 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <physdesc>
                 <objsize>22.7 x 13.3 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
+                <illustration location="E" type="plate">
                     <illusobjdesc>This plate presents a portrait of Graman Quacy (or Qwacy), a
                         formerly enslaved black man who earned his freedom and continued to make a
                         living from slaves, free men, and plantation owners alike on his reputation
@@ -3425,7 +3760,7 @@
                         appears a walled fort, with two figures standing near cannons in the left
                         middle ground and a troop of soldiers marching or shooting in formation in
                         the right foreground. A sliver of the sea with a ship is visible far right. </illusobjdesc>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>male</characteristic>
                         <characteristic>dark-skinned</characteristic>
                         <characteristic>African</characteristic>
@@ -3468,7 +3803,7 @@
                             are at his sides but bent, with his right arm bent
                             upward.</illusobjdesc>
                     </component>
-                    <component type="figure" location="C">
+                    <component location="C" type="figure">
                         <characteristic>group of figures</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
@@ -3484,7 +3819,7 @@
                             a cannon. Each figure has his right leg bent and holds his right arm at
                             his side, bent slightly upward.</illusobjdesc>
                     </component>
-                    <component type="figure" location="D">
+                    <component location="D" type="figure">
                         <characteristic>group of figures</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>soldier</characteristic>
@@ -3502,14 +3837,14 @@
                             officer facing left. The soldiers hold guns and may wear hats. The
                             thirteenth figure appears to be walking to the left.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
+                    <component location="D" type="object">
                         <characteristic>sea</characteristic>
                         <characteristic>ship</characteristic>
                         <characteristic>boat</characteristic>
                         <illusobjdesc>In the right background, a ship with masts is visible on the
                             sea.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="E">
+                    <component location="E" type="vegetation">
                         <characteristic>grass</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>indeterminate</characteristic>
@@ -3520,7 +3855,7 @@
                             perimeter of the drilling ground, above which rise at least ten
                             trees.</illusobjdesc>
                     </component>
-                    <component type="structure" location="CD">
+                    <component location="CD" type="structure">
                         <characteristic>building</characteristic>
                         <characteristic>tent</characteristic>
                         <characteristic>window</characteristic>
@@ -3534,7 +3869,7 @@
                             with a door or portcullis. The roof of a building or a tent can be seen
                             on the horizon between the main figure's legs.</illusobjdesc>
                     </component>
-                    <component type="structure" location="D">
+                    <component location="D" type="structure">
                         <characteristic>stone</characteristic>
                         <characteristic>turret</characteristic>
                         <characteristic>roof</characteristic>
@@ -3557,45 +3892,55 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.16.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.16.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.16.02" justify="left" indent="17">The celebrated Graman
+                <lg justify="left" type="prose">
+                    <l indent="17" justify="left" n="bb499.2.comeng.16.02">The celebrated Graman
                         Quacy. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.16.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 2.<hi rend="superscript">nd</hi> 1793, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Paul's Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.16.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        2.
+                        <hi rend="superscript">nd</hi>
+                        1793, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Paul's Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.16.04" justify="left" indent="33">76 </l>
+                <lg justify="left" type="prose">
+                    <l indent="33" justify="left" n="bb499.2.comeng.16.04">76 </l>
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb499.2.comeng.17" dbi="BB499.2.16.COM">
-            <objtitle><title type="transcribed">Europe supported by Africa &amp; America.</title>,
-                        <objid><objnumber code="A16">Object 17 </objnumber><objcode code="B16"
-                        >(Bentley 499.16)</objcode></objid></objtitle>
+        <desc dbi="BB499.2.16.COM" id="bb499.2.comeng.17">
+            <objtitle>
+                <title type="transcribed">Europe supported by Africa &amp; America.</title>,
+                        
+                <objid>
+                    <objnumber code="A16">Object 17 </objnumber>
+                    <objcode code="B16">(Bentley 499.16)</objcode></objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.9 x 13.1 cm.</objsize>
-                <windowsize width="575" height="750"/>
+                <windowsize height="750" width="575"/>
             </physdesc>
             <illusdesc>
-                <illustration type="plate" location="E">
-                    <illusobjdesc>This plate represents what Stedman calls "an Emblematical Picture
-                        of Europe Supported by Africa &amp; America." A nude European woman stands
+                <illustration location="E" type="plate">
+                    <illusobjdesc>This plate represents what Stedman calls &quot;an Emblematical Picture
+                        of Europe Supported by Africa &amp; America.&quot; A nude European woman stands
                         in the center of the plate, with her genitals covered by her long hair. She
                         leans on the woman to the right, supposed to be a nude Native American
                         woman, wearing only a gold band around each upper arm. On the left of the
                         group stands a nude African woman, wearing only a gold band on each upper
                         arm; she holds the European woman's hand and embraces her. Three roses(?)
                         grow at the women's feet. Mountains rise in the distance. </illusobjdesc>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>Europe</characteristic>
@@ -3625,7 +3970,7 @@
                             raised horizontally and rests on the shoulders of the Native American
                             woman to the right. She may be smiling.</illusobjdesc>
                     </component>
-                    <component type="figure" location="E">
+                    <component location="E" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>Africa</characteristic>
@@ -3660,7 +4005,7 @@
                             European woman to the right; her left hand holds the European woman's
                             left side. She may be smiling.</illusobjdesc>
                     </component>
-                    <component type="figure" location="BD">
+                    <component location="BD" type="figure">
                         <characteristic>female</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>America</characteristic>
@@ -3694,7 +4039,7 @@
                             right hand rests on the European woman's right shoulder. She may be
                             smiling.</illusobjdesc>
                     </component>
-                    <component type="object" location="E">
+                    <component location="E" type="object">
                         <characteristic>vine</characteristic>
                         <characteristic>rope</characteristic>
                         <characteristic>garland</characteristic>
@@ -3702,11 +4047,11 @@
                             end is held in the European woman's left hand and its left end is draped
                             over the African woman's right forearm.</illusobjdesc>
                     </component>
-                    <component type="object" location="CD">
+                    <component location="CD" type="object">
                         <characteristic>mountain</characteristic>
                         <illusobjdesc>Mountains are visible in the background.</illusobjdesc>
                     </component>
-                    <component type="vegetation" location="CD">
+                    <component location="CD" type="vegetation">
                         <characteristic>rose</characteristic>
                         <characteristic>flower</characteristic>
                         <characteristic>leaf</characteristic>
@@ -3723,23 +4068,29 @@
             </illusdesc>
             <phystext>
                 <vspace extent="10"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.17.01" justify="left" indent="50">Blake Sculp<hi
-                            rend="superscript">t</hi>. </l>
+                <lg justify="left" type="prose">
+                    <l indent="50" justify="left" n="bb499.2.comeng.17.01">Blake Sculp
+                        <hi rend="superscript">t</hi>
+                        . </l>
                 </lg>
                 <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.17.02" justify="left" indent="13">Europe supported by
+                <lg justify="left" type="prose">
+                    <l indent="13" justify="left" n="bb499.2.comeng.17.02">Europe supported by
                         Africa &amp; America. </l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.17.03" justify="left">London, Published Dec.<hi
-                            rend="superscript">r</hi> 1.<hi rend="superscript">st</hi> 1792, by J.
-                        Johnson, S<hi rend="superscript">t</hi>. Pauls Church Yard. </l>
+                <lg justify="left" type="prose">
+                    <l justify="left" n="bb499.2.comeng.17.03">London, Published Dec.
+                        <hi rend="superscript">r</hi>
+                        1.
+                        <hi rend="superscript">st</hi>
+                        1792, by J.
+                        Johnson, S
+                        <hi rend="superscript">t</hi>
+                        . Pauls Church Yard. </l>
                 </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb499.2.comeng.17.04" justify="left" indent="33">80 </l>
+                <lg justify="left" type="prose">
+                    <l indent="33" justify="left" n="bb499.2.comeng.17.04">80 </l>
                 </lg>
             </phystext>
         </desc>

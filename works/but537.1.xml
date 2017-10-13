@@ -1,67 +1,745 @@
-<!--Step 3 conversion -Data modification/normalization  datamodsblake.xsl 2005-07-07T15:01:49-04:00 Aziza Technology Associates--><!-- Step 2 Conversion to BAD DTD 2004 using modblake.pl Mon Jun 27 14:35:47 2005 Aziza Technology Associates--><bad id="but537.1" type="wc" work="Illustrations to Milton's Paradise Lost" copy="The Linnell Set" copyid="1" institution="fitzwilliam ngvic" catalog="butlin" catid="537"><header><filedesc><titlestmt><title reg="Illustrations to Milton's “Paradise Lost”"><main>Illustrations to Milton's “Paradise Lost”</main><set>The Linnell Set</set>: electronic edition
-</title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of
+<!--Step 3 conversion -Data modification/normalization  datamodsblake.xsl 2005-07-07T15:01:49-04:00 Aziza Technology Associates-->
+<!-- Step 2 Conversion to BAD DTD 2004 using modblake.pl Mon Jun 27 14:35:47 2005 Aziza Technology Associates-->
+<bad catalog="butlin" catid="537" copy="The Linnell Set" copyid="1" id="but537.1" institution="fitzwilliam ngvic" type="wc" work="Illustrations to Milton's Paradise Lost">
+  <header>
+    <filedesc>
+      <titlestmt>
+        <title reg="Illustrations to Milton's “Paradise Lost”">
+          <main>Illustrations to Milton's “Paradise Lost”</main>
+          <set>The Linnell Set</set>: electronic edition</title>
+        <principal>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of
 Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal><respstmt><resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>William Shaw</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Sarah Jones, </name><name>Kari Kraus, </name><name>Wesley N. Raabe, </name><name>Ashley Reed, </name><name>Wayne C. Ripley</name></respstmt><sponsor>The Institute for Advanced Technology in the Humanities, the
+
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+
+          <name>Joseph Viscomi</name>
+          , University of North Carolina at Chapel Hill</principal>
+        <respstmt>
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>William Shaw</name>
+          <resp>Project Assistants: </resp>
+          <name>Christopher N. Jackson, </name>
+          <name>Sarah Jones, </name>
+          <name>Kari Kraus, </name>
+          <name>Wesley N. Raabe, </name>
+          <name>Ashley Reed, </name>
+          <name>Wayne C. Ripley</name>
+        </respstmt>
+        <sponsor>The Institute for Advanced Technology in the Humanities, the
                Library of Congress, and the University of North Carolina at Chapel Hill
-            </sponsor><funder>National Endowment for the Humanities, 2000-02</funder><funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder><funder>Getty Grant Program, 1995-98</funder><funder>Sun Microsystems, 1995-2007, hardware and software grants</funder><funder>Inso Corporation, software grant</funder></titlestmt><editionstmt>Blake Archive Description DTD Version 2004</editionstmt><extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 65KB; 16 JPEG (ISO/IEC
+            </sponsor>
+        <funder>National Endowment for the Humanities, 2000-02</funder>
+        <funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder>
+        <funder>Getty Grant Program, 1995-98</funder>
+        <funder>Sun Microsystems, 1995-2007, hardware and software grants</funder>
+        <funder>Inso Corporation, software grant</funder>
+      </titlestmt>
+      <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
+      <extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 65KB; 16 JPEG (ISO/IEC
 10918)
-files ranging in size from 135KB to 1000KB</extent><publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH</publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><notesstmt/></filedesc><userestrict>Copyright © <date>2007</date> by Morris Eaves, Robert N. Essick,
+files ranging in size from 135KB to 1000KB</extent>
+      <publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH</publicationstmt>
+      <seriesstmt>The William Blake Archive</seriesstmt>
+      <notesstmt/>
+    </filedesc>
+    <userestrict>Copyright © 
+      <date>2007</date>
+      by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved.  Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
 express written consent from the editors and advance notification of the
 publisher.
 Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/><lb/>
-This image copyright © 2007 National Gallery of Victoria (Objects 1-2), Fitzwilliam Museum (Object 3).</userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Republication in full mode</change><date>September 2011</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark Crosby</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee, </name><resp>Project Assistants: </resp><name>Esther Arnold, </name><name>Kate Attkisson, </name><name>Laura Bell, </name><name>Lauren Cameron, </name><name>Katherine Carlson, </name><name>Cassandra Etter-Wenzel, </name><name>Andrea Everett, </name><name>Joseph Fletcher, </name><name>Elizabeth Goodfellow, </name><name>Ali McGhee, </name><name>Jennifer Park, </name><name>Adair Rispoli, </name><name>Sarah Shaw, </name><name>Hardeep Sidhu, </name><name>Sarah Tolf, </name><name>Nikolaus Wasmoen, </name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Illustration description creation</change><date>July 2009</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Assistants: </resp><name>Esther Arnold, </name><name>Kate Attkisson, </name><name>Lauren Cameron, </name><name>Andrea Everett, </name><name>Michelle Langston, </name><name>Rachel Lee, </name><name>Ali McGhee, </name><name>Jennifer Park, </name><name>Wayne C. Ripley, </name><name>Adair Rispoli, </name><name>Sarah Shaw, </name><name>Sarah Tolf</name></respstmt></changestmt><changestmt><change>Conversion to XML and Blake Archive Description DTD 2005</change><date>2007</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-<resp>Project Manager and Technical Editor: </resp><name>William Shaw</name><resp>Conversion: </resp><name>Aziza Technology Associates</name><resp>Project Manager: </resp><name>Justin Van Kleeck</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Sarah Jones, </name><name>Wesley N. Raabe, </name><name>Ashely Reed, </name><name>Wayne C. Ripley</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title>*Illustrations to Milton's “Paradise Lost”*, The Linnell Set</title></objtitle><origination>William Blake <role>author, </role><role>inventor, </role><role>delineator, </role><role>colorist</role></origination><compdate value="1822">1822<note>The date of composition is established by stylistic considerations and by a reference in John Linnell's journal that Blake “began copies from his Drawings from Milton's P.L.” on 9 May 1822.  The drawings Blake began to copy were probably those comprising the Butts set of *Paradise Lost* illustrations.</note></compdate></objdescid><objinfo><numberobj>3</numberobj><objorder>1-3</objorder><objsize>each approximately 51.0 x 38.0 cm.</objsize><numberleaves>3</numberleaves><leafsize>approximately 52.0 x 39.5 cm.</leafsize><medium>pen and water color</medium><support>wove paper</support><watermark>none recorded</watermark><pennednumbers>none</pennednumbers><framelines>Objects 1 and 2 have single framing lines around all four sides of the designs.  The framing lines in Object 3 may have been trimmed away, except where still visible along the top and bottom margins.</framelines></objinfo><provenance n="1"><name>National Gallery of Victoria (Objects 1-2), Fitzwilliam Museum (Object 3)</name><date>Objects 1-2 acquired by the National Gallery of Victoria in 1920; Object 3 acquired by the Fitzwilliam Museum in 1950.</date><dealer>See the note on provenance, below.</dealer><price>See the note on provenance, below.</price><note>Acquired directly from Blake, and probably commissioned, by John Linnell, c. 1822; sold from Linnell's collection, Christie's, 15 March 1918, lots 152 (Object 2, £441 to the dealer Martin), 153 (Object 1, £346.10s. to the dealer Martin), and 154 (Object 3, £399 to Carfax &amp; Co. acting for T. H. Riches).  Objects 1 and 2 were acquired by Martin on behalf of the Felton Bequest for presentation to the National Gallery of Victoria in 1920.  Object 3 was bequeathed by Riches to the Fitzwilliam Museum in 1935, with a life-interest to his widow; the work was received by the Fitzwilliam in 1950.</note></provenance><repository><institution>National Gallery of Victoria</institution><addressline>PO Box 7259</addressline><addressline>Melbourne, Victoria 8004</addressline><addressline>Australia</addressline><addressline>Telephone: 3-8620-2222</addressline><addressline>Fax: 3-8620-2555</addressline><addressline>email: enquiries@ngv.vic.gov.au</addressline><addressline>URL: http://www.ngv.vic.gov.au/</addressline><department>Prints and Drawings</department><repositoryid label="Accession numbers">1025/3 (Object 1) and 1024/3 (Object 2)</repositoryid><lb/><institution>Fitzwilliam Museum</institution><addressline>Trumpington Street</addressline><addressline>Cambridge CB2 1RB</addressline><addressline>United Kingdom</addressline><addressline>Telephone: 01223-332900</addressline><addressline>Fax: 01223-332923</addressline><addressline>email: fitzmuseum-pdp@lists.cam.ac.uk</addressline><addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline><department>Paintings, Drawings and Prints</department><repositoryid label="Accession number">PD.49-1950 (Object 3)</repositoryid></repository></source><desc id="but537.1.wc.01" dbi="BUT537.1.1.WC"><objtitle><title type="transcribed">Satan Watching the Endearments of Adam and Eve</title>,
-<objid><objnumber code="A1">Object 1 </objnumber><objcode code="U1">(Butlin 537.1)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>51.4 x 39.3 cm.</objsize><windowsize height="900" width="707"/></physdesc><related objectid="but529.1.wc.05"/><related objectid="but536.1.wc.04"/><illusdesc><illustration type="plate" location="E"><illusobjdesc>Adam and Eve kiss while embracing in Eden.  Both figures are nude, and Adam wears a crown or wreath of flowers on his head.  The couple sits on a mound or bed of flowers and leaves; Eve rests on a particularly large leaf.  
+granted by the owners of the originals for this publication only.
+      <lb/>
+      <lb/>
+      This image copyright © 2007 National Gallery of Victoria (Objects 1-2), Fitzwilliam Museum (Object 3).</userestrict>
+    <encodingdesc/>
+    <profiledesc/>
+    <revisiondesc>
+      <changestmt>
+        <change>Republication in full mode</change>
+        <date>September 2011</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Bibliographer:</resp>
+          <name>Mark Crosby</name>
+          <resp>Project Coordinator, University of Rochester:</resp>
+          <name>Rachel Lee, </name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold, </name>
+          <name>Kate Attkisson, </name>
+          <name>Laura Bell, </name>
+          <name>Lauren Cameron, </name>
+          <name>Katherine Carlson, </name>
+          <name>Cassandra Etter-Wenzel, </name>
+          <name>Andrea Everett, </name>
+          <name>Joseph Fletcher, </name>
+          <name>Elizabeth Goodfellow, </name>
+          <name>Ali McGhee, </name>
+          <name>Jennifer Park, </name>
+          <name>Adair Rispoli, </name>
+          <name>Sarah Shaw, </name>
+          <name>Hardeep Sidhu, </name>
+          <name>Sarah Tolf, </name>
+          <name>Nikolaus Wasmoen, </name>
+          <name>Bihan Zhang</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Illustration description creation</change>
+        <date>July 2009</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+                    
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+                    
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+                    
+          <resp>Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Project Manager: </resp>
+          <name>Ashley Reed</name>
+          <resp>Project Assistants: </resp>
+          <name>Esther Arnold, </name>
+          <name>Kate Attkisson, </name>
+          <name>Lauren Cameron, </name>
+          <name>Andrea Everett, </name>
+          <name>Michelle Langston, </name>
+          <name>Rachel Lee, </name>
+          <name>Ali McGhee, </name>
+          <name>Jennifer Park, </name>
+          <name>Wayne C. Ripley, </name>
+          <name>Adair Rispoli, </name>
+          <name>Sarah Shaw, </name>
+          <name>Sarah Tolf</name></respstmt>
+      </changestmt>
+      <changestmt>
+        <change>Conversion to XML and Blake Archive Description DTD 2005</change>
+        <date>2007</date>
+        <respstmt>
+          <resp>Editors: </resp>
+          <name>Morris Eaves, </name>University of Rochester;
+
+          <name>Robert Essick, </name>
+          University of California, Riverside; and
+
+          <name>Joseph Viscomi, </name>
+          University of North Carolina at Chapel Hill
+
+          <resp>Project Manager and Technical Editor: </resp>
+          <name>William Shaw</name>
+          <resp>Conversion: </resp>
+          <name>Aziza Technology Associates</name>
+          <resp>Project Manager: </resp>
+          <name>Justin Van Kleeck</name>
+          <resp>Project Assistants: </resp>
+          <name>Christopher N. Jackson, </name>
+          <name>Sarah Jones, </name>
+          <name>Wesley N. Raabe, </name>
+          <name>Ashely Reed, </name>
+          <name>Wayne C. Ripley</name></respstmt>
+      </changestmt>
+    </revisiondesc>
+  </header>
+  <objdesc>
+    <source>
+      <objdescid>
+        <objtitle>
+          <title>*Illustrations to Milton's “Paradise Lost”*, The Linnell Set</title>
+        </objtitle>
+        <origination>William Blake 
+          <role>author, </role>
+          <role>inventor, </role>
+          <role>delineator, </role>
+          <role>colorist</role></origination>
+        <compdate value="1822">1822
+          <note>The date of composition is established by stylistic considerations and by a reference in John Linnell's journal that Blake “began copies from his Drawings from Milton's P.L.” on 9 May 1822.  The drawings Blake began to copy were probably those comprising the Butts set of *Paradise Lost* illustrations.</note></compdate>
+      </objdescid>
+      <objinfo>
+        <numberobj>3</numberobj>
+        <objorder>1-3</objorder>
+        <objsize>each approximately 51.0 x 38.0 cm.</objsize>
+        <numberleaves>3</numberleaves>
+        <leafsize>approximately 52.0 x 39.5 cm.</leafsize>
+        <medium>pen and water color</medium>
+        <support>wove paper</support>
+        <watermark>none recorded</watermark>
+        <pennednumbers>none</pennednumbers>
+        <framelines>Objects 1 and 2 have single framing lines around all four sides of the designs.  The framing lines in Object 3 may have been trimmed away, except where still visible along the top and bottom margins.</framelines>
+      </objinfo>
+      <provenance n="1">
+        <name>National Gallery of Victoria (Objects 1-2), Fitzwilliam Museum (Object 3)</name>
+        <date>Objects 1-2 acquired by the National Gallery of Victoria in 1920; Object 3 acquired by the Fitzwilliam Museum in 1950.</date>
+        <dealer>See the note on provenance, below.</dealer>
+        <price>See the note on provenance, below.</price>
+        <note>Acquired directly from Blake, and probably commissioned, by John Linnell, c. 1822; sold from Linnell's collection, Christie's, 15 March 1918, lots 152 (Object 2, £441 to the dealer Martin), 153 (Object 1, £346.10s. to the dealer Martin), and 154 (Object 3, £399 to Carfax &amp; Co. acting for T. H. Riches).  Objects 1 and 2 were acquired by Martin on behalf of the Felton Bequest for presentation to the National Gallery of Victoria in 1920.  Object 3 was bequeathed by Riches to the Fitzwilliam Museum in 1935, with a life-interest to his widow; the work was received by the Fitzwilliam in 1950.</note>
+      </provenance>
+      <repositories>
+      <repository>
+        <institution>National Gallery of Victoria</institution>
+        <addressline>PO Box 7259</addressline>
+        <addressline>Melbourne, Victoria 8004</addressline>
+        <addressline>Australia</addressline>
+        <addressline>Telephone: 3-8620-2222</addressline>
+        <addressline>Fax: 3-8620-2555</addressline>
+        <addressline>email: enquiries@ngv.vic.gov.au</addressline>
+        <addressline>URL: http://www.ngv.vic.gov.au/</addressline>
+        <department>Prints and Drawings</department>
+        <repositoryid label="Accession numbers">1025/3 (Object 1) and 1024/3 (Object 2)</repositoryid>
+        </repository>
+        <repository>
+        <institution>Fitzwilliam Museum</institution>
+        <addressline>Trumpington Street</addressline>
+        <addressline>Cambridge CB2 1RB</addressline>
+        <addressline>United Kingdom</addressline>
+        <addressline>Telephone: 01223-332900</addressline>
+        <addressline>Fax: 01223-332923</addressline>
+        <addressline>email: fitzmuseum-pdp@lists.cam.ac.uk</addressline>
+        <addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline>
+        <department>Paintings, Drawings and Prints</department>
+        <repositoryid label="Accession number">PD.49-1950 (Object 3)</repositoryid>
+      </repository>
+    </repositories>
+    </source>
+    <desc dbi="BUT537.1.1.WC" id="but537.1.wc.01">
+      <objtitle>
+        <title type="transcribed">Satan Watching the Endearments of Adam and Eve</title>,
+
+        <objid>
+          <objnumber code="A1">Object 1 </objnumber>
+          <objcode code="U1">(Butlin 537.1)</objcode></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objsize>51.4 x 39.3 cm.</objsize>
+        <windowsize height="900" width="707"/>
+      </physdesc>
+      <related objectid="but529.1.wc.05"/>
+      <related objectid="but536.1.wc.04"/>
+      <illusdesc>
+        <illustration location="E" type="plate">
+          <illusobjdesc>Adam and Eve kiss while embracing in Eden.  Both figures are nude, and Adam wears a crown or wreath of flowers on his head.  The couple sits on a mound or bed of flowers and leaves; Eve rests on a particularly large leaf.  
                   Large plants bearing leaves (laurel, according to Milton's poem) and slender branches bearing twenty rose blossoms rise left and right of the couple and arch over them.  Other plants cover the ground below the 
                   couple, including several lily-like flowers.  Satan flies or hovers on wings above Adam and Eve with his body horizontal.  A serpent covered in scales encircles Satan's hips, left 
                   leg, and right arm.  Satan and the serpent (or his own serpent-self) look at each other, much as Adam and Eve gaze at each other below.  On the right of the design, the sun is visible on the horizon above the sea, suggesting sunrise or sunset.  Beams of light emanate from the sun.  The moon appears near the left border of the 
-                  design and eight stars appear in the sky and on (or in front of or seen through) Satan's body and wings.</illusobjdesc><component type="figure" location="E"><characteristic>male</characteristic><characteristic>Adam</characteristic><characteristic>muscular</characteristic><characteristic>nude</characteristic><characteristic>sitting</characteristic><characteristic>legs bent</characteristic><characteristic>leg extended</characteristic><characteristic>leg drawn up</characteristic><characteristic>arms bent</characteristic><characteristic>arm bent upward</characteristic><characteristic>arm at side</characteristic><characteristic>holding</characteristic><characteristic>touching</characteristic><characteristic>embracing</characteristic><characteristic>fingers spread</characteristic><characteristic>kissing</characteristic><characteristic>facing forward</characteristic><characteristic>facing left</characteristic><characteristic>looking</characteristic><characteristic>curly hair</characteristic><characteristic>crown</characteristic><characteristic>garland</characteristic><characteristic>flower</characteristic><characteristic>lily</characteristic><illusobjdesc>Adam and Eve kiss while seated on a bed of flowers.  Adam is muscular and nude; he faces forward with his head turned to the left in profile as he looks intently at Eve.  Adam wears a crown  
+                  design and eight stars appear in the sky and on (or in front of or seen through) Satan's body and wings.</illusobjdesc>
+          <component location="E" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>Adam</characteristic>
+            <characteristic>muscular</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>sitting</characteristic>
+            <characteristic>legs bent</characteristic>
+            <characteristic>leg extended</characteristic>
+            <characteristic>leg drawn up</characteristic>
+            <characteristic>arms bent</characteristic>
+            <characteristic>arm bent upward</characteristic>
+            <characteristic>arm at side</characteristic>
+            <characteristic>holding</characteristic>
+            <characteristic>touching</characteristic>
+            <characteristic>embracing</characteristic>
+            <characteristic>fingers spread</characteristic>
+            <characteristic>kissing</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>crown</characteristic>
+            <characteristic>garland</characteristic>
+            <characteristic>flower</characteristic>
+            <characteristic>lily</characteristic>
+            <illusobjdesc>Adam and Eve kiss while seated on a bed of flowers.  Adam is muscular and nude; he faces forward with his head turned to the left in profile as he looks intently at Eve.  Adam wears a crown  
                      or garland of flowers on his head.  He sits with his right leg drawn up and his left leg bent and extended to the right.  His left arm is bent and rests at his side; he holds a plant with two lily-like flowers in his left hand.  
-                     With his right arm, Adam holds or embraces Eve.  His right hand holds the back of Eve's head with his fingers slightly spread in her hair.  Adam's hair is curly.</illusobjdesc></component><component type="figure" location="AC"><characteristic>female</characteristic><characteristic>Eve</characteristic><characteristic>nude</characteristic><characteristic>breasts</characteristic><characteristic>sitting</characteristic><characteristic>leaning</characteristic><characteristic>leg bent</characteristic><characteristic>leg extended</characteristic><characteristic>arm at side</characteristic><characteristic>embracing</characteristic><characteristic>holding</characteristic><characteristic>touching</characteristic><characteristic>kissing</characteristic><characteristic>facing forward</characteristic><characteristic>facing up</characteristic><characteristic>facing right</characteristic><characteristic>long hair</characteristic><characteristic>curly</characteristic><characteristic>holding</characteristic><characteristic>flower</characteristic><characteristic>rose</characteristic><characteristic>leaf</characteristic><characteristic>branch</characteristic><characteristic>thorn</characteristic><illusobjdesc>Adam and Eve kiss while seated on a bed of flowers.  Eve is nude and faces forward with her head turned up and to the right in profile as she looks at Adam.  Her hair is long and curly.  
+                     With his right arm, Adam holds or embraces Eve.  His right hand holds the back of Eve's head with his fingers slightly spread in her hair.  Adam's hair is curly.</illusobjdesc>
+          </component>
+          <component location="AC" type="figure">
+            <characteristic>female</characteristic>
+            <characteristic>Eve</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>breasts</characteristic>
+            <characteristic>sitting</characteristic>
+            <characteristic>leaning</characteristic>
+            <characteristic>leg bent</characteristic>
+            <characteristic>leg extended</characteristic>
+            <characteristic>arm at side</characteristic>
+            <characteristic>embracing</characteristic>
+            <characteristic>holding</characteristic>
+            <characteristic>touching</characteristic>
+            <characteristic>kissing</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>curly</characteristic>
+            <characteristic>holding</characteristic>
+            <characteristic>flower</characteristic>
+            <characteristic>rose</characteristic>
+            <characteristic>leaf</characteristic>
+            <characteristic>branch</characteristic>
+            <characteristic>thorn</characteristic>
+            <illusobjdesc>Adam and Eve kiss while seated on a bed of flowers.  Eve is nude and faces forward with her head turned up and to the right in profile as she looks at Adam.  Her hair is long and curly.  
                      She appears to lean against Adam with her right leg slightly bent and her left leg extended down and to the left.  Her right arm is at her side and she holds a slender stem with a single rose blossom and 
-                     two small leaves in her right hand.  There are slight suggestion of thorns on the stem.  With her left arm and hand she embraces or holds Adam; her left hand holds the back of Adam's head.</illusobjdesc></component><component type="vegetation" location="E"><characteristic>mound</characteristic><characteristic>bed</characteristic><characteristic>plant</characteristic><characteristic>flower</characteristic><characteristic>branch</characteristic><characteristic>leaf</characteristic><characteristic>laurel</characteristic><characteristic>rose</characteristic><characteristic>blossom</characteristic><characteristic>bud</characteristic><characteristic>arching</characteristic><characteristic>lily</characteristic><characteristic>indeterminate</characteristic><characteristic>Eden</characteristic><illusobjdesc>Adam and Eve rest on a mound or bed of buds and flowers—probably roses—and leaves.  Eve rests on a particularly large leaf.  Large plants bearing leaves (laurel, according to 
+                     two small leaves in her right hand.  There are slight suggestion of thorns on the stem.  With her left arm and hand she embraces or holds Adam; her left hand holds the back of Adam's head.</illusobjdesc>
+          </component>
+          <component location="E" type="vegetation">
+            <characteristic>mound</characteristic>
+            <characteristic>bed</characteristic>
+            <characteristic>plant</characteristic>
+            <characteristic>flower</characteristic>
+            <characteristic>branch</characteristic>
+            <characteristic>leaf</characteristic>
+            <characteristic>laurel</characteristic>
+            <characteristic>rose</characteristic>
+            <characteristic>blossom</characteristic>
+            <characteristic>bud</characteristic>
+            <characteristic>arching</characteristic>
+            <characteristic>lily</characteristic>
+            <characteristic>indeterminate</characteristic>
+            <characteristic>Eden</characteristic>
+            <illusobjdesc>Adam and Eve rest on a mound or bed of buds and flowers—probably roses—and leaves.  Eve rests on a particularly large leaf.  Large plants bearing leaves (laurel, according to 
                      Milton's text) and twenty rose blossoms on slender branches rise left and right of the couple and 
-                     arch above them.  Other plants cover the ground below the couple, including several lily-like flowers.  The setting is Eden.</illusobjdesc></component><component type="figure" location="AB"><characteristic>male</characteristic><characteristic>Satan</characteristic><characteristic>nude</characteristic><characteristic>curly hair</characteristic><characteristic>wing</characteristic><characteristic>body horizontal</characteristic><characteristic>legs extended</characteristic><characteristic>arms bent</characteristic><characteristic>arm at side</characteristic><characteristic>pointing</characteristic><characteristic>fingers</characteristic><characteristic>holding</characteristic><characteristic>looking</characteristic><characteristic>flying</characteristic><characteristic>hovering</characteristic><characteristic>facing forward</characteristic><characteristic>facing right</characteristic><characteristic>facing left</characteristic><characteristic>mouth open</characteristic><characteristic>teeth</characteristic><characteristic>bound</characteristic><illusobjdesc>Satan flies or hovers on wings above Adam and Eve.  He is nude with curly hair.  Satan's body is horizontal with his legs 
+                     arch above them.  Other plants cover the ground below the couple, including several lily-like flowers.  The setting is Eden.</illusobjdesc>
+          </component>
+          <component location="AB" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>Satan</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>wing</characteristic>
+            <characteristic>body horizontal</characteristic>
+            <characteristic>legs extended</characteristic>
+            <characteristic>arms bent</characteristic>
+            <characteristic>arm at side</characteristic>
+            <characteristic>pointing</characteristic>
+            <characteristic>fingers</characteristic>
+            <characteristic>holding</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>flying</characteristic>
+            <characteristic>hovering</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>mouth open</characteristic>
+            <characteristic>teeth</characteristic>
+            <characteristic>bound</characteristic>
+            <illusobjdesc>Satan flies or hovers on wings above Adam and Eve.  He is nude with curly hair.  Satan's body is horizontal with his legs 
                      extended to the left.  His left arm is bent and is at his side; he points down towards Adam and Eve with his left hand and extended index finger.  His head is turned to the left and he looks towards the 
-                     serpent whose head he holds with his right hand.  Satan's lips are slightly parted with his teeth visible.  Satan is encircled by the serpent (or his serpent-self) as though bound.</illusobjdesc></component><component type="animal" location="AB"><characteristic>snake</characteristic><characteristic>serpent</characteristic><characteristic>scales</characteristic><characteristic>facing right</characteristic><characteristic>looking</characteristic><characteristic>coiled</characteristic><characteristic>encircling</characteristic><characteristic>spiky</characteristic><characteristic>flame-like</characteristic><characteristic>crest</characteristic><characteristic>smiling</characteristic><illusobjdesc>A serpent covered in scales encircles Satan's hips, left leg, and right arm.  The serpent's head faces right in profile and looks at Satan.  Their mutual gaze imitates (or parodies) the mutual gaze of Adam and Eve below.  The serpent's head is 
-                     topped with a spiky, flame-like crest and it may be smiling.</illusobjdesc></component><component type="object" location="A"><characteristic>sea</characteristic><characteristic>water</characteristic><characteristic>sun</characteristic><characteristic>beams of light</characteristic><characteristic>radiance</characteristic><characteristic>sunrise</characteristic><characteristic>sunset</characteristic><illusobjdesc>On the right of the design, the sun is visible on the horizon above the sea, suggesting sunrise or sunset.  Beams of light emanate from the sun.</illusobjdesc></component><component type="object" location="AB"><characteristic>moon</characteristic><characteristic>crescent</characteristic><characteristic>star</characteristic><characteristic>dark</characteristic><characteristic>darkness</characteristic><characteristic>night</characteristic><illusobjdesc>The moon appears in the upper left of the design.  A crescent is illuminated, but we also see the dark part of the moon.  A total of eight stars also appear in the sky; several stars are seen through or 
-                     in front of Satan's wings and legs.</illusobjdesc></component><component type="object" location="A"><characteristic>hill</characteristic><characteristic>mountain</characteristic><illusobjdesc>There may be distant hills or mountains below the moon.</illusobjdesc></component></illustration></illusdesc><phystext><vspace extent="8"/><lg type="prose" justify="left"><l n="but537.1.wc.01.01" justify="right">WBlake inv</l></lg></phystext></desc><desc id="but537.1.wc.02" dbi="BUT537.1.2.WC"><objtitle><title type="transcribed">The Creation of Eve</title>,
-<objid><objnumber code="A2">Object 2 </objnumber><objcode code="U2">(Butlin 537.2)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>50.2 x 40.4 cm.</objsize><windowsize height="858" width="681"/></physdesc><related objectid="but435.1.wc.01"/><related objectid="but529.1.wc.08"/><related objectid="but536.1.wc.08"/><illusdesc><illustration type="plate" location="E"><illusobjdesc>Christ stands on a large leaf facing left.  A circular halo of light surrounds his head.  His right hand is held above Eve with his palm down and fingers slightly spread; Christ is in the act of forming or creating Eve.  
+                     serpent whose head he holds with his right hand.  Satan's lips are slightly parted with his teeth visible.  Satan is encircled by the serpent (or his serpent-self) as though bound.</illusobjdesc>
+          </component>
+          <component location="AB" type="animal">
+            <characteristic>snake</characteristic>
+            <characteristic>serpent</characteristic>
+            <characteristic>scales</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>coiled</characteristic>
+            <characteristic>encircling</characteristic>
+            <characteristic>spiky</characteristic>
+            <characteristic>flame-like</characteristic>
+            <characteristic>crest</characteristic>
+            <characteristic>smiling</characteristic>
+            <illusobjdesc>A serpent covered in scales encircles Satan's hips, left leg, and right arm.  The serpent's head faces right in profile and looks at Satan.  Their mutual gaze imitates (or parodies) the mutual gaze of Adam and Eve below.  The serpent's head is 
+                     topped with a spiky, flame-like crest and it may be smiling.</illusobjdesc>
+          </component>
+          <component location="A" type="object">
+            <characteristic>sea</characteristic>
+            <characteristic>water</characteristic>
+            <characteristic>sun</characteristic>
+            <characteristic>beams of light</characteristic>
+            <characteristic>radiance</characteristic>
+            <characteristic>sunrise</characteristic>
+            <characteristic>sunset</characteristic>
+            <illusobjdesc>On the right of the design, the sun is visible on the horizon above the sea, suggesting sunrise or sunset.  Beams of light emanate from the sun.</illusobjdesc>
+          </component>
+          <component location="AB" type="object">
+            <characteristic>moon</characteristic>
+            <characteristic>crescent</characteristic>
+            <characteristic>star</characteristic>
+            <characteristic>dark</characteristic>
+            <characteristic>darkness</characteristic>
+            <characteristic>night</characteristic>
+            <illusobjdesc>The moon appears in the upper left of the design.  A crescent is illuminated, but we also see the dark part of the moon.  A total of eight stars also appear in the sky; several stars are seen through or 
+                     in front of Satan's wings and legs.</illusobjdesc>
+          </component>
+          <component location="A" type="object">
+            <characteristic>hill</characteristic>
+            <characteristic>mountain</characteristic>
+            <illusobjdesc>There may be distant hills or mountains below the moon.</illusobjdesc>
+          </component>
+        </illustration>
+      </illusdesc>
+      <phystext>
+        <vspace extent="8"/>
+        <lg justify="left" type="prose">
+          <l justify="right" n="but537.1.wc.01.01">WBlake inv</l>
+        </lg>
+      </phystext>
+    </desc>
+    <desc dbi="BUT537.1.2.WC" id="but537.1.wc.02">
+      <objtitle>
+        <title type="transcribed">The Creation of Eve</title>,
+
+        <objid>
+          <objnumber code="A2">Object 2 </objnumber>
+          <objcode code="U2">(Butlin 537.2)</objcode></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objsize>50.2 x 40.4 cm.</objsize>
+        <windowsize height="858" width="681"/>
+      </physdesc>
+      <related objectid="but435.1.wc.01"/>
+      <related objectid="but529.1.wc.08"/>
+      <related objectid="but536.1.wc.08"/>
+      <illusdesc>
+        <illustration location="E" type="plate">
+          <illusobjdesc>Christ stands on a large leaf facing left.  A circular halo of light surrounds his head.  His right hand is held above Eve with his palm down and fingers slightly spread; Christ is in the act of forming or creating Eve.  
                   Eve hovers above the supine body of Adam.  She faces forward with her eyes raised; she may looks toward Christ.  Her arms are bent upward with her hands together in prayer.  Adam lies supine on a large leaf with his body horizontal.  His head is bent back with 
                   his eyes closed; he is sleeping or is perhaps in a trance.  The ground in Eden is covered in grass and a few small plants with leaves and flowers.  An forest of leafy trees extends left and right 
-                  across the design above Adam.  A crescent moon appears above Eve in the dark night sky.</illusobjdesc><component type="figure" location="BD"><characteristic>male</characteristic><characteristic>Christ</characteristic><characteristic>creating</characteristic><characteristic>gown</characteristic><characteristic>long hair</characteristic><characteristic>beard</characteristic><characteristic>standing</characteristic><characteristic>facing left</characteristic><characteristic>left foot</characteristic><characteristic>hem</characteristic><characteristic>arm at side</characteristic><characteristic>arm raised horizontally</characteristic><characteristic>arm raised at 135 degrees</characteristic><characteristic>hand raised, palm down</characteristic><characteristic>palm down</characteristic><characteristic>fingers spread</characteristic><characteristic>halo</characteristic><characteristic>circle</characteristic><characteristic>light</characteristic><characteristic>radiance</characteristic><characteristic>looking</characteristic><illusobjdesc>Christ stands facing left in profile with his left foot visible below the hem of his gown.  He has long hair and a beard.  His left arm is at his side while his right is raised between the horizontal and 135 degrees.  His right hand is held above Eve with the palm down and the fingers slightly spread; Christ is in the act of creating or forming Eve.  A circular halo of light surrounds Christ's head; he looks at Eve's face.</illusobjdesc></component><component type="figure" location="AC"><characteristic>female</characteristic><characteristic>Eve</characteristic><characteristic>nude</characteristic><characteristic>breasts</characteristic><characteristic>hovering</characteristic><characteristic>floating</characteristic><characteristic>legs together</characteristic><characteristic>feet</characteristic><characteristic>facing forward</characteristic><characteristic>facing right</characteristic><characteristic>eyes raised</characteristic><characteristic>looking</characteristic><characteristic>long hair</characteristic><characteristic>arms bent upward</characteristic><characteristic>hands together</characteristic><characteristic>palms vertical</characteristic><characteristic>praying</characteristic><illusobjdesc>Eve hovers or floats to the left of Christ with her legs and feet together.  She is nude with long hair.  She faces forward with her head turned slightly to the right; her eyes are raised to look at Christ.  
-                     Eve's arms are bent upward in front of her chest with her hands together (but not quite touching) and the palms held vertically as if in prayer.</illusobjdesc></component><component type="figure" location="CD"><characteristic>male</characteristic><characteristic>Adam</characteristic><characteristic>nude</characteristic><characteristic>genitals</characteristic><characteristic>lying</characteristic><characteristic>sleeping</characteristic><characteristic>supine</characteristic><characteristic>body horizontal</characteristic><characteristic>legs together</characteristic><characteristic>head bent back</characteristic><characteristic>arms resting</characteristic><characteristic>arms at side</characteristic><characteristic>hands on ground</characteristic><characteristic>palm up</characteristic><characteristic>palm down</characteristic><characteristic>long hair</characteristic><characteristic>curly hair</characteristic><characteristic>facing up</characteristic><illusobjdesc>Adam lies supine on a large leaf at the bottom of the design.  His body is horizontal with his head bent back and his eyes closed; he is sleeping or is perhaps in a trance.  He is nude 
+                  across the design above Adam.  A crescent moon appears above Eve in the dark night sky.</illusobjdesc>
+          <component location="BD" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>Christ</characteristic>
+            <characteristic>creating</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>left foot</characteristic>
+            <characteristic>hem</characteristic>
+            <characteristic>arm at side</characteristic>
+            <characteristic>arm raised horizontally</characteristic>
+            <characteristic>arm raised at 135 degrees</characteristic>
+            <characteristic>hand raised, palm down</characteristic>
+            <characteristic>palm down</characteristic>
+            <characteristic>fingers spread</characteristic>
+            <characteristic>halo</characteristic>
+            <characteristic>circle</characteristic>
+            <characteristic>light</characteristic>
+            <characteristic>radiance</characteristic>
+            <characteristic>looking</characteristic>
+            <illusobjdesc>Christ stands facing left in profile with his left foot visible below the hem of his gown.  He has long hair and a beard.  His left arm is at his side while his right is raised between the horizontal and 135 degrees.  His right hand is held above Eve with the palm down and the fingers slightly spread; Christ is in the act of creating or forming Eve.  A circular halo of light surrounds Christ's head; he looks at Eve's face.</illusobjdesc>
+          </component>
+          <component location="AC" type="figure">
+            <characteristic>female</characteristic>
+            <characteristic>Eve</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>breasts</characteristic>
+            <characteristic>hovering</characteristic>
+            <characteristic>floating</characteristic>
+            <characteristic>legs together</characteristic>
+            <characteristic>feet</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>eyes raised</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>arms bent upward</characteristic>
+            <characteristic>hands together</characteristic>
+            <characteristic>palms vertical</characteristic>
+            <characteristic>praying</characteristic>
+            <illusobjdesc>Eve hovers or floats to the left of Christ with her legs and feet together.  She is nude with long hair.  She faces forward with her head turned slightly to the right; her eyes are raised to look at Christ.  
+                     Eve's arms are bent upward in front of her chest with her hands together (but not quite touching) and the palms held vertically as if in prayer.</illusobjdesc>
+          </component>
+          <component location="CD" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>Adam</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>genitals</characteristic>
+            <characteristic>lying</characteristic>
+            <characteristic>sleeping</characteristic>
+            <characteristic>supine</characteristic>
+            <characteristic>body horizontal</characteristic>
+            <characteristic>legs together</characteristic>
+            <characteristic>head bent back</characteristic>
+            <characteristic>arms resting</characteristic>
+            <characteristic>arms at side</characteristic>
+            <characteristic>hands on ground</characteristic>
+            <characteristic>palm up</characteristic>
+            <characteristic>palm down</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>facing up</characteristic>
+            <illusobjdesc>Adam lies supine on a large leaf at the bottom of the design.  His body is horizontal with his head bent back and his eyes closed; he is sleeping or is perhaps in a trance.  He is nude 
                      with his genitals exposed.  His legs extend together to the right.  Adam's arms rest at his side; his left hand rests on the ground with the palm facing up while his right 
-                     rests with the palm down.  His hair is long and curly.</illusobjdesc></component><component type="vegetation" location="CD"><characteristic>leaf</characteristic><characteristic>grass</characteristic><characteristic>plant</characteristic><characteristic>flower</characteristic><characteristic>lily</characteristic><characteristic>Eden</characteristic><illusobjdesc>Adam lies on a large leaf at the bottom of the design.  Christ stands on a large leaf above Adam's legs.  Several small plants bearing leaves or flowers grow below Adam; the 
-                     flowers below Adam's feet are lily-like.  Coloring on the ground also suggests grass.  The scene is Eden.</illusobjdesc></component><component type="vegetation" location="CD"><characteristic>tree</characteristic><characteristic>trunk</characteristic><characteristic>leaf</characteristic><illusobjdesc>A forest of trees with visible trunks and large leafy tops appears above Adam and extends left and right across the design.</illusobjdesc></component><component type="object" location="E"><characteristic>sky</characteristic><characteristic>dark</characteristic><characteristic>darkness</characteristic><characteristic>night</characteristic><characteristic>moon</characteristic><characteristic>crescent</characteristic><illusobjdesc>A crescent moon appears above Eve in a dark night sky.</illusobjdesc></component></illustration></illusdesc></desc><desc id="but537.1.wc.03" dbi="BUT537.1.3.WC"><objtitle><title type="transcribed">Michael Foretells the Crucifixion</title>,
-<objid><objnumber code="A3">Object 3 </objnumber><objcode code="U3">(Butlin 537.3)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>50.2 x 38.5 cm.</objsize><windowsize height="879" width="723"/></physdesc><related objectid="but529.1.wc.11"/><related objectid="but536.1.wc.11"/><illusdesc><illustration type="plate" location="E"><illusobjdesc>Christ is crucified upon a cross in the center of the design, raised on a mound or small hill.  A halo of radiance surrounds Christ's body; beams of light emanate from Christ.  The satanic serpent coils around the base of the cross; its head 
+                     rests with the palm down.  His hair is long and curly.</illusobjdesc>
+          </component>
+          <component location="CD" type="vegetation">
+            <characteristic>leaf</characteristic>
+            <characteristic>grass</characteristic>
+            <characteristic>plant</characteristic>
+            <characteristic>flower</characteristic>
+            <characteristic>lily</characteristic>
+            <characteristic>Eden</characteristic>
+            <illusobjdesc>Adam lies on a large leaf at the bottom of the design.  Christ stands on a large leaf above Adam's legs.  Several small plants bearing leaves or flowers grow below Adam; the 
+                     flowers below Adam's feet are lily-like.  Coloring on the ground also suggests grass.  The scene is Eden.</illusobjdesc>
+          </component>
+          <component location="CD" type="vegetation">
+            <characteristic>tree</characteristic>
+            <characteristic>trunk</characteristic>
+            <characteristic>leaf</characteristic>
+            <illusobjdesc>A forest of trees with visible trunks and large leafy tops appears above Adam and extends left and right across the design.</illusobjdesc>
+          </component>
+          <component location="E" type="object">
+            <characteristic>sky</characteristic>
+            <characteristic>dark</characteristic>
+            <characteristic>darkness</characteristic>
+            <characteristic>night</characteristic>
+            <characteristic>moon</characteristic>
+            <characteristic>crescent</characteristic>
+            <illusobjdesc>A crescent moon appears above Eve in a dark night sky.</illusobjdesc>
+          </component>
+        </illustration>
+      </illusdesc>
+    </desc>
+    <desc dbi="BUT537.1.3.WC" id="but537.1.wc.03">
+      <objtitle>
+        <title type="transcribed">Michael Foretells the Crucifixion</title>,
+
+        <objid>
+          <objnumber code="A3">Object 3 </objnumber>
+          <objcode code="U3">(Butlin 537.3)</objcode></objid>
+      </objtitle>
+      <physdesc desclevel="brief">
+        <objsize>50.2 x 38.5 cm.</objsize>
+        <windowsize height="879" width="723"/>
+      </physdesc>
+      <related objectid="but529.1.wc.11"/>
+      <related objectid="but536.1.wc.11"/>
+      <illusdesc>
+        <illustration location="E" type="plate">
+          <illusobjdesc>Christ is crucified upon a cross in the center of the design, raised on a mound or small hill.  A halo of radiance surrounds Christ's body; beams of light emanate from Christ.  The satanic serpent coils around the base of the cross; its head 
                      is nailed to the cross by the same nail that pierces Christ's feet.  Death (left) and Sin (right) lay supine at the foot of the cross with their heads down toward the viewer and their arms resting on the 
                      ground horizontally.  Their eyes are closed; they are dead (that is, vanquished by Christ's sacrifice).  Death wears a crown and may be covered by a cloth or drapery.  The heads of three dogs, eyes closed 
                      and also apparently dead, rest on Sin's torso.  The winged angel Michael 
                      stands to the left of the cross.  He holds a spear in his right hand and wears a crested helmet.  His left arm is raised toward Christ with the palm turned out and up.  Adam stands to the right of the cross with 
                      his left arm bent upward and his hands held together in prayer.  He is nude and seen from behind.  Eve rests in a small depression in the earth below the cross.  She is nude.  Her eyes are closed and she is 
-                     probably sleeping or in a trance.  The ground below Eve is covered in grass with small plants directly above Eve's body and left of her head.</illusobjdesc><component type="figure" location="E"><characteristic>male</characteristic><characteristic>Christ</characteristic><characteristic>partly nude</characteristic><characteristic>loincloth</characteristic><characteristic>cloth</characteristic><characteristic>sacrifice</characteristic><characteristic>crucified</characteristic><characteristic>long hair</characteristic><characteristic>crown</characteristic><characteristic>thorn</characteristic><characteristic>beard</characteristic><characteristic>facing forward</characteristic><characteristic>facing down</characteristic><characteristic>head on shoulder</characteristic><characteristic>eyes closed</characteristic><characteristic>radiance</characteristic><characteristic>halo</characteristic><characteristic>beams of light</characteristic><characteristic>shadow</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>hands raised, palms down</characteristic><characteristic>palms down</characteristic><characteristic>fingers spread</characteristic><characteristic>legs together</characteristic><characteristic>legs crossed</characteristic><characteristic>left foot</characteristic><illusobjdesc>Christ is sacrificed, crucified upon a cross in the center of the design.  He is partly nude with a loincloth covering his hips and genitals.  He wears a crown of thorns in his long hair.  He is bearded and 
+                     probably sleeping or in a trance.  The ground below Eve is covered in grass with small plants directly above Eve's body and left of her head.</illusobjdesc>
+          <component location="E" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>Christ</characteristic>
+            <characteristic>partly nude</characteristic>
+            <characteristic>loincloth</characteristic>
+            <characteristic>cloth</characteristic>
+            <characteristic>sacrifice</characteristic>
+            <characteristic>crucified</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>crown</characteristic>
+            <characteristic>thorn</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing down</characteristic>
+            <characteristic>head on shoulder</characteristic>
+            <characteristic>eyes closed</characteristic>
+            <characteristic>radiance</characteristic>
+            <characteristic>halo</characteristic>
+            <characteristic>beams of light</characteristic>
+            <characteristic>shadow</characteristic>
+            <characteristic>arms raised horizontally</characteristic>
+            <characteristic>hands raised, palms down</characteristic>
+            <characteristic>palms down</characteristic>
+            <characteristic>fingers spread</characteristic>
+            <characteristic>legs together</characteristic>
+            <characteristic>legs crossed</characteristic>
+            <characteristic>left foot</characteristic>
+            <illusobjdesc>Christ is sacrificed, crucified upon a cross in the center of the design.  He is partly nude with a loincloth covering his hips and genitals.  He wears a crown of thorns in his long hair.  He is bearded and 
                         his head is tilted to the right and down, resting on his left shoulder.  His eyes are closed.  Christ's arms are raised horizontally with his palms down and fingers spread.  His legs are together and are crossed at the ankles with his 
-                        left foot prominent.  A halo of radiance surrounds Christ's body; beams of light emanate from Christ and case both radiance and shadows on the rest of the scene.</illusobjdesc></component><component type="object" location="E"><characteristic>cross</characteristic><characteristic>wood</characteristic><characteristic>nail</characteristic><illusobjdesc>Christ is crucified upon a (wooden?) cross with three nails in the center of the design.</illusobjdesc></component><component type="animal" location="CD"><characteristic>serpent</characteristic><characteristic>snake</characteristic><characteristic>Satan</characteristic><characteristic>scale</characteristic><characteristic>coiled</characteristic><characteristic>spiral</characteristic><characteristic>dead</characteristic><characteristic>eyes closed</characteristic><characteristic>spiky</characteristic><characteristic>crest</characteristic><illusobjdesc>The satanic serpent coils in a pattern suggestive of a spiral around the base of the cross.  The serpent's body is covered in scales and it has a spiky crest on top of its head. Its one visible eye is closed and its head is nailed to the cross by the same 
-                        nail that pierces Christ's feet; it is likely dead.</illusobjdesc></component><component type="figure" location="C"><characteristic>male</characteristic><characteristic>Death</characteristic><characteristic>dead</characteristic><characteristic>lying</characteristic><characteristic>supine</characteristic><characteristic>upside down</characteristic><characteristic>leg bent</characteristic><characteristic>leg drawn up</characteristic><characteristic>beard</characteristic><characteristic>crown</characteristic><characteristic>spiky</characteristic><characteristic>cloth</characteristic><characteristic>drapery</characteristic><characteristic>gown</characteristic><characteristic>eyes closed</characteristic><characteristic>facing up</characteristic><characteristic>facing forward</characteristic><characteristic>head bent back</characteristic><characteristic>head toward viewer</characteristic><characteristic>arms resting</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>crucified</characteristic><illusobjdesc>Death lies supine and dead (that is, vanquished) below and to the left of the cross.  He is seen upside down with his head bent back to face the viewer and his eyes closed.  He may be gowned; 
-                        lines indicating folds in a cloth or other drapery are visible on his chest.  Death is bearded and wears a pointed, spiky crown.  His right leg is bent and drawn up.  His arms rest on the ground in a position horizontal to his body.  This posture suggests an upside-down crucifixion.</illusobjdesc></component><component type="figure" location="D"><characteristic>female</characteristic><characteristic>Sin</characteristic><characteristic>lying</characteristic><characteristic>supine</characteristic><characteristic>dead</characteristic><characteristic>upside down</characteristic><characteristic>upper body</characteristic><characteristic>nude</characteristic><characteristic>breasts</characteristic><characteristic>long hair</characteristic><characteristic>eyes closed</characteristic><characteristic>head toward viewer</characteristic><characteristic>facing up</characteristic><characteristic>arms resting</characteristic><characteristic>arms raised horizontally</characteristic><characteristic>crucified</characteristic><characteristic>palm down</characteristic><characteristic>hand on ground</characteristic><characteristic>heads, multiple</characteristic><characteristic>dog</characteristic><characteristic>snake</characteristic><characteristic>serpent</characteristic><illusobjdesc>Sin lies supine and dead (that is, vanquished) below and to the right of the cross.  She is seen upside down with her head toward the viewer and her eyes closed.  She is nude, and her long hair fans out on the ground 
+                        left foot prominent.  A halo of radiance surrounds Christ's body; beams of light emanate from Christ and case both radiance and shadows on the rest of the scene.</illusobjdesc>
+          </component>
+          <component location="E" type="object">
+            <characteristic>cross</characteristic>
+            <characteristic>wood</characteristic>
+            <characteristic>nail</characteristic>
+            <illusobjdesc>Christ is crucified upon a (wooden?) cross with three nails in the center of the design.</illusobjdesc>
+          </component>
+          <component location="CD" type="animal">
+            <characteristic>serpent</characteristic>
+            <characteristic>snake</characteristic>
+            <characteristic>Satan</characteristic>
+            <characteristic>scale</characteristic>
+            <characteristic>coiled</characteristic>
+            <characteristic>spiral</characteristic>
+            <characteristic>dead</characteristic>
+            <characteristic>eyes closed</characteristic>
+            <characteristic>spiky</characteristic>
+            <characteristic>crest</characteristic>
+            <illusobjdesc>The satanic serpent coils in a pattern suggestive of a spiral around the base of the cross.  The serpent's body is covered in scales and it has a spiky crest on top of its head. Its one visible eye is closed and its head is nailed to the cross by the same 
+                        nail that pierces Christ's feet; it is likely dead.</illusobjdesc>
+          </component>
+          <component location="C" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>Death</characteristic>
+            <characteristic>dead</characteristic>
+            <characteristic>lying</characteristic>
+            <characteristic>supine</characteristic>
+            <characteristic>upside down</characteristic>
+            <characteristic>leg bent</characteristic>
+            <characteristic>leg drawn up</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>crown</characteristic>
+            <characteristic>spiky</characteristic>
+            <characteristic>cloth</characteristic>
+            <characteristic>drapery</characteristic>
+            <characteristic>gown</characteristic>
+            <characteristic>eyes closed</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>head bent back</characteristic>
+            <characteristic>head toward viewer</characteristic>
+            <characteristic>arms resting</characteristic>
+            <characteristic>arms raised horizontally</characteristic>
+            <characteristic>crucified</characteristic>
+            <illusobjdesc>Death lies supine and dead (that is, vanquished) below and to the left of the cross.  He is seen upside down with his head bent back to face the viewer and his eyes closed.  He may be gowned; 
+                        lines indicating folds in a cloth or other drapery are visible on his chest.  Death is bearded and wears a pointed, spiky crown.  His right leg is bent and drawn up.  His arms rest on the ground in a position horizontal to his body.  This posture suggests an upside-down crucifixion.</illusobjdesc>
+          </component>
+          <component location="D" type="figure">
+            <characteristic>female</characteristic>
+            <characteristic>Sin</characteristic>
+            <characteristic>lying</characteristic>
+            <characteristic>supine</characteristic>
+            <characteristic>dead</characteristic>
+            <characteristic>upside down</characteristic>
+            <characteristic>upper body</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>breasts</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>eyes closed</characteristic>
+            <characteristic>head toward viewer</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>arms resting</characteristic>
+            <characteristic>arms raised horizontally</characteristic>
+            <characteristic>crucified</characteristic>
+            <characteristic>palm down</characteristic>
+            <characteristic>hand on ground</characteristic>
+            <characteristic>heads, multiple</characteristic>
+            <characteristic>dog</characteristic>
+            <characteristic>snake</characteristic>
+            <characteristic>serpent</characteristic>
+            <illusobjdesc>Sin lies supine and dead (that is, vanquished) below and to the right of the cross.  She is seen upside down with her head toward the viewer and her eyes closed.  She is nude, and her long hair fans out on the ground 
                         below her head.  Her arms rest on the ground in a position horizontal to her body.  Her right hand rests palm down on the ground to the right of Adam's feet.  Her left arm may rest underneath Death's right shoulder and head.  This posture suggests an upside-down crucifixion.  
-                        The heads of three hounds also rest on Sin's torso with their eyes closed.  They are apparently also dead.  A striated, curved shape appears above Sin's torso; this may represent her lower body in serpent form.</illusobjdesc></component><component type="figure" location="AC"><characteristic>male</characteristic><characteristic>angel</characteristic><characteristic>Michael</characteristic><characteristic>partly nude</characteristic><characteristic>drapery</characteristic><characteristic>transparent</characteristic><characteristic>helmet</characteristic><characteristic>crest</characteristic><characteristic>feather</characteristic><characteristic>beard</characteristic><characteristic>curly hair</characteristic><characteristic>long hair</characteristic><characteristic>eyes raised</characteristic><characteristic>looking</characteristic><characteristic>wing</characteristic><characteristic>standing</characteristic><characteristic>pointing</characteristic><characteristic>facing forward</characteristic><characteristic>facing right</characteristic><characteristic>arm raised at 135 degrees</characteristic><characteristic>hand raised, palm out</characteristic><characteristic>arm bent upward</characteristic><characteristic>arm at side</characteristic><characteristic>arm down</characteristic><characteristic>holding</characteristic><characteristic>spear</characteristic><characteristic>shadow</characteristic><illusobjdesc>The winged angel Michael stands to the left of the cross.  He is bearded and wears a helmet with a crest possibly made of feathers.  His hair is long and curly.  He appears partly nude and wears a transparent cape or other drapery over his torso, 
+                        The heads of three hounds also rest on Sin's torso with their eyes closed.  They are apparently also dead.  A striated, curved shape appears above Sin's torso; this may represent her lower body in serpent form.</illusobjdesc>
+          </component>
+          <component location="AC" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>angel</characteristic>
+            <characteristic>Michael</characteristic>
+            <characteristic>partly nude</characteristic>
+            <characteristic>drapery</characteristic>
+            <characteristic>transparent</characteristic>
+            <characteristic>helmet</characteristic>
+            <characteristic>crest</characteristic>
+            <characteristic>feather</characteristic>
+            <characteristic>beard</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>eyes raised</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>wing</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>pointing</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing right</characteristic>
+            <characteristic>arm raised at 135 degrees</characteristic>
+            <characteristic>hand raised, palm out</characteristic>
+            <characteristic>arm bent upward</characteristic>
+            <characteristic>arm at side</characteristic>
+            <characteristic>arm down</characteristic>
+            <characteristic>holding</characteristic>
+            <characteristic>spear</characteristic>
+            <characteristic>shadow</characteristic>
+            <illusobjdesc>The winged angel Michael stands to the left of the cross.  He is bearded and wears a helmet with a crest possibly made of feathers.  His hair is long and curly.  He appears partly nude and wears a transparent cape or other drapery over his torso, 
                         fastened at his right shoulder.  He faces forward with his head turned to face to the right; he looks up toward Christ.  His left arm is bent upward and he points or gestures toward Christ with his 
-                        left palm turned out, facing the viewer.  His right arm is down at his side and he holds a spear in his right hand.  Michael's body is heavily shadowed.</illusobjdesc></component><component type="figure" location="BD"><characteristic>male</characteristic><characteristic>Adam</characteristic><characteristic>nude</characteristic><characteristic>buttocks</characteristic><characteristic>seen from behind</characteristic><characteristic>facing away</characteristic><characteristic>curly hair</characteristic><characteristic>standing</characteristic><characteristic>leg bent</characteristic><characteristic>leg extended backward</characteristic><characteristic>head up</characteristic><characteristic>eyes raised</characteristic><characteristic>looking</characteristic><characteristic>arm bent upward</characteristic><characteristic>hands together</characteristic><characteristic>praying</characteristic><characteristic>facing left</characteristic><characteristic>facing up</characteristic><characteristic>tiptoe</characteristic><characteristic>mouth open</characteristic><illusobjdesc>Adam stands below and to the right of the cross.  He is nude with curly hair and is seen from behind.  His left leg is bent back with the left foot on tiptoe.  Adam's left arm is bent upward; his right arm is 
-                        not visible, but his hands are held together before his chest in prayer.  Adam's head is turned up in left profile with his eyes raised as he looks toward Christ.  Adam's mouth is open, perhaps in awe.</illusobjdesc></component><component type="figure" location="CD"><characteristic>female</characteristic><characteristic>Eve</characteristic><characteristic>nude</characteristic><characteristic>breasts</characteristic><characteristic>long hair</characteristic><characteristic>curly hair</characteristic><characteristic>eyes closed</characteristic><characteristic>sleeping</characteristic><characteristic>lying</characteristic><characteristic>supine</characteristic><characteristic>lying on side</characteristic><characteristic>body horizontal</characteristic><characteristic>twisted</characteristic><characteristic>arms at side</characteristic><characteristic>legs together</characteristic><characteristic>head up</characteristic><characteristic>facing forward</characteristic><characteristic>facing up</characteristic><characteristic>hands on ground</characteristic><characteristic>palm up</characteristic><characteristic>palm down</characteristic><illusobjdesc>Eve lies in a small depression in the earth below the cross.  She is nude and her long, curly hair spreads out on the ground below her.  Eve lies partly on her side; her body is horizontal with her 
+                        left palm turned out, facing the viewer.  His right arm is down at his side and he holds a spear in his right hand.  Michael's body is heavily shadowed.</illusobjdesc>
+          </component>
+          <component location="BD" type="figure">
+            <characteristic>male</characteristic>
+            <characteristic>Adam</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>buttocks</characteristic>
+            <characteristic>seen from behind</characteristic>
+            <characteristic>facing away</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>standing</characteristic>
+            <characteristic>leg bent</characteristic>
+            <characteristic>leg extended backward</characteristic>
+            <characteristic>head up</characteristic>
+            <characteristic>eyes raised</characteristic>
+            <characteristic>looking</characteristic>
+            <characteristic>arm bent upward</characteristic>
+            <characteristic>hands together</characteristic>
+            <characteristic>praying</characteristic>
+            <characteristic>facing left</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>tiptoe</characteristic>
+            <characteristic>mouth open</characteristic>
+            <illusobjdesc>Adam stands below and to the right of the cross.  He is nude with curly hair and is seen from behind.  His left leg is bent back with the left foot on tiptoe.  Adam's left arm is bent upward; his right arm is 
+                        not visible, but his hands are held together before his chest in prayer.  Adam's head is turned up in left profile with his eyes raised as he looks toward Christ.  Adam's mouth is open, perhaps in awe.</illusobjdesc>
+          </component>
+          <component location="CD" type="figure">
+            <characteristic>female</characteristic>
+            <characteristic>Eve</characteristic>
+            <characteristic>nude</characteristic>
+            <characteristic>breasts</characteristic>
+            <characteristic>long hair</characteristic>
+            <characteristic>curly hair</characteristic>
+            <characteristic>eyes closed</characteristic>
+            <characteristic>sleeping</characteristic>
+            <characteristic>lying</characteristic>
+            <characteristic>supine</characteristic>
+            <characteristic>lying on side</characteristic>
+            <characteristic>body horizontal</characteristic>
+            <characteristic>twisted</characteristic>
+            <characteristic>arms at side</characteristic>
+            <characteristic>legs together</characteristic>
+            <characteristic>head up</characteristic>
+            <characteristic>facing forward</characteristic>
+            <characteristic>facing up</characteristic>
+            <characteristic>hands on ground</characteristic>
+            <characteristic>palm up</characteristic>
+            <characteristic>palm down</characteristic>
+            <illusobjdesc>Eve lies in a small depression in the earth below the cross.  She is nude and her long, curly hair spreads out on the ground below her.  Eve lies partly on her side; her body is horizontal with her 
                         legs extended together to the right.  Her torso is twisted upward and rests in a supine position.  Her arms are at her sides; her right hand rests on the ground with the palm up while her left palm is down.  
-                        Her head is tilted up, but her eyes are closed and she is probably sleeping or in a trance.</illusobjdesc></component><component type="vegetation" location="CD"><characteristic>grass</characteristic><characteristic>plant</characteristic><characteristic>leaf</characteristic><characteristic>indeterminate</characteristic><characteristic>spiky</characteristic><illusobjdesc>The ground below the cross is covered with grass and small, leafy plants.  Coloring and a few spiky lines indicate vegetation below and to the left of Eve's head.</illusobjdesc></component><component type="object" location="CD"><characteristic>mound</characteristic><characteristic>hill</characteristic><characteristic>valley</characteristic><characteristic>bed</characteristic><characteristic>earth</characteristic><characteristic>grave</characteristic><illusobjdesc>The cross is raised on a mound or small hill.  Eve lies in a depression the earth, oddly suggesting a very small valley, a bed, or a grave.</illusobjdesc></component></illustration></illusdesc></desc></objdesc></bad>
+                        Her head is tilted up, but her eyes are closed and she is probably sleeping or in a trance.</illusobjdesc>
+          </component>
+          <component location="CD" type="vegetation">
+            <characteristic>grass</characteristic>
+            <characteristic>plant</characteristic>
+            <characteristic>leaf</characteristic>
+            <characteristic>indeterminate</characteristic>
+            <characteristic>spiky</characteristic>
+            <illusobjdesc>The ground below the cross is covered with grass and small, leafy plants.  Coloring and a few spiky lines indicate vegetation below and to the left of Eve's head.</illusobjdesc>
+          </component>
+          <component location="CD" type="object">
+            <characteristic>mound</characteristic>
+            <characteristic>hill</characteristic>
+            <characteristic>valley</characteristic>
+            <characteristic>bed</characteristic>
+            <characteristic>earth</characteristic>
+            <characteristic>grave</characteristic>
+            <illusobjdesc>The cross is raised on a mound or small hill.  Eve lies in a depression the earth, oddly suggesting a very small valley, a bed, or a grave.</illusobjdesc>
+          </component>
+        </illustration>
+      </illusdesc>
+    </desc>
+  </objdesc>
+</bad>
