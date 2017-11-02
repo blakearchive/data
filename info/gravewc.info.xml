@@ -8,7 +8,7 @@ British Museum<br/>
 London<br/>
 Related to Object 1.
 </relationship><relationship>
-Edward Young, *Night Thoughts*, Object 12<br/>
+<link type="object" ptr="copy/bb515.1?descId=bb515.1.comb.12">Edward Young, *Night Thoughts*, Object 12</link><br/>
 Engraving, 1797.  Bentley 515.<br/>
 Multiple owners<br/>
 Related to Object 1.
@@ -18,18 +18,18 @@ Manuscript, c. 1797-1807.  Bentley 209.<br/>
 British Library<br/>
 London<br/>
 Related to Object 1.
-</relationship><relationship><link type="object" ptr="but612.1.wd.01">*An Angel Awakening the Dead with a Trumpet*</link><br/> 
+</relationship><relationship><link type="object" ptr="copy/gravewd?descId=but612.1.wd.01">*An Angel Awakening the Dead with a Trumpet*</link><br/> 
             Monochrome wash drawing, c. 1805 (?). Butlin 612.<br/>
             British Museum<br/>
             London<br/>
             Related to Object 1.
         </relationship><relationship>
-*Illustrations to Robert Blair’s “The Grave,”* Object 1<br/>
+<link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.01">*Illustrations to Robert Blair’s “The Grave,”* Object 1</link><br/>
     Water color, 1805.  Not in Butlin.<br/>
     Private collection<br/>
     Related to Object 1.
 </relationship><relationship>
-*Illustrations to Robert Blair’s “The Grave,”* Object 11<br/>
+<link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.11">*Illustrations to Robert Blair’s “The Grave,”* Object 11</link><br/>
     Water color, 1805.  Not in Butlin.<br/>
     Private collection<br/>
     Related to Object 6.
@@ -39,24 +39,31 @@ Pencil sketch, c. 1805. Butlin 615.<br/>
 Lois Bateson<br/>
 Chapel Hill, North Carolina<br/>
 Related to Object 2.
-</relationship><relationship>
-<link type="object" ptr="but614r.1.penc.01">*Sketch for Alternative Title Page* (recto)</link>; <link type="object" ptr="but614v.1.penc.01">*Sketch
-                
-                Perhaps for the Same* (verso)</link><br/>
-            
-            Pencil sketches, c. 1806. Butlin 614.<br/>
-            
-            Morgan Library and Museum<br/>
-            
-            New York City<br/>
-            
-            Related to Objects 1 and 2.
-</relationship><relationship>*Study for the Title Page (?): The Skeleton Re-Animated*<br/> 
+</relationship><relationship><link type="object" ptr="copy/gravepd?descId=but614r.1.penc.01">*Sketch for Alternative Title Page* (recto)</link><br/>
+
+          Pencil sketch, c. 1806. Butlin 614.<br/>
+
+          Morgan Library and Museum<br/>
+
+          New York City<br/>
+          
+          Related to Objects 1 and 2.
+</relationship>
+	<relationship><link type="object" ptr="copy/gravepd?descId=but614v.1.penc.01">*Sketch Perhaps for the Same* (verso)</link><br/>
+
+          Pencil sketch, c. 1806. Butlin 614.<br/>
+
+          Morgan Library and Museum<br/>
+
+          New York City<br/>
+          
+          Related to Object 2.
+		</relationship><relationship>*Study for the Title Page (?): The Skeleton Re-Animated*<br/> 
             Pencil sketch, c. 1805 (?). Butlin 609.<br/>
             Untraced<br/>
-            Related to Object 1.
+            Related to Objects 1 and 2.
         </relationship><relationship>
-To William Hayley<br/>
+<link type="object" ptr="copy/letters?descId=lt27nov1805.1.ltr.01">To William Hayley</link><br/>
 Letter, 27 November 1805.  Bentley 86.<br/>
 Houghton Library, Harvard University<br/>
 Cambridge, Massachusetts
@@ -73,12 +80,12 @@ The thirteen copperplates for Blair’s *Grave*, Object 8<br/>
    Washington, D.C.<br/>
    Related to Object 6.
 </relationship><relationship>
-Robert Blair, *The Grave*, Object 2<br/>
+<link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.02">Robert Blair, *The Grave*, Object 2</link><br/>
    Engraving by Louis Schiavonetti, 1808.  Bentley 435.<br/>
    Multiple owners<br/>
    Related to Objects 1 and 2.
 </relationship><relationship>
-Robert Blair, *The Grave*, Object 8<br/>
+<link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.08">Robert Blair, *The Grave*, Object 8</link><br/>
    Engraving by Louis Schiavonetti, 1808.  Bentley 435.<br/>
    Multiple owners<br/>
    Related to Object 6.
