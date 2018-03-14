@@ -446,6 +446,7 @@
                     <objsize>16.3 x 12.9 cm.</objsize>
                     <windowsize height="848" width="671"/>
                </physdesc>
+               <supplemental objectid="suppvda.mpi.rm.02" ovp="noindex"/>
                <illusdesc>
                     <illustration type="plate" location="E">
                          <illusobjdesc>The title page is a seascape, with two storm-tossed waves in
@@ -855,6 +856,16 @@
                                    rend="superscript">m</hi> Blake : 1793.</l>
                     </lg>
                </phystext>
+               
+               <supplemental>
+                    <desc dbi="vda.mpi.p2-full" id="suppvda.mpi.rm.02">
+                         <objtitle>, <objd>
+                              <objnumber code="A1">full leaf
+                                   view</objnumber></objd></objtitle>
+                         <objsize> 35.9 x 24.4 cm.</objsize>
+                         <windowsize height="889" width="619"/>
+                    </desc>
+               </supplemental>
           </desc>
           <desc id="vda.mpi.illbk.03" dbi="vda.mpi.P3" compwith="bb136.B20">
                <objtitle><title type="transcribed">The Argument</title>, <objid><objnumber code="A3"
@@ -866,6 +877,7 @@
                     <objsize>14.2 x 11.2 cm.</objsize>
                     <windowsize height="738" width="582"/>
                </physdesc>
+               <supplemental objectid="suppvda.mpi.rm.03" ovp="noindex"/>
                <illusdesc>
                     <illustration type="plate" location="E">
                          <illusobjdesc>A young nude woman kneels on the ground and leans to the
@@ -1000,6 +1012,15 @@
                               twain.</l>
                     </lg>
                </phystext>
+               <supplemental>
+                    <desc dbi="vda.mpi.p3-full" id="suppvda.mpi.rm.03">
+                         <objtitle>, <objd>
+                              <objnumber code="A1">full leaf
+                                   view</objnumber></objd></objtitle>
+                         <objsize> 35.9 x 24.4 cm.</objsize>
+                         <windowsize height="889" width="619"/>
+                    </desc>
+               </supplemental>
           </desc>
      </objdesc>
 </bad>
