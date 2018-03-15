@@ -282,7 +282,7 @@
                                         cm.</objsize>
                                 <numberleaves>11</numberleaves>
                                 <leafsize>37.6 x 27.0 cm.</leafsize>
-                                <note>The full leaf of Object 1 is available under Supplemental
+                                <note>The full leaf of Object 1 and 10 is available under Supplemental
                                         Views.</note>
                                 <medium>relief etching with white-line etching on Object 2, color
                                         printed with hand tinting<note>Some letters in the text have
@@ -576,15 +576,21 @@
                         <supplemental>
                                 <desc dbi="vda.r.p1-full" id="suppvda.r.rm.01">
                                         <objtitle>
+                                                <title type="transcribed">Visions of the Daughters of Albion</title>, 
                                                 <objid>
-                                                        <objnumber code="A1">full leaf view </objnumber>
-                                                </objid>
+                                                        <objnumber code="A1">Object 1 full view</objnumber>
+                                                        <objcode code="B1">(Bentley 1,
+                                                </objcode><objcode code="Ei">Erdman i,
+                                                </objcode><objcode code="Ki">Keynes
+                                                        i)</objcode></objid>
+                                                
+                                                       
+                                                        
+                                      
                                         </objtitle>
                                         <physdesc desclevel="brief">
-                                                <objnote>
-                                                        <p></p>
-                                                </objnote>
-                                                <objsize>7.1 x 11.9 cm.</objsize>
+                                  
+                                                <objsize>37.6 x 27.0 cm</objsize>
                                                 <windowsize height="889" width="619"/>
                                         </physdesc>
                                         <illusdesc>
@@ -2898,8 +2904,7 @@
                                 <objsize>16.9 x 12.0 cm.</objsize>
                                 <windowsize height="879" width="624"/>
                         </physdesc>
-                       <!--why is this here? <supplemental objectid="suppvda.r.rm.02" ovp="noindex"/>
-                        <desc> -->
+                       
                         <illusdesc>
                                 <illustration type="plate" location="AB">
                                         <illusobjdesc>Four (possibly five) gowned, female figures
@@ -3122,15 +3127,18 @@
                         <supplemental>
                                 <desc dbi="vda.r.p10-full" id="suppvda.mpi.rm.10">
                                         <objtitle>
+                                                <title type="transcribed">Visions of the Daughters of Abilon</title>,
                                                 <objid>
-                                                        <objnumber code="A1">full leaf view </objnumber>
-                                                </objid>
+                                                        <objnumber code="A10">Object 10 full view including transcriptions</objnumber>
+                                                   <objcode code="B10">(Bentley 10, </objcode><objcode code="E7"
+                                                                        >Erdman 7, </objcode><objcode code="K7">Keynes
+                                                                                7)</objcode></objid>
                                         </objtitle>
                                         <physdesc desclevel="brief">
                                                 <objnote>
                                                         <p></p>
                                                 </objnote>
-                                                <objsize>35.9 x 24.4 cm.</objsize>
+                                                <objsize>37.6 x 27.0 cm.</objsize>
                                                 <windowsize height="889" width="619"/>
                                         </physdesc>
                                         
@@ -3264,7 +3272,94 @@
                                                 </illustration>
                                         </illusdesc>
                                         <phystext>
-                                                
+                                                <texthead justify="left">
+                                                        <l n="vda.r.illbk.10.01" justify="left" indent="56">
+                                                                <physnumber type="pen-and-ink">8</physnumber>
+                                                        </l>
+                                                </texthead>
+                                                <vspace extent="6"/>
+                                                <lg type="verse" justify="left">
+                                                        <l n="vda.r.illbk.10.02" justify="left">In happy copulation;
+                                                                if in evening mild. wearied with work:</l>
+                                                        <l n="vda.r.illbk.10.03" justify="left">Sit on a bank and
+                                                                draw the pleasures of this free born joy.</l>
+                                                </lg>
+                                                <vspace extent="1"/>
+                                                <lg type="verse" justify="left">
+                                                        <l n="vda.r.illbk.10.04" justify="left" indent="2">The
+                                                                moment of desire! the moment of desire! The
+                                                                virgin</l>
+                                                        <l n="vda.r.illbk.10.05" justify="left">That pines for man;
+                                                                shall awaken her womb to enormous joys</l>
+                                                        <l n="vda.r.illbk.10.06" justify="left">In the secret
+                                                                shadows of her chamber; the youth shut up from</l>
+                                                        <l n="vda.r.illbk.10.07" justify="left">The lustful joy,
+                                                                shall forget to generate. &amp; create an amorous
+                                                                image</l>
+                                                        <l n="vda.r.illbk.10.08" justify="left">In the shadows of
+                                                                his curtains and in the folds of his silent
+                                                                pillow.</l>
+                                                        <l n="vda.r.illbk.10.09" justify="left">Are not these the
+                                                                places of religion? the rewards of continence!</l>
+                                                        <l n="vda.r.illbk.10.10" justify="left">The self enjoyings
+                                                                of self denial? Why dost thou seek religion?</l>
+                                                        <l n="vda.r.illbk.10.11" justify="left">Is it because acts
+                                                                are not lovely, that thou seekest solitude.</l>
+                                                        <l n="vda.r.illbk.10.12" justify="left">Where the horrible
+                                                                darkness is impressed with reflections of
+                                                                desire.</l>
+                                                </lg>
+                                                <vspace extent="1"/>
+                                                <lg type="verse" justify="left">
+                                                        <l n="vda.r.illbk.10.13" justify="left">Father of Jealousy,
+                                                                be thou accursed from the earth!</l>
+                                                        <l n="vda.r.illbk.10.14" justify="left">Why hast thou taught
+                                                                my Theotormon this accursed thing?</l>
+                                                        <l n="vda.r.illbk.10.15" justify="left">Till beauty fades
+                                                                from off my shoulders darken'd and cast out,</l>
+                                                        <l n="vda.r.illbk.10.16" justify="left">A solitary shadow
+                                                                wailing on the margin of non-entity.</l>
+                                                </lg>
+                                                <vspace extent="1"/>
+                                                <lg type="verse" justify="left">
+                                                        <l n="vda.r.illbk.10.17" justify="left">I cry, Love! Love!
+                                                                Love! happy happy Love! free as the mountain
+                                                                wind!</l>
+                                                        <l n="vda.r.illbk.10.18" justify="left">Can that be Love,
+                                                                that drinks another as a sponge drinks water?</l>
+                                                        <l n="vda.r.illbk.10.19" justify="left">That clouds with
+                                                                jealousy his nights, with weepings all the day; </l>
+                                                        <l n="vda.r.illbk.10.20" justify="left">To spin a web of age
+                                                                around him, grey and hoary! dark!</l>
+                                                        <l n="vda.r.illbk.10.21" justify="left">Till his eyes sicken
+                                                                at the fruit that hangs before his sight.</l>
+                                                        <l n="vda.r.illbk.10.22" justify="left">Such is self-love
+                                                                that envies all! a creeping skeleton</l>
+                                                        <l n="vda.r.illbk.10.23" justify="left">With lamplike eyes
+                                                                watching around the frozen marriage bed.</l>
+                                                </lg>
+                                                <vspace extent="1"/>
+                                                <lg type="verse" justify="left">
+                                                        <l n="vda.r.illbk.10.24" justify="left">But silken nets and
+                                                                traps of adamant will Oothoon spread,</l>
+                                                        <l n="vda.r.illbk.10.25" justify="left">And catch for thee
+                                                                girls of mild silver, or of furious gold;</l>
+                                                        <l n="vda.r.illbk.10.26" justify="left">I'll lie beside thee
+                                                                on a bank &amp; view their wanton play</l>
+                                                        <l n="vda.r.illbk.10.27" justify="left">In lovely copulation
+                                                                bliss on bliss with Theotormon;</l>
+                                                        <l n="vda.r.illbk.10.28" justify="left">Red as the rosy
+                                                                morning, lustful as the first born beam,</l>
+                                                        <l n="vda.r.illbk.10.29" justify="left">Oothoon shall view
+                                                                his dear delight, nor e'er with jealous cloud </l>
+                                                        <l n="vda.r.illbk.10.30" justify="left">Come in the heaven
+                                                                of generous love; nor selfish blightings bring.</l>
+                                                </lg>
+                                                <vspace extent="1"/>
+                                                <lg type="verse" justify="left">
+                                                        <l n="vda.r.illbk.10.31" justify="left">Does the sun walk in
+                                                                glorious raiment, on the secret floor</l>
+                                                </lg>
                                         </phystext>
                                 </desc>
                 </supplemental>
