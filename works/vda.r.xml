@@ -343,7 +343,7 @@
                                 <objsize>17.1 x 11.9 cm.</objsize>
                                 <windowsize height="889" width="619"/>
                         </physdesc>
-                        <supplemental objectid="suppvda.r.rm.01" ovp="noindex"/>
+                      
                         <illusdesc>
                                 <illustration type="plate" location="E">
                                         <illusobjdesc>Three nude figures are seen within the mouth
@@ -573,16 +573,253 @@
                                         <l n="vda.r.illbk.01." justify="left">No Transcription</l>
                                 </lg>
                         </phystext>
-
                         <supplemental>
                                 <desc dbi="vda.r.p1-full" id="suppvda.r.rm.01">
-                                        <objtitle>, <objd>
-                                                  <objnumber code="A1">full leaf
-                                                  view</objnumber></objd></objtitle>
-                                        <objsize> 35.9 x 24.4 cm.</objsize>
-                                        <windowsize height="889" width="619"/>
+                                        <objtitle>
+                                                <objid>
+                                                        <objnumber code="A1">full leaf view </objnumber>
+                                                </objid>
+                                        </objtitle>
+                                        <physdesc desclevel="brief">
+                                                <objnote>
+                                                        <p></p>
+                                                </objnote>
+                                                <objsize>7.1 x 11.9 cm.</objsize>
+                                                <windowsize height="889" width="619"/>
+                                        </physdesc>
+                                        <illusdesc>
+                                                <illustration type="plate" location="E">
+                                                        <illusobjdesc>Three nude figures are seen within the mouth
+                                                                of a cave that opens onto the sea. Heavy clouds fill
+                                                                the sky, but fail to cover the disc of the sun. The
+                                                                open area where the sun appears suggests an eye
+                                                                socket, perhaps in a skull outlined by the cave and
+                                                                seen in left profile. Indeterminate vegetation
+                                                                dangles from the roof of the cave. The figures sit
+                                                                or kneel on large stones, or possibly sand below the
+                                                                central female. On the left is a heavily-muscled and
+                                                                bearded male seen in left profile. He sits or squats
+                                                                at the cave's mouth. He looks to the left with
+                                                                wide-open eyes; his face is deeply marked by fear or
+                                                                worse; his hair stands on end. His mouth is open and
+                                                                he may be howling. His knees are drawn up in a
+                                                                contracted position; his left arm is drawn backwards
+                                                                as though bound behind him. Large shackles are
+                                                                attached to both his ankles. Two, possibly three,
+                                                                links of a massive chain descend from his ankle
+                                                                shackles, and he may be bound back to back with the
+                                                                female directly to the right. This pair is probably
+                                                                Oothoon, the central female figure in the poem, and
+                                                                her tormentor Bromion. She kneels, with her body
+                                                                bent down and to the right. Her long hair cascades
+                                                                over her neck and down behind her head. Her eyes may
+                                                                be closed, or at least sharply downcast. Above her
+                                                                and to the right, an extremely contracted figure
+                                                                sits among rocks. This is probably Theotormon,
+                                                                Oothoon's ineffectual lover. His legs appear to be
+                                                                crossed, with the left foot prominently poised below
+                                                                his heavy knees. The red coloring of the rock
+                                                                beneath his foot may indicate blood. He faces down
+                                                                so that we see only the top of his head, covered
+                                                                with curly hair. His arms are wrapped around his
+                                                                head, with the left arm bent at the elbow and his
+                                                                left hand, perhaps clutching his curly hair. His
+                                                                right arm descends along the right side of his
+                                                                hidden face and disappears beneath his left elbow.
+                                                                The design may illustrate the following lines on
+                                                                plate 5: "Bound back to back in Bromions caves
+                                                                terror &amp; meekness dwell / At entrance Theotormon
+                                                                sits wearing the threshold hard" (lines 7-8). Given
+                                                                this textual parallel, the two figures on the left
+                                                                may be personifications of terror (note the
+                                                                expression on Bromion's face) and
+                                                                meekness.</illusobjdesc>
+                                                        <component type="object" location="E">
+                                                                <characteristic>cave</characteristic>
+                                                                <characteristic>stone</characteristic>
+                                                                <characteristic>sand</characteristic>
+                                                                <illusobjdesc>The three figures are situated within
+                                                                        the mouth of a cave formed of stones and perhaps
+                                                                        sand.</illusobjdesc>
+                                                        </component>
+                                                        <component type="object" location="CD">
+                                                                <characteristic>sea</characteristic>
+                                                                <characteristic>waves</characteristic>
+                                                                <characteristic>water</characteristic>
+                                                                <characteristic>shore</characteristic>
+                                                                <illusobjdesc>We see the sea behind and on each side
+                                                                        of the figure on the left. Perhaps some of its
+                                                                        waters come near to his feet. The dark area below
+                                                                        the female may also be water with slight
+                                                                        waves.</illusobjdesc>
+                                                        </component>
+                                                        <component type="object" location="AB">
+                                                                <characteristic>cloud</characteristic>
+                                                                <characteristic>sky</characteristic>
+                                                                <characteristic>dark</characteristic>
+                                                                <illusobjdesc>The sky, seen above the figures and
+                                                                        below the roof of the cave, is filled with dark
+                                                                        and heavy clouds.</illusobjdesc>
+                                                        </component>
+                                                        <component type="object" location="A">
+                                                                <characteristic>sun</characteristic>
+                                                                <characteristic>eye</characteristic>
+                                                                <characteristic>eye socket</characteristic>
+                                                                <illusobjdesc>The round disc of the sun appears
+                                                                        through a break in the clouds. The shape of this
+                                                                        opening suggests an eye socket, perhaps in a skull
+                                                                        seen in left profile formed by the outline of the
+                                                                        cave.</illusobjdesc>
+                                                        </component>
+                                                        <component type="vegetation" location="AB">
+                                                                <characteristic>indeterminate</characteristic>
+                                                                <characteristic>plant</characteristic>
+                                                                <illusobjdesc>Clumps of vegetation of an
+                                                                        indeterminate type dangle from the roof of the
+                                                                        cave.</illusobjdesc>
+                                                        </component>
+                                                        <component type="structure" location="E">
+                                                                <characteristic>roof</characteristic>
+                                                                <characteristic>floor</characteristic>
+                                                                <characteristic>skull</characteristic>
+                                                                <characteristic>facing left</characteristic>
+                                                                <illusobjdesc>The setting for the design—the mouth
+                                                                        of a cave—can be considered a structure with both
+                                                                        a roof and a floor. Given the shape of the sun,
+                                                                        the opening in the clouds around it, and the
+                                                                        outline of the cave's mouth, the setting may also
+                                                                        suggest a skull seen in left
+                                                                        profile.</illusobjdesc>
+                                                        </component>
+                                                        <component type="figure" location="AC">
+                                                                <characteristic>male</characteristic>
+                                                                <characteristic>nude</characteristic>
+                                                                <characteristic>Bromion</characteristic>
+                                                                <characteristic>sitting</characteristic>
+                                                                <characteristic>shackled</characteristic>
+                                                                <characteristic>squatting</characteristic>
+                                                                <characteristic>facing left</characteristic>
+                                                                <characteristic>looking</characteristic>
+                                                                <characteristic>beard</characteristic>
+                                                                <characteristic>contracted</characteristic>
+                                                                <characteristic>terror</characteristic>
+                                                                <characteristic>chained</characteristic>
+                                                                <characteristic>bound</characteristic>
+                                                                <characteristic>fear</characteristic>
+                                                                <characteristic>mouth open</characteristic>
+                                                                <characteristic>howling</characteristic>
+                                                                <characteristic>knees</characteristic>
+                                                                <characteristic>legs drawn up</characteristic>
+                                                                <characteristic>hair standing on
+                                                                        end</characteristic>
+                                                                <characteristic>flame-like hair</characteristic>
+                                                                <characteristic>legs bent</characteristic>
+                                                                <characteristic>muscular</characteristic>
+                                                                <characteristic>arm drawn back</characteristic>
+                                                                <illusobjdesc>On the left is a nude,
+                                                                        heavily-muscled, and bearded male seen in left
+                                                                        profile. He sits or squats on the stony surface of
+                                                                        a cave's mouth. He looks to the left with
+                                                                        wide-open eyes; his face is deeply marked by fear
+                                                                        or worse; his flame-like hair stands on end. His
+                                                                        mouth is open and he may be howling. His knees are
+                                                                        drawn up in a contracted position; his left arm is
+                                                                        drawn backwards as though bound behind him. Large
+                                                                        shackles are affixed to his ankles. Two, possibly
+                                                                        three, links of a massive chain descend from his
+                                                                        ankle shackles. This is probably Bromion, the
+                                                                        tormentor of the central female figure in the
+                                                                        text, Oothoon. He may also be a personification of
+                                                                        terror—see the following lines on plate 5: "Bound
+                                                                        back to back in Bromions caves terror &amp;
+                                                                        meekness dwell / At entrance Theotormon sits
+                                                                        wearing the threshold hard" (lines 7-8).
+                                                                </illusobjdesc>
+                                                        </component>
+                                                        <component type="figure" location="CD">
+                                                                <characteristic>female</characteristic>
+                                                                <characteristic>young</characteristic>
+                                                                <characteristic>nude</characteristic>
+                                                                <characteristic>Oothoon</characteristic>
+                                                                <characteristic>bound</characteristic>
+                                                                <characteristic>meekness</characteristic>
+                                                                <characteristic>facing left</characteristic>
+                                                                <characteristic>facing down</characteristic>
+                                                                <characteristic>long hair</characteristic>
+                                                                <characteristic>kneeling</characteristic>
+                                                                <characteristic>eyes closed</characteristic>
+                                                                <characteristic>eyes down</characteristic>
+                                                                <characteristic>arm drawn back</characteristic>
+                                                                <characteristic>bowing</characteristic>
+                                                                <characteristic>head down</characteristic>
+                                                                <characteristic>legs bent</characteristic>
+                                                                <illusobjdesc>A nude female, seen in right profile,
+                                                                        kneels on the stones of the cave's mouth. She may
+                                                                        be bound back to back to the male to the left.
+                                                                        This pair is probably Oothoon, the central female
+                                                                        figure in the poem, and her tormentor Bromion. Her
+                                                                        body is bent down and to the right. Her face,
+                                                                        perhaps with eyes closed or at least sharply
+                                                                        downcast, is pointed down; her long hair cascades
+                                                                        over her neck and down behind her head. She may
+                                                                        also personify meekness—see the following lines on
+                                                                        plate 5: "Bound back to back in Bromions caves
+                                                                        terror &amp; meekness dwell / At entrance
+                                                                        Theotormon sits wearing the threshold hard" (lines
+                                                                        7-8).</illusobjdesc>
+                                                        </component>
+                                                        <component type="object" location="C">
+                                                                <characteristic>shackle</characteristic>
+                                                                <characteristic>chain</characteristic>
+                                                                <illusobjdesc>Both ankles of the figure on the left
+                                                                        bear shackles, with heavy links of a chain
+                                                                        below.</illusobjdesc>
+                                                        </component>
+                                                        <component type="figure" location="BD">
+                                                                <characteristic>male</characteristic>
+                                                                <characteristic>nude</characteristic>
+                                                                <characteristic>contracted</characteristic>
+                                                                <characteristic>left foot</characteristic>
+                                                                <characteristic>knees</characteristic>
+                                                                <characteristic>squatting</characteristic>
+                                                                <characteristic>sitting
+                                                                        crossed-legged</characteristic>
+                                                                <characteristic>curly hair</characteristic>
+                                                                <characteristic>facing forward</characteristic>
+                                                                <characteristic>facing down</characteristic>
+                                                                <characteristic>Theotormon</characteristic>
+                                                                <characteristic>legs crossed</characteristic>
+                                                                <characteristic>head down</characteristic>
+                                                                <characteristic>legs drawn up</characteristic>
+                                                                <characteristic>arms wrapped around
+                                                                        head</characteristic>
+                                                                <characteristic>blood</characteristic>
+                                                                <characteristic>hand clutching head</characteristic>
+                                                                <illusobjdesc>A nude male squats in an extremely
+                                                                        contracted posture among rocks. This is probably
+                                                                        Theotormon, Oothoon's ineffectual lover. His legs
+                                                                        appear to be crossed, with the left foot
+                                                                        prominently poised below his heavy knees. The red
+                                                                        coloring of the rock beneath his foot may indicate
+                                                                        blood. He faces forward and down so that we see
+                                                                        only the top of his head, covered with curly hair.
+                                                                        His arms are wrapped around his head, with the
+                                                                        left arm bent at the elbow and his left hand,
+                                                                        perhaps clutching his hair. His right arm descends
+                                                                        along the right side of his hidden face and
+                                                                        disappears beneath his left elbow.</illusobjdesc>
+                                                        </component>
+                                                </illustration>
+                                        </illusdesc>
+                                        <phystext>
+                                                <lg justify="left">
+                                                        <l n="vda.r.illbk.01." justify="left">No Transcription</l>
+                                                </lg>
+                                        </phystext>
                                 </desc>
+                                
                         </supplemental>
+                        
                         <!--[Full-page design]-->
                 </desc>
                 <desc id="vda.r.illbk.02" dbi="vda.R.P2">
@@ -2661,7 +2898,8 @@
                                 <objsize>16.9 x 12.0 cm.</objsize>
                                 <windowsize height="879" width="624"/>
                         </physdesc>
-                        <supplemental objectid="suppvda.r.rm.02" ovp="noindex"/>
+                       <!--why is this here? <supplemental objectid="suppvda.r.rm.02" ovp="noindex"/>
+                        <desc> -->
                         <illusdesc>
                                 <illustration type="plate" location="AB">
                                         <illusobjdesc>Four (possibly five) gowned, female figures
@@ -2881,6 +3119,157 @@
                                                 glorious raiment, on the secret floor</l>
                                 </lg>
                         </phystext>
+                        <supplemental>
+                                <desc dbi="vda.r.p10-full" id="suppvda.mpi.rm.10">
+                                        <objtitle>
+                                                <objid>
+                                                        <objnumber code="A1">full leaf view </objnumber>
+                                                </objid>
+                                        </objtitle>
+                                        <physdesc desclevel="brief">
+                                                <objnote>
+                                                        <p></p>
+                                                </objnote>
+                                                <objsize>35.9 x 24.4 cm.</objsize>
+                                                <windowsize height="889" width="619"/>
+                                        </physdesc>
+                                        
+                                        <illusdesc>
+                                                <illustration type="plate" location="AB">
+                                                        <illusobjdesc>Four (possibly five) gowned, female figures
+                                                                huddle together in contracted postures. The figure
+                                                                on the right squats with knees drawn up toward her
+                                                                chest; her head leans forward onto her knees and we
+                                                                see only the top of her head. Her hair may be curly.
+                                                                The figure in the center foreground faces to the
+                                                                right, with her knees drawn up and her upper body
+                                                                leaning forward. Her right knee and lower leg cover
+                                                                her face; we see only her head and long hair. Above
+                                                                this central figure and slightly behind are the
+                                                                shoulders and face of a woman with long hair (spread
+                                                                out on both sides of her head) and a desperate
+                                                                expression on her face. The left-most figure lies in
+                                                                a huddled and contracted posture and faces left. Her
+                                                                upper body is bent over her legs in a severely
+                                                                contracted posture. Her head is on the far right,
+                                                                bent low over her extended arm. Above this figure is
+                                                                an indeterminate cluster of wavy lines that may be
+                                                                the curly hair of a fifth female. These females are
+                                                                probably the Daughters of Albion. There is a hint of
+                                                                a sunrise or sunset in the sky at left and a
+                                                                particularly dark area of sky to the right of the
+                                                                figures.</illusobjdesc>
+                                                        <component type="figure" location="B">
+                                                                <characteristic>female</characteristic>
+                                                                <characteristic>gown</characteristic>
+                                                                <characteristic>huddled</characteristic>
+                                                                <characteristic>Daughters of Albion</characteristic>
+                                                                <characteristic>contracted</characteristic>
+                                                                <characteristic>legs drawn up</characteristic>
+                                                                <characteristic>squatting</characteristic>
+                                                                <characteristic>sitting</characteristic>
+                                                                <characteristic>facing forward</characteristic>
+                                                                <characteristic>facing down</characteristic>
+                                                                <characteristic>knees</characteristic>
+                                                                <characteristic>head down</characteristic>
+                                                                <characteristic>curly hair</characteristic>
+                                                                <illusobjdesc>A gowned female in a very contracted
+                                                                        posture squats on the ground far right. Her large
+                                                                        knees are drawn up to her chest; her head is bent
+                                                                        forward and rests on her knees. We see only the
+                                                                        top of her head and curly(?)hair. She is probably
+                                                                        one of the Daughters of Albion in this huddled
+                                                                        group of females.</illusobjdesc>
+                                                        </component>
+                                                        <component type="figure" location="AB">
+                                                                <characteristic>female</characteristic>
+                                                                <characteristic>gown</characteristic>
+                                                                <characteristic>Daughters of Albion</characteristic>
+                                                                <characteristic>huddled</characteristic>
+                                                                <characteristic>facing right</characteristic>
+                                                                <characteristic>sitting</characteristic>
+                                                                <characteristic>head down</characteristic>
+                                                                <characteristic>long hair</characteristic>
+                                                                <characteristic>contracted</characteristic>
+                                                                <characteristic>bending forward</characteristic>
+                                                                <characteristic>leg drawn up</characteristic>
+                                                                <characteristic>leg bent at knee</characteristic>
+                                                                <illusobjdesc>A gowned female sits in a contracted
+                                                                        posture as the front-most figure in the huddled
+                                                                        group. She faces to the right, with her right knee
+                                                                        drawn up and her upper body bent forward. Her face
+                                                                        is covered by her right knee and lower leg; we see
+                                                                        only her head and long, dark hair. She is probably
+                                                                        one of the Daughters of Albion in this group of
+                                                                        figures.</illusobjdesc>
+                                                        </component>
+                                                        <component type="figure" location="AB">
+                                                                <characteristic>female</characteristic>
+                                                                <characteristic>gown</characteristic>
+                                                                <characteristic>huddled</characteristic>
+                                                                <characteristic>Daughters of Albion</characteristic>
+                                                                <characteristic>facing forward</characteristic>
+                                                                <characteristic>sitting</characteristic>
+                                                                <characteristic>despair</characteristic>
+                                                                <characteristic>long hair</characteristic>
+                                                                <illusobjdesc>Behind two other figures, we see the
+                                                                        shoulders and face of a gowned female. Her long
+                                                                        hair extends horizontally on either side of her
+                                                                        head. Her facial expression suggests despair. She
+                                                                        is probably one of the Daughters of Albion,
+                                                                        sitting with others in this huddled
+                                                                        group.</illusobjdesc>
+                                                        </component>
+                                                        <component type="figure" location="A">
+                                                                <characteristic>female</characteristic>
+                                                                <characteristic>gown</characteristic>
+                                                                <characteristic>contracted</characteristic>
+                                                                <characteristic>legs drawn up</characteristic>
+                                                                <characteristic>huddled</characteristic>
+                                                                <characteristic>facing down</characteristic>
+                                                                <characteristic>facing left</characteristic>
+                                                                <characteristic>bending forward</characteristic>
+                                                                <characteristic>head down</characteristic>
+                                                                <characteristic>Daughters of Albion</characteristic>
+                                                                <illusobjdesc>The left-most figure in this group
+                                                                        lies in a huddled and contracted posture and faces
+                                                                        left. Her upper body is bent over her legs in a
+                                                                        severely contracted posture. Her head is on the
+                                                                        far left, bent low over her extended arm. She is
+                                                                        probably one of the Daughters of
+                                                                        Albion.</illusobjdesc>
+                                                        </component>
+                                                        <component type="figure" location="A">
+                                                                <characteristic>female</characteristic>
+                                                                <characteristic>curly hair</characteristic>
+                                                                <characteristic>head down</characteristic>
+                                                                <characteristic>huddled</characteristic>
+                                                                <characteristic>Daughters of Albion</characteristic>
+                                                                <illusobjdesc>A few wavy lines, just above the
+                                                                        left-most figure in this huddled group of figures,
+                                                                        may be the lowered head, curly(?) hair, and
+                                                                        shoulders of a fifth female. She is probably one
+                                                                        of the Daughters of Albion, like the others in the
+                                                                        group.</illusobjdesc>
+                                                        </component>
+                                                        <component type="object" location="AB">
+                                                                <characteristic>sky</characteristic>
+                                                                <characteristic>dark</characteristic>
+                                                                <characteristic>sunrise</characteristic>
+                                                                <characteristic>sunset</characteristic>
+                                                                <illusobjdesc>There is a hint of a sunrise or sunset
+                                                                        in the sky at left and a particularly dark area of
+                                                                        sky to the right of the figures.</illusobjdesc>
+                                                        </component>
+                                                </illustration>
+                                        </illusdesc>
+                                        <phystext>
+                                                
+                                        </phystext>
+                                </desc>
+                </supplemental>
+                 <!--       </desc>
+                </supplemental> -->
                 </desc>
                 <desc id="vda.r.illbk.11" dbi="vda.R.P11">
                         <objtitle>, <objid><objnumber code="A11">object 11 </objnumber><objcode
