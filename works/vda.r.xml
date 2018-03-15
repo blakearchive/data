@@ -2898,8 +2898,8 @@
                                 <objsize>16.9 x 12.0 cm.</objsize>
                                 <windowsize height="879" width="624"/>
                         </physdesc>
-                        <supplemental objectid="suppvda.r.rm.02" ovp="noindex"/>
-                        <desc>
+                       <!--why is this here? <supplemental objectid="suppvda.r.rm.02" ovp="noindex"/>
+                        <desc> -->
                         <illusdesc>
                                 <illustration type="plate" location="AB">
                                         <illusobjdesc>Four (possibly five) gowned, female figures
@@ -3119,8 +3119,8 @@
                                                 glorious raiment, on the secret floor</l>
                                 </lg>
                         </phystext>
-                        </desc>
-                </supplemental>
+                 <!--       </desc>
+                </supplemental> -->
                 </desc>
                 <desc id="vda.r.illbk.11" dbi="vda.R.P11">
                         <objtitle>, <objid><objnumber code="A11">object 11 </objnumber><objcode
