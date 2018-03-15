@@ -223,6 +223,8 @@
                     <objsize>17.1 x 11.9 cm. (Object 1, Bentley Plate 1), 16.3 x 12.9 cm. (Object 2, Bentley Plate 2), 14.2 x 11.2 cm. (Object 3, Bentley Plate 3)</objsize>
                     <numberleaves>2<note>The verso of Object 1 (Bentley Plate 1) is blank.  Object 3 (Bentley Plate 3) is printed on the verso of Object 2 (Bentley Plate 2).</note></numberleaves>
                     <leafsize>37.5 x 27.2 cm.</leafsize>
+                    <note>The full leaf of Object 2 and 3 is available under Supplemental
+                         Views.</note>
                     <medium>relief etching with white-line etching on Object 2 (Bentley Plate 2) and with hand coloring</medium>
                     <printingstyle>relief</printingstyle>
                     <inkcolor>green</inkcolor>
@@ -858,16 +860,15 @@
                </phystext>
      <supplemental>
     <desc dbi="vda.mpi.p2-full" id="suppvda.mpi.rm.02">
-        <objtitle>
-            <objid>
-                <objnumber code="A1">full leaf view </objnumber>
-            </objid>
-        </objtitle>
+         <objtitle><title type="transcribed">VISIONS of the Daughters of Albion</title>,
+              <objid><objnumber code="A2">Object 2 full view including innscriptions</objnumber><objcode code="B2"
+                   >(Bentley 2, </objcode><objcode code="Eii">Erdman ii,
+                   </objcode><objcode code="Kii">Keynes ii)</objcode></objid></objtitle>
         <physdesc desclevel="brief">
             <objnote>
                 <p></p>
             </objnote>
-            <objsize>35.9 x 24.4 cm.</objsize>
+             <objsize>37.5 x 27.2 cm.</objsize>
             <windowsize height="889" width="619"/>
         </physdesc>
         
@@ -1433,16 +1434,15 @@
                </phystext>
                <supplemental>
                     <desc dbi="vda.mpi.p3-full" id="suppvda.mpi.rm.03">
-                         <objtitle>
-                              <objid>
-                                   <objnumber code="A1">full leaf view </objnumber>
-                              </objid>
-                         </objtitle>
+                         <objtitle><title type="transcribed">The Argument</title>, <objid><objnumber code="A3"
+                              >Object 3 full view including incscriptions</objnumber><objcode code="B3">(Bentley 3,
+                              </objcode><objcode code="Eiii">Erdman iii, </objcode><objcode
+                                   code="Kiii">Keynes iii)</objcode></objid></objtitle>
                          <physdesc desclevel="brief">
                               <objnote>
                                    <p></p>
                               </objnote>
-                              <objsize>35.9 x 24.4 cm.</objsize>
+                              <objsize>37.5 x 27.2 cm.</objsize>
                               <windowsize height="889" width="619"/>
                          </physdesc>
                          
