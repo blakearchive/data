@@ -1,4 +1,4 @@
-<bad catalog="bentley" catid="32" copy="D" copyid="D" hidden="false" id="bb32.d" institution="huntington" type="te" work="A Descriptive Catalogue">
+<bad id="bb32.d" type="te" work="A Descriptive Catalogue" copy="D" copyid="D" institution="huntington" catalog="bentley" catid="32"   hidden="false">
     <header>
         <filedesc>
             <titlestmt>
@@ -241,7 +241,7 @@
                 <lb/>
             </repository>
         </source>
-        <desc dbi="bb32.d.1.TYP" id="bb32.d.te.01">
+        <desc id="bb32.d.te.01" dbi="bb32.d.1.TYP">
             <objtitle>
                 <title type="supplied">Title Page</title>, 
                 <objid>
