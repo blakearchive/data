@@ -2283,7 +2283,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="18" justify="left" n="bb32.d.te.22.01">
+                    <l indent="17" justify="left" n="bb32.d.te.22.01">
                         <physnumber>18</physnumber>
                     </l>
                 </texthead>
@@ -2298,62 +2298,92 @@
                 <vspace extent="1"/>
                 <lg>
                     <l indent="5" justify="left" n="bb32.d.te.22.05">&quot;In daunger had he at his own
-                        gise,
-                        <note>
-                            The original reads &quot;owne&quot; rather than &quot;own&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                            gise,
+                        <note>The original text reads &quot;owne&quot; rather than &quot;own&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l indent="5" justify="left" n="bb32.d.te.22.06">The young girls of his
-                        diocese,
-                        <note>
-                            The original reads &quot;yong girles&quot; rather than &quot;young girls,&quot; and &quot;Diocise&quot; rather than &quot;diocese&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                            diocese,
+                        <note>The original text reads &quot;yong girles&quot; rather than &quot;young
+                            girls,&quot; and &quot;Diocise&quot; rather than &quot;diocese&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's Prologue&quot;).</note></l>
                     <l indent="5" justify="left" n="bb32.d.te.22.07">And he knew well their
                         counsel, &amp;c.&quot;
-                        <note>
-                            Bentley suggests that the double quotation mark after
-                            &quot;&amp;c.&quot; is printed using &quot;an apostrophe and a
-                            single quotation mark&quot; (
-                            <hi rend="i">Writings</hi>
-                            volume 2, pages 838n34 and 1694n17).</note>
-                        <note>The original reads &quot;knew her counsaile, and was of her read&quot; rather than &quot;knew well their counsel, &amp;c.&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>Bentley suggests that the double quotation mark after
+                            &quot;&amp;c.&quot; is printed using &quot;an apostrophe and a single quotation mark&quot;
+                                (*Writings* volume 2 pages 838n34 and
+                            1694n17).</note>
+                        <note>The original text reads &quot;knew her counsaile, and was of her read&quot; rather
+                            than &quot;knew well their counsel, &amp;c.&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's Prologue&quot;).</note></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l indent="2" justify="left" n="bb32.d.te.22.08">The principal figure in the
-                        next groupe, is</l>
+                        next 
+                        <choice>
+                            <orig>groupe</orig>
+                            <reg>group</reg></choice>, is</l>
                     <l justify="left" n="bb32.d.te.22.09">the Good Parson; an Apostle, a real
-                        Messen–</l>
-                    <l justify="left" n="bb32.d.te.22.10">ger of Heaven, sent in every age for its
+                        
+                        <choice>
+                            <orig>Messen–</orig>
+                            <reg type="split_word"/></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.10">
+                        <choice>
+                            <orig>ger</orig>
+                            <reg>Messenger</reg>
+                        </choice>of Heaven, sent in every age for its
                         light</l>
                     <l justify="left" n="bb32.d.te.22.11">and its warmth. This man is beloved and
-                        ve–</l>
-                    <l justify="left" n="bb32.d.te.22.12">nerated by all, and neglected by all:
+                        
+                        <choice>
+                            <orig>ve–</orig>
+                            <reg type="split_word"/></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.12">
+                        <choice>
+                            <orig>nerated</orig>
+                            <reg>venerated</reg>
+                        </choice>by all, and neglected by all:
                         He</l>
                     <l justify="left" n="bb32.d.te.22.13">serves all, and is served by none; he is,
-                        ac–</l>
-                    <l justify="left" n="bb32.d.te.22.14">cording to Christ's definition, the
+                        
+                        <choice>
+                            <orig>ac–</orig>
+                            <reg type="split_word">according</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.14">
+                        <choice>
+                            <orig>cording</orig>
+                            <reg>according</reg>
+                        </choice>to Christ's definition, the
                         greatest of</l>
                     <l justify="left" n="bb32.d.te.22.15">his age. Yet he is a Poor Parson of a
                         town.</l>
                     <l justify="left" n="bb32.d.te.22.16">Read Chaucer's description of the Good
-                        Par–</l>
-                    <l justify="left" n="bb32.d.te.22.17">son, and bow the head and the knee to
+                        
+                        <choice>
+                            <orig>Par–</orig>
+                            <reg type="split_word">Parson</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.17">
+                        <choice>
+                            <orig>son</orig>
+                            <reg>Parson</reg>
+                        </choice>, and bow the head and the knee to
                         him,</l>
                     <l justify="left" n="bb32.d.te.22.18">who, in every age sends us such a burning
                         and</l>
                     <l justify="left" n="bb32.d.te.22.19">a shining light. Search O ye rich and
-                        power–</l>
-                    <l justify="left" n="bb32.d.te.22.20">ful, for these men and obey their
+                        
+                        <choice>
+                            <orig>power–</orig>
+                            <reg type="split_word">powerful</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.20">
+                        <choice>
+                            <orig>ful</orig>
+                            <reg>powerful</reg>
+                        </choice>, for these men and obey their
                         counsel, then</l>
                 </lg>
             </phystext>
