@@ -250,7 +250,7 @@
                 <lb/>
             </repository>
         </source>
-        <desc dbi="bb32.d.1.TYP" id="bb32.d.te.01">
+        <desc id="bb32.d.te.01" dbi="bb32.d.1.TYP">
             <objtitle>
                 <title type="supplied">Title Page</title>, 
                 <objid>
@@ -260,7 +260,6 @@
             <physdesc>
                 <objsize>19.0 x 11.5 cm.</objsize>
                 <windowsize height="615" width="500"/>
-                <!--ask at BAND meeting-->
             </physdesc>
             <phystext>
                 <texthead justify="left" type="title">
@@ -272,14 +271,16 @@
                         <hi rend="i">Poetical and
                             Historical Inventions</hi>,</l>
                     <l indent="13" justify="left" n="bb32.d.te.01.06">PAINTED BY</l>
-                    <l indent="10" justify="left" n="bb32.d.te.01.07">WILLIAM BLAKE,</l>
+                    <l indent="11" justify="left" n="bb32.d.te.01.07">WILLIAM BLAKE,</l>
                     <l indent="18" justify="left" n="bb32.d.te.01.08">IN</l>
-                    <l indent="9" justify="left" n="bb32.d.te.01.09">WATER COLOURS,</l>
+                    <l indent="9" justify="left" n="bb32.d.te.01.09">WATER 
+                        <choice>
+                            <orig>COLOURS</orig>
+                            <reg>Colors</reg></choice>,</l>
                     <l indent="1" justify="left" n="bb32.d.te.01.10">BEING THE ANCIENT METHOD
                         OF</l>
                     <l indent="3" justify="left" n="bb32.d.te.01.11">
-                        <hi rend="i">FRESCO PAINTING
-                            RESTORED</hi>
+                        <hi rend="i">FRESCO PAINTING RESTORED</hi>
                     </l>
                     <l indent="17" justify="left" n="bb32.d.te.01.12">AND</l>
                     <l indent="13" justify="left" n="bb32.d.te.01.13">DRAWINGS,</l>
@@ -288,38 +289,43 @@
                             INSPECTION</hi>,</l>
                     <l indent="14" justify="left" n="bb32.d.te.01.15">AND FOR</l>
                     <l indent="8" justify="left" n="bb32.d.te.01.16">Sale by Private Contract,</l>
-                    <l justify="left" n="bb32.d.te.01.17">At N 28 Corner of Broad Street Golden
-                        Square
-                        <note>
-                            The address is inserted in Blake's hand in copies C, D, F, G, H, J, L, and O 
-                            (Bentley, 
+                    <l justify="left" n="bb32.d.te.01.17">
+                        <add place="inline">
+                            <handShift medium="pen">At N 28 Corner of Broad Street Golden
+                            Square</handShift>
+                        </add>
+                        <note>The address is inserted in Blake's hand in copies C, D, F,
+                            G, H, J, L, and O (Bentley, 
                             <hi rend="i">Writings</hi>
-                            volume 2, page 1694).</note>
+                            volume 2 page
+                            1694).</note>
                     </l>
                     <l justify="left" n="bb32.d.te.01.18">
                         <hr align="left" width="19"/>
-                        <note>In the printed edition, this line is a
-                            decorative double line.***maybe this should be included in the copy
-                            information?</note>
+                        <note>In the printed edition, this line is a double rule.</note>
                     </l>
                 </texthead>
                 <lg justify="left" type="prose">
-                    <l indent="16" justify="left" n="bb32.d.te.01.19">
+                    <l indent="15" justify="left" n="bb32.d.te.01.19">
                         <hi rend="i">LONDON:</hi>
                     </l>
-                    <l justify="left" n="bb32.d.te.01.20">Printed by D.N. SHURY, 7, Berwick-Street,
-                        Soho,</l>
-                    <l indent="1" justify="left" n="bb32.d.te.01.21">for J.
+                    <l justify="left" n="bb32.d.te.01.20">Printed by 
+                        <choice>
+                            <orig>D.N. SHURY</orig>
+                            <reg>Daniel Nathan Shury</reg></choice>, 7, Berwick-Street,
+                        Soho,
+                        <note>Bentley (*Writings* volume 2 page 826) identifies D.N. SHURY as &quot;Daniel Nathan Shury.&quot;</note></l>
+                    <l indent="1" justify="left" n="bb32.d.te.01.21">for
+                                J.
                         <choice>
                             <orig>J.</orig>
-                            <reg type="abv_name">James</reg></choice>BLAKE, 28,
-                        Broad-Street, Golden-Square.</l>
+                            <reg type="abv_name">James</reg></choice>BLAKE, 28, Broad-Street, Golden-Square.</l>
                 </lg>
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.01.22">
                         <hr align="left" indent="7.5" width="3"/>
                     </l>
-                    <l indent="18" justify="left" n="bb32.d.te.01.23">1809.</l>
+                    <l indent="16" justify="left" n="bb32.d.te.01.23">1809.</l>
                 </lg>
             </phystext>
         </desc>
@@ -348,47 +354,67 @@
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l indent="2" justify="left" n="bb32.d.te.02.03">
-                        <hi rend="italic">I. One third
-                            of the price to be paid at the</hi>
+                        <hi rend="italic">I. One third of the price to be paid at the</hi>
                     </l>
-                    <l justify="left" n="bb32.d.te.02.03">
-                        <hi rend="italic">time of Purchase, and
-                        the remainder on De-</hi>
-                        <note>Erdman omits the word &quot;the&quot; before &quot;remainder&quot; (Erdman page 529).</note>
+                    <l justify="left" n="bb32.d.te.02.04">
+                        <hi rend="italic">time of Purchase, and the remainder on
+                                    
+                            <choice>
+                                <orig>De-</orig>
+                                <reg type="split_word">Delivery</reg></choice>
+                        </hi>
+                        <note>Erdman omits the word &quot;the&quot; before &quot;remainder&quot; (Erdman page
+                            529).</note>
                     </l>
                     <l justify="left" n="bb32.d.te.02.05">
-                        <hi rend="italic">livery.</hi>
+                        <hi rend="italic">
+                            <choice>
+                                <orig>livery</orig>
+                                <reg>Delivery</reg>
+                            </choice>.</hi>
                     </l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l indent="2" justify="left" n="bb32.d.te.02.06">
-                        <hi rend="italic">II. The
-                            Pictures and Drawings to remain</hi>
+                        <hi rend="italic">II. The Pictures and Drawings to remain</hi>
                     </l>
                     <l justify="left" n="bb32.d.te.02.07">
-                        <hi rend="italic">in the Exhibition till
-                            its close, which will be</hi>
+                        <hi rend="italic">in the Exhibition till its close, which will be</hi>
                     </l>
                     <l justify="left" n="bb32.d.te.02.08">
-                        <hi rend="italic">the 29th of September
-                            1809; and the Picture</hi>
+                        <hi rend="italic">the 29th of September 1809; and the Picture</hi>
                     </l>
                     <l justify="left" n="bb32.d.te.02.09">
-                        <hi rend="italic">of the Canterbury
-                            Pilgrims, which is to be en-</hi>
+                        <hi rend="italic">of the Canterbury Pilgrims, which is to be
+                                    
+                            <choice>
+                                <orig>en-</orig>
+                                <reg>engraved</reg></choice>
+                        </hi>
                     </l>
                     <l justify="left" n="bb32.d.te.02.10">
-                        <hi rend="italic">graved, will be Sold
-                            only on condition of its re-</hi>
+                        <hi rend="italic">
+                            <choice>
+                                <orig>graved</orig>
+                                <reg>engraved</reg>
+                            </choice>,
+                            will be Sold only on condition of its
+                                    
+                            <choice>
+                                <orig>re-</orig>
+                                <reg type="split_word">remaining</reg></choice>
+                        </hi>
                     </l>
                     <l justify="left" n="bb32.d.te.02.11">
-                        <hi rend="italic">maining in the Artist's
-                            hands twelve months,</hi>
+                        <hi rend="italic">
+                            <choice>
+                                <orig>maining</orig>
+                                <reg>remaining</reg>
+                            </choice>in the Artist's hands twelve months,</hi>
                     </l>
                     <l justify="left" n="bb32.d.te.02.12">
-                        <hi rend="italic">when it will be
-                            delivered to the Buyer.</hi>
+                        <hi rend="italic">when it will be delivered to the Buyer.</hi>
                     </l>
                 </lg>
                 <vspace extent="3"/>
@@ -417,8 +443,10 @@
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
-                    <l justify="left" n="bb32.d.te.03.03">THE eye that can prefer the Colouring
-                        of</l>
+                    <l justify="left" n="bb32.d.te.03.03">THE eye that can prefer the 
+                        <choice>
+                            <orig>Colouring</orig>
+                            <reg>Coloring</reg></choice>of</l>
                     <l justify="left" n="bb32.d.te.03.04">Titian and Rubens to that of 
                         <choice>
                             <orig>Michael Angelo</orig>
@@ -439,18 +467,26 @@
                             <reg>Michelangelo</reg></choice>had never seen the 
                         <choice>
                             <orig>Colour–</orig>
-                            <reg type="split_word">Colouring</reg></choice>
+                            <reg type="split_word">Colouring</reg>
+                            <reg>Coloring</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.03.08">
-                        <orig>ing</orig>of Titian and Correggio:
-                        They ought to</l>
+                        <choice>
+                            <orig>ing</orig>
+                            <reg>Colouring</reg>
+                            <reg>Coloring</reg>
+                        </choice>of Titian and
+                        Correggio: They ought to</l>
                     <l justify="left" n="bb32.d.te.03.09">know that Correggio was born two years 
                         <choice>
                             <orig>be–</orig>
-                            <reg type="split_word">before&gt;</reg></choice>
+                            <reg type="split_word">before</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.03.10">
-                        <orig>fore</orig>
+                        <choice>
+                            <orig>fore</orig>
+                            <reg>before</reg>
+                        </choice>
                         <choice>
                             <orig>Michael Angelo</orig>
                             <reg>Michelangelo</reg>
@@ -462,10 +498,8 @@
                         <choice>
                             <orig>Michael Angelo</orig>
                             <reg>Michelangelo</reg></choice>knew</l>
-                    <l justify="left" n="bb32.d.te.03.12">the Venetian, and 
-                        <choice>
-                            <orig>contemned</orig>
-                            <reg>condemned</reg></choice>and rejected all</l>
+                    <l justify="left" n="bb32.d.te.03.12">the Venetian, and contemned
+                         and rejected all</l>
                     <l justify="left" n="bb32.d.te.03.13">he did with the utmost disdain, as that
                         which</l>
                     <l justify="left" n="bb32.d.te.03.14">is fabricated for the purpose to destroy
@@ -498,7 +532,7 @@
                 <texthead justify="left" type="title">
                     <l indent="1" justify="left" n="bb32.d.te.04.01">
                         <physnumber>iv</physnumber>
-                        <space extent="12"/>PREFACE.</l>
+                        <space extent="13"/>PREFACE.</l>
                 </texthead>
                 <vspace extent="0.5"/>
                 <lg type="prose">
@@ -510,27 +544,39 @@
                         because</l>
                     <l justify="left" n="bb32.d.te.04.05">he does not understand Drawing, but
                         because</l>
-                    <l justify="left" n="bb32.d.te.04.06">he does not understand Colouring. How</l>
+                    <l justify="left" n="bb32.d.te.04.06">he does not understand 
+                        <choice>
+                            <orig>Colouring</orig>
+                            <reg>Coloring</reg></choice>. How</l>
                     <l justify="left" n="bb32.d.te.04.07">should he? he who does not know how to
                             draw
-                        <note>
-                            Bentley emends &quot;How should he? he who...&quot; to &quot;How should he
+                        <note>Bentley emends &quot;How should he? he who...&quot; to &quot;How should he
                             who...&quot; noting that &quot;the question mark belongs at the end of the
-                            sentence, and the extra 'he' should be removed&quot; (
-                            <hi rend="italic">Writings</hi>
-                            volume 2, pages 827n4 and 1694n2).</note>
-                    </l>
-                    <l justify="left" n="bb32.d.te.04.08">a hand or a foot, know how to colour
-                        it.</l>
-                    <l indent="3" justify="left" n="bb32.d.te.04.09">Colouring does not depend on
+                            sentence, and the extra 'he' should be removed&quot; (*Writings* volume 2 pages 827n4 and 1694n2).</note></l>
+                    <l justify="left" n="bb32.d.te.04.08">a hand or a foot, know how to 
+                        <choice>
+                            <orig>colour</orig>
+                            <reg>color</reg></choice>it.</l>
+                    <l indent="3" justify="left" n="bb32.d.te.04.09">
+                        <choice>
+                            <orig>Colouring</orig>
+                            <reg>Coloring</reg>
+                        </choice>does not depend on
                         where the</l>
-                    <l justify="left" n="bb32.d.te.04.10">Colours are put, but on where the lights
+                    <l justify="left" n="bb32.d.te.04.10">
+                        <choice>
+                            <orig>Colours</orig>
+                            <reg>Colors</reg>
+                        </choice>are put, but on where the lights
                         and</l>
                     <l justify="left" n="bb32.d.te.04.11">darks are put, and all depends on Form
                         or</l>
                     <l justify="left" n="bb32.d.te.04.12">Outline. On where that is put; where
                         that</l>
-                    <l justify="left" n="bb32.d.te.04.13">is wrong, the Colouring never can be
+                    <l justify="left" n="bb32.d.te.04.13">is wrong, the 
+                        <choice>
+                            <orig>Colouring</orig>
+                            <reg>Coloring</reg></choice>never can be
                         right;</l>
                     <l justify="left" n="bb32.d.te.04.14">and it is always wrong in Titian and
                         Correggio,</l>
@@ -541,7 +587,10 @@
                     <l justify="left" n="bb32.d.te.04.17">We never shall equal 
                         <choice>
                             <orig>Rafael</orig>
-                            <reg>Raphael</reg></choice>and Albert Durer,</l>
+                            <reg>Raphael</reg></choice>and 
+                        <choice>
+                            <orig>Albert Durer</orig>
+                            <reg>Albrecht Durer</reg></choice>,</l>
                     <l justify="left" n="bb32.d.te.04.18">
                         <choice>
                             <orig>Michael Angelo</orig>
@@ -572,7 +621,7 @@
                 </texthead>
                 <vspace extent="1"/>
                 <texthead justify="left" type="title">
-                    <l indent="16" justify="left" n="bb32.d.te.05.02">&amp;c. &amp;c.</l>
+                    <l indent="14" justify="left" n="bb32.d.te.05.02">&amp;c. &amp;c.</l>
                 </texthead>
                 <vspace extent="1.5"/>
                 <lg type="prose">
@@ -582,21 +631,21 @@
                 </lg>
                 <vspace extent="1.5"/>
                 <lg type="prose">
-                    <l indent="14" justify="left" n="bb32.d.te.05.04">NUMBER I.</l>
+                    <l indent="13" justify="left" n="bb32.d.te.05.04">NUMBER I.</l>
                 </lg>
                 <vspace extent="0.5"/>
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.05.05">
-                        <hi rend="i">The spiritual form of Nelson
-                            guiding Leviathan,</hi>
+                        <hi rend="i">The spiritual form of Nelson guiding Leviathan,</hi>
                     </l>
                     <l indent="3" justify="left" n="bb32.d.te.05.06">
-                        <hi rend="i">in whose
-                            wreathings are infolded the Nations</hi>
+                        <hi rend="i">in whose wreathings are 
+                            <choice>
+                                <orig>infolded</orig>
+                                <reg>enfolded</reg></choice>the Nations</hi>
                     </l>
                     <l indent="3" justify="left" n="bb32.d.te.05.07">
-                        <hi rend="i">of the
-                            Earth.</hi>
+                        <hi rend="i">of the Earth.</hi>
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
@@ -605,13 +654,20 @@
                         chief</l>
                     <l justify="left" n="bb32.d.te.05.09">objects in painting these Pictures.
                         Clear</l>
-                    <l justify="left" n="bb32.d.te.05.10">colours unmudded by oil, and firm and 
+                    <l justify="left" n="bb32.d.te.05.10">
+                        <choice>
+                            <orig>colours</orig>
+                            <reg>colors</reg>
+                        </choice>unmudded by oil, and firm and 
                         <choice>
                             <orig>deter–</orig>
                             <reg type="split_word">determinate</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.05.11">
-                        <orig>minate</orig>lineaments unbroken
+                        <choice>
+                            <orig>minate</orig>
+                            <reg>determinate</reg>
+                        </choice>lineaments unbroken
                         by shadows,</l>
                     <l justify="left" n="bb32.d.te.05.12">which ought to display and not to hide
                         form,</l>
@@ -640,7 +696,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="20" justify="left" n="bb32.d.te.06.01">
+                    <l indent="18" justify="left" n="bb32.d.te.06.01">
                         <physnumber>2</physnumber>
                     </l>
                 </texthead>
@@ -651,28 +707,22 @@
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.06.03">
-                        <hi rend="italic">The spiritual form of
-                            Pitt, guiding Behemoth;</hi>
+                        <hi rend="italic">The spiritual form of Pitt, guiding Behemoth;</hi>
                     </l>
                     <l indent="3" justify="left" n="bb32.d.te.06.04">
-                        <hi rend="italic">he is that
-                            Angel who, pleased to perform the</hi>
+                        <hi rend="italic">he is that Angel who, pleased to perform the</hi>
                     </l>
                     <l indent="3" justify="left" n="bb32.d.te.06.05">
-                        <hi rend="italic">Almighty's
-                            orders, rides on the whirlwind,</hi>
+                        <hi rend="italic">Almighty's orders, rides on the whirlwind,</hi>
                     </l>
                     <l indent="3" justify="left" n="bb32.d.te.06.06">
-                        <hi rend="italic">directing
-                            the storms of war: He is ordering</hi>
+                        <hi rend="italic">directing the storms of war: He is ordering</hi>
                     </l>
                     <l indent="3" justify="left" n="bb32.d.te.06.07">
-                        <hi rend="italic">the Reaper
-                            to reap the Vine of the Earth,</hi>
+                        <hi rend="italic">the Reaper to reap the Vine of the Earth,</hi>
                     </l>
                     <l indent="3" justify="left" n="bb32.d.te.06.08">
-                        <hi rend="italic">and the
-                            Plowman to plow up the Cities and</hi>
+                        <hi rend="italic">and the Plowman to plow up the Cities and</hi>
                     </l>
                     <l indent="3" justify="left" n="bb32.d.te.06.09">
                         <hi rend="italic">Towers.</hi>
@@ -682,21 +732,34 @@
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.06.10">THIS Picture also is a proof of the power
                         of</l>
-                    <l justify="left" n="bb32.d.te.06.11">colours unsullied with oil or with any
+                    <l justify="left" n="bb32.d.te.06.11">
+                        <choice>
+                            <orig>colours</orig>
+                            <reg>colors</reg>
+                        </choice>unsullied with oil or with any
                         cloggy</l>
                     <l justify="left" n="bb32.d.te.06.12">vehicle. Oil has falsely been supposed to
                         give</l>
-                    <l justify="left" n="bb32.d.te.06.13">strength to colours: but a little
+                    <l justify="left" n="bb32.d.te.06.13">strength to 
+                        <choice>
+                            <orig>colours</orig>
+                            <reg>colors</reg></choice>: but a little
                         consideration</l>
                     <l justify="left" n="bb32.d.te.06.14">must 
                         <choice>
                             <orig>shew</orig>
                             <reg>show</reg></choice>the fallacy of this opinion. Oil</l>
-                    <l justify="left" n="bb32.d.te.06.15">will not drink or absorb colour enough to
+                    <l justify="left" n="bb32.d.te.06.15">will not drink or absorb 
+                        <choice>
+                            <orig>colour</orig>
+                            <reg>color</reg></choice>enough to
                         stand</l>
                     <l justify="left" n="bb32.d.te.06.16">the test of very little time and of the
                         air. It</l>
-                    <l justify="left" n="bb32.d.te.06.17">deadens every colour it is mixed with, at
+                    <l justify="left" n="bb32.d.te.06.17">deadens every 
+                        <choice>
+                            <orig>colour</orig>
+                            <reg>color</reg></choice>it is mixed with, at
                         its</l>
                     <l justify="left" n="bb32.d.te.06.18">first mixture, and in a little time
                         becomes a</l>
@@ -720,7 +783,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="20" justify="left" n="bb32.d.te.07.01">
+                    <l indent="19" justify="left" n="bb32.d.te.07.01">
                         <physnumber>3</physnumber>
                     </l>
                 </texthead>
@@ -754,13 +817,19 @@
                             <reg type="split_word">another</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.07.09">
-                        <orig>other</orig>work on Painting, and
+                        <choice>
+                            <orig>other</orig>
+                            <reg>another</reg>
+                        </choice>work on Painting, and
                         who first forged</l>
                     <l justify="left" n="bb32.d.te.07.10">the silly story and known 
                         <choice>
                             <orig>falshood</orig>
-                            <reg>falsehood&gt;</reg></choice>, about John</l>
-                    <l justify="left" n="bb32.d.te.07.11">of Bruges inventing oil colours: in the
+                            <reg>falsehood</reg></choice>, about John</l>
+                    <l justify="left" n="bb32.d.te.07.11">of Bruges inventing oil 
+                        <choice>
+                            <orig>colours</orig>
+                            <reg>colors</reg></choice>: in the
                         mean</l>
                     <l justify="left" n="bb32.d.te.07.12">time let it be observed, that before 
                         <choice>
@@ -769,7 +838,10 @@
                             <reg type="split_word">van Dyck</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.07.13">
-                        <orig>dyke's</orig>time, and in his time
+                        <choice>
+                            <orig>dyke's</orig>
+                            <reg>van Dyck</reg>
+                        </choice>time, and in his time
                         all the genuine</l>
                     <l justify="left" n="bb32.d.te.07.14">Pictures are on Plaster or Whiting
                         grounds</l>
@@ -787,17 +859,24 @@
                             <reg type="split_word">Egyptian</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.07.19">
-                        <orig>tian</orig>Antiquity, which are
+                        <choice>
+                            <orig>tian</orig>
+                            <reg>Egyptian</reg>
+                        </choice>Antiquity, which are
                         still preserved on</l>
                     <l justify="left" n="bb32.d.te.07.20">rude monuments, being copies from some 
                         <choice>
                             <orig>stu–</orig>
                             <reg type="split_word">stupendous</reg></choice>
                     </l>
-                    <l justify="left" n="bb32.d.te.07.21">pendous orignals now lost or perhaps
+                    <l justify="left" n="bb32.d.te.07.21">
+                        <choice>
+                            <orig>pendous</orig>
+                            <reg>stupendous</reg>
+                        </choice>orignals now lost or perhaps
                         buried</l>
                     <l justify="left" n="bb32.d.te.07.22">till some happier age. The Artist having
-                    been</l>
+                        been</l>
                 </lg>
                 <textfoot justify="left">
                     <l indent="19" justify="left" n="bb32.d.te.07.23">B 2</l>
@@ -817,7 +896,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="20" justify="left" n="bb32.d.te.08.01">
+                    <l indent="19" justify="left" n="bb32.d.te.08.01">
                         <physnumber>4</physnumber>
                     </l>
                 </texthead>
@@ -830,7 +909,10 @@
                             <reg type="split_word">monarchies</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.08.03">
-                        <orig>narchies</orig>, and patriarchates
+                        <choice>
+                            <orig>narchies</orig>
+                            <reg>monarchies</reg>
+                        </choice>, and patriarchates
                         of Asia, has seen those</l>
                     <l justify="left" n="bb32.d.te.08.04">wonderful originals called in the Sacred 
                         <choice>
@@ -838,7 +920,10 @@
                             <reg type="split_word">Scriptures</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.08.05">
-                        <orig>tures</orig>the Cherubim, which
+                        <choice>
+                            <orig>tures</orig>
+                            <reg>Scriptures</reg>
+                        </choice>the Cherubim, which
                         were sculptured and</l>
                     <l justify="left" n="bb32.d.te.08.06">painted on walls of Temples, Towers,
                         Cities,</l>
@@ -854,17 +939,24 @@
                             <reg type="split_word">Hercules</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.08.11">
-                        <orig>cules</orig>, Farnese, Venus of 
+                        <choice>
+                            <orig>cules</orig>
+                            <reg>Hercules</reg>
+                        </choice>, Farnese, Venus of 
                         <choice>
                             <orig>Medicis</orig>
                             <reg>Medici</reg></choice>, Apollo 
                         <choice>
                             <orig>Bel–</orig>
-                            <reg>Belvedere&gt;</reg>
+                            <reg>Belvedere</reg>
                             <reg type="split_word">Belvidere</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.08.12">
-                        <orig>videre</orig>, and all the grand
+                        <choice>
+                            <orig>videre</orig>
+                            <reg>Belvidere</reg>
+                            <reg>Belvedere</reg>
+                        </choice>, and all the grand
                         works of ancient art.</l>
                     <l justify="left" n="bb32.d.te.08.13">They were executed in a very superior
                         style</l>
@@ -878,7 +970,10 @@
                             <reg type="split_word">endeavoured</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.08.17">
-                        <orig>ed</orig>to emulate the grandeur
+                        <choice>
+                            <orig>ed</orig>
+                            <reg>endeavoured</reg>
+                        </choice>to emulate the grandeur
                         of those seen in</l>
                     <l justify="left" n="bb32.d.te.08.18">his vision, and to apply it to modern
                         Heroes,</l>
@@ -905,7 +1000,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="20" justify="left" n="bb32.d.te.09.01">
+                    <l indent="19" justify="left" n="bb32.d.te.09.01">
                         <physnumber>5</physnumber>
                     </l>
                 </texthead>
@@ -939,7 +1034,10 @@
                             <reg type="split_word">carved</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.09.14">
-                        <orig>ed</orig>as basso relievos, and
+                        <choice>
+                            <orig>ed</orig>
+                            <reg>carved</reg>
+                        </choice>as basso relievos, and
                         some as 
                         <choice>
                             <orig>groupes</orig>
@@ -949,14 +1047,20 @@
                             <reg type="split_word">statues</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.09.15">
-                        <orig>tues</orig>, all containing
+                        <choice>
+                            <orig>tues</orig>
+                            <reg>statues</reg>
+                        </choice>, all containing
                         mythological and 
                         <choice>
                             <orig>recon–</orig>
                             <reg type="split_word">recondite</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.09.16">
-                        <orig>dite</orig>meaning, where more is
+                        <choice>
+                            <orig>dite</orig>
+                            <reg>recondite</reg>
+                        </choice>meaning, where more is
                         meant than meets</l>
                     <l justify="left" n="bb32.d.te.09.17">the eye. The Artist wishes it was now
                         the</l>
@@ -968,12 +1072,15 @@
                             <reg type="split_word">commision</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.09.20">
-                        <orig>mision</orig>to execute these two
+                        <choice>
+                            <orig>mision</orig>
+                            <reg>commision</reg>
+                        </choice>to execute these two
                         Pictures on a</l>
                     <l justify="left" n="bb32.d.te.09.21">scale that is suitable to the grandeur of
                         the</l>
                     <l justify="left" n="bb32.d.te.09.22">nation, who is the parent of his heroes,
-                    in high</l>
+                        in high</l>
                 </lg>
                 <textfoot justify="left">
                     <l indent="17" justify="left" n="bb32.d.te.09.23">B 3</l>
@@ -999,7 +1106,10 @@
                 </texthead>
                 <vspace extent="0.5"/>
                 <lg type="prose">
-                    <l justify="left" n="bb32.d.te.10.02">finished fresco, where the colours would
+                    <l justify="left" n="bb32.d.te.10.02">finished fresco, where the 
+                        <choice>
+                            <orig>colours</orig>
+                            <reg>colors</reg></choice>would
                         be as</l>
                     <l justify="left" n="bb32.d.te.10.03">pure and as permanent as precious
                         stones</l>
@@ -1014,24 +1124,42 @@
                             <reg type="split_word">unchangeable</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.10.08">
-                        <orig>changeable</orig>; but oil being a
+                        <choice>
+                            <orig>changeable</orig>
+                            <reg>unchangeable</reg>
+                        </choice>; but oil being a
                         body itself, will</l>
-                    <l justify="left" n="bb32.d.te.10.09">drink or absorb very little colour, and 
+                    <l justify="left" n="bb32.d.te.10.09">drink or absorb very little 
+                        <choice>
+                            <orig>colour</orig>
+                            <reg>color</reg></choice>, and 
                         <choice>
                             <orig>chang–</orig>
                             <reg type="split_word">changing</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.10.10">
-                        <orig>ing</orig>yellow, and at length
+                        <choice>
+                            <orig>ing</orig>
+                            <reg>changing</reg>
+                        </choice>yellow, and at length
                         brown, destroys</l>
-                    <l justify="left" n="bb32.d.te.10.11">every colour it is mixed with, especially
+                    <l justify="left" n="bb32.d.te.10.11">every 
+                        <choice>
+                            <orig>colour</orig>
+                            <reg>color</reg></choice>it is mixed with, especially
                         every</l>
-                    <l justify="left" n="bb32.d.te.10.12">delicate colour. It turns every
+                    <l justify="left" n="bb32.d.te.10.12">delicate 
+                        <choice>
+                            <orig>colour</orig>
+                            <reg>color</reg></choice>. It turns every
                         permanent</l>
                     <l justify="left" n="bb32.d.te.10.13">white to a yellow and brown putty, and
                         has</l>
                     <l justify="left" n="bb32.d.te.10.14">compelled the use of that destroyer of
-                        colour,</l>
+                        
+                        <choice>
+                            <orig>colour</orig>
+                            <reg>color</reg></choice>,</l>
                     <l justify="left" n="bb32.d.te.10.15">white lead; which, when its protecting
                         oil is</l>
                     <l justify="left" n="bb32.d.te.10.16">evaporated, will become lead again. This
@@ -1049,7 +1177,10 @@
                             <reg type="split_word">except</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.10.21">
-                        <orig>cept</orig>by blundering
+                        <choice>
+                            <orig>cept</orig>
+                            <reg>except</reg>
+                        </choice>by blundering
                         ignorance, till after 
                         <choice>
                             <orig>Van–</orig>
@@ -1057,7 +1188,11 @@
                             <reg type="split_word">van Dyck</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.10.22">
-                        <orig>dyke</orig>'s time, but the art of
+                        <choice>
+                            <orig>dyke</orig>
+                            <reg>van Dyck</reg>
+                            <reg>Vandyke</reg>
+                        </choice>'s time, but the art of
                         fresco painting</l>
                 </lg>
             </phystext>
@@ -1078,7 +1213,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="21" justify="left" n="bb32.d.te.11.01">
+                    <l indent="20" justify="left" n="bb32.d.te.11.01">
                         <physnumber>7</physnumber>
                     </l>
                 </texthead>
@@ -1109,29 +1244,30 @@
                         <hi rend="italic">Sir </hi>
                         <choice>
                             <orig>
-                                <hi rend="italic">Jeffery
-                    </hi>
+                                <hi rend="italic">Jeffery </hi>
                             </orig>
                             <reg type="alt_name">Geoffrey</reg>
                         </choice>
                         <hi rend="italic">Chaucer and the nine and twenty</hi>
                     </l>
                     <l justify="left" n="bb32.d.te.11.10">
-                        <hi rend="italic">Pilgrims on their journey to
-                        Canterbury.</hi>
+                        <hi rend="italic">Pilgrims on their journey to Canterbury.</hi>
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.11.11">THE time chosen is early morning, before
-                        
+                                
                         <choice>
                             <orig>sun–</orig>
                             <reg type="split_word">sunrise</reg></choice>
                     </l>
                     <l justify="left" n="bb32.d.te.11.12">
-                        <orig>rise</orig>, when the jolly company are just
-                        quitting</l>
+                        <choice>
+                            <orig>rise</orig>
+                            <reg>sunrise</reg>
+                        </choice>, when the jolly company
+                        are just quitting</l>
                     <l justify="left" n="bb32.d.te.11.13">the Tabarde Inn. The Knight and
                         Squire</l>
                     <l justify="left" n="bb32.d.te.11.14">with the Squire's Yeoman lead the
@@ -1146,24 +1282,22 @@
                     <l indent="5" justify="left" n="bb32.d.te.11.17">&quot;Of small hounds had she that
                         fed</l>
                     <l indent="5" justify="left" n="bb32.d.te.11.18">&quot;With roast flesh, milk and
-                            was
-                        <unclear resp="ME">t</unclear>
-                        el bread.&quot;
-                        <note>
-                            The original reads &quot;rost&quot; rather than &quot;roast&quot; and &quot;wastell&quot; instead of 
-                           &quot;wastel&quot; (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        wastel bread.&quot;
+                        <note>The original text reads
+                            &quot;rost&quot; rather than &quot;roast&quot; and &quot;wastell&quot; instead of &quot;wastel&quot; (Chaucer,
+                                *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                 </lg>
                 <vspace extent="0.5"/>
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.11.19">Next follow the Friar and Monk; then
                         the</l>
-                    <l justify="left" n="bb32.d.te.11.20">Tapiser, the Pardoner, and the Somner
-                        and</l>
+                    <l justify="left" n="bb32.d.te.11.20">Tapiser, the Pardoner, and the 
+                        <choice>
+                            <orig>Somner</orig>
+                            <reg>Summoner</reg></choice>and</l>
                     <l justify="left" n="bb32.d.te.11.21">Manciple. After these &quot;Our Host,&quot; who
-                        
+                                
                         <choice>
                             <orig>oc–</orig>
                             <reg type="split_word">occupies</reg></choice>
@@ -1191,23 +1325,50 @@
                 <vspace extent="0.5"/>
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.12.02">
-                        <orig>cupies</orig>the center of the cavalcade;
-                        directs</l>
+                        <choice>
+                            <orig>cupies</orig>
+                            <reg>occupies</reg>
+                        </choice>the center of the
+                        cavalcade; directs</l>
                     <l justify="left" n="bb32.d.te.12.03">them to the Knight as the person who
                         would</l>
                     <l justify="left" n="bb32.d.te.12.04">be likely to commence their task of each
-                        tell–</l>
-                    <l justify="left" n="bb32.d.te.12.05">ing a tale in their order. After the Host
-                        fol–</l>
-                    <l justify="left" n="bb32.d.te.12.06">low the Shipman, the Haberdasher, the
+                        
+                        <choice>
+                            <orig>tell–</orig>
+                            <reg type="split_word">telling</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.12.05">
+                        <choice>
+                            <orig>ing</orig>
+                            <reg>telling</reg>
+                        </choice>a tale in their order. After the Host
+                        
+                        <choice>
+                            <orig>fol–</orig>
+                            <reg type="split_word">follow</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.12.06">
+                        <choice>
+                            <orig>low</orig>
+                            <reg>follow</reg>
+                        </choice>the Shipman, the Haberdasher, the
                         Dyer,</l>
                     <l justify="left" n="bb32.d.te.12.07">the Franklin, the Physician, the Plowman,
                         the</l>
                     <l justify="left" n="bb32.d.te.12.08">Lawyer, the poor Parson, the Merchant,
                         the</l>
                     <l justify="left" n="bb32.d.te.12.09">Wife of Bath, the Miller, the Cook, the
-                        Ox–</l>
-                    <l justify="left" n="bb32.d.te.12.10">ford Scholar, Chaucer himself, and the
+                        
+                        <choice>
+                            <orig>Ox–</orig>
+                            <reg type="split_word">Oxford</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.12.10">
+                        <choice>
+                            <orig>ford</orig>
+                            <reg>Oxford</reg>
+                        </choice>Scholar, Chaucer himself, and the
                         Reeve</l>
                     <l justify="left" n="bb32.d.te.12.11">comes as Chaucer has described:</l>
                 </lg>
@@ -1215,11 +1376,8 @@
                 <lg>
                     <l indent="5" justify="left" n="bb32.d.te.12.12">&quot;And ever he rode hinderest of
                         the rout.&quot;
-                        <note>
-                            The original reads &quot;route&quot; rather than &quot;rout&quot; (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;route&quot; rather than &quot;rout&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                 </lg>
                 <vspace extent="0.5"/>
                 <lg type="prose">
@@ -1256,7 +1414,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="21" justify="left" n="bb32.d.te.13.01">
+                    <l indent="19" justify="left" n="bb32.d.te.13.01">
                         <physnumber>9</physnumber>
                     </l>
                 </texthead>
@@ -1275,34 +1433,70 @@
                     <l justify="left" n="bb32.d.te.13.07">Glossary says was the lodging of the
                         Abbot</l>
                     <l justify="left" n="bb32.d.te.13.08">of Hyde, by Winchester. On the Inn is
-                        in–</l>
-                    <l justify="left" n="bb32.d.te.13.09">scribed its title, and a proper advantage
+                        
+                        <choice>
+                            <orig>in–</orig>
+                            <reg type="split_word">inscribed</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.13.09">
+                        <choice>
+                            <orig>scribed</orig>
+                            <reg>inscribed</reg>
+                        </choice>its title, and a proper advantage
                         is taken</l>
                     <l justify="left" n="bb32.d.te.13.10">of this circumstance to describe the
                         subject</l>
                     <l justify="left" n="bb32.d.te.13.11">of the Picture. The words written over
                         the</l>
                     <l justify="left" n="bb32.d.te.13.12">gateway of the Inn, are as follow: &quot;The
-                        Ta–</l>
-                    <l justify="left" n="bb32.d.te.13.13">barde Inn, by Henry Baillie, the
-                        lodgynge–</l>
+                        
+                        <choice>
+                            <orig>Ta–</orig>
+                            <reg type="split_word">Tabarde</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.13.13">
+                        <choice>
+                            <orig>barde</orig>
+                            <reg>Tabarde</reg>
+                        </choice>Inn, by Henry Baillie, the
+                        
+                        <choice>
+                            <orig>lodgynge–</orig>
+                            <reg>lodging</reg></choice>
+                    </l>
                     <l justify="left" n="bb32.d.te.13.14">house for Pilgrims, who journey to
                         Saint</l>
                     <l justify="left" n="bb32.d.te.13.15">Thomas's Shrine at Canterbury.&quot;</l>
                     <l indent="2" justify="left" n="bb32.d.te.13.16">The characters of Chaucer's
                         Pilgrims are</l>
                     <l justify="left" n="bb32.d.te.13.17">the characters which compose all ages and
-                        na–</l>
-                    <l justify="left" n="bb32.d.te.13.18">tions: as one age falls, another rises,
+                        
+                        <choice>
+                            <orig>na–</orig>
+                            <reg type="split_word">nations</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.13.18">
+                        <choice>
+                            <orig>tions</orig>
+                            <reg>nations</reg>
+                        </choice>: as one age falls, another rises,
                         different</l>
                     <l justify="left" n="bb32.d.te.13.19">to mortal sight, but to immortals only
                         the</l>
                     <l justify="left" n="bb32.d.te.13.20">same; for we see the same characters
                         repeated</l>
                     <l justify="left" n="bb32.d.te.13.21">again and again, in animals, vegetables,
-                        mine–</l>
-                    <l justify="left" n="bb32.d.te.13.22">rals, and in men; nothing new occurs in
                         
+                        <choice>
+                            <orig>mine–</orig>
+                            <reg type="split_word">minerals</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.13.22">
+                        <choice>
+                            <orig>rals</orig>
+                            <reg>minerals</reg>
+                        </choice>, and in men; nothing new occurs in
+                                
                         <choice>
                             <orig>iden–</orig>
                             <reg type="split_word">identical</reg></choice>
@@ -1330,21 +1524,56 @@
                 <vspace extent="0.5"/>
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.14.02">
-                        <orig>tical</orig>existence; Accident ever varies,
-                        Sub–</l>
-                    <l justify="left" n="bb32.d.te.14.03">stance can never suffer change nor
+                        <choice>
+                            <orig>tical</orig>
+                            <reg>identical</reg>
+                        </choice>existence; Accident
+                        ever varies, 
+                        <choice>
+                            <orig>Sub–</orig>
+                            <reg type="split_word">Substance</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.14.03">
+                        <choice>
+                            <orig>stance</orig>
+                            <reg>Substance</reg>
+                        </choice>can never suffer change nor
                         decay.</l>
                     <l indent="2" justify="left" n="bb32.d.te.14.04">Of Chaucer's characters, as
                         described in his</l>
                     <l justify="left" n="bb32.d.te.14.05">Canterbury Tales, some of the names or
                         titles</l>
                     <l justify="left" n="bb32.d.te.14.06">are altered by time, but the characters
-                        them–</l>
-                    <l justify="left" n="bb32.d.te.14.07">selves for ever remain unaltered, and
-                        conse–</l>
-                    <l justify="left" n="bb32.d.te.14.08">quently they are the physiognomies or
-                        linea–</l>
-                    <l justify="left" n="bb32.d.te.14.09">ments of universal human life, beyond
+                        
+                        <choice>
+                            <orig>them–</orig>
+                            <reg type="split_word">themselves</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.14.07">
+                        <choice>
+                            <orig>selves</orig>
+                            <reg>themselves</reg>
+                        </choice>for ever remain unaltered, and
+                        
+                        <choice>
+                            <orig>conse–</orig>
+                            <reg type="split_word">consequently</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.14.08">
+                        <choice>
+                            <orig>quently</orig>
+                            <reg>consequently</reg>
+                        </choice>they are the physiognomies or
+                        
+                        <choice>
+                            <orig>linea–</orig>
+                            <reg type="split_word">lineaments</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.14.09">
+                        <choice>
+                            <orig>ments</orig>
+                            <reg>lineaments</reg>
+                        </choice>of universal human life, beyond
                         which</l>
                     <l justify="left" n="bb32.d.te.14.10">Nature never steps. Names alter,
                         things</l>
@@ -1366,8 +1595,16 @@
                     <l justify="left" n="bb32.d.te.14.19">ture's varieties; the Horses he has also
                         varied</l>
                     <l justify="left" n="bb32.d.te.14.20">to accord to their Riders, the Costume is
-                        cor–</l>
-                    <l justify="left" n="bb32.d.te.14.21">rect according to authentic
+                        
+                        <choice>
+                            <orig>cor–</orig>
+                            <reg type="split_word">correct</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.14.21">
+                        <choice>
+                            <orig>rect</orig>
+                            <reg>correct</reg>
+                        </choice>according to authentic
                         monuments.</l>
                     <l indent="2" justify="left" n="bb32.d.te.14.22">The Knight and the Squire with
                         the Squire's</l>
@@ -1402,8 +1639,9 @@
                     <l justify="left" n="bb32.d.te.15.05">whole length portrait on horseback, as
                         written</l>
                     <l justify="left" n="bb32.d.te.15.06">by Chaucer, cannot be surpassed. He has
-                        spent
-                        <note>There is a stray mark after &quot;by.&quot; Probably a typographical variation.</note></l>
+                            spent
+                        <note>There is a stray mark after &quot;by&quot;. Probably a typographical
+                            variation.</note></l>
                     <l justify="left" n="bb32.d.te.15.07">his life in the field; has ever been a
                         conqueror,</l>
                     <l justify="left" n="bb32.d.te.15.08">and is that species of character which
@@ -1421,22 +1659,28 @@
                     <l justify="left" n="bb32.d.te.15.14">are of the first rate, without
                         ostentation, and</l>
                     <l justify="left" n="bb32.d.te.15.15">with all the true grandeur that
-                        unaffected sim–</l>
-                    <l justify="left" n="bb32.d.te.15.16">plicity when in high rank always
+                        unaffected 
+                        <choice>
+                            <orig>sim–</orig>
+                            <reg type="split_word">plicity</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.15.16">
+                        <choice>
+                            <orig>plicity</orig>
+                            <reg>simplicity</reg>
+                        </choice>when in high rank always
                         displays.</l>
                     <l justify="left" n="bb32.d.te.15.17">The Squire's Yeoman is also a great
                         character,</l>
                     <l justify="left" n="bb32.d.te.15.18">a man perfectly knowing in his
-                    profession:</l>
+                        profession:</l>
                 </lg>
                 <lg>
                     <l indent="2" justify="left" n="bb32.d.te.15.19">&quot;And in his hand he bare a
                         mighty bow.&quot;
-                        <note>
-                            The original reads &quot;mightie&quot; rather than &quot;mighty&quot; (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;mightie&quot; rather than &quot;mighty&quot;
+                            (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                 </lg>
                 <vspace extent="0.5"/>
                 <lg type="prose">
@@ -1462,7 +1706,7 @@
             <phystext>
                 <vspace extent="0.5"/>
                 <texthead justify="left">
-                    <l indent="20" justify="left" n="bb32.d.te.16.01">
+                    <l indent="19" justify="left" n="bb32.d.te.16.01">
                         <physnumber>12</physnumber>
                     </l>
                 </texthead>
@@ -1478,18 +1722,18 @@
                         had she,</l>
                     <l indent="5" justify="left" n="bb32.d.te.16.05">&quot;That was her Chaplaine and
                         Priests three.&quot;
-                        <note>
-                            The original reads &quot;Chapleine&quot; rather than &quot;Chaplaine&quot;
-                    (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;Chapleine&quot; rather than &quot;Chaplaine&quot;
+                            (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l indent="2" justify="left" n="bb32.d.te.16.06">This Lady is described also as
                         of the first</l>
-                    <l justify="left" n="bb32.d.te.16.07">rank; rich and honoured. She has
+                    <l justify="left" n="bb32.d.te.16.07">rank; rich and 
+                        <choice>
+                            <orig>honoured</orig>
+                            <reg>honored</reg></choice>. She has
                         certain</l>
                     <l justify="left" n="bb32.d.te.16.08">peculiarities and little delicate
                         affectations, not</l>
@@ -1498,14 +1742,30 @@
                     <l justify="left" n="bb32.d.te.16.10">what is truly grand and really polite;
                         her person</l>
                     <l justify="left" n="bb32.d.te.16.11">and face, Chaucer has described with
-                        minute–</l>
-                    <l justify="left" n="bb32.d.te.16.12">ness; it is very elegant, and was the
+                        
+                        <choice>
+                            <orig>minute–</orig>
+                            <reg type="split_word">minuteness</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.16.12">
+                        <choice>
+                            <orig>ness</orig>
+                            <reg>minuteness</reg>
+                        </choice>; it is very elegant, and was the
                         beauty of</l>
                     <l justify="left" n="bb32.d.te.16.13">our ancestors, till after Elizabeth's
                         time, when</l>
                     <l justify="left" n="bb32.d.te.16.14">voluptuousness and folly began to be
-                        account–</l>
-                    <l justify="left" n="bb32.d.te.16.15">ed beautiful.</l>
+                        
+                        <choice>
+                            <orig>account–</orig>
+                            <reg type="split_word">accounted</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.16.15">
+                        <choice>
+                            <orig>ed</orig>
+                            <reg>accounted</reg>
+                        </choice>ed beautiful.</l>
                     <l indent="2" justify="left" n="bb32.d.te.16.16">Her companion and her three
                         priests were no</l>
                     <l justify="left" n="bb32.d.te.16.17">doubt all perfecty delineated in those
@@ -1541,7 +1801,10 @@
                         the Friar.</l>
                     <l justify="left" n="bb32.d.te.17.03">The Painter has also grouped with these,
                         the</l>
-                    <l justify="left" n="bb32.d.te.17.04">Pardoner and the Sompnour and the
+                    <l justify="left" n="bb32.d.te.17.04">Pardoner and the 
+                        <choice>
+                            <orig>Sompnour</orig>
+                            <reg>Summoner</reg></choice>and the
                         Manciple,</l>
                     <l justify="left" n="bb32.d.te.17.05">and has here also introduced one of the
                         rich</l>
@@ -1558,8 +1821,16 @@
                     <l justify="left" n="bb32.d.te.17.11">and expensively attended: he is a leader
                         of </l>
                     <l justify="left" n="bb32.d.te.17.12">the age, with certain humourous
-                        accompani–</l>
-                    <l justify="left" n="bb32.d.te.17.13">ments in his character, that do not
+                        
+                        <choice>
+                            <orig>accompani–</orig>
+                            <reg type="split_word">accompaniments</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.17.13">
+                        <choice>
+                            <orig>ments</orig>
+                            <reg>accompaniments</reg>
+                        </choice>in his character, that do not
                         degrade,</l>
                     <l justify="left" n="bb32.d.te.17.14">but render him an object of dignified
                         mirth,</l>
@@ -1573,31 +1844,24 @@
                 <lg>
                     <l indent="2" justify="left" n="bb32.d.te.17.18">&quot;A friar there was, a wanton
                         and a merry.&quot;
-                        <note>
-                            The original reads &quot;frere&quot; rather than &quot;friar&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;frere&quot; rather than &quot;friar&quot; (Chaucer,
+                                *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l indent="1" justify="left" n="bb32.d.te.17.19">ut in his office he is said to
                         be a &quot;full solemn
-                        <note>
-                            Bentley inserts a “[B]” in front of the letters “ut” and suggests 
-                            that “the b dropped out of ‘but’” (
-                            <hi rend="i">Writings</hi>
-                            volume 2, pages 836 and 1694n14).</note>
-                        <note>The original reads &quot;solempne&quot; rather than &quot;solemn&quot; (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>Bentley inserts a “[B]” in front of the letters “ut”
+                            and suggests that “the b dropped out of ‘but’” (*Writings* volume 2 pages 836 and 1694n14).</note>
+                        <note>The original text reads &quot;solempne&quot; rather than &quot;solemn&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l justify="left" n="bb32.d.te.17.20">man:&quot; eloquent, amorous, witty and
-                        
+                                
                         <choice>
                             <orig>satyri–</orig>
-                            <reg type="split_word">satyrical</reg></choice>
+                            <reg type="split_word">satyrical</reg>
+                            <reg>satirical</reg></choice>
                     </l>
                     <l indent="20" justify="left" n="bb32.d.te.17.21">C</l>
                 </lg>
@@ -1623,9 +1887,21 @@
                 <vspace extent="0.5"/>
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.18.02">
-                        <orig>cal</orig>; young, handsome, and rich; he is a
-                        com–</l>
-                    <l justify="left" n="bb32.d.te.18.03">plete rogue; with constitutional gaiety
+                        <choice>
+                            <orig>cal</orig>
+                            <reg>satirical</reg>
+                            <reg>satyrical</reg>
+                        </choice>; young, handsome, and
+                        rich; he is a 
+                        <choice>
+                            <orig>com–</orig>
+                            <reg type="split_word">complete</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.18.03">
+                        <choice>
+                            <orig>plete</orig>
+                            <reg>complete</reg>
+                        </choice>rogue; with constitutional gaiety
                         enough</l>
                     <l justify="left" n="bb32.d.te.18.04">to make him a master of all the pleasures
                         of</l>
@@ -1635,14 +1911,14 @@
                 <lg>
                     <l indent="3" justify="left" n="bb32.d.te.18.06">&quot;His neck was white as the
                         flour de lis,
-                        <note>
-                            The original reads &quot;floure delice&quot; rather than &quot;flour de lis&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;floure delice&quot; rather than &quot;flour de
+                            lis&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l indent="3" justify="left" n="bb32.d.te.18.07">Thereto strong he was as a
-                        champioun.&quot;</l>
+                        
+                        <choice>
+                            <orig>champioun</orig>
+                            <reg>champion</reg></choice>.&quot;</l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
@@ -1651,14 +1927,26 @@
                     <l justify="left" n="bb32.d.te.18.09">own character, that I may set certain
                         mistaken</l>
                     <l justify="left" n="bb32.d.te.18.10">critics right in their conception of the
-                        humour</l>
+                        
+                        <choice>
+                            <orig>humour</orig>
+                            <reg>humor</reg></choice>
+                    </l>
                     <l justify="left" n="bb32.d.te.18.11">and fun that occurs on the journey.
                         Chaucer</l>
                     <l justify="left" n="bb32.d.te.18.12">is himself the great poetical observer of
                         men,</l>
                     <l justify="left" n="bb32.d.te.18.13">who in every age is born to record and
-                        eter–</l>
-                    <l justify="left" n="bb32.d.te.18.14">nize its acts. This he does as a master,
+                        
+                        <choice>
+                            <orig>eter–</orig>
+                            <reg type="split_word">eternize</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.18.14">
+                        <choice>
+                            <orig>nize</orig>
+                            <reg>eternize</reg>
+                        </choice>its acts. This he does as a master,
                         as a</l>
                     <l justify="left" n="bb32.d.te.18.15">father, and superior, who looks down on
                         their</l>
@@ -1701,58 +1989,48 @@
                 </lg>
                 <vspace extent="1"/>
                 <lg>
-                    <l indent="3" justify="left" n="bb32.d.te.19.05">&quot;Ho quoth the Knyght, good
+                    <l indent="3" justify="left" n="bb32.d.te.19.05">&quot;Ho quoth the 
+                        <choice>
+                            <orig>Knyght</orig>
+                            <reg>Knight</reg></choice>, good
                         Sir, no more of this,
-                        <note>
-                            The original reads &quot;qd.the knight&quot; rather than &quot;quoth the Knyght&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;qd.the knight&quot; rather than
+                            &quot;quoth the Knyght&quot; (Chaucer, *Works*, Speght 1687
+                            ed. &quot;Author's Prologue&quot;).</note></l>
                     <l indent="3" justify="left" n="bb32.d.te.19.06">That ye have said, is right
                         ynough I wis;
-                        <note>
-                            The original reads &quot;iwis&quot; rather than &quot;wis&quot; 
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;iwis&quot; rather than &quot;wis&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l indent="3" justify="left" n="bb32.d.te.19.07">And mokell more, for little
-                        heaviness,
-                        <note>
-                            The original reads &quot;mokel&quot; rather than &quot;mokell&quot; 
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                            heaviness,
+                        <note>The original text reads &quot;mokel&quot; rather than &quot;mokell&quot;
+                            (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l indent="3" justify="left" n="bb32.d.te.19.08">Is right enough for much folk
                         as I guesse.
-                        <note>
-                            The original reads &quot;inough&quot; rather than &quot;enough,&quot; &quot;folke&quot; rather than &quot;folk,&quot;
-                            and &quot;gesse&quot; rather than &quot;guesse&quot; (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;inough&quot; rather than &quot;enough,&quot; &quot;folke&quot;
+                            rather than &quot;folk,&quot; and &quot;gesse&quot; rather than &quot;guesse&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l indent="3" justify="left" n="bb32.d.te.19.09">I say for me, it is a great
                         disease,</l>
                     <l indent="3" justify="left" n="bb32.d.te.19.10">Whereas men have been in
                         wealth and ease;
-                        <note>
-                            The original reads &quot;be in welth&quot; rather than &quot;been in wealth&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
-                    <l indent="3" justify="left" n="bb32.d.te.19.11">To heare of their sudden fall
-                        alas,
-                        <note>
-                            The original reads &quot;her suddaine&quot; rather than &quot;their sudden&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;be in welth&quot; rather than &quot;been in
+                            wealth&quot; (Chaucer, *Works*, Speght 1687 ed.
+                            &quot;Author's Prologue&quot;).</note></l>
+                    <l indent="3" justify="left" n="bb32.d.te.19.11">To 
+                        <choice>
+                            <orig>heare</orig>
+                            <reg>hear</reg></choice>of their sudden fall
+                            alas,
+                        <note>The original text reads &quot;her suddaine&quot; rather than &quot;their sudden&quot;
+                            (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l indent="3" justify="left" n="bb32.d.te.19.12">And the contrary is joy and
-                        solas.&quot;</l>
+                        
+                        <choice>
+                            <orig>solas</orig>
+                            <reg>solace</reg></choice>.&quot;</l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
@@ -1762,40 +2040,33 @@
                 </lg>
                 <vspace extent="1"/>
                 <lg>
-                    <l indent="7" justify="left" n="bb32.d.te.19.15">&quot;Tragedie is to tell a certain
-                        story,
-                        <note>
-                            The original reads &quot;certaine&quot; rather than &quot;certain&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                    <l indent="7" justify="left" n="bb32.d.te.19.15">&quot;
+                        <choice>
+                            <orig>Tragedie</orig>
+                            <reg>Tragedy</reg></choice>is to tell a certain
+                            story,
+                        <note>The original text reads &quot;certaine&quot; rather than &quot;certain&quot;
+                            (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l indent="7" justify="left" n="bb32.d.te.19.16">As old books us maken
-                        memory;
-                        <note>
-                            The original reads &quot;bookes&quot; rather than &quot;books&quot; and &quot;memorie&quot; rather than &quot;memory&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                            memory;
+                        <note>The original text reads &quot;bookes&quot; rather than &quot;books&quot; and
+                            &quot;memorie&quot; rather than &quot;memory&quot; (Chaucer, *Works*,
+                            Speght 1687 ed. &quot;Author's Prologue&quot;).</note></l>
                     <l indent="7" justify="left" n="bb32.d.te.19.17">Of hem that stood in great
-                        prosperity.
-                        <note>
-                            The original reads &quot;prosperitie&quot; rather than &quot;prosperity&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                            prosperity.
+                        <note>The original text reads &quot;prosperitie&quot; rather than
+                            &quot;prosperity&quot; (Chaucer, *Works*, Speght 1687 ed.
+                            &quot;Author's Prologue&quot;).</note></l>
                     <l indent="7" justify="left" n="bb32.d.te.19.18">And be fallen out of high
-                        degree,
-                        <note>
-                            The original reads &quot;hie&quot; rather than &quot;high&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
-                    <l indent="7" justify="left" n="bb32.d.te.19.19">Into miserie and ended
-                    wretchedly.&quot;</l>
+                            degree,
+                        <note>The original text reads &quot;hie&quot; rather than &quot;high&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
+                    <l indent="7" justify="left" n="bb32.d.te.19.19">Into 
+                        <choice>
+                            <orig>miserie</orig>
+                            <reg>misery</reg></choice>and ended
+                        wretchedly.&quot;</l>
                 </lg>
                 <textfoot>
                     <l indent="21" justify="left" n="bb32.d.te.19.20">C 2</l>
@@ -1822,21 +2093,45 @@
                 <vspace extent="0.5"/>
                 <lg type="prose">
                     <l indent="2" justify="left" n="bb32.d.te.20.02">Though a man of luxury, pride
-                        and plea–</l>
-                    <l justify="left" n="bb32.d.te.20.03">sure, he is a master of art and learning,
+                        and 
+                        <choice>
+                            <orig>plea–</orig>
+                            <reg type="split_word">pleasure</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.20.03">
+                        <choice>
+                            <orig>sure</orig>
+                            <reg>pleasure</reg>
+                        </choice>, he is a master of art and learning,
                         though</l>
                     <l justify="left" n="bb32.d.te.20.04">affecting to despise it. Those who can
                         think</l>
                     <l justify="left" n="bb32.d.te.20.05">that the proud Huntsman, and noble
-                        House–</l>
-                    <l justify="left" n="bb32.d.te.20.06">keeper, Chaucer's Monk, is intended for a
-                        buf–</l>
-                    <l justify="left" n="bb32.d.te.20.07">foon or a burlesque character, know
+                        
+                        <choice>
+                            <orig>House–</orig>
+                            <reg type="split_word">Housekeeper</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.20.06">
+                        <choice>
+                            <orig>keeper</orig>
+                            <reg>Housekeeper</reg>
+                        </choice>, Chaucer's Monk, is intended for a
+                        
+                        <choice>
+                            <orig>buf–</orig>
+                            <reg type="split_word">buffoon</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.20.07">
+                        <choice>
+                            <orig>foon</orig>
+                            <reg>buffoon</reg>
+                        </choice>or a burlesque character, know
                         little of</l>
                     <l justify="left" n="bb32.d.te.20.08">Chaucer.</l>
                     <l indent="2" justify="left" n="bb32.d.te.20.09">For the Host who follows this
                         group, and</l>
-                    <l justify="left" n="bb32.d.te.20.10">holds the center of the calvacade, is a
+                    <l justify="left" n="bb32.d.te.20.10">holds the center of the cavalcade, is a
                         first rate</l>
                     <l justify="left" n="bb32.d.te.20.11">character, and his jokes are no trifles;
                         they</l>
@@ -1845,8 +2140,16 @@
                     <l justify="left" n="bb32.d.te.20.13">equally free with the Lord and the
                         Peasant,</l>
                     <l justify="left" n="bb32.d.te.20.14">they are always substantially and
-                        weightily ex–</l>
-                    <l justify="left" n="bb32.d.te.20.15">pressive of knowledge and experience;
+                        weightily 
+                        <choice>
+                            <orig>ex–</orig>
+                            <reg type="split_word">expressive</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.20.15">
+                        <choice>
+                            <orig>pressive</orig>
+                            <reg>expressive</reg>
+                        </choice>of knowledge and experience;
                         Henry</l>
                     <l justify="left" n="bb32.d.te.20.16">Baillie, the keeper of the greatest Inn,
                         of the</l>
@@ -1856,8 +2159,18 @@
                         a</l>
                     <l justify="left" n="bb32.d.te.20.19">leader of the age.</l>
                     <l indent="2" justify="left" n="bb32.d.te.20.20">By way of illustration, I
-                        instance Shaks–</l>
-                    <l justify="left" n="bb32.d.te.20.21">peare's Witches in Macbeth. Those who
+                        instance 
+                        <choice>
+                            <orig>Shaks–</orig>
+                            <reg type="split_word">Shakspeare's</reg>
+                            <reg>Shakespeare's</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.20.21">
+                        <choice>
+                            <orig>peare's</orig>
+                            <reg>Shakspeare's</reg>
+                            <reg>Shakespeare's</reg>
+                        </choice>Witches in Macbeth. Those who
                         dress</l>
                 </lg>
             </phystext>
@@ -1875,7 +2188,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="20" justify="left" n="bb32.d.te.21.01">
+                    <l indent="19" justify="left" n="bb32.d.te.21.01">
                         <physnumber>17</physnumber>
                     </l>
                 </texthead>
@@ -1883,23 +2196,46 @@
                 <lg type="prose">
                     <l justify="left" n="bb32.d.te.21.02">them for the stage, consider them as
                         wretched</l>
-                    <l justify="left" n="bb32.d.te.21.03">old women, and not as Shakspeare
-                        intended,</l>
-                    <l justify="left" n="bb32.d.te.21.04">the Goddesses of Destiny; this shews
-                        how</l>
+                    <l justify="left" n="bb32.d.te.21.03">old women, and not as 
+                        <choice>
+                            <orig>Shakspeare</orig>
+                            <reg type="alt_name">Shakespeare</reg></choice>intended,</l>
+                    <l justify="left" n="bb32.d.te.21.04">the Goddesses of Destiny; this 
+                        <choice>
+                            <orig>shews</orig>
+                            <reg>shows</reg></choice>how</l>
                     <l justify="left" n="bb32.d.te.21.05">Chaucer has been misunderstood in his
                         sublime</l>
-                    <l justify="left" n="bb32.d.te.21.06">work. Shakspeare's Fairies also are
+                    <l justify="left" n="bb32.d.te.21.06">work. 
+                        <choice>
+                            <orig>Shakspeare's</orig>
+                            <reg type="alt_name">Shakespeare's</reg></choice>Fairies also are
                         the</l>
                     <l justify="left" n="bb32.d.te.21.07">rulers of the vegetable world, and so are
-                        Chau–</l>
-                    <l justify="left" n="bb32.d.te.21.08">cer's; let them be so considered, and
+                        
+                        <choice>
+                            <orig>Chau–</orig>
+                            <reg type="split_word">Chaucer's</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.21.08">
+                        <choice>
+                            <orig>cer's</orig>
+                            <reg>Chaucer's</reg>
+                        </choice>; let them be so considered, and
                         then the</l>
                     <l justify="left" n="bb32.d.te.21.09">poet will be understood, and not
                         else.</l>
                     <l indent="2" justify="left" n="bb32.d.te.21.10">But I have omitted to speak of
-                        a very promi–</l>
-                    <l justify="left" n="bb32.d.te.21.11">nent character, the Pardoner, the Age's
+                        a very 
+                        <choice>
+                            <orig>promi–</orig>
+                            <reg type="split_word">prominent</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.21.11">
+                        <choice>
+                            <orig>nent</orig>
+                            <reg>prominent</reg>
+                        </choice>character, the Pardoner, the Age's
                         Knave,</l>
                     <l justify="left" n="bb32.d.te.21.12">who always commands and domineers over
                         the</l>
@@ -1916,12 +2252,18 @@
                     <l justify="left" n="bb32.d.te.21.18">has also his great use, and his grand
                         leading</l>
                     <l justify="left" n="bb32.d.te.21.19">destiny.</l>
-                    <l indent="2" justify="left" n="bb32.d.te.21.20">His companion the Sompnour, is
+                    <l indent="2" justify="left" n="bb32.d.te.21.20">His companion the 
+                        <choice>
+                            <orig>Sompnour</orig>
+                            <reg>Summoner</reg></choice>, is
                         also a Devil</l>
                     <l justify="left" n="bb32.d.te.21.21">of the first magnitude, grand, terrific,
                         rich</l>
-                    <l justify="left" n="bb32.d.te.21.22">and honoured in the rank of which he
-                    holds</l>
+                    <l justify="left" n="bb32.d.te.21.22">and 
+                        <choice>
+                            <orig>honoured</orig>
+                            <reg>honored</reg></choice>in the rank of which he
+                        holds</l>
                 </lg>
                 <textfoot>
                     <l indent="19" justify="left" n="bb32.d.te.21.23">C 3</l>
@@ -1941,7 +2283,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="18" justify="left" n="bb32.d.te.22.01">
+                    <l indent="17" justify="left" n="bb32.d.te.22.01">
                         <physnumber>18</physnumber>
                     </l>
                 </texthead>
@@ -1956,62 +2298,92 @@
                 <vspace extent="1"/>
                 <lg>
                     <l indent="5" justify="left" n="bb32.d.te.22.05">&quot;In daunger had he at his own
-                        gise,
-                        <note>
-                            The original reads &quot;owne&quot; rather than &quot;own&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                            gise,
+                        <note>The original text reads &quot;owne&quot; rather than &quot;own&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l indent="5" justify="left" n="bb32.d.te.22.06">The young girls of his
-                        diocese,
-                        <note>
-                            The original reads &quot;yong girles&quot; rather than &quot;young girls,&quot; and &quot;Diocise&quot; rather than &quot;diocese&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                            diocese,
+                        <note>The original text reads &quot;yong girles&quot; rather than &quot;young
+                            girls,&quot; and &quot;Diocise&quot; rather than &quot;diocese&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's Prologue&quot;).</note></l>
                     <l indent="5" justify="left" n="bb32.d.te.22.07">And he knew well their
                         counsel, &amp;c.&quot;
-                        <note>
-                            Bentley suggests that the double quotation mark after
-                            &quot;&amp;c.&quot; is printed using &quot;an apostrophe and a
-                            single quotation mark&quot; (
-                            <hi rend="i">Writings</hi>
-                            volume 2, pages 838n34 and 1694n17).</note>
-                        <note>The original reads &quot;knew her counsaile, and was of her read&quot; rather than &quot;knew well their counsel, &amp;c.&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>Bentley suggests that the double quotation mark after
+                            &quot;&amp;c.&quot; is printed using &quot;an apostrophe and a single quotation mark&quot;
+                                (*Writings* volume 2 pages 838n34 and
+                            1694n17).</note>
+                        <note>The original text reads &quot;knew her counsaile, and was of her read&quot; rather
+                            than &quot;knew well their counsel, &amp;c.&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's Prologue&quot;).</note></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l indent="2" justify="left" n="bb32.d.te.22.08">The principal figure in the
-                        next groupe, is</l>
+                        next 
+                        <choice>
+                            <orig>groupe</orig>
+                            <reg>group</reg></choice>, is</l>
                     <l justify="left" n="bb32.d.te.22.09">the Good Parson; an Apostle, a real
-                        Messen–</l>
-                    <l justify="left" n="bb32.d.te.22.10">ger of Heaven, sent in every age for its
+                        
+                        <choice>
+                            <orig>Messen–</orig>
+                            <reg type="split_word"/></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.10">
+                        <choice>
+                            <orig>ger</orig>
+                            <reg>Messenger</reg>
+                        </choice>of Heaven, sent in every age for its
                         light</l>
                     <l justify="left" n="bb32.d.te.22.11">and its warmth. This man is beloved and
-                        ve–</l>
-                    <l justify="left" n="bb32.d.te.22.12">nerated by all, and neglected by all:
+                        
+                        <choice>
+                            <orig>ve–</orig>
+                            <reg type="split_word"/></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.12">
+                        <choice>
+                            <orig>nerated</orig>
+                            <reg>venerated</reg>
+                        </choice>by all, and neglected by all:
                         He</l>
                     <l justify="left" n="bb32.d.te.22.13">serves all, and is served by none; he is,
-                        ac–</l>
-                    <l justify="left" n="bb32.d.te.22.14">cording to Christ's definition, the
+                        
+                        <choice>
+                            <orig>ac–</orig>
+                            <reg type="split_word">according</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.14">
+                        <choice>
+                            <orig>cording</orig>
+                            <reg>according</reg>
+                        </choice>to Christ's definition, the
                         greatest of</l>
                     <l justify="left" n="bb32.d.te.22.15">his age. Yet he is a Poor Parson of a
                         town.</l>
                     <l justify="left" n="bb32.d.te.22.16">Read Chaucer's description of the Good
-                        Par–</l>
-                    <l justify="left" n="bb32.d.te.22.17">son, and bow the head and the knee to
+                        
+                        <choice>
+                            <orig>Par–</orig>
+                            <reg type="split_word">Parson</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.17">
+                        <choice>
+                            <orig>son</orig>
+                            <reg>Parson</reg>
+                        </choice>, and bow the head and the knee to
                         him,</l>
                     <l justify="left" n="bb32.d.te.22.18">who, in every age sends us such a burning
                         and</l>
                     <l justify="left" n="bb32.d.te.22.19">a shining light. Search O ye rich and
-                        power–</l>
-                    <l justify="left" n="bb32.d.te.22.20">ful, for these men and obey their
+                        
+                        <choice>
+                            <orig>power–</orig>
+                            <reg type="split_word">powerful</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.20">
+                        <choice>
+                            <orig>ful</orig>
+                            <reg>powerful</reg>
+                        </choice>, for these men and obey their
                         counsel, then</l>
                 </lg>
             </phystext>
@@ -2059,10 +2431,21 @@
                     <l justify="left" n="bb32.d.te.23.13">Lawyer is a character of great
                         venerableness,</l>
                     <l justify="left" n="bb32.d.te.23.14">a Judge, and a real master of the
-                        jurispru–</l>
-                    <l justify="left" n="bb32.d.te.23.15">dence of his age.</l>
+                        
+                        <choice>
+                            <orig>jurispru–</orig>
+                            <reg type="split_word">jurisprudence</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.23.15">
+                        <choice>
+                            <orig>dence</orig>
+                            <reg>jurisprudence</reg>
+                        </choice>of his age.</l>
                     <l indent="2" justify="left" n="bb32.d.te.23.16">The Doctor of Physic is in
-                        this groupe,</l>
+                        this 
+                        <choice>
+                            <orig>groupe</orig>
+                            <reg>group</reg></choice>,</l>
                     <l justify="left" n="bb32.d.te.23.17">and the Franklin, the voluptuous
                         country</l>
                     <l justify="left" n="bb32.d.te.23.18">gentleman, contrasted wth the
@@ -2104,8 +2487,16 @@
                     <l justify="left" n="bb32.d.te.24.04">The Doctor of Physic is described as the
                         first</l>
                     <l justify="left" n="bb32.d.te.24.05">of his profession; perfect, learned,
-                        com–</l>
-                    <l justify="left" n="bb32.d.te.24.06">pletely Master and Doctor in his art.
+                        
+                        <choice>
+                            <orig>com–</orig>
+                            <reg type="split_word">completely</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.24.06">
+                        <choice>
+                            <orig>pletely</orig>
+                            <reg>completely</reg>
+                        </choice>Master and Doctor in his art.
                         Thus</l>
                     <l justify="left" n="bb32.d.te.24.07">the reader will observe, that Chaucer
                         makes</l>
@@ -2114,9 +2505,20 @@
                     <l justify="left" n="bb32.d.te.24.09">kind, every one is an Antique Statue;
                         the</l>
                     <l justify="left" n="bb32.d.te.24.10">image of a class, and not of an imperfect
-                        in–</l>
-                    <l justify="left" n="bb32.d.te.24.11">dividual.</l>
-                    <l indent="2" justify="left" n="bb32.d.te.24.12">This groupe also would furnish
+                        
+                        <choice>
+                            <orig>in–</orig>
+                            <reg type="split_word">individual</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.24.11">
+                        <choice>
+                            <orig>dividual</orig>
+                            <reg>individual</reg>
+                        </choice>.</l>
+                    <l indent="2" justify="left" n="bb32.d.te.24.12">This 
+                        <choice>
+                            <orig>groupe</orig>
+                            <reg>group</reg></choice>also would furnish
                         substantial</l>
                     <l justify="left" n="bb32.d.te.24.13">matter, on which volumes might be
                         written.</l>
@@ -2125,8 +2527,18 @@
                     <l justify="left" n="bb32.d.te.24.15">who is the genius of eating and drinking,
                         the</l>
                     <l justify="left" n="bb32.d.te.24.16">Bacchus; as the Doctor of Phyisic is the
-                        Es–</l>
-                    <l justify="left" n="bb32.d.te.24.17">culapius, the Host is the Silenus, the
+                        
+                        <choice>
+                            <orig>Es–</orig>
+                            <reg type="split_word">Esculapius</reg>
+                            <reg>Aesculapius</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.24.17">
+                        <choice>
+                            <orig>culapius</orig>
+                            <reg>Esculapius</reg>
+                            <reg>Aesculapius</reg>
+                        </choice>, the Host is the Silenus, the
                         Squire</l>
                     <l justify="left" n="bb32.d.te.24.18">is the Apollo, the Miller is the
                         Hercules, &amp;c.</l>
@@ -2136,7 +2548,11 @@
                         ages. The</l>
                     <l justify="left" n="bb32.d.te.24.21">Franklin is voluptuousness itself most
                         nobly</l>
-                    <l justify="left" n="bb32.d.te.24.22">pourtrayed:</l>
+                    <l justify="left" n="bb32.d.te.24.22">
+                        <choice>
+                            <orig>pourtrayed</orig>
+                            <reg>portrayed</reg>
+                        </choice>:</l>
                 </lg>
             </phystext>
         </desc>
@@ -2153,7 +2569,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="18" justify="left" n="bb32.d.te.25.01">
+                    <l indent="19" justify="left" n="bb32.d.te.25.01">
                         <physnumber>21</physnumber>
                     </l>
                 </texthead>
@@ -2161,26 +2577,50 @@
                 <lg>
                     <l indent="3" justify="left" n="bb32.d.te.25.02">&quot;It snewed in his house of
                         meat and drink.&quot;
-                        <note>
-                            The original reads &quot;meate and drinke&quot; rather than &quot;meat and drink&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>The original text reads &quot;meate and drinke&quot; rather than
+                            &quot;meat and drink&quot; (Chaucer, *Works*, Speght 1687 ed.
+                            &quot;Author's Prologue&quot;).</note></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l indent="2" justify="left" n="bb32.d.te.25.03">The Plowman is simplicity
-                        itself, with wis–</l>
-                    <l justify="left" n="bb32.d.te.25.04">dom and strength for its stamina. Chaucer
+                        itself, with 
+                        <choice>
+                            <orig>wis–</orig>
+                            <reg type="split_word">wisdom</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.25.04">
+                        <choice>
+                            <orig>dom</orig>
+                            <reg>wisdom</reg>
+                        </choice>and strength for its stamina. Chaucer
                         has</l>
                     <l justify="left" n="bb32.d.te.25.05">divided the ancient character of Hercules
-                        be–</l>
-                    <l justify="left" n="bb32.d.te.25.06">tween his Miller and his Plowman.
-                        Benevo–</l>
-                    <l justify="left" n="bb32.d.te.25.07">lence is the plowman's great
+                        
+                        <choice>
+                            <orig>be–</orig>
+                            <reg type="split_word">between</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.25.06">
+                        <choice>
+                            <orig>tween</orig>
+                            <reg>between</reg>
+                        </choice>his Miller and his Plowman.
+                        
+                        <choice>
+                            <orig>Benevo–</orig>
+                            <reg type="split_word">Benevolence</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.25.07">
+                        <choice>
+                            <orig>lence</orig>
+                            <reg>Benevolence</reg>
+                        </choice>is the plowman's great
                         characteristic, he is</l>
-                    <l justify="left" n="bb32.d.te.25.08">thin with excessive labour, and not with
+                    <l justify="left" n="bb32.d.te.25.08">thin with excessive 
+                        <choice>
+                            <orig>labour</orig>
+                            <reg>labor</reg></choice>, and not with
                         old</l>
                     <l justify="left" n="bb32.d.te.25.09">age, as some have supposed.</l>
                 </lg>
@@ -2196,18 +2636,38 @@
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l indent="2" justify="left" n="bb32.d.te.25.13">Visions of these eternal
-                        principles or charac–</l>
-                    <l justify="left" n="bb32.d.te.25.14">ters of human life appear to poets, in
+                        principles or 
+                        <choice>
+                            <orig>charac–</orig>
+                            <reg type="split_word">characters</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.25.14">
+                        <choice>
+                            <orig>ters</orig>
+                            <reg>characters</reg>
+                        </choice>of human life appear to poets, in
                         all ages;</l>
                     <l justify="left" n="bb32.d.te.25.15">the Grecian gods were the ancient
                         Cherubim of</l>
-                    <l justify="left" n="bb32.d.te.25.16">Phœnicia; but the Greeks, and since
-                            them</l>
+                    <l justify="left" n="bb32.d.te.25.16">
+                        <choice>
+                            <orig>Phœnicia</orig>
+                            <reg>Phoenicia</reg>
+                        </choice>; but the Greeks, and since
+                        them</l>
                     <l justify="left" n="bb32.d.te.25.17">the Moderns, have neglected to subdue the
                         gods</l>
                     <l justify="left" n="bb32.d.te.25.18">of Priam. These Gods are visions of the
-                        eter–</l>
-                    <l justify="left" n="bb32.d.te.25.19">nal attributes, or divine names, which,
+                        
+                        <choice>
+                            <orig>eter–</orig>
+                            <reg type="split_word">eternal</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.25.19">
+                        <choice>
+                            <orig>nal</orig>
+                            <reg>eternal</reg>
+                        </choice>attributes, or divine names, which,
                         when</l>
                 </lg>
             </phystext>
