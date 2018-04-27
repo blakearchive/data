@@ -191,8 +191,7 @@
                 <origination>Daniel Nathan Shury
                     <role>printer</role></origination>
                 <imprint>
-                    <publisher>William Blake</publisher>
-                    <!--check these two on blake proj-->
+                    <publisher>James Blake</publisher>
                     <pubplace>London</pubplace>
                     <date>1809</date>
                 </imprint>
@@ -204,37 +203,29 @@
                 <objorder>pages i-iv, 1-68</objorder>
                 <objsize>19.0 x 11.5 cm.</objsize>
                 <numberleaves>36</numberleaves>
-                <!--(38 including first and final blank) should they be included?-->
                 <leafsize>19.0 x 11.5 cm.</leafsize>
                 <medium>type with handwritten corrections in pen and ink</medium>
                 <printingstyle>letterpress</printingstyle>
                 <inkcolor>black</inkcolor>
                 <support>wove paper</support>
-                <!-- do I need to contact the instituion?-->
-                <watermark>Objects 5 and 29 &quot;1807&quot;; objects 9 and 33 &quot;A.P.&quot;
-                </watermark>
-                <binding>Originally issued in wrappers, possibly grayish-blue as in copies C, G, and K. Rebound no later than 1890 in brown
-                    levant morocco by F. Bedford, with gilt frames on covers and stamped in gilt on the
-                    spine. </binding>
+                <watermark>Objects 5 and 29 &quot;1807&quot;; Objects 9 and 33 &quot;AP&quot;</watermark>
+                <binding>Originally issued in wrappers, possibly grayish-blue as in Copies C, G, and
+                    K. Rebound no later than 1890 in brown levant morocco by F. Bedford, with gilt
+                    frames on covers and stamped in gilt on the spine.</binding>
             </objinfo>
             <provenance n="1">
                 <name>Huntington Library</name>
                 <date>1914-1920</date>
                 <dealer>George D. Smith</dealer>
                 <price>$350</price>
-                <note>Sold with the Robert Arthington
-                    Library at Sotheby's to &quot;James&quot; on 17 May 1866, lot 21 for £1.9
-                    <hi rend="italic">s</hi>
-                    ; listed in T.G. Arthur's 
-                    <hi rend="italic">Catalogue</hi>
-                    (1890), 15 and sold with his library at Sotheby's on 15 July 1914, lot 45 for
-                        £24.10
-                    <hi rend="italic">s</hi>
-                    . to G.D. Smith; sold by Smith no later than 1920 to Henry E. Huntington
-                    for £350 and now in the Huntington Library.</note>
+                <note>Sold with the Robert Arthington Library at Sotheby's to &quot;James&quot; on 17 May
+                    1866, lot 21 for £1.9*s*; listed in T. G. Arthur's *Catalogue* (1890), 15 and sold with his library at
+                    Sotheby's on 15 July 1914, lot 45 for £24.10*s*. to
+                    G.D. Smith; sold by Smith no later than 1920 to Henry E. Huntington for
+                    £350 and now in the Huntington Library.</note>
             </provenance>
             <repository>
-                <institution>Henry E. Huntington Library and Art Gallery</institution>
+                <institution>Huntington Library, Art Collections, and Botanical Gardens</institution>
                 <addressline>1151 Oxford Road</addressline>
                 <addressline>San Marino, California 91108</addressline>
                 <addressline>United States</addressline>
@@ -2283,7 +2274,7 @@
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l indent="18" justify="left" n="bb32.d.te.22.01">
+                    <l indent="17" justify="left" n="bb32.d.te.22.01">
                         <physnumber>18</physnumber>
                     </l>
                 </texthead>
@@ -2298,67 +2289,97 @@
                 <vspace extent="1"/>
                 <lg>
                     <l indent="5" justify="left" n="bb32.d.te.22.05">&quot;In daunger had he at his own
-                        gise,
-                        <note>
-                            The original reads &quot;owne&quot; rather than &quot;own&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                            gise,
+                        <note>The original text reads &quot;owne&quot; rather than &quot;own&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's
+                            Prologue&quot;).</note></l>
                     <l indent="5" justify="left" n="bb32.d.te.22.06">The young girls of his
-                        diocese,
-                        <note>
-                            The original reads &quot;yong girles&quot; rather than &quot;young girls,&quot; and &quot;Diocise&quot; rather than &quot;diocese&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                            diocese,
+                        <note>The original text reads &quot;yong girles&quot; rather than &quot;young
+                            girls,&quot; and &quot;Diocise&quot; rather than &quot;diocese&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's Prologue&quot;).</note></l>
                     <l indent="5" justify="left" n="bb32.d.te.22.07">And he knew well their
                         counsel, &amp;c.&quot;
-                        <note>
-                            Bentley suggests that the double quotation mark after
-                            &quot;&amp;c.&quot; is printed using &quot;an apostrophe and a
-                            single quotation mark&quot; (
-                            <hi rend="i">Writings</hi>
-                            volume 2, pages 838n34 and 1694n17).</note>
-                        <note>The original reads &quot;knew her counsaile, and was of her read&quot; rather than &quot;knew well their counsel, &amp;c.&quot;
-                            (Chaucer, 
-                            <hi rend="italic">Works</hi>
-                            , Speght 1687 ed. &quot;Author's Prologue&quot;).</note>
-                    </l>
+                        <note>Bentley suggests that the double quotation mark after
+                            &quot;&amp;c.&quot; is printed using &quot;an apostrophe and a single quotation mark&quot;
+                                (*Writings* volume 2 pages 838n34 and
+                            1694n17).</note>
+                        <note>The original text reads &quot;knew her counsaile, and was of her read&quot; rather
+                            than &quot;knew well their counsel, &amp;c.&quot; (Chaucer, *Works*, Speght 1687 ed. &quot;Author's Prologue&quot;).</note></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="prose">
                     <l indent="2" justify="left" n="bb32.d.te.22.08">The principal figure in the
-                        next groupe, is</l>
+                        next 
+                        <choice>
+                            <orig>groupe</orig>
+                            <reg>group</reg></choice>, is</l>
                     <l justify="left" n="bb32.d.te.22.09">the Good Parson; an Apostle, a real
-                        Messen–</l>
-                    <l justify="left" n="bb32.d.te.22.10">ger of Heaven, sent in every age for its
+                        
+                        <choice>
+                            <orig>Messen–</orig>
+                            <reg type="split_word"/></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.10">
+                        <choice>
+                            <orig>ger</orig>
+                            <reg>Messenger</reg>
+                        </choice>of Heaven, sent in every age for its
                         light</l>
                     <l justify="left" n="bb32.d.te.22.11">and its warmth. This man is beloved and
-                        ve–</l>
-                    <l justify="left" n="bb32.d.te.22.12">nerated by all, and neglected by all:
+                        
+                        <choice>
+                            <orig>ve–</orig>
+                            <reg type="split_word"/></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.12">
+                        <choice>
+                            <orig>nerated</orig>
+                            <reg>venerated</reg>
+                        </choice>by all, and neglected by all:
                         He</l>
                     <l justify="left" n="bb32.d.te.22.13">serves all, and is served by none; he is,
-                        ac–</l>
-                    <l justify="left" n="bb32.d.te.22.14">cording to Christ's definition, the
+                        
+                        <choice>
+                            <orig>ac–</orig>
+                            <reg type="split_word">according</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.14">
+                        <choice>
+                            <orig>cording</orig>
+                            <reg>according</reg>
+                        </choice>to Christ's definition, the
                         greatest of</l>
                     <l justify="left" n="bb32.d.te.22.15">his age. Yet he is a Poor Parson of a
                         town.</l>
                     <l justify="left" n="bb32.d.te.22.16">Read Chaucer's description of the Good
-                        Par–</l>
-                    <l justify="left" n="bb32.d.te.22.17">son, and bow the head and the knee to
+                        
+                        <choice>
+                            <orig>Par–</orig>
+                            <reg type="split_word">Parson</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.17">
+                        <choice>
+                            <orig>son</orig>
+                            <reg>Parson</reg>
+                        </choice>, and bow the head and the knee to
                         him,</l>
                     <l justify="left" n="bb32.d.te.22.18">who, in every age sends us such a burning
                         and</l>
                     <l justify="left" n="bb32.d.te.22.19">a shining light. Search O ye rich and
-                        power–</l>
-                    <l justify="left" n="bb32.d.te.22.20">ful, for these men and obey their
+                        
+                        <choice>
+                            <orig>power–</orig>
+                            <reg type="split_word">powerful</reg></choice>
+                    </l>
+                    <l justify="left" n="bb32.d.te.22.20">
+                        <choice>
+                            <orig>ful</orig>
+                            <reg>powerful</reg>
+                        </choice>, for these men and obey their
                         counsel, then</l>
                 </lg>
             </phystext>
         </desc>
-       <desc dbi="bb32.d.23.TYP" id="bb32.d.te.23">
+        <desc dbi="bb32.d.23.TYP" id="bb32.d.te.23">
             <objtitle>
                 <title type="transcribed">Page 19</title>, 
                 <objid>
