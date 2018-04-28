@@ -27,7 +27,7 @@
             </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2017</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
@@ -178,7 +178,7 @@
             <objdescid>
                 <objtitle>
                     <title type="transcribed">
-                        *A Descriptive Catalogue*
+                        *A Descriptive Catalogue of Pictures, Poetical and Historical Inventions, Painted by William Blake, in Water Colours, Being the Ancient Method of Fresco Painting Restored: and Drawings, For Public Inspection, and for Sale by Private Contract*
                     </title>
                 </objtitle>
                 <origination>William Blake <role>author</role> </origination>
@@ -270,7 +270,7 @@
                     <l n="bb32.d.te.01.16" justify="left" indent="8">Sale by Private Contract,</l>
                     <l n="bb32.d.te.01.17" justify="left"><add place="inline"><handShift medium="pen">At N 28 Corner of Broad Street Golden
                             Square</handShift></add><note>The address is inserted in Blake's hand in copies C, D, F,
-                            G, H, J, L, and O (Bentley, <hi rend="i">Writings</hi> volume 2 page
+                            G, H, J, L, and O (Bentley, *Writings* volume 2 page
                             1694).</note></l>
                     <l n="bb32.d.te.01.18" justify="left">
                         <hr width="19" align="left"/>
@@ -281,10 +281,9 @@
                     <l n="bb32.d.te.01.19" justify="left" indent="15">
                         <hi rend="i">LONDON:</hi>
                     </l>
-                    <l n="bb32.d.te.01.20" justify="left">Printed by <choice><orig>D.N. SHURY</orig><reg type="abv_name">Daniel Nathan Shury</reg></choice>, 7, Berwick-Street,
-                        Soho,<note>Bentley (*Writings* volume 2 page 826) identifies D.N. SHURY as "Daniel Nathan Shury."</note></l>
-                    <l n="bb32.d.te.01.21" justify="left" indent="1">for
-                                J.<choice><orig>J.</orig><reg type="abv_name">James</reg></choice>
+                    <l n="bb32.d.te.01.20" justify="left">Printed by <choice><orig>D. N. SHURY</orig><reg type="abv_name">Daniel Nathan Shury</reg></choice>, 7, Berwick-Street,
+                        Soho,<note>Bentley (*Writings* volume 2 page 826) identifies D. N. SHURY as "Daniel Nathan Shury."</note></l>
+                    <l n="bb32.d.te.01.21" justify="left" indent="1">for <choice><orig>J.</orig><reg type="abv_name">James</reg></choice>
                         BLAKE, 28, Broad-Street, Golden-Square.</l>
                 </lg>
                 <lg type="prose">
@@ -377,7 +376,7 @@
             </physdesc>
             <phystext>
                 <texthead type="title" justify="left">
-                    <l n="bb32.d.te.03.01" justify="left" indent="14">PREFACE.</l>
+                    <l n="bb32.d.te.03.01" justify="left" indent="13">PREFACE.</l>
                 </texthead>
                 <vspace extent="1"/>
                 <lg type="prose">
@@ -499,13 +498,7 @@
                             <orig>Rafael</orig>
                             <reg>Raphael</reg>
                     </choice> and <choice><orig>Albert Durer</orig><reg>Albrecht Durer</reg></choice>,</l>
-                    <l n="bb32.d.te.04.18" justify="left"><choice>
-                            <orig>Michael Angelo</orig>
-                            <reg>Michelangelo></reg>
-                        </choice>, and <choice>
-                            <orig>Julio</orig>
-                            <reg>Giulio></reg>
-                        </choice> Romano.</l>
+                    <l n="bb32.d.te.04.18" justify="left"><choice><orig>Michael Angelo</orig><reg>Michelangelo></reg></choice>, and <choice><orig>Julio</orig><reg>Giulio></reg></choice> Romano.</l>
                 </lg>
             </phystext>
         </desc>
@@ -686,10 +679,7 @@
                             <orig>Vandyke</orig>
                             <reg>van Dyck</reg>
                         </choice>, or both, were</l>
-                    <l n="bb32.d.te.07.08" justify="left">guilty of this <choice>
-                            <orig>villany</orig>
-                            <reg>villainy</reg>
-                        </choice>, is to be enquired in <choice>
+                    <l n="bb32.d.te.07.08" justify="left">guilty of this <choice><orig>villany</orig><reg>villainy</reg></choice>, is to be enquired in <choice>
                             <orig>an&#8211;</orig>
                             <reg type="split_word">another</reg>
                         </choice></l>
@@ -728,7 +718,7 @@
                             <orig>stu&#8211;</orig>
                             <reg type="split_word">stupendous</reg>
                         </choice></l>
-                    <l n="bb32.d.te.07.21" justify="left"><choice><orig>pendous</orig><reg>stupendous</reg></choice> orignals now lost or perhaps
+                    <l n="bb32.d.te.07.21" justify="left"><choice><orig>pendous</orig><reg>stupendous</reg></choice> originals now lost or perhaps
                         buried</l>
                     <l n="bb32.d.te.07.22" justify="left">till some happier age. The Artist having
                         been</l>
@@ -782,10 +772,7 @@
                             <orig>Her&#8211;</orig>
                             <reg type="split_word">Hercules</reg>
                         </choice></l>
-                    <l n="bb32.d.te.08.11" justify="left"><choice><orig>cules</orig><reg>Hercules</reg></choice>, Farnese, Venus of <choice>
-                            <orig>Medicis</orig>
-                            <reg>Medici</reg>
-                        </choice>, Apollo <choice>
+                    <l n="bb32.d.te.08.11" justify="left"><choice><orig>cules</orig><reg>Hercules</reg></choice>, Farnese, Venus of <choice><orig>Medicis</orig><reg>Medici</reg></choice>, Apollo <choice>
                             <orig>Bel&#8211;</orig>
                             <reg>Belvedere</reg>
                         </choice></l>
@@ -1379,7 +1366,7 @@
                         time, when</l>
                     <l n="bb32.d.te.16.14" justify="left">voluptuousness and folly began to be
                         <choice><orig>account&#8211;</orig><reg type="split_word">accounted</reg></choice></l>
-                    <l n="bb32.d.te.16.15" justify="left"><choice><orig>ed</orig><reg type="split_word">accounted</reg></choice>ed beautiful.</l>
+                    <l n="bb32.d.te.16.15" justify="left"><choice><orig>ed</orig><reg type="split_word">accounted</reg></choice> beautiful.</l>
                     <l n="bb32.d.te.16.16" justify="left" indent="2">Her companion and her three
                         priests were no</l>
                     <l n="bb32.d.te.16.17" justify="left">doubt all perfecty delineated in those
@@ -1869,8 +1856,8 @@
                         of</l>
                     <l n="bb32.d.te.23.20" justify="left">London. Chaucer's characters live age
                         after</l>
-                    <l n="bb32.d.te.23.21" justify="left">age. Every day is a Canterbury
-                        Pilgramage;</l>
+                    <l n="bb32.d.te.23.21" justify="left">age. Every age is a Canterbury
+                        Pilgrimage;</l>
                     <l n="bb32.d.te.23.22" justify="left">we all pass on, each sustaining one or
                         other</l>
                 </lg>
@@ -1922,7 +1909,7 @@
                         table,</l>
                     <l n="bb32.d.te.24.15" justify="left">who is the genius of eating and drinking,
                         the</l>
-                    <l n="bb32.d.te.24.16" justify="left">Bacchus; as the Doctor of Phyisic is the
+                    <l n="bb32.d.te.24.16" justify="left">Bacchus; as the Doctor of Physic is the
                         <choice><orig>Es&#8211;</orig><reg type="split_word">Esculapius</reg></choice></l>
                     <l n="bb32.d.te.24.17" justify="left"><choice><orig>culapius</orig><reg type="split_word">Aesculapius</reg></choice>, the Host is the Silenus, the
                         Squire</l>
@@ -2387,9 +2374,7 @@
                         works</l>
                     <l n="bb32.d.te.31.15" justify="left">ye shall know them." All who <choice><orig>endeavour</orig><reg>endeavor</reg></choice>
                         to</l>
-                    <l n="bb32.d.te.31.16" justify="left">raise up a style against
-                                <choice><orig>Rafael</orig>
-                            <reg>Raphael</reg></choice>, <choice><orig>Mich.
+                    <l n="bb32.d.te.31.16" justify="left">raise up a style against <choice><orig>Rafael</orig><reg>Raphael</reg></choice>, <choice><orig>Mich.
                                 Angelo</orig><reg>Michelangelo</reg></choice>, </l>
                     <l n="bb32.d.te.31.17" justify="left">and the Antique; those who separate
                         Painting</l>
@@ -2603,7 +2588,7 @@
                 <vspace extent="1"/>
                 <lg>
                     <l n="bb32.d.te.34.13" justify="left" indent="7">"But Lord when it remembereth
-                            me<note>The original text reads "lord Christ" rather than "Lord," and
+                            me<note>The original text reads "lord Christ" rather than "Lord", and
                             "remembreth" rather than "remembereth" (Chaucer, *Works*, Speght 1687 ed. "Author's Prologue").</note></l>
                     <l n="bb32.d.te.34.14" justify="left" indent="7">Upon my youth and on my
                             jollity,<note>The original text reads "and my iolite" rather than "and on my
@@ -2736,7 +2721,7 @@
                         the</l>
                     <l n="bb32.d.te.36.10" justify="left">prospectus has represented him, and says,
                         that</l>
-                    <l n="bb32.d.te.36.11" justify="left">the picure has done so too. He is worn
+                    <l n="bb32.d.te.36.11" justify="left">the picture has done so too. He is worn
                         down</l>
                     <l n="bb32.d.te.36.12" justify="left">with <choice><orig>labour</orig><reg>labor</reg></choice>, but not with age. How spots
                         of</l>
@@ -2794,7 +2779,7 @@
                         being always <choice><orig>up&#8211;</orig><reg type="split_word">upon</reg></choice></l>
                     <l n="bb32.d.te.37.08" justify="left"><choice><orig>on</orig><reg type="split_word">upon</reg></choice> gold, he has introduced a character
                         that</l>
-                    <l n="bb32.d.te.37.09" justify="left">Chaucer has not; namely a Goldsmith;
+                    <l n="bb32.d.te.37.09" justify="left">Chaucer has not; namely, a Goldsmith;
                         for</l>
                     <l n="bb32.d.te.37.10" justify="left">so the prospectus tells us. Why has he
                         <choice><orig>intro&#8211;</orig><reg type="split_word">introduced</reg></choice></l>
@@ -3413,7 +3398,7 @@
                     <l n="bb32.d.te.46.15" justify="left">Gray saw them in the person of his bard
                         on</l>
                     <l n="bb32.d.te.46.16" justify="left">Snowdon; there they dwell in naked
-                        <choice><orig>simplci&#8211;</orig><reg type="split_word">simplicity</reg></choice></l>
+                        <choice><orig>simplici&#8211;</orig><reg type="split_word">simplicity</reg></choice></l>
                     <l n="bb32.d.te.46.17" justify="left"><choice><orig>ty</orig><reg type="split_word">simplicity</reg></choice>; happy is he who can see and
                         converse</l>
                     <l n="bb32.d.te.46.18" justify="left">with them above the shadows of
@@ -3474,7 +3459,7 @@
                         <choice><orig>can&#8211;</orig><reg type="split_word">cannot</reg></choice></l>
                     <l n="bb32.d.te.47.13" justify="left"><choice><orig>not</orig><reg type="split_word">cannot</reg></choice> see either miracle or prodigy; all is
                         to</l>
-                    <l n="bb32.d.te.47.14" justify="left">them a dull round of probablities and
+                    <l n="bb32.d.te.47.14" justify="left">them a dull round of probabilities and
                         <choice><orig>possi&#8211;</orig><reg type="split_word">possibilities</reg></choice></l>
                     <l n="bb32.d.te.47.15" justify="left"><choice><orig>bilities</orig><reg type="split_word">possibilities</reg></choice>; but the history of all times
                         and <choice><orig>pla&#8211;</orig><reg type="split_word">places</reg></choice></l>
@@ -3659,14 +3644,14 @@
                         be</l>
                     <l n="bb32.d.te.50.11" justify="left">surpassed; it is perfect and eternal.
                         Milton,</l>
-                    <l n="bb32.d.te.50.12" justify="left">Shakespeare, <choice><orig>Michael
+                    <l n="bb32.d.te.50.12" justify="left"><choice><orig>Shakspeare</orig><reg type="alt_name">Shakespeare</reg></choice>, <choice><orig>Michael
                                 Angelo</orig><reg>Michelangelo</reg></choice>,
                                 <choice><orig>Rafael</orig><reg>Raphael</reg></choice>, the</l>
                     <l n="bb32.d.te.50.13" justify="left">finest specimens of Ancient Sculpture
                         and</l>
                     <l n="bb32.d.te.50.14" justify="left">Painting, and Architecture, Gothic,
                         Grecian,</l>
-                    <l n="bb32.d.te.50.15" justify="left">Hindoo and Egyptian, are the extent of
+                    <l n="bb32.d.te.50.15" justify="left"><choice><orig>Hindoo</orig><reg>Hindu</reg></choice> and Egyptian, are the extent of
                         the</l>
                     <l n="bb32.d.te.50.16" justify="left">human mind. The human mind cannot go</l>
                     <l n="bb32.d.te.50.17" justify="left">beyond the gift of God, the Holy Ghost.
@@ -3677,7 +3662,7 @@
                         is not</l>
                     <l n="bb32.d.te.50.20" justify="left">knowing what Art is; it is being blind to
                         the</l>
-                    <l n="bb32.d.te.50.21" justify="left">gifts of this spirit.</l>
+                    <l n="bb32.d.te.50.21" justify="left">gifts of the spirit.</l>
                 </lg>
             </phystext>
         </desc>
@@ -3862,7 +3847,7 @@
                         deeds,</l>
                     <l n="bb32.d.te.53.20" justify="left">is seen falling, outstretched among the
                         dead <note>There is an unclear mark between "among" and "the" that Bentley
-                            notes is a black quad (*Writings* volume 2 page
+                            notes is a "Black quad" (*Writings* volume 2 page
                             1695n37).</note></l>
                     <l n="bb32.d.te.53.21" justify="left">and the dying; singing to his harp in
                         the</l>
@@ -4002,7 +3987,7 @@
                         molested</l>
                     <l n="bb32.d.te.55.16" justify="left">continually by blotting and blurring
                         demons;</l>
-                    <l n="bb32.d.te.55.17" justify="left">but he was also complelled to leave it
+                    <l n="bb32.d.te.55.17" justify="left">but he was also compelled to leave it
                         <choice><orig>unfinish&#8211;</orig><reg type="split_word">unfinished</reg></choice></l>
                     <l n="bb32.d.te.55.18" justify="left"><choice><orig>ed</orig><reg type="split_word">unfinished</reg></choice> for reasons that will be <choice><orig>shewn</orig><reg>shown</reg></choice> in the
                         <choice><orig>follow&#8211;</orig><reg type="split_word">following</reg></choice></l>
@@ -4048,7 +4033,7 @@
                     <l n="bb32.d.te.56.04" justify="left">THE subject is taken from the
                         Missionary</l>
                     <l n="bb32.d.te.56.05" justify="left">Voyage and varied from the literal
-                        fact,for the</l>
+                        fact, for the</l>
                     <l n="bb32.d.te.56.06" justify="left">sake of picturesque scenery. The
                         savage</l>
                     <l n="bb32.d.te.56.07" justify="left">girls had dressed themselves with vine
@@ -4466,7 +4451,7 @@
                         and</l>
                     <l n="bb32.d.te.62.16" justify="left">evenness, by a twelvemonth's <choice><orig>labour</orig><reg>labor</reg></choice>,
                         where</l>
-                    <l n="bb32.d.te.62.17" justify="left">a month would with judgement have
+                    <l n="bb32.d.te.62.17" justify="left">a month would with judgment have
                         finished</l>
                     <l n="bb32.d.te.62.18" justify="left">it better and higher; and the poor wretch
                         who</l>
@@ -4524,7 +4509,7 @@
                 <vspace extent="0.5"/>
                 <lg type="prose">
                     <l n="bb32.d.te.63.09" justify="left">The subject is, <choice><orig>Mr. Wilkin</orig><reg type="abv_name">Charles Wilkins</reg></choice>, translating
-                        the <note>Bentley (*Writings* volume 2 page 859) identifies Mr. Wilkin as Charles Wilkins</note></l>
+                        the <note>Bentley (*Writings* volume 2 page 859n101) identifies Mr. Wilkin as Charles Wilkins.</note></l>
                     <l n="bb32.d.te.63.10" justify="left"><choice><orig>Geeta</orig><reg>Bhagavad Gita</reg></choice>; an ideal design, suggested by
                         the</l>
                     <l n="bb32.d.te.63.11" justify="left">first publication of that part of the
@@ -4622,7 +4607,7 @@
                     <l n="bb32.d.te.64.14" justify="left" indent="2">The above four drawings the
                         Artist wishes</l>
                     <l n="bb32.d.te.64.15" justify="left">were in Fresco, on an enlarged scale to
-                                <choice><orig>orna&#8212;</orig><reg type="split_word"
+                                <choice><orig>orna-</orig><reg type="split_word"
                                 >ornament</reg></choice></l>
                 </lg>
             </phystext>
@@ -4806,7 +4791,7 @@
                         <choice><orig>out&#8211;</orig><reg type="split_word">outline</reg></choice></l>
                     <l n="bb32.d.te.67.13" justify="left"><choice><orig>line</orig><reg type="split_word">outline</reg></choice>. Fresco Painting is susceptible of
                         higher</l>
-                    <l n="bb32.d.te.67.14" justify="left">finishing that Drawing on Paper, or than
+                    <l n="bb32.d.te.67.14" justify="left">finishing than Drawing on Paper, or than
                         any</l>
                     <l n="bb32.d.te.67.15" justify="left">other method of Painting. But he must
                         have</l>
@@ -4860,25 +4845,18 @@
                                 <choice><orig>Rafael</orig>
                             <reg>Raphael</reg></choice> and
                                 <choice><orig>Mi&#8211;</orig><reg>Michelangelo</reg></choice></l>
-                    <l n="bb32.d.te.68.08" justify="left"><orig>chael Angelo</orig>, and
-                                <choice><orig>Albert Durer</orig>
-                            <reg type="alt_name">Albrecht Duerer</reg></choice>, are known by</l>
+                    <l n="bb32.d.te.68.08" justify="left"><orig>chael Angelo</orig>, and <choice><orig>Albert Durer</orig><reg type="alt_name">Albrecht Duerer</reg></choice>, are known by</l>
                     <l n="bb32.d.te.68.09" justify="left">this and this alone. The want of this
                         <choice><orig>determi&#8211;</orig><reg type="split_word">determinate</reg></choice></l>                    
                     <l n="bb32.d.te.68.10" justify="left" indent="33">
                         <substSpan spanto="A2"/><substSpan spanto="A3"/><add type="insertion">want of</add><note>The phrase
-                            "want of" has been inserted in Blake's hand.</note></l>    
+                            "want of" has been inserted in Blake's hand. Bentley notes that in copies
+                            B, C, D, F, G, H, J, L, and O "of want" on lines 11-12, as transcribed here, is struck through and replaced with
+                            "want of" in Blake's hand (*Writings* volume 2 page 861n110). See also Erdman page 881.</note></l> 
                     <l n="bb32.d.te.68.11" justify="left"><choice><orig>nate</orig><reg type="split_word">determinate</reg></choice> and bounding form evidences the idea
-                        <del type="overstrike">of</del><anchor xml:id="A2"/><note>Bentley notes that in copies
-                            B, C, D, F, G, H, J, L, and O "of" is struck through and replaced with
-                            "want of" in Blake's hand (*Writings* volume 2 page
-                            861n110).</note></l>                                      
+                        <del type="overstrike">of</del><anchor xml:id="A2"/></l>                                      
                     <l n="bb32.d.te.68.12" justify="left"><del type="overstrike">want</del><anchor xml:id="A3"/>
-                        in the artist's mind, and the pretence of the<note>Bentley notes that in
-                            copies B, C, D, F, G, H, J, L, and O "want" is struck through in Blake's
-                            hand (*Writings* volume 2 page 861n110). Lines 11 and
-                            12 in Erdman's text read ". . . -nate and bounding form evidences the
-                            want of idea in the artist's mind, . . ." (Erdman page 550).</note></l> 
+                        in the artist's mind, and the pretence of the</l> 
                     <l n="bb32.d.te.68.13" justify="left">plagiary in all its branches. How do we
                         <choice><orig>distin&#8211;</orig><reg type="split_word">distinguish</reg></choice></l>
                     <l n="bb32.d.te.68.14" justify="left"><choice><orig>guish</orig><reg type="split_word">distinguish</reg></choice> the oak from the beech, the horse
@@ -5020,11 +4998,11 @@
                 <vspace extent="4"/>
                 <lg type="prose" justify="left">
                     <l n="bb32.d.te.70.15">
-                        <hr width="20" align="left"/>
+                        <hr width="20" align="left"/><note>In the printed edition, this line is a double rule.</note>
                     </l>
                 </lg>
                 <textfoot>
-                    <l n="bb32.d.te.70.16" justify="left" indent="2"><choice><orig>D.N. SHURY</orig><reg type="abv_name">Daniel Nathan Shury</reg></choice>, PRINTER,
+                    <l n="bb32.d.te.70.16" justify="left" indent="2"><choice><orig>D. N. SHURY</orig><reg type="abv_name">Daniel Nathan Shury</reg></choice>, PRINTER,
                         BERWICK-STREET,</l>
                     <l n="bb32.d.te.70.17" justify="left" indent="12">SOHO, LONDON.</l>
                 </textfoot>
