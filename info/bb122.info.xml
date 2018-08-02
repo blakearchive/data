@@ -1,4 +1,4 @@
-<info id="bb122"><worktitle><div id="bb122.title"><h1><i>A Descriptive Catalogue</i></h1></div></worktitle><remarks><div id="bb122.top"><p>
+<info id="bb122"><worktitle><div id="bb122.title"><h1><i>Blake's Notebook</i></h1></div></worktitle><remarks><div id="bb122.top"><p>
 </p></div></remarks><related><relationship>*The Landing of Brutus in England*<br/>Water color, c. 1779. Butlin 51.
     <br/>Princeton University Library
     <br/>Princeton, New Jersey
@@ -83,6 +83,11 @@
         <br/>Water color, 1784. Butlin 188.
         <br/>Untraced
         <br/>Related to Object 29.
+    </relationship>
+     <relationship><link type="object" ptr="copy/aro.a?descId=aro.a.illbk.07">*All Religions are One*, Plate 7</link>
+        <br/>Relief and white-line etching, c. 1788. Bentley 3.
+        <br/>Multiple owners
+        <br/>Related to Object 17.
     </relationship>
     <relationship><link type="object" ptr="copy/mhh.c?descId=mhh.c.illbk.16">*The Marriage of Heaven and Hell*, Plate 16</link>
         <br/>Relief etching, 1790. Bentley 98.
@@ -627,6 +632,18 @@
         <br/>Chapel Hill, North Carolina	
         <br/>Related to Object 29.
     </relationship>
+    <relationship><link type="object" ptr="copy/bb136.a?descId=bb136.a.spb.04">*A Small Book of Designs*, Copy A, Object 4</link>
+        <br/>Color printed relief etching, 1796. Bentley 136.
+        <br/>British Museum
+        <br/>London
+        <br/>Related to Object 61.
+    </relationship>
+    <relationship><link type="object" ptr="copy/bb136.a?descId=bb136.a.spb.20">*A Small Book of Designs*, Copy A, Object 20</link>
+        <br/>Color printed relief etching, 1796. Bentley 136.
+        <br/>British Museum
+        <br/>London
+        <br/>Related to Object 30.
+    </relationship>
     <relationship>*Malevolence*
         <br/>Water color, 1799. Butlin 341.
         <br/>Philadelphia Museum of Art
@@ -670,7 +687,7 @@
         <br/>Pittsburgh, Pennsylvania
         <br/>Related to Object 73.
     </relationship>
-    <relationship>*Illustrations to Robert Blair's "The Grave,"* Object 16
+    <relationship><link type="object" ptr="copy/butwba10.1?descId=butwba10.1.wc.16">*Illustrations to Robert Blair's "The Grave,"* Object 16</link>
         <br/>Water color, 1805. Not in Butlin.
         <br/>Private collection
         <br/>Related to Object 73.
@@ -681,30 +698,7 @@
         <br/>Altadena, California
         <br/>Related to Object 73.
     </relationship>
-       <relationship>The thirteen copperplates for Blair's *Grave*, Object 12
-        <br/>Copperplate by Louis Schiavonetti, 1806-08. Bentley 435.
-        <br/>National Gallery of Art
-        <br/>Washington, D.C.
-        <br/>Related to Object 73.
-    </relationship>
-    <relationship><link type="object" ptr="copy/but529.1?descId=but529.1.wc.03">*Illustrations to Milton's "Paradise Lost,"* Thomas set, Object 3</link>
-        <br/>Water color, 1807. Butlin 529.3
-        <br/>Huntington Library, Art Collections, and Botanical Gardens
-        <br/>San Marino, California
-        <br/>Related to Objects 106, 112, and 113.
-    </relationship>
-    <relationship><link type="object" ptr="copy/but536.1?descId=but536.1.wc.03">*Illustrations to Milton's "Paradise Lost,"* Butts set, Object 3</link>
-        <br/>Water color, 1808. Butlin 536.3
-        <br/>Museum of Fine Arts
-        <br/>Boston, Massachusetts
-        <br/>Related to Objects 106, 112, and 113.
-    </relationship>
-    <relationship><link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.12">Robert Blair, *The Grave*, Object 12, "Death's Door"</link>
-        <br/>Engraving by Louis Schiavonetti, 1808. Bentley 435.
-        <br/>Multiple Owners
-        <br/>Related to Object 73.
-    </relationship>
-    <relationship>*War*
+        <relationship>*War*
         <br/>Water color, 1805. Butlin 195.
         <br/>Fogg Art Museum, Harvard University
         <br/>Cambridge, Massachusetts
@@ -721,12 +715,25 @@
         <br/>Private Collection
         <br/>Related to Object 31.
     </relationship>
-    <relationship><link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.07">Robert Blair, *The Grave*, Object 7, "The Soul hovering over the Body reluctantly parting with Life"</link>
-        <br/>Engraving by Louis Schiavonetti, 1808. Bentley 435.
-        <br/>Multiple Owners
-        <br/>Related to Object 31.
+    <relationship><link type="object" ptr="copy/but550.1?descId=but550.1.wc.10">*Twenty-One Illustrations to the Book of Job*, Butts set, Object 10</link>
+        <br/>Water color, c. 1805-06. Butlin 550.
+        <br/>Morgan Library and Museum
+        <br/>New York City
+        <br/>Related to Object 22.
     </relationship>
-    <relationship><link type="object" ptr="copy/bb126.1?descId=bb126.1.ms.01">*The Pickering Manuscript*, Objects 1 and 2, "The Golden Net"</link>
+       <relationship>The thirteen copperplates for Blair's *Grave*, Object 12
+        <br/>Copperplate by Louis Schiavonetti, 1806-08. Bentley 435.
+        <br/>National Gallery of Art
+        <br/>Washington, D.C.
+        <br/>Related to Object 73.
+    </relationship>
+    <relationship><link type="object" ptr="copy/but529.1?descId=but529.1.wc.03">*Illustrations to Milton's "Paradise Lost,"* Thomas set, Object 3</link>
+        <br/>Water color, 1807. Butlin 529.3
+        <br/>Huntington Library, Art Collections, and Botanical Gardens
+        <br/>San Marino, California
+        <br/>Related to Objects 106, 112, and 113.
+    </relationship>
+        <relationship><link type="object" ptr="copy/bb126.1?descId=bb126.1.ms.01">*The Pickering Manuscript*, Objects 1 and 2, "The Golden Net"</link>
         <br/>Manuscript, c. 1807. Bentley 126.
         <br/>Morgan Library and Museum
         <br/>New York City
@@ -737,6 +744,28 @@
         <br/>Morgan Library and Museum
         <br/>New York City
         <br/>Related to Object 14.
+    </relationship>
+    <relationship><link type="object" ptr="copy/bb126.1?descId=bb126.1.ms.21">*The Pickering Manuscript*, Object 21</link>
+        <br/>Manuscript, c. 1807. Bentley 126.
+        <br/>Morgan Library and Museum
+        <br/>New York City
+        <br/>Related to Object 122.
+    </relationship>
+    <relationship><link type="object" ptr="copy/but536.1?descId=but536.1.wc.03">*Illustrations to Milton's "Paradise Lost,"* Butts set, Object 3</link>
+        <br/>Water color, 1808. Butlin 536.3
+        <br/>Museum of Fine Arts
+        <br/>Boston, Massachusetts
+        <br/>Related to Objects 106, 112, and 113.
+    </relationship>
+    <relationship><link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.12">Robert Blair, *The Grave*, Object 12, "Death's Door"</link>
+        <br/>Engraving by Louis Schiavonetti, 1808. Bentley 435.
+        <br/>Multiple Owners
+        <br/>Related to Object 73.
+    </relationship>
+    <relationship><link type="object" ptr="copy/bb435.1?descId=bb435.1.comdes.07">Robert Blair, *The Grave*, Object 7, "The Soul hovering over the Body reluctantly parting with Life"</link>
+        <br/>Engraving by Louis Schiavonetti, 1808. Bentley 435.
+        <br/>Multiple Owners
+        <br/>Related to Object 31.
     </relationship>
     <relationship>*The Last Judgment*
         <br/>Monochrome wash drawing, c. 1809. Butlin 645.
@@ -769,11 +798,28 @@
         <br/>Multiple owners
         <br/>Related to Objects 58, 67, 119, 120, and 121.
     </relationship>
-        <relationship>*Ugolino and His Sons in Prison*
+    <relationship><link type="object" ptr="copy/but551.1?descId=but551.1.wc.10">*Twenty-One Illustrations to the Book of Job*, Linnell set, Object 10</link>
+        <br/>Water color, 1821. Butlin 551.
+        <br/>Fogg Art Museum, Harvard University
+        <br/>Cambridge, Massachusetts
+        <br/>Related to Object 22.
+    </relationship>
+     <relationship><link type="object" ptr="copy/but557.1?descId=but557.1.penc.16">*Sketchbook Containing Twenty-Seven Drawings for the Engraved Illustrations to The Book of Job Together with Other Drawings*, Object 16</link>
+        <br/>Pencil sketch, 1823. Butlin 557.
+        <br/>Fitzwilliam Museum
+        <br/>Cambridge, England
+        <br/>Related to Object 22.
+    </relationship>
+        <relationship><link type="object" ptr="copy/but812.1?descId=but812.1.wc.71">*Ugolino and His Sons in Prison*</link>
         <br/>Pencil sketch, 1824-27. Butlin 812.68.
         <br/>British Museum
         <br/>London     
         <br/>Related to Object 61.
+    </relationship>
+    <relationship><link type="object" ptr="copy/bb421.1?descId=bb421.1.spb.12">*Illustrations to the Book of Job*, Object 12</link>
+        <br/>Engraving, 1826. Bentley 421.
+        <br/>Multiple Owners
+        <br/>Related to Object 22.
     </relationship>
     <relationship>*Count Ugolino and His Sons in Prison *
         <br/>Tempera painting, c. 1826. Butlin 805.
