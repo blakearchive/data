@@ -1,9 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="78r" hidden="false">
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but78v.1" type="penc" work="Man with Arms Upraised, Perhaps the Resurrection" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="78v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main>
+                <title reg="Man with Arms Upraised, Perhaps the Resurrection">
+                    <main>Man with Arms Upraised, Perhaps the Resurrection</main>
 : electronic edition
 </title>
                 <principal>
@@ -25,7 +26,7 @@ files ranging in size from 92KB to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-           
+            
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
@@ -148,7 +149,7 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *A Warring Angel*
+                        Man with Arms Upraised, Perhaps the Resurrection
                     </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
@@ -160,9 +161,9 @@ granted by the owners of the originals for this publication only.<lb/>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>44.5 x 32.1 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>44.5 x 32.1 cm.</leafsize>
                 <medium>pencil</medium>
                 <support>laid paper</support>
                 <watermark>none</watermark>
@@ -187,50 +188,51 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
                 <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
                 <addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <repositoryid label="Accession number">1943.3.9003.b</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but78v.1.penc.01" dbi="BUT78.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>,
+                <title type="transcribed">Man with Arms Upraised, Perhaps the Resurrection</title>,
 <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 78 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote><p>For the drawing on the recto, see <hi rend="i">A Warring Angel</hi>.</p></objnote>
+                <objsize>44.5 x 32.1 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                    <illusobjdesc>A male figure who has long hair and a beard stands or walks forward with both arms upraised.  He appears to point upward with the index finger of his left hand and turn his head slightly to the right.  He wears a long gown that ends in serpentine swirls of fabric around his feet.  There may be another prostrate figure in the foreground.  The upright figure's right foot is visible, suggesting he is stepping forward with this foot.  There are suggestions of other forms on each side and behind the main figure who may be a sketch of Christ at the Resurrection.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
                         <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>serpentine</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>pointing</characteristic>
                         <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>pentimento</characteristic>
+                        <characteristic>Christ</characteristic>
+                        <illusobjdesc>A male figure who has long hair and a beard stands or walks forward with both arms upraised.  He appears to point upward with the index finger of his left hand and turn his head slightly to the right.  He wears a long gown that ends in serpentine swirls of fabric around his feet.  His right foot is visible, suggesting he is stepping forward with this foot.  Rounded forms above his head may be an alternative position for the figure's head and shoulders.  Similarly, a few curving lines right of the figure's lower legs may be an alternative sketch for the lower reaches of his garment.  The figure may be a sketch of Christ at the Resurrection.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps a stick or rod?) in his right hand, held by his right side.</illusobjdesc>
+                    
+                    <component type="figure" location="CD">
+                        <characteristic>lying</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>rising</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <illusobjdesc>There may be a second figure in this scene lying prostrate in the foreground below the standing figure's feet.  This form is almost impossible to make out in this drawing however.  Swirling lines above this figure suggest a cloud or perhaps a garment such as a cloak.  He(?) may be rising, with one arm raised.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

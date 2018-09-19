@@ -1,9 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="78r" hidden="false">
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but115v.1" type="penc" work="Copy of the Belvedere Torso" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="115v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main>
+                <title reg="Copy of the Belvedere Torso">
+                    <main>Copy of the Belvedere Torso</main>
 : electronic edition
 </title>
                 <principal>
@@ -25,7 +26,7 @@ files ranging in size from 92KB to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-           
+            
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
@@ -148,25 +149,26 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *A Warring Angel*
+                        Copy of the Belvedere Torso
                     </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
                 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic considerations.</note>
+                <compdate value="1779">c. 1779-80?<note>The date, based on stylistic considerations, is far from certain.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>34.3 x 42.8 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
-                <medium>pencil</medium>
-                <support>laid paper</support>
+                <leafsize>34.3 x 42.8 cm.</leafsize>
+                <medium>pencil<note>The pencil inscription, lower right, appears to be signed "LJR" (Lessing J. Rosenwald), who probably wrote this inscription after he acquired the work c. 1938.  This inscription reads "I doubt that these [a reference to both sides of the leaf] are Blake."</note>
+                </medium>
+                <support>laid paper<note>Blake added a strip of laid paper, about 5.2 cm. wide, along the left side of the leaf (bottom of the leaf for the recto drawing).</note></support>
                 <watermark>none</watermark>
-                <pennednumbers>none</pennednumbers>
+                <pennednumbers>none<note>The pencil inscription, lower right, appears to be signed "LJR" (Lessing J. Rosenwald), who probably wrote this inscription after he acquired the work c. 1938.  This inscription reads "I doubt that these [a reference to both sides of the leaf] are Blake."</note></pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
@@ -175,7 +177,7 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1943</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art, Washington, D. C.</note>
+                <note>Early history unknown; Alexander Macmillan by 1876; William A. White by 1905; "sold at an unidentified sale 22 December 1938" (Butlin 115) at which bought by the dealer A. S. W. Rosenbach; acquired, probably c. 1938, by Lessing J. Rosenwald; given by Rosenwald in 1943 to the National Gallery of Art, Washington, D. C.</note>
             </provenance>
             <repository>
                 <institution>National Gallery of Art, Washington</institution>
@@ -187,53 +189,46 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
                 <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
                 <addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <repositoryid label="Accession number">1943.3.1721.b</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but115v.1.penc.01" dbi="BUT115.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>,
+                <title type="transcribed">Copy of the Belvedere Torso</title>,
 <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 115 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote><p>The pencil inscription, lower right, appears to be signed "LJR" (Lessing J. Rosenwald), who probably wrote this inscription after he acquired the work c. 1938.  This inscription reads "I doubt that these [a reference to both sides of the leaf] are Blake."  Blake's authorship of these drawings is now generally accepted by Blake authorities, including Butlin.  For the monochrome wash drawing on the recto of this leaf, see <hi rend="i">Moses Staying the Plague</hi>.</p></objnote>
+                <objsize>34.3 x 42.8 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
-                    <component type="figure" location="E">
+                    <illusobjdesc>In the top half of the drawing, a muscular torso bent to the right is seen from the back.  A partial sketch of a right foot on a sculptural base occupies the lower half.  The upper sketch is likely a copy of the Belvedere torso, which Blake may have drawn from a cast.</illusobjdesc>
+                    <component type="figure" location="AB">
                         <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
-                        <characteristic>standing</characteristic>
+                        <characteristic>muscular</characteristic>
                         <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
                         <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>headless</characteristic>
+                        <characteristic>classical art</characteristic>
+                        <characteristic>statue</characteristic>
+                        <characteristic>Belvedere torso</characteristic>
+                        <illusobjdesc>In the top half of the design, a muscular torso, presumably male, bent to the right is seen from the back.  It is likely a copy of the Belvedere torso, which Blake may have drawn from a cast.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps a stick or rod?) in his right hand, held by his right side.</illusobjdesc>
+                    <component type="figure" location="CD">
+                        <characteristic>right foot</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>statue</characteristic>
+                        <illusobjdesc>A sketch of a right foot on a rounded sculptural base occupies the lower half of the design.  Shown from the ankle downward, the foot faces forward.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
+            
         </desc>
     </objdesc>
 </bad>

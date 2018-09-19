@@ -1,0 +1,329 @@
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but207r.1" type="penc" work="Ugolino in Prison" copy="1" copyid="1" institution="vanda" catalog="butlin" catid="207r" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Ugolino in Prison">
+                    <main>Ugolino in Prison</main>
+: electronic edition
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of
+Rochester;
+<name>Robert Essick, </name>University of California, Riverside; and
+<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+                 
+                </respstmt>
+                <sponsor/>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
+10918)
+files ranging in size from 92KB to 1100KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+ 
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
+and Joseph Viscomi, all rights reserved.  Items in the Archive may be
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+Redistribution or republication on other terms, in any medium, requires
+express written consent from the editors and advance notification of the
+publisher.
+Permission to reproduce the graphic images in this archive has been
+granted by the owners of the originals for this publication only.<lb/>
+         This image copyright © 2015 Victoria and Albert Museum
+      </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>April-May 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created</change>
+                <date>September 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquired and catalogued</change>
+                <date>September 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum</name>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Gerald Miller, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        Ugolino in Prison
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                <origination>Frederick Tatham<role>author.  The pen and ink inscription below the design has been attributed to Frederick Tatham.</role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic considerations.</note>
+                </compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>17.5 x 22.5 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>27.3 x 31.6 cm.</leafsize>
+                <medium>pencil<note>The inscription below the design is in pen and ink.</note>
+                </medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Victoria and Albert Museum</name>
+                <date>1881</date>
+                <dealer>E. Parsons</dealer>
+                <price>not recorded</price>
+                <note>Inherited by Blake's wife Catherine at his death in 1827; acquired by Frederick Tatham, probably at Catherine Blake's death in 1831; sold Sotheby's, 29 April 1862, possibly lot 200 or 201 with 33 other works (2s. or 3s. to the dealer Francis Harvey) or lot 160 with four other works (9s. to George A. Smith); Smith by 1876, sold Christie's, 10 July 1880, in lot 121 or 122 (each lot bought by the dealer E. Parsons for 3s.); sold by Parsons to the Victoria and Albert Museum in 1881.</note>
+            </provenance>
+            <repository>
+                <institution>Victoria and Albert Museum</institution>
+                <addressline>South Kensington</addressline>
+                <addressline>Cromwell Road</addressline>
+                <addressline>London SW7 2RL</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: +44 (0)20 7942 2000</addressline>
+                <addressline>Telephone, Images Agency: +44 (0)20 7942 2479</addressline>
+                <addressline>Fax, Images Agency: +44 (0)20 7942 2482</addressline>
+                <addressline>Email, Images Agency: vaimages@vam.ac.uk</addressline>
+                <addressline>URL: http://www.vam.ac.uk/</addressline>
+                <addressline>URL, Finding and Buying Images: http://www.vam.ac.uk/resources/buying/index.html</addressline>
+                <repositoryid label="Accession number">8763.B</repositoryid>
+            </repository>
+        </source>
+        <desc id="but207r.1.penc.01" dbi="BUT207.1.1r.PD">
+            <objtitle>
+                <title type="transcribed">Ugolino in Prison</title>,
+<objid>
+                    <objnumber code="A1">object 1 </objnumber>
+                    <objcode code="UI">(Butlin 207 recto)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote><p>The pen and ink inscription below the design is attributed to Frederick Tatham in Butlin 207.  The inscription lower right, "8763.B," is the Victoria and Albert Museum accession number written by a curator, probably c. 1881.  See also the verso of this leaf, <hi rend="i">Head of a Man and Small Head of Ugolino</hi>, Butlin 207 verso.  This recto pencil sketch is closely related to a monochrome wash drawing of approximately the same date, <hi rend="i">Ugolino: "Does Thy God, O Priest, Take Such Vengeance as This?"</hi>, Butlin 208.  Blake executed several similar designs based on the subject of Ugolino in prison with his sons and grandsons, including a pencil sketch in his Notebook, Butlin 201.59; <hi rend="i">For Children: The Gates of Paradise</hi>, Bentley plate 14; <hi rend="i">For the Sexes: The Gates of Paradise</hi>, Bentley plate 14; <hi rend="i">The Marriage of Heaven and Hell</hi>, Bentley plate 16; <hi rend="i">Ugolino and His Sons in Prison</hi> among the Dante water colors, Butlin 812.68; and the tempera painting, <hi rend="i">Count Ugolino and His Sons in Prison</hi>, Butlin 805.  The present sketch is not a direct preliminary drawing for any of these later works.</p></objnote>
+                <objsize>17.5 x 22.5 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>In a rectangular composition positioned against the right margin of the leaf, five figures sit in what appears to be the dark interior space of a prison.  The central figure is Ugolino, a gowned male with curly hair standing on end and a beard.  He sits cross-legged facing forward.  His arms are at his sides.  His facial expression suggests fear, despair, or madness.  The other figures are his sons and grandsons.  The rightmost figure, a nude male with long hair, sits or leans against a wall facing left with left arm by his side, hand clenched in a fist.  His extended legs touch those of his companion at far left; his left ankle may be shackled.  He turns his head up in a gesture that suggests despair.  The second figure from the right sits with legs drawn up facing forward against the rear wall.  He has long hair and may wear a gown.  With arms by his sides, he turns his head up and to the left, perhaps to look toward the central figure.  The second figure from the left, a nude(?) male with long hair, sits with legs drawn up facing forward and looking right, likely toward the central figure.  His right arm is by his side with hand braced on the ground.  The fifth and leftmost figure sits or leans against a wall facing right with head turned down and eye closed.  He may wear a gown.  His right arm is visible by his side with open palm braced on the ground, and his extended legs touch those of his companion at far right.  Behind the central figure, several horizontal lines suggest a heavy, barred door in this prison.  The diagonal shading of the interior walls indicates the darkness of the space.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>Ugolino</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>hair standing on end</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>Ugolino</characteristic>
+                        <characteristic>prisoner</characteristic>
+                        <characteristic>fear</characteristic>
+                        <characteristic>despair</characteristic>
+                        <illusobjdesc>In a rectangular composition positioned against the right margin of the leaf, five figures sit in what appears to be the dark interior space of a prison.  The central figure is Ugolino, a gowned male with curly hair standing on end and a beard.  He sits cross-legged facing forward.  His arms are at his sides.  His facial expression suggests fear, despair, or madness.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>fist</characteristic>
+                        <characteristic>hand on ground</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>shackled</characteristic>
+                        <characteristic>prisoner</characteristic>
+                        <characteristic>despair</characteristic>
+                        <illusobjdesc>The rightmost figure, a nude male with long hair, sits or leans against a wall facing left with left arm by his side, hand clenched in a fist on the ground.  His extended, slightly bent legs touch those of his companion at far left; his left ankle may be shackled.  He turns his head up in a gesture that suggests despair.  He is one of the sons or grandsons of Ugolino who is imprisoned with his family.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>shackle</characteristic>
+                        <illusobjdesc>The rightmost figure may wear a shackle around his left ankle.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>legs drawn up</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>prisoner</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>The second figure from the right sits with legs drawn up facing forward against the rear wall.  He has long hair and appears to wear a gown.  With arms by his sides, he turns his head up and to the left, perhaps to look toward the central figure.  He is one of the sons or grandsons of Ugolino who is imprisoned with his family.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>legs drawn up</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>hand on ground</characteristic>
+                        <characteristic>prisoner</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>The second figure from the left, a nude(?) male with long hair, sits with legs drawn up facing forward and looking right, likely toward the central figure.  His right arm is by his side with hand braced on the ground.  He is one of the sons or grandsons of Ugolino who is imprisoned with his family.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>hand on ground</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>prisoner</characteristic>
+                        <characteristic>despair</characteristic>
+                        <illusobjdesc>The fifth and leftmost figure sits or leans against a wall facing right with head turned down and eye closed.  He may wear a gown.  His right arm is visible by his side with open palm on the ground, and his extended legs touch those of his companion at far right.  His posture suggests despair.  He is one of the sons or grandsons of Ugolino who is imprisoned with his family.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>door</characteristic>
+                        <characteristic>wall</characteristic>
+                        <characteristic>dark</characteristic>
+                        <characteristic>cell</characteristic>
+                        <characteristic>prison</characteristic>
+                        <characteristic>dungeon</characteristic>
+                        <illusobjdesc>Behind the central figure, several horizontal lines suggest a heavy, barred door.  The diagonal shading of the interior walls indicates the darkness of the space.  The identification of these figures as Ugolino and his sons and grandsons indicates the space is a prison cell.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="but207r.1.penink.01.01" justify="left">Original sketch for the Ugolino.<note>This pen and ink inscription is attributed to Frederick Tatham in Butlin 207.  The inscription lower right, "8763.B," is the Victoria and Albert Museum accession number written by a curator, probably c. 1881.</note></l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

@@ -1,9 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="78r" hidden="false">
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but220.1" type="penc" work="Three Figures in a Decorative Border" copy="1" copyid="1" institution="tate" catalog="butlin" catid="220" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main>
+                <title reg="Three Figures in a Decorative Border">
+                    <main>Three Figures in a Decorative Border</main>
 : electronic edition
 </title>
                 <principal>
@@ -25,7 +26,7 @@ files ranging in size from 92KB to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-           
+            
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
@@ -36,7 +37,7 @@ express written consent from the editors and advance notification of the
 publisher.
 Permission to reproduce the graphic images in this archive has been
 granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 National Gallery of Art, Washington, DC
+         This image copyright © 2015 Tate Collection
       </userestrict>
         <encodingdesc/>
         <profiledesc/>
@@ -148,92 +149,122 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *A Warring Angel*
+                        Three Figures in a Decorative Border
                     </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1780">c. 1780<note>The date is based on stylistic considerations.</note>
+                <origination>Frederick Tatham<role>author.  Tatham wrote the pen and ink inscription, lower right.</role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1790">c. 1790<note>The date is based on stylistic considerations.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>9.9 x 16.0 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
-                <medium>pencil</medium>
-                <support>laid paper</support>
+                <leafsize>12.2 x 20.3 cm.</leafsize>
+                <medium>pencil<note>The inscription, lower right, by Frederick Tatham is in pen and ink.</note>
+                </medium>
+                <support>wove paper</support>
                 <watermark>none</watermark>
                 <pennednumbers>none</pennednumbers>
-                <framelines>none</framelines>
+                <framelines>Curving lines left and right suggest a decorative border or frame.</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
+                <name>Tate Collection</name>
+                <date>1922</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art, Washington, D. C.</note>
+                <note>Apparently inherited by Catherine Blake upon the death of her husband, William Blake, in 1827; by inheritance to Frederick Tatham upon the death of Catherine Blake in 1831; Tatham's brother-in-law George Richmond, sold from Richmond's collection, Christie's, 29 April 1897, lot 147 with 21 other works by Blake as listed in Butlin 77 (&#163;2.10s. to Richard Sisley); his daughter, Mrs. John Richmond; given by Mrs. Richmond to the Tate Gallery (now Tate Collection) in 1922.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland 20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>Tate Collection</institution>
+                <addressline>Millbank</addressline>
+                <addressline>London SW1P 4RG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 20-7887-8888</addressline>
+                <addressline>Telephone, Images: 20-7887-8871/4933</addressline>
+                <addressline>Fax, Images: 20-7887-8805</addressline>
+                <addressline>Email, Images: tate.images@tate.org.uk</addressline>
+                <addressline>URL, General: http://www.tate.org.uk/</addressline>
+                <addressline>URL, Images: http://www.tate-images.com</addressline>
+                <department/>
+                <repositoryid label="Accession number">A00042</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but220.1.penc.01" dbi="BUT220.1.PID">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>,
+                <title type="transcribed">Three Figures in a Decorative Border</title>,
 <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 220)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote><p>Butlin 220 titles this work <hi rend="i">Two Figures in a Decorative Border</hi>, but there are clearly three figures pictured in the design.</p></objnote>
+                <objsize>12.2 x 20.3 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                    <illusobjdesc>In the center of the composition, a female figure with long curly hair is shown from the waist up and appears to wear some sort of gown.  She faces down and left, likely to look at a second figure, very lightly sketched, who sits or reclines lower left.  Depicted in less detail than the first, this figure may extend one arm to the ground, where it is braced, and may raise the other horizontally(?).  Its legs are extended, at least in part, to the right.  Behind and to the right of the central figure is the upper body and head of a hunched over, contracted figure facing right and down.  Her(?) long hair and elevated right knee obscure her face.  her right arm extends downward.  A line on her back suggests that she may be gowned.  A decorative scroll-like border surrounds the figures on both sides of the scene.</illusobjdesc>
                     <component type="figure" location="E">
-                        <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
+                        <characteristic>female</characteristic>
                         <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <illusobjdesc>In the center of the composition, a female figure with long curly hair is shown from the waist up and appears to wear some sort of gown.  Most likely standing, she faces down and left, likely to look at a second figure who reclines lower left.  The upward-curving line to the left may suggest her right arm is bent upward.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps a stick or rod?) in his right hand, held by his right side.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>reclining</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <illusobjdesc>A lightly sketched figure sits or reclines with head at left in the lower left corner.  It may extend one arm to the ground, where it is braced, and may raise the other horizontally(?).  Its legs are extended, at least in part, to the right.  Other fine pencil lines below and to the left of this figure do not picture a clearly identifiable motif.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>upper body</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>hunched over</characteristic>
+                        <characteristic>squatting</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>knee</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>arm down</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>gown</characteristic>
+                        <illusobjdesc>Behind and to the right of the central figure is the upper body and head of a hunched over, contracted figure facing right and down.  Her(?) long hair and elevated right knee obscure her face.  her right arm extends downward.  A line on her back suggests that she may be gowned.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>line</characteristic>
+                        <characteristic>frame</characteristic>
+                        <characteristic>scroll</characteristic>
+                        <illusobjdesc>A decorative scroll-like border surrounds the pair of figures on both sides and lower right and left.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="but220.1.penink.01.01" justify="left" indent="46">William Blake</l>
+                    <l n="but220.1.penink.01.02" justify="left" indent="49">Frederick Tatham</l>
+                </lg>
+            </phystext>
         </desc>
     </objdesc>
 </bad>

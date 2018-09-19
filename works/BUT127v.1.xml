@@ -1,9 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="78r" hidden="false">
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but127v.1" type="penc" work="Anatomical Sketch of Lower Legs" copy="1" copyid="1" institution="tate" catalog="butlin" catid="127v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main>
+                <title reg="Anatomical Sketch of Lower Legs">
+                    <main>Anatomical Sketch of Lower Legs</main>
 : electronic edition
 </title>
                 <principal>
@@ -25,7 +26,7 @@ files ranging in size from 92KB to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-           
+            
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
@@ -36,7 +37,7 @@ express written consent from the editors and advance notification of the
 publisher.
 Permission to reproduce the graphic images in this archive has been
 granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 National Gallery of Art, Washington, DC
+         This image copyright © 2015 Tate Collection
       </userestrict>
         <encodingdesc/>
         <profiledesc/>
@@ -148,89 +149,74 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *A Warring Angel*
+                        Anatomical Sketch of Lower Legs
                     </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
                 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic considerations.</note>
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic considerations.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>8.9 x 34.9 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>8.9 x 34.9 cm.<note>The top of this strip of paper is uneven, tapering to 8.0 cm. on the right.  See the Editors' Notes on this work.</note></leafsize>
                 <medium>pencil</medium>
-                <support>laid paper</support>
+                <support>wove paper</support>
                 <watermark>none</watermark>
                 <pennednumbers>none</pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
+                <name>Tate Collection</name>
+                <date>1969</date>
                 <dealer>none</dealer>
-                <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art, Washington, D. C.</note>
+                <price>bequest</price>
+                <note>Early history unknown; acquired by Alexander Macmillan by 1876; possibly by gift or bequest to a son or daughter no later than 1896 or directly to his granddaughter, Rachel M. Dyer; bequeathed by Dyer in 1969 to the National Portrait Gallery, London, and transferred in the same year to the Tate Gallery, now Tate Collection.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland 20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>Tate Collection</institution>
+                <addressline>Millbank</addressline>
+                <addressline>London SW1P 4RG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 20-7887-8888</addressline>
+                <addressline>Telephone, Images: 20-7887-8871/4933</addressline>
+                <addressline>Fax, Images: 20-7887-8805</addressline>
+                <addressline>Email, Images: tate.images@tate.org.uk</addressline>
+                <addressline>URL, General: http://www.tate.org.uk/</addressline>
+                <addressline>URL, Images: http://www.tate-images.com</addressline>
+                <department/>
+                <repositoryid label="Accession number">T01128</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but127v.1.penc.01" dbi="BUT127.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>,
+                <title type="transcribed">Anatomical Sketch of Lower Legs</title>,
 <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 127 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote><p>This composition&#8212;evidently cut from a much larger design&#8212;appears on the verso of a piece of paper pasted to the top margin of the recto water color, <hi rend="i">An Allegory of the Bible</hi>.  This strip was added to complete the recto design.</p></objnote>
+                <objsize>8.9 x 34.9 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                    <illusobjdesc>In this drawing, a figure's legs are shown in great anatomical detail from approximately the knee to just below the ankle.  The left-leaning position of the legs suggests a figure facing forward and may stand in contrapposto or lean to the left.  Alternatively, the interest paid to the underlying bone in the left leg may suggest this is an anatomical study.</illusobjdesc>
                     <component type="figure" location="E">
-                        <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
+                        <characteristic>legs</characteristic>
                         <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
+                        <characteristic>contrapposto</characteristic>
+                        <characteristic>facing forward</characteristic>
                         <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
-                    </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps a stick or rod?) in his right hand, held by his right side.</illusobjdesc>
+                        <characteristic>bone</characteristic>
+                        <illusobjdesc>In this drawing, a figure's legs are shown in great anatomical detail from approximately the knee to just below the ankle.  The left-leaning position of the legs suggests a figure facing forward and may stand in contrapposto or lean to the left.  Alternatively, the interest paid to the underlying bone in the left leg may suggest this is an anatomical study.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

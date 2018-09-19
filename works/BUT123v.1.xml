@@ -1,9 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="78r" hidden="false">
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but123v.1" type="penc" work="Rough Sketch of Two or Three Figures in a Landscape" copy="1" copyid="1" institution="tate" catalog="butlin" catid="123v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main>
+                <title reg="Rough Sketch of Two or Three Figures in a Landscape">
+                    <main>Rough Sketch of Two or Three Figures in a Landscape</main>
 : electronic edition
 </title>
                 <principal>
@@ -25,7 +26,7 @@ files ranging in size from 92KB to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-           
+            
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
@@ -36,7 +37,7 @@ express written consent from the editors and advance notification of the
 publisher.
 Permission to reproduce the graphic images in this archive has been
 granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 National Gallery of Art, Washington, DC
+         This image copyright © 2015 Tate Collection
       </userestrict>
         <encodingdesc/>
         <profiledesc/>
@@ -148,22 +149,23 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *A Warring Angel*
+                        Rough Sketch of Two or Three Figures in a Landscape
                     </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
                 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic considerations.</note>
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic considerations.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>26.7 x 37.5 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
-                <medium>pencil</medium>
+                <leafsize>26.7 x 37.5 cm.</leafsize>
+                <medium>pencil<note>The pencil inscription just above the lower edge of the leaf&#8212;"Sketch / by Blake R. A."&#8212;is not by Blake.</note>
+                </medium>
                 <support>laid paper</support>
                 <watermark>none</watermark>
                 <pennednumbers>none</pennednumbers>
@@ -171,69 +173,88 @@ granted by the owners of the originals for this publication only.<lb/>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
+                <name>Tate Collection</name>
+                <date>1940</date>
                 <dealer>none</dealer>
-                <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art, Washington, D. C.</note>
+                <price>bequest</price>
+                <note>Early history unknown; acquired by Alice G. E. Carthew by 1918; bequeathed by Carthew to the Tate Gallery (now Tate Collection) in 1940.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland 20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>Tate Collection</institution>
+                <addressline>Millbank</addressline>
+                <addressline>London SW1P 4RG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 20-7887-8888</addressline>
+                <addressline>Telephone, Images: 20-7887-8871/4933</addressline>
+                <addressline>Fax, Images: 20-7887-8805</addressline>
+                <addressline>Email, Images: tate.images@tate.org.uk</addressline>
+                <addressline>URL, General: http://www.tate.org.uk/</addressline>
+                <addressline>URL, Images: http://www.tate-images.com</addressline>
+                <department/>
+                <repositoryid label="Accession number">N05198</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but123v.1.penc.01" dbi="BUT123.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>,
+                <title type="transcribed">Rough Sketch of Two or Three Figures in a Landscape</title>,
 <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 123 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote><p>The pencil inscription just above the lower edge of the leaf&#8212;"Sketch / by Blake R. A."&#8212;is not by Blake.  He was never a member of the Royal Academy, although he exhibited there.  For the monochrome wash drawing on the recto of this leaf, see <hi rend="i">The Good Farmer</hi>, Butlin 123 recto.  The leaf is stained browned upper and center right.</p></objnote>
+                <objsize>26.7 x 37.5 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                    <illusobjdesc>Just left of center in this very faint drawing, three figures, sitting or kneeling, are partially visible.  The central figure is the most detailed and appears to face forward with head tilted up and to the left.  This figure's right arm may be bent at the elbow.  Both legs of this sitting figure are extended downward and may be crossed near the ankle.  To the right of this figure, a second figure's head and arms, both of which are bent upward at 90 degrees, are visible.  This figure may clench its hands into fists.  The figure far left sits or kneels facing right, with left arm raised at 135 degrees and right arm lowered at 45 degrees.  All three may be engaged in an animated conversation.  There is a form behind and above the figure on the left (perhaps a tree?) though the details of this form are indistinct.  Additional lines above and to the right of the figures may represent a mountain landscape.  A few faint lines upper right might represent two(?) kneeling figures, oriented vertically and facing right toward the bottom of the leaf.</illusobjdesc>
                     <component type="figure" location="E">
-                        <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>sitting</characteristic>
                         <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>head up</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <illusobjdesc>Just left of center of this very faint drawing, three figures are partially visible.  The central figure is the most detailed and appears to sit facing forward with head tilted up and to the left.  This figure's right arm may be bent at the elbow.  Both legs are extended downward and may be crossed near the ankle.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps a stick or rod?) in his right hand, held by his right side.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>head</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>fists</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <illusobjdesc>Just left of center of this very faint drawing, three figures are partially visible.  On the right, a figure's head and arms, both of which are bent upward at 90 degrees, are visible.  This figure may clench its hands into fists.  He may be seated.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>sitting</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>Just left of center of this very faint drawing, three figures are partially visible.  The figure far left sits or kneels facing right, with left arm raised at 135 degrees and right arm lowered at 45 degrees.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AC">
+                        <characteristic>tree</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>There is a form behind and above the figure at far left (perhaps a tree?) though the details of this form are indistinct.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>hill</characteristic>
+                        <characteristic>mountain</characteristic>
+                        <illusobjdesc>Lines above and to the right of the figures may represent a mountain landscape.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <illusobjdesc>A few faint lines upper right might represent two(?) kneeling figures, oriented vertically and facing right toward the bottom of the leaf.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
+            
         </desc>
     </objdesc>
 </bad>

@@ -1,9 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="78r" hidden="false">
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but148v.1" type="penc" work="Sketch of Two or Three Figures" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="148v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main>
+                <title reg="Sketch of Two or Three Figures">
+                    <main>Sketch of Two or Three Figures</main>
 : electronic edition
 </title>
                 <principal>
@@ -25,7 +26,7 @@ files ranging in size from 92KB to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-           
+            
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
@@ -148,22 +149,23 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *A Warring Angel*
+                        Sketch of Two or Three Figures
                     </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
                 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic considerations.</note>
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic considerations.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>28.3 x 35.2 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
-                <medium>pencil</medium>
+                <leafsize>28.3 x 35.2 cm.</leafsize>
+                <medium>pencil<note>The inscriptions are in pencil.  These are not by Blake; see the Editors' Notes.</note>
+                </medium>
                 <support>laid paper</support>
                 <watermark>none</watermark>
                 <pennednumbers>none</pennednumbers>
@@ -175,7 +177,8 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1943</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art, Washington, D. C.</note>
+                <note>Early history unknown; Alexander Macmillan by 1876; acquired at an unidentified sale by the dealer A. S. W. Rosenbach, 22 Dec. 1938; Lessing J. Rosenwald; given by Rosenwald to the National Gallery of Art, Washington, in 1943.
+                </note>
             </provenance>
             <repository>
                 <institution>National Gallery of Art, Washington</institution>
@@ -187,53 +190,65 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
                 <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
                 <addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <repositoryid label="Accession number">1943.2.1723b</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but148v.1.penc.01" dbi="BUT148.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>,
+                <title type="transcribed">Sketch of Two or Three Figures</title>,
 <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 148 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote><p>There are two pencil inscriptions not by Blake: "26" right of center just below the top margin and "Single" right of the figures in the drawing.</p></objnote>
+                <objsize>28.3 x 35.2 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
-                    <component type="figure" location="E">
-                        <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
+                    <illusobjdesc>At least two elongated figures stand on the left side of this drawing.  Both are likely gowned and may wear hats.  Both may be fleeing to the left.  The figure at far left appears to stand facing forward with its back and at least one knee bent forward.  This figure may raise a bent arm, or both arms, to touch the side of its face or cover one or both ears.  At right, the second figure faces forward with head turned slightly to the right and both arms raised and bent upward to cover its apparently oversized ears.  The figure appears to stand on its left foot and extend its right backward and to the right, foot pointed downward on tiptoe.  A serpentine line extends rightward from this figure's waist across the drawing.  There are various other shapes and lines that may be indications of a landscape.</illusobjdesc>
+                    <component type="figure" location="AC">
                         <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>hands to ears</characteristic>
+                        <characteristic>hand on face</characteristic>
+                        <illusobjdesc>At least two figures stand on the left side of this drawing.  Both are likely gowned and may wear hats.  Both may be fleeing to the left.  The figure at far left appears to stand facing forward with its back and at least one knee bent forward.  the posture is somewhat twisted.  This figure may raise a bent arm, or both arms, to touch the side of its face or cover one or both ears.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps a stick or rod?) in his right hand, held by his right side.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>fleeing</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>running</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>ear</characteristic>
+                        <characteristic>hands to ears</characteristic>
+                        <characteristic>hands on face</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>tiptoe</characteristic>
+                        <illusobjdesc>At least two figures stand on the left side of this drawing.  Both are likely gowned and may wear hats.  Both may be fleeing to the left.  At right, the second figure faces forward with head turned slightly to the right and both arms raised and bent upward to cover its apparently oversized ears.  The figure appears to stand on its left foot and extend its right backward and to the right, foot pointed downward on tiptoe.  The figure may be walking or running.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>line</characteristic>
+                        <characteristic>serpentine</characteristic>
+                        <illusobjdesc>A serpentine line extends rightward from the waist of the figure at right across the drawing.  There are various other shapes and lines that may be indications of a landscape.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
+            
         </desc>
     </objdesc>
 </bad>

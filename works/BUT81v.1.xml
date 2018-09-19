@@ -1,0 +1,304 @@
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but81v.1" type="penc" work="A Harper and Other Figures" copy="1" copyid="1" institution="essick" catalog="butlin" catid="81v" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="A Harper and Other Figures">
+                    <main>A Harper and Other Figures</main>
+: electronic edition
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of
+Rochester;
+<name>Robert Essick, </name>University of California, Riverside; and
+<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+                 
+                </respstmt>
+                <sponsor/>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
+10918)
+files ranging in size from 92KB to 1100KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
+and Joseph Viscomi, all rights reserved.  Items in the Archive may be
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+Redistribution or republication on other terms, in any medium, requires
+express written consent from the editors and advance notification of the
+publisher.
+Permission to reproduce the graphic images in this archive has been
+granted by the owners of the originals for this publication only.<lb/>
+         This image copyright © 2015 William Blake Archive
+      </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>April-May 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created</change>
+                <date>September 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquired and catalogued</change>
+                <date>September 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum</name>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Gerald Miller, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        A Harper and Other Figures
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic considerations and the relationship of motifs in this drawing to others of the 1780-85 period.</note>
+                </compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>31.0 x 18.4 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>31.0 x 18.4 cm.</leafsize>
+                <medium>pencil</medium>
+                <support>laid paper</support>
+                <watermark>GR<note>A crown appears above the letters "GR."</note>
+                </watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Collection of Robert N. Essick</name>
+                <date>1993</date>
+                <dealer>Nicholas W. Lott</dealer>
+                <price>$9000</price>
+                <note>Inherited by Blake's wife Catherine at his death in 1827; Frederick Tatham at Catherine Blake's death in 1831; the dealer Bernard Quaritch, offered in his catalogue of Nov. 1882, in item 346 with forty-four other works (&#163;36), catalogue 350 of 10 Aug. 1882 and catalogue of Oct. 1883, in item 13,843 in both, "forty [forty-five?] sketches in pencil or chalk" (&#163;36), and May 1885 catalogue of <hi rend="i">William Blake's Original Drawings</hi>, no item number for the same group of drawings from Tatham's collection (&#163;36); sold June 1886 to W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949, lot 74 with two other works (&#163;26.5s. to the dealer Bertram Rota acting for an American private collector); Bodley Bookshop, New York; acquired c. 1955-56 by Edwin Wolf 2nd; inherited by a descendent of Wolf's (probably his son) upon Wolf's death in 1991; on consignment with the dealer Nicholas W. Lott by early 1993; acquired Dec. 1993 by Robert N. Essick.</note>
+            </provenance>
+            <repository>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena, CA</addressline>
+                
+            </repository>
+        </source>
+        <desc id="but81v.1.penc.01" dbi="BUT81.1.1v.PD">
+            <objtitle>
+                <title type="transcribed">A Harper and Other Figures</title>,
+<objid>
+                    <objnumber code="A1">object 1 </objnumber>
+                    <objcode code="UI">(Butlin 81 verso)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote><p>For the pencil drawings on the recto, see <hi rend="i">A Pastoral Figure and Other Sketches</hi>.</p></objnote>
+                <objsize>31.0 x 18.4 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Two male figures who both face forward and wear knee-length gowns stand in the center of this composition.  Both appear to have long hair and hold objects in their hands.  The figure at left may hold a harp(?) in his right hand by his side and perhaps a staff in his left, also by his side.  His companion at right bends both arms to hold a harp in front of his chest.  A few lines below and on each side of his legs may represent a landscape in which he stands.  To the immediate left of these figures, a more faintly drawn third figure sits in profile facing right and may lean against a tree trunk at left.  There may be another figure behind and to the right.  Directly below this figure there are three similar yet indeterminate forms that may suggest figures drawn horizontally, heads on the right.  In the upper right quadrant, two tree trunks(?) or pillars stand at left.  Further right a figure, drawn horizontally, stands with arms at side.  She may hold something in her(?) right arm, possibly an infant.  In the lower right corner, there is a separate scene or vignette demarcated by a rectangle inside which a single figure stands facing forward in front of what appears to be a large herd of animals, perhaps sheep, which would suggest the figure is a shepherd.  The seven vertical forms in this vignette may be tree trunks or pillars.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>carrying</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>walking</characteristic>
+                        <illusobjdesc>Two male figures who both face forward and wear knee-length gowns stand in the center of this composition.  Both appear to have long hair and hold objects in their hands.  The figure at left may hold a harp(?) in his right hand by his side and perhaps a staff in his left, also by his side.  A diagonal strap is visible across his chest.  His left leg is bent and extended backward slightly suggesting he may be walking.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AC">
+                        <characteristic>harp</characteristic>
+                        <characteristic>staff</characteristic>
+                        <illusobjdesc>The male figure standing center left in this composition may hold a harp(?) in his right hand by his side (though the instrument is partially obscured by his body) and a staff in his left hand.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>carrying</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <illusobjdesc>Two male figures who both face forward and wear knee-length gowns stand in the center of this composition.  Both appear to have long hair and hold objects in their hands.  The figure at right bends both arms to hold a harp in front of his chest.  He may wear a cloak.  A few lines below and on each side of his legs may represent a landscape in which he stands.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>harp</characteristic>
+                        <illusobjdesc>The standing male figure center right holds a harp with both hands.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>holding</characteristic>
+                        <illusobjdesc>On the left side of the composition, a more faintly drawn third figure sits in profile facing right and may lean against a tree trunk at left.  This figure appears to rest its right arm in its lap and may hold an indeterminate object in its lap as well.  Its bent leg touches the standing figure to the immediate right.  There may be another figure behind and to the right, very lightly sketched.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="A">
+                        <characteristic>tree</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <illusobjdesc>On the left side of the composition, a more faintly drawn third figure sits in profile facing right and may lean against a tree trunk at left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>standing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <illusobjdesc>Directly below the seated figure at left, there are three or four similar yet indeterminate forms that may be figures drawn horizontally, heads on the right.  They may be standing and gowned, arms at side.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>lying</characteristic>
+                        <characteristic>supine</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>infant</characteristic>
+                        <illusobjdesc>A standing figure, drawn horizontally, appears upper right.  She(?) has her arms at her side and may be nude or gowned.  This figure appears to wear some sort of hat or hood.  He or she may hold something in her right hand, possibly an infant.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="B">
+                        <characteristic>trunk</characteristic>
+                        <characteristic>pillar</characteristic>
+                        <illusobjdesc>Two vertical forms that may be tree trunks or pillars are visible on the left side of the upper right quadrant.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>shepherd</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <illusobjdesc>In the lower right corner, there is a separate scene or vignette demarcated by a rectangle inside which a single figure stands facing forward in front of what appears to be a large herd of animals, perhaps sheep, which would suggest the figure is a shepherd.  The figure may be gowned and wear some sort of spiky crown or garland(?).</illusobjdesc>
+                    </component>
+                    <component type="animal" location="D">
+                        <characteristic>sheep</characteristic>
+                        <characteristic>grazing</characteristic>
+                        <characteristic>head down</characteristic>
+                        <illusobjdesc>In the lower right corner, there is a separate scene or vignette demarcated by a rectangle inside which a single figure stands facing forward in front of what appears to be a large herd of animals, perhaps sheep.  Some of the animals appear to have their heads down, likely grazing.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>pillar</characteristic>
+                        <characteristic>tree</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <illusobjdesc>In the lower right corner, there is a separate scene or vignette demarcated by a rectangle inside of which are seven vertical forms that may be tree trunks or pillars.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+        </desc>
+    </objdesc>
+</bad>

@@ -1,9 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc" catalog="butlin" catid="78r" hidden="false">
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but77v.1" type="penc" work="Lower Half of a Woman Playing a Harp" copy="1" copyid="1" institution="tate" catalog="butlin" catid="77v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main>
+                <title reg="Lower Half of a Woman Playing a Harp">
+                    <main>Lower Half of a Woman Playing a Harp</main>
 : electronic edition
 </title>
                 <principal>
@@ -25,7 +26,7 @@ files ranging in size from 92KB to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-           
+            
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
@@ -36,7 +37,7 @@ express written consent from the editors and advance notification of the
 publisher.
 Permission to reproduce the graphic images in this archive has been
 granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 National Gallery of Art, Washington, DC
+         This image copyright © 2015 Tate Collection
       </userestrict>
         <encodingdesc/>
         <profiledesc/>
@@ -148,89 +149,94 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *A Warring Angel*
+                        Lower Half of a Woman Playing a Harp
                     </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
                 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic considerations.</note>
+                <compdate value="1785">c. 1785<note>This drawing is dated to c. 1780 in Butlin 77 verso, but revised to c. 1785 in Martin Butlin, <hi rend="i">William Blake 1757-1827</hi>, Tate Gallery Collections: Volume Five (London: Tate Gallery, 1990) 55-56.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>26.8 x 45.0 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>26.8 x 45.0 cm.</leafsize>
                 <medium>pencil</medium>
-                <support>laid paper</support>
-                <watermark>none</watermark>
-                <pennednumbers>none</pennednumbers>
+                <support>wove paper</support>
+                <watermark>J WHATMAN</watermark>
+                <pennednumbers>none<note>The pencil letters and numbers and the inscription in red, both lower right, are not by Blake.  The pencil inscription relates to the Tate Collection acquisition number.</note></pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
+                <name>Tate Collection</name>
+                <date>1922</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art, Washington, D. C.</note>
+                <note>Probably inherited by Blake's wife Catherine at his death in 1827; acquired by Frederick Tatham, probably at Catherine Blake's death in 1831; Tatham's brother-in-law, George Richmond; sold from Richmond's collection, Christie's, 29 April 1897, lot 147 with 21 other works, most by Blake and his brother Robert (&#163;2.10s. to Richard Sisley); Sisley's daughter, Mrs. John Richmond, probably by gift or inheritance; given by Mrs. Richmond to the Tate Gallery (now Tate Collection) in 1922.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland 20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services: http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>Tate Collection</institution>
+                <addressline>Millbank</addressline>
+                <addressline>London SW1P 4RG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 20-7887-8888</addressline>
+                <addressline>Telephone, Images: 20-7887-8871/4933</addressline>
+                <addressline>Fax, Images: 20-7887-8805</addressline>
+                <addressline>Email, Images: tate.images@tate.org.uk</addressline>
+                <addressline>URL, General: http://www.tate.org.uk/</addressline>
+                <addressline>URL, Images: http://www.tate-images.com</addressline>
+                <department/>
+                <repositoryid label="Accession number">A00044</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but77v.1.penc.01" dbi="BUT77.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>,
+                <title type="transcribed">Lower Half of a Woman Playing a Harp</title>,
 <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 77 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote><p>Brown stains cover much of this leaf.  This design is the lower half of a drawing.  For the upper half, see <hi rend="i">Woman Playing a Harp</hi>, Butlin 76 verso.  For the sketch on the recto of this leaf, see <hi rend="i">Seraphim and Other Drawings</hi>.</p></objnote>
+                <objsize>26.8 x 45.0 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
+            <related objectid="but76v.1.penc.01"/>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                    <illusobjdesc>A gowned figure visible from the waist down is depicted in this drawing.  The figure is seated with knees turned to the left.  It is unclear whether the chair on which she sits is visible next to her hips at right or if this material is part of the gown's drapery.  Two vertical lines appear near the left edge of the design, and two right hands, one above the other, are shown behind these lines with palms facing forward, fingers pointing left, though with different gestures.  This drawing is the bottom half of a drawing, <hi rend="i">Woman Playing a Harp</hi>, Butlin 76 verso, that shows the upper half of a seated girl playing the harp, indicating the figure in this drawing is likely female.  The sketched hands at left may be alternative ideas for the girl's right hand plucking the harp-strings shown in the upper half of the related drawing.</illusobjdesc>
                     <component type="figure" location="E">
-                        <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>gown</characteristic>
                         <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent buttocks stands on the right side of the composition.  Although his body faces away from the viewer, he turns his head to face left so that his face is seen in profile.  His hair is short; his expression and furrowed brow suggest anger.  Leaning slightly to the left, he raises his left arm horizontally with palm facing away and fingers spread.  His right arm is by his side, and he carries a weapon (perhaps a stick or rod?) in his right hand.  He raises his right heel slightly, which may suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>female</characteristic>
+                        <illusobjdesc>A gowned figure visible from the waist down is depicted in this drawing.  The figure is seated with knees turned to the left.  This drawing is the bottom half of a related drawing, <hi rend="i">Woman Playing a Harp</hi>, Butlin 76 verso, that shows the upper half of a seated girl playing the harp, indicating the figure in this drawing is likely female.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps a stick or rod?) in his right hand, held by his right side.</illusobjdesc>
+                    <component type="object" location="BD">
+                        <characteristic>seat</characteristic>
+                        <characteristic>chair</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <illusobjdesc>It is unclear whether the chair on which the figure sits is visible next to her hips at right or if this material is part of the gown's drapery.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>hands raised palms out</characteristic>
+                        <characteristic>palms facing viewer</characteristic>
+                        <characteristic>fingers</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>playing</characteristic>
+                        <illusobjdesc>Two right hands, one above the other, are shown behind two vertical lines near the left edge of the design.  The palms face forward with fingers pointing left, but with different gestures.  The index finger of the upper hand is bent toward the palm whereas all fingers of the lower hand appear to be extended and spread.  Because a girl is shown playing a harp in the related upper half of this work (<hi rend="i">Woman Playing a Harp</hi>, Butlin 76 verso), the sketched hands may be alternative ideas for the girl's right hand plucking the harp-strings.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AC">
+                        <characteristic>line</characteristic>
+                        <characteristic>string</characteristic>
+                        <characteristic>harp</characteristic>
+                        <illusobjdesc>The two vertical lines visible near the left edge of the design may represent strings of a harp that the figure plays in the related upper half of this work (<hi rend="i">Woman Playing a Harp</hi>, Butlin 76 verso).</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

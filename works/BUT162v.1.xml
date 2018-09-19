@@ -1,0 +1,385 @@
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="but162v.1" type="penc" work="Job’s Wife and Other Sketches" copy="1" copyid="1" institution="tate" catalog="butlin" catid="162v" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Job’s Wife and Other Sketches">
+                    <main>Job’s Wife and Other Sketches</main>
+: electronic edition
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of
+Rochester;
+<name>Robert Essick, </name>University of California, Riverside; and
+<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+                 
+                </respstmt>
+                <sponsor/>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
+10918)
+files ranging in size from 92KB to 1100KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+           
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
+and Joseph Viscomi, all rights reserved.  Items in the Archive may be
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+Redistribution or republication on other terms, in any medium, requires
+express written consent from the editors and advance notification of the
+publisher.
+Permission to reproduce the graphic images in this archive has been
+granted by the owners of the originals for this publication only.<lb/>
+         This image copyright © 2015 Tate Collection
+      </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>April-May 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created</change>
+                <date>September 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquired and catalogued</change>
+                <date>September 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum</name>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Gerald Miller, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        Job’s Wife and Other Sketches
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                <origination>Frederick Tatham<role>author.  The pencil inscription upper right has been attributed to Tatham..</role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1785">c. 1785<note>The date is based on stylistic considerations and the relationship of the sketch of Job's wife to Blake's other compositions illustrating the Book of Job.</note>
+                </compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>45.1 x 31.1 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>45.1 x 31.1 cm.</leafsize>
+                <medium>pencil</medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Tate Collection</name>
+                <date>1950</date>
+                <dealer>none</dealer>
+                <price>bequest</price>
+                <note>Probably inherited by Blake's wife Catherine at his death in 1827; acquired by Frederick Tatham, probably at Catherine Blake's death in 1831; possibly sold Sotheby's, 29 April 1862, lot 164 with three other works by Blake (&#163;1.9s. to Francis Turner Palgrave); sold Sotheby's, 19 April 1904, lot 403 (&#163;11.15s. to W. Daniell, probably a dealer); Alice G. E. Carthew by 1914; bequeathed by Carthew to the Tate Gallery, now Tate Collection, in 1940.</note>
+            </provenance>
+            <repository>
+                <institution>Tate Collection</institution>
+                <addressline>Millbank</addressline>
+                <addressline>London SW1P 4RG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 20-7887-8888</addressline>
+                <addressline>Telephone, Images: 20-7887-8871/4933</addressline>
+                <addressline>Fax, Images: 20-7887-8805</addressline>
+                <addressline>Email, Images: tate.images@tate.org.uk</addressline>
+                <addressline>URL, General: http://www.tate.org.uk/</addressline>
+                <addressline>URL, Images: http://www.tate-images.com</addressline>
+                <department/>
+                <repositoryid label="Accession number">N05200</repositoryid>
+            </repository>
+        </source>
+        <desc id="but162v.1.penc.01" dbi="BUT162.1.1v.PD">
+            <objtitle>
+                <title type="transcribed">Job’s Wife and Other Sketches</title>,
+<objid>
+                    <objnumber code="A1">object 1 </objnumber>
+                    <objcode code="UI">(Butlin 162 verso)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote><p>These pencil sketches are on the verso of Blake's monochrome wash drawing, <hi rend="i">Job, His Wife and Friends: The Complaint of Job</hi>.  The sketch of Job's wife, sideways in the middle of this leaf of pencil drawings, is preliminary to Blake's two subsequent versions of the full composition on the recto, <hi rend="i">The Complaint of Job: "What Is Man that Thou Shouldest Try Him Every Moment?"</hi> (Butlin 164) and the large separate engraving of "Job" of 1793.  Job's wife is in a different posture in the recto design.</p></objnote>
+                <objsize>45.1 x 31.1 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Many figures and separate vignettes constitute this drawing.  In the center of the leaf is a sitting or squatting and contracted female figure, sketched sideways, with her body facing forward and her head turned to her right.  The similarity of this figure to Job's wife in two of Blake's more developed illustrations to The Book of Job, <hi rend="i">The Complaint of Job: "What Is Man that Thou Shouldest Try Him Every Moment?"</hi> (Butlin 164) and the large separate engraving of "Job" of 1793, identifies her. Just above her, rendered in very light pencil lines, may be another figure, sketched sideways and with the head on the right, just above the feet of Job's wife.  This might be the frontmost of Job's friends, probably Eliphaz, in the same two more developed renderings of Blake's Job illustrations.  In the center of the top half of the leaf, a male(?) figure with long hair sits facing forward and right.  He may be a shepherd sitting beneath a large tree.  His bent right arm rests in his lap where he holds a lyre between his legs.  With his raised, bent left arm, he may be holding a staff or shepherd's crook.  On the left side of the lower half of the design, a similar figure, but possibly female, also sits facing right yet looking forward.  Her long hair appears to blow in front of her face, and she appears to wear a gown.  Her right arm rests in her lap, and she raises her left beside her face.  In the lower right corner, a rectangular space contains a pastoral design of a seated figure, likely a shepherd, holding a staff or crook and surrounded by various indeterminate vegetation.  There is a second rectangular design positioned just left of center in which a figure appears to stand amongst tree trunks. Various other sketches appear throughout the leaf including a right-facing profile in the lower left corner; a left-facing profile just above the previous visage; a third face just above, rendered as only eyes and eyebrows; another seated figure, sketches sideways near the center left margin; a large face upper left, only the eyes and eyebrows clearly pictured; and a seated figure upper right, sketched sideways.  </illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>female</characteristic>
+                        <characteristic>Job's wife</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>gown</characteristic>
+                        <illusobjdesc>In the center of the leaf is a sitting or squatting and contracted female figure, sketched sideways, with her body facing forward and her head turned to her right.  She has long hair; her right arm may be bent across her body.  She may wear a gown.  The similarity of this figure to Job's wife in two of Blake's more developed illustrations to the Book of Job, <hi rend="i">The Complaint of Job: "What Is Man that Thou Shouldest Try Him Every Moment?"</hi> (Butlin 164) and the large separate engraving of "Job" of 1793, identifies her.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning forward</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>Eliphaz</characteristic>
+                        <illusobjdesc>Just above Job's wife (the sitting or squatting figure in the center of the leaf) may be another figure, sketched sideways in very light pencil lines and with the head on the right, just above the feet of Job's wife.  The figure leans forward and to the right.  This might be the frontmost of Job's friends, probably Eliphaz, in two of Blake's more developed illustrations to the Book of Job, <hi rend="i">The Complaint of Job: "What Is Man that Thou Shouldest Try Him Every Moment?"</hi> (Butlin 164) and the large separate engraving of "Job" of 1793.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>shepherd</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>lyre</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>staff</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>shepherd's crook</characteristic>
+                        <illusobjdesc>Many figures and separate vignettes constitute this drawing.  In the center of the top half of the leaf, a male(?) figure with long hair sits facing forward and right.  His bent right arm rests in his lap where he holds a lyre between his legs.  He may be a shepherd.  With his raised, bent left arm, he may be holding a staff or shepherd's crook. </illusobjdesc>
+                    </component>
+                    
+                    <component type="vegetation" location="AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>root</characteristic>
+                        <illusobjdesc>The large seated figure in the upper half of the leaf sits before a large tree trunk.  Its roots may be visible right of the seated figure.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>hand on face</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>Job's wife</characteristic>
+                        <characteristic>melancholy</characteristic>
+                        <illusobjdesc>Many figures and separate vignettes constitute this drawing.  On the left side of the lower half of the design, a female(?) figure sits facing right yet looking forward.  Her long hair appears to blow in front of her face, and she likely wears a gown.  Her right arm rests in her lap, and she raises her left hand beside her face.  Her expression suggests melancholy.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>shepherd</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>gown</characteristic>
+                        <illusobjdesc>In the lower right corner, a rectangular space contains a pastoral design of a seated figure, likely a male(?) shepherd, holding a staff or crook in his left hand and supporting a lyre with his right, which rests between his legs.  The figure, who has long hair and may wear a gown, faces forward.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>shepherd's crook</characteristic>
+                        <characteristic>staff</characteristic>
+                        <characteristic>stone</characteristic>
+                        <characteristic>bank</characteristic>
+                        <characteristic>lyre</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>The shepherd in the lower right corner of the design within framing lines holds a staff or shepherd's crook in his raised left arm and supports a lyre with his right hand.  He may sit on a large stone or bank.  Lines in the sky may indicate clouds.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="D">
+                        <characteristic>tree</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>grass</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>In the lower right corner, a framed rectangular space contains a pastoral design of a seated figure surrounded by trees, vines, grass, and/or other indeterminate vegetation.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>shepherd</characteristic>
+                        <characteristic>shepherd's crook</characteristic>
+                        <illusobjdesc>Many figures and separate vignettes constitute this drawing.  There is a framed rectangular design positioned just left of center in which a figure appears to stand amongst tree trunks.  This figure faces forward and may hold an object in its right hand, perhaps a shepherd's crook.  Forms to the left of the figure's feet may be grazing sheep.</illusobjdesc>
+                        <component type="object" location="A">
+                            <characteristic>tree</characteristic>
+                            <characteristic>trunk</characteristic>
+                            <illusobjdesc>The figure in the framed vignette just left of center stands among tree trunks.</illusobjdesc>
+                        </component>
+                    </component>
+                    <component type="animal" location="A">
+                        <characteristic>sheep</characteristic>
+                        <characteristic>grazing</characteristic>
+                        <characteristic>standing</characteristic>
+                        <illusobjdesc>In the second, smaller rectangular design just left of center, a figure stands facing forward, and forms at lower left may indicate grazing sheep.</illusobjdesc>
+                    </component>
+                    
+                    <component type="figure" location="C">
+                        <characteristic>face</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>In the lower left corner, a partially sketched face is visible facing right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>face</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>In the lower left corner, above the lowest sketched face, a second visage faces left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>face</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>eye</characteristic>
+                        <illusobjdesc>Above the two profiles in the lower left corner of the leaf is a third face, rendered only as eyes and eyebrows facing forward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <illusobjdesc>A seated figure is sketched sideways left of center.  This figure's head is cut off by the edge of the leaf.  The figures right arm is bent across the figure's lap; the left arm is bent and raised.  This figure is similar to the seated shepherds sketched elsewhere in this design.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>hair</characteristic>
+                        <characteristic>face</characteristic>
+                        <characteristic>eye</characteristic>
+                        <illusobjdesc>Only the eyes and hair of a partial yet large sketch of a face, oriented sideways, are visible in the upper left corner of the design.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>lyre</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>hand on face</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>nude</characteristic>
+                        <illusobjdesc>A seated figure is sketched sideways upper right, similar to the seated shepherds elsewhere on this leaf.  He(?) may hold a lyre between his legs with his lowered right arm, like the large figure to the left.  His left leg is bent and his left arm bent upward.  His left hand may be touching his face, although his head is cut off by the edge of the leaf.</illusobjdesc>
+                    </component>
+                    
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="5"/>
+                <lg justify="left">
+                    <l n="but162v.1.penc.01.01" justify="left">Job, his wife</l><note>Both lines of the inscription, probably by Frederick Tatham, are written vertically along the right margin of the leaf in the upper right corner.</note>
+                    <l n="but162v.1.penc.01.02" justify="left">&amp; 3 friends</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
