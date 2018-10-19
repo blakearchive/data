@@ -1,44 +1,36 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but133v.1" type="penc" work="Old Man Sitting" copy="1" copyid="1" institution="morgan" catalog="butlin" catid="133v" hidden="false">
+<bad id="but133v.1" type="penc" work="Old Man Sitting" copy="1" copyid="1" institution="morgan"
+    catalog="butlin" catid="133v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Old Man Sitting">
-                    <main>Old Man Sitting</main>
-: electronic edition
-</title>
+                    <main>Old Man Sitting</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 Morgan Library and Museum
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 Morgan Library and Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +39,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +83,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +117,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,15 +137,14 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        Old Man Sitting
-                    </title>
+                    <title> Old Man Sitting </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1780">c. 1780-85<note>The date, based on stylistic considerations, is far from certain.</note>
+
+                <compdate value="1780">c. 1780-85<note>The date, based on stylistic considerations,
+                        is far from certain.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -176,7 +164,11 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1968</date>
                 <dealer>none</dealer>
                 <price>bequest</price>
-                <note>Early history unknown; Stopford A. Brooke (1832-1916); sold from Brooke's collection, Sotheby's, 9 April 1919, lot 446 (&#163;15.10s. to the dealer Henry W. Sotheran); Mitchell Kennerly of Anderson Galleries, New York; Herschel V. Jones, given c. 1920 to his daughter Tessie Jones and bequeathed by her to the Pierpont Morgan Library (now Morgan Library and Museum) in 1968.</note>
+                <note>Early history unknown; Stopford A. Brooke (1832-1916); sold from Brooke's
+                    collection, Sotheby's, 9 April 1919, lot 446 (&#163;15.10s. to the dealer Henry
+                    W. Sotheran); Mitchell Kennerly of Anderson Galleries, New York; Herschel V.
+                    Jones, given c. 1920 to his daughter Tessie Jones and bequeathed by her to the
+                    Pierpont Morgan Library (now Morgan Library and Museum) in 1968.</note>
             </provenance>
             <repository>
                 <institution>Morgan Library and Museum</institution>
@@ -185,9 +177,12 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>Telephone: 1 212 685 0008</addressline>
                 <addressline>Fax: 1 212 481 3484</addressline>
                 <addressline>URL: http://www.themorgan.org</addressline>
-                <addressline>Telephone, Photography and Rights Department: 1 212 590 0386</addressline>
-                <addressline>Email, Photography and Rights Department: photoservices@themorgan.org</addressline>
-                <addressline>URL, Photography and Rights Department: http://themorgan.org/research/photo.asp</addressline>
+                <addressline>Telephone, Photography and Rights Department: 1 212 590
+                    0386</addressline>
+                <addressline>Email, Photography and Rights Department:
+                    photoservices@themorgan.org</addressline>
+                <addressline>URL, Photography and Rights Department:
+                    http://themorgan.org/research/photo.asp</addressline>
                 <department>Department of Prints and Drawings</department>
                 <repositoryid label="Accession number">1968.2</repositoryid>
                 <repositoryid label="Call number">s E.17-18.1</repositoryid>
@@ -195,20 +190,29 @@ granted by the owners of the originals for this publication only.<lb/>
         </source>
         <desc id="but133v.1.penc.01" dbi="BUT133.1.1v.PD">
             <objtitle>
-                <title type="transcribed">Old Man Sitting</title>,
-<objid>
+                <title type="transcribed">*Old Man Sitting*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 133 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>This pencil drawing is on the verso of a water color drawing, <hi rend="i">A Crouching Woman, Possibly Later Used for "The Gates of Paradise"</hi>, Butlin 133 recto.</p></objnote>
+                <objnote>
+                    <p>This pencil drawing is on the verso of a water color drawing, *A Crouching
+                        Woman, Possibly Later Used for "The Gates of Paradise"*, Butlin 133
+                        recto.</p>
+                </objnote>
                 <objsize>20.8 x 16.2 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>The drawing on this leaf is difficult to make out due to the lightness of the pencil lines.  A seated or reclining figure is faintly visible facing right.  This figure appears to be old and male with a long beard and gown.  His head is turned up and his mouth may be open.  His right arm appears to be bent and at his side or in his lap.  Both legs appear to be bent.  He may be an ancient bard looking heavenward for inspiration.  He sits on what may be a chair, couch, pillows, or clouds.</illusobjdesc>
+                    <illusobjdesc>The drawing on this leaf is difficult to make out due to the
+                        lightness of the pencil lines. A seated or reclining figure is faintly
+                        visible facing right. This figure appears to be old and male with a long
+                        beard and gown. His head is turned up and his mouth may be open. His right
+                        arm appears to be bent and at his side or in his lap. Both legs appear to be
+                        bent. He may be an ancient bard looking heavenward for inspiration. He sits
+                        on what may be a chair, couch, pillows, or clouds.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
                         <characteristic>old</characteristic>
@@ -226,14 +230,19 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arm on lap</characteristic>
                         <characteristic>legs bent</characteristic>
                         <characteristic>bard</characteristic>
-                        <illusobjdesc>A seated or reclining figure is faintly visible facing right.  This figure appears to be old and male with a long beard and gown.  His head is turned up and his mouth may be open.  His right arm appears to be bent and at his side or on his lap.  Both legs appear to be bent.  He may be an ancient bard looking heavenward for inspiration.</illusobjdesc>
+                        <illusobjdesc>A seated or reclining figure is faintly visible facing right.
+                            This figure appears to be old and male with a long beard and gown. His
+                            head is turned up and his mouth may be open. His right arm appears to be
+                            bent and at his side or on his lap. Both legs appear to be bent. He may
+                            be an ancient bard looking heavenward for inspiration.</illusobjdesc>
                     </component>
                     <component type="object" location="E">
                         <characteristic>chair</characteristic>
                         <characteristic>couch</characteristic>
                         <characteristic>pillow</characteristic>
                         <characteristic>cloud</characteristic>
-                        <illusobjdesc>The figure sits on what may be a chair, couch, pillows, or clouds.</illusobjdesc>
+                        <illusobjdesc>The figure sits on what may be a chair, couch, pillows, or
+                            clouds.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

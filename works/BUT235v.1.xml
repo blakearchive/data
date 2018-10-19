@@ -1,44 +1,36 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but235v.1" type="penc" work="A Seated Man" copy="1" copyid="1" institution="rosenbach" catalog="butlin" catid="235v" hidden="false">
+<bad id="but235v.1" type="penc" work="A Seated Man" copy="1" copyid="1" institution="rosenbach"
+    catalog="butlin" catid="235v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="A Seated Man">
-                    <main>A Seated Man</main>
-: electronic edition
-</title>
+                    <main>A Seated Man</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 Rosenbach Museum and Library
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 Rosenbach Museum and Library </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +39,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +83,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +117,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,22 +137,24 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        A Seated Man
-                    </title>
+                    <title> A Seated Man </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1789">c. 1789<note>The date, based on stylistic considerations, is far from certain.</note>
+
+                <compdate value="1789">c. 1789<note>The date, based on stylistic considerations, is
+                        far from certain.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objsize>26.0 x 19.0 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>34.1 x 43.8 cm.<note>The fact that the head of the figure standing on the right in the drawing on the recto of this leaf is cut off suggests that the leaf was trimmed at the top after the drawing was executed.</note></leafsize>
+                <leafsize>34.1 x 43.8 cm.<note>The fact that the head of the figure standing on the
+                        right in the drawing on the recto of this leaf is cut off suggests that the
+                        leaf was trimmed at the top after the drawing was
+                    executed.</note></leafsize>
                 <medium>pencil</medium>
                 <support>wove paper</support>
                 <watermark>none</watermark>
@@ -176,8 +167,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1954</date>
                 <dealer>none</dealer>
                 <price>bequest</price>
-                <note>Early history unknown; William A. White by 1905; acquired by the dealer A. S. W. Rosenbach, probably c. 1927-29; bequeathed to the Rosenbach Museum and Library in 1952 and accessioned by the Museum in 1954.
-                </note>
+                <note>Early history unknown; William A. White by 1905; acquired by the dealer A. S.
+                    W. Rosenbach, probably c. 1927-29; bequeathed to the Rosenbach Museum and
+                    Library in 1952 and accessioned by the Museum in 1954. </note>
             </provenance>
             <repository>
                 <institution>Rosenbach Museum and Library</institution>
@@ -194,20 +186,26 @@ granted by the owners of the originals for this publication only.<lb/>
         </source>
         <desc id="but235v.1.penc.01" dbi="BUT235.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Seated Man</title>,
-<objid>
+                <title type="transcribed">*A Seated Man*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 235 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>A pencil drawing, <hi rend="i">A Old Man Seated Leaning on a Pile of Books; A Young Man Approaches</hi>, is on the recto of this drawing.</p></objnote>
+                <objnote>
+                    <p>A pencil drawing, *A Old Man Seated Leaning on a Pile of Books; A Young Man
+                        Approaches*, is on the recto of this drawing.</p>
+                </objnote>
                 <objsize>34.1 x 43.8 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>The single figure in this drawing sits in a twisted position with torso facing forward, legs extended left, arms extended right, and head facing right.  He(?) may be nude.  Both legs appear to be bent at the knee.  His arms are raised horizontally, slightly bent, with right hand placed on top of the left.  The figure leans slightly to the right.</illusobjdesc>
+                    <illusobjdesc>The single figure in this drawing sits in a twisted position with
+                        torso facing forward, legs extended left, arms extended right, and head
+                        facing right. He(?) may be nude. Both legs appear to be bent at the knee.
+                        His arms are raised horizontally, slightly bent, with right hand placed on
+                        top of the left. The figure leans slightly to the right.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
                         <characteristic>sitting</characteristic>
@@ -222,7 +220,12 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arms bent</characteristic>
                         <characteristic>hands together</characteristic>
                         <characteristic>leaning</characteristic>
-                        <illusobjdesc>The single figure in this drawing sits in a twisted position with torso facing forward, legs extended left, arms extended right, and head facing right.  He(?) may be nude.  Both legs appear to be bent at the knee.  His arms are raised horizontally, slightly bent, with right hand placed on top of the left.  The figure leans slightly to the right.</illusobjdesc>
+                        <illusobjdesc>The single figure in this drawing sits in a twisted position
+                            with torso facing forward, legs extended left, arms extended right, and
+                            head facing right. He(?) may be nude. Both legs appear to be bent at the
+                            knee. His arms are raised horizontally, slightly bent, with right hand
+                            placed on top of the left. The figure leans slightly to the
+                            right.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

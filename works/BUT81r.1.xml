@@ -1,44 +1,36 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but81r.1" type="penc" work="A Pastoral Figure and Other Sketches" copy="1" copyid="1" institution="essick" catalog="butlin" catid="81r" hidden="false">
+<bad id="but81r.1" type="penc" work="A Pastoral Figure and Other Sketches" copy="1" copyid="1"
+    institution="essick" catalog="butlin" catid="81r" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="A Pastoral Figure and Other Sketches">
-                    <main>A Pastoral Figure and Other Sketches</main>
-: electronic edition
-</title>
+                    <main>A Pastoral Figure and Other Sketches</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 William Blake Archive
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 William Blake Archive </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +39,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +83,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +117,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,17 +137,18 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        A Pastoral Figure and Other Sketches
-                    </title>
+                    <title> A Pastoral Figure and Other Sketches </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                <origination>Frederick Tatham<role>author.  Tatham wrote the pen and ink inscription, lower left.</role>
+                <origination>Frederick Tatham<role>author. Tatham wrote the pen and ink inscription,
+                        lower left.</role>
                     <role>delineator</role>
                 </origination>
-                <compdate value="1780">c. 1780-85<note>The date is based on stylistic considerations and the relationship of motifs in this drawing to others of the 1780-85 period.</note>
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic considerations
+                        and the relationship of motifs in this drawing to others of the 1780-85
+                        period.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -166,7 +156,8 @@ granted by the owners of the originals for this publication only.<lb/>
                 <objsize>31.0 x 18.4 cm.</objsize>
                 <numberleaves>1</numberleaves>
                 <leafsize>31.0 x 18.4 cm.</leafsize>
-                <medium>pencil<note>The inscription, lower left, by Frederick Tatham is in pen and ink.  See the Textual Transcription.</note>
+                <medium>pencil<note>The inscription, lower left, by Frederick Tatham is in pen and
+                        ink. See the Textual Transcription.</note>
                 </medium>
                 <support>laid paper</support>
                 <watermark>GR<note>A crown appears above the letters "GR."</note>
@@ -180,30 +171,58 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1993</date>
                 <dealer>Nicholas W. Lott</dealer>
                 <price>$9000</price>
-                <note>Inherited by Blake's wife Catherine at his death in 1827; Frederick Tatham at Catherine Blake's death in 1831; the dealer Bernard Quaritch, offered in his catalogue of Nov. 1882, in item 346 with forty-four other works (&#163;36), catalogue 350 of 10 Aug. 1882 and catalogue of Oct. 1883, in item 13,843 in both, "forty [forty-five?] sketches in pencil or chalk" (&#163;36), and May 1885 catalogue of <hi rend="i">William Blake's Original Drawings</hi>, no item number for the same group of drawings from Tatham's collection (&#163;36); sold June 1886 to W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949, lot 74 with two other works (&#163;26.5s. to the dealer Bertram Rota acting for an American private collector); Bodley Bookshop, New York; acquired c. 1955-56 by Edwin Wolf 2nd; inherited by a descendent of Wolf's (probably his son) upon Wolf's death in 1991; on consignment with the dealer Nicholas W. Lott by early 1993; acquired Dec. 1993 by Robert N. Essick.</note>
+                <note>Inherited by Blake's wife Catherine at his death in 1827; Frederick Tatham at
+                    Catherine Blake's death in 1831; the dealer Bernard Quaritch, offered in his
+                    catalogue of Nov. 1882, in item 346 with forty-four other works (&#163;36),
+                    catalogue 350 of 10 Aug. 1882 and catalogue of Oct. 1883, in item 13,843 in
+                    both, "forty [forty-five?] sketches in pencil or chalk" (&#163;36), and May 1885
+                    catalogue of *William Blake's Original Drawings*, no item number for the same
+                    group of drawings from Tatham's collection (&#163;36); sold June 1886 to W.
+                    Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949,
+                    lot 74 with two other works (&#163;26.5s. to the dealer Bertram Rota acting for
+                    an American private collector); Bodley Bookshop, New York; acquired c. 1955-56
+                    by Edwin Wolf 2nd; inherited by a descendent of Wolf's (probably his son) upon
+                    Wolf's death in 1991; on consignment with the dealer Nicholas W. Lott by early
+                    1993; acquired Dec. 1993 by Robert N. Essick.</note>
             </provenance>
             <repository>
                 <institution>Robert N. Essick</institution>
                 <addressline>Altadena, CA</addressline>
-                
+
             </repository>
         </source>
         <desc id="but81r.1.penc.01" dbi="BUT81.1.1r.PD">
             <objtitle>
-                <title type="transcribed">A Pastoral Figure and Other Sketches</title>,
-<objid>
+                <title type="transcribed">*A Pastoral Figure and Other Sketches*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 81 recto)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>For the pencil drawings on the verso, see <hi rend="i">A Harper and Other Figures</hi>.</p></objnote>
+                <objnote>
+                    <p>For the pencil drawings on the verso, see *A Harper and Other Figures*.</p>
+                </objnote>
                 <objsize>31.0 x 18.4 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>In the center of the composition, a nude male figure with long hair sits facing forward.  His left arm, which is bent upward, rests on his bent left knee; in his left hand, the figure holds a faintly drawn staff or shepherd's crook, which appears to rest against his head.  A diagonal strap is visible across his chest and appears to hold a cloak that dangles behind his right arm.  His bent right arm rests in his lap on his bent right leg.  With his right hand, he holds or supports a lyre that leans against his right leg.  This figure may lean against the trunk of a tree visible upper left.  There may be a mountain or hill visible upper right.  In the lower right corner of the composition, a nude seated figure seen upside down facing left holds a harp.  To the left of this figure's left foot is a standing(?) figure drawn sideways with arms at its side.  There are also three drawings of a nude man reclining on his side, two on the right, drawn with the paper held horizontally, and one of the left, similarly drawn but with the paper held the other way up.  There are additional indeterminate lines and forms throughout the composition.</illusobjdesc>
+                    <illusobjdesc>In the center of the composition, a nude male figure with long
+                        hair sits facing forward. His left arm, which is bent upward, rests on his
+                        bent left knee; in his left hand, the figure holds a faintly drawn staff or
+                        shepherd's crook, which appears to rest against his head. A diagonal strap
+                        is visible across his chest and appears to hold a cloak that dangles behind
+                        his right arm. His bent right arm rests in his lap on his bent right leg.
+                        With his right hand, he holds or supports a lyre that leans against his
+                        right leg. This figure may lean against the trunk of a tree visible upper
+                        left. There may be a mountain or hill visible upper right. In the lower
+                        right corner of the composition, a nude seated figure seen upside down
+                        facing left holds a harp. To the left of this figure's left foot is a
+                        standing(?) figure drawn sideways with arms at its side. There are also
+                        three drawings of a nude man reclining on his side, two on the right, drawn
+                        with the paper held horizontally, and one of the left, similarly drawn but
+                        with the paper held the other way up. There are additional indeterminate
+                        lines and forms throughout the composition.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
@@ -219,25 +238,39 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arm on lap</characteristic>
                         <characteristic>melancholy</characteristic>
                         <characteristic>leaning</characteristic>
-                        <illusobjdesc>In the center of the composition, a nude male figure with long hair sits facing forward.  His left arm, which is bent upward, rests on his bent left knee; in his left hand, the figure holds a staff or shepherd's crook, which appears to rest against his head and suggests he may be a shepherd.  A diagonal strap is visible across his chest and appears to hold a cloak that dangles behind his right arm.  His bent right arm rests on his bent right leg.  With his right hand, he holds or supports a lyre that leans against his right leg.  His posture may suggest melancholy.  This figure may lean against the trunk of a tree visible upper left.</illusobjdesc>
+                        <illusobjdesc>In the center of the composition, a nude male figure with long
+                            hair sits facing forward. His left arm, which is bent upward, rests on
+                            his bent left knee; in his left hand, the figure holds a staff or
+                            shepherd's crook, which appears to rest against his head and suggests he
+                            may be a shepherd. A diagonal strap is visible across his chest and
+                            appears to hold a cloak that dangles behind his right arm. His bent
+                            right arm rests on his bent right leg. With his right hand, he holds or
+                            supports a lyre that leans against his right leg. His posture may
+                            suggest melancholy. This figure may lean against the trunk of a tree
+                            visible upper left.</illusobjdesc>
                     </component>
                     <component type="object" location="E">
                         <characteristic>staff</characteristic>
                         <characteristic>shepherd's crook</characteristic>
                         <characteristic>lyre</characteristic>
-                        <illusobjdesc>The nude male figure in the center of the composition holds a staff or shepherd's crook in his left hand and supports the lyre leaning against his right leg with his right hand.</illusobjdesc>
+                        <illusobjdesc>The nude male figure in the center of the composition holds a
+                            staff or shepherd's crook in his left hand and supports the lyre leaning
+                            against his right leg with his right hand.</illusobjdesc>
                     </component>
                     <component type="vegetation" location="AB">
                         <characteristic>tree</characteristic>
                         <characteristic>trunk</characteristic>
                         <characteristic>branch</characteristic>
                         <characteristic>leaf</characteristic>
-                        <illusobjdesc>The central figure may lean against the tree trunk visible in the upper left corner.  This tree appears to have three branches (or thin leaves?) visible on either side of the trunk.</illusobjdesc>
+                        <illusobjdesc>The central figure may lean against the tree trunk visible in
+                            the upper left corner. This tree appears to have three branches (or thin
+                            leaves?) visible on either side of the trunk.</illusobjdesc>
                     </component>
                     <component type="object" location="B">
                         <characteristic>mountain</characteristic>
                         <characteristic>hill</characteristic>
-                        <illusobjdesc>A shaded form in the upper right quadrant may be a mountain or hill.</illusobjdesc>
+                        <illusobjdesc>A shaded form in the upper right quadrant may be a mountain or
+                            hill.</illusobjdesc>
                     </component>
                     <component type="figure" location="D">
                         <characteristic>nude</characteristic>
@@ -251,11 +284,16 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>holding</characteristic>
                         <characteristic>playing</characteristic>
                         <characteristic>leg bent at knee</characteristic>
-                        <illusobjdesc>In the lower right corner of the composition, a nude seated figure facing left is seen upside down.  Likely male, this figure whose head is tilted slightly down has short hair and rests his right hand in his lap.  Both legs are bent at the knee.  He appears to hold a harp, which he may play, in his lap.</illusobjdesc>
+                        <illusobjdesc>In the lower right corner of the composition, a nude seated
+                            figure facing left is seen upside down. Likely male, this figure whose
+                            head is tilted slightly down has short hair and rests his right hand in
+                            his lap. Both legs are bent at the knee. He appears to hold a harp,
+                            which he may play, in his lap.</illusobjdesc>
                     </component>
                     <component type="object" location="D">
                         <characteristic>harp</characteristic>
-                        <illusobjdesc>The seated figure seen upside down in the lower right corner appears to hold a harp in his lap.</illusobjdesc>
+                        <illusobjdesc>The seated figure seen upside down in the lower right corner
+                            appears to hold a harp in his lap.</illusobjdesc>
                     </component>
                     <component type="figure" location="CD">
                         <characteristic>standing</characteristic>
@@ -263,7 +301,9 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arms at side</characteristic>
                         <characteristic>hood</characteristic>
                         <characteristic>hat</characteristic>
-                        <illusobjdesc>A standing figure, drawn sideways with head on the right, appears below the main figure.  This figure has both arms at its sides and may wear some sort of hood or hat.</illusobjdesc>
+                        <illusobjdesc>A standing figure, drawn sideways with head on the right,
+                            appears below the main figure. This figure has both arms at its sides
+                            and may wear some sort of hood or hat.</illusobjdesc>
                     </component>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
@@ -278,12 +318,22 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>leg bent at knee</characteristic>
                         <characteristic>legs crossed</characteristic>
                         <characteristic>hat</characteristic>
-                        <illusobjdesc>There are three drawings of a nude man with short hair reclining on his side, two on the right, drawn with the paper held horizontally, and one of the left, similarly drawn but with the paper held the other way up.  Each of these figures reclines on his right side with both arms at his side and left leg bent backward and perhaps crossed near the ankles.  The bodies face forward but their heads are shown in profile facing the same direction as their extended legs.  The figures on the right may wear hats.</illusobjdesc>
+                        <illusobjdesc>There are three drawings of a nude man with short hair
+                            reclining on his side, two on the right, drawn with the paper held
+                            horizontally, and one of the left, similarly drawn but with the paper
+                            held the other way up. Each of these figures reclines on his right side
+                            with both arms at his side and left leg bent backward and perhaps
+                            crossed near the ankles. The bodies face forward but their heads are
+                            shown in profile facing the same direction as their extended legs. The
+                            figures on the right may wear hats.</illusobjdesc>
                     </component>
                     <component type="object" location="E">
                         <characteristic>line</characteristic>
                         <characteristic>indeterminate</characteristic>
-                        <illusobjdesc>There are additional indeterminate lines and forms throughout the composition.  Those below the central figure may be the ground below him.  The lines below Tatham's inscription might be a nascent human form.</illusobjdesc>
+                        <illusobjdesc>There are additional indeterminate lines and forms throughout
+                            the composition. Those below the central figure may be the ground below
+                            him. The lines below Tatham's inscription might be a nascent human
+                            form.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
@@ -291,7 +341,8 @@ granted by the owners of the originals for this publication only.<lb/>
                 <vspace extent="15"/>
                 <lg justify="left">
                     <l n="but81r.1.penink.01.01" justify="left" indent="1">William Blake</l>
-                    <l n="but81r.1.penink.01.02" justify="left" indent="3">vouched by Frederick Tatham.</l>
+                    <l n="but81r.1.penink.01.02" justify="left" indent="3">vouched by Frederick
+                        Tatham.</l>
                 </lg>
             </phystext>
         </desc>

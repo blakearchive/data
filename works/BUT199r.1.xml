@@ -1,44 +1,37 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but199r.1" type="penc" work="Sketch for 'Tiriel Denouncing his Sons and Daughters'" copy="1" copyid="1" institution="whitworth" catalog="butlin" catid="199r" hidden="false">
+<bad id="but199r.1" type="penc" work="Sketch for 'Tiriel Denouncing his Sons and Daughters'"
+    copy="1" copyid="1" institution="whitworth" catalog="butlin" catid="199r" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Sketch for 'Tiriel Denouncing his Sons and Daughters'">
-                    <main>Sketch for "Tiriel Denouncing his Sons and Daughters"</main>
-: electronic edition
-</title>
+                    <main>Sketch for "Tiriel Denouncing his Sons and Daughters"</main> : electronic
+                    edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-           
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 Whitworth Art Gallery
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 Whitworth Art Gallery </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +40,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +84,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +118,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,15 +138,17 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        Sketch for "Tiriel Denouncing his Sons and Daughters"
-                    </title>
+                    <title> Sketch for "Tiriel Denouncing his Sons and Daughters" </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1789">c. 1789<note>Some scholars have argued for a slightly earlier date for Blake's <hi rend="i">Tiriel</hi> manuscript and the wash drawings illustrating it, and hence by implication a slightly earlier date for all preliminary sketches for those wash drawings.  See David Bindman, <hi rend="i">Blake as an Artist</hi> (Oxford: Phaidon, 1977) 43-44.</note>
+
+                <compdate value="1789">c. 1789<note>Some scholars have argued for a slightly earlier
+                        date for Blake's *Tiriel* manuscript and the wash drawings illustrating it,
+                        and hence by implication a slightly earlier date for all preliminary
+                        sketches for those wash drawings. See David Bindman, *Blake as an Artist*
+                        (Oxford: Phaidon, 1977) 43-44.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -176,7 +168,12 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1914</date>
                 <dealer>William Ward</dealer>
                 <price>not recorded</price>
-                <note>Inherited by Blake's wife Catherine at his death in 1827; acquired by Frederick Tatham, probably at Catherine Blake's death in 1831; sold Sotheby's, 29 April 1862, lot 200 with 14 other works, or lot 201 with 17 other works (2s. or 3s. to the dealer Francis Harvey); William Ward, offered in his 1914 <hi rend="i">Catalogue of Drawings, Engravings and Books</hi>, item 1 (&#163;8.8s.); purchased by the Whitworth Art Gallery in 1914.</note>
+                <note>Inherited by Blake's wife Catherine at his death in 1827; acquired by
+                    Frederick Tatham, probably at Catherine Blake's death in 1831; sold Sotheby's,
+                    29 April 1862, lot 200 with 14 other works, or lot 201 with 17 other works (2s.
+                    or 3s. to the dealer Francis Harvey); William Ward, offered in his 1914
+                    *Catalogue of Drawings, Engravings and Books*, item 1 (&#163;8.8s.); purchased
+                    by the Whitworth Art Gallery in 1914.</note>
             </provenance>
             <repository>
                 <institution>Whitworth Art Gallery</institution>
@@ -195,20 +192,41 @@ granted by the owners of the originals for this publication only.<lb/>
         </source>
         <desc id="but199r.1.penc.01" dbi="BUT199.1.1r.PD">
             <objtitle>
-                <title type="transcribed">Sketch for "Tiriel Denouncing his Sons and Daughters"</title>,
-<objid>
+                <title type="transcribed">*Sketch for "Tiriel Denouncing his Sons and
+                    Daughters"*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 199 recto)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>This pencil drawing is a preliminary sketch for the monochrome wash drawing, <hi rend="i">Tiriel Denouncing His Sons and Daughters</hi> (Butlin 198.8), an illustration to Blake's manuscript poem, <hi rend="i">Tiriel</hi>.</p></objnote>
+                <objnote>
+                    <p>This pencil drawing is a preliminary sketch for the monochrome wash drawing,
+                        *Tiriel Denouncing His Sons and Daughters* (Butlin 198.8), an illustration
+                        to Blake's manuscript poem, *Tiriel*.</p>
+                </objnote>
                 <objsize>17.9 x 23.9 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Near the center of the composition, Tiriel, an old man with a long beard, stands in profile facing right with both arms extended horizontally.  He wears a gown.  A straight-backed chair (perhaps a throne?) is visible behind him at left and some sort of drapery above.  Two female figures, Tiriel's daughters, kneel in front of him with arms wrapped around his legs.  These figures are also gowned and each extends one leg backward.  A third gowned female, presumably another daughter, crouches in the lower left corner facing right and wraps her arms around her knees.  To the right of a pillar or part of a wall, three male figures, Tiriel's sons, stand facing forward against the right margin of the composition.  The rightmost figure has short curly hair and turns his head left, likely to look at the central old man.  His mouth is open and both arms are crossed in front of his chest.  With his right hand, he holds a sword aloft.  The middle figure has short curly hair and a beard and wears a spiky crown.  His mouth is open.  With both arms bent upward, he clutches his face (or perhaps covers his ears?).  The leftmost male has short hair that appears to stand on end and a beard.  With an open mouth, he turns left, likely to look at Tiriel.  The expressions of all three figures suggest terror or despair.</illusobjdesc>
+                    <illusobjdesc>Near the center of the composition, Tiriel, an old man with a long
+                        beard, stands in profile facing right with both arms extended horizontally.
+                        He wears a gown. A straight-backed chair (perhaps a throne?) is visible
+                        behind him at left and some sort of drapery above. Two female figures,
+                        Tiriel's daughters, kneel in front of him with arms wrapped around his legs.
+                        These figures are also gowned and each extends one leg backward. A third
+                        gowned female, presumably another daughter, crouches in the lower left
+                        corner facing right and wraps her arms around her knees. To the right of a
+                        pillar or part of a wall, three male figures, Tiriel's sons, stand facing
+                        forward against the right margin of the composition. The rightmost figure
+                        has short curly hair and turns his head left, likely to look at the central
+                        old man. His mouth is open and both arms are crossed in front of his chest.
+                        With his right hand, he holds a sword aloft. The middle figure has short
+                        curly hair and a beard and wears a spiky crown. His mouth is open. With both
+                        arms bent upward, he clutches his face (or perhaps covers his ears?). The
+                        leftmost male has short hair that appears to stand on end and a beard. With
+                        an open mouth, he turns left, likely to look at Tiriel. The expressions of
+                        all three figures suggest terror or despair.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
                         <characteristic>Tiriel</characteristic>
@@ -224,7 +242,11 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>hands raised palms out</characteristic>
                         <characteristic>looking</characteristic>
                         <characteristic>father</characteristic>
-                        <illusobjdesc>Near the center of the composition, Tiriel, an old man with a long beard, stands in profile facing right.  He has long hair and wears a gown.  He extends both arms horizontally to the right with hands raised and palms facing out; his fingers are spread.  Tiriel is depicted in the act of denouncing his sons at right and daughters below.</illusobjdesc>
+                        <illusobjdesc>Near the center of the composition, Tiriel, an old man with a
+                            long beard, stands in profile facing right. He has long hair and wears a
+                            gown. He extends both arms horizontally to the right with hands raised
+                            and palms facing out; his fingers are spread. Tiriel is depicted in the
+                            act of denouncing his sons at right and daughters below.</illusobjdesc>
                     </component>
                     <component type="figure" location="CD">
                         <characteristic>female</characteristic>
@@ -244,7 +266,12 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>leg extended backward</characteristic>
                         <characteristic>leg bent</characteristic>
                         <characteristic>left foot</characteristic>
-                        <illusobjdesc>Two gowned female figures, Tiriel's daughters, who kneel in supplicating postures facing left, cling to the knees of the old male, their father.  The figure closer to the viewer has long curly hair and, with head down, bends forward to touch the standing figure's right leg with her raised left arm.  Her left leg is extended backward, and she may push into the ground with the toes of her left foot.</illusobjdesc>
+                        <illusobjdesc>Two gowned female figures, Tiriel's daughters, who kneel in
+                            supplicating postures facing left, cling to the knees of the old male,
+                            their father. The figure closer to the viewer has long curly hair and,
+                            with head down, bends forward to touch the standing figure's right leg
+                            with her raised left arm. Her left leg is extended backward, and she may
+                            push into the ground with the toes of her left foot.</illusobjdesc>
                     </component>
                     <component type="figure" location="CD">
                         <characteristic>female</characteristic>
@@ -261,7 +288,13 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arm bent</characteristic>
                         <characteristic>leg extended backward</characteristic>
                         <characteristic>leg bent</characteristic>
-                        <illusobjdesc>Two gowned female figures, Tiriel's daughters, who kneel in supplicating postures facing left, cling to the knees of the old male, their father.  The figure further from the viewer bends forward with head down and likely touches the standing figure with her right arm (her hand is visible directly above her companion's left hand).  One of her legs is extended backward, and she may push into the ground with the toes of her foot.</illusobjdesc>
+                        <illusobjdesc>Two gowned female figures, Tiriel's daughters, who kneel in
+                            supplicating postures facing left, cling to the knees of the old male,
+                            their father. The figure further from the viewer bends forward with head
+                            down and likely touches the standing figure with her right arm (her hand
+                            is visible directly above her companion's left hand). One of her legs is
+                            extended backward, and she may push into the ground with the toes of her
+                            foot.</illusobjdesc>
                     </component>
                     <component type="figure" location="C">
                         <characteristic>female</characteristic>
@@ -273,7 +306,10 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>contracted</characteristic>
                         <characteristic>bending forward</characteristic>
                         <characteristic>arms wrapped around knees</characteristic>
-                        <illusobjdesc>A third gowned female figure, presumably another of Tiriel's daughters, crouches in the lower left corner facing right but with head turned to face away.  Bending forward, she wraps her arms around her knees.</illusobjdesc>
+                        <illusobjdesc>A third gowned female figure, presumably another of Tiriel's
+                            daughters, crouches in the lower left corner facing right but with head
+                            turned to face away. Bending forward, she wraps her arms around her
+                            knees.</illusobjdesc>
                     </component>
                     <component type="figure" location="BD">
                         <characteristic>male</characteristic>
@@ -288,11 +324,18 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>looking</characteristic>
                         <characteristic>arms crossed</characteristic>
                         <characteristic>holding</characteristic>
-                        <illusobjdesc>Three male figures, Tiriel's sons, stand facing forward against the right margin of the composition.  The expressions of all three figures suggest terror or despair.  The rightmost figure has short curly hair and turns his head left, likely to look at the central old man.  His mouth is open and both arms are crossed in front of his chest.  With his right hand he holds a sword aloft.</illusobjdesc>
+                        <illusobjdesc>Three male figures, Tiriel's sons, stand facing forward
+                            against the right margin of the composition. The expressions of all
+                            three figures suggest terror or despair. The rightmost figure has short
+                            curly hair and turns his head left, likely to look at the central old
+                            man. His mouth is open and both arms are crossed in front of his chest.
+                            With his right hand he holds a sword aloft.</illusobjdesc>
                     </component>
                     <component type="object" location="B">
                         <characteristic>sword</characteristic>
-                        <illusobjdesc>The rightmost male figure holds a sword in his right hand, which is crossed in front of his body.  The sword is pointed upward.</illusobjdesc>
+                        <illusobjdesc>The rightmost male figure holds a sword in his right hand,
+                            which is crossed in front of his body. The sword is pointed
+                            upward.</illusobjdesc>
                     </component>
                     <component type="figure" location="BD">
                         <characteristic>male</characteristic>
@@ -313,7 +356,14 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>belt</characteristic>
                         <characteristic>serpentine</characteristic>
                         <characteristic>robe</characteristic>
-                        <illusobjdesc>Three male figures, Tiriel's sons, stand facing forward against the right margin of the composition.  The expressions of all three figures suggest terror or despair.  The middle figure has short curly hair, a beard, and wears a spiky crown.  His mouth is open.  With both arms bent upward, he clutches his face (or perhaps covers his ears?).  The details of his clothing are indistinct, though he may wear a serpentine belt(?) and a robe or cape, most visible along the left side of his body.</illusobjdesc>
+                        <illusobjdesc>Three male figures, Tiriel's sons, stand facing forward
+                            against the right margin of the composition. The expressions of all
+                            three figures suggest terror or despair. The middle figure has short
+                            curly hair, a beard, and wears a spiky crown. His mouth is open. With
+                            both arms bent upward, he clutches his face (or perhaps covers his
+                            ears?). The details of his clothing are indistinct, though he may wear a
+                            serpentine belt(?) and a robe or cape, most visible along the left side
+                            of his body.</illusobjdesc>
                     </component>
                     <component type="figure" location="BD">
                         <characteristic>male</characteristic>
@@ -332,23 +382,41 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>gown</characteristic>
                         <characteristic>shirt</characteristic>
                         <characteristic>armor</characteristic>
-                        <illusobjdesc>Three male figures, Tiriel's sons, stand facing forward against the right margin of the composition.  The expressions of all three figures suggest terror or despair.  The leftmost male has short hair that appears to stand on end and a beard.  With an open mouth, he turns left, likely to look at the old man.   His right arm is likely extended to the right and thus obscured behind his companions.  The details of his clothing are indistinct, though he may wear a robe or gown (the hem of which is visible near his right knee) and a shirt whose circular patterning may suggest armor(?).</illusobjdesc>
+                        <illusobjdesc>Three male figures, Tiriel's sons, stand facing forward
+                            against the right margin of the composition. The expressions of all
+                            three figures suggest terror or despair. The leftmost male has short
+                            hair that appears to stand on end and a beard. With an open mouth, he
+                            turns left, likely to look at the old man. His right arm is likely
+                            extended to the right and thus obscured behind his companions. The
+                            details of his clothing are indistinct, though he may wear a robe or
+                            gown (the hem of which is visible near his right knee) and a shirt whose
+                            circular patterning may suggest armor(?).</illusobjdesc>
                     </component>
                     <component type="object" location="AC">
                         <characteristic>chair</characteristic>
                         <characteristic>throne</characteristic>
-                        <illusobjdesc>A straight-backed chair (perhaps a throne?) is visible against the left margin behind the central male figure.</illusobjdesc>
+                        <illusobjdesc>A straight-backed chair (perhaps a throne?) is visible against
+                            the left margin behind the central male figure.</illusobjdesc>
                     </component>
                     <component type="structure" location="BD">
                         <characteristic>pillar</characteristic>
                         <characteristic>wall</characteristic>
                         <characteristic>door</characteristic>
-                        <illusobjdesc>A pillar, or part of a wall, stands between the outstretched hands of the older male figure and the group of three men at right in this design.  It may indicate the threshold between an interior space at left and an exterior one at right or, alternatively, two different rooms.  The rectangular forms, one vertical and one diagonal, above the heads of the figures on the right are not easily identified; they may be part of the background wall or doorway.</illusobjdesc>
+                        <illusobjdesc>A pillar, or part of a wall, stands between the outstretched
+                            hands of the older male figure and the group of three men at right in
+                            this design. It may indicate the threshold between an interior space at
+                            left and an exterior one at right or, alternatively, two different
+                            rooms. The rectangular forms, one vertical and one diagonal, above the
+                            heads of the figures on the right are not easily identified; they may be
+                            part of the background wall or doorway.</illusobjdesc>
                     </component>
                     <component type="object" location="AB">
                         <characteristic>curtain</characteristic>
                         <characteristic>drapery</characteristic>
-                        <illusobjdesc>Along the top margin of the design from the upper left corner to the central pillar, a series of diagonal lines may suggest some kind of curtain or drapery, either of which would indicate that the demarcated space is an interior one.</illusobjdesc>
+                        <illusobjdesc>Along the top margin of the design from the upper left corner
+                            to the central pillar, a series of diagonal lines may suggest some kind
+                            of curtain or drapery, either of which would indicate that the
+                            demarcated space is an interior one.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

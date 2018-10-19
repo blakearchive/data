@@ -1,44 +1,36 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but76v.1" type="penc" work="Woman Playing a Harp" copy="1" copyid="1" institution="rosenbach" catalog="butlin" catid="76v" hidden="false">
+<bad id="but76v.1" type="penc" work="Woman Playing a Harp" copy="1" copyid="1"
+    institution="rosenbach" catalog="butlin" catid="76v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Woman Playing a Harp">
-                    <main>Woman Playing a Harp</main>
-: electronic edition
-</title>
+                    <main>Woman Playing a Harp</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 Rosenbach Museum and Library
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 Rosenbach Museum and Library </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +39,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +83,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +117,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,15 +137,16 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        Woman Playing a Harp
-                    </title>
+                    <title> Woman Playing a Harp </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1785">c. 1785<note>This drawing is dated to c. 1780 in Butlin 76 verso, but revised to c. 1785 in Martin Butlin, <hi rend="i">William Blake 1757-1827</hi>, Tate Gallery Collections: Volume Five (London: Tate Gallery, 1990) 55-56.</note>
+
+                <compdate value="1785">c. 1785<note>This drawing is dated to c. 1780 in Butlin 76
+                        verso, but revised to c. 1785 in Martin Butlin, *William Blake 1757-1827*,
+                        Tate Gallery Collections: Volume Five (London: Tate Gallery, 1990)
+                        55-56.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -176,7 +166,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1954</date>
                 <dealer>none</dealer>
                 <price>gift or bequest</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by A. S. W. Rosenbach shortly after White's death in 1927; acquired, by gift or bequest, by the Rosenbach Museum and Library in 1954.</note>
+                <note>Early history not known; William A. White by no later than 1905; acquired by
+                    A. S. W. Rosenbach shortly after White's death in 1927; acquired, by gift or
+                    bequest, by the Rosenbach Museum and Library in 1954.</note>
             </provenance>
             <repository>
                 <institution>Rosenbach Museum and Library</institution>
@@ -193,20 +185,33 @@ granted by the owners of the originals for this publication only.<lb/>
         </source>
         <desc id="but76v.1.penc.01" dbi="BUT76.1.1v.PD">
             <objtitle>
-                <title type="transcribed">Woman Playing a Harp</title>,
-<objid>
+                <title type="transcribed">*Woman Playing a Harp*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 76 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>This is the upper half of a drawing.  For the lower half, see <hi rend="i">Lower Half of a Woman Playing a Harp</hi>, Butlin 77 verso.  The lower half of the drawing shows that the figure is seated.  For the sketch on the recto, see <hi rend="i">Joseph of Arimathea Preaching to the Inhabitants of Britain</hi>.</p></objnote>
+                <objnote>
+                    <p>This is the upper half of a drawing. For the lower half, see *Lower Half of a
+                        Woman Playing a Harp*, Butlin 77 verso. The lower half of the drawing shows
+                        that the figure is seated. For the sketch on the recto, see *Joseph of
+                        Arimathea Preaching to the Inhabitants of Britain*.</p>
+                </objnote>
                 <objsize>28.5 x 42.1 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Depicted from the waist up in the center of the composition, a single female figure with long, curly hair plays a harp that rests against her right shoulder.  She wears a gown that emphasizes her ample breasts, and her mouth appears to be open.  She may be singing.  She may wear a ribbon or band in her hair.  Facing forward and slightly left, she bends her raised right arm upward to pluck the harp's strings with bent fingers and palm facing forward.  Her left arm is extended horizontally, slightly bent, and with spread fingers she plays the instrument with this hand as well.  The upper frame of the harp, visible top left, appears to be ornamented or finely sculpted.</illusobjdesc>
+                    <illusobjdesc>Depicted from the waist up in the center of the composition, a
+                        single female figure with long, curly hair plays a harp that rests against
+                        her right shoulder. She wears a gown that emphasizes her ample breasts, and
+                        her mouth appears to be open. She may be singing. She may wear a ribbon or
+                        band in her hair. Facing forward and slightly left, she bends her raised
+                        right arm upward to pluck the harp's strings with bent fingers and palm
+                        facing forward. Her left arm is extended horizontally, slightly bent, and
+                        with spread fingers she plays the instrument with this hand as well. The
+                        upper frame of the harp, visible top left, appears to be ornamented or
+                        finely sculpted.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>female</characteristic>
                         <characteristic>playing</characteristic>
@@ -226,12 +231,23 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>hand raised palm out</characteristic>
                         <characteristic>fingers spread</characteristic>
                         <characteristic>arm extended</characteristic>
-                        <illusobjdesc>Depicted from the waist up in the center of the composition, a single female figure with long, curly hair plays a harp that rests against her right shoulder.  She wears a gown that emphasizes her ample breasts, and her mouth appears to be open; she may be singing.  She may wear a ribbon or band in her hair.  Facing forward and slightly left, she bends her raised right arm upward to pluck the harp's strings with bent fingers and palm facing forward.  Her left arm is extended horizontally, slightly bent, and with spread fingers she plays the instrument with this hand as well.</illusobjdesc>
+                        <illusobjdesc>Depicted from the waist up in the center of the composition, a
+                            single female figure with long, curly hair plays a harp that rests
+                            against her right shoulder. She wears a gown that emphasizes her ample
+                            breasts, and her mouth appears to be open; she may be singing. She may
+                            wear a ribbon or band in her hair. Facing forward and slightly left, she
+                            bends her raised right arm upward to pluck the harp's strings with bent
+                            fingers and palm facing forward. Her left arm is extended horizontally,
+                            slightly bent, and with spread fingers she plays the instrument with
+                            this hand as well.</illusobjdesc>
                     </component>
                     <component type="object" location="AC">
                         <characteristic>harp</characteristic>
                         <characteristic>string</characteristic>
-                        <illusobjdesc>The single female figure in this drawing holds or rests a large harp against her right shoulder.  She plays the strings of the instrument with both hands.  The upper frame of the harp, visible top left, appears to be ornamented or finely sculpted.</illusobjdesc>
+                        <illusobjdesc>The single female figure in this drawing holds or rests a
+                            large harp against her right shoulder. She plays the strings of the
+                            instrument with both hands. The upper frame of the harp, visible top
+                            left, appears to be ornamented or finely sculpted.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

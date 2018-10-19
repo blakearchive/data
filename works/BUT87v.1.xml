@@ -1,44 +1,36 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but87v.1" type="penc" work="Anubis" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="87v" hidden="false">
+<bad id="but87v.1" type="penc" work="Anubis" copy="1" copyid="1" institution="britishmuseum"
+    catalog="butlin" catid="87v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Anubis">
-                    <main>Anubis</main>
-: electronic edition
-</title>
+                    <main>Anubis</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 British Museum
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 British Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +39,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +83,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +117,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,15 +137,14 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        Anubis
-                    </title>
+                    <title> Anubis </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1785">c. 1785-90<note>The date is based on stylistic considerations.</note>
+
+                <compdate value="1785">c. 1785-90<note>The date is based on stylistic
+                        considerations.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -176,7 +164,8 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1874</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Acquired at an unknown time by John Deffett Francis and given by him to the British Museum in Dec. 1874.</note>
+                <note>Acquired at an unknown time by John Deffett Francis and given by him to the
+                    British Museum in Dec. 1874.</note>
             </provenance>
             <repository>
                 <institution>British Museum</institution>
@@ -188,26 +177,36 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>URL: http://www.britishmuseum.org</addressline>
                 <addressline>British Museum</addressline>
                 <department>Department of Prints and Drawings</department>
-                <addressline>Email, Department of Prints and Drawings: prints@britishmuseum.org</addressline>
+                <addressline>Email, Department of Prints and Drawings:
+                    prints@britishmuseum.org</addressline>
                 <repositoryid label="Registration number">1874,1212.119</repositoryid>
             </repository>
         </source>
         <desc id="but87v.1.penc.01" dbi="BUT87.1.1v.PD">
             <objtitle>
-                <title type="transcribed">Anubis</title>,
-<objid>
+                <title type="transcribed">*Anubis*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 87 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>For the water color drawing on the recto of this leaf, see <hi rend="i">A Man and Woman Kneeling and Warming Themselves at a Fire</hi>.</p></objnote>
+                <objnote>
+                    <p>For the water color drawing on the recto of this leaf, see *A Man and Woman
+                        Kneeling and Warming Themselves at a Fire*.</p>
+                </objnote>
                 <objsize>18.1 x 14.8 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>In the center of the composition, a nude dog-headed figure, likely Anubis, sits facing left with his left arm dangling by his side.  His one pictured leg, the left, is bent at the knee and his foot appears to rest on a form lower left, perhaps a stone.  A diagonal, somewhat serpentine line suggests that the figure is seated on a bank or cliff.  This drawing may be related to the design by Fuseli which Blake engraved for Erasmus Darwin's <hi rend="i">Botanic Garden</hi>, 1791, but is not a direct preliminary for that engraving.</illusobjdesc>
+                    <illusobjdesc>In the center of the composition, a nude dog-headed figure, likely
+                        Anubis, sits facing left with his left arm dangling by his side. His one
+                        pictured leg, the left, is bent at the knee and his foot appears to rest on
+                        a form lower left, perhaps a stone. A diagonal, somewhat serpentine line
+                        suggests that the figure is seated on a bank or cliff. This drawing may be
+                        related to the design by Fuseli which Blake engraved for Erasmus Darwin's
+                        *Botanic Garden*, 1791, but is not a direct preliminary for that
+                        engraving.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
                         <characteristic>nude</characteristic>
@@ -221,19 +220,29 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>bending forward</characteristic>
                         <characteristic>dog</characteristic>
                         <characteristic>Anubis</characteristic>
-                        <illusobjdesc>In the center of the composition, a nude dog-headed figure, likely Anubis, sits facing left with his left arm dangling by his side.  His mouth appears to be slightly open, perhaps with the hint of a smile.  His one pictured leg is bent and his left foot appears to rest on a form lower left, perhaps a stone.  He may be sitting on a bank or cliff, as indicated by the lines upper right and the line below his leg.</illusobjdesc>
+                        <illusobjdesc>In the center of the composition, a nude dog-headed figure,
+                            likely Anubis, sits facing left with his left arm dangling by his side.
+                            His mouth appears to be slightly open, perhaps with the hint of a smile.
+                            His one pictured leg is bent and his left foot appears to rest on a form
+                            lower left, perhaps a stone. He may be sitting on a bank or cliff, as
+                            indicated by the lines upper right and the line below his
+                            leg.</illusobjdesc>
                     </component>
                     <component type="object" location="C">
                         <characteristic>stone</characteristic>
                         <characteristic>line</characteristic>
-                        <illusobjdesc>The dog-headed figure of Anubis appears to rest his one pictured foot, the left, on a form demarcated by a single line lower left, perhaps a stone or part of the bank or cliff suggested by the line upper right.</illusobjdesc>
+                        <illusobjdesc>The dog-headed figure of Anubis appears to rest his one
+                            pictured foot, the left, on a form demarcated by a single line lower
+                            left, perhaps a stone or part of the bank or cliff suggested by the line
+                            upper right.</illusobjdesc>
                     </component>
                     <component type="object" location="B">
                         <characteristic>line</characteristic>
                         <characteristic>serpentine</characteristic>
                         <characteristic>bank</characteristic>
                         <characteristic>cliff</characteristic>
-                        <illusobjdesc>A diagonal, somewhat serpentine line suggests that the figure may be seated on a bank or cliff.</illusobjdesc>
+                        <illusobjdesc>A diagonal, somewhat serpentine line suggests that the figure
+                            may be seated on a bank or cliff.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

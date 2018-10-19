@@ -1,44 +1,39 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but172.1" type="penc" work="Sketch for Engraving of Michelangelo after Fuseli, on a Drawing by Fuseli" copy="1" copyid="1" institution="essick" catalog="butlin" catid="172" hidden="false">
+<bad id="but172.1" type="penc"
+    work="Sketch for Engraving of Michelangelo after Fuseli, on a Drawing by Fuseli" copy="1"
+    copyid="1" institution="essick" catalog="butlin" catid="172" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Sketch for Engraving of Michelangelo after Fuseli, on a Drawing by Fuseli">
-                    <main>Sketch for Engraving of Michelangelo after Fuseli, on a Drawing by Fuseli</main>
-: electronic edition
-</title>
+                <title
+                    reg="Sketch for Engraving of Michelangelo after Fuseli, on a Drawing by Fuseli">
+                    <main>Sketch for Engraving of Michelangelo after Fuseli, on a Drawing by
+                        Fuseli</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 William Blake Archive
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 William Blake Archive </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +42,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +86,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +120,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,30 +140,56 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        Sketch for Engraving of Michelangelo after Fuseli, on a Drawing by Fuseli
-                    </title>
+                    <title> Sketch for Engraving of Michelangelo after Fuseli, on a Drawing by
+                        Fuseli </title>
                 </objtitle>
                 <origination>William Blake<role>inventor, </role>
-                    <role>delineator.  The pencil sketch, upper right, of the figure's legs and lower torso is attributed to Blake.</role>
-                    </origination>
-                    <origination>Henry Fuseli<role>inventor, </role>
-                        <role>delineator.  The pen and ink drawing of the figure is by Fuseli.</role>
+                    <role>delineator. The pencil sketch, upper right, of the figure's legs and lower
+                        torso is attributed to Blake.</role>
                 </origination>
-                <origination>John Linnell<role>author.  The inscription lower left is attributed to Linnell.</role>
+                <origination>Henry Fuseli<role>inventor, </role>
+                    <role>delineator. The pen and ink drawing of the figure is by Fuseli.</role>
                 </origination>
-                <compdate value="1788">c. 1788<note>Fuseli's imaginary portrait of Michelangelo, with the legs added, was engraved by Blake and first published in Henry Fuseli, <hi rend="i">Lectures on Painting</hi>, 1801.  There is good circumstantial evidence, however, for concluding that both the pen and ink drawing by Fuseli and Blake's added sketch were executed at a much earlier date.  The drawings are on the same paper of approximately the same size (within 1 mm. in height and 6 mm. in width) as Fuseli's pen and ink preliminary sketch for the frontispiece, engraved by Blake, for John Caspar Lavater, <hi rend="i">Aphorisms on Man</hi>, 1788, translated and edited by Fuseli.  The brown ink and style of execution are the same in the two Fuseli drawings.  The fragmentary watermark in this drawing of Michelangelo is very probably the upper part of the shield and GR watermark in the drawing for the <hi rend="i">Aphorisms</hi> preliminary drawing.  These two leaves were almost certainly cut from the same larger sheet of paper.  Fuseli may very well have drawn his portrait of Michelangelo with the intention of having it engraved for an illustration to his own <hi rend="i">Aphorisms on Art</hi>, left unpublished until after Fuseli's death.  Thus, a date of c. 1788 for these drawings by Fuseli and Blake, and perhaps even for Blake's execution of the Michelangelo portrait engraving, seems probable.  This dating was first proposed in Ruthven Todd, "Two Blake Prints and Two Fuseli Drawings," <hi rend="i">Blake Newsletter</hi> 5.3 (winter 1971-72): 173-81.</note>
+                <origination>John Linnell<role>author. The inscription lower left is attributed to
+                        Linnell.</role>
+                </origination>
+                <compdate value="1788">c. 1788<note>Fuseli's imaginary portrait of Michelangelo,
+                        with the legs added, was engraved by Blake and first published in Henry
+                        Fuseli, *Lectures on Painting*, 1801. There is good circumstantial evidence,
+                        however, for concluding that both the pen and ink drawing by Fuseli and
+                        Blake's added sketch were executed at a much earlier date. The drawings are
+                        on the same paper of approximately the same size (within 1 mm. in height and
+                        6 mm. in width) as Fuseli's pen and ink preliminary sketch for the
+                        frontispiece, engraved by Blake, for John Caspar Lavater, *Aphorisms on
+                        Man*, 1788, translated and edited by Fuseli. The brown ink and style of
+                        execution are the same in the two Fuseli drawings. The fragmentary watermark
+                        in this drawing of Michelangelo is very probably the upper part of the
+                        shield and GR watermark in the drawing for the *Aphorisms* preliminary
+                        drawing. These two leaves were almost certainly cut from the same larger
+                        sheet of paper. Fuseli may very well have drawn his portrait of Michelangelo
+                        with the intention of having it engraved for an illustration to his own
+                        *Aphorisms on Art*, left unpublished until after Fuseli's death. Thus, a
+                        date of c. 1788 for these drawings by Fuseli and Blake, and perhaps even for
+                        Blake's execution of the Michelangelo portrait engraving, seems probable.
+                        This dating was first proposed in Ruthven Todd, "Two Blake Prints and Two
+                        Fuseli Drawings," *Blake Newsletter* 5.3 (winter 1971-72): 173-81.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>9.0 x 5.1 cm.<note>This is the size of Blake's pencil sketch.</note></objsize>
+                <objsize>9.0 x 5.1 cm.<note>This is the size of Blake's pencil
+                    sketch.</note></objsize>
                 <numberleaves>1</numberleaves>
                 <leafsize>22.4 x 18.8 cm.</leafsize>
-                <medium>pencil<note>The main drawing is by Henry Fuseli, executed in pen and brown ink.  The inscription lower left, attributed to John Linnell is in pencil.</note>
+                <medium>pencil<note>The main drawing is by Henry Fuseli, executed in pen and brown
+                        ink. The inscription lower left, attributed to John Linnell is in
+                        pencil.</note>
                 </medium>
                 <support>laid paper</support>
-                <watermark>The fragmentary watermark is probably the finial on the shield and GR watermark in Henry Fuseli's preliminary sketch for the frontispiece, engraved by Blake, for John Caspar Lavater, <hi rend="i">Aphorisms on Man</hi>, 1788.  See the note on Date, above.</watermark>
+                <watermark>The fragmentary watermark is probably the finial on the shield and GR
+                    watermark in Henry Fuseli's preliminary sketch for the frontispiece, engraved by
+                    Blake, for John Caspar Lavater, *Aphorisms on Man*, 1788. See the note on Date,
+                    above.</watermark>
                 <pennednumbers>none</pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
@@ -181,30 +199,51 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1972</date>
                 <dealer>Ernest Seligman</dealer>
                 <price>$2952</price>
-                <note>Acquired from Blake or his wife Catherine by John Linnell (possibly one of the "two [drawings] by Fuseli" acquired by Linnell from Catherine Blake, 29 Jan. 1829, with a "Drawing of Heads" by Blake for &#163;1&#8212;see Bentley, <hi rend="i">Records</hi>, page 792, and the Textual Transcription of Linnell's inscription); the dealer Ernest Seligmann by 1970; acquired by Robert Essick, Aug. 1972 ($2952).</note>
+                <note>Acquired from Blake or his wife Catherine by John Linnell (possibly one of the
+                    "two [drawings] by Fuseli" acquired by Linnell from Catherine Blake, 29 Jan.
+                    1829, with a "Drawing of Heads" by Blake for &#163;1&#8212;see Bentley,
+                    *Records*, page 792, and the Textual Transcription of Linnell's inscription);
+                    the dealer Ernest Seligmann by 1970; acquired by Robert Essick, Aug. 1972
+                    ($2952).</note>
             </provenance>
             <repository>
                 <institution>Robert N. Essick</institution>
                 <addressline>Altadena, California</addressline>
-                
+
             </repository>
         </source>
         <desc id="but172.1.penc.01" dbi="BUT172.1.PD">
             <objtitle>
-                <title type="transcribed">Sketch for Engraving of Michelangelo after Fuseli, on a Drawing by Fuseli</title>,
-<objid>
+                <title type="transcribed">*Sketch for Engraving of Michelangelo after Fuseli, on a
+                    Drawing by Fuseli*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 172)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>Only the pencil sketch upper right is attributed to Blake; the main drawing in pen and brown ink is by Henry Fuseli.  Blake probably executed this sketch of the figure's lower torso and legs in preparation for his engraving of the complete figure.  For further information, see Work Information.</p></objnote>
+                <objnote>
+                    <p>Only the pencil sketch upper right is attributed to Blake; the main drawing
+                        in pen and brown ink is by Henry Fuseli. Blake probably executed this sketch
+                        of the figure's lower torso and legs in preparation for his engraving of the
+                        complete figure. For further information, see Work Information.</p>
+                </objnote>
                 <objsize>22.4 x 18.8 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="B">
-                    <illusobjdesc>In the upper right corner of a leaf containing a pen-and-ink figural drawing by Fuseli, a second figure, drawn in pencil by Blake, visible from the waist down stands facing right.  This drawing by Blake is very probably an attempt to sketch out the lower part of the figure's body in preparation for engraving the full-length portrait (see the Work Information page).  We know from that engraving and from Linnell's inscription on the drawing (see that Textual Transcription) that the figure is Michelangelo.  He appears to wear shoes and a knee-length coat and breeches(?), suggesting he is male.  His left foot is extended in front of his right with a slightly bent knee.  His bent right arm is visible by his side, and he may hold something in his right hand, though this object is indistinguishable.</illusobjdesc>
+                    <illusobjdesc>In the upper right corner of a leaf containing a pen-and-ink
+                        figural drawing by Fuseli, a second figure, drawn in pencil by Blake,
+                        visible from the waist down stands facing right. This drawing by Blake is
+                        very probably an attempt to sketch out the lower part of the figure's body
+                        in preparation for engraving the full-length portrait (see the Work
+                        Information page). We know from that engraving and from Linnell's
+                        inscription on the drawing (see that Textual Transcription) that the figure
+                        is Michelangelo. He appears to wear shoes and a knee-length coat and
+                        breeches(?), suggesting he is male. His left foot is extended in front of
+                        his right with a slightly bent knee. His bent right arm is visible by his
+                        side, and he may hold something in his right hand, though this object is
+                        indistinguishable.</illusobjdesc>
                     <component type="figure" location="B">
                         <characteristic>standing</characteristic>
                         <characteristic>facing right</characteristic>
@@ -217,16 +256,30 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arm at side</characteristic>
                         <characteristic>holding</characteristic>
                         <characteristic>Michelangelo</characteristic>
-                        <illusobjdesc>In the upper right corner of a leaf containing a pen-and-ink figural drawing by Fuseli, a second figure, drawn in pencil by Blake, visible from the waist down stands facing right.  This drawing by Blake is very probably an attempt to sketch out the lower part of the figure's body in preparation for engraving the full-length portrait (see the Work Information page).  We know from that engraving and from Linnell's inscription on the drawing (see that Textual Transcription) that the figure is Michelangelo.  He appears to wear shoes and a knee-length coat and breeches(?), suggesting he is male.  His left foot is extended in front of his right with a slightly bent knee.  His bent right arm is visible by his side, and he may hold something in his right hand, though this object is indistinguishable.</illusobjdesc>
+                        <illusobjdesc>In the upper right corner of a leaf containing a pen-and-ink
+                            figural drawing by Fuseli, a second figure, drawn in pencil by Blake,
+                            visible from the waist down stands facing right. This drawing by Blake
+                            is very probably an attempt to sketch out the lower part of the figure's
+                            body in preparation for engraving the full-length portrait (see the Work
+                            Information page). We know from that engraving and from Linnell's
+                            inscription on the drawing (see that Textual Transcription) that the
+                            figure is Michelangelo. He appears to wear shoes and a knee-length coat
+                            and breeches(?), suggesting he is male. His left foot is extended in
+                            front of his right with a slightly bent knee. His bent right arm is
+                            visible by his side, and he may hold something in his right hand, though
+                            this object is indistinguishable.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
             <phystext>
                 <vspace extent="20"/>
                 <lg justify="left">
-                    <l n="but172.1.penc.01.01" justify="left">Mich.' Angelo<note>This pencil inscription has been attributed to John Linnell; see the note on Provenance.</note></l>
+                    <l n="but172.1.penc.01.01" justify="left">Mich.' Angelo<note>This pencil
+                            inscription has been attributed to John Linnell; see the note on
+                            Provenance.</note></l>
                     <l n="but172.1.penc.01.02" justify="left">by Fuseli</l>
-                    <l n="but172.1.penc.01.03" justify="left">original Drawing had From W<hi rend="superscript">m</hi> Blake</l>
+                    <l n="but172.1.penc.01.03" justify="left">original Drawing had From W<hi
+                            rend="superscript">m</hi> Blake</l>
                 </lg>
             </phystext>
         </desc>

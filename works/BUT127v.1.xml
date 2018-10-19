@@ -1,44 +1,36 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but127v.1" type="penc" work="Anatomical Sketch of Lower Legs" copy="1" copyid="1" institution="tate" catalog="butlin" catid="127v" hidden="false">
+<bad id="but127v.1" type="penc" work="Anatomical Sketch of Lower Legs" copy="1" copyid="1"
+    institution="tate" catalog="butlin" catid="127v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Anatomical Sketch of Lower Legs">
-                    <main>Anatomical Sketch of Lower Legs</main>
-: electronic edition
-</title>
+                    <main>Anatomical Sketch of Lower Legs</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 Tate Collection
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 Tate Collection </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +39,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +83,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +117,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,22 +137,22 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        Anatomical Sketch of Lower Legs
-                    </title>
+                    <title> *Anatomical Sketch of Lower Legs* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1780">c. 1780-85<note>The date is based on stylistic considerations.</note>
+
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic
+                        considerations.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objsize>8.9 x 34.9 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>8.9 x 34.9 cm.<note>The top of this strip of paper is uneven, tapering to 8.0 cm. on the right.  See the Editors' Notes on this work.</note></leafsize>
+                <leafsize>8.9 x 34.9 cm.<note>The top of this strip of paper is uneven, tapering to
+                        8.0 cm. on the right. See the Editors' Notes on this work.</note></leafsize>
                 <medium>pencil</medium>
                 <support>wove paper</support>
                 <watermark>none</watermark>
@@ -176,7 +165,11 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1969</date>
                 <dealer>none</dealer>
                 <price>bequest</price>
-                <note>Early history unknown; acquired by Alexander Macmillan by 1876; possibly by gift or bequest to a son or daughter no later than 1896 or directly to his granddaughter, Rachel M. Dyer; bequeathed by Dyer in 1969 to the National Portrait Gallery, London, and transferred in the same year to the Tate Gallery, now Tate Collection.</note>
+                <note>Early history unknown; acquired by Alexander Macmillan by 1876; possibly by
+                    gift or bequest to a son or daughter no later than 1896 or directly to his
+                    granddaughter, Rachel M. Dyer; bequeathed by Dyer in 1969 to the National
+                    Portrait Gallery, London, and transferred in the same year to the Tate Gallery,
+                    now Tate Collection.</note>
             </provenance>
             <repository>
                 <institution>Tate Collection</institution>
@@ -195,20 +188,29 @@ granted by the owners of the originals for this publication only.<lb/>
         </source>
         <desc id="but127v.1.penc.01" dbi="BUT127.1.1v.PD">
             <objtitle>
-                <title type="transcribed">Anatomical Sketch of Lower Legs</title>,
-<objid>
+                <title type="transcribed">Anatomical Sketch of Lower Legs</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 127 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>This composition&#8212;evidently cut from a much larger design&#8212;appears on the verso of a piece of paper pasted to the top margin of the recto water color, <hi rend="i">An Allegory of the Bible</hi>.  This strip was added to complete the recto design.</p></objnote>
+                <objnote>
+                    <p>This composition&#8212;evidently cut from a much larger design&#8212;appears
+                        on the verso of a piece of paper pasted to the top margin of the recto water
+                        color, *An Allegory of the Bible*. This strip was added to complete the
+                        recto design.</p>
+                </objnote>
                 <objsize>8.9 x 34.9 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>In this drawing, a figure's legs are shown in great anatomical detail from approximately the knee to just below the ankle.  The left-leaning position of the legs suggests a figure facing forward and may stand in contrapposto or lean to the left.  Alternatively, the interest paid to the underlying bone in the left leg may suggest this is an anatomical study.</illusobjdesc>
+                    <illusobjdesc>In this drawing, a figure's legs are shown in great anatomical
+                        detail from approximately the knee to just below the ankle. The left-leaning
+                        position of the legs suggests a figure facing forward and may stand in
+                        contrapposto or lean to the left. Alternatively, the interest paid to the
+                        underlying bone in the left leg may suggest this is an anatomical
+                        study.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>legs</characteristic>
                         <characteristic>standing</characteristic>
@@ -216,7 +218,12 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>facing forward</characteristic>
                         <characteristic>leaning</characteristic>
                         <characteristic>bone</characteristic>
-                        <illusobjdesc>In this drawing, a figure's legs are shown in great anatomical detail from approximately the knee to just below the ankle.  The left-leaning position of the legs suggests a figure facing forward and may stand in contrapposto or lean to the left.  Alternatively, the interest paid to the underlying bone in the left leg may suggest this is an anatomical study.</illusobjdesc>
+                        <illusobjdesc>In this drawing, a figure's legs are shown in great anatomical
+                            detail from approximately the knee to just below the ankle. The
+                            left-leaning position of the legs suggests a figure facing forward and
+                            may stand in contrapposto or lean to the left. Alternatively, the
+                            interest paid to the underlying bone in the left leg may suggest this is
+                            an anatomical study.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

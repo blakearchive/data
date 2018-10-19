@@ -1,44 +1,37 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but223v.1" type="penc" work="A Group of Figures Round a Table and a Seated Old Man" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="223v" hidden="false">
+<bad id="but223v.1" type="penc" work="A Group of Figures Round a Table and a Seated Old Man"
+    copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="223v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="A Group of Figures Round a Table and a Seated Old Man">
-                    <main>A Group of Figures Round a Table and a Seated Old Man</main>
-: electronic edition
-</title>
+                    <main>A Group of Figures Round a Table and a Seated Old Man</main> : electronic
+                    edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 British Museum
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 British Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +40,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +84,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +118,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,15 +138,14 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        A Group of Figures Round a Table and a Seated Old Man
-                    </title>
+                    <title> A Group of Figures Round a Table and a Seated Old Man </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1780">c. 1780<note>The date, based on stylistic considerations, is far from certain.</note>
+
+                <compdate value="1780">c. 1780<note>The date, based on stylistic considerations, is
+                        far from certain.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -164,10 +153,15 @@ granted by the owners of the originals for this publication only.<lb/>
                 <objsize>18.1 x 26.5 cm.</objsize>
                 <numberleaves>1</numberleaves>
                 <leafsize>23.0 x 33.0 cm.</leafsize>
-                <medium>pencil<note>The pencil letters lower right, "J D F," are the initials of John Deffett Francis, the first recorded owner of the drawing.  This inscription may have been written by Francis.</note></medium>
+                <medium>pencil<note>The pencil letters lower right, "J D F," are the initials of
+                        John Deffett Francis, the first recorded owner of the drawing. This
+                        inscription may have been written by Francis.</note></medium>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <pennednumbers>none<note>The pencil letters lower right, "J D F," are the initials of John Deffett Francis, the first recorded owner of the drawing.  This inscription may have been written by Francis.  The British Museum collection stamp appears upper right.</note></pennednumbers>
+                <pennednumbers>none<note>The pencil letters lower right, "J D F," are the initials
+                        of John Deffett Francis, the first recorded owner of the drawing. This
+                        inscription may have been written by Francis. The British Museum collection
+                        stamp appears upper right.</note></pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
@@ -176,7 +170,8 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1874</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Early history unknown; acquired at an unknown time by John Deffett Francis and given by him to the British Museum in Dec. 1874.</note>
+                <note>Early history unknown; acquired at an unknown time by John Deffett Francis and
+                    given by him to the British Museum in Dec. 1874.</note>
             </provenance>
             <repository>
                 <institution>British Museum</institution>
@@ -188,26 +183,63 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>URL: http://www.britishmuseum.org</addressline>
                 <addressline>British Museum</addressline>
                 <department>Department of Prints and Drawings</department>
-                <addressline>Email, Department of Prints and Drawings: prints@britishmuseum.org</addressline>
+                <addressline>Email, Department of Prints and Drawings:
+                    prints@britishmuseum.org</addressline>
                 <repositoryid label="Registration number">1874,1212.144</repositoryid>
             </repository>
         </source>
         <desc id="but223v.1.penc.01" dbi="BUT223.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Group of Figures Round a Table and a Seated Old Man</title>,
-<objid>
+                <title type="transcribed">*A Group of Figures Round a Table and a Seated Old
+                    Man*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 223 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>The recto of this leaf is a pencil drawing datable to c. 1793, <hi rend="i">A Figure Bending Over a Corpse in the Rain, with further Bodies Behind, Possibly for the Title-Page of "America"</hi>.  The pencil letters lower right, "J D F," are the initials of John Deffett Francis, the first recorded owner of the drawing.  This inscription may have been written by Francis.  The British Museum collection stamp appears upper right.</p></objnote>
+                <objnote>
+                    <p>The recto of this leaf is a pencil drawing datable to c. 1793, *A Figure
+                        Bending Over a Corpse in the Rain, with further Bodies Behind, Possibly for
+                        the Title-Page of "America"*. The pencil letters lower right, "J D F," are
+                        the initials of John Deffett Francis, the first recorded owner of the
+                        drawing. This inscription may have been written by Francis. The British
+                        Museum collection stamp appears upper right.</p>
+                </objnote>
                 <objsize>23.0 x 33.0 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Two vertical lines in the center of the drawing divide the compositional space into two seemingly unrelated halves.  At right, a bearded and gowned man with long hair sits in a chair facing forward.  His bent left arm rests on the arm of the chair (obscured by his drapery), and he points down with the index finger of his left hand.  His right arm is extended and his right hand rests on his left knee; the index finger of his right hand is extended down and to the right.  Both legs are bent and spread.  An object whose significance is indeterminate is visible below his right foot.  In the scene at left, four figures sit and stand around a table.  The rightmost figure is an adult woman with long curly hair wearing a gown and veil who sits in a chair.  Facing forward, she bends her left arm upward to hold a distaff and her right arm is bent and raised across her torso; she holds the material she is spinning with both hands.  The spindle(?) to which the material is still attached rests on the table in front of her.  Beside the female figure at left, a smaller male figure, perhaps a child or adolescent depicted from the waist up, is visible.  He has short curly hair and wears a long-sleeved shirt.  Both of his arms rest on the table, and he appears to rest his head on his raised right hand.  A second smaller male figure stands in the foreground, across the table from his companions, facing right.  He has short curly hair and wears a shirt with tights or breeches.  His bent left arm rests on the table and his right is at his side, slightly bent.  He stands in contrapposto with left leg extended backward, heel raised.  Visible from the shoulders up, the leftmost figure of the group is an adult male figure with a beard.  He faces right and wears a hat with a ribbon.  This group may be a family with a father, mother, and two male children.  The table around which they sit is round with one visible serpentine leg.  Two tall arched openings that may be doors or windows are visible in the right side of the wall behind the group at left.  Framing lines extend around three sides of the composition and include the seated figure far right.</illusobjdesc>
+                    <illusobjdesc>Two vertical lines in the center of the drawing divide the
+                        compositional space into two seemingly unrelated halves. At right, a bearded
+                        and gowned man with long hair sits in a chair facing forward. His bent left
+                        arm rests on the arm of the chair (obscured by his drapery), and he points
+                        down with the index finger of his left hand. His right arm is extended and
+                        his right hand rests on his left knee; the index finger of his right hand is
+                        extended down and to the right. Both legs are bent and spread. An object
+                        whose significance is indeterminate is visible below his right foot. In the
+                        scene at left, four figures sit and stand around a table. The rightmost
+                        figure is an adult woman with long curly hair wearing a gown and veil who
+                        sits in a chair. Facing forward, she bends her left arm upward to hold a
+                        distaff and her right arm is bent and raised across her torso; she holds the
+                        material she is spinning with both hands. The spindle(?) to which the
+                        material is still attached rests on the table in front of her. Beside the
+                        female figure at left, a smaller male figure, perhaps a child or adolescent
+                        depicted from the waist up, is visible. He has short curly hair and wears a
+                        long-sleeved shirt. Both of his arms rest on the table, and he appears to
+                        rest his head on his raised right hand. A second smaller male figure stands
+                        in the foreground, across the table from his companions, facing right. He
+                        has short curly hair and wears a shirt with tights or breeches. His bent
+                        left arm rests on the table and his right is at his side, slightly bent. He
+                        stands in contrapposto with left leg extended backward, heel raised. Visible
+                        from the shoulders up, the leftmost figure of the group is an adult male
+                        figure with a beard. He faces right and wears a hat with a ribbon. This
+                        group may be a family with a father, mother, and two male children. The
+                        table around which they sit is round with one visible serpentine leg. Two
+                        tall arched openings that may be doors or windows are visible in the right
+                        side of the wall behind the group at left. Framing lines extend around three
+                        sides of the composition and include the seated figure far
+                        right.</illusobjdesc>
                     <component type="figure" location="BD">
                         <characteristic>male</characteristic>
                         <characteristic>sitting</characteristic>
@@ -228,17 +260,29 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>breeches</characteristic>
                         <characteristic>shoes</characteristic>
                         <characteristic>right foot</characteristic>
-                        <illusobjdesc>At right, a bearded and gowned man with long curly hair sits in a chair facing forward.  His bent left arm rests on the arm of the chair (which is obscured by his drapery).  He points down with the index finger of his left hand.  His right arm is extended, and his right hand rests on his left knee; the index finger of his right hand is extended down and to the right.  Both legs are bent and spread.  He may wear tights or breeches as well as shoes.  An object whose significance is indeterminate is visible below his right foot.</illusobjdesc>
+                        <illusobjdesc>At right, a bearded and gowned man with long curly hair sits
+                            in a chair facing forward. His bent left arm rests on the arm of the
+                            chair (which is obscured by his drapery). He points down with the index
+                            finger of his left hand. His right arm is extended, and his right hand
+                            rests on his left knee; the index finger of his right hand is extended
+                            down and to the right. Both legs are bent and spread. He may wear tights
+                            or breeches as well as shoes. An object whose significance is
+                            indeterminate is visible below his right foot.</illusobjdesc>
                     </component>
                     <component type="object" location="D">
                         <characteristic>chair</characteristic>
                         <characteristic>floor</characteristic>
-                        <illusobjdesc>The chair on which the figure at far right sits is almost entirely covered by his drapery; however, two straight legs are partially visible at right.  Horizontal lines below the figure indicate a floor.</illusobjdesc>
+                        <illusobjdesc>The chair on which the figure at far right sits is almost
+                            entirely covered by his drapery; however, two straight legs are
+                            partially visible at right. Horizontal lines below the figure indicate a
+                            floor.</illusobjdesc>
                     </component>
                     <component type="figure" location="AC">
                         <characteristic>group of figures</characteristic>
                         <characteristic>family</characteristic>
-                        <illusobjdesc>A group of four figures&#8212;an adult male, an adult female, and two male children or adolescents&#8212;sit around a table in the scene at left.  They may represent a family.</illusobjdesc>
+                        <illusobjdesc>A group of four figures&#8212;an adult male, an adult female,
+                            and two male children or adolescents&#8212;sit around a table in the
+                            scene at left. They may represent a family.</illusobjdesc>
                     </component>
                     <component type="figure" location="AC">
                         <characteristic>female</characteristic>
@@ -257,17 +301,28 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>legs bent</characteristic>
                         <characteristic>right foot</characteristic>
                         <characteristic>mother</characteristic>
-                        <illusobjdesc>Four figures sit and stand around a table in the scene at left.  The rightmost figure is an adult woman with long curly hair wearing a gown and veil who sits in a chair.  Facing forward with head turned slightly left, she bends her left arm upward to hold a distaff and her right arm is bent and raised across her torso; she holds the material she is spinning with both hands.  Her right leg is crossed over her left with the heel of her right foot raised almost vertically off the ground.  If this group represents a family, she is likely the mother.</illusobjdesc>
+                        <illusobjdesc>Four figures sit and stand around a table in the scene at
+                            left. The rightmost figure is an adult woman with long curly hair
+                            wearing a gown and veil who sits in a chair. Facing forward with head
+                            turned slightly left, she bends her left arm upward to hold a distaff
+                            and her right arm is bent and raised across her torso; she holds the
+                            material she is spinning with both hands. Her right leg is crossed over
+                            her left with the heel of her right foot raised almost vertically off
+                            the ground. If this group represents a family, she is likely the
+                            mother.</illusobjdesc>
                     </component>
                     <component type="object" location="AC">
                         <characteristic>distaff</characteristic>
                         <characteristic>thread</characteristic>
                         <characteristic>spindle</characteristic>
-                        <illusobjdesc>The female figure at left holds a distaff in her left hand.  With both hands, she spins thread, which is attached to the spindle(?) visible on the table in front of her.</illusobjdesc>
+                        <illusobjdesc>The female figure at left holds a distaff in her left hand.
+                            With both hands, she spins thread, which is attached to the spindle(?)
+                            visible on the table in front of her.</illusobjdesc>
                     </component>
                     <component type="object" location="C">
                         <characteristic>chair</characteristic>
-                        <illusobjdesc>The female figure at left sits in a chair.  One of the chair legs is visible front right.</illusobjdesc>
+                        <illusobjdesc>The female figure at left sits in a chair. One of the chair
+                            legs is visible front right.</illusobjdesc>
                     </component>
                     <component type="figure" location="AC">
                         <characteristic>male</characteristic>
@@ -284,7 +339,12 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>head on hand</characteristic>
                         <characteristic>hand on face</characteristic>
                         <characteristic>eyes raised</characteristic>
-                        <illusobjdesc>Four figures sit or stand around a table in the scene at left.  The second figure from the right in this group is a smaller male figure, perhaps a child or adolescent, depicted from the waist up.  He has short curly hair and wears a long-sleeved shirt.  Both of his arms rest on the table, left crossed over right, and he appears to rest his head on his raised right hand.  His eyes are raised.</illusobjdesc>
+                        <illusobjdesc>Four figures sit or stand around a table in the scene at left.
+                            The second figure from the right in this group is a smaller male figure,
+                            perhaps a child or adolescent, depicted from the waist up. He has short
+                            curly hair and wears a long-sleeved shirt. Both of his arms rest on the
+                            table, left crossed over right, and he appears to rest his head on his
+                            raised right hand. His eyes are raised.</illusobjdesc>
                     </component>
                     <component type="figure" location="AC">
                         <characteristic>male</characteristic>
@@ -305,7 +365,13 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>legs bent</characteristic>
                         <characteristic>leg extended backward</characteristic>
                         <characteristic>left foot</characteristic>
-                        <illusobjdesc>Four figures sit or stand around a table in the scene at left.  A male figure, who may be a child or adolescent, stands in the foreground, across the table from his companions, facing right with head turned down.  He has short curly hair and wears a shirt with tights or breeches.  His bent left arm rests on the table and his right is at his side, slightly bent.  He stands in contrapposto (or perhaps leans on the table) with left leg extended backward, heel raised.</illusobjdesc>
+                        <illusobjdesc>Four figures sit or stand around a table in the scene at left.
+                            A male figure, who may be a child or adolescent, stands in the
+                            foreground, across the table from his companions, facing right with head
+                            turned down. He has short curly hair and wears a shirt with tights or
+                            breeches. His bent left arm rests on the table and his right is at his
+                            side, slightly bent. He stands in contrapposto (or perhaps leans on the
+                            table) with left leg extended backward, heel raised.</illusobjdesc>
                     </component>
                     <component type="figure" location="AC">
                         <characteristic>male</characteristic>
@@ -314,24 +380,32 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>hat</characteristic>
                         <characteristic>ribbon</characteristic>
                         <characteristic>father</characteristic>
-                        <illusobjdesc>Four figures sit or stand around a table in the scene at left.  Visible from the shoulders up, the leftmost figure of the group is an adult male figure with a beard.  He faces right and wears a hat with a ribbon.  If this group represents a family, he is likely the father.</illusobjdesc>
+                        <illusobjdesc>Four figures sit or stand around a table in the scene at left.
+                            Visible from the shoulders up, the leftmost figure of the group is an
+                            adult male figure with a beard. He faces right and wears a hat with a
+                            ribbon. If this group represents a family, he is likely the
+                            father.</illusobjdesc>
                     </component>
                     <component type="object" location="AC">
                         <characteristic>table</characteristic>
                         <characteristic>serpentine</characteristic>
-                        <illusobjdesc>The table around which the four figures sit in the scene at left is round with one visible, rather serpentine leg.</illusobjdesc>
+                        <illusobjdesc>The table around which the four figures sit in the scene at
+                            left is round with one visible, rather serpentine leg.</illusobjdesc>
                     </component>
                     <component type="structure" location="AC">
                         <characteristic>arch</characteristic>
                         <characteristic>wall</characteristic>
                         <characteristic>door</characteristic>
                         <characteristic>window</characteristic>
-                        <illusobjdesc>Two tall arched openings are visible in the right side of the wall behind the group at left.  These may be doors or windows.</illusobjdesc>
+                        <illusobjdesc>Two tall arched openings are visible in the right side of the
+                            wall behind the group at left. These may be doors or
+                            windows.</illusobjdesc>
                     </component>
                     <component type="object" location="E">
                         <characteristic>line</characteristic>
                         <characteristic>frame</characteristic>
-                        <illusobjdesc>Framing lines extend around three sides of the composition and include the seated figure far right.</illusobjdesc>
+                        <illusobjdesc>Framing lines extend around three sides of the composition and
+                            include the seated figure far right.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

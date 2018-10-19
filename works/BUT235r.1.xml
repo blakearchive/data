@@ -1,44 +1,38 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but235r.1" type="penc" work="An Old Man Seated Leaning on a Pile of Books; A Young Man Approaches" copy="1" copyid="1" institution="rosenbach" catalog="butlin" catid="235r" hidden="false">
+<bad id="but235r.1" type="penc"
+    work="An Old Man Seated Leaning on a Pile of Books; A Young Man Approaches" copy="1" copyid="1"
+    institution="rosenbach" catalog="butlin" catid="235r" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="An Old Man Seated Leaning on a Pile of Books; A Young Man Approaches">
-                    <main>An Old Man Seated Leaning on a Pile of Books; A Young Man Approaches</main>
-: electronic edition
-</title>
+                    <main>An Old Man Seated Leaning on a Pile of Books; A Young Man
+                        Approaches</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 Rosenbach Museum and Library
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 Rosenbach Museum and Library </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +41,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +85,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +119,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,22 +139,26 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        An Old Man Seated Leaning on a Pile of Books; A Young Man Approaches
+                    <title> An Old Man Seated Leaning on a Pile of Books; A Young Man Approaches
                     </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1789">c. 1789<note>This date, given in Butlin 235, is based on stylistic considerations and is far from certain.  The head of the seated figure is very similar to the figure's head in <hi rend="i">Fate</hi>, a pencil sketch dated to c. 1793 in Butlin 210.</note>
+
+                <compdate value="1789">c. 1789<note>This date, given in Butlin 235, is based on
+                        stylistic considerations and is far from certain. The head of the seated
+                        figure is very similar to the figure's head in *Fate*, a pencil sketch dated
+                        to c. 1793 in Butlin 210.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objsize>34.1 x 43.8 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>34.1 x 43.8 cm.<note>The fact that the head of the figure standing on the right is cut off suggests that the leaf was trimmed at the top after the drawing was executed.</note></leafsize>
+                <leafsize>34.1 x 43.8 cm.<note>The fact that the head of the figure standing on the
+                        right is cut off suggests that the leaf was trimmed at the top after the
+                        drawing was executed.</note></leafsize>
                 <medium>pencil</medium>
                 <support>wove paper</support>
                 <watermark>none</watermark>
@@ -176,8 +171,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1954</date>
                 <dealer>none</dealer>
                 <price>bequest</price>
-                <note>Early history unknown; William A. White by 1905; acquired by the dealer A. S. W. Rosenbach, probably c. 1927-29; bequeathed to the Rosenbach Museum and Library in 1952 and accessioned by the Museum in 1954.
-                </note>
+                <note>Early history unknown; William A. White by 1905; acquired by the dealer A. S.
+                    W. Rosenbach, probably c. 1927-29; bequeathed to the Rosenbach Museum and
+                    Library in 1952 and accessioned by the Museum in 1954. </note>
             </provenance>
             <repository>
                 <institution>Rosenbach Museum and Library</institution>
@@ -194,20 +190,33 @@ granted by the owners of the originals for this publication only.<lb/>
         </source>
         <desc id="but235r.1.penc.01" dbi="BUT235.1.1r.PD">
             <objtitle>
-                <title type="transcribed">An Old Man Seated Leaning on a Pile of Books; A Young Man Approaches</title>,
-<objid>
+                <title type="transcribed">*An Old Man Seated Leaning on a Pile of Books; A Young Man
+                    Approaches*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 235 recto)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>A pencil drawing, <hi rend="i">A Seated Man</hi>, is on the verso of this drawing.</p></objnote>
+                <objnote>
+                    <p>A pencil drawing, *A Seated Man*, is on the verso of this drawing.</p>
+                </objnote>
                 <objsize>34.1 x 43.8 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>A seated male figure with short curly hair and a beard looks right toward a second male figure, who stands against the right edge of the drawing.  The seated figure appears to be nude.  His torso faces forward, and his left leg is bent upward in front of him, his right extended left.  His right arm is at his side while his left is bent upward with his elbow resting on a pile of books.  He may touch his face with his left hand.  The standing figure, whose head is only partially visible against the upper margin, has long curly hair and faces left.  He appears to be nude expect for a length of drapery worn over his left shoulder.  His left arm is bent and raised at 45 degrees, and the fingers of his left hand are spread.  His right foot is positioned in front of his left; the musculature of both legs is prominent.</illusobjdesc>
+                    <illusobjdesc>A seated male figure with short curly hair and a beard looks right
+                        toward a second male figure, who stands against the right edge of the
+                        drawing. The seated figure appears to be nude. His torso faces forward, and
+                        his left leg is bent upward in front of him, his right extended left. His
+                        right arm is at his side while his left is bent upward with his elbow
+                        resting on a pile of books. He may touch his face with his left hand. The
+                        standing figure, whose head is only partially visible against the upper
+                        margin, has long curly hair and faces left. He appears to be nude expect for
+                        a length of drapery worn over his left shoulder. His left arm is bent and
+                        raised at 45 degrees, and the fingers of his left hand are spread. His right
+                        foot is positioned in front of his left; the musculature of both legs is
+                        prominent.</illusobjdesc>
                     <component type="figure" location="AC">
                         <characteristic>male</characteristic>
                         <characteristic>sitting</characteristic>
@@ -225,7 +234,13 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arm bent upward</characteristic>
                         <characteristic>arm resting</characteristic>
                         <characteristic>hand on face</characteristic>
-                        <illusobjdesc>A seated male figure with short curly hair and a beard looks right toward a second male figure, who stands against the right edge of the drawing.  The seated figure appears to be nude.  His torso faces forward, and his left leg is bent upward in front of him, his right extended left.  His right arm is at his side (perhaps touching his right knee) while his left is bent upward with his elbow resting on a pile of books.  He may touch his face with his left hand.</illusobjdesc>
+                        <illusobjdesc>A seated male figure with short curly hair and a beard looks
+                            right toward a second male figure, who stands against the right edge of
+                            the drawing. The seated figure appears to be nude. His torso faces
+                            forward, and his left leg is bent upward in front of him, his right
+                            extended left. His right arm is at his side (perhaps touching his right
+                            knee) while his left is bent upward with his elbow resting on a pile of
+                            books. He may touch his face with his left hand.</illusobjdesc>
                     </component>
                     <component type="figure" location="BD">
                         <characteristic>male</characteristic>
@@ -240,12 +255,21 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>fingers spread</characteristic>
                         <characteristic>walking</characteristic>
                         <characteristic>muscular</characteristic>
-                        <illusobjdesc>The standing figure, whose head is only partially visible against the upper margin, has long curly hair and faces left.  He appears to be nude expect for a length of drapery worn over his left shoulder.  His left arm is bent and raised at 45 degrees, and the fingers of his left hand are spread.  His right foot is positioned in front of his left, which suggests the figure may walk left.  The musculature of both legs is prominent.</illusobjdesc>
+                        <illusobjdesc>The standing figure, whose head is only partially visible
+                            against the upper margin, has long curly hair and faces left. He appears
+                            to be nude expect for a length of drapery worn over his left shoulder.
+                            His left arm is bent and raised at 45 degrees, and the fingers of his
+                            left hand are spread. His right foot is positioned in front of his left,
+                            which suggests the figure may walk left. The musculature of both legs is
+                            prominent.</illusobjdesc>
                     </component>
                     <component type="object" location="CD">
                         <characteristic>book</characteristic>
                         <characteristic>page</characteristic>
-                        <illusobjdesc>The sitting figure rests his left elbow on a stack of at least three books.  One or two other books are arranged vertically, leaning to the right, visible at the seated figure's left elbow.  The edges of a few pages of the vertical books may be pictured.</illusobjdesc>
+                        <illusobjdesc>The sitting figure rests his left elbow on a stack of at least
+                            three books. One or two other books are arranged vertically, leaning to
+                            the right, visible at the seated figure's left elbow. The edges of a few
+                            pages of the vertical books may be pictured.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

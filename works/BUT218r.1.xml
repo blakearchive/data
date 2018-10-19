@@ -1,44 +1,39 @@
 <!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but218r.1" type="penc" work="Sketches for ‘The Book of Thel’: Thel and the Clod of Clay, and Thel Fleeing From the House of Clay" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="218r" hidden="false">
+<bad id="but218r.1" type="penc"
+    work="Sketches for ‘The Book of Thel’: Thel and the Clod of Clay, and Thel Fleeing From the House of Clay"
+    copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="218r" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Sketches for ‘The Book of Thel’: Thel and the Clod of Clay, and Thel Fleeing From the House of Clay">
-                    <main>Sketches for "The Book of Thel": Thel and the Clod of Clay, and Thel Fleeing From the House of Clay</main>
-: electronic edition
-</title>
+                <title
+                    reg="Sketches for ‘The Book of Thel’: Thel and the Clod of Clay, and Thel Fleeing From the House of Clay">
+                    <main>Sketches for "The Book of Thel": Thel and the Clod of Clay, and Thel
+                        Fleeing From the House of Clay</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 British Museum
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 British Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +42,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +86,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +120,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,17 +140,19 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        Sketches for "The Book of Thel": Thel and the Clod of Clay, and Thel Fleeing From the House of Clay
-                    </title>
+                    <title> Sketches for "The Book of Thel": Thel and the Clod of Clay, and Thel
+                        Fleeing From the House of Clay </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                <origination>Frederick Tatham<role>author.  Tatham wrote the pen and ink inscription, lower right.</role>
+                <origination>Frederick Tatham<role>author. Tatham wrote the pen and ink inscription,
+                        lower right.</role>
                     <role>delineator</role>
                 </origination>
-                <compdate value="1789">c. 1789<note>The date is based on the relationship between this preliminary drawing and <hi rend="i">The Book of Thel</hi>, dated 1789 on its title page.</note>
+                <compdate value="1789">c. 1789<note>The date is based on the relationship between
+                        this preliminary drawing and *The Book of Thel*, dated 1789 on its title
+                        page.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -166,7 +160,8 @@ granted by the owners of the originals for this publication only.<lb/>
                 <objsize>22.4 x 31.7 cm.</objsize>
                 <numberleaves>1</numberleaves>
                 <leafsize>22.4 x 31.7 cm.</leafsize>
-                <medium>pencil<note>The inscription, lower right, by Frederick Tatham is in pen and ink.</note>
+                <medium>pencil<note>The inscription, lower right, by Frederick Tatham is in pen and
+                        ink.</note>
                 </medium>
                 <support>laid paper</support>
                 <watermark>top portion only of a fleur-de-lis watermark</watermark>
@@ -179,7 +174,19 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1982</date>
                 <dealer>none</dealer>
                 <price>approximately &#163;3000</price>
-                <note>Inherited by Blake's wife Catherine at his death in 1827; acquired by Frederick Tatham, probably at Catherine Blake's death in 1831; the dealer Bernard Quaritch, offered in his Nov. 1882 catalogue, item 346 with 39 other works (&#163;36), catalogue 350 of 10 Aug. 1883, item 13843, same group and price, <hi rend="i">Catalogue of Works on the Fine Arts</hi> of Oct. 1883, item 13843, same group and price, and catalogue of <hi rend="i">William Blake's Original Drawings</hi> of May 1885, no item number, same group and price; sold by Quaritch on 30 June 1886 to W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949, lot 63 with four other works by Blake (&#163;42 to the dealer Maggs Bros. Ltd.); offered by Maggs, 1949 catalogue 117 of Sept. 1949, item 498 (&#163;35); the dealer Ernest Seligmann; sold 1960 to W. A. Caro; his daughter, Ann Caro, probably by gift or inheritance; sold by Ann Caro to the British Museum in late 1982 for approximately &#163;3000 and accessioned by the Museum in 1983. </note>
+                <note>Inherited by Blake's wife Catherine at his death in 1827; acquired by
+                    Frederick Tatham, probably at Catherine Blake's death in 1831; the dealer
+                    Bernard Quaritch, offered in his Nov. 1882 catalogue, item 346 with 39 other
+                    works (&#163;36), catalogue 350 of 10 Aug. 1883, item 13843, same group and
+                    price, *Catalogue of Works on the Fine Arts* of Oct. 1883, item 13843, same
+                    group and price, and catalogue of *William Blake's Original Drawings* of May
+                    1885, no item number, same group and price; sold by Quaritch on 30 June 1886 to
+                    W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949,
+                    lot 63 with four other works by Blake (&#163;42 to the dealer Maggs Bros. Ltd.);
+                    offered by Maggs, 1949 catalogue 117 of Sept. 1949, item 498 (&#163;35); the
+                    dealer Ernest Seligmann; sold 1960 to W. A. Caro; his daughter, Ann Caro,
+                    probably by gift or inheritance; sold by Ann Caro to the British Museum in late
+                    1982 for approximately &#163;3000 and accessioned by the Museum in 1983. </note>
             </provenance>
             <repository>
                 <institution>British Museum</institution>
@@ -191,26 +198,59 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>URL: http://www.britishmuseum.org</addressline>
                 <addressline>British Museum</addressline>
                 <department>Department of Prints and Drawings</department>
-                <addressline>Email, Department of Prints and Drawings: prints@britishmuseum.org</addressline>
+                <addressline>Email, Department of Prints and Drawings:
+                    prints@britishmuseum.org</addressline>
                 <repositoryid label="Registration number">1983,0305.1</repositoryid>
             </repository>
         </source>
         <desc id="but218r.1.penc.01" dbi="BUT218.1.1r.PD">
             <objtitle>
-                <title type="transcribed">Sketches for "The Book of Thel": Thel and the Clod of Clay, and Thel Fleeing From the House of Clay</title>,
-<objid>
+                <title type="transcribed">*Sketches for "The Book of Thel": Thel and the Clod of
+                    Clay, and Thel Fleeing From the House of Clay*</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 218 recto)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>This pencil sketch is a preliminary for two plates in Blake's <hi rend="i">The Book of Thel</hi> of 1789.  The mock-up of the plate on the left includes the design used on Bentley plate 7, but in this sketch it appears as a headpiece above the roman numeral indicating the beginning of chapter III, which begins on Bentley plate 6 in the poem.  The mock-up on the right would thus presumably be for the next plate, Bentley plate 7.  The design, apparently showing Thel standing in front of the "house" of the "matron Clay" (Erdman page 6), was not used in <hi rend="i">The Book of Thel</hi>.  This rejected design lends support to the supposition that Blake originally intended a different ending for his illuminated book than the one present in all extant copies.  The design, however, might illustrate the present ending of the poem when Thel flees the house of Clay (the grave) to return to "the vales of Har" (Erdman page 6).  See also the sketch on the verso of this leaf, a preliminary drawing for the design on Bentley plate 6 of <hi rend="i">The Book of Thel</hi>.</p></objnote>
+                <objnote>
+                    <p>This pencil sketch is a preliminary for two plates in Blake's *The Book of
+                        Thel* of 1789. The mock-up of the plate on the left includes the design used
+                        on Bentley plate 7, but in this sketch it appears as a headpiece above the
+                        roman numeral indicating the beginning of chapter III, which begins on
+                        Bentley plate 6 in the poem. The mock-up on the right would thus presumably
+                        be for the next plate, Bentley plate 7. The design, apparently showing Thel
+                        standing in front of the "house" of the "matron Clay" (Erdman page 6), was
+                        not used in *The Book of Thel*. This rejected design lends support to the
+                        supposition that Blake originally intended a different ending for his
+                        illuminated book than the one present in all extant copies. The design,
+                        however, might illustrate the present ending of the poem when Thel flees the
+                        house of Clay (the grave) to return to "the vales of Har" (Erdman page 6).
+                        See also the sketch on the verso of this leaf, a preliminary drawing for the
+                        design on Bentley plate 6 of *The Book of Thel*.</p>
+                </objnote>
                 <objsize>22.4 x 31.7 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>This pencil sketch is a preliminary for two plates in Blake's <hi rend="i">The Book of Thel</hi> of 1789.  The mock-up of the plate on the left includes the design used on Bentley plate 7, but in this sketch it appears as a headpiece above the roman numeral indicating the beginning of chapter III, which begins on Bentley plate 6 in the poem.  The mock-up on the right would thus presumably be for the next plate, Bentley plate 7.  The design, apparently showing Thel standing in front of the "house" of the "matron Clay" (Erdman page 6), was not used in <hi rend="i">The Book of Thel</hi>.  In the design at left, a vignette (or headpiece) of Thel, a seated gowned woman in a contracted position with legs drawn up and arms crossed over her knees, occupies the top register above horizontal lines, indicating the position of a text, in the lower half.  The larger figure below her is the "matron Clay"; the smaller figure to the left is the infant "Worm" (Erdman page 6).  The composition at right contains similar horizontal lines indicating text in the upper register while the vignette (or tailpiece) below depicts Thel with outstretched arms in front of the house of Clay as three figures fly or hover above.  These last figures may be Thel's "moans" which "flew o'er my [the Clay's] roof" (Erdman page 6).</illusobjdesc>
+                    <illusobjdesc>This pencil sketch is a preliminary for two plates in Blake's *The
+                        Book of Thel* of 1789. The mock-up of the plate on the left includes the
+                        design used on Bentley plate 7, but in this sketch it appears as a headpiece
+                        above the roman numeral indicating the beginning of chapter III, which
+                        begins on Bentley plate 6 in the poem. The mock-up on the right would thus
+                        presumably be for the next plate, Bentley plate 7. The design, apparently
+                        showing Thel standing in front of the "house" of the "matron Clay" (Erdman
+                        page 6), was not used in *The Book of Thel*. In the design at left, a
+                        vignette (or headpiece) of Thel, a seated gowned woman in a contracted
+                        position with legs drawn up and arms crossed over her knees, occupies the
+                        top register above horizontal lines, indicating the position of a text, in
+                        the lower half. The larger figure below her is the "matron Clay"; the
+                        smaller figure to the left is the infant "Worm" (Erdman page 6). The
+                        composition at right contains similar horizontal lines indicating text in
+                        the upper register while the vignette (or tailpiece) below depicts Thel with
+                        outstretched arms in front of the house of Clay as three figures fly or
+                        hover above. These last figures may be Thel's "moans" which "flew o'er my
+                        [the Clay's] roof" (Erdman page 6).</illusobjdesc>
                     <component type="figure" location="A">
                         <characteristic>female</characteristic>
                         <characteristic>sitting</characteristic>
@@ -227,7 +267,12 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>head down</characteristic>
                         <characteristic>looking</characteristic>
                         <characteristic>Thel</characteristic>
-                        <illusobjdesc>The top half of the rectangular sketch at left depicts a vignette of Thel, a seated gowned woman in a contracted position with legs drawn up and arms crossed over her knees.  Bending forward, she turns her head down; her long hair may be pulled back in a bun.  She may look down at the two smaller figures on the ground in front of her.</illusobjdesc>
+                        <illusobjdesc>The top half of the rectangular sketch at left depicts a
+                            vignette of Thel, a seated gowned woman in a contracted position with
+                            legs drawn up and arms crossed over her knees. Bending forward, she
+                            turns her head down; her long hair may be pulled back in a bun. She may
+                            look down at the two smaller figures on the ground in front of
+                            her.</illusobjdesc>
                     </component>
                     <component type="figure" location="A">
                         <characteristic>infant</characteristic>
@@ -243,7 +288,13 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>looking</characteristic>
                         <characteristic>male</characteristic>
                         <characteristic>Worm</characteristic>
-                        <illusobjdesc>Two smaller figures sit or recline on the ground in front of the seated female figure in the composition at left.  The figure at left, who may lean against the larger figure's gown, is the infant "Worm" (<hi rend="i">The Book of Thel</hi>, Erdman page 6), facing forward and right with legs extended forward, toward the viewer.  This figure has curly hair and is nude.  Its slightly bent arms are visible by its sides, and it may look toward the second figure at right.</illusobjdesc>
+                        <illusobjdesc>Two smaller figures sit or recline on the ground in front of
+                            the seated female figure in the composition at left. The figure at left,
+                            who may lean against the larger figure's gown, is the infant "Worm"
+                            (*The Book of Thel*, Erdman page 6), facing forward and right with legs
+                            extended forward, toward the viewer. This figure has curly hair and is
+                            nude. Its slightly bent arms are visible by its sides, and it may look
+                            toward the second figure at right.</illusobjdesc>
                     </component>
                     <component type="figure" location="A">
                         <characteristic>female</characteristic>
@@ -263,7 +314,16 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>leg bent</characteristic>
                         <characteristic>legs crossed</characteristic>
                         <characteristic>Clod</characteristic>
-                        <illusobjdesc>Two smaller figures sit or recline on the ground in front of the seated female figure in the composition at left.  The figure at right is the "matron Clay" (<hi rend="i">The Book of Thel</hi>, Erdman page 6), a nude female figure who reclines on her side facing forward with head at left turned to look toward her companion at left.  The matron Clay is also referred to in the poem as the "Clod of Clay" (Erdman page 5).  She appears to have short hair.  Her left arm is extended and braced on the ground while her right is raised horizontally to reach or lean forward and touch the shoulder of the infant.  Her legs are extended with the left crossed over the right near the knee.</illusobjdesc>
+                        <illusobjdesc>Two smaller figures sit or recline on the ground in front of
+                            the seated female figure in the composition at left. The figure at right
+                            is the "matron Clay" (*The Book of Thel*, Erdman page 6), a nude female
+                            figure who reclines on her side facing forward with head at left turned
+                            to look toward her companion at left. The matron Clay is also referred
+                            to in the poem as the "Clod of Clay" (Erdman page 5). She appears to
+                            have short hair. Her left arm is extended and braced on the ground while
+                            her right is raised horizontally to reach or lean forward and touch the
+                            shoulder of the infant. Her legs are extended with the left crossed over
+                            the right near the knee.</illusobjdesc>
                     </component>
                     <component type="vegetation" location="A">
                         <characteristic>vine</characteristic>
@@ -271,12 +331,19 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>blossom</characteristic>
                         <characteristic>indeterminate</characteristic>
                         <characteristic>lily</characteristic>
-                        <illusobjdesc>Various types of vegetation surround the three figures depicted in the top half of the sketch at left.  There appear to be vines or perhaps the stems of flowers (perhaps with blossoms?) at right and additional, albeit indeterminate, vegetation at left.  There may be a tall lily visible at left.</illusobjdesc>
+                        <illusobjdesc>Various types of vegetation surround the three figures
+                            depicted in the top half of the sketch at left. There appear to be vines
+                            or perhaps the stems of flowers (perhaps with blossoms?) at right and
+                            additional, albeit indeterminate, vegetation at left. There may be a
+                            tall lily visible at left.</illusobjdesc>
                     </component>
                     <component type="object" location="AC">
                         <characteristic>line</characteristic>
                         <characteristic>text</characteristic>
-                        <illusobjdesc>In the lower half of the rectangular composition at left, horizontal lines act as stand-ins for the lines of text that appear in later versions of plate 6 in <hi rend="i">The Book of Thel</hi>  Above these lines is the chapter number, "III" (see the Textual Transcription).</illusobjdesc>
+                        <illusobjdesc>In the lower half of the rectangular composition at left,
+                            horizontal lines act as stand-ins for the lines of text that appear in
+                            later versions of plate 6 in *The Book of Thel* Above these lines is the
+                            chapter number, "III" (see the Textual Transcription).</illusobjdesc>
                     </component>
                     <component type="figure" location="D">
                         <characteristic>standing</characteristic>
@@ -291,7 +358,16 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>bun</characteristic>
                         <characteristic>Thel</characteristic>
                         <characteristic>fleeing</characteristic>
-                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts Thel, a figure standing before a structure, as three figures fly or hover above.  Thel, who may be gowned, stands or walks facing forward and to the left with one leg extended backward and arms raised between the horizontal and 135 degrees.  This figure may have its hair arranged in a bun(?).  Thel may be fleeing the house, much as she "Fled back unhinderd ... into the vales of Har" at the end of <hi rend="i">The Book of Thel</hi> (Erdman page 6).  The design may be an alternative version for the tailpiece on Bentley plate 7 of <hi rend="i">The Book of Thel</hi>.  The design published in that position is the one depicted upper left in this drawing.</illusobjdesc>
+                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts
+                            Thel, a figure standing before a structure, as three figures fly or
+                            hover above. Thel, who may be gowned, stands or walks facing forward and
+                            to the left with one leg extended backward and arms raised between the
+                            horizontal and 135 degrees. This figure may have its hair arranged in a
+                            bun(?). Thel may be fleeing the house, much as she "Fled back unhinderd
+                            ... into the vales of Har" at the end of *The Book of Thel* (Erdman page
+                            6). The design may be an alternative version for the tailpiece on
+                            Bentley plate 7 of *The Book of Thel*. The design published in that
+                            position is the one depicted upper left in this drawing.</illusobjdesc>
                     </component>
                     <component type="structure" location="D">
                         <characteristic>building</characteristic>
@@ -300,7 +376,13 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>roof</characteristic>
                         <characteristic>post</characteristic>
                         <characteristic>wall</characteristic>
-                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts Thel, a figure standing before a structure, as three figures fly or hover above.  The building appears to be a one-story structure with a slanted roof and vertical posts lining both of the visible exterior walls.  The figure appears to stand in an open doorway (though the door inside is not clearly depicted).  The structure is probably the "house" of the "matron Clay" (Erdman page 6).</illusobjdesc>
+                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts
+                            Thel, a figure standing before a structure, as three figures fly or
+                            hover above. The building appears to be a one-story structure with a
+                            slanted roof and vertical posts lining both of the visible exterior
+                            walls. The figure appears to stand in an open doorway (though the door
+                            inside is not clearly depicted). The structure is probably the "house"
+                            of the "matron Clay" (Erdman page 6).</illusobjdesc>
                     </component>
                     <component type="figure" location="D">
                         <characteristic>flying</characteristic>
@@ -315,7 +397,15 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>leg extended backward</characteristic>
                         <characteristic>shirt</characteristic>
                         <characteristic>pants</characteristic>
-                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts Thel standing before a structure as three figures fly or hover above.  These flying figures may be Thel's "moans" which "flew o'er my [the Clay's] roof" (Erdman page 6).  The highest of these figures is positioned horizontally with head at left, facing left with head up and mouth open(?).  Its arms are raised at 135 degrees with fingers spread.  Both legs are extended with one raised diagonally upward.  This figure appears to wear clothing of some sort (perhaps a shirt and pants?) though the details of these are indistinct.</illusobjdesc>
+                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts
+                            Thel standing before a structure as three figures fly or hover above.
+                            These flying figures may be Thel's "moans" which "flew o'er my [the
+                            Clay's] roof" (Erdman page 6). The highest of these figures is
+                            positioned horizontally with head at left, facing left with head up and
+                            mouth open(?). Its arms are raised at 135 degrees with fingers spread.
+                            Both legs are extended with one raised diagonally upward. This figure
+                            appears to wear clothing of some sort (perhaps a shirt and pants?)
+                            though the details of these are indistinct.</illusobjdesc>
                     </component>
                     <component type="figure" location="D">
                         <characteristic>flying</characteristic>
@@ -327,7 +417,13 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>legs extended</characteristic>
                         <characteristic>legs together</characteristic>
                         <characteristic>looking</characteristic>
-                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts a figure entering or exiting a structure as three figures fly or hover above.  These flying figures may be Thel's "moans" which "flew o'er my [the Clay's] roof" (Erdman page 6).  The middle figure is positioned horizontally with head at left, facing forward, and appears to wear a gown.  Its arms are bent upward and legs extended together.  The figure may look down toward the standing figure of Thel below.</illusobjdesc>
+                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts
+                            a figure entering or exiting a structure as three figures fly or hover
+                            above. These flying figures may be Thel's "moans" which "flew o'er my
+                            [the Clay's] roof" (Erdman page 6). The middle figure is positioned
+                            horizontally with head at left, facing forward, and appears to wear a
+                            gown. Its arms are bent upward and legs extended together. The figure
+                            may look down toward the standing figure of Thel below.</illusobjdesc>
                     </component>
                     <component type="figure" location="D">
                         <characteristic>flying</characteristic>
@@ -341,7 +437,16 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arms reaching downward</characteristic>
                         <characteristic>leg extended backward</characteristic>
                         <characteristic>leg bent at knee</characteristic>
-                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts a figure entering or exiting a structure as three figures fly or hover above.  These flying figures may be Thel's "moans" which "flew o'er my [the Clay's] roof" (Erdman page 6).  The lowest of these figures is also the smallest and may be a child or infant.  This figure is positioned diagonally downward with head at right, facing right perhaps to look at the standing figure of Thel below.  Both arms appears to be raised horizontally and may reach toward the standing figure.  It may extend one leg backward and bend one leg at the knee, though these details are indistinct.</illusobjdesc>
+                        <illusobjdesc>The vignette in the bottom half of the sketch at right depicts
+                            a figure entering or exiting a structure as three figures fly or hover
+                            above. These flying figures may be Thel's "moans" which "flew o'er my
+                            [the Clay's] roof" (Erdman page 6). The lowest of these figures is also
+                            the smallest and may be a child or infant. This figure is positioned
+                            diagonally downward with head at right, facing right perhaps to look at
+                            the standing figure of Thel below. Both arms appears to be raised
+                            horizontally and may reach toward the standing figure. It may extend one
+                            leg backward and bend one leg at the knee, though these details are
+                            indistinct.</illusobjdesc>
                     </component>
                     <component type="vegetation" location="D">
                         <characteristic>tree</characteristic>
@@ -349,27 +454,48 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>branch</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>vine</characteristic>
-                        <illusobjdesc>Along the left edge of the vignette in the composition at right, a large tree is visible.  Its thick trunk, which may be wrapped with vines near the base, grows up the left margin.  Several short branches, perhaps with leaves, are visible at left while, at right, one sizeable branch appears to grow rightward along the upper margin of the scene, above the three flying figures.  This branch produces several smaller branches that may have leaves that grow downward near the right side of the design and hang over the roof of the structure below.  Alternatively, the lines upper right in this vignette may be clouds and/or background hills.</illusobjdesc>
+                        <illusobjdesc>Along the left edge of the vignette in the composition at
+                            right, a large tree is visible. Its thick trunk, which may be wrapped
+                            with vines near the base, grows up the left margin. Several short
+                            branches, perhaps with leaves, are visible at left while, at right, one
+                            sizeable branch appears to grow rightward along the upper margin of the
+                            scene, above the three flying figures. This branch produces several
+                            smaller branches that may have leaves that grow downward near the right
+                            side of the design and hang over the roof of the structure below.
+                            Alternatively, the lines upper right in this vignette may be clouds
+                            and/or background hills.</illusobjdesc>
                         <component type="object" location="D">
                             <characteristic>hill</characteristic>
                             <characteristic>cloud</characteristic>
-                            <illusobjdesc>In the vignette lower right, the lines upper right may be part of the large tree growing left of the house, but might be independent motifs such as clouds or background hills.</illusobjdesc>
+                            <illusobjdesc>In the vignette lower right, the lines upper right may be
+                                part of the large tree growing left of the house, but might be
+                                independent motifs such as clouds or background
+                                hills.</illusobjdesc>
                         </component>
                     </component>
                     <component type="object" location="BD">
                         <characteristic>line</characteristic>
                         <characteristic>text</characteristic>
-                        <illusobjdesc>In the top half of the rectangular composition at right, horizontal lines act as stand-ins for the lines of text; however, this plate design was replaced in the final version of <hi rend="i">The Book of Thel</hi>.</illusobjdesc>
+                        <illusobjdesc>In the top half of the rectangular composition at right,
+                            horizontal lines act as stand-ins for the lines of text; however, this
+                            plate design was replaced in the final version of *The Book of
+                            Thel*.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
             <phystext>
                 <vspace extent="20"/>
                 <lg justify="left">
-                    <l n="but218r.1.penink.01.01" justify="left">III<note>This roman numeral, written in pencil by Blake, is a chapter number for <hi rend="i">The Book of Thel</hi>.  In that book, chapter III begins on Bentley plate 6.</note></l>
-                    <l n="but218r.1.penink.01.02" justify="left" indent="44">By William Blake<note>This pen and ink inscription, lines 2-4, is by Frederick Tatham.</note></l>
+                    <l n="but218r.1.penink.01.01" justify="left">III<note>This roman numeral,
+                            written in pencil by Blake, is a chapter number for *The Book of Thel*.
+                            In that book, chapter III begins on Bentley plate 6.</note></l>
+                    <l n="but218r.1.penink.01.02" justify="left" indent="44">By William
+                            Blake<note>This pen and ink inscription, lines 2-4, is by Frederick
+                            Tatham.</note></l>
                     <l n="but218r.1.penink.01.03" justify="left" indent="44">attested by</l>
-                    <l n="but218r.1.penink.01.04" justify="left" indent="46"><hi rend="underscore">Frederick Tatham</hi></l>
+                    <l n="but218r.1.penink.01.04" justify="left" indent="46">
+                        <hi rend="underscore">Frederick Tatham</hi>
+                    </l>
                 </lg>
             </phystext>
         </desc>
