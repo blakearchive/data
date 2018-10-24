@@ -1,44 +1,36 @@
-<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="but77v.1" type="penc" work="Lower Half of a Woman Playing a Harp" copy="1" copyid="1" institution="tate" catalog="butlin" catid="77v" hidden="false">
+
+<bad id="but77v.1" type="penc" work="Lower Half of a Woman Playing a Harp" copy="1" copyid="1"
+    institution="tate" catalog="butlin" catid="77v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Lower Half of a Woman Playing a Harp">
-                    <main>Lower Half of a Woman Playing a Harp</main>
-: electronic edition
-</title>
+                    <main>Lower Half of a Woman Playing a Harp</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>May 2014</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2015 Tate Collection
-      </userestrict>
+        <userestrict>Copyright © <date>2015</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2015 Tate Collection </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -47,10 +39,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -92,10 +83,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -127,10 +117,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -148,15 +137,16 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        *Lower Half of a Woman Playing a Harp*
-                    </title>
+                    <title> *Lower Half of a Woman Playing a Harp* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
-                
-                <compdate value="1785">c. 1785<note>This drawing is dated to c. 1780 in Butlin 77 verso, but revised to c. 1785 in Martin Butlin, *William Blake 1757-1827*, Tate Gallery Collections: Volume Five (London: Tate Gallery, 1990) 55-56.</note>
+
+                <compdate value="1785">c. 1785<note>This drawing is dated to c. 1780 in Butlin 77
+                        verso, but revised to c. 1785 in Martin Butlin, *William Blake 1757-1827*,
+                        Tate Gallery Collections: Volume Five (London: Tate Gallery, 1990)
+                        55-56.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -167,7 +157,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <medium>pencil</medium>
                 <support>wove paper</support>
                 <watermark>J WHATMAN</watermark>
-                <pennednumbers>none<note>The pencil letters and numbers and the inscription in red, both lower right, are not by Blake.  The pencil inscription relates to the Tate Collection acquisition number.</note></pennednumbers>
+                <pennednumbers>none<note>The pencil letters and numbers and the inscription in red,
+                        both lower right, are not by Blake. The pencil inscription relates to the
+                        Tate Collection acquisition number.</note></pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
@@ -176,7 +168,13 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1922</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Probably inherited by Blake's wife Catherine at his death in 1827; acquired by Frederick Tatham, probably at Catherine Blake's death in 1831; Tatham's brother-in-law, George Richmond; sold from Richmond's collection, Christie's, 29 April 1897, lot 147 with 21 other works, most by Blake and his brother Robert (&#163;2.10s. to Richard Sisley); Sisley's daughter, Mrs. John Richmond, probably by gift or inheritance; given by Mrs. Richmond to the Tate Gallery (now Tate Collection) in 1922.</note>
+                <note>Probably inherited by Blake's wife Catherine at his death in 1827; acquired by
+                    Frederick Tatham, probably at Catherine Blake's death in 1831; Tatham's
+                    brother-in-law, George Richmond; sold from Richmond's collection, Christie's, 29
+                    April 1897, lot 147 with 21 other works, most by Blake and his brother Robert
+                    (&#163;2.10s. to Richard Sisley); Sisley's daughter, Mrs. John Richmond,
+                    probably by gift or inheritance; given by Mrs. Richmond to the Tate Gallery (now
+                    Tate Collection) in 1922.</note>
             </provenance>
             <repository>
                 <institution>Tate Collection</institution>
@@ -195,34 +193,56 @@ granted by the owners of the originals for this publication only.<lb/>
         </source>
         <desc id="but77v.1.penc.01" dbi="BUT77.1.1v.PD">
             <objtitle>
-                <title type="transcribed">Lower Half of a Woman Playing a Harp</title>,
-<objid>
+                <title type="transcribed">Lower Half of a Woman Playing a Harp</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
                     <objcode code="UI">(Butlin 77 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>Brown stains cover much of this leaf.  This design is the lower half of a drawing.  For the upper half, see *Woman Playing a Harp*, Butlin 76 verso.  For the sketch on the recto of this leaf, see <hi rend="i">Seraphim and Other Drawings</hi>.</p></objnote>
+                <objnote>
+                    <p>Brown stains cover much of this leaf. This design is the lower half of a
+                        drawing. For the upper half, see *Woman Playing a Harp*, Butlin 76 verso.
+                        For the sketch on the recto of this leaf, see *Seraphim and
+                            Other Drawings*.</p>
+                </objnote>
                 <objsize>26.8 x 45.0 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <related objectid="but76v.1.penc.01"/>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>A gowned figure visible from the waist down is depicted in this drawing.  The figure is seated with knees turned to the left.  It is unclear whether the chair on which she sits is visible next to her hips at right or if this material is part of the gown's drapery.  Two vertical lines appear near the left edge of the design, and two right hands, one above the other, are shown behind these lines with palms facing forward, fingers pointing left, though with different gestures.  This drawing is the bottom half of a drawing, *Woman Playing a Harp*, Butlin 76 verso, that shows the upper half of a seated girl playing the harp, indicating the figure in this drawing is likely female.  The sketched hands at left may be alternative ideas for the girl's right hand plucking the harp-strings shown in the upper half of the related drawing.</illusobjdesc>
+                    <illusobjdesc>A gowned figure visible from the waist down is depicted in this
+                        drawing. The figure is seated with knees turned to the left. It is unclear
+                        whether the chair on which she sits is visible next to her hips at right or
+                        if this material is part of the gown's drapery. Two vertical lines appear
+                        near the left edge of the design, and two right hands, one above the other,
+                        are shown behind these lines with palms facing forward, fingers pointing
+                        left, though with different gestures. This drawing is the bottom half of a
+                        drawing, *Woman Playing a Harp*, Butlin 76 verso, that shows the upper half
+                        of a seated girl playing the harp, indicating the figure in this drawing is
+                        likely female. The sketched hands at left may be alternative ideas for the
+                        girl's right hand plucking the harp-strings shown in the upper half of the
+                        related drawing.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>sitting</characteristic>
                         <characteristic>gown</characteristic>
                         <characteristic>facing left</characteristic>
                         <characteristic>legs bent</characteristic>
                         <characteristic>female</characteristic>
-                        <illusobjdesc>A gowned figure visible from the waist down is depicted in this drawing.  The figure is seated with knees turned to the left.  This drawing is the bottom half of a related drawing, Woman Playing a Harp*, Butlin 76 verso, that shows the upper half of a seated girl playing the harp, indicating the figure in this drawing is likely female.</illusobjdesc>
+                        <illusobjdesc>A gowned figure visible from the waist down is depicted in
+                            this drawing. The figure is seated with knees turned to the left. This
+                            drawing is the bottom half of a related drawing, Woman Playing a Harp*,
+                            Butlin 76 verso, that shows the upper half of a seated girl playing the
+                            harp, indicating the figure in this drawing is likely
+                            female.</illusobjdesc>
                     </component>
                     <component type="object" location="BD">
                         <characteristic>seat</characteristic>
                         <characteristic>chair</characteristic>
                         <characteristic>drapery</characteristic>
-                        <illusobjdesc>It is unclear whether the chair on which the figure sits is visible next to her hips at right or if this material is part of the gown's drapery.</illusobjdesc>
+                        <illusobjdesc>It is unclear whether the chair on which the figure sits is
+                            visible next to her hips at right or if this material is part of the
+                            gown's drapery.</illusobjdesc>
                     </component>
                     <component type="figure" location="AC">
                         <characteristic>hands raised palms out</characteristic>
@@ -230,13 +250,23 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>fingers</characteristic>
                         <characteristic>fingers spread</characteristic>
                         <characteristic>playing</characteristic>
-                        <illusobjdesc>Two right hands, one above the other, are shown behind two vertical lines near the left edge of the design.  The palms face forward with fingers pointing left, but with different gestures.  The index finger of the upper hand is bent toward the palm whereas all fingers of the lower hand appear to be extended and spread.  Because a girl is shown playing a harp in the related upper half of this work (*Woman Playing a Harp*, Butlin 76 verso), the sketched hands may be alternative ideas for the girl's right hand plucking the harp-strings.</illusobjdesc>
+                        <illusobjdesc>Two right hands, one above the other, are shown behind two
+                            vertical lines near the left edge of the design. The palms face forward
+                            with fingers pointing left, but with different gestures. The index
+                            finger of the upper hand is bent toward the palm whereas all fingers of
+                            the lower hand appear to be extended and spread. Because a girl is shown
+                            playing a harp in the related upper half of this work (*Woman Playing a
+                            Harp*, Butlin 76 verso), the sketched hands may be alternative ideas for
+                            the girl's right hand plucking the harp-strings.</illusobjdesc>
                     </component>
                     <component type="object" location="AC">
                         <characteristic>line</characteristic>
                         <characteristic>string</characteristic>
                         <characteristic>harp</characteristic>
-                        <illusobjdesc>The two vertical lines visible near the left edge of the design may represent strings of a harp that the figure plays in the related upper half of this work *Woman Playing a Harp*, Butlin 76 verso).</illusobjdesc>
+                        <illusobjdesc>The two vertical lines visible near the left edge of the
+                            design may represent strings of a harp that the figure plays in the
+                            related upper half of this work *Woman Playing a Harp*, Butlin 76
+                            verso).</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
