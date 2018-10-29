@@ -1,10 +1,13 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc"
-    catalog="butlin" catid="78r" hidden="false">
+<bad id="but73v.1" type="penc"
+    work="Study for ‘Glad Day,’ ‘Albion Rose’ or ‘The Dance of Albion’: The Same Figure Seen from Behind"
+    copy="1" copyid="1" institution="vanda" catalog="butlin" catid="73v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main> : electronic edition </title>
+                <title
+                    reg="Study for ‘Glad Day,’ ‘Albion Rose’ or ‘The Dance of Albion’: The Same Figure Seen from Behind">
+                    <main>Study for "Glad Day," "Albion Rose" or "The Dance of Albion": The Same
+                        Figure Seen from Behind</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -79,7 +82,7 @@
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication only.<lb/>
-            This image copyright © 2018 National Gallery of Art, Washington, DC </userestrict>
+            This image copyright © 2018 Victoria and Albert Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -163,7 +166,7 @@
             </changestmt>
             <changestmt>
                 <change>Image acquired and catalogued</change>
-                <date>September 2002</date>
+                <date>May 2003</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -174,11 +177,13 @@
                     <resp>Project Manager: </resp>
                     <name>Andrea Dickens</name>
                     <resp>Project Assistants: </resp>
+                    <name>Amy Havlan, </name>
                     <name>Christopher N. Jackson, </name>
                     <name>Kari Kraus, </name>
+                    <name>Gerald Miller, </name>
                     <name>Wayne C. Ripley, </name>
                     <name>Sarah Trippensee, </name>
-                    <name>Justin Scott Van Kleeck</name>
+                    <name>Justin Van Kleeck</name>
                 </respstmt>
             </changestmt>
         </revisiondesc>
@@ -187,112 +192,170 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title> *A Warring Angel* </title>
+                    <title> *Study for "Glad Day," "Albion Rose" or "The Dance of Albion": The Same
+                        Figure Seen from Behind* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic
-                        considerations.</note>
+                <compdate value="1780">c. 1780<note>The date of this drawing is based on the "1780"
+                        date inscribed on "Albion rose," Blake's etching/engraving of the same
+                        design as the sketch on the recto of this drawing. This verso sketch was
+                        very probably executed at about the same time as the recto drawing.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>20.6 x 28.8 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>20.6 x 28.8 cm.</leafsize>
                 <medium>pencil</medium>
-                <support>laid paper</support>
+                <support>wove paper</support>
                 <watermark>none</watermark>
                 <pennednumbers>none</pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
-                <dealer>none</dealer>
-                <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by
-                    A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by
-                    no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art,
-                    Washington, D. C.</note>
+                <name>Victoria and Albert Museum</name>
+                <date>1881</date>
+                <dealer>E. Parsons</dealer>
+                <price>not recorded</price>
+                <note>Probably inherited by Blake's wife Catherine at his death in 1827; by
+                    inheritance to Frederick Tatham upon Catherine Blake's death in 1831; apparently
+                    sold by Tatham to the dealer Joseph Hogarth; sold from Hogarth's stock,
+                    Southgate and Barrett auction, London, 7 June 1854 and seventeen following days,
+                    lot 4180 on the tenth day, with three other works by Blake (6s. to the dealer H.
+                    Palser); the dealer E. Parsons; sold by Parsons to the Victoria and Albert
+                    Museum in 1881.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland
-                    20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services:
-                    http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>Victoria and Albert Museum</institution>
+                <addressline>South Kensington</addressline>
+                <addressline>Cromwell Road</addressline>
+                <addressline>London SW7 2RL</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: +44 (0)20 7942 2000</addressline>
+                <addressline>Telephone, Images Agency: +44 (0)20 7942 2479</addressline>
+                <addressline>Fax, Images Agency: +44 (0)20 7942 2482</addressline>
+                <addressline>URL: http://www.vam.ac.uk/</addressline>
+                <addressline>URL, Finding and Buying Images:
+                    http://www.vam.ac.uk/resources/buying/index.html</addressline>
+                <repositoryid label="Accession number">8764.c</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but73v.1.penc.01" dbi="BUT73.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>, <objid>
+                <title type="transcribed">Study for "Glad Day," "Albion Rose" or "The Dance of
+                    Albion": The Same Figure Seen from Behind</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 73 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps
-                    the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote>
+                    <p>The Victoria and Albert accession number is inscribed in pen and ink lower
+                        right. For the pencil sketch on the recto, see *Study for "Glad Day,"
+                        "Albion Rose" or "The Dance of Albion"*.</p>
+                </objnote>
+                <objsize>20.6 x 28.8 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent
-                        buttocks stands on the right side of the composition. Although his body
-                        faces away from the viewer, he turns his head to face left so that his face
-                        is seen in profile. His hair is short; his expression and furrowed brow
-                        suggest anger. Leaning slightly to the left, he raises his left arm
-                        horizontally with palm facing away and fingers spread. His right arm is by
-                        his side, and he carries a weapon (perhaps a stick or rod?) in his right
-                        hand. He raises his right heel slightly, which may suggest impending
-                        movement leftward.</illusobjdesc>
+                    <illusobjdesc>A single male figure seen from behind stands in the center of this
+                        composition. The figure is nude with prominent buttocks and has short curly
+                        hair. His head is tilted up and both arms are raised horizontally, turning
+                        them so that both wrists face up and palms out. His fingers, which are
+                        noticeably long, are spread with thumbs pointing up. The expressiveness of
+                        this position may communicate the figure's ecstasy. There are additional
+                        lines sketched in and near the palms of both hands, though the
+                        representational meaning of these is not clear. They may be alternative
+                        positions for the fingers. A small circular object, perhaps a ball(?), is
+                        visible above and right of his straightened right leg. This circle may be a
+                        later addition not by Blake. The figure raises his left leg, which is bent
+                        slightly backward at the knee, at 45 degrees. He points his toes of his left
+                        foot to the left where they appear to touch or rest on tiptoe on a
+                        serpentine diagonal line that extends from the center of the lower edge of
+                        the design (below the figure's right foot) to the left side of the
+                        composition by the figure's left hand. This line may indicate a geological
+                        form such as the outline of a rocky cliff. A horizontal line bisects the
+                        right side of the scene and a semicircular shape, likely a rising or setting
+                        sun, is visible above this line. The figure is likely the same character in
+                        a different position as the one sketched on the recto of this composition, a
+                        preliminary drawing for Blake's etching/engraving, "Albion rose." The figure
+                        is not specifically identified as Albion until the inscription added to the
+                        plate c. 1820.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
-                        <characteristic>standing</characteristic>
                         <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
                         <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
+                        <characteristic>facing up</characteristic>
                         <characteristic>nude</characteristic>
                         <characteristic>buttocks</characteristic>
+                        <characteristic>standing</characteristic>
                         <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
                         <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with
-                            prominent buttocks stands on the right side of the composition. Although
-                            his body faces away from the viewer, he turns his head to face left so
-                            that his face is seen in profile. His hair is short; his expression and
-                            furrowed brow suggest anger. Leaning slightly to the left, he raises his
-                            left arm horizontally with palm facing away and fingers spread. His
-                            right arm is by his side, and he carries a weapon (perhaps a stick or
-                            rod?) in his right hand. He raises his right heel slightly, which may
-                            suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>palms out</characteristic>
+                        <characteristic>ecstasy</characteristic>
+                        <characteristic>pentimento</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>tiptoe</characteristic>
+                        <characteristic>Albion</characteristic>
+                        <illusobjdesc>A single male figure seen from behind stands in the center of
+                            this composition. The figure is nude with prominent buttocks and has
+                            short curly hair. His head is tilted up and both arms are raised
+                            horizontally, turning them so that both wrists face up and palms out.
+                            His fingers, which are noticeably long, are spread with thumbs pointing
+                            up. The expressiveness of this position may communicate the figure's
+                            ecstasy. There are additional lines sketched in and near the palms of
+                            both hands, though the representational meaning of these is not clear.
+                            They may be alternative positions for the fingers. Standing on a
+                            straightened right leg, the figure raises his left leg, which is bent
+                            slightly backward at the knee, at 45 degrees. He points his toes of his
+                            left foot to the left where they appear to touch or rest on tiptoe on a
+                            serpentine diagonal line that extends from the center of the lower edge
+                            of the design (below the figure's right foot) to the left side of the
+                            composition by his left hand. The figure is likely the same character in
+                            a different position as the one sketched on the recto of this
+                            composition, a preliminary drawing for Blake's etching/engraving,
+                            "Albion rose." The figure is not specifically identified as Albion until
+                            the inscription added to the plate c. 1820.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps
-                            a stick or rod?) in his right hand, held by his right
-                            side.</illusobjdesc>
+                    <component type="object" location="CD">
+                        <characteristic>ball</characteristic>
+                        <characteristic>sphere</characteristic>
+                        <characteristic>circle</characteristic>
+                        <illusobjdesc>A small circular object, perhaps a ball(?), is visible above
+                            and right of the figure's straightened right leg. This may be a later
+                            addition not by Blake.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AC">
+                        <characteristic>cave</characteristic>
+                        <characteristic>cliff</characteristic>
+                        <illusobjdesc>line</illusobjdesc>
+                        <characteristic>serpentine</characteristic>
+                        <characteristic>stone</characteristic>
+                        <illusobjdesc>The figure's raised left leg appears to touch or rest on a
+                            serpentine diagonal line that extends from the center of the lower edge
+                            of the design (below the figure's right foot) to the left side of the
+                            composition by the figure's left hand. This line may indicate a
+                            geological form such as the outline of a rocky cliff.</illusobjdesc>
+                    </component>
+                    <component type="object" location="BD">
+                        <characteristic>line</characteristic>
+                        <characteristic>sun</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <illusobjdesc>A horizontal line bisects the right side of the scene and a
+                            semicircular shape, likely a rising or setting sun, is visible above
+                            this line.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

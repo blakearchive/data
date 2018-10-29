@@ -1,10 +1,11 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc"
-    catalog="butlin" catid="78r" hidden="false">
+
+<bad id="but76v.1" type="penc" work="Woman Playing a Harp" copy="1" copyid="1"
+    institution="rosenbach" catalog="butlin" catid="76v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main> : electronic edition </title>
+                <title reg="Woman Playing a Harp">
+                    <main>Woman Playing a Harp</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -17,11 +18,10 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
                 to 1100KB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October
-                    2018</date>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October 2018</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            <updatestmt>The William Blake Archive is pleased to announce the publication of a
+<updatestmt>The William Blake Archive is pleased to announce the publication of a
                 digital edition of forty-three pencil drawings produced by Blake during his first
                 decade as an independent artist, 1779-1790. Drawing lies at the core of Blake's life
                 as an artist. Pencil was his preferred medium for sketching—more flexible, less
@@ -53,7 +53,7 @@
                 precise copying and to the neoclassical emphasis on outline. The first four works
                 may have been drawn while Blake was a student in the Royal Academy schools. Other
                 sketches are preliminaries for some of Blake’s most important designs. Among these
-                are the *Study for “Glad Day”, or “Albion Rose”* ( Object 6), Blake’s iconic vision
+                are the *Study for “Glad Day”, or “Albion Rose”* (Object 6), Blake’s iconic vision
                 of the human form divine in energetic pose, and three sketches (Objects 34-36) for
                 illustrations to *Tiriel*, the only group of finished drawings Blake composed for
                 one of his own poems. Several sketches are early efforts at picturing events in the
@@ -79,7 +79,7 @@
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication only.<lb/>
-            This image copyright © 2018 National Gallery of Art, Washington, DC </userestrict>
+            This image copyright © 2018 Rosenbach Museum and Library </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -124,6 +124,7 @@
                 </respstmt>
             </changestmt>
             <changestmt>
+                <changestmt>
                 <change>BAD created</change>
                 <date>July 2015</date>
                 <respstmt>
@@ -161,25 +162,23 @@
                     <name>Alia Wegner,</name>
                 </respstmt>
             </changestmt>
-            <changestmt>
-                <change>Image acquired and catalogued</change>
-                <date>September 2002</date>
-                <respstmt>
-                    <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
-                    <name>Matthew Kirschenbaum</name>
-                    <name>Andrea Laue</name>
-                    <resp>Project Manager: </resp>
-                    <name>Andrea Dickens</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Christopher N. Jackson, </name>
-                    <name>Kari Kraus, </name>
-                    <name>Wayne C. Ripley, </name>
-                    <name>Sarah Trippensee, </name>
-                    <name>Justin Scott Van Kleeck</name>
-                </respstmt>
+            <change>Image acquired and catalogued</change>
+                <date>December 2011</date>
+                <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+                        <name>Robert Essick, </name>University of California, Riverside; and
+                        <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                        <resp>Technical Editor:</resp><name>William Shaw</name><resp>Project
+                        Manager:</resp><name>Ashley Reed</name><resp>Bibliographer:</resp><name>Mark
+                        Crosby</name><resp>Project Coordinator, University of
+                        Rochester:</resp><name>Rachel Lee</name><resp>Project Assistants:
+                        </resp><name>Esther Arnold, </name><name>Kate Attkisson, </name><name>Laura
+                        Bell, </name><name>Lauren Cameron, </name><name>Katherine Carlson,
+                        </name><name>Cassandra Etter-Wenzel, </name><name>Andrea Everett,
+                        </name><name>Joseph Fletcher, </name><name>Elizabeth Goodfellow,
+                        </name><name>Ali McGhee, </name><name>Jennifer Park, </name><name>Adair
+                        Rispoli, </name><name>Sarah Shaw, </name><name>Hardeep Sidhu,
+                        </name><name>Sarah Tolf, </name><name>Nikolaus Wasmoen, </name><name>Bihan
+                        Zhang</name></respstmt>
             </changestmt>
         </revisiondesc>
     </header>
@@ -187,112 +186,117 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title> *A Warring Angel* </title>
+                    <title> *Woman Playing a Harp* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic
-                        considerations.</note>
+                <compdate value="1785">c. 1785<note>This drawing is dated to c. 1780 in Butlin 76
+                        verso, but revised to c. 1785 in Martin Butlin, *William Blake 1757-1827*,
+                        Tate Gallery Collections: Volume Five (London: Tate Gallery, 1990)
+                        55-56.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>28.5 x 42.1 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>28.5 x 42.1 cm.</leafsize>
                 <medium>pencil</medium>
-                <support>laid paper</support>
+                <support>wove paper</support>
                 <watermark>none</watermark>
                 <pennednumbers>none</pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
+                <name>Rosenbach Museum and Library</name>
+                <date>1954</date>
                 <dealer>none</dealer>
-                <price>gift</price>
+                <price>gift or bequest</price>
                 <note>Early history not known; William A. White by no later than 1905; acquired by
-                    A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by
-                    no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art,
-                    Washington, D. C.</note>
+                    A. S. W. Rosenbach shortly after White's death in 1927; acquired, by gift or
+                    bequest, by the Rosenbach Museum and Library in 1954.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland
-                    20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services:
-                    http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>Rosenbach Museum and Library</institution>
+                <addressline>2008-2010 Delancey Place</addressline>
+                <addressline>Philadelphia, PA 19103</addressline>
+                <addressline>USA</addressline>
+                <addressline>Telephone: 1-215-732-1600</addressline>
+                <addressline>Fax: 1-215-545-7529</addressline>
+                <addressline>Email: info@rosenbach.org</addressline>
+                <addressline>URL: http://www.rosenbach.org</addressline>
+                <department>Library Division</department>
+                <repositoryid label="Call number">1954.0012</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but76v.1.penc.01" dbi="BUT76.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>, <objid>
+                <title type="transcribed">Woman Playing a Harp</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 76 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps
-                    the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote>
+                    <p>This is the upper half of a drawing. For the lower half, see *Lower Half of a
+                        Woman Playing a Harp*, Butlin 77 verso. The lower half of the drawing shows
+                        that the figure is seated. For the sketch on the recto, see *Joseph of
+                        Arimathea Preaching to the Inhabitants of Britain*.</p>
+                </objnote>
+                <objsize>28.5 x 42.1 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent
-                        buttocks stands on the right side of the composition. Although his body
-                        faces away from the viewer, he turns his head to face left so that his face
-                        is seen in profile. His hair is short; his expression and furrowed brow
-                        suggest anger. Leaning slightly to the left, he raises his left arm
-                        horizontally with palm facing away and fingers spread. His right arm is by
-                        his side, and he carries a weapon (perhaps a stick or rod?) in his right
-                        hand. He raises his right heel slightly, which may suggest impending
-                        movement leftward.</illusobjdesc>
+                    <illusobjdesc>Depicted from the waist up in the center of the composition, a
+                        single female figure with long, curly hair plays a harp that rests against
+                        her right shoulder. She wears a gown that emphasizes her ample breasts, and
+                        her mouth appears to be open. She may be singing. She may wear a ribbon or
+                        band in her hair. Facing forward and slightly left, she bends her raised
+                        right arm upward to pluck the harp's strings with bent fingers and palm
+                        facing forward. Her left arm is extended horizontally, slightly bent, and
+                        with spread fingers she plays the instrument with this hand as well. The
+                        upper frame of the harp, visible top left, appears to be ornamented or
+                        finely sculpted.</illusobjdesc>
                     <component type="figure" location="E">
-                        <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>singing</characteristic>
+                        <characteristic>facing forward</characteristic>
                         <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>band</characteristic>
+                        <characteristic>mouth open</characteristic>
                         <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with
-                            prominent buttocks stands on the right side of the composition. Although
-                            his body faces away from the viewer, he turns his head to face left so
-                            that his face is seen in profile. His hair is short; his expression and
-                            furrowed brow suggest anger. Leaning slightly to the left, he raises his
-                            left arm horizontally with palm facing away and fingers spread. His
-                            right arm is by his side, and he carries a weapon (perhaps a stick or
-                            rod?) in his right hand. He raises his right heel slightly, which may
-                            suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>gown</characteristic>
+                        <characteristic>breasts</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>hand raised palm out</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <illusobjdesc>Depicted from the waist up in the center of the composition, a
+                            single female figure with long, curly hair plays a harp that rests
+                            against her right shoulder. She wears a gown that emphasizes her ample
+                            breasts, and her mouth appears to be open; she may be singing. She may
+                            wear a ribbon or band in her hair. Facing forward and slightly left, she
+                            bends her raised right arm upward to pluck the harp's strings with bent
+                            fingers and palm facing forward. Her left arm is extended horizontally,
+                            slightly bent, and with spread fingers she plays the instrument with
+                            this hand as well.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps
-                            a stick or rod?) in his right hand, held by his right
-                            side.</illusobjdesc>
+                    <component type="object" location="AC">
+                        <characteristic>harp</characteristic>
+                        <characteristic>string</characteristic>
+                        <illusobjdesc>The single female figure in this drawing holds or rests a
+                            large harp against her right shoulder. She plays the strings of the
+                            instrument with both hands. The upper frame of the harp, visible top
+                            left, appears to be ornamented or finely sculpted.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

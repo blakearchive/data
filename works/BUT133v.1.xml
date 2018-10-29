@@ -1,10 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc"
-    catalog="butlin" catid="78r" hidden="false">
+<bad id="but133v.1" type="penc" work="Old Man Sitting" copy="1" copyid="1" institution="morgan"
+    catalog="butlin" catid="133v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main> : electronic edition </title>
+                <title reg="Old Man Sitting">
+                    <main>Old Man Sitting</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -17,11 +17,10 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
                 to 1100KB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October
-                    2018</date>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October 2018</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            <updatestmt>The William Blake Archive is pleased to announce the publication of a
+<updatestmt>The William Blake Archive is pleased to announce the publication of a
                 digital edition of forty-three pencil drawings produced by Blake during his first
                 decade as an independent artist, 1779-1790. Drawing lies at the core of Blake's life
                 as an artist. Pencil was his preferred medium for sketching—more flexible, less
@@ -53,7 +52,7 @@
                 precise copying and to the neoclassical emphasis on outline. The first four works
                 may have been drawn while Blake was a student in the Royal Academy schools. Other
                 sketches are preliminaries for some of Blake’s most important designs. Among these
-                are the *Study for “Glad Day”, or “Albion Rose”* ( Object 6), Blake’s iconic vision
+                are the *Study for “Glad Day”, or “Albion Rose”* (Object 6), Blake’s iconic vision
                 of the human form divine in energetic pose, and three sketches (Objects 34-36) for
                 illustrations to *Tiriel*, the only group of finished drawings Blake composed for
                 one of his own poems. Several sketches are early efforts at picturing events in the
@@ -79,7 +78,7 @@
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication only.<lb/>
-            This image copyright © 2018 National Gallery of Art, Washington, DC </userestrict>
+            This image copyright © 2018 Morgan Library and Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -125,7 +124,7 @@
             </changestmt>
             <changestmt>
                 <change>BAD created</change>
-                <date>July 2015</date>
+                <date>November 2015</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -161,47 +160,31 @@
                     <name>Alia Wegner,</name>
                 </respstmt>
             </changestmt>
-            <changestmt>
-                <change>Image acquired and catalogued</change>
-                <date>September 2002</date>
-                <respstmt>
-                    <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
-                    <name>Matthew Kirschenbaum</name>
-                    <name>Andrea Laue</name>
-                    <resp>Project Manager: </resp>
-                    <name>Andrea Dickens</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Christopher N. Jackson, </name>
-                    <name>Kari Kraus, </name>
-                    <name>Wayne C. Ripley, </name>
-                    <name>Sarah Trippensee, </name>
-                    <name>Justin Scott Van Kleeck</name>
-                </respstmt>
-            </changestmt>
+            <changestmt><change>Final proofing and publication</change><date>July 2008</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+               <name>Robert Essick, </name>University of California, Riverside; and
+               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+               <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Assistants: </resp><name>Esther Arnold, </name><name>Kate Attkisson, </name><name>Kit Curtin, </name><name>Christopher N. Jackson, </name><name>Sarah Jones, </name><name>Lauren Klapper-Lehman, </name><name>Michelle Langston, </name><name>Rachel Lee, </name><name>Ali McGhee, </name><name>Wayne C. Ripley,</name><name>Adair Rispoli, </name><name>Sarah Tolf</name></respstmt></changestmt>
         </revisiondesc>
     </header>
     <objdesc>
         <source>
             <objdescid>
                 <objtitle>
-                    <title> *A Warring Angel* </title>
+                    <title> *Old Man Sitting* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic
-                        considerations.</note>
+                <compdate value="1780">c. 1780-85<note>The date, based on stylistic considerations,
+                        is far from certain.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>20.8 x 16.2 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>20.8 x 16.2 cm.</leafsize>
                 <medium>pencil</medium>
                 <support>laid paper</support>
                 <watermark>none</watermark>
@@ -210,89 +193,89 @@
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
+                <name>Morgan Library and Museum</name>
+                <date>1968</date>
                 <dealer>none</dealer>
-                <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by
-                    A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by
-                    no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art,
-                    Washington, D. C.</note>
+                <price>bequest</price>
+                <note>Early history unknown; Stopford A. Brooke (1832-1916); sold from Brooke's
+                    collection, Sotheby's, 9 April 1919, lot 446 (&#163;15.10s. to the dealer Henry
+                    W. Sotheran); Mitchell Kennerly of Anderson Galleries, New York; Herschel V.
+                    Jones, given c. 1920 to his daughter Tessie Jones and bequeathed by her to the
+                    Pierpont Morgan Library (now Morgan Library and Museum) in 1968.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland
-                    20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services:
-                    http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>Morgan Library and Museum</institution>
+                <addressline>225 Madison Avenue</addressline>
+                <addressline>New York, New York 10016</addressline>
+                <addressline>Telephone: 1 212 685 0008</addressline>
+                <addressline>Fax: 1 212 481 3484</addressline>
+                <addressline>URL: http://www.themorgan.org</addressline>
+                <addressline>Telephone, Photography and Rights Department: 1 212 590
+                    0386</addressline>
+                <addressline>Email, Photography and Rights Department:
+                    photoservices@themorgan.org</addressline>
+                <addressline>URL, Photography and Rights Department:
+                    http://themorgan.org/research/photo.asp</addressline>
+                <department>Department of Prints and Drawings</department>
+                <repositoryid label="Accession number">1968.2</repositoryid>
+                <repositoryid label="Call number">s E.17-18.1</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but133v.1.penc.01" dbi="BUT133.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>, <objid>
+                <title type="transcribed">Old Man Sitting</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 133 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps
-                    the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote>
+                    <p>This pencil drawing is on the verso of a water color drawing, *A Crouching
+                        Woman, Possibly Later Used for "The Gates of Paradise"*, Butlin 133
+                        recto.</p>
+                </objnote>
+                <objsize>20.8 x 16.2 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent
-                        buttocks stands on the right side of the composition. Although his body
-                        faces away from the viewer, he turns his head to face left so that his face
-                        is seen in profile. His hair is short; his expression and furrowed brow
-                        suggest anger. Leaning slightly to the left, he raises his left arm
-                        horizontally with palm facing away and fingers spread. His right arm is by
-                        his side, and he carries a weapon (perhaps a stick or rod?) in his right
-                        hand. He raises his right heel slightly, which may suggest impending
-                        movement leftward.</illusobjdesc>
+                    <illusobjdesc>The drawing on this leaf is difficult to make out due to the
+                        lightness of the pencil lines. A seated or reclining figure is faintly
+                        visible facing right. This figure appears to be old and male with a long
+                        beard and gown. His head is turned up and his mouth may be open. His right
+                        arm appears to be bent and at his side or in his lap. Both legs appear to be
+                        bent. He may be an ancient bard looking heavenward for inspiration. He sits
+                        on what may be a chair, couch, pillows, or clouds.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with
-                            prominent buttocks stands on the right side of the composition. Although
-                            his body faces away from the viewer, he turns his head to face left so
-                            that his face is seen in profile. His hair is short; his expression and
-                            furrowed brow suggest anger. Leaning slightly to the left, he raises his
-                            left arm horizontally with palm facing away and fingers spread. His
-                            right arm is by his side, and he carries a weapon (perhaps a stick or
-                            rod?) in his right hand. He raises his right heel slightly, which may
-                            suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>old</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>bard</characteristic>
+                        <illusobjdesc>A seated or reclining figure is faintly visible facing right.
+                            This figure appears to be old and male with a long beard and gown. His
+                            head is turned up and his mouth may be open. His right arm appears to be
+                            bent and at his side or on his lap. Both legs appear to be bent. He may
+                            be an ancient bard looking heavenward for inspiration.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps
-                            a stick or rod?) in his right hand, held by his right
-                            side.</illusobjdesc>
+                    <component type="object" location="E">
+                        <characteristic>chair</characteristic>
+                        <characteristic>couch</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>The figure sits on what may be a chair, couch, pillows, or
+                            clouds.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

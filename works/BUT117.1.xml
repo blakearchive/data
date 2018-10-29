@@ -1,10 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc"
-    catalog="butlin" catid="78r" hidden="false">
+<bad id="but117.1" type="penc" work="Samuel Presenting Saul to the People" copy="1" copyid="1"
+    institution="britishmuseum" catalog="butlin" catid="117" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main> : electronic edition </title>
+                <title reg="Samuel Presenting Saul to the People">
+                    <main>Samuel Presenting Saul to the People</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -53,7 +53,7 @@
                 precise copying and to the neoclassical emphasis on outline. The first four works
                 may have been drawn while Blake was a student in the Royal Academy schools. Other
                 sketches are preliminaries for some of Blake’s most important designs. Among these
-                are the *Study for “Glad Day”, or “Albion Rose”* ( Object 6), Blake’s iconic vision
+                are the *Study for “Glad Day”, or “Albion Rose”* (Object 6), Blake’s iconic vision
                 of the human form divine in energetic pose, and three sketches (Objects 34-36) for
                 illustrations to *Tiriel*, the only group of finished drawings Blake composed for
                 one of his own poems. Several sketches are early efforts at picturing events in the
@@ -79,7 +79,7 @@
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication only.<lb/>
-            This image copyright © 2018 National Gallery of Art, Washington, DC </userestrict>
+            This image copyright © 2018 British Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -125,7 +125,7 @@
             </changestmt>
             <changestmt>
                 <change>BAD created</change>
-                <date>July 2015</date>
+                <date>August 2015</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -163,22 +163,19 @@
             </changestmt>
             <changestmt>
                 <change>Image acquired and catalogued</change>
-                <date>September 2002</date>
+                <date>October 2001</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
                     </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Matthew Kirschenbaum</name>
-                    <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
-                    <name>Andrea Dickens</name>
+                    <name>Andrea Laue</name>
                     <resp>Project Assistants: </resp>
                     <name>Christopher N. Jackson, </name>
                     <name>Kari Kraus, </name>
                     <name>Wayne C. Ripley, </name>
-                    <name>Sarah Trippensee, </name>
-                    <name>Justin Scott Van Kleeck</name>
                 </respstmt>
             </changestmt>
         </revisiondesc>
@@ -187,115 +184,152 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title> *A Warring Angel* </title>
+                    <title> *Samuel Presenting Saul to the People* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
-                    <role>delineator</role>
+                    <role>delineator,</role>
+                    <role>author. Blake wrote the inscription below the design.</role>
                 </origination>
 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic
                         considerations.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>19.3 x 14.2 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>19.3 x 14.2 cm.</leafsize>
                 <medium>pencil</medium>
                 <support>laid paper</support>
-                <watermark>none</watermark>
+                <watermark>none recorded</watermark>
                 <pennednumbers>none</pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
+                <name>British Museum</name>
+                <date>1874</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by
-                    A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by
-                    no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art,
-                    Washington, D. C.</note>
+                <note>Acquired at an unknown time by John Deffett Francis and given by him to the
+                    British Museum in Dec. 1874.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland
-                    20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services:
-                    http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>British Museum</institution>
+                <addressline>Great Russell Street</addressline>
+                <addressline>London WC1B 3DG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 44-(0)20-7323 8408</addressline>
+                <addressline>Fax: 44-(0)20-7323 8408</addressline>
+                <addressline>URL: http://www.britishmuseum.org</addressline>
+                <addressline>British Museum</addressline>
+                <department>Department of Prints and Drawings</department>
+                <addressline>Email, Department of Prints and Drawings:
+                    prints@britishmuseum.org</addressline>
+                <repositoryid label="Registration number">1874,1212.120</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but117.1.penc.01" dbi="BUT117.1.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>, <objid>
+                <title type="transcribed">Samuel Presenting Saul to the People</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 117)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps
-                    the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote>
+                    <p>The pencil markings lower right are described by Butlin 117 as "a small
+                        scribbled caricature-like face..., possibly by Robert Blake." We find these
+                        marks illegible and the attribution to Blake's brother Robert doubtful.</p>
+                </objnote>
+                <objsize>19.3 x 14.2 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent
-                        buttocks stands on the right side of the composition. Although his body
-                        faces away from the viewer, he turns his head to face left so that his face
-                        is seen in profile. His hair is short; his expression and furrowed brow
-                        suggest anger. Leaning slightly to the left, he raises his left arm
-                        horizontally with palm facing away and fingers spread. His right arm is by
-                        his side, and he carries a weapon (perhaps a stick or rod?) in his right
-                        hand. He raises his right heel slightly, which may suggest impending
-                        movement leftward.</illusobjdesc>
+                    <illusobjdesc>Two male figures stand facing forward in this drawing. The figure
+                        at right appears to have short curly hair, thick brows, and a beard. His
+                        mouth is open. With right arm bent at 90 degrees and held in front of his
+                        chest and left arm extended by his side, palm facing forward with fingers
+                        spread, he stands with legs spread in a slightly contrapposto position,
+                        right foot turned to point left. He may wear some kind of cape or robe,
+                        visible behind his legs. The facial details of the figure at left are
+                        unarticulated, but he wears a tall conical hat and a long cape or robe
+                        similar to his companion's. Facing forward but turned slightly right, he
+                        raises his bent left arm above the head of the other figure (perhaps
+                        touching his head?) and extends his right arm, raised at 45 degrees,
+                        diagonally across his body. This drawing may be an illustration of the
+                        biblical narrative in I Samuel 12:13 in which Samuel, the figure at left,
+                        presents Saul, the figure at right, as king.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
+                        <characteristic>facing forward</characteristic>
                         <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
                         <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>fist</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>palm facing viewer</characteristic>
                         <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
                         <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with
-                            prominent buttocks stands on the right side of the composition. Although
-                            his body faces away from the viewer, he turns his head to face left so
-                            that his face is seen in profile. His hair is short; his expression and
-                            furrowed brow suggest anger. Leaning slightly to the left, he raises his
-                            left arm horizontally with palm facing away and fingers spread. His
-                            right arm is by his side, and he carries a weapon (perhaps a stick or
-                            rod?) in his right hand. He raises his right heel slightly, which may
-                            suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>robe</characteristic>
+                        <characteristic>contrapposto</characteristic>
+                        <characteristic>king</characteristic>
+                        <characteristic>Saul</characteristic>
+                        <illusobjdesc>Two male figures stand facing forward in this drawing. The
+                            figure at right appears to have short curly hair, thick brows, and a
+                            beard. His mouth is open. With right arm bent at 90 degrees and held in
+                            a fist in front of his chest and left arm extended by his side, palm
+                            facing forward with fingers spread, he stands with legs spread in a
+                            slightly contrapposto position, right foot turned to point left. He may
+                            wear some kind of cape or robe, visible behind his legs. This drawing
+                            may be an illustration of the biblical narrative in I Samuel 12:13 in
+                            which Samuel, the figure at left, presents Saul, the figure at right, as
+                            king.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps
-                            a stick or rod?) in his right hand, held by his right
-                            side.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>pentimento</characteristic>
+                        <characteristic>Samuel</characteristic>
+                        <illusobjdesc>Two male figures stand facing forward in this drawing. The
+                            facial details of the figure at left are unarticulated, but he wears a
+                            tall conical hat and a gown along with a long cape or robe similar to
+                            his companion. Facing forward but turned slightly right, he raises his
+                            bent left arm above the head of the other figure (perhaps touching his
+                            head?) and extends his right arm, raised at 45 degrees, diagonally
+                            across his body. This drawing may be an illustration of the biblical
+                            narrative in I Samuel 12:13 in which Samuel, the figure at left,
+                            presents Saul, the figure at right, as king. An alternative, probably
+                            preliminary, version of the figure on the left appears to the left and
+                            includes the right side of his body, his head, and his hat. There is
+                            also a preliminary sketch of his left arm just above the more fully
+                            developed left arm.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
+            <phystext>
+                <vspace extent="20"/>
+                <lg justify="left">
+                    <l n="but117.1.penc.01.01" justify="center">Behold your King<note>This pencil
+                            inscription is by Blake. The illegible pencil marks right of this
+                            inscription are not by Blake.</note></l>
+                </lg>
+            </phystext>
         </desc>
     </objdesc>
 </bad>

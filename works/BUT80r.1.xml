@@ -1,10 +1,12 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc"
-    catalog="butlin" catid="78r" hidden="false">
+<bad id="but80r.1" type="penc"
+    work="Two Sketches of a Swordsman Standing Over His Defeated Opponent" copy="1" copyid="1"
+    institution="ngadc" catalog="butlin" catid="80r" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main> : electronic edition </title>
+                <title reg="Two Sketches of a Swordsman Standing Over His Defeated Opponent">
+                    <main>Two Sketches of a Swordsman Standing Over His Defeated Opponent</main> :
+                    electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -125,7 +127,7 @@
             </changestmt>
             <changestmt>
                 <change>BAD created</change>
-                <date>July 2015</date>
+                <date>November 2015</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -175,10 +177,9 @@
                     <name>Andrea Dickens</name>
                     <resp>Project Assistants: </resp>
                     <name>Christopher N. Jackson, </name>
-                    <name>Kari Kraus, </name>
-                    <name>Wayne C. Ripley, </name>
+                    <name>Gerald Miller, </name>
                     <name>Sarah Trippensee, </name>
-                    <name>Justin Scott Van Kleeck</name>
+                    <name>Justin Van Kleeck</name>
                 </respstmt>
             </changestmt>
         </revisiondesc>
@@ -187,21 +188,21 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title> *A Warring Angel* </title>
+                    <title> *Two Sketches of a Swordsman Standing Over His Defeated Opponent* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic
                         considerations.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>25.2 x 36.6 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>25.2 x 36.6 cm.</leafsize>
                 <medium>pencil</medium>
                 <support>laid paper</support>
                 <watermark>none</watermark>
@@ -214,10 +215,14 @@
                 <date>1943</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by
-                    A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by
-                    no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art,
-                    Washington, D. C.</note>
+                <note>Possibly acquired, from Blake or John Flaxman or John Linnell, by Thomas
+                    Chevalier (1767-1824); possibly Chevalier's great-granddaughter, Ellen M.
+                    Chevalier, later Mrs. William Dobinson; possibly sold from her collection,
+                    Sotheby's, 1 Dec. 1910, in lot 126 with eight other works (&#163;3 to "Fry,"
+                    probably acting for the dealer James Tregaskis); the dealer C. A. Stonehill;
+                    sold c. 1937 by Stonehill with a group of drawings by Flaxman and his associates
+                    to Lessing J. Rosenwald; given by Rosenwald to the National Gallery of Art,
+                    Washington, in 1943.</note>
             </provenance>
             <repository>
                 <institution>National Gallery of Art, Washington</institution>
@@ -231,68 +236,151 @@
                 <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
                 <addressline>URL, Visual Services:
                     http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <repositoryid label="Accession number">1980.45.182.a</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but80r.1.penc.01" dbi="BUT80.1.1r.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>, <objid>
+                <title type="transcribed">Two Sketches of a Swordsman Standing Over His Defeated
+                    Opponent</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 80 recto)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps
-                    the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote>
+                    <p>The reference to "Two Sketches" in the title includes a pencil drawing of the
+                        same subject and date on the verso.</p>
+                </objnote>
+                <objsize>25.2 x 36.6 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent
-                        buttocks stands on the right side of the composition. Although his body
-                        faces away from the viewer, he turns his head to face left so that his face
-                        is seen in profile. His hair is short; his expression and furrowed brow
-                        suggest anger. Leaning slightly to the left, he raises his left arm
-                        horizontally with palm facing away and fingers spread. His right arm is by
-                        his side, and he carries a weapon (perhaps a stick or rod?) in his right
-                        hand. He raises his right heel slightly, which may suggest impending
-                        movement leftward.</illusobjdesc>
+                    <illusobjdesc>In the center of the composition, a standing figure seen from
+                        behind appears to look down on another figure who supports himself on the
+                        ground with his right arm and leg. Both figures carry round shields and thus
+                        may be soldiers; the kneeling figure was likely just defeated. The central,
+                        standing figure may hold the hilt of a sword behind his back in his lowered
+                        right hand. Near the right edge of the drawing, a female(?) figure wearing a
+                        long gown stands facing forward and looks left. With both arms bent over her
+                        torso, she appears to hold or lead the horse at right that also faces
+                        forward. Above the kneeling soldier at left, a group of three figures who
+                        are drawn indistinctly stand behind what may be a wall or barrier extending
+                        across the scene horizontally. Additional indeterminate forms in the upper
+                        left quadrant may suggest tree trunks and perhaps hills.</illusobjdesc>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
                         <characteristic>standing</characteristic>
+                        <characteristic>looking</characteristic>
                         <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
                         <characteristic>facing away</characteristic>
                         <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>hat</characteristic>
                         <characteristic>holding</characteristic>
                         <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with
-                            prominent buttocks stands on the right side of the composition. Although
-                            his body faces away from the viewer, he turns his head to face left so
-                            that his face is seen in profile. His hair is short; his expression and
-                            furrowed brow suggest anger. Leaning slightly to the left, he raises his
-                            left arm horizontally with palm facing away and fingers spread. His
-                            right arm is by his side, and he carries a weapon (perhaps a stick or
-                            rod?) in his right hand. He raises his right heel slightly, which may
-                            suggest impending movement leftward.</illusobjdesc>
+                        <illusobjdesc>In the center of the composition, a standing figure seen from
+                            behind appears to look down on another figure who supports himself on
+                            the ground with his right arm and leg. The upright figure who faces away
+                            and slightly left stands or walks with his left foot extended backward.
+                            He wears a short cloak with a hood and a hat and carries or holds a
+                            round shield. He may hold the hilt of a sword behind his back in his
+                            lowered right hand. It is likely that this figure is a soldier who just
+                            defeated the similarly armed reclining figure.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps
-                            a stick or rod?) in his right hand, held by his right
-                            side.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>hand on ground</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>carrying</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <illusobjdesc>In the center of the composition, a standing figure seen from
+                            behind appears to look down on another figure who supports himself with
+                            his right arm and leg. The semi-reclining figure faces forward and right
+                            with head turned up and eyes closed. He appears to have short hair and
+                            perhaps a beard. With his left arm he holds or carries a round shield;
+                            his bent right arm is braced with his hand on the ground. He kneels on
+                            his bent right knee while his left is extended backward. It is likely
+                            that this figure is a soldier just defeated by the similarly armed
+                            standing figure.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>shield</characteristic>
+                        <characteristic>sword</characteristic>
+                        <characteristic>handle</characteristic>
+                        <illusobjdesc>The two soldiers, center and lower left, carry or hold round
+                            shields. The central, standing figure may hold the hilt of a sword
+                            behind his back in his lowered right hand.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm wrapped around body</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>leading</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>walking</characteristic>
+                        <illusobjdesc>Near the right edge of the drawing, a female(?) figure wearing
+                            a long gown stands facing forward and turns her head to look left,
+                            likely to watch the two central figures' actions. With her right arm
+                            bent and wrapped in front of her torso, she appears to hold or lead the
+                            horse at right. The figure's right foot appears to be slightly lifted
+                            off the ground, suggesting she may be walking forward.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>horse</characteristic>
+                        <characteristic>mane</characteristic>
+                        <characteristic>forelock</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>To the immediate right of the standing female figure, a horse
+                            with a visible mane and forelock stands facing forward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>gown</characteristic>
+                        <illusobjdesc>Above the kneeling soldier at left, a group of at least three,
+                            possibly four, figures who are drawn indistinctly stand behind what may
+                            be a wall or barrier. All appear to stand facing forward and may wear
+                            hats and possibly gowns.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="AC">
+                        <characteristic>wall</characteristic>
+                        <illusobjdesc>On the left side of the drawing, a short wall or barrier
+                            extends horizontally across the middle of the composition. It appears to
+                            separate the group of three figures far left from the central
+                            soldiers.</illusobjdesc>
+                    </component>
+                    <component type="object" location="A">
+                        <characteristic>hill</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <illusobjdesc>Indeterminate forms in the upper left quadrant may suggest
+                            tree trunks and perhaps hills.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

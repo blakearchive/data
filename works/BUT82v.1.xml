@@ -1,10 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc"
-    catalog="butlin" catid="78r" hidden="false">
+<bad id="but82v.1" type="penc" work="Sketch of Figures Under a Yoke" copy="1" copyid="1"
+    institution="britishmuseum" catalog="butlin" catid="82v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main> : electronic edition </title>
+                <title reg="Sketch of Figures Under a Yoke">
+                    <main>Sketch of Figures Under a Yoke</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -79,7 +79,7 @@
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication only.<lb/>
-            This image copyright © 2018 National Gallery of Art, Washington, DC </userestrict>
+            This image copyright © 2018 British Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -125,7 +125,7 @@
             </changestmt>
             <changestmt>
                 <change>BAD created</change>
-                <date>July 2015</date>
+                <date>August 2015</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -163,22 +163,19 @@
             </changestmt>
             <changestmt>
                 <change>Image acquired and catalogued</change>
-                <date>September 2002</date>
+                <date>September 2001</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
                     </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Matthew Kirschenbaum</name>
-                    <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
-                    <name>Andrea Dickens</name>
+                    <name>Andrea Laue</name>
                     <resp>Project Assistants: </resp>
                     <name>Christopher N. Jackson, </name>
                     <name>Kari Kraus, </name>
                     <name>Wayne C. Ripley, </name>
-                    <name>Sarah Trippensee, </name>
-                    <name>Justin Scott Van Kleeck</name>
                 </respstmt>
             </changestmt>
         </revisiondesc>
@@ -187,112 +184,148 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title> *A Warring Angel* </title>
+                    <title> *Sketch of Figures Under a Yoke* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic
+                <compdate value="1780">c. 1780-85<note>The date is based on stylistic
                         considerations.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>16.0 x 17.9 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>16.0 x 17.9 cm.</leafsize>
                 <medium>pencil</medium>
-                <support>laid paper</support>
+                <support>wove paper</support>
                 <watermark>none</watermark>
                 <pennednumbers>none</pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
+                <name>British Museum</name>
+                <date>1874</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by
-                    A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by
-                    no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art,
-                    Washington, D. C.</note>
+                <note>Acquired at an unknown time by John Deffett Francis and given by him to the
+                    British Museum in Dec. 1874.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland
-                    20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services:
-                    http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>British Museum</institution>
+                <addressline>Great Russell Street</addressline>
+                <addressline>London WC1B 3DG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 44-(0)20-7323 8408</addressline>
+                <addressline>Fax: 44-(0)20-7323 8408</addressline>
+                <addressline>URL: http://www.britishmuseum.org</addressline>
+                <addressline>British Museum</addressline>
+                <department>Department of Prints and Drawings</department>
+                <addressline>Email, Department of Prints and Drawings:
+                    prints@britishmuseum.org</addressline>
+                <repositoryid label="Registration number">1874,1212.132</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but82v.1.penc.01" dbi="BUT82.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>, <objid>
+                <title type="transcribed">Sketch of Figures Under a Yoke</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 82 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps
-                    the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote>
+                    <p>For the recto monochrome wash drawing of the same basic design, more fully
+                        developed, see Butlin 82 recto, *Three Figures Under a Yoke with Two
+                        Children*.</p>
+                </objnote>
+                <objsize>16.0 x 17.9 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent
-                        buttocks stands on the right side of the composition. Although his body
-                        faces away from the viewer, he turns his head to face left so that his face
-                        is seen in profile. His hair is short; his expression and furrowed brow
-                        suggest anger. Leaning slightly to the left, he raises his left arm
-                        horizontally with palm facing away and fingers spread. His right arm is by
-                        his side, and he carries a weapon (perhaps a stick or rod?) in his right
-                        hand. He raises his right heel slightly, which may suggest impending
-                        movement leftward.</illusobjdesc>
-                    <component type="figure" location="E">
-                        <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
+                    <illusobjdesc>Four adults and one child stand facing forward in a horizontal
+                        arrangement. Depicted in the greatest detail, the central figure wears a
+                        long gown (and perhaps a hat or hood?) and bends both arms behind its back.
+                        At far left, a gowned adult figure turns its head to look down and right
+                        with arms extended and touching in front of its torso. To the immediate
+                        right of this figure, the head of a small child is visible. On the right
+                        side of the composition, two gowned adult figures also appear to bend their
+                        arms behind their backs. The rightmost figure may have its right leg
+                        extended. A slightly curved horizontal line at the shoulder level of three
+                        adults (excluding the figure far right) suggests the yoke more fully
+                        represented in the monochrome wash drawing on the recto of this
+                        leaf.</illusobjdesc>
+                    <component type="figure" location="AC">
                         <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with
-                            prominent buttocks stands on the right side of the composition. Although
-                            his body faces away from the viewer, he turns his head to face left so
-                            that his face is seen in profile. His hair is short; his expression and
-                            furrowed brow suggest anger. Leaning slightly to the left, he raises his
-                            left arm horizontally with palm facing away and fingers spread. His
-                            right arm is by his side, and he carries a weapon (perhaps a stick or
-                            rod?) in his right hand. He raises his right heel slightly, which may
-                            suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms behind back</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <illusobjdesc>Four adults and one child stand facing forward in a horizontal
+                            arrangement. Depicted in the greatest detail, the central figure who
+                            bends slightly forward wears a long gown (and perhaps a hat or hood?)
+                            and bends both arms behind its back. The figure's eyes may be closed or
+                            at least lowered.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps
-                            a stick or rod?) in his right hand, held by his right
-                            side.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>standing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms down</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>Four adults and one child stand facing forward in a horizontal
+                            arrangement. At far left, a gowned adult figure bends forward and turns
+                            its head to face down with arms extended downward and touching in front
+                            of its torso.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>child</characteristic>
+                        <characteristic>head</characteristic>
+                        <illusobjdesc>Four adults and one child stand facing forward in a horizontal
+                            arrangement. To the immediate right of the leftmost figure, the head of
+                            a small child is visible.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>standing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms behind back</characteristic>
+                        <illusobjdesc>Four adults and one child stand facing forward in a horizontal
+                            arrangement. The second figure from the right wears a long gown and
+                            perhaps a hat or hood. He or she appears to bend both arms behind its
+                            back.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>standing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms behind back</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <illusobjdesc>Four adults and one child stand facing forward in a horizontal
+                            arrangement. The rightmost figure wears a long gown and appears to bend
+                            both arms behind its back. He or she may extend its right leg
+                            forward.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>yoke</characteristic>
+                        <illusobjdesc>A slightly curved horizontal line at the shoulder level of
+                            three adults (excluding the figure far right) suggests the yoke more
+                            fully represented in the monochrome wash drawing on the recto of this
+                            leaf.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

@@ -1,10 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc"
-    catalog="butlin" catid="78r" hidden="false">
+<bad id="but218v.1" type="penc" work="Sketch for 'The Book of Thel,' Plate 6" copy="1" copyid="1"
+    institution="britishmuseum" catalog="butlin" catid="218v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main> : electronic edition </title>
+                <title reg="Sketch for 'The Book of Thel,' Plate 6">
+                    <main>Sketch for "The Book of Thel," Plate 6</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -17,11 +17,10 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
                 to 1100KB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October
-                    2018</date>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October 2018</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            <updatestmt>The William Blake Archive is pleased to announce the publication of a
+<updatestmt>The William Blake Archive is pleased to announce the publication of a
                 digital edition of forty-three pencil drawings produced by Blake during his first
                 decade as an independent artist, 1779-1790. Drawing lies at the core of Blake's life
                 as an artist. Pencil was his preferred medium for sketching—more flexible, less
@@ -53,7 +52,7 @@
                 precise copying and to the neoclassical emphasis on outline. The first four works
                 may have been drawn while Blake was a student in the Royal Academy schools. Other
                 sketches are preliminaries for some of Blake’s most important designs. Among these
-                are the *Study for “Glad Day”, or “Albion Rose”* ( Object 6), Blake’s iconic vision
+                are the *Study for “Glad Day”, or “Albion Rose”* (Object 6), Blake’s iconic vision
                 of the human form divine in energetic pose, and three sketches (Objects 34-36) for
                 illustrations to *Tiriel*, the only group of finished drawings Blake composed for
                 one of his own poems. Several sketches are early efforts at picturing events in the
@@ -79,7 +78,7 @@
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication only.<lb/>
-            This image copyright © 2018 National Gallery of Art, Washington, DC </userestrict>
+            This image copyright © 2018 British Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -125,7 +124,7 @@
             </changestmt>
             <changestmt>
                 <change>BAD created</change>
-                <date>July 2015</date>
+                <date>September 2015</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -163,22 +162,19 @@
             </changestmt>
             <changestmt>
                 <change>Image acquired and catalogued</change>
-                <date>September 2002</date>
+                <date>October 2001</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
                     </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Matthew Kirschenbaum</name>
-                    <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
-                    <name>Andrea Dickens</name>
+                    <name>Andrea Laue</name>
                     <resp>Project Assistants: </resp>
                     <name>Christopher N. Jackson, </name>
                     <name>Kari Kraus, </name>
                     <name>Wayne C. Ripley, </name>
-                    <name>Sarah Trippensee, </name>
-                    <name>Justin Scott Van Kleeck</name>
                 </respstmt>
             </changestmt>
         </revisiondesc>
@@ -187,112 +183,162 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title> *A Warring Angel* </title>
+                    <title>*Sketch for "The Book of Thel," Plate 6*</title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic
-                        considerations.</note>
+                <compdate value="1789">c. 1789<note>The date is based on the relationship between
+                        this preliminary drawing and *The Book of Thel*, dated 1789 on its title
+                        page.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>20.0 x 21.5 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
-                <medium>pencil</medium>
+                <leafsize>22.4 x 31.7 cm.</leafsize>
+                <medium>pencil<note>The British Museum accession number is stamped in ink lower
+                        left.</note>
+                </medium>
                 <support>laid paper</support>
-                <watermark>none</watermark>
+                <watermark>top portion only of a fleur-de-lis watermark</watermark>
                 <pennednumbers>none</pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
+                <name>British Museum</name>
+                <date>1982</date>
                 <dealer>none</dealer>
-                <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by
-                    A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by
-                    no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art,
-                    Washington, D. C.</note>
+                <price>approximately &#163;3000</price>
+                <note>Inherited by Blake's wife Catherine at his death in 1827; acquired by
+                    Frederick Tatham, probably at Catherine Blake's death in 1831; the dealer
+                    Bernard Quaritch, offered in his Nov. 1882 catalogue, item 346 with 39 other
+                    works (&#163;36), catalogue 350 of 10 Aug. 1883, item 13843, same group and
+                    price, *Catalogue of Works on the Fine Arts* of Oct. 1883, item 13843, same
+                    group and price, and catalogue of *William Blake's Original Drawings* of May
+                    1885, no item number, same group and price; sold by Quaritch on 30 June 1886 to
+                    W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949,
+                    lot 63 with four other works by Blake (&#163;42 to the dealer Maggs Bros. Ltd.);
+                    offered by Maggs, 1949 catalogue 117 of Sept. 1949, item 498 (&#163;35); the
+                    dealer Ernest Seligmann; sold 1960 to W. A. Caro; his daughter, Ann Caro,
+                    probably by gift or inheritance; sold by Ann Caro to the British Museum in late
+                    1982 for approximately &#163;3000 and accessioned by the Museum in 1983. </note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland
-                    20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services:
-                    http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>British Museum</institution>
+                <addressline>Great Russell Street</addressline>
+                <addressline>London WC1B 3DG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 44-(0)20-7323 8408</addressline>
+                <addressline>Fax: 44-(0)20-7323 8408</addressline>
+                <addressline>URL: http://www.britishmuseum.org</addressline>
+                <addressline>British Museum</addressline>
+                <department>Department of Prints and Drawings</department>
+                <addressline>Email, Department of Prints and Drawings:
+                    prints@britishmuseum.org</addressline>
+                <repositoryid label="Registration number">1983,0305.1</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but218v.1.penc.01" dbi="BUT218.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>, <objid>
+                <title type="transcribed">Sketch for "The Book of Thel," Plate 6</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 218 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps
-                    the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote>
+                    <p>This sketch is a preliminary for the headpiece on plate 6 of Blake's *The
+                        Book of Thel*. See also the sketches on the recto of this leaf for two
+                        plates in the book, *Sketches for "The Book of Thel": Thel and the Clod of
+                        Clay, and Thel Fleeing From the House of Clay*.</p>
+                </objnote>
+                <objsize>20.0 x 21.5 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent
-                        buttocks stands on the right side of the composition. Although his body
-                        faces away from the viewer, he turns his head to face left so that his face
-                        is seen in profile. His hair is short; his expression and furrowed brow
-                        suggest anger. Leaning slightly to the left, he raises his left arm
-                        horizontally with palm facing away and fingers spread. His right arm is by
-                        his side, and he carries a weapon (perhaps a stick or rod?) in his right
-                        hand. He raises his right heel slightly, which may suggest impending
-                        movement leftward.</illusobjdesc>
-                    <component type="figure" location="E">
-                        <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
+                    <illusobjdesc>This sketch is a preliminary for the headpiece on plate 6 of
+                        Blake's *The Book of Thel*. Just left of the center of the composition,
+                        Thel, a standing female figure seen from the back, wears a gown and raises
+                        both arms with bent elbows. She faces up and to the right in the direction
+                        of a male figure, the personified "Cloud" of the poem, with long hair who
+                        flies or hovers in a horizontal position. His right arm is extended, finger
+                        pointed, and left leg bent downward. A cloud may support this figure or,
+                        alternatively, drapery from his clothing may surround him. There may be an
+                        object near the bottom left corner of the composition (perhaps vegetation?)
+                        as well as an object (a cloud outline?) to the left of the standing figure's
+                        head.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>Thel</characteristic>
                         <characteristic>standing</characteristic>
+                        <characteristic>walking</characteristic>
                         <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
                         <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>gown</characteristic>
                         <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with
-                            prominent buttocks stands on the right side of the composition. Although
-                            his body faces away from the viewer, he turns his head to face left so
-                            that his face is seen in profile. His hair is short; his expression and
-                            furrowed brow suggest anger. Leaning slightly to the left, he raises his
-                            left arm horizontally with palm facing away and fingers spread. His
-                            right arm is by his side, and he carries a weapon (perhaps a stick or
-                            rod?) in his right hand. He raises his right heel slightly, which may
-                            suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <illusobjdesc>Just left of the center of the composition, Thel, a gowned
+                            female figure seen from the back, stands or walks away from the viewer
+                            and raises both arms with bent elbows. Her hair is short. She faces up
+                            and to the right in the direction of a male figure, the personified
+                            Cloud, who flies or hovers in a horizontal position. Thel's left leg and
+                            foot (which may be clad in a shoe) are extended slightly
+                            backward.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps
-                            a stick or rod?) in his right hand, held by his right
-                            side.</illusobjdesc>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>Cloud</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <illusobjdesc>A male figure with long hair, the personified Cloud of *The
+                            Book of Thel*, flies or hovers in a horizontal position in the upper
+                            right quadrant of the composition. His right arm is extended, finger
+                            pointed, and left leg bent downward behind an extended right leg. His
+                            body faces forward, but he turns his head down and to the left, likely
+                            to look at the standing figure below. He may be nude or lightly draped
+                            in some sort of flowing gown. A cloud may support this figure or,
+                            alternatively, drapery may surround him.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>cloud</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <illusobjdesc>The male figure upper right, the personified Cloud, may be
+                            supported by a cloud or, alternatively, drapery may surround
+                            her.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AC">
+                        <characteristic>indeterminate</characteristic>
+                        <characteristic>Worm</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>A few lines lower left may be a place-holder for the
+                            vegetation and the personified Worm pictured in *The Book of Thel* plate
+                            6, for which this sketch is a preliminary drawing. Similarly, the line
+                            or lines left of the standing figure's head may be a cloud
+                            outline.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>

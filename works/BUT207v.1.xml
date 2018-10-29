@@ -1,10 +1,10 @@
-<bad id="but78r.1" type="penc" work="A Warring Angel" copy="1" copyid="1" institution="ngadc"
-    catalog="butlin" catid="78r" hidden="false">
+<bad id="but207v.1" type="penc" work="Head of a Man and Small Head of Ugolino" copy="1" copyid="1"
+    institution="vanda" catalog="butlin" catid="207v" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="A Warring Angel">
-                    <main>A Warring Angel</main> : electronic edition </title>
+                <title reg="Head of a Man and Small Head of Ugolino">
+                    <main>Head of a Man and Small Head of Ugolino</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -17,11 +17,10 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
                 to 1100KB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October
-                    2018</date>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October 2018</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            <updatestmt>The William Blake Archive is pleased to announce the publication of a
+<updatestmt>The William Blake Archive is pleased to announce the publication of a
                 digital edition of forty-three pencil drawings produced by Blake during his first
                 decade as an independent artist, 1779-1790. Drawing lies at the core of Blake's life
                 as an artist. Pencil was his preferred medium for sketching—more flexible, less
@@ -53,7 +52,7 @@
                 precise copying and to the neoclassical emphasis on outline. The first four works
                 may have been drawn while Blake was a student in the Royal Academy schools. Other
                 sketches are preliminaries for some of Blake’s most important designs. Among these
-                are the *Study for “Glad Day”, or “Albion Rose”* ( Object 6), Blake’s iconic vision
+                are the *Study for “Glad Day”, or “Albion Rose”* (Object 6), Blake’s iconic vision
                 of the human form divine in energetic pose, and three sketches (Objects 34-36) for
                 illustrations to *Tiriel*, the only group of finished drawings Blake composed for
                 one of his own poems. Several sketches are early efforts at picturing events in the
@@ -79,7 +78,7 @@
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication only.<lb/>
-            This image copyright © 2018 National Gallery of Art, Washington, DC </userestrict>
+            This image copyright © 2018 Victoria and Albert Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -125,7 +124,7 @@
             </changestmt>
             <changestmt>
                 <change>BAD created</change>
-                <date>July 2015</date>
+                <date>September 2015</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -161,9 +160,9 @@
                     <name>Alia Wegner,</name>
                 </respstmt>
             </changestmt>
-            <changestmt>
+                        <changestmt>
                 <change>Image acquired and catalogued</change>
-                <date>September 2002</date>
+                <date>May 2003</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -174,11 +173,13 @@
                     <resp>Project Manager: </resp>
                     <name>Andrea Dickens</name>
                     <resp>Project Assistants: </resp>
+                    <name>Amy Havlan, </name>
                     <name>Christopher N. Jackson, </name>
                     <name>Kari Kraus, </name>
+                    <name>Gerald Miller, </name>
                     <name>Wayne C. Ripley, </name>
                     <name>Sarah Trippensee, </name>
-                    <name>Justin Scott Van Kleeck</name>
+                    <name>Justin Van Kleeck</name>
                 </respstmt>
             </changestmt>
         </revisiondesc>
@@ -187,112 +188,119 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title> *A Warring Angel* </title>
+                    <title> *Head of a Man and Small Head of Ugolino* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
 
-                <compdate value="1780">c. 1780<note>The date is based on stylistic
-                        considerations.</note>
+                <compdate value="1780">c. 1780-85<note>The small head of Ugolino at the bottom
+                        margin is related to the pencil sketch on the recto of the leaf, *Ugolino in
+                        Prison*, and is probably of about the same date. The large head recalls
+                        Blake's Visionary Heads of c. 1819 and later, but has also been dated to c.
+                        1780-85 in Butlin 207 verso.</note>
                 </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objsize>31.6 x 27.3 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>32.1 x 44.5 cm.</leafsize>
+                <leafsize>31.6 x 27.3 cm.</leafsize>
                 <medium>pencil</medium>
-                <support>laid paper</support>
+                <support>wove paper</support>
                 <watermark>none</watermark>
                 <pennednumbers>none</pennednumbers>
                 <framelines>none</framelines>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>National Gallery of Art, Washington, D. C.</name>
-                <date>1943</date>
-                <dealer>none</dealer>
-                <price>gift</price>
-                <note>Early history not known; William A. White by no later than 1905; acquired by
-                    A. S. W. Rosenbach shortly after White's death in 1927; Lessing J. Rosenwald by
-                    no later than 1939; given by Rosenwald in 1943 to the National Gallery of Art,
-                    Washington, D. C.</note>
+                <name>Victoria and Albert Museum</name>
+                <date>1881</date>
+                <dealer>E. Parsons</dealer>
+                <price>not recorded</price>
+                <note>Inherited by Blake's wife Catherine at his death in 1827; acquired by
+                    Frederick Tatham, probably at Catherine Blake's death in 1831; sold Sotheby's,
+                    29 April 1862, possibly lot 200 or 201 with 33 other works (2s. or 3s. to the
+                    dealer Francis Harvey) or lot 160 with four other works (9s. to George A.
+                    Smith); Smith by 1876, sold Christie's, 10 July 1880, in lot 121 or 122 (each
+                    lot bought by the dealer E. Parsons for 3s.); sold by Parsons to the Victoria
+                    and Albert Museum in 1881.</note>
             </provenance>
             <repository>
-                <institution>National Gallery of Art, Washington</institution>
-                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
-                <addressline>Washington, DC 20565</addressline>
-                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland
-                    20785</addressline>
-                <addressline>Telephone: 1-202-737-4215</addressline>
-                <addressline>URL: http://www.nga.gov</addressline>
-                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
-                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
-                <addressline>URL, Visual Services:
-                    http://www.nga.gov/resources/divsdesc.shtm</addressline>
-                <repositoryid label="Accession number">1943.3.9003.a</repositoryid>
+                <institution>Victoria and Albert Museum</institution>
+                <addressline>South Kensington</addressline>
+                <addressline>Cromwell Road</addressline>
+                <addressline>London SW7 2RL</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: +44 (0)20 7942 2000</addressline>
+                <addressline>Telephone, Images Agency: +44 (0)20 7942 2479</addressline>
+                <addressline>Fax, Images Agency: +44 (0)20 7942 2482</addressline>
+                <addressline>Email, Images Agency: vaimages@vam.ac.uk</addressline>
+                <addressline>URL: http://www.vam.ac.uk/</addressline>
+                <addressline>URL, Finding and Buying Images:
+                    http://www.vam.ac.uk/resources/buying/index.html</addressline>
+                <repositoryid label="Accession number">8763.B</repositoryid>
             </repository>
         </source>
-        <desc id="but78r.1.penc.01" dbi="BUT78.1.1r.PD">
+        <desc id="but207v.1.penc.01" dbi="BUT207.1.1v.PD">
             <objtitle>
-                <title type="transcribed">A Warring Angel</title>, <objid>
+                <title type="transcribed">Head of a Man and Small Head of Ugolino</title>, <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="UI">(Butlin 78 recto)</objcode>
+                    <objcode code="UI">(Butlin 207 verso)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote>For the pencil drawing on the verso, see *Man with Arms Upraised, Perhaps
-                    the Resurrection*.</objnote>
-                <objsize>32.1 x 44.5 cm.</objsize>
+                <objnote>
+                    <p>See also the pencil sketch on the recto of this leaf, *Ugolino in Prison*,
+                        and the Editors' Notes on that drawing. The small head at the bottom of this
+                        verso drawing is described by Butlin 207 as "crudely copied" from the head
+                        of Ugolino in the recto drawing; Butlin further states that this small head
+                        "may not be by Blake." This verso head, however, shows many differences from
+                        the head of Ugolino on the recto and may be an alternative version of that
+                        head, if indeed related to Ugolino. We believe that this small head is
+                        probably Blake's work.</p>
+                </objnote>
+                <objsize>31.6 x 27.3 cm.</objsize>
                 <windowsize height="1100" width="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Seen from behind, a winged male figure who is nude with prominent
-                        buttocks stands on the right side of the composition. Although his body
-                        faces away from the viewer, he turns his head to face left so that his face
-                        is seen in profile. His hair is short; his expression and furrowed brow
-                        suggest anger. Leaning slightly to the left, he raises his left arm
-                        horizontally with palm facing away and fingers spread. His right arm is by
-                        his side, and he carries a weapon (perhaps a stick or rod?) in his right
-                        hand. He raises his right heel slightly, which may suggest impending
-                        movement leftward.</illusobjdesc>
+                    <illusobjdesc>A large head depicted from the neck up occupies the majority of
+                        the compositional space. The figure, who is male, has short and somewhat
+                        curly hair. He faces forward and right with eyes raised. At the center of
+                        the lower margin, a second forward-facing male figure, who is smaller and
+                        less detailed than the above head, is shown from the shoulders up. He has
+                        short hair and a beard; his mouth may be open. This small head may be an
+                        alternative version of Ugolino's head in the drawing on the
+                        recto.</illusobjdesc>
                     <component type="figure" location="E">
+                        <characteristic>head</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
                         <characteristic>male</characteristic>
-                        <characteristic>angel</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>seen from behind</characteristic>
-                        <characteristic>wing</characteristic>
-                        <characteristic>facing away</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>buttocks</characteristic>
+                        <characteristic>curly hair</characteristic>
                         <characteristic>short hair</characteristic>
-                        <characteristic>anger</characteristic>
-                        <characteristic>fighting</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>fingers spread</characteristic>
-                        <characteristic>leaning</characteristic>
-                        <characteristic>right foot</characteristic>
-                        <characteristic>holding</characteristic>
-                        <characteristic>carrying</characteristic>
-                        <illusobjdesc>Seen from behind, a winged male figure who is nude with
-                            prominent buttocks stands on the right side of the composition. Although
-                            his body faces away from the viewer, he turns his head to face left so
-                            that his face is seen in profile. His hair is short; his expression and
-                            furrowed brow suggest anger. Leaning slightly to the left, he raises his
-                            left arm horizontally with palm facing away and fingers spread. His
-                            right arm is by his side, and he carries a weapon (perhaps a stick or
-                            rod?) in his right hand. He raises his right heel slightly, which may
-                            suggest impending movement leftward.</illusobjdesc>
+                        <characteristic>eyes raised</characteristic>
+                        <illusobjdesc>A large head depicted from the neck up occupies the majority
+                            of the compositional space. The figure, who is male, has short and
+                            somewhat curly hair. He faces forward and right with eyes
+                            raised.</illusobjdesc>
                     </component>
-                    <component type="object" location="D">
-                        <characteristic>stick</characteristic>
-                        <characteristic>rod</characteristic>
-                        <illusobjdesc>The single figure in the composition carries a weapon (perhaps
-                            a stick or rod?) in his right hand, held by his right
-                            side.</illusobjdesc>
+                    <component type="figure" location="CD">
+                        <characteristic>male</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>shoulders</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>Ugolino</characteristic>
+                        <illusobjdesc>At the center of the lower margin, a second forward-facing
+                            male figure, who is smaller and less detailed than the above head, is
+                            shown from the shoulders up. He has short hair and a beard; his mouth
+                            may be open. This figure may be an alternative version of the head of
+                            Ugolino in the pencil drawing on the recto of this leaf, *Ugolino in
+                            Prison*.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
