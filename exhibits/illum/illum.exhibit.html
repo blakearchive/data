@@ -3,7 +3,10 @@
         <div class="col-sm-10" style="width:100%">
             <!--<h2 class="title">Illuminated Printing</h2>-->
 
-            <div class="c1">
+            <input ng-model=show type=checkbox  ng-class='{open:show}'>
+                        Table of Contents
+                        
+            <div ng-show=show class="c1">
                 <a href="javascript:document.getElementById('ENG').scrollIntoView(false);document.getElementById('exhibit_article_content').scrollTop += parseInt(document.getElementById('exhibit_article_content').style.height) - 50">Engraving</a> || <a href="javascript:document.getElementById('NPT').scrollIntoView(false);document.getElementById('exhibit_article_content').scrollTop += parseInt(document.getElementById('exhibit_article_content').style.height) - 50">New Printing Technologies</a> || <a
                     href="javascript:document.getElementById('CH1').scrollIntoView(false);document.getElementById('exhibit_article_content').scrollTop += parseInt(document.getElementById('exhibit_article_content').style.height) - 50">Chamber One: Preparing the Plate</a> || <a href="javascript:document.getElementById('CH2').scrollIntoView(false);document.getElementById('exhibit_article_content').scrollTop += parseInt(document.getElementById('exhibit_article_content').style.height) - 50">Chamber Two:
                     Executing the Design</a> || <a href="javascript:document.getElementById('CH3').scrollIntoView(false);document.getElementById('exhibit_article_content').scrollTop += parseInt(document.getElementById('exhibit_article_content').style.height) - 50">Chamber Three: Etching with Acid</a>
