@@ -3142,11 +3142,11 @@
                     </lg>
                     <textfoot justify="left">
                          <l n="jerusalem.mpi.illbk.07.48" justify="left" indent="60">
-                              <catchword>Jeru<note>Only fragments of this catchword are printed,
+                              <catchword>Jeru</catchword><note>Only fragments of this catchword are printed,
                                         visible in the far lower right corner of the plate.
                                         Fragments of this word, "Jeru-", partly deleted on the
                                         copperplate, are visible in *Jerusalem* copies A and E and
-                                        posthumous copy I.</note></catchword>
+                                        posthumous copy I.</note>
                          </l>
                     </textfoot>
                </phystext>
@@ -3413,8 +3413,8 @@
                <phystext>
                     <texthead justify="left">
                          <l n="jerusalem.mpi.illbk.08.01" justify="left" indent="65">
-                              <physnumber type="printednumbers">16<note>The number is etched or
-                                        engraved in white line.</note></physnumber>
+                              <physnumber type="printednumbers"></physnumber>16<note>The number is etched or
+                                        engraved in white line.</note>
                               <space extent="5"/>
                          </l>
                     </texthead>
@@ -4372,10 +4372,10 @@
                </illusdesc>
                <phystext>
                     <texthead justify="left">
-                         <l n="jerusalem.mpi.illbk.12.01" justify="left" indent="60">
-                              <physnumber type="pen-and-ink">12<note>The number is etched or
-                                        engraved in white line.</note></physnumber>
-                              <space extent="5"/>
+                         <l n="jerusalem.mpi.illbk.12.01" justify="left" indent="60"><space extent="5"/>
+                              <physnumber type="pen-and-ink">12</physnumber><note>The number is etched or
+                                        engraved in white line.</note>
+                             
                          </l>
                     </texthead>
                     <vspace extent="2"/>
@@ -7694,10 +7694,10 @@
                     </lg>
                     <textfoot justify="left">
                          <l n="jerusalem.mpi.illbk.24.32" justify="left" indent="52">
-                              <catchword>The<note>The catchword "The" is fully visible in this
+                              <catchword>The</catchword><note>The catchword "The" is fully visible in this
                                         impression but was deleted from the copperplate, leaving
                                         only letter fragments visible in some other
-                                        impressions.</note></catchword>
+                                        impressions.</note>
                          </l>
                     </textfoot>
                </phystext>
@@ -9164,9 +9164,9 @@
                <phystext>
                     <texthead justify="left">
                          <l n="jerusalem.mpi.illbk.31.01" justify="left" indent="62">
-                              <physnumber type="printednumbers">99<note>This number top right,
+                              <physnumber type="printednumbers">99</physnumber><note>This number top right,
                                         etched or engraved in white line, is partly obscured by
-                                        inking.</note></physnumber>
+                                        inking.</note>
                          </l>
                     </texthead>
                     <vspace extent="1"/>
