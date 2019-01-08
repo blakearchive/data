@@ -1081,6 +1081,15 @@ ul
    <o:r id="V:Rule1" type="connector" idref="#Line_x0020_3"/>
   </o:rules>
  </o:shapelayout></xml><![endif]-->
+ <script>
+$(document).ready(function(){
+  $('.dropdown-submenu a.test').on("click", function(e){
+    $(this).next('ul').toggle();
+    e.stopPropagation();
+    e.preventDefault();
+  });
+});
+</script>
 </head>
 <STYLE>A {text-decoration: none;} </STYLE>
 <body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
