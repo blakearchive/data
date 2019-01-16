@@ -3,33 +3,35 @@
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter to George Cumberland, 6 December 1795"><main>Letter to George
-                        Cumberland, 6 December 1795</main> : electronic edition </title>
-                <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester;
-                        <name>Robert Essick,</name>University of California, Riverside; and
-                        <name>Joseph Viscomi</name>, University of North Carolina at Chapel
-                    Hill</principal>
+                <title reg="Letter to George Cumberland, 6 December 1795">
+                    <main>Letter to George Cumberland, 6 December 1795</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert
+                    Essick, </name>University of California, Riverside; and <name>Joseph
+                        Viscomi </name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 14.6KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
                 to ??KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>???</date></publicationstmt>
+                    Archives<date>February 2019</date>
+            </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2009</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2009 Huntington Library and Art Gallery. </userestrict>
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2018 British Library. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -39,11 +41,14 @@
                 <objtitle>
                     <title>Letter to George Cumberland, 6 December 1795</title>
                 </objtitle>
-                <origination>William Blake<role>author, </role><role>inventor,
-                        </role><role>delineator</role></origination>
+                <origination>William Blake<role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
                 <compdate value="1795.A">1795<note>Although the letter is dated 6 December 1795, the
                         postmark, "C DE / 10 / 95", indicates that it was not actually posted until
-                        late on 9 December or on 10 December 1795.</note></compdate>
+                        late on 9 December or on 10 December 1795.</note>
+                </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
@@ -53,7 +58,8 @@
                         1). The reverse side bearing the address is not photographed. The full sheet
                         was folded to form a sealed packet for posting. A hole is torn through the
                         paper along the middle of object 1 from lines 8-10 where the seal was
-                        opened, removing several words.</note></numberleaves>
+                        opened, removing several words.</note>
+                </numberleaves>
                 <leafsize>38.1 x 23.6 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
@@ -75,44 +81,51 @@
             </provenance>
             <repository>
                 <institution>British Library</institution>
+                <addressline>St. Pancras</addressline>
                 <addressline>96 Euston Road</addressline>
                 <addressline>London, NW1 2DB</addressline>
                 <addressline>United Kingdom</addressline>
                 <addressline>Telephone, Manuscript Collections: +44 (0)20-7414-7513</addressline>
                 <addressline>Telephone, Reader Services: +44 (0)20-7414-7676</addressline>
-                <addressline>Fax, Reader Services: +44 (0)1937-546321 </addressline>
                 <addressline>E-mail, Reader Services: reader-services-enquiries@bl.uk</addressline>
                 <addressline>http://www.bl.uk</addressline>
                 <department>Manuscripts</department>
-                <repositoryid label="Accession number">Add MS 36498, folio 51</repositoryid>
+                <repositoryid label="Accession number">Add 36498, folio 51</repositoryid>
             </repository>
         </source>
         <desc id="lt6dec1795.1.ltr.01" dbi="lt6dec1795.1.1.LT">
-            <objtitle><title type="transcribed">I congratulate you not on any atchievement</title>,
-                        <objid><objnumber code="A1">Object 1 </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="transcribed">I congratulate you not on any atchievement</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>38.1 x 23.6 cm.</objsize>
                 <objnote>
-                    <p>Blake's letter is written on one side of a single leaf (object 1). The
+                    <p>Blake's letter is written on one side of a single leaf (Object 1). The
                         reverse side bearing the address is not photographed. The full sheet was
                         folded to form a sealed packet for posting. A hole is torn through the paper
-                        along the middle of object 1 from lines 8-10 where the seal was opened,
+                        along the middle of Object 1 from lines 8-10 where the seal was opened,
                         removing several words.</p>
-                    <p>Two inscriptions in an unknown hand appear on object 1: the British Library
+                    <p>Two inscriptions in an unknown hand appear on Object 1: the British Library
                         folio number "51" in the top left corner, and the number "52", oriented
                         vertically, in the bottom right corner.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
-                <lg type="prose" justify="left">
+                <lg justify="left">
                     <l n="lt6dec1795.1.ltr.01.01" justify="left" indent="29">Lambeth</l>
-                    <l n="lt6dec1795.1.ltr.01.02" justify="left" indent="28">6 Decemb<unclear
-                            resp="KR">e</unclear><hi rend="superscript">r</hi> 1795</l>
+                    <l n="lt6dec1795.1.ltr.01.02" justify="left" indent="28">6
+                                <choice><orig>Decemb</orig><reg>December</reg></choice><unclear
+                            resp="KR">e</unclear>
+                        <hi rend="superscript">r</hi> 1795</l>
                     <l n="lt6dec1795.1.ltr.01.03" justify="left" indent="1">Dear Sir</l>
                     <l n="lt6dec1795.1.ltr.01.04" justify="left" indent="9">I congratulate you not
-                        on any <choice><orig>atchievement</orig><reg>achievement</reg></choice>.
-                        because I</l>
+                        on any <choice>
+                            <orig>atchievement</orig>
+                            <reg>achievement</reg>
+                        </choice>. because I</l>
                     <l n="lt6dec1795.1.ltr.01.05" justify="left">know that the Genius that produces.
                         these Designs can execute</l>
                     <l n="lt6dec1795.1.ltr.01.06" justify="left">them in any manner. notwithstanding
@@ -120,64 +133,94 @@
                     <l n="lt6dec1795.1.ltr.01.07" justify="left">which teaches that Execution is the
                         power of One &amp; Invention of</l>
                     <l n="lt6dec1795.1.ltr.01.08" justify="left">Another __ Locke says it i<gap
-                            agent="cutaway" extent="6"/> same faculty that Invents <note><illus
-                                filename="lt6dec1795.1.8.note.jpg"/>Bentley (<hi rend="i"
-                                >Writings</hi> volume 2, page 1522), Erdman (page 699), and Keynes
-                                (<hi rend="i">Letters</hi>, page 5) propose, in brackets, "it i[s
+                            agent="cutaway" extent="6"/> same faculty that Invents <note>
+                            <illus filename="lt6dec1795.1.8.note.jpg"/>Bentley (*Writings* volume 2, page 1522), Erdman (page 699), and Keynes
+                                (*Letters*, page 5) propose, in brackets, "it i[s
                             the] same" for the text removed by the hole that runs through this
-                            line.</note></l>
+                            line.</note>
+                    </l>
                     <l n="lt6dec1795.1.ltr.01.09" justify="left">Judges, &amp; I say he who <gap
-                            agent="cutaway" extent="6"/><unclear resp="KR">I</unclear>nvent can
-                                Execute.<note><illus filename="lt6dec1795.1.9.note.jpg"/>Bentley
-                                (<hi rend="i">Writings</hi> volume 2, page 1522), Erdman (page 699),
-                            and Keynes (<hi rend="i">Letters</hi>, page 5) read across this gap in
-                            the text: "he who [can] Invent". This reading is further supported by
-                            the fragment of visible script, detail image above, that is still
-                            attached to the seal at the bottom of the page and appears to include
-                            the "an" of "[c]an".</note></l>
+                            agent="cutaway" extent="6"/>
+                        <unclear resp="KR"
+                            >I</unclear><choice><orig>nvent</orig><reg>Invent</reg></choice> can Execute.<note>
+                            <illus filename="lt6dec1795.1.9.note.jpg"/>Bentley (*Writings* volume 2, page 1522), Erdman (page 699), and Keynes
+                                (*Letters*, page 5) read across this gap in the
+                            text: "he who [can] Invent". This reading is further supported by the
+                            fragment of visible script, detail image above, that is still attached
+                            to the seal at the bottom of the page and appears to include the "an" of
+                            "[c]an".</note>
+                    </l>
+                </lg>
+                <lg justify="left">
                     <l n="lt6dec1795.1.ltr.01.10" justify="left" indent="6">As to laying on the
-                                Wa<subst><del type="overwrite">s</del><add type="overwrite"
-                                place="inline">x</add></subst> it is as follows</l>
+                                <choice><orig>Wa</orig><reg>Wax</reg></choice><subst>
+                            <del type="overwrite">s</del>
+                            <add type="overwrite" place="inline">x</add>
+                        </subst> it is as follows</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt6dec1795.1.ltr.01.11" justify="left" indent="4">Take a cake of Virgins
                         Wax (I dont know What animal produces it)</l>
                     <l n="lt6dec1795.1.ltr.01.12" justify="left">&amp; stroke it regularly over the
                         surface of a warm Plate. (the Plate</l>
                     <l n="lt6dec1795.1.ltr.01.13" justify="left">must be warm enough to melt the Wax
-                        as it passes over) then<note><illus filename="lt6dec1795.1.13.note.jpg"
-                            />Blake appears to have added an ascender to correct the poorly formed
-                            initial "W" of "Wax".</note></l>
-                    <l n="lt6dec1795.1.ltr.01.14" justify="left">immediately draw a feather
-                                o<subst><del type="overwrite">ver</del><add type="overwrite"
-                                place="inline">ver</add></subst> it &amp; you will get an even
-                                surface<note><illus filename="lt6dec1795.1.14.note.jpg"/>Blake
-                            appears to have rewritten the final three letters of "over" to correct
-                            the poorly formed characters.</note></l>
+                        as it passes over) then<note>
+                            <illus filename="lt6dec1795.1.13.note.jpg"/>Blake appears to have added
+                            an ascender to correct the poorly formed initial "W" of "Wax".</note>
+                    </l>
+                    <l n="lt6dec1795.1.ltr.01.14" justify="left">immediately draw a feather o<subst>
+                            <del type="overwrite">ver</del>
+                            <add type="overwrite" place="inline"
+                                        ><choice><orig>ver</orig><reg>over</reg></choice></add>
+                        </subst> it &amp; you will get an even surface<note>
+                            <illus filename="lt6dec1795.1.14.note.jpg"/>Blake appears to have
+                            rewritten the final three letters of "over" to correct the poorly formed
+                            characters.</note>
+                    </l>
                     <l n="lt6dec1795.1.ltr.01.15" justify="left">which when cold will recieve any
                         impression minutely</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt6dec1795.1.ltr.01.16" justify="left" indent="5">Note The danger is in
-                        not covering the Plate <hi rend="u">All over</hi></l>
+                        not covering the Plate <hi rend="u">All over</hi>
+                    </l>
+                </lg>
+                <lg justify="left">
                     <l n="lt6dec1795.1.ltr.01.17" justify="left" indent="14">Now You will I hope
-                        shew all the family of Antique</l>
+                                <choice><orig>shew</orig><reg>show</reg></choice> all the family of
+                        Antique</l>
                     <l n="lt6dec1795.1.ltr.01.18" justify="left">Borers. that Peace &amp; Plenty
                         &amp; Domestic Happiness is the Source</l>
                     <l n="lt6dec1795.1.ltr.01.19" justify="left">of Sublime Art. &amp; prove to the
                         Abstract Philosophers. that</l>
                     <l n="lt6dec1795.1.ltr.01.20" justify="left">Enjoyment &amp; not Abstinence is
-                        the food of <subst><del type="overwrite"><gap reason="erasure" extent="9"
-                                /></del><add type="overwrite" place="inline"
-                                >Intellect</add></subst><note><illus
-                                filename="lt6dec1795.1.20.note.jpg"/>"Intellect" is written over the
-                            remnants of an illegible word that was scratched out.</note></l>
+                        the food of <subst>
+                            <del type="overwrite">
+                                <gap reason="erasure" extent="9"/>
+                            </del>
+                            <add type="overwrite" place="inline">Intellect</add>
+                        </subst>
+                        <note>
+                            <illus filename="lt6dec1795.1.20.note.jpg"/>"Intellect" is written over
+                            the remnants of an illegible word that was scratched out.</note>
+                    </l>
+                </lg>
+                <lg justify="left">
                     <l n="lt6dec1795.1.ltr.01.21" justify="left" indent="25">Yours Sincerely</l>
-                    <l n="lt6dec1795.1.ltr.01.22" justify="left" indent="25">Will Blake</l>
+                    <l n="lt6dec1795.1.ltr.01.22" justify="left" indent="25"
+                                ><choice><orig>Will</orig><reg>William</reg></choice> Blake</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt6dec1795.1.ltr.01.23" justify="left" indent="5">Health to M<hi
-                            rend="superscript">rs</hi> Cumberland &amp; family</l>
+                            rend="superscript"><choice><orig>rs</orig><reg>Mrs</reg></choice></hi>
+                        Cumberland &amp; family</l>
                     <l n="lt6dec1795.1.ltr.01.24" justify="left">The pressure necessary to roll off
                         the lines is the same as when you</l>
                     <l n="lt6dec1795.1.ltr.01.25" justify="left">print, or not quite so great.. I
                         have not been able to send</l>
-                    <l n="lt6dec1795.1.ltr.01.26" justify="left">a proof of the bath tho I have done
-                        the corrections. my paper</l>
+                    <l n="lt6dec1795.1.ltr.01.26" justify="left">a proof of the bath
+                                <choice><orig>tho</orig><reg>though</reg></choice> I have done the
+                        corrections. my paper</l>
                     <l n="lt6dec1795.1.ltr.01.27" justify="left">not being in order</l>
                 </lg>
             </phystext>

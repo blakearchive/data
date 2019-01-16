@@ -3,33 +3,35 @@
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter to George Cumberland, 23 December 1796"><main>Letter to George
-                        Cumberland, 23 December 1796</main> : electronic edition </title>
-                <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester;
-                        <name>Robert Essick,</name>University of California, Riverside; and
-                        <name>Joseph Viscomi</name>, University of North Carolina at Chapel
-                    Hill</principal>
+                <title reg="Letter to George Cumberland, 23 December 1796">
+                    <main>Letter to George Cumberland, 23 December 1796</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert
+                    Essick, </name>University of California, Riverside; and <name>Joseph
+                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 12KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
                 to ??KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>???</date></publicationstmt>
+                    Archives<date>February 2019</date>
+            </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2005</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2005 British Library. </userestrict>
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2018 British Library. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -39,8 +41,10 @@
                 <objtitle>
                     <title>Letter to George Cumberland, 23 December 1796</title>
                 </objtitle>
-                <origination>William Blake<role>author, </role><role>inventor,
-                        </role><role>delineator</role></origination>
+                <origination>William Blake<role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
                 <compdate value="1796.A">1796</compdate>
             </objdescid>
             <objinfo>
@@ -49,8 +53,8 @@
                 <objsize>full sheet 31.2 x 18.9 cm.</objsize>
                 <numberleaves>1<note>The letter was written on one side of a single leaf. Bentley
                             (<hi rend="i">Writings</hi> volume 2, page 1523) notes that the address
-                        may have appeared on a cover which would have held the
-                    letter.</note></numberleaves>
+                        may have appeared on a cover which would have held the letter.</note>
+                </numberleaves>
                 <leafsize>31.2 x 18.9 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
@@ -73,12 +77,12 @@
             </provenance>
             <repository>
                 <institution>British Library</institution>
+                <addressline>St. Pancras</addressline>
                 <addressline>96 Euston Road</addressline>
                 <addressline>London, NW1 2DB</addressline>
                 <addressline>United Kingdom</addressline>
                 <addressline>Telephone, Manuscript Collections: +44 (0)20-7414-7513</addressline>
                 <addressline>Telephone, Reader Services: +44 (0)20-7414-7676</addressline>
-                <addressline>Fax, Reader Services: +44 (0)1937-546321 </addressline>
                 <addressline>E-mail, Reader Services: reader-services-enquiries@bl.uk</addressline>
                 <addressline>http://www.bl.uk</addressline>
                 <department>Manuscripts</department>
@@ -86,13 +90,15 @@
             </repository>
         </source>
         <desc id="lt23dec1796.1.ltr.01" dbi="lt23dec1796.1.1.LT">
-            <objtitle><title type="transcribed">I have lately had some pricks of conscience</title>,
-                        <objid><objnumber code="A1">Object 1</objnumber></objid></objtitle>
+            <objtitle>
+                <title type="transcribed">I have lately had some pricks of conscience</title>, <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>31.2 x 18.9 cm.</objsize>
                 <objnote>
-                    <p>The letter was written on one side of a single leaf. Bentley (<hi rend="i"
-                            >Writings</hi> volume 2, page 1523) notes that the address may have
+                    <p>The letter was written on one side of a single leaf. Bentley (*Writings* volume 2, page 1523) notes that the address may have
                         appeared on a cover which would have held the letter.</p>
                     <p>In the top right corner the British Library folio number, "155", is inscribed
                         in an unknown hand.</p>
@@ -100,29 +106,32 @@
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
-                <lg>
+                <lg justify="left">
                     <l n="lt23dec1796.1.ltr.01.01" justify="left">Dear Cumberland</l>
                     <l n="lt23dec1796.1.ltr.01.02" justify="left" indent="7">I have lately had some
                         pricks of conscience on account</l>
                     <l n="lt23dec1796.1.ltr.01.03" justify="left">of not acknowledging your
                         friendship to me <del type="overstrike">before</del> immediately</l>
-                    <l n="lt23dec1796.1.ltr.01.04" justify="left">on the
-                                <choice><orig>receit</orig><reg>receipt</reg></choice> of your .
-                        beautiful book. I have likewise had by<note>Erdman (page 700) reads "receit"
-                            as "reciet".</note></l>
+                    <l n="lt23dec1796.1.ltr.01.04" justify="left">on the <choice>
+                            <orig>receit</orig>
+                            <reg>receipt</reg>
+                        </choice> of your . beautiful book. I have likewise had by<note>Erdman (page
+                            700) reads "receit" as "reciet".</note>
+                    </l>
                     <l n="lt23dec1796.1.ltr.01.05" justify="left">me all the Summer 6 Plates which
-                        you desired me to get<note>Keynes (<hi rend="i">Letters</hi>, page 6) and
-                            Erdman (page 700) read "Summer" as "summer". Bentley (<hi rend="i"
-                                >Writings</hi> volume 2, page 1523) notes: "These six plates have
+                        you desired me to get<note>Keynes (*Letters*, page 6) and
+                            Erdman (page 700) read "Summer" as "summer". Bentley (*Writings* volume 2, page 1523) notes: "These six plates have
                             not been identified, but one may be connected with Richard Cosway's
                             suggestion of 27 Dec. 1795 that Cumberland should 'get Blake to make an
                             engraving' of Cumberland's beautiful 'Picture of [i.e. by] Leonardo'
-                                (<hi rend="i">Blake Records</hi>, 49). More probably they were just
+                                (*Blake Records*, 49). More probably they were just
                             blank copperplates which Cumberland had asked Blake to buy for him."
-                        </note></l>
+                        </note>
+                    </l>
                     <l n="lt23dec1796.1.ltr.01.06" justify="left">made for you. they have laid on my
-                        shelf, without speaking<note>Bentley (<hi rend="i">Writings</hi> volume 2,
-                            page 1523) reads "they" as "They".</note></l>
+                        shelf, without speaking<note>Bentley (*Writings* volume 2,
+                            page 1523) reads "they" as "They".</note>
+                    </l>
                     <l n="lt23dec1796.1.ltr.01.07" justify="left">to tell me whose they were or that
                         they were <del type="overstrike">there</del> at all &amp;</l>
                     <l n="lt23dec1796.1.ltr.01.08" justify="left">it was some time (when I found
@@ -131,11 +140,16 @@
                         were bound or whether they</l>
                     <l n="lt23dec1796.1.ltr.01.10" justify="left">were to lie there to eternity. I
                         have now sent them to you</l>
-                    <l n="lt23dec1796.1.ltr.01.11" justify="left">to be transmuted, thou real
-                                <choice><orig>Alchymist</orig><reg>Alchemist</reg></choice>!</l>
+                    <l n="lt23dec1796.1.ltr.01.11" justify="left">to be transmuted, thou real <choice>
+                            <orig>Alchymist</orig>
+                            <reg>Alchemist</reg>
+                        </choice>!</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt23dec1796.1.ltr.01.12" justify="left" indent="7">Go on Go on. such works
-                        as yours Nature &amp;<note>Keynes (<hi rend="i">Letters</hi>, page 6) reads
-                            "such" as "Such".</note></l>
+                        as yours Nature &amp;<note>Keynes (*Letters*, page 6) and Bentley (*Writings* volume 2, page 1523) read
+                            "such" as "Such".</note>
+                    </l>
                     <l n="lt23dec1796.1.ltr.01.13" justify="left">Providence the Eternal Parents
                         demand from their children</l>
                     <l n="lt23dec1796.1.ltr.01.14" justify="left">how few produce them in such
@@ -144,23 +158,31 @@
                         rewards them. How all</l>
                     <l n="lt23dec1796.1.ltr.01.16" justify="left">your Brethren say, The sound of
                         his harp &amp; his flute heard</l>
-                    <l n="lt23dec1796.1.ltr.01.17" justify="left">from his secret forest
-                                <choice><orig>chears</orig><reg>cheers</reg></choice> us to the
-                        labours of life, &amp;</l>
+                    <l n="lt23dec1796.1.ltr.01.17" justify="left">from his secret forest <choice>
+                            <orig>chears</orig>
+                            <reg>cheers</reg>
+                        </choice> us to the <choice><orig>labours</orig><reg>labors</reg></choice> of life, &amp;</l>
                     <l n="lt23dec1796.1.ltr.01.18" justify="left">we plow &amp; reap forgetting our
-                        labour.</l>
+                        <choice><orig>labour</orig><reg>labor</reg></choice>.</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt23dec1796.1.ltr.01.19" justify="left" indent="6">Let us see you
                         sometimes as well as sometimes hear</l>
                     <l n="lt23dec1796.1.ltr.01.20" justify="left">from you &amp; let us often See
                         your Works</l>
-                    <l n="lt23dec1796.1.ltr.01.21" justify="left" indent="4">Compliments to M<hi
-                            rend="superscript">rs</hi> Cumberland &amp; Family</l>
+                </lg>
+                <lg justify="left">
+                    <l n="lt23dec1796.1.ltr.01.21" justify="left" indent="4">Compliments to <choice><orig>M<hi
+                        rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> Cumberland &amp; Family</l>
                     <l n="lt23dec1796.1.ltr.01.22" justify="left" indent="4">Lambeth <space
                             extent="8"/>Yours in head &amp; heart</l>
-                    <l n="lt23dec1796.1.ltr.01.23" justify="left" indent="5">23 Decemb<hi
-                            rend="superscript">r</hi> 1796</l>
-                    <l n="lt23dec1796.1.ltr.24" justify="left" indent="31"
-                                ><choice><sic>Will</sic><reg>William</reg></choice> Blake</l>
+                    <l n="lt23dec1796.1.ltr.01.23" justify="left" indent="5">23 <choice><orig>Decemb<hi
+                        rend="superscript">r</hi></orig><reg>December</reg></choice> 1796</l>
+                    <l n="lt23dec1796.1.ltr.24" justify="left" indent="31">
+                        <choice>
+                            <sic>Will</sic>
+                            <reg>William</reg>
+                        </choice> Blake</l>
                     <l n="lt23dec1796.1.ltr.01.25" justify="left">a Merry Christmas</l>
                 </lg>
             </phystext>

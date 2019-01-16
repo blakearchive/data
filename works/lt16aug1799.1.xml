@@ -1,35 +1,36 @@
-<bad id="lt16aug1799.1" type="ltr" work="Letter to Dr. John Trusler, 16 August 1799" copy="1"
-    copyid="1" institution="britishlibrary" catalog="bentley" catid="lt86-lt16aug1799">
+<bad id="lt16aug1799.1" type="ltr" work="Letter to Dr. John Trusler, 16 August 1799" copy="1" copyid="1" institution="britishlibrary" catalog="bentley" catid="lt86-lt16aug1799">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter to Dr. John Trusler, 16 August 1799"><main>Letter to Dr. John
-                        Trusler, 16 August 1799</main> : electronic edition </title>
-                <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester;
-                        <name>Robert Essick,</name>University of California, Riverside; and
-                        <name>Joseph Viscomi</name>, University of North Carolina at Chapel
-                    Hill</principal>
+                <title reg="Letter to Dr. John Trusler, 16 August 1799">
+                    <main>Letter to Dr. John Trusler, 16 August 1799</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert
+                    Essick, </name>University of California, Riverside; and <name>Joseph
+                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 19.5KB; 3 JPEG (ISO/IEC 10918) files ranging in size from ??KB
                 to ??KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>???</date></publicationstmt>
+                    Archives<date>February 2019</date>
+            </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2005</date> by Morris Eaves, Robert N. Essick, and Joseph
-            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
-            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
-            terms, in any medium, requires express written consent from the editors and advance
-            notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2005 British Library. </userestrict>
+        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and
+            Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance
+            with the Fair Use provisions of U.S. copyright law. Redistribution or republication on
+            other terms, in any medium, requires express written consent from the editors and
+            advance notification of the publisher. Permission to reproduce the graphic images in
+            this archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2018 British Library. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -39,8 +40,10 @@
                 <objtitle>
                     <title>Letter to Dr. John Trusler, 16 August 1799</title>
                 </objtitle>
-                <origination>William Blake<role>author, </role><role>inventor,
-                        </role><role>delineator</role></origination>
+                <origination>William Blake<role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
                 <compdate value="1799.A">1799</compdate>
             </objdescid>
             <objinfo>
@@ -50,9 +53,10 @@
                 <numberleaves>2<note>The full sheet was folded to form two leaves, with Blake's
                         letter written on the first recto (object 1), first verso (object 2), and
                         second recto (object 3) of the folded sheet. The blank second verso is not
-                        photographed. The unfolded full sheet image containing objects 2 and 3 can
-                        be accessed under Supplemental Views on the Object View Page for those
-                        objects.</note></numberleaves>
+                        photographed. The unfolded full sheet image containing objects 2 and 3 can be
+                        accessed under Supplemental Views on the Object View Page for those
+                        objects.</note>
+                </numberleaves>
                 <leafsize>19.4 x 15.5 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
@@ -76,12 +80,12 @@
             </provenance>
             <repository>
                 <institution>British Library</institution>
+                <addressline>St. Pancras</addressline>
                 <addressline>96 Euston Road</addressline>
                 <addressline>London, NW1 2DB</addressline>
                 <addressline>United Kingdom</addressline>
                 <addressline>Telephone, Manuscript Collections: +44 (0)20-7414-7513</addressline>
                 <addressline>Telephone, Reader Services: +44 (0)20-7414-7676</addressline>
-                <addressline>Fax, Reader Services: +44 (0)1937-546321 </addressline>
                 <addressline>E-mail, Reader Services: reader-services-enquiries@bl.uk</addressline>
                 <addressline>http://www.bl.uk</addressline>
                 <department>Manuscripts</department>
@@ -89,16 +93,18 @@
             </repository>
         </source>
         <desc id="lt16aug1799.1.ltr.01" dbi="lt16aug1799.1.1.LT">
-            <objtitle><title type="transcribed">I find more &amp; more that my Style of
-                    Designing</title>, <objid><objnumber code="A1">object 1
-                </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="transcribed">I find more &amp; more that my Style of Designing</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>19.4 x 15.5 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves, with Blake's letter written on
-                        the first recto (object 1), first verso (object 2), and second recto (object
-                        3) of the folded sheet. The blank second verso is not photographed. The
-                        unfolded full sheet image containing objects 2 and 3 can be accessed under
+                        the first recto (Object 1), first verso (Object 2), and second recto (Object
+                        3) of the folded sheet. The blank second verso is not photographed. The unfolded
+                        full sheet image containing Objects 2 and 3 can be accessed under
                         Supplemental Views on the Object View Page for those objects.</p>
                     <p>In the top right corner the British Library folio number "324" is inscribed
                         in an unknown hand.</p>
@@ -106,28 +112,29 @@
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="lt16aug1799.1.ltr.01.01" justify="left" indent="10">To The Rev<hi
-                            rend="superscript">d</hi> D<hi rend="superscript">r</hi> Trusler</l>
-                    <l n="lt16aug1799.1.ltr.01.02" justify="left">Rev<hi rend="superscript">d</hi>.
-                                Sir<note><illus filename="lt16aug1799.1.2.note.jpg"/>Blake places
+                <lg justify="left">
+                    <l n="lt16aug1799.1.ltr.01.01" justify="left" indent="10">To The <choice><orig>Rev<hi rend="superscript">d</hi></orig><reg>Reverend</reg></choice> <choice><orig>D<hi rend="superscript">r</hi></orig><reg>Dr</reg><reg>Doctor</reg></choice> <choice><orig>Trusler</orig><reg>John Trusler</reg></choice></l>
+                    <l n="lt16aug1799.1.ltr.01.02" justify="left"><choice><orig>Rev<hi rend="superscript">d</hi></orig><reg>Reverend</reg></choice>. Sir 
+                            <note>
+                            <illus filename="lt16aug1799.1.2.note.jpg"/>Blake places
                             the superscript "d" above a period. These are presented as consecutive
-                            characters in the transcription of this line. Bentley (<hi rend="i"
-                                >Writings</hi> volume 2, page 1524) places the superscript "d"
-                            directly above the period. Keynes (<hi rend="i">Letters</hi>, page 6)
-                            and Erdman (page 701) omit the period below the superscript
-                        "d".</note></l>
+                            characters in the transcription of this line. Bentley (*Writings* volume 2, page 1524) places the superscript "d"
+                            directly above the period. Keynes (*Letters* page 6)
+                            and Erdman (page 701) omit the period below the superscript "d".
+                            </note>
+                    </l>
                     <l n="lt16aug1799.1.ltr.01.03" justify="left" indent="7">I find more &amp; more
                         that my Style of Designing is</l>
                     <l n="lt16aug1799.1.ltr.01.04" justify="left">a Species by itself &amp; in this
                         which I send you have been</l>
-                    <l n="lt16aug1799.1.ltr.01.05" justify="left">compelld by my Genius or Angel to
+                    <l n="lt16aug1799.1.ltr.01.05" justify="left"><choice><orig>compelld</orig><reg>compelled</reg></choice> by my Genius or Angel to
                         follow where he led</l>
                     <l n="lt16aug1799.1.ltr.01.06" justify="left">if I were to act otherwise it
                         would not fulfill the purpose</l>
-                    <l n="lt16aug1799.1.ltr.01.07" justify="left">for which alone I live. which is
-                                <subst><gap reason="erasure" extent="14"/><add type="overwrite"
-                                place="inline">in conjunction</add></subst> with</l>
+                    <l n="lt16aug1799.1.ltr.01.07" justify="left">for which alone I live. which is <subst>
+                            <gap reason="erasure" extent="14"/>
+                            <add type="overwrite" place="inline">in conjunction</add>
+                        </subst> with</l>
                     <l n="lt16aug1799.1.ltr.01.08" justify="left">such men as my friend Cumberland
                         to renew the lost</l>
                     <l n="lt16aug1799.1.ltr.01.09" justify="left">Art of the Greeks</l>
@@ -135,13 +142,14 @@
                         morning for a fortnight together to</l>
                     <l n="lt16aug1799.1.ltr.01.11" justify="left">follow your Dictate but when I
                         found my attempts were</l>
-                    <l n="lt16aug1799.1.ltr.01.12" justify="left">in vain.
-                                <choice><reg>resolved</reg><sic>resolvd</sic></choice> to shew an
-                        independence which I know</l>
-                    <l n="lt16aug1799.1.ltr.01.13" justify="left">will please an<del type="wash"
-                            >y</del><space extent="1"/><subst><del>a</del><add type="overwrite"
-                                place="inline">A</add></subst>uthor better than slavishly following
-                        the</l>
+                    <l n="lt16aug1799.1.ltr.01.12" justify="left">in vain.<choice><orig>resolvd</orig><reg>resolved</reg></choice>
+                         to <choice><orig>shew</orig><reg>show</reg></choice> an independence which I know</l>
+                    <l n="lt16aug1799.1.ltr.01.13" justify="left">will please <choice><orig>an</orig><reg>any</reg></choice><del type="wash">y</del>
+                        <space extent="1"/>
+                        <subst>
+                            <del>a</del>
+                            <add type="overwrite" place="inline">A</add>
+                        </subst><choice><orig>uthor</orig><reg>Author</reg></choice> better than slavishly following the</l>
                     <l n="lt16aug1799.1.ltr.01.14" justify="left">track of another however admirable
                         that track may be</l>
                     <l n="lt16aug1799.1.ltr.01.15" justify="left">At any rate my Excuse must be; I
@@ -152,40 +160,39 @@
                     <l n="lt16aug1799.1.ltr.01.18" justify="left">&amp; promised to build on them
                         here I counted without my</l>
                     <l n="lt16aug1799.1.ltr.01.19" justify="left">host I now find my mistake</l>
-                    <l n="lt16aug1799.1.ltr.01.20" justify="left" indent="6">The Design I have Sent.
-                        Is</l>
-                    <l n="lt16aug1799.1.ltr.01.21" justify="left" indent="4">A Father taking leave
-                        of his Wife &amp; Child. Is</l>
+                    <l n="lt16aug1799.1.ltr.01.20" justify="left" indent="6">The Design I have Sent. Is</l>
+                    <l n="lt16aug1799.1.ltr.01.21" justify="left" indent="4">A Father taking leave of his Wife &amp; Child. Is</l>
                 </lg>
             </phystext>
         </desc>
         <desc id="lt16aug1799.1.ltr.02" dbi="lt16aug1799.1.2.LT">
-            <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A2">object
-                        2</objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">cont.</title>, <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>19.4 x 15.5 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves, with Blake's letter written on
-                        the first recto (object 1), first verso (object 2), and second recto (object
-                        3) of the folded sheet. The blank second verso is not photographed. The
-                        unfolded full sheet image containing objects 2 and 3 can be accessed under
+                        the first recto (Object 1), first verso (Object 2), and second recto (Object
+                        3) of the folded sheet. The blank second verso is not photographed. The unfolded
+                        full sheet image containing Objects 2 and 3 can be accessed under
                         Supplemental Views on the Object View Page for those objects.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <supplemental objectid="supplt16aug1799.1.rm.01" ovp="noindex"/>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="lt16aug1799.1.ltr.02.01" justify="left">watchd by Two Fiends incarnate.
-                        with intention that<note>Keynes (<hi rend="i">Letters</hi>, page 7) reads
-                            "watchd" as "watched".</note></l>
+                <lg justify="left">
+                    <l n="lt16aug1799.1.ltr.02.01" justify="left"><choice><orig>watchd</orig><reg>watched</reg></choice> by Two Fiends incarnate.
+                        with intention that</l> 
                     <l n="lt16aug1799.1.ltr.02.02" justify="left">when his back is turned they will
                         murder the mother</l>
                     <l n="lt16aug1799.1.ltr.02.03" justify="left">&amp; her infant. If this is not
                         Malevolence with a</l>
                     <l n="lt16aug1799.1.ltr.02.04" justify="left">vengeance I have never seen it on
-                        Earth. &amp; If you<note>Erdman (page 701) and Keynes (<hi rend="i"
-                                >Letters</hi>, page 7) read "If" as "if".</note></l>
+                        Earth. &amp; If you<note>Erdman (page 701) and Keynes (*Letters*, page 7) read "If" as "if".</note>   </l>
                     <l n="lt16aug1799.1.ltr.02.05" justify="left">approve of this I have no doubt of
                         giving you</l>
                     <l n="lt16aug1799.1.ltr.02.06" justify="left">Benevolence with Equal Vigor. as
@@ -194,17 +201,21 @@
                         describe in words</l>
                     <l n="lt16aug1799.1.ltr.02.08" justify="left">what I mean to Design for fear I
                         should Evaporate</l>
-                    <l n="lt16aug1799.1.ltr.02.09" justify="left"><subst><del type="overwrite"><gap
-                                    extent="6" reason="overwrite"/></del><add type="overwrite"
-                                place="inline">the Spir</add></subst>it of my Invention. But I hope
-                        that none<note><illus filename="lt16aug1799.2.9.note.jpg"/>Erdman (page 701)
+                    <l n="lt16aug1799.1.ltr.02.09" justify="left">
+                        <subst>
+                            <del type="overwrite">
+                                <gap extent="6" reason="overwrite"/>
+                            </del>
+                            <add type="overwrite" place="inline">the Spir</add>
+                        </subst><choice><orig>it</orig><reg>Spirit</reg></choice> of my Invention. But I hope that none<note>
+                            <illus filename="lt16aug1799.2.9.note.jpg"/>Erdman (page 701)
                             reads "some of m" underneath the overwritten script of "the
                             Spirit".</note></l>
                     <l n="lt16aug1799.1.ltr.02.10" justify="left">of my Designs will be destitute of
                         Infinite Particulars</l>
                     <l n="lt16aug1799.1.ltr.02.11" justify="left">which will present themselves to
                         the Contemplator. And</l>
-                    <l n="lt16aug1799.1.ltr.02.12" justify="left">tho I call them Mine I know that
+                    <l n="lt16aug1799.1.ltr.02.12" justify="left"><choice><orig>tho</orig><reg>though</reg></choice> I call them Mine I know that
                         they are not Mine</l>
                     <l n="lt16aug1799.1.ltr.02.13" justify="left">being of the same opinion with
                         Milton when he says That</l>
@@ -221,21 +232,24 @@
                         Manner &amp; it is agreeable</l>
                     <l n="lt16aug1799.1.ltr.02.19" justify="left">to you. I would rather Paint
                         Pictures in oil of the</l>
-                    <l n="lt16aug1799.1.ltr.02.20" justify="left">same dimensions than make Drawings
+                    <l n="lt16aug1799.1.ltr.02.20" justify="left">same dimensions than make Drawings. 
                         &amp; on the</l>
                 </lg>
             </phystext>
         </desc>
         <desc id="lt16aug1799.1.ltr.03" dbi="lt16aug1799.1.3.LT">
-            <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A3">object
-                        3</objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">cont.</title>, <objid>
+                    <objnumber code="A3">Object 3</objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>19.4 x 15.5 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves, with Blake's letter written on
-                        the first recto (object 1), first verso (object 2), and second recto (object
-                        3) of the folded sheet. The blank second verso is not photographed. The
-                        unfolded full sheet image containing objects 2 and 3 can be accessed under
+                        the first recto (Object 1), first verso (Object 2), and second recto (Object
+                        3) of the folded sheet. The blank second verso is not photographed. The unfolded
+                        full sheet image containing Objects 2 and 3 can be accessed under
                         Supplemental Views on the Object View Page for those objects.</p>
                     <p>In the top right corner the British Library folio number "325" is inscribed
                         in an unknown hand.</p>
@@ -244,36 +258,18 @@
             </physdesc>
             <supplemental objectid="supplt16aug1799.1.rm.01" ovp="noindex"/>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="lt16aug1799.1.ltr.03.01" justify="left">same terms. by this means you will
-                        have a number of<note>Bentley (<hi rend="i">Writings</hi> volume 2, page
-                            1525) reads "by" as "By".</note></l>
-                    <l n="lt16aug1799.1.ltr.03.02" justify="left">Cabinet pictures. which I flatter
-                        myself will not be unworthy</l>
-                    <l n="lt16aug1799.1.ltr.03.03" justify="left">of a scholar of
-                                <choice><sic>Rembrant</sic><reg>Rembrandt</reg></choice> &amp;
-                                <choice><sic>Teniers</sic><reg>David Teniers</reg></choice>. whom I
-                        have Studied<note><illus filename="lt16aug1799.3.3.note.jpg"/>Bentley (<hi
-                                rend="i">Writings</hi> volume 2, page 1525), Erdman (page 701), and
-                            Keynes (<hi rend="i">Letters</hi>, page 8) read “scholar” as “Scholar.”
-                            Bentley and Keynes read "Rembrant" as "Rembrandt".</note></l>
-                    <l n="lt16aug1799.1.ltr.03.04" justify="left">no less than
-                                <choice><sic>Rafael</sic><reg>Raphael</reg></choice> &amp;
-                                <choice><sic>Michael angelo</sic><reg>Michelangelo</reg></choice>.
-                        Please to send</l>
-                    <l n="lt16aug1799.1.ltr.03.05" justify="left">me your orders respecting this
-                        &amp; In my next Effort</l>
+                <lg justify="left">
+                    <l n="lt16aug1799.1.ltr.03.01" justify="left">same terms. by this means you will have a number of<note>Bentley (*Writings*, volume 2, page 1525) reads "by" as "By".</note></l>
+                    <l n="lt16aug1799.1.ltr.03.02" justify="left">Cabinet pictures. which I flatter myself will not be unworthy</l>
+                    <l n="lt16aug1799.1.ltr.03.03" justify="left">of a scholar of <choice><orig>Rembrant</orig><reg>Rembrandt</reg></choice> &amp; <choice><orig>Teniers</orig><reg>David Teniers.</reg></choice> whom I have Studied<note>Bentley (*Writings*, volume 2, page 1525), Erdman (page 701), and Keynes (*Letters*, page 8) read “scholar” for “Scholar”; Bentley and Keynes read "Rembrant" as "Rembrandt".</note></l>
+                    <l n="lt16aug1799.1.ltr.03.04" justify="left">no less than <choice><orig>Rafael</orig><reg>Raphael</reg></choice> &amp;<choice><orig>Michael angelo</orig><reg>Michelangelo</reg></choice> Please to send</l>
+                    <l n="lt16aug1799.1.ltr.03.05" justify="left">me your orders respecting this &amp; In my next Effort</l>
                     <l n="lt16aug1799.1.ltr.03.06" justify="left">I promise more Expedition</l>
-                    <l n="lt16aug1799.1.ltr.03.07" justify="left" indent="21">I am Rev<hi
-                            rend="superscript">d</hi> Sir</l>
-                    <l n="lt16aug1799.1.ltr.03.08" justify="left" indent="24">Your very humble
-                            serv<hi rend="superscript">t</hi></l>
-                    <l n="lt16aug1799.1.ltr.03.09" justify="left" indent="4">Hercules Build<hi
-                            rend="superscript">gs</hi><space extent="14"/><hi rend="underscore"
-                                >Will<hi rend="superscript">m</hi> Blake</hi></l>
+                    <l n="lt16aug1799.1.ltr.03.07" justify="left" indent="21">I am <choice><orig>Rev<hi rend="superscript">d</hi></orig><reg>Reverend</reg></choice> Sir</l>
+                    <l n="lt16aug1799.1.ltr.03.08" justify="left" indent="24">Your very humble<choice><orig>Serv<hi rend="superscript">t</hi></orig><reg>Servant</reg></choice></l>                              
+                    <l n="lt16aug1799.1.ltr.03.09" justify="left" indent="4">Hercules <choice><orig>Build<hi rend="superscript">gs</hi></orig><reg>Buildings</reg></choice><space extent="14"/><hi rend="underscore">Will<hi rend="superscript">m</hi> Blake</hi></l>
                     <l n="lt16aug1799.1.ltr.03.10" justify="left" indent="5">Lambeth</l>
-                    <l n="lt16aug1799.1.ltr.03.11" justify="left" indent="7">Aug<hi
-                            rend="superscript">st</hi> 16. 1799</l>
+                    <l n="lt16aug1799.1.ltr.03.11" justify="left" indent="7"><choice><orig>Aug<hi rend="superscript">st</hi></orig><reg>August</reg></choice> 16. 1799</l>
                 </lg>
             </phystext>
         </desc>

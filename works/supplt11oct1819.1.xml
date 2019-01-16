@@ -1,16 +1,18 @@
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+
 <bad id="supplt11oct1819.1" type="rm"
     work="Letter to [John Linnell?], 11 October 1819, supplemental view" copy="1" copyid="1"
     institution="ransom" catalog="bentley" catid="lt86-supplt11oct1819">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter to [John Linnell?], 11 October 1819, supplemental view"
-                        ><main>Letter to [John Linnell?], 11 October 1819</main> : electronic
-                    edition </title>
-                <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester;
-                        <name>Robert Essick,</name>University of California, Riverside; and
-                        <name>Joseph Viscomi</name>, University of North Carolina at Chapel
-                    Hill</principal>
+                <title reg="Letter to [John Linnell?], 11 October 1819, supplemental view">
+                    <main>Letter to [John Linnell?], 11 October 1819</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                    Essick,</name>University of California, Riverside; and <name>Joseph
+                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
@@ -20,7 +22,8 @@
             <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
                 to ??KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>???</date></publicationstmt>
+                    Archives<date>???</date>
+            </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
@@ -30,8 +33,8 @@
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2009 Huntington Library and Art Gallery. </userestrict>
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2009 Huntington Library and Art Gallery. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -41,8 +44,10 @@
                 <objtitle>
                     <title>Letter to [John Linnell?], 11 October 1819</title>
                 </objtitle>
-                <origination>William Blake<role>author, </role><role>inventor,
-                        </role><role>delineator</role></origination>
+                <origination>William Blake<role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
                 <compdate value="1819.A">1819</compdate>
             </objdescid>
             <objinfo>
@@ -52,8 +57,9 @@
                         which was folded to form a packet. The letter appears on what would have
                         been the interior of the folded packet (object 1). On the reverse side of
                         object 1 five lines of unclear text are inscribed in pencil in an unknown
-                        hand: "Mr. H[eaphy]. was brought up / as an Engraver but / [became &amp; An
-                        artist?] / in water color / He died 1835".</note></numberleaves>
+                        hand: "Mr. H[eaphy]. was brought up / as an Engraver but / [became &#38; An
+                        artist?] / in water color / He died 1835".</note>
+                </numberleaves>
                 <leafsize>20.5 x 14.6 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
@@ -92,9 +98,12 @@
             </repository>
         </source>
         <desc id="supplt11oct1819.1.rm.01" dbi="lt11oct1819.1.1.RM">
-            <objtitle><title type="editorial">Letter to [John Linnell?], 11 October 1819,
-                    supplemental view</title>, <objid><objnumber code="A1">Object 1, reverse
-                        side</objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">Letter to [John Linnell?], 11 October 1819, supplemental
+                    view</title>, <objid>
+                    <objnumber code="A1">Object 1, reverse side</objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>20.5 x 14.6 cm.</objsize>
                 <objnote>
@@ -102,7 +111,7 @@
                         to form a packet. The letter appears on what would have been the interior of
                         the folded packet (object 1). On the reverse side of object 1 five lines of
                         unclear text are inscribed in pencil in an unknown hand: "Mr. H[eaphy]. was
-                        brought up / as an Engraver but / [became &amp; An artist?] / in water color
+                        brought up / as an Engraver but / [became &#38; An artist?] / in water color
                         / He died 1835".</p>
                 </objnote>
                 <windowsize width="800" height="685"/>

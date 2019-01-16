@@ -3,33 +3,35 @@
      <header>
           <filedesc>
                <titlestmt>
-                    <title reg="Letter to Thomas Butts, 10 May 1801"><main>Letter to Thomas Butts,
-                              10 May 1801</main> : electronic edition </title>
-                    <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of
-                         Rochester; <name>Robert Essick,</name>University of California, Riverside;
-                         and <name>Joseph Viscomi</name>, University of North Carolina at Chapel
+                    <title reg="Letter to Thomas Butts, 10 May 1801">
+                         <main>Letter to Thomas Butts, 10 May 1801</main> : electronic edition </title>
+                    <principal>
+                         <resp>Editors: </resp>
+                         <name>Morris Eaves, </name>University of Rochester; <name>Robert
+                              Essick, </name>University of California, Riverside; and <name>Joseph
+                              Viscomi</name>, University of North Carolina at Chapel
                          Hill</principal>
                     <respstmt> </respstmt>
                     <sponsor>The Library of Congress, the University of North Carolina at Chapel
                          Hill and the University of Rochester</sponsor>
                     <funder/>
                </titlestmt>
-               <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-               <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
+               <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+               <extent>1 XML file approx. 13.5KB; 2 JPEG (ISO/IEC 10918) files ranging in size from
                     ??KB to ??KB</extent>
                <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                         Archives<date>???</date></publicationstmt>
+                         Archives<date>February 2019</date></publicationstmt>
                <seriesstmt>The William Blake Archive</seriesstmt>
                <updatestmt> </updatestmt>
                <notesstmt/>
           </filedesc>
-          <userestrict>Copyright © <date>2009</date> by Morris Eaves, Robert N. Essick, and Joseph
-               Viscomi, all rights reserved. Items in the Archive may be shared in accordance with
-               the Fair Use provisions of U.S. copyright law. Redistribution or republication on
-               other terms, in any medium, requires express written consent from the editors and
+          <userestrict>Copyright &#169; <date>2018</date> by Morris Eaves, Robert N. Essick, and
+               Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance
+               with the Fair Use provisions of U.S. copyright law. Redistribution or republication
+               on other terms, in any medium, requires express written consent from the editors and
                advance notification of the publisher. Permission to reproduce the graphic images in
-               this archive has been granted by the owners of the originals for this publication
-               only.<lb/><lb/>This image copyright © 2009 Huntington Library and Art Gallery. </userestrict>
+               this archive has been granted by the owners of the originals for this publication only.<lb/>
+               <lb/>This image copyright &#169; 2018 City of Westminster Archives Centre. </userestrict>
           <encodingdesc/>
           <profiledesc/>
      </header>
@@ -39,18 +41,19 @@
                     <objtitle>
                          <title>Letter to Thomas Butts, 10 May 1801</title>
                     </objtitle>
-                    <origination>William Blake<role>author, </role><role>inventor,
-                              </role><role>delineator</role></origination>
+                    <origination>William Blake<role>author, </role>
+                         <role>inventor, </role>
+                         <role>delineator</role>
+                    </origination>
                     <compdate value="1801.A">1801</compdate>
                </objdescid>
                <objinfo>
                     <numberobj>2</numberobj>
                     <objorder>1-2</objorder>
-                    <objsize>full sheet ??.? x ??.? cm.</objsize>
-                    <numberleaves>2<note>The full sheet was stained along the left edge, and the
-                              letter was written on each side of a single
-                         leaf.</note></numberleaves>
-                    <leafsize>??.? x ??.? cm.</leafsize>
+                    <objsize>full sheet 17.6 x 19.7 cm.</objsize>
+                    <numberleaves>2<note>The full sheet was stained along the left edge, and the letter was written on each side of a single leaf.</note>
+                    </numberleaves>
+                    <leafsize>17.6 x 19.7 cm.</leafsize>
                     <medium>pen and ink</medium>
                     <inkcolor>black</inkcolor>
                     <support>laid paper</support>
@@ -66,12 +69,11 @@
                     <date>1967</date>
                     <dealer>none</dealer>
                     <price>gift</price>
-                    <note>Captain Frederick Butts (the grandson of the recipient) sold about 1906
-                         this letter along with several other letters to W. Graham Robertson, who
-                         allowed them to be reproduced (1926) and bequeathed them in 1948 to Mr.
-                         Kerrison Preston, who gave them in 1967 to The Westminster Public Library,
-                         which has since been incorporated into the City of Westminster
-                         Archives.</note>
+                    <note>Captain Frederick Butts (the grandson of the recipient) sold about 1906 this
+                         letter along with several other letters to W. Graham Robertson, who allowed them 
+                         to be reproduced (1926) and bequeathed them in 1948 to Mr. Kerrison Preston, who 
+                         gave them in 1967 to The Westminster Public Library, which has since been 
+                         incorporated into the City of Westminster Archives.</note>
                </provenance>
                <repository>
                     <institution>City of Westminster Archives Centre</institution>
@@ -79,130 +81,92 @@
                     <addressline>London SW1P 2DE</addressline>
                     <addressline>United Kingdom</addressline>
                     <addressline>Telephone: +44(0)20 7641 5180</addressline>
-                    <addressline/>
                     <addressline>E-mail: archives@westminster.gov.uk</addressline>
-                    <addressline>URL: archives@westminster.gov.uk</addressline>
-                    <department>??</department>
-                    <repositoryid label="accession number"
-                         >??<!-- Or is it a catalog number? --></repositoryid>
+                    <addressline>URL: https://www.westminster.gov.uk/archives</addressline>
+                    <department>Local Studies</department>
+                    <repositoryid label="Call Number">Preston Blake Collection: Blake-Butts Letters &#38; Receipts (4)</repositoryid>
                </repository>
           </source>
+
           <desc id="lt10may1801.1.ltr.01" dbi="lt10may1801.1.1.LT">
-               <objtitle><title type="transcribed">My Dear Sir The necessary application to
-                         my</title>, <objid><objnumber code="A1">object
-                    1</objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="transcribed">My Dear Sir The necessary application to my</title>, <objid>
+                         <objnumber code="A1">Object 1</objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>??.? x ??.? cm.</objsize>
+                    <objsize>17.6 x 19.7 cm.</objsize>
                     <objnote>
-                         <p>The full sheet was stained along the left edge, and the letter was
-                              written on each side of a single leaf.</p>
-                         <p>There is a red blotch along the right edge of object 1.</p>
+                         <p>The full sheet was stained along the left edge, and the letter was written on each side of a single leaf.</p>
+                         <p>There is a red blotch along the right edge of Object 1.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    <lg type="prose" justify="left">
+                    <lg justify="left">
                          <l n="lt10may1801.1.ltr.01.01" justify="left">My Dear Sir</l>
-                         <l n="lt10may1801.1.ltr.01.02" justify="left" indent="7">The necessary
-                              application to my Duty as well to</l>
-                         <l n="lt10may1801.1.ltr.01.03" justify="left">my old as new Friends has
-                              prevented me from that respect</l>
-                         <l n="lt10may1801.1.ltr.01.04" justify="left">I owe in particular to you.
-                              And your accustomed </l>
-                         <l n="lt10may1801.1.ltr.01.05" justify="left">forgiveness of my want of
-                              Dexterity in certain points </l>
-                         <l n="lt10may1801.1.ltr.01.06" justify="left">Emboldens me <gap
-                                   reason="overwrite" extent="1" unit="character"/> to hope that
-                              Forgiveness to be continued</l>
-                         <l n="lt10may1801.1.ltr.01.07" justify="left">to me a little longer. When I
-                              shall be Enabled to throw</l>
-                         <l n="lt10may1801.1.ltr.01.08" justify="left">off all obstructions to
-                              Success </l>
-                         <l n="lt10may1801.1.ltr.01.09" justify="left" indent="7">M<hi
-                                   rend="superscript">r</hi> Hayley acts like a Prince. I am at</l>
-                         <l n="lt10may1801.1.ltr.01.10" justify="left">complete Ease. but I wish to
-                              do my Duty especially</l>
-                         <l n="lt10may1801.1.ltr.01.11" justify="left">to you who were the
-                                        <choice><orig>preecursor</orig><reg>precursor</reg></choice>
-                              of my present Fortune</l>
-                         <l n="lt10may1801.1.ltr.01.12" justify="left">I never will send you a
-                              picture unworthy of my</l>
-                         <l n="lt10may1801.1.ltr.01.13" justify="left">present proficiency. I soon
-                              shall send you several</l>
-                         <l n="lt10may1801.1.ltr.01.14" justify="left">my present engagements are in
-                              Miniature Painting</l>
-                         <l n="lt10may1801.1.ltr.01.15" justify="left">Miniature is become a Goddess
-                              in my Eyes &amp; my Friends</l>
-                         <l n="lt10may1801.1.ltr.01.16" justify="left">in Sussex say that I
-                                        <choice><orig>Excell</orig><reg>Excel</reg></choice> in the
-                              pursuit. I have</l>
-                         <l n="lt10may1801.1.ltr.01.17" justify="left">a great many orders &amp;
-                              they Multiply </l>
-                         <l n="lt10may1801.1.ltr.01.18" justify="left" indent="8">Now — let me
-                                        <choice><orig>intreat</orig><reg>entreat</reg></choice> you
-                              to give me orders</l>
-                         <l n="lt10may1801.1.ltr.01.19" justify="left">to furnish every accomodation
-                              in my powers to</l>
+                         <l n="lt10may1801.1.ltr.01.02" justify="left" indent="8">The necessary application to my Duty as well as to</l> 
+                         <l n="lt10may1801.1.ltr.01.03" justify="left">my old as new friends has prevented me from that respect<note>Bentley (*Writings* volume 2, page 1550) and Erdman (*Letters*, page 715) read "friends" as "Friends".</note></l>
+                         <l n="lt10may1801.1.ltr.01.04" justify="left">I owe in particular to you. And your accustomed </l>
+                         <l n="lt10may1801.1.ltr.01.05" justify="left">forgiveness of my want of dexterity in certain points </l>
+                         <l n="lt10may1801.1.ltr.01.06" justify="left">Emboldens me <gap reason="overwrite" extent="1" unit="character"></gap> to hope that Forgiveness to be <choice><orig>continud</orig><reg>continued</reg></choice></l>
+                         <l n="lt10may1801.1.ltr.01.07" justify="left">to me a little longer . When I shall be Enabled to throw</l>
+                         <l n="lt10may1801.1.ltr.01.08" justify="left">off all obstructions to success <note>Bentley (*Writings* volume 2, page 1550) reads "success" as "Success".</note></l>
+                    </lg>
+                    <lg justify="left">
+                         <l n="lt10may1801.1.ltr.01.09" justify="left"indent="8"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> <choice><orig>Hayley</orig><reg>William Hayley</reg></choice> acts like a Prince. I am at</l>
+                         <l n="lt10may1801.1.ltr.01.10" justify="left">complete Ease, but I wish to do my Duty especially<note>Bentley (*Writings* volume 2, page 1550) reads "Duty" as "duty".</note></l>
+                         <l n="lt10may1801.1.ltr.01.11" justify="left">to you who were the <choice><orig>preecursor</orig><reg>precursor</reg></choice> of my present Fortune <note>Keynes (*Letters*, page 32) reads "preecursor" as "precursor" while Erdman (page 715) reads it as "praecursor".</note></l>
+                         <l n="lt10may1801.1.ltr.01.12" justify="left">I never will send you a picture unworthy of my</l>
+                         <l n="lt10may1801.1.ltr.01.13" justify="left">present proficiency. I soon shall send you several</l>
+                         <l n="lt10may1801.1.ltr.01.14" justify="left">my present engagements are in Miniature Painting</l>
+                         <l n="lt10may1801.1.ltr.01.15" justify="left">Miniature is become a Goddess in my Eyes &#38; my Friends</l>
+                         <l n="lt10may1801.1.ltr.01.16" justify="left">in Sussex say that I Excell in the pursuit. I have</l>
+                         <l n="lt10may1801.1.ltr.01.17" justify="left">a great many orders &#38; they Multiply </l>
+                    </lg>
+                    <lg justify="left">
+                         <l n="lt10may1801.1.ltr.01.18" justify="left" indent="8">Now--let me <choice><orig>intreat</orig><reg>entreat</reg></choice> you to give me orders</l>
+                         <l n="lt10may1801.1.ltr.01.19" justify="left">to furnish every accomodation in my power to</l>     
                     </lg>
                </phystext>
           </desc>
           <desc id="lt10may1801.1.ltr.02" dbi="lt10may1801.1.2.LT">
-               <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A2">object 2
-                         </objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="editorial">cont.</title>, <objid>
+                         <objnumber code="A2">Object 2 </objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>??.? x ??.? cm.</objsize>
+                    <objsize>17.5 x 20.1 cm.</objsize>
                     <objnote>
-                         <p>The full sheet was stained along the left edge, and the letter was
-                              written on each side of a single leaf.</p>
+                         <p>The full sheet was stained along the left edge, and the letter was written on each side of a single leaf.</p>
+                       
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    <lg type="prose" justify="left">
-                         <l n="lt10may1801.1.ltr.02.01" justify="left"
-                                        ><choice><orig>recieve</orig><reg>receive</reg></choice> you
-                              &amp; M<hi rend="superscript">rs</hi> Butts I know my Cottage is
-                              too</l>
-                         <l n="lt10may1801.1.ltr.02.02" justify="left">narrow for your Ease &amp;
-                              comfort we have one room in</l>
-                         <l n="lt10may1801.1.ltr.02.03" justify="left">which we could make a bed to
-                              lodge you both &amp; if this</l>
-                         <l n="lt10may1801.1.ltr.02.04" justify="left">is sufficient it is at your
-                              service. but as beds &amp;</l>
-                         <l n="lt10may1801.1.ltr.02.05" justify="left">rooms &amp; accomodations are
-                              easily <choice><orig>procurd</orig><reg>procured</reg></choice> by one
-                              on</l>
-                         <l n="lt10may1801.1.ltr.02.06" justify="left">the spot permit me to offer
-                              my service in either</l>
-                         <l n="lt10may1801.1.ltr.02.07" justify="left">way either in my cottage or
-                              in a <choice><orig>loding</orig><reg>lodging</reg></choice> in the
-                              village</l>
-                         <l n="lt10may1801.1.ltr.02.08" justify="left">as is most agreeable to you
-                              if you &amp; M<hi rend="superscript">rs</hi> Butts</l>
-                         <l n="lt10may1801.1.ltr.02.09" justify="left">should think Bognor a
-                              pleasant relief from business</l>
-                         <l n="lt10may1801.1.ltr.02.10" justify="left">in the Summer. It will give
-                              me the utmost
-                              <choice><orig>delighs</orig><reg>delight</reg></choice></l>
-                         <l n="lt10may1801.1.ltr.02.11" justify="left">to do my best</l>
-                         <l n="lt10may1801.1.ltr.02.12" justify="left" indent="8">Sussex is
-                              certainly a happy place &amp;</l>
-                         <l n="lt10may1801.1.ltr.02.13" justify="left">Felpham in particular is the
-                              sweetest spot on Earth</l>
-                         <l n="lt10may1801.1.ltr.02.14" justify="left">at least it is so to me and
-                              My Good Wife who</l>
-                         <l n="lt10may1801.1.ltr.02.15" justify="left">desires her kindest Love to
-                                   M<hi rend="superscript">rs</hi> Butts &amp; yourself</l>
-                         <l n="lt10may1801.1.ltr.02.16" justify="left">accept mine also &amp;
-                              believe me to remain</l>
-                         <l n="lt10may1801.1.ltr.02.17" justify="left" indent="28">Your Devoted</l>
+                    <lg  justify="left">
+                         <l n="lt10may1801.1.ltr.02.01" justify="left">to receive you &#38; <choice><orig>M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> Butts I know my Cottage is too</l>
+                         <l n="lt10may1801.1.ltr.02.02" justify="left">narrow for your Ease &#38; comfort we have one room in</l>
+                         <l n="lt10may1801.1.ltr.02.03" justify="left">which we could make a bed to lodge you both &#38; if this</l>
+                         <l n="lt10may1801.1.ltr.02.04" justify="left">is sufficient it is at your service. but as beds &#38;</l>
+                         <l n="lt10may1801.1.ltr.02.05" justify="left">rooms &#38; accomodations are easily <choice><orig>procurd</orig> <reg>procured</reg></choice> by one on</l>
+                         <l n="lt10may1801.1.ltr.02.06" justify="left">the spot permit me to offer my service in either</l>
+                         <l n="lt10may1801.1.ltr.02.07" justify="left">way either in my cottage or in a <choice><orig>loding</orig><reg>lodging</reg></choice> in the village</l>
+                         <l n="lt10may1801.1.ltr.02.08" justify="left">as is most agreeable to you if you &#38; M<hi rend="superscript">rs</hi>Butts</l>
+                         <l n="lt10may1801.1.ltr.02.09" justify="left">should think Bognor a pleasant relief from business</l>
+                         <l n="lt10may1801.1.ltr.02.10" justify="left">in the Summer. It will give me the utmost <choice><orig>delighs</orig><reg>delights</reg></choice></l>
+                         <l n="lt10may1801.1.ltr.02.11" justify="left">to do my best </l>
+                    </lg>
+                    <lg justify="left">
+                         <l n="lt10may1801.1.ltr.02.12" justify="left" indent="12">Sussex is certainly a happy place &#38;</l>
+                         <l n="lt10may1801.1.ltr.02.13" justify="left">Felpham in particular is the sweetest spot on Earth </l>
+                         <l n="lt10may1801.1.ltr.02.14" justify="left">at least it is so to me and My Good Wife who</l>
+                         <l n="lt10may1801.1.ltr.02.15" justify="left">desires her kindest Love to <choice><orig>M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> Butts &#38; yourself </l>
+                         <l n="lt10may1801.1.ltr.02.16" justify="left">accept mine also &#38; believe me to remain </l>
+                         <l n="lt10may1801.1.ltr.02.17" justify="left" indent="18">Your Devoted<note>Bentley (*Writings* volume 2, page 1550), Erdman (page 715), and Keynes (*Letters*, page 32) read "Devoted" as "devoted".</note></l>
                          <l n="lt10may1801.1.ltr.02.18" justify="left">Felpham</l>
-                         <l n="lt10may1801.1.ltr.02.19" justify="left" indent="32">
-                              <choice>
-                                   <orig>Will Blake</orig>
-                                   <reg>William Blake</reg>
-                              </choice>
-                         </l>
+                         <l n="lt10may1801.1.ltr.02.19" justify="left" indent="20"><choice><orig>Will</orig><reg>William</reg></choice> Blake</l>
                          <l n="lt10may1801.1.ltr.02.20" justify="left">May 10. 1801</l>
                     </lg>
                </phystext>
