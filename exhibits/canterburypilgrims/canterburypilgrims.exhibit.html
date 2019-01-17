@@ -1102,57 +1102,58 @@ $(document).ready(function(){
     <ul style="overflow: scroll; height:100vh" class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
               
 
-<li><a><b>Introduction: William Blake’s Canterbury Pilgrims</b></a></li>
-<li><a>  Advertisement to Blake’s 1809 Exhibition Blake’s Painting</a></li>
-<li><a>  The Preparatory Drawing</a></li>
-<li><a>  The Prospectus for the Engraving</a></li>
-<li><a>  The Engraving</a></li>
-<li><a>  Thomas Stothard’s Painting</a></li>
-<li><a>  Thomas Stothard’s Engraving</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1); javascript:document.getElementById('Int').scrollIntoView(false);document.getElementById('exhibit_article_content').scrollTop = 0"><b>Introduction: William Blake’s Canterbury Pilgrims</b></a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Advertisement to Blake’s 1809 Exhibition 
+<li><a ng-click="exhibitCtrl.scrollTo(2);">  Blake’s Painting</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(3);">  The Preparatory Drawing</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(4);">  The Prospectus for the Engraving</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(5);">  The Engraving</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(6);">  Thomas Stothard’s Painting</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(7);">  Thomas Stothard’s Engraving</a></li>
 
-<li><a><b>Exhibit I</b></a></li>
-<li><a>  The Pilgrims</a></li>
-<li><a style="padding-left:2em">    Reeve, Chaucer, Clerk of Oxenford, Cook Miller,</br>Wife of Bath, Merchant</a></li>
-<li><a style="padding-left:2em">    Parson, Man of Law, Plowman</a></li>
-<li><a style="padding-left:2em">    Physician, Franklin, Two Citizens, Shipman, The Host</a></li>
-<li><a style="padding-left:2em">    Summoner, Manciple, Pardoner, Monk, Friar</br>A Citizen Lady Abbess, Nun, Three Priests</a></li>
-<li><a style="padding-left:2em">    Squire’s Yeoman, Knight, Squire</a></li>
-<li><a>  Miscellaneous figures and structures</a></li>
-<li><a style="padding-left:2em">    Family Group</a></li>
-<li><a style="padding-left:2em">    Female Child Walking Boy with Keg</a></li>
-<li><a style="padding-left:2em">    Five Figures behind the Squire Figures behind the Host</a></li>
-<li><a style="padding-left:2em">    Statue of Bishop in Gothic Portal Dove and Church Spires</a></li>
-<li><a style="padding-left:2em">    Flock of Black Birds Greyhounds</a></li>
-<li><a style="padding-left:2em">    Black Dog</a></li>
-<li><a style="padding-left:2em">    Façade of Tabard Inn with Inscriptions</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(8);"><b>Exhibit I</b></a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(8);">  The Pilgrims</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(8);" style="padding-left:2em line-height:normal">    Reeve, Chaucer, Clerk of Oxenford, Cook Miller,</br>Wife of Bath, Merchant</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(9);" style="padding-left:2em">    Parson, Man of Law, Plowman</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(10);" style="padding-left:2em">    Physician, Franklin, Two Citizens, Shipman, The Host</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(11);" style="padding-left:2em; line-height:normal">    Summoner, Manciple, Pardoner, Monk, Friar,</br>A Citizen Lady Abbess, Nun, Three Priests</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(12);" style="padding-left:2em">    Squire’s Yeoman, Knight, Squire</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(13);">  Miscellaneous figures and structures</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(13);" style="padding-left:2em">    Family Group</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(14);" style="padding-left:2em">    Female Child Walking Boy with Keg</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(15);" style="padding-left:2em">    Five Figures behind the Squire Figures behind the Host</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(16);" style="padding-left:2em">    Statue of Bishop in Gothic Portal Dove and Church Spires</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(17);" style="padding-left:2em">    Flock of Black Birds Greyhounds</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(18);" style="padding-left:2em">    Black Dog</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(19);" style="padding-left:2em">    Façade of Tabard Inn with Inscriptions</a></li>
 
-<li><a><b>Exhibit II</b></a></li>
-<li><a>  The Rivals: William Blake, Robert Cromek,</br>and Thomas Stothard</a></li> 
-<li><a>  Blake’s Painting</a></li> 
-<li><a>  Stothard’s Painting</a></li> 
-<li><a>  Blake’s Adv. to Engraving</a></li> 
-<li><a>  Blake’s Engraving</a></li> 
-<li><a>  Stothard’s Engraving</a></li>
-<li><a>  The Pilgrims Compared</a></li>
-<li><a style="padding-left:2em">    Wife of Bath</a></li> 
-<li><a style="padding-left:2em">    Knight, Squire</a></li>
-<li><a style="padding-left:2em">    Plowman</a></li> 
-<li><a style="padding-left:2em">    Monk, Friar</a></li> 
-<li><a style="padding-left:2em">    The Host</a></li> 
-<li><a style="padding-left:2em">    The Miller</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);"><b>Exhibit II</b></a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);" style="line-height:normal">  The Rivals: William Blake, Robert Cromek,</br>and Thomas Stothard</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Blake’s Painting</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Stothard’s Painting</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Blake’s Adv. to Engraving</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Blake’s Engraving</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Stothard’s Engraving</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  The Pilgrims Compared</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);" style="padding-left:2em">    Wife of Bath</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);" style="padding-left:2em">    Knight, Squire</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);" style="padding-left:2em">    Plowman</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);" style="padding-left:2em">    Monk, Friar</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);" style="padding-left:2em">    The Host</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);" style="padding-left:2em">    The Miller</a></li>
 
-<li><a><b>Exhibit III</b></a></li>
-<li><a>  Contemporary Commentary and Reviews</a></li> 
-<li><a>  Francis Douce</a></li>
-<li><a>  Robert Cromek William Paulet Carey John Hoppner</a></li>
-<li><a>  Robert Bowyer</a></li>
-<li><a>  The Lady’s Monthly Museum (June 1812)</a></li>
-<li><a>  T. F. Dibdin Charles Lamb</a></li>
-<li><a>  J. T. Smith</a></li>
-<li><a>  Allan Cunningham Barron Field</a></li>
-<li><a>  Arnolds Magazine of the Fine Arts, NS, III (March 1834)</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);"><b>Exhibit III</b></a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Contemporary Commentary and Reviews</a></li> 
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Francis Douce</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Robert Cromek William Paulet Carey John Hoppner</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Robert Bowyer</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  The Lady’s Monthly Museum (June 1812)</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  T. F. Dibdin Charles Lamb</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  J. T. Smith</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Allan Cunningham Barron Field</a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);">  Arnolds Magazine of the Fine Arts, NS, III (March 1834)</a></li>
 
-<li><a><b>Bibliography</b></a></li>
+<li><a ng-click="exhibitCtrl.scrollTo(1);"><b>Bibliography</b></a></li>
 
 
 
