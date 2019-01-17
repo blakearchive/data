@@ -1082,13 +1082,16 @@ ul
   </o:rules>
  </o:shapelayout></xml><![endif]-->
  <script>
-$(document).ready(function(){
-  $('.dropdown-submenu a.test').on("click", function(e){
-    $(this).next('ul').toggle();
-    e.stopPropagation();
-    e.preventDefault();
-  });
-});
+(function ($) {
+    $(document).ready(function () {
+        $('ul.dropdown-menu [data-toggle=dropdown]').on('click', function (event) {
+            event.preventDefault();
+            event.stopPropagation();
+            $(this).parent().siblings().removeClass('open');
+            $(this).parent().toggleClass('open');
+        });
+    });
+})(jQuery);
 </script>
 </head>
 <STYLE>A {text-decoration: none;} </STYLE>
@@ -1099,27 +1102,72 @@ $(document).ready(function(){
 
         <ul class="nav navbar-nav blake-menu" style="background-color: black;position: sticky;top: 0;z-index: 999;width:100%">
   <li dropdown class="dropdown" style="width:100%;text-align:center"><a dropdown-toggle role="button" aria-expanded="false" style="color:#e5e5e5">Table of Contents</a>
-    <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
-              <li><a href="#">Some action</a></li>
-              <li><a href="#">Some other action</a></li>
-              <li class="divider"></li>
-              <li class="dropdown-submenu">
-                <a tabindex="-1" href="#">Hover me for more options</a>
-                <ul class="dropdown-menu">
-                  <li><a tabindex="-1" href="#">Second level</a></li>
-                  <li class="dropdown-submenu">
-                    <a href="#">Even More..</a>
+    
+    <ul class="nav navbar-nav">
+                <li class="active"> <a href="#">Home</a>
+
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Hospital<b class="caret"></b></a>
+
                     <ul class="dropdown-menu">
-                        <li><a href="#">3rd level</a></li>
-                      <li><a href="#">3rd level</a></li>
+                        <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Consultants</a>
+
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Adult cardiac surgery</a>
+
+                                </li>
+                                <li><a href="#">Bariatric surgery</a>
+
+                                </li>
+                                <li><a href="#">Colorectal surgery</a>
+
+                                </li>
+                                <li><a href="#">Endocrine and thyroid surgery</a>
+
+                                </li>
+                                <li><a href="#">Head and neck cancer surgery</a>
+
+                                </li>
+                                <li><a href="#">Interventional cardiology</a>
+
+                                </li>
+                                <li><a href="#">Lung Cancer</a>
+
+                                </li>
+                                <li><a href="#">Neurosurgery</a>
+
+                                </li>
+                                <li><a href="#">Orthopaedic surgery</a>
+
+                                </li>
+                                <li><a href="#">Upper gastro-intestinal surgery</a>
+
+                                </li>
+                                <li><a href="#">Urological surgery</a>
+
+                                </li>
+                                <li><a href="#">Vascular surgery</a>
+
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Another action</a>
+
+                        </li>
+                        <li><a href="#">Something else here</a>
+
+                        </li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">Nav header</li>
+                        <li><a href="#">Separated link</a>
+
+                        </li>
+                        <li><a href="#">One more separated link</a>
+
+                        </li>
                     </ul>
-                  </li>
-                  <li><a href="#">Second level</a></li>
-                  <li><a href="#">Second level</a></li>
-                </ul>
-              </li>
+                </li>
             </ul>
-                
 
 
 
