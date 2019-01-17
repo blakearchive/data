@@ -104,7 +104,7 @@
                     <p>Lines 5-8 are written in the left margin of Object 1.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
-            <physdesc/> 
+            </physdesc>
             <phystext>
                 <lg justify="left">
                     <l n="ltsept1800.1.ltr.01.01" justify="left"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Butts<note>The stamp "CHICHESTER" can be read directly behind "Mr. Butts."</note></l>
@@ -133,8 +133,7 @@
                     <p>There is a tear on the left side of the letter and part of the red wax seal is still attached.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
-            </physdesc>
-        </desc>
+           </physdesc>
            <phystext>
                 <lg justify="left">
                         <l n="ltsept1800.1.ltr.02.01" justify="left">Dear Friend of My Angels</l>
@@ -199,7 +198,7 @@
                     <l n="ltsept1800.1.ltr.03.10" justify="left" indent="10">Blake: Felpham near Chichester </l>
                     <l n="ltsept1800.1.ltr.03.11" justify="left" indent="35">Sussex</l>       
                 </lg>
-         <phystext/>
+         </phystext>
         </desc>
     </objdesc>
 </bad>
