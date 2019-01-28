@@ -3,82 +3,35 @@
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter to Dawson Turner, 9 June 1818"><main>Letter to Dawson Turner, 9
-                        June 1818</main> : electronic edition </title>
-                <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester;
-                        <name>Robert Essick,</name>University of California, Riverside; and
-                        <name>Joseph Viscomi</name>, University of North Carolina at Chapel
-                    Hill</principal>
+                <title reg="Letter to Dawson Turner, 9 June 1818">
+                    <main>Letter to Dawson Turner, 9 June 1818</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert
+                    Essick, </name>University of California, Riverside; and <name>Joseph
+                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>1 XML file approx. 15KB; 4 JPEG (ISO/IEC 10918) files ranging in size from 110KB
-                to 625KB</extent>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 20.5KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
+                to ??KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>March 2013</date></publicationstmt>
+                    Archives<date>February 2019</date>
+            </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            <updatestmt> The William Blake Archive is pleased to announce the publication of
-                electronic editions of our first installment of Blake’s letters, the correspondence
-                of his last two years, 1825-27, mostly with his friend, benefactor, and fellow
-                artist Dawson Turner, who sponsored such projects as Blake’s engraved *Illustrations of the Book of Job* (1826) and *Illustrations to
-                    Dante*, on which he was still working when he died. <lb/><lb/> About ninety
-                of Blake’s letters survive—an unknown fraction of the total. The surviving
-                correspondence begins rather late in his career, in October 1791, the month before
-                he turned 34, and ends, as far as we know, the month before his death at age 69 in
-                August 1827—just three sentences to Linnell, to thank him for sending ten pounds and
-                to indicate that his “journey to Hampstead on Sunday brought on a relapse . . . .
-                however I am upon the mending hand to day &amp; hope soon to look as I did for I
-                have been yellow accompanied by all the old Symptoms.” <lb/><lb/> Blake traveled
-                seldom and not very far, and he was little known beyond a small circle of British
-                contemporaries, most of them in London. His circle of correspondents was narrow and
-                the geographical circuit small. But his modest body of correspondence comprises an
-                absorbing, revealing miscellany of reports on work in progress alongside friendly
-                and not so friendly exchanges on matters of practical and intellectual substance.
-                Occasionally they burst out into visions that amalgamate, in a characteristic
-                Blakean vein, homely details, intensely energized prose, and inspired poetry.
-                <lb/><lb/> The letters are, in any case, indispensable in preserving facts and
-                contexts for his life and work that would be otherwise unknown and in showing him
-                shift pragmatically from role to role in a very natural—and human—way, exposing
-                facets of character and personality not always so apparent in his art. The letters
-                feel closer to the externalities of everyday life than any other work from Blake’s
-                hand, and some start out to be one very ordinary thing and end up being another
-                quite extraordinary thing. If Blake is not an artist-thinker in correspondence with
-                an international circle, he seldom puts pen to paper without interesting
-                consequences for readers.<lb/><lb/> In his letter of 12 April 1827 to Linnell, Blake
-                refers to a small card he plans to engrave for his friend of many years, George
-                Cumberland. An impression of the card is attached to the final page of the letter.
-                We are also publishing another impression of Cumberland’s card (see Separate Plates
-                and Prints in Series, Designed and Engraved by Blake).<lb/><lb/> The Archive now
-                contains fully searchable and scalable electronic editions of important manuscripts
-                and series of engravings, color printed drawings, tempera paintings, water color
-                drawings, and 85 copies of Blake's nineteen illuminated books--all in the context of
-                full bibliographic information about each work, careful diplomatic transcriptions of
-                all texts, detailed descriptions of all images, and extensive bibliographies.
-                <lb/><lb/> Due to recent security concerns related to Java browser plugins, the
-                Archive has disabled its Java-based ImageSizer and Virtual Lightbox applications.
-                Users can still view 100 and 300 dpi JPEG images as well as complete transcriptions
-                for all works in the Archive. Text searching is also still available for all works
-                in the Archive, and image searching remains available for all works except those in
-                preview mode. In the coming months the Archive will implement redesigned pages that
-                restore the features of ImageSizer and the Virtual Lightbox without the need for
-                Java.<lb/><lb/> As always, the William Blake Archive is a free site, imposing no
-                access restrictions and charging no subscription fees. The site is made possible by
-                the University of North Carolina at Chapel Hill with the University of Rochester,
-                the continuing support of the Library of Congress, and the cooperation of the
-                international array of libraries and museums that have generously given us
-                permission to reproduce works from their collections in the Archive. </updatestmt>
+            <updatestmt>  </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2013</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2013 Huntington Library and Art Gallery. </userestrict>
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2018 Rosenbach Museum and Library. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -88,8 +41,10 @@
                 <objtitle>
                     <title>Letter to Dawson Turner, 9 June 1818</title>
                 </objtitle>
-                <origination>William Blake<role>author, </role><role>inventor,
-                        </role><role>delineator</role></origination>
+                <origination>William Blake<role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
                 <compdate value="1818.A">1818 </compdate>
             </objdescid>
             <objinfo>
@@ -101,14 +56,15 @@
                         Object 1 has been reoriented vertically in the Object View Page, as would be
                         customary when reading the address.</note></objsize>
                 <numberleaves>2<note>The full sheet was folded to form two leaves. The letter
-                        appears on the first recto (object 2), first verso (object 3), and second
-                        recto (object 4) of the folded sheet. This folded sheet was folded further
+                        appears on the first recto (Object 2), first verso (Object 3), and second
+                        recto (Object 4) of the folded sheet. This folded sheet was folded further
                         to form a sealed packet for posting. The address appears on the second verso
-                        (object 1), which would have been the exterior of the folded packet. The
+                        (Object 1), which would have been the exterior of the folded packet. The
                         letter appears to have been repaired along the corner of the leaf containing
-                        objects 1 and 4, probably where a wafer seal was torn open. Traces of what
+                        Objects 1 and 4, probably where a wafer seal was torn open. Traces of what
                         appear to be a wafer seal, no longer present, are visible along the edges of
-                        the folded letter.</note></numberleaves>
+                        the folded letter.</note>
+                </numberleaves>
                 <leafsize>20.5 x 16.2 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
@@ -133,26 +89,31 @@
                     Fogg Art Museum in 1924; on his death in 1929, sold to A.S.W. Rosenbach;
                     bequeathed to Rosenbach Museum and Library, Philadelphia.</note>
             </provenance>
-            <repository><institution>Rosenbach Museum and
-                    Library</institution><addressline>2008-2010 Delancey
-                    Place</addressline><addressline>Philadelphia, Pennsylvannia
-                    19103</addressline><addressline>Telephone, Library: 215-732-1600, ext.
-                    115</addressline>ine&gt;
-                    <addressline>http://www.rosenbach.org</addressline><repositoryid
-                    label="Call number">Inventory no. 1010/2</repositoryid></repository>
+            <repository>
+                <institution>Rosenbach Museum and Library</institution>
+                <addressline>2008-2010 Delancey Place</addressline>
+                <addressline>Philadelphia, Pennsylvannia 19103</addressline>
+                <addressline>United States</addressline>
+                <addressline>Telephone, Library: 215-732-1600, ext. 115</addressline>
+                    <addressline>http://www.rosenbach.org</addressline>
+                <repositoryid label="Call number">Inventory no. 1010/2</repositoryid>
+            </repository>
         </source>
         <desc id="lt9june1818.1.ltr.01" dbi="lt9june1818.1.1.LT">
-            <objtitle><title type="editorial">Address</title>, <objid><objnumber code="A1">object 1
-                    </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">Address</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>20.5 x 16.2 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves. The letter appears on the first
-                        recto (object 2), first verso (object 3), and second recto (object 4) of the
+                        recto (Object 2), first verso (Object 3), and second recto (Object 4) of the
                         folded sheet. This folded sheet was folded further to form a sealed packet
-                        for posting. The address appears on the second verso (object 1), which would
+                        for posting. The address appears on the second verso (Object 1), which would
                         have been the exterior of the folded packet. The letter appears to have been
-                        repaired along the corner of the leaf containing objects 1 and 4, probably
+                        repaired along the corner of the leaf containing Objects 1 and 4, probably
                         where a wafer seal was torn open. Traces of what appear to be a wafer seal,
                         no longer present, are visible along the edges of the folded letter.</p>
                     <p>In the bottom left corner, oriented vertically, "1010/2" is inscribed in
@@ -164,25 +125,28 @@
             <phystext>
                 <lg type="prose" justify="left">
                     <l n="lt9june1818.1.ltr.01.01" justify="left">To</l>
-                    <l n="lt9june1818.1.ltr.01.02" justify="left">Dawson Turner Esq<hi
-                            rend="superscript">re</hi></l>
+                    <l n="lt9june1818.1.ltr.01.02" justify="left">Dawson Turner <choice><orig>Esq<hi
+                        rend="superscript">re</hi></orig><reg>Esquire</reg></choice></l>
                     <l n="lt9june1818.1.ltr.01.03" justify="left" indent="8">Yarmouth</l>
                     <l n="lt9june1818.1.ltr.01.04" justify="left" indent="9">Norfolk</l>
                 </lg>
             </phystext>
         </desc>
         <desc id="lt9june1818.1.ltr.02" dbi="lt9june1818.1.2.LT">
-            <objtitle><title type="transcribed">I send you a List of the different Works</title>,
-                        <objid><objnumber code="A2">Object 2 </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="transcribed">I send you a List of the different Works</title>, <objid>
+                    <objnumber code="A2">Object 2 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>20.5 x 16.2 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves. The letter appears on the first
-                        recto (object 2), first verso (object 3), and second recto (object 4) of the
+                        recto (Object 2), first verso (Object 3), and second recto (Object 4) of the
                         folded sheet. This folded sheet was folded further to form a sealed packet
-                        for posting. The address appears on the second verso (object 1), which would
+                        for posting. The address appears on the second verso (Object 1), which would
                         have been the exterior of the folded packet. The letter appears to have been
-                        repaired along the corner of the leaf containing objects 1 and 4, probably
+                        repaired along the corner of the leaf containing Objects 1 and 4, probably
                         where a wafer seal was torn open. Traces of what appear to be a wafer seal,
                         no longer present, are visible along the edges of the folded letter.</p>
                     <p>In the top left corner, "E L 3 / .B636 / MS 1" is inscribed in an unknown
@@ -192,42 +156,45 @@
             </physdesc>
             <supplemental objectid="supplt9june1818.1.rm.01" ovp="noindex"/>
             <phystext>
-                <lg type="prose" justify="left">
+                <lg justify="left">
                     <l n="lt9june1818.1.ltr.02.01" justify="left">Sir</l>
                     <l n="lt9june1818.1.ltr.02.02" justify="left" indent="7">I send you a List of
                         the different Works</l>
-                    <l n="lt9june1818.1.ltr.02.03" justify="left">you have done me the honour to
-                        enquire after_<del type="overstrike"><gap extent="3" reason="cancellation"
+                    <l n="lt9june1818.1.ltr.02.03" justify="left">you have done me the <choice><orig>honour</orig><reg>honor</reg></choice> to
+                        <choice><orig>enquire</orig><reg>inquire</reg></choice> after_<del type="overstrike"><gap extent="3" reason="cancellation"
                             /></del></l>
-                    <l n="lt9june1818.1.ltr.02.04" justify="left">unprofitable enough to me tho
+                    <l n="lt9june1818.1.ltr.02.04" justify="left">unprofitable enough to me <choice><orig>tho</orig><reg>though</reg></choice>
                         Expensive to the Buyer</l>
-                    <l n="lt9june1818.1.ltr.02.05" justify="left">Those I Printed for M<hi
-                            rend="superscript">r</hi> Humphry are a selection</l>
+                    <l n="lt9june1818.1.ltr.02.05" justify="left">Those I Printed for <choice><orig>M<hi
+                        rend="superscript">r</hi></orig><reg>Mr</reg></choice> <choice><orig>Humphry</orig><reg>Ozias Humphry</reg></choice> are a selection</l>
                     <l n="lt9june1818.1.ltr.02.06" justify="left">from the different Books of such
-                        as Could be Printed<note>Bentley (<hi rend="i">Writings</hi> volume 2, page
+                        as Could be Printed<note>Bentley (*Writings* volume 2, page
                             1648) reads "such" as "Such"; Bentley, Erdman (page 771), and Keynes
-                                (<hi rend="i">Letters</hi>, page 142) read "Could" as
+                                (*Letters*, page 142) read "Could" as
                             "could".</note></l>
                     <l n="lt9june1818.1.ltr.02.07" justify="left">without the Wr<unclear resp="nw"
-                            >i</unclear>ting tho to the Loss of some of the best</l>
+                            >i</unclear><choice><orig>ting</orig><reg>writing</reg></choice> <choice><orig>tho</orig><reg>though</reg></choice> to the Loss of some of the best</l>
                     <l n="lt9june1818.1.ltr.02.08" justify="left">things For they when Printed
                         perfect accompany Poetical</l>
-                    <l n="lt9june1818.1.ltr.02.09" justify="left">Personifications &amp; Acts
+                    <l n="lt9june1818.1.ltr.02.09" justify="left">Personifications &#38; Acts
                         without Which Poems <unclear resp="nw">they</unclear> never<note>Bentley
-                                (<hi rend="i">Writings</hi> volume 2, page 1648), Erdman (page 771),
-                            and Keynes (<hi rend="i">Letters</hi>, page 142) read "Which" as
+                                (*Writings* volume 2, page 1648), Erdman (page 771),
+                            and Keynes (*Letters*, page 142) read "Which" as
                             "which".</note></l>
                     <l n="lt9june1818.1.ltr.02.10" justify="left">could have been Executed <space
-                            extent="19"/>£ <space extent="1"/>s <space extent="1"/>d</l>
+                            extent="19"/>&#163; <space extent="1"/>s <space extent="1"/>d</l>
                     <l n="lt9june1818.1.ltr.02.11" justify="left" indent="7">America <space
-                            extent="10"/>18 Prints <space extent="2"/>folio . <space extent="1"/>5£
-                        5 . 0</l>
+                            extent="10"/>18 Prints <space extent="2"/>folio . <space extent="1"
+                            />5&#163; 5 . 0<note>Bentley
+                                (*Writings* volume 2, page 1648)
+                                and Keynes (*Letters*, page 142) do not read the &#163; after "5".</note></l>
                     <l n="lt9june1818.1.ltr.02.12" justify="left" indent="7">Europe <space
                             extent="12"/>17 do <space extent="4"/>folio <space extent="3"/>5 . 5 .
                         0</l>
-                    <l n="lt9june1818.1.ltr.02.13" justify="left" indent="7">Visions &amp;<hi
-                            rend="superscript">c</hi><space extent="9"/>8 do <space extent="5"
-                        />folio <space extent="3"/>3 . 3. 0</l>
+                    <l n="lt9june1818.1.ltr.02.13" justify="left" indent="7">Visions &#38;<hi
+                            rend="superscript">c</hi>
+                        <space extent="9"/>8 do <space extent="5"/>folio <space extent="3"/>3 . 3.
+                        0</l>
                     <l n="lt9june1818.1.ltr.02.14" justify="left" indent="7">Thel . <space
                             extent="13"/>6 do <space extent="5"/>Quarto <space extent="2"/>2 . 2 .
                         0</l>
@@ -239,17 +206,20 @@
             </phystext>
         </desc>
         <desc id="lt9june1818.1.ltr.03" dbi="lt9june1818.1.3.LT">
-            <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A3">object 3
-                    </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">cont.</title>, <objid>
+                    <objnumber code="A3">Object 3 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>20.5 x 16.2 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves. The letter appears on the first
-                        recto (object 2), first verso (object 3), and second recto (object 4) of the
+                        recto (Object 2), first verso (Object 3), and second recto (Object 4) of the
                         folded sheet. This folded sheet was folded further to form a sealed packet
-                        for posting. The address appears on the second verso (object 1), which would
+                        for posting. The address appears on the second verso (Object 1), which would
                         have been the exterior of the folded packet. The letter appears to have been
-                        repaired along the corner of the leaf containing objects 1 and 4, probably
+                        repaired along the corner of the leaf containing Objects 1 and 4, probably
                         where a wafer seal was torn open. Traces of what appear to be a wafer seal,
                         no longer present, are visible along the edges of the folded letter.</p>
                 </objnote>
@@ -257,63 +227,65 @@
             </physdesc>
             <supplemental objectid="supplt9june1818.1.rm.02" ovp="noindex"/>
             <phystext>
-                <lg type="prose" justify="left">
+                <lg justify="left">
                     <l n="lt9june1818.1.ltr.03.01" justify="left" indent="7">Urizen <space
                             extent="3"/>28 Prints Quarto <space/>5 . 5 . 0</l>
                     <l n="lt9june1818.1.ltr.03.02" justify="left" indent="7">Milton <space
                             extent="3"/>50 do <space extent="2"/>Quarto <space/>10 .10 . 0</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose" justify="left">
+                <lg justify="left">
                     <l n="lt9june1818.1.ltr.03.03" justify="left" indent="2">12 <space extent="2"
                         />Large Prints Size of Each</l>
-                    <l n="lt9june1818.1.ltr.03.04" justify="left" indent="7">about 2 feet by 1&amp;½
-                        Historical</l>
-                    <l n="lt9june1818.1.ltr.03.05" justify="left" indent="7">&amp; Poetical Printed
-                        in Colours</l>
+                    <l n="lt9june1818.1.ltr.03.04" justify="left" indent="7">about 2 feet by
+                        1&#38;&#189; Historical</l>
+                    <l n="lt9june1818.1.ltr.03.05" justify="left" indent="7">&#38; Poetical Printed
+                        in <choice><orig>Colours</orig><reg>Colors</reg></choice></l>
                     <l n="lt9june1818.1.ltr.03.06" justify="left" indent="26">Each <space/>5 . 5 .
                         0</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose" justify="left">
+                <lg justify="left">
                     <l n="lt9june1818.1.ltr.03.07" justify="left" indent="2">These last 12 Prints
                         are unaccompanied by any</l>
                     <l n="lt9june1818.1.ltr.03.08" justify="left" indent="3">writing</l>
                     <l n="lt9june1818.1.ltr.03.09" justify="left" indent="5">The few I have Printed
-                        &amp; Sold are sufficient</l>
+                        &#38; Sold are sufficient</l>
                     <l n="lt9june1818.1.ltr.03.10" justify="left">to have gained me great reputation
                         as an Artist</l>
                     <l n="lt9june1818.1.ltr.03.11" justify="left">which was the chief thing Intended
                         But I have</l>
                     <l n="lt9june1818.1.ltr.03.12" justify="left">never been able to produce a
-                            Suf<unclear resp="nw">f</unclear>icient number</l>
+                            Suf<unclear resp="nw">f</unclear><choice><orig>icient</orig><reg>sufficient</reg></choice> number</l>
                     <l n="lt9june1818.1.ltr.03.13" justify="left">for a general Sale by means of a
                         regular Publisher</l>
                     <l n="lt9june1818.1.ltr.03.14" justify="left">It is therefore necessary to me
                         that any Person</l>
                     <l n="lt9june1818.1.ltr.03.15" justify="left">wishing to have any or all of
-                        them: Should Send<note>Erdman (page 771) and Keynes (<hi rend="i"
-                                >Letters</hi>, page 142) read "Should Send" as "should
-                        send".</note></l>
+                        them: Should Send<note>Erdman (page 771) and Keynes
+                            (*Letters*, page 142) read "Should Send" as "should send".</note></l>
                     <l n="lt9june1818.1.ltr.03.16" justify="left">me their Order to Print them on
                         the above terms</l>
-                    <l n="lt9june1818.1.ltr.03.17" justify="left">&amp; I will take care that they
+                    <l n="lt9june1818.1.ltr.03.17" justify="left">&#38; I will take care that they
                         shall be done at</l>
                 </lg>
             </phystext>
         </desc>
         <desc id="lt9june1818.1.ltr.04" dbi="lt9june1818.1.4.LT">
-            <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A4">object 4
-                    </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">cont.</title>, <objid>
+                    <objnumber code="A4">Object 4 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>20.5 x 16.2 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves. The letter appears on the first
-                        recto (object 2), first verso (object 3), and second recto (object 4) of the
+                        recto (Object 2), first verso (Object 3), and second recto (Object 4) of the
                         folded sheet. This folded sheet was folded further to form a sealed packet
-                        for posting. The address appears on the second verso (object 1), which would
+                        for posting. The address appears on the second verso (Object 1), which would
                         have been the exterior of the folded packet. The letter appears to have been
-                        repaired along the corner of the leaf containing objects 1 and 4, probably
+                        repaired along the corner of the leaf containing Objects 1 and 4, probably
                         where a wafer seal was torn open. Traces of what appear to be a wafer seal,
                         no longer present, are visible along the edges of the folded letter.</p>
                 </objnote>
@@ -321,7 +293,7 @@
             </physdesc>
             <supplemental objectid="supplt9june1818.1.rm.02" ovp="noindex"/>
             <phystext>
-                <lg type="prose" justify="left">
+                <lg justify="left">
                     <l n="lt9june1818.1.ltr.04.01" justify="left">least as well as any I have yet
                         Produced</l>
                     <l n="lt9june1818.1.ltr.04.02" justify="left" indent="2">I am Sir with many

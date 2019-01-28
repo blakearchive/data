@@ -3,33 +3,36 @@
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter from George Cumberland, 18 December 1808"><main>Letter from
-                        George Cumberland, 18 December 1808</main> : electronic edition </title>
-                <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester;
-                        <name>Robert Essick,</name>University of California, Riverside; and
-                        <name>Joseph Viscomi</name>, University of North Carolina at Chapel
-                    Hill</principal>
+                <title reg="Letter from George Cumberland, 18 December 1808">
+                    <main>Letter from George Cumberland, 18 December 1808</main> : electronic
+                    edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert
+                    Essick, </name>University of California, Riverside; and <name>Joseph
+                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 23.8KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
                 to ??KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>???</date></publicationstmt>
+                    Archives<date>February 2019</date>
+            </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2009</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2009 Huntington Library and Art Gallery. </userestrict>
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2018 British Library. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -39,8 +42,10 @@
                 <objtitle>
                     <title>Letter from George Cumberland, 18 December 1808</title>
                 </objtitle>
-                <origination>George Cumberland<role>author,</role><role> inventor,</role><role>
-                        delineator</role></origination>
+                <origination>George Cumberland<role>author,</role>
+                    <role> inventor,</role>
+                    <role> delineator</role>
+                </origination>
                 <compdate value="1808.A">1808</compdate>
             </objdescid>
             <objinfo>
@@ -50,17 +55,19 @@
                         dimensions (height x width) are given according to the vertical orientation
                         of the body of Cumberland's letter; see the note on Number of Leaves, below.
                         Object 1 has been reoriented vertically in the Object View Page, as would be
-                        customary when reading the page.</note></objsize>
+                        customary when reading the page.</note>
+                </objsize>
                 <numberleaves>2<note>The full sheet was folded to form two leaves. Cumberland's
-                        letter appears on the first recto (object 1), first verso (object 2), and
-                        second recto (object 3) of the folded sheet. The second verso is not
-                        pictured. Below the end of Cumberland's letter to Blake on object 3,
+                        letter appears on the first recto (Object 1), first verso (Object 2), and
+                        second recto (Object 3) of the folded sheet. The second verso is not
+                        pictured. Below the end of Cumberland's letter to Blake on Object 3,
                         Cumberland added instructions to his son, also named George, to deliver the
                         letter and await Blake's response in person. Blake responded to Cumberland
                         the following day in a separate letter dated 19 December 1808 that is
-                        available through the Index of Letters. The full sheet view of objects 2 and
+                        available through the Index of Letters. The full sheet view of Objects 2 and
                         3 is available as a Supplemental View on the Object View Page for those
-                        objects.</note></numberleaves>
+                        objects.</note>
+                </numberleaves>
                 <leafsize>22.8 x 18.2 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
@@ -89,7 +96,6 @@
                 <addressline>United Kingdom</addressline>
                 <addressline>Telephone, Manuscript Collections: +44 (0)20-7414-7513</addressline>
                 <addressline>Telephone, Reader Services: +44 (0)20-7414-7676</addressline>
-                <addressline>Fax, Reader Services: +44 (0)1937-546321 </addressline>
                 <addressline>E-mail, Reader Services: reader-services-enquiries@bl.uk</addressline>
                 <addressline>http://www.bl.uk</addressline>
                 <department>Manuscripts</department>
@@ -97,16 +103,19 @@
             </repository>
         </source>
         <desc id="lt18dec1808.1.ltr.01" dbi="lt18dec1808.1.1.LT">
-            <objtitle><title type="transcribed">A gentleman of my acquaintance</title><title
-                    type="alt">Letter from George Cumberland, 18 December 1808</title>,
-                        <objid><objnumber code="A1">Object 1 </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="transcribed">A gentleman of my acquaintance</title>
+                <title type="alt">Letter from George Cumberland, 18 December 1808</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.8 x 18.2 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves. Cumberland's letter appears on
-                        the first recto (object 1), first verso (object 2), and second recto (object
+                        the first recto (Object 1), first verso (Object 2), and second recto (Object
                         3) of the folded sheet. The second verso is not pictured. Below the end of
-                        Cumberland's letter to Blake on object 3, Cumberland added instructions to
+                        Cumberland's letter to Blake on Object 3, Cumberland added instructions to
                         his son, also named George, to deliver the letter and await Blake's response
                         in person. Blake responded to Cumberland the following day in a separate
                         letter dated 19 December 1808 that is available through the Index of
@@ -123,23 +132,30 @@
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
-                <lg>
+                <lg justify="left">
                     <l n="lt18dec1808.1.ltr.01.01" justify="left" indent="4">Dear Blake,</l>
                     <l n="lt18dec1808.1.ltr.01.02" justify="left" indent="6">A gentleman of my
                         acquaintance to</l>
-                    <l n="lt18dec1808.1.ltr.01.03" justify="left">whom I was shewing your
+                    <l n="lt18dec1808.1.ltr.01.03" justify="left">whom I was
+                                <choice><orig>shewing</orig><reg>showing</reg></choice> your
                         incomparable etchings</l>
                     <l n="lt18dec1808.1.ltr.01.04" justify="left">last night was so charmed with
                         them, that</l>
                     <l n="lt18dec1808.1.ltr.01.05" justify="left">he requested me to get him a
-                        compleat Set<note>Keynes (<hi rend="i">Letters</hi>, page 136) reads "Set"
-                            as "set".</note></l>
+                                <choice><orig>compleat</orig><reg>complete</reg></choice>
+                            Set<note>Keynes (<hi rend="i">Letters</hi>, page 136) reads "Set" as
+                            "set".</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.01.06" justify="left">of all you have published in the
-                        way of <hi rend="underline">Books</hi></l>
-                    <l n="lt18dec1808.1.ltr.01.07" justify="left"
-                                ><choice><reg>colored</reg><sic>Coloured</sic></choice> as mine are;
-                        _ and at the same time<note>Keynes (<hi rend="i">Letters</hi>, page 136)
-                            reads "Coloured" as “colour’d”.</note></l>
+                        way of <hi rend="underline">Books</hi>
+                    </l>
+                    <l n="lt18dec1808.1.ltr.01.07" justify="left">
+                        <choice>
+                            <reg>colored</reg>
+                            <sic>Coloured</sic>
+                        </choice> as mine are; _ and at the same time<note>Keynes (<hi rend="i"
+                                >Letters</hi>, page 136) reads "Coloured" as “colour’d”.</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.01.08" justify="left">he wishes to know what will be the
                         price</l>
                     <l n="lt18dec1808.1.ltr.01.09" justify="left">of as many as you can spare him,
@@ -148,13 +164,18 @@
                         wait your own</l>
                     <l n="lt18dec1808.1.ltr.01.11" justify="left">time in order to have them as
                         those of mine are.</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt18dec1808.1.ltr.01.12" justify="left" indent="5">With respect to the
                         money I will take<note>Keynes (<hi rend="i">Letters</hi>, page 136) reads
-                            "money" as "Money".</note></l>
+                            "money" as "Money".</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.01.13" justify="left">care that it shall be reced and
                         sent to you</l>
                     <l n="lt18dec1808.1.ltr.01.14" justify="left">through my Son as fast as they are
                         procured.</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt18dec1808.1.ltr.01.15" justify="left" indent="11">I find by a Letter
                         from my son</l>
                     <l n="lt18dec1808.1.ltr.01.16" justify="left">that the picture you sent, he
@@ -163,41 +184,46 @@
             </phystext>
         </desc>
         <desc id="lt18dec1808.1.ltr.02" dbi="lt18dec1808.1.2.LT">
-            <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A2">object
-                        2</objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">cont.</title>, <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.8 x 18.2 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves. Cumberland's letter appears on
-                        the first recto (object 1), first verso (object 2), and second recto (object
+                        the first recto (Object 1), first verso (Object 2), and second recto (Object
                         3) of the folded sheet. The second verso is not pictured. Below the end of
-                        Cumberland's letter to Blake on object 3, Cumberland added instructions to
+                        Cumberland's letter to Blake on Object 3, Cumberland added instructions to
                         his son, also named George, to deliver the letter and await Blake's response
                         in person. Blake responded to Cumberland the following day in a separate
                         letter dated 19 December 1808 that is available through the Index of
-                        Letters. The full sheet view of objects 2 and 3 is available as a
+                        Letters. The full sheet view of Objects 2 and 3 is available as a
                         Supplemental View on the Object View Page for those objects.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <supplemental objectid="supplt18dec1808.1.rm.01" ovp="noindex"/>
             <phystext>
-                <lg>
+                <lg justify="left">
                     <l n="lt18dec1808.1.ltr.02.01" justify="left">which is what I do not approve, as
                         I</l>
                     <l n="lt18dec1808.1.ltr.02.02" justify="left">certainly had no such thing in
                         contemplation</l>
                     <l n="lt18dec1808.1.ltr.02.03" justify="left">when I sent you those very slight
                         sketches</l>
-                    <l n="lt18dec1808.1.ltr.02.04" justify="left">from Raffael, _ I Am glad however
-                            that<note>Keynes (<hi rend="i">Letters</hi>, page 136) reads "Am" as
-                            "am".</note></l>
+                    <l n="lt18dec1808.1.ltr.02.04" justify="left">from
+                                <choice><orig>Raffael</orig><reg>Raphael</reg></choice>, _ I Am glad
+                        however that<note>Keynes (*Letters*, page 136) reads "Am" as
+                            "am".</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.02.05" justify="left">you found them acceptable, and
                         shall certainly</l>
                     <l n="lt18dec1808.1.ltr.02.06" justify="left">send you a few more as soon as I
                         can light</l>
                     <l n="lt18dec1808.1.ltr.02.07" justify="left">on them among my papers. _ The
-                        Holy family is<note>Bentley (<hi rend="i">Writings</hi> volume 2, page
+                        Holy family is<note>Bentley (*Writings* volume 2, page
                             1642n4) notes that "Blake's 'Holy Family' has not been traced." This
                             work, probably a tempera painting, is number 672 in Butlin's catalogue,
                             where he also lists it as “Untraced since 1808”.</note></l>
@@ -205,48 +231,55 @@
                         Genius and</l>
                     <l n="lt18dec1808.1.ltr.02.09" justify="left">originality. I shall give it a
                         handsome frame</l>
-                    <l n="lt18dec1808.1.ltr.02.10" justify="left">and shew it to all who come to my
-                        house.</l>
-                    <l n="lt18dec1808.1.ltr.02.11" justify="left">—<space extent="6"/>When you
+                    <l n="lt18dec1808.1.ltr.02.10" justify="left">and
+                                <choice><orig>shew</orig><reg>show</reg></choice> it to all who come
+                        to my house.</l>
+                </lg>
+                <lg justify="left">
+                    <l n="lt18dec1808.1.ltr.02.11" justify="left">—<space extent="8"/>When you
                         answer this pray tell me</l>
                     <l n="lt18dec1808.1.ltr.02.12" justify="left">if you have been able to do
-                        anything with the<note>Bentley (<hi rend="i">Writings</hi> volume 2, page
-                            1642) reads "anything" as "any thing".</note></l>
+                        anything with the<note>Bentley (*Writings* volume 2, page
+                            1642) reads "anything" as "any thing".</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.02.13" justify="left">Bookseller._ something of that
                         kind would be</l>
                     <l n="lt18dec1808.1.ltr.02.14" justify="left">no bad thing, and might turn out a
                         great one</l>
                     <l n="lt18dec1808.1.ltr.02.15" justify="left">if a competition could be raised
-                        by that means<note>Bentley (<hi rend="i">Writings</hi> volume 2, page 1643)
-                            reads "by that" as "by this".</note></l>
+                        by that means<note>Bentley (*Writings* volume 2, page 1643)
+                            reads "by that" as "by this".</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.02.16" justify="left">among the genuine <unclear
-                            resp="NW">qymeliars</unclear> of talents of every<note><illus
-                                filename="lt18dec1808.2.16.note.jpg"/>Keynes (<hi rend="i"
-                                >Letters</hi>, page 137n1) suggests "qymeliars" for the uncertain
+                            resp="NW">qymeliars</unclear> of talents of every<note>
+                            <illus filename="lt18dec1808.2.16.note.jpg"/>Keynes (*Letters*, page 137n1) suggests "qymeliars" for the uncertain
                             term Blake uses in this line, which he explains as "A doubtful word,
-                            probably intended for 'cymeliarchs' from <hi rend="italic"
-                                >κειμηλιαρχος</hi>, a treasurer, or storekeeper, as suggested by the
-                            late W. E. Moss.". Bentley (<hi rend="i">Writings</hi> volume 2, page
-                            1643) reads "qymeliars" as "appre[cia]ters".</note></l>
+                            probably intended for 'cymeliarchs' from *κειμηλιαρχος*, a treasurer, or storekeeper, as suggested by the
+                            late W. E. Moss.". Bentley (*Writings* volume 2, page
+                            1643) reads "qymeliars" as "appre[cia]ters".</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.02.17" justify="left">sort __ You talked also of
                         publishing</l>
                 </lg>
             </phystext>
         </desc>
         <desc id="lt18dec1808.1.ltr.03" dbi="lt18dec1808.1.3.LT">
-            <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A3">object
-                        3</objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">cont.</title>, <objid>
+                    <objnumber code="A3">Object 3</objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.8 x 18.2 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves. Cumberland's letter appears on
-                        the first recto (object 1), first verso (object 2), and second recto (object
+                        the first recto (Object 1), first verso (Object 2), and second recto (Object
                         3) of the folded sheet. The second verso is not pictured. Below the end of
-                        Cumberland's letter to Blake on object 3, Cumberland added instructions to
+                        Cumberland's letter to Blake on Object 3, Cumberland added instructions to
                         his son, also named George, to deliver the letter and await Blake's response
                         in person. Blake responded to Cumberland the following day in a separate
                         letter dated 19 December 1808 that is available through the Index of
-                        Letters. The full sheet view of objects 2 and 3 is available as a
+                        Letters. The full sheet view of Objects 2 and 3 is available as a
                         Supplemental View on the Object View Page for those objects.</p>
                     <p>In the upper right corner "3/3" is inscribed in ink in an unknown hand. Below
                         Cumberland's signature, a line division is inscribed above Cumberland's
@@ -267,7 +300,7 @@
             </physdesc>
             <supplemental objectid="supplt18dec1808.1.rm.01" ovp="noindex"/>
             <phystext>
-                <lg>
+                <lg justify="left">
                     <l n="lt18dec1808.1.ltr.03.01" justify="left">your new method of engraving _
                         send it to me</l>
                     <l n="lt18dec1808.1.ltr.03.02" justify="left">and I will do my best to prepare
@@ -275,18 +308,26 @@
                     <l n="lt18dec1808.1.ltr.03.03" justify="left">Press._ perhaps when done you
                         might with a</l>
                     <l n="lt18dec1808.1.ltr.03.04" justify="left">few specimens of Plates make a
-                        like work<note>Bentley (<hi rend="i">Writings</hi> volume 2, page 1642)
-                            reads “like” as “little”.</note></l>
+                        like work<note>Bentley (*Writings* volume 2, page 1642)
+                            reads “like” as “little”.</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.03.05" justify="left">for subscribers of it _ as Du Crow
-                        did of his<note>Keynes (<hi rend="i">Letters</hi>, page 137) reads "of it"
-                            as "for it".</note></l>
+                        did of his<note>Keynes (*Letters*, page 137) reads "of it"
+                            as "for it". Bentley (*Writings* volume 2, page 1643)
+                            notes that "Du Crow" is "probably Pierre Ducros (1745-1810), popular
+                            painter and engraver of landscapes."</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.03.06" justify="left">Aqua-tinta _ selling about 6 Pages
                         for <del type="overstrike">half</del> a</l>
                     <l n="lt18dec1808.1.ltr.03.07" justify="left">guinea to non subscribers _ but if
                         you do not</l>
-                    <l n="lt18dec1808.1.ltr.03.08" justify="left">chuse that method; we might insert
-                        it in Nicholsons<note>Bentley (<hi rend="i">Writings</hi> volume 2, page
-                            1642) reads "that method" as "this method".</note></l>
+                    <l n="lt18dec1808.1.ltr.03.08" justify="left"
+                                ><choice><orig>chuse</orig><reg>choose</reg></choice> that method;
+                        we might insert it in
+                                <choice><orig>Nicholsons</orig><reg>Nicholson's</reg><reg>William
+                                Nicholson</reg></choice><note>Bentley (*Writings*
+                            volume 2, page 1642) reads "that method" as "this method".</note>
+                    </l>
                     <l n="lt18dec1808.1.ltr.03.09" justify="left">Journal or the Monthly Magazine.-
                         with reference to</l>
                     <l n="lt18dec1808.1.ltr.03.10" justify="left" indent="1">you for explanations _
@@ -295,18 +336,26 @@
                             extent="4"/>I am always</l>
                     <l n="lt18dec1808.1.ltr.03.12" justify="left" indent="29">your sincere
                         friend</l>
-                    <l n="lt18dec1808.1.ltr.03.13" justify="left">Culv<subst><del type="overwrite"
-                                    ><gap extent="1" reason="overwrite"/></del><add place="inline"
-                                type="overwrite">e</add></subst>r<unclear resp="NW">tSt</unclear> 18
-                        Dec. 1808 _<space extent="17"/>G<hi rend="superscript"
-                                >.</hi>Cumberland.<note><illus filename="lt18dec1808.3.13.note.jpg"
-                            />Keynes (<hi rend="i">Letters</hi>, page 211) reads "CulvertSt" as
-                            "Culworth". George Cumberland lived at Culvert Street, Bristol, so
-                            "Culworth" appears a misreading. Bentley (<hi>Writings</hi> volume 2,
-                            page 1643) reads "Culvert St".<lb/><lb/>Below Cumberland's signature and
-                            a line division, Cumberland inscribes further instructions to his son,
-                            also named George, about the delivery of the letter. These instructions
-                            are transcribed in the Object Note.</note></l>
+                    <l n="lt18dec1808.1.ltr.03.13" justify="left"
+                                ><choice><orig>Culv</orig><reg>Culvert Street</reg></choice><subst>
+                            <del type="overwrite">
+                                <gap extent="1" reason="overwrite"/>
+                            </del>
+                            <add place="inline" type="overwrite">e</add>
+                        </subst>r<unclear resp="NW">tSt</unclear> 18
+                                <choice><orig>Dec</orig><reg>December</reg></choice>. 1808 _<space
+                            extent="17"/>G<hi rend="superscript"
+                                >.</hi><choice><orig>Cumberland</orig><reg>George
+                            Cumberland</reg></choice>.<note>
+                            <illus filename="lt18dec1808.3.13.note.jpg"/>Keynes (*Letters*, page 211) reads "CulvertSt" as "Culworth". George
+                            Cumberland lived at Culvert Street, Bristol, so "Culworth" appears a
+                            misreading. Bentley (*Writings* volume 2, page 1643) reads
+                            "Culvert St".<lb/>
+                            <lb/>Below Cumberland's signature and a line division, Cumberland
+                            inscribes further instructions to his son, also named George, about the
+                            delivery of the letter. These instructions are transcribed in the Object
+                            Note.</note>
+                    </l>
                 </lg>
             </phystext>
         </desc>

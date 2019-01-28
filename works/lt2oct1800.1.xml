@@ -3,33 +3,35 @@
      <header>
           <filedesc>
                <titlestmt>
-                    <title reg="Letter to Thomas Butts, 2 October 1800"><main>Letter to Thomas
-                              Butts, 2 October 1800</main> : electronic edition </title>
-                    <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of
-                         Rochester; <name>Robert Essick,</name>University of California, Riverside;
-                         and <name>Joseph Viscomi</name>, University of North Carolina at Chapel
+                    <title reg="Letter to Thomas Butts, 2 October 1800">
+                         <main>Letter to Thomas Butts, 2 October 1800</main> : electronic edition </title>
+                    <principal>
+                         <resp>Editors: </resp>ornia, Riverside; and <name>Joseph Viscomi</name>,
+                         University of No <name>Morris Eaves, </name>University of Rochester;
+                              <name>Robert Essick, </name>University of California, Riverside; and
+                              <name>Joseph Viscomi</name>, University of North Carolina at Chapel
                          Hill</principal>
                     <respstmt> </respstmt>
                     <sponsor>The Library of Congress, the University of North Carolina at Chapel
                          Hill and the University of Rochester</sponsor>
                     <funder/>
                </titlestmt>
-               <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-               <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
+               <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+               <extent>1 XML file approx. 33.4KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
                     ??KB to ??KB</extent>
                <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                         Archives<date>???</date></publicationstmt>
+                         Archives<date>February 2019</date></publicationstmt>
                <seriesstmt>The William Blake Archive</seriesstmt>
                <updatestmt> </updatestmt>
                <notesstmt/>
           </filedesc>
-          <userestrict>Copyright © <date>2009</date> by Morris Eaves, Robert N. Essick, and Joseph
-               Viscomi, all rights reserved. Items in the Archive may be shared in accordance with
-               the Fair Use provisions of U.S. copyright law. Redistribution or republication on
-               other terms, in any medium, requires express written consent from the editors and
+          <userestrict>Copyright &#169; <date>2018</date> by Morris Eaves, Robert N. Essick, and
+               Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance
+               with the Fair Use provisions of U.S. copyright law. Redistribution or republication
+               on other terms, in any medium, requires express written consent from the editors and
                advance notification of the publisher. Permission to reproduce the graphic images in
-               this archive has been granted by the owners of the originals for this publication
-               only.<lb/><lb/>This image copyright © 2009 Huntington Library and Art Gallery. </userestrict>
+               this archive has been granted by the owners of the originals for this publication only.<lb/>
+               <lb/>This image copyright &#169; 2018 City of Westminster Archives Centre. </userestrict>
           <encodingdesc/>
           <profiledesc/>
      </header>
@@ -39,16 +41,19 @@
                     <objtitle>
                          <title>Letter to Thomas Butts, 2 October 1800</title>
                     </objtitle>
-                    <origination>William Blake<role>author, </role><role>inventor,
-                              </role><role>delineator</role></origination>
+                    <origination>William Blake<role>author, </role>
+                         <role>inventor, </role>
+                         <role>delineator</role>
+                    </origination>
                     <compdate value="1800.J">1800</compdate>
                </objdescid>
                <objinfo>
                     <numberobj>4</numberobj>
                     <objorder>1-4</objorder>
-                    <objsize>full sheet, between 32.7 x 39.8 cm. and 32.4 x 40.1 cm.</objsize>
-                    <numberleaves>2<note>The full sheet was ???</note></numberleaves>
-                    <leafsize>ranging between 19.9–20.1 cm. x 16.2–16.4 cm.</leafsize>
+                    <objsize>full sheet, 20.1 x 16.2 cm.</objsize>
+                    <numberleaves>2<note>A double leaf, written on three sides.</note>
+                    </numberleaves>
+                    <leafsize> 20.1 x 16.2 cm.</leafsize>
                     <medium>pen and ink</medium>
                     <inkcolor>black</inkcolor>
                     <support>laid paper</support>
@@ -60,8 +65,7 @@
                     <placeLet>London</placeLet>
                </objinfo>
                <provenance n="1">
-                    <name>City of Westminster Archives Centre
-                         <!--contributing address not yet in system--></name>
+                    <name>City of Westminster Archives Centre</name>
                     <date>1967</date>
                     <dealer>none</dealer>
                     <price>gift</price>
@@ -78,130 +82,142 @@
                     <addressline> London SW1P 2DE</addressline>
                     <addressline>United Kingdom</addressline>
                     <addressline>Telephone: +44(0)20-7641-7513</addressline>
-                    <addressline>Fax: ??</addressline>
                     <addressline>E-mail: archives@westminster.gov.uk</addressline>
                     <addressline>URL: www.westminster.gov.uk/archives</addressline>
-                    <department> ??</department>
-                    <repositoryid label="accession number"
-                         >??<!-- Or is it a catalog number? --></repositoryid>
+                    <department>Local Studies</department>
+                    <repositoryid label="Call Number">Preston Blake Collection: Blake-Butts Letters
+                         &#38; Receipts (3)</repositoryid>
                </repository>
           </source>
+
           <desc id="lt2oct1800.1.ltr.01" dbi="lt2oct1800.1.1.LT">
-               <objtitle><title type="editorial">Mr Butts, Great Marlborough Street</title>,
-                              <objid><objnumber code="A1">Object 1</objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="editorial">Mr Butts, Great Marlborough Street</title>, <objid>
+                         <objnumber code="A1">Object 1</objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
                     <objsize>20.1 x 16.2 cm.</objsize>
                     <objnote>
-                         <p>REPEAT NOTE FROM NUMBER OF LEAVES IN WORK INFO IN THIS PARAGRAPH</p>
-                         <p>OPTIONAL: USE THIS PARAGRAPH TO DESCRIBE ANY INSCRIPTIONS OR OTHER
-                              SPECIAL FEATURES ON THIS PARTICULAR OBJECT, INCLUDING DAMAGE SUCH AS
-                              TEARS AND HOLES, AS WELL AS INSTITUTIONAL STAMPS OR OTHER MARKERS</p>
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on
+                              the first recto (Object 2) and first verso (Object 3) and second recto
+                              (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting. The address appears on the second verso (Object
+                              1), which would have been the exterior of the sealed packet. The
+                              number “3” is written in the upper right hand corner of the first
+                              recto (Object 2) in an unknown hand. There is a tear on the bottom of
+                              the second verso and in the right margin of the second recto.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    <lg type="prose" justify="left">
-                         <l n="lt2oct1800.1.ltr.01.01" justify="left">M<hi rend="superscript">r</hi>
+                    <lg justify="left">
+                         <l n="lt2oct1800.1.ltr.01.01" justify="left" indent="2"><choice><orig>M<hi
+                                             rend="superscript">r</hi></orig><reg>Mr</reg></choice>
                               Butts </l>
                          <l n="lt2oct1800.1.ltr.01.02" justify="left">Great Marlborough Street</l>
                     </lg>
                </phystext>
           </desc>
           <desc id="lt2oct1800.1.ltr.02" dbi="lt2oct1800.1.2.LT">
-               <objtitle><title type="transcribed">Friends of Religion and Order</title>,
-                              <objid><objnumber code="A2">cont.</objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="transcribed">Friends of Religion and Order</title>, <objid>
+                         <objnumber code="A2">Object 2</objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>19.9 x 16.4 cm.</objsize>
+                    <objsize>16.4 x 19.9 cm.</objsize>
                     <objnote>
-                         <p>REPEAT NOTE FROM NUMBER OF LEAVES IN WORK INFO IN THIS PARAGRAPH</p>
-                         <p>OPTIONAL: USE THIS PARAGRAPH TO DESCRIBE ANY INSCRIPTIONS OR OTHER
-                              SPECIAL FEATURES ON THIS PARTICULAR OBJECT, INCLUDING DAMAGE SUCH AS
-                              TEARS AND HOLES, AS WELL AS INSTITUTIONAL STAMPS OR OTHER MARKERS</p>
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on
+                              the first recto (Object 2) and first verso (Object 3) and second recto
+                              (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting. The address appears on the second verso (Object
+                              1), which would have been the exterior of the sealed packet. The
+                              number “3” is written in the upper right hand corner of the first
+                              recto (Object 2) in an unknown hand. There is a tear on the bottom of
+                              the second verso and in the right margin of the second recto.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    <lg type="prose" justify="left">
-                         <l n="lt2oct1800.1.ltr.02.01" justify="left">Friend of Religion &amp;
+                    <lg justify="left">
+
+                         <l n="lt2oct1800.1.ltr.02.01" justify="left">Friend of Religion &#38;
                               Order</l>
-                         <l n="lt2oct1800.1.ltr.02.02" justify="left" indent="8">I thank you for
-                              your very beautiful &amp; encouraging Verses which</l>
+                         <l n="lt2oct1800.1.ltr.02.02" justify="left" indent="8"> I thank you for
+                              your very beautiful &#38; encouraging Verses which</l>
                          <l n="lt2oct1800.1.ltr.02.03" justify="left">I account a Crown of Laurels
-                              &amp; I also thank you for your reprehension</l>
+                              &#38; I also thank you for your reprehension</l>
                          <l n="lt2oct1800.1.ltr.02.04" justify="left">of follies by me
                                         <choice><orig>fosterd</orig><reg>fostered</reg></choice>.
                               Your prediction will I hope be fulfilled in</l>
-                         <l n="lt2oct1800.1.ltr.02.05" justify="left">me. &amp; in future I am the
-                              determined advocate of Religion &amp; Humility</l>
+                         <l n="lt2oct1800.1.ltr.02.05" justify="left">me &#38; in future I am the
+                              determined advocate of Religion &#38; Humility</l>
                          <l n="lt2oct1800.1.ltr.02.06" justify="left">the two bands of Society.
                               Having been so full of the Business of Settling</l>
-                         <l n="lt2oct1800.1.ltr.02.07" justify="left">the sticks &amp; feathers of
+                         <l n="lt2oct1800.1.ltr.02.07" justify="left">the sticks &#38; feathers of
                               my nest. I have not got any forwarder with</l>
                          <l n="lt2oct1800.1.ltr.02.08" justify="left">the three Marys or with any
-                              other of your commissions but hope, now<note>Keynes (<hi rend="italic"
-                                        >Letters</hi>, 27) reads "...commissions but <hi
-                                        rend="italic">I</hi> hope, now..." Bentley and Keynes do not
-                                   make note of an "I" in this line nor does one appear to be
-                                   present in the original object.</note></l>
+                              other of your commissions but hope, now<note>Keynes (*Letters*, page 27) reads "but I hope" for "but
+                                   hope".</note></l>
                          <l n="lt2oct1800.1.ltr.02.09" justify="left">I have commenced a new life of
                               industry to do credit to that new life</l>
-                         <l n="lt2oct1800.1.ltr.02.10" justify="left">by
-                                        <choice><orig>Improvd</orig><reg>Improved</reg></choice>
-                              Works. <choice><orig>Recieve</orig><reg>Receive</reg></choice> from me
-                              a return of verses such as</l>
+                         <l n="lt2oct1800.1.ltr.02.10" justify="left">by Improved Works. Receive
+                              from me a return of verses such as</l>
                          <l n="lt2oct1800.1.ltr.02.11" justify="left">Felpham produces by me
                                         <choice><orig>tho</orig><reg>though</reg></choice> not such
-                              as she produces by her <unclear resp="JI">Eldest</unclear></l>
+                              as she produces by her Eldest</l>
                          <l n="lt2oct1800.1.ltr.02.12" justify="left">Son. however such as they are.
                               I cannot resist the temptation to send</l>
                          <l n="lt2oct1800.1.ltr.02.13" justify="left">them to you</l>
                     </lg>
                     <columns>
                          <column>
-                              <lg type="verse" justify="left">
-                                   <l n="lt2oct1800.1.ltr.02.14" justify="left" indent="5">To my
+                              <lg justify="left">
+                                   <l n="lt2oct1800.1.ltr.02.14" justify="left" indent="5"> To my
                                         Friend Butts I write</l>
-                                   <l n="lt2oct1800.1.ltr.02.15" justify="left" indent="5">My first
+                                   <l n="lt2oct1800.1.ltr.02.15" justify="left" indent="5"> My first
                                         Vision of Light</l>
-                                   <l n="lt2oct1800.1.ltr.02.16" justify="left" indent="5">On the
+                                   <l n="lt2oct1800.1.ltr.02.16" justify="left" indent="5"> On the
                                         yellow sands sitting</l>
-                                   <l n="lt2oct1800.1.ltr.02.17" justify="left" indent="5">The Sun
+                                   <l n="lt2oct1800.1.ltr.02.17" justify="left" indent="5"> The Sun
                                         was Emitting</l>
-                                   <l n="lt2oct1800.1.ltr.02.18" justify="left" indent="5">His
+                                   <l n="lt2oct1800.1.ltr.02.18" justify="left" indent="5"> His
                                         Glorious beams</l>
-                                   <l n="lt2oct1800.1.ltr.02.19" justify="left" indent="5">From
-                                        Heavens high Streams</l>
-                                   <l n="lt2oct1800.1.ltr.02.20" justify="left" indent="5">Over Sea
+                                   <l n="lt2oct1800.1.ltr.02.19" justify="left" indent="5"> From
+                                                  <choice><orig>Heavens</orig><reg>Heaven's</reg></choice>
+                                        high Streams</l>
+                                   <l n="lt2oct1800.1.ltr.02.20" justify="left" indent="5"> Over Sea
                                         over Land </l>
-                                   <l n="lt2oct1800.1.ltr.02.21" justify="left" indent="5">My Eyes
+                                   <l n="lt2oct1800.1.ltr.02.21" justify="left" indent="5"> My Eyes
                                         did Expand</l>
-                                   <l n="lt2oct1800.1.ltr.02.22" justify="left" indent="5">Into
+                                   <l n="lt2oct1800.1.ltr.02.22" justify="left" indent="5"> Into
                                         regions of air</l>
-                                   <l n="lt2oct1800.1.ltr.02.23" justify="left" indent="5">Away from
-                                        all Care</l>
-                                   <l n="lt2oct1800.1.ltr.02.24" justify="left" indent="5">Into
+                                   <l n="lt2oct1800.1.ltr.02.23" justify="left" indent="5"> Away
+                                        from all Care</l>
+                                   <l n="lt2oct1800.1.ltr.02.24" justify="left" indent="5"> Into
                                         regions of fire </l>
-                                   <l n="lt2oct1800.1.ltr.02.25" justify="left" indent="5">Remote
+                                   <l n="lt2oct1800.1.ltr.02.25" justify="left" indent="5"> Remote
                                         from Desire</l>
-                                   <l n="lt2oct1800.1.ltr.02.26" justify="left" indent="5">The Light
-                                        of the Morning </l>
-                                   <l n="lt2oct1800.1.ltr.02.27" justify="left" indent="5">Heavens
+                                   <l n="lt2oct1800.1.ltr.02.26" justify="left" indent="5"> The
+                                        Light of the Morning </l>
+                                   <l n="lt2oct1800.1.ltr.02.27" justify="left" indent="5"> Heavens
                                         Mountains adorning </l>
-                                   <l n="lt2oct1800.1.ltr.02.28" justify="left" indent="5">In
+                                   <l n="lt2oct1800.1.ltr.02.28" justify="left" indent="5"> In
                                         particles bright </l>
-                                   <l n="lt2oct1800.1.ltr.02.29" justify="left" indent="5">The
+                                   <l n="lt2oct1800.1.ltr.02.29" justify="left" indent="5"> The
                                         jewels of Light </l>
-                                   <l n="lt2oct1800.1.ltr.02.30" justify="left" indent="5">Distinct
-                                        shone &amp; clear –</l>
-                                   <l n="lt2oct1800.1.ltr.02.31" justify="left" indent="5"
-                                                  ><choice><orig>Amazd</orig><reg>Amazed</reg></choice>
-                                        &amp; in fear</l>
+                                   <l n="lt2oct1800.1.ltr.02.30" justify="left" indent="5"> Distinct
+                                        shone &#38; clear-</l>
+                                   <l n="lt2oct1800.1.ltr.02.31" justify="left" indent="5">
+                                        <choice><orig>Amazd</orig><reg>Amazed</reg></choice> &#38;
+                                        in fear</l>
                               </lg>
                          </column>
                          <column>
-                              <lg>
-                                   <l n="lt2oct1800.1.ltr.02.32" justify="left" indent="15">I each
-                                        particle gazed</l>
+                              <lg justify="left">
+                                   <l n="lt2oct1800.1.ltr.02.32" justify="left">I each particle
+                                        gazed</l>
                                    <l n="lt2oct1800.1.ltr.02.33" justify="left"
                                                   ><choice><orig>Astonishd</orig><reg>Astonished</reg></choice>
                                         Amazed</l>
@@ -216,21 +232,20 @@
                                    <l n="lt2oct1800.1.ltr.02.37" justify="left">Remote by the
                                         Sea</l>
                                    <l n="lt2oct1800.1.ltr.02.38" justify="left">Saying. Each grain
-                                        of Sand<note>The grain of sand is an instance of a 'minute
-                                             particular', which for Blake were vision-apprehended
-                                             realities and therefore illusions (Keynes <hi
-                                                  rend="italic">Letters</hi>, 28).</note></l>
+                                        of Sand</l>
                                    <l n="lt2oct1800.1.ltr.02.39" justify="left">Every Stone on the
                                         Land</l>
-                                   <l n="lt2oct1800.1.ltr.02.40" justify="left">Each rock &amp; each
+                                   <l n="lt2oct1800.1.ltr.02.40" justify="left">Each rock &#38; each
                                         hill</l>
-                                   <l n="lt2oct1800.1.ltr.02.41" justify="left">Each fountain &amp;
+                                   <l n="lt2oct1800.1.ltr.02.41" justify="left">Each fountain &#38;
                                         rill</l>
-                                   <l n="lt2oct1800.1.ltr.02.42" justify="left">Each herb &amp; each
+                                   <l n="lt2oct1800.1.ltr.02.42" justify="left">Each herb &#38; each
                                         tree</l>
-                                   <l n="lt2oct1800.1.ltr.02.43" justify="left">Mountain hill Earth
-                                        &amp; Sea</l>
-                                   <l n="lt2oct1800.1.ltr.02.44" justify="left">Cloud Meteor &amp;
+                                   <l n="lt2oct1800.1.ltr.02.43" justify="left">Mountains hill Earth
+                                        &#38; Sea<note>Keynes (*Letters*, page 28)
+                                             reads "Earth &#38; Sea" as "earth &#38;
+                                        sea".</note></l>
+                                   <l n="lt2oct1800.1.ltr.02.44" justify="left">Cloud Meteor &#38;
                                         Star</l>
                                    <l n="lt2oct1800.1.ltr.02.45" justify="left">Are Men Seen
                                         Afar</l>
@@ -242,214 +257,225 @@
                                         sweet</l>
                                    <l n="lt2oct1800.1.ltr.02.49" justify="left">Beneath my bright
                                         feet</l>
+
                               </lg>
                          </column>
                     </columns>
                </phystext>
           </desc>
           <desc id="lt2oct1800.1.ltr.03" dbi="lt2oct1800.1.3.LT">
-               <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A3">object
-                              3</objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="editorial">cont.</title>, <objid>
+                         <objnumber code="A3">Object 3</objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>19.9 x 16.3 cm.</objsize>
+                    <objsize>16.3 x 19.9 cm.</objsize>
                     <objnote>
-                         <p>REPEAT NOTE FROM NUMBER OF LEAVES IN WORK INFO IN THIS PARAGRAPH</p>
-                         <p>OPTIONAL: USE THIS PARAGRAPH TO DESCRIBE ANY INSCRIPTIONS OR OTHER
-                              SPECIAL FEATURES ON THIS PARTICULAR OBJECT, INCLUDING DAMAGE SUCH AS
-                              TEARS AND HOLES, AS WELL AS INSTITUTIONAL STAMPS OR OTHER MARKERS</p>
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on
+                              the first recto (Object 2) and first verso (Object 3) and second recto
+                              (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting. The address appears on the second verso (Object
+                              1), which would have been the exterior of the sealed packet. The
+                              number “3” is written in the upper right hand corner of the first
+                              recto (Object 2) in an unknown hand. There is a tear on the bottom of
+                              the second verso and in the right margin of the second recto.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    <lg type="prose" justify="left">
-                         <l n="lt2oct1800.1.ltr.03.01" justify="left">???<note>EXAMPLE
-                              NOTE</note></l>
-                    </lg>
                     <vspace extent="1"/>
-                    <!-- example blank vertical space; use empty vspace(s) for empty line(s) that do not contain any text or other punctuation -->
                     <columns>
                          <column>
-                              <lg type="verse" justify="left">
-                                   <l n="lt2oct1800.1.ltr.03.02" justify="left">In soft Female
+                              <lg justify="left">
+                                   <l n="lt2oct1800.1.ltr.03.01" justify="left">In soft Female
                                         charms</l>
-                                   <l n="lt2oct1800.1.ltr.03.03" justify="left">And in her fair
+                                   <l n="lt2oct1800.1.ltr.03.02" justify="left">And in her fair
                                         arms</l>
-                                   <l n="lt2oct1800.1.ltr.03.04" justify="left">My Shadow I knew
-                                             <note>The 'Shadow' refers to the state of the body or
-                                             corporeal objects; they are in the shadows of reality,
-                                             which is, for Blake, the spiritual world (Keynes <hi
-                                                  rend="italic">Letters</hi>, 28).</note></l>
-                                   <l n="lt2oct1800.1.ltr.03.05" justify="left">And my wifes shadow
-                                        too </l>
-                                   <l n="lt2oct1800.1.ltr.03.06" justify="left">And My Sister &amp;
+                                   <l n="lt2oct1800.1.ltr.03.03" justify="left">My Shadow I knew </l>
+                                   <l n="lt2oct1800.1.ltr.03.04" justify="left">And my
+                                                  <choice><orig>wifes</orig><reg>wife's</reg></choice>
+                                        shadow too </l>
+                                   <l n="lt2oct1800.1.ltr.03.05" justify="left">And My Sister &#38;
                                         Friend </l>
-                                   <l n="lt2oct1800.1.ltr.03.07" justify="left">We like Infants
+                                   <l n="lt2oct1800.1.ltr.03.06" justify="left">We like Infants
                                         descend </l>
-                                   <l n="lt2oct1800.1.ltr.03.08" justify="left">In our Shadows on
+                                   <l n="lt2oct1800.1.ltr.03.07" justify="left">In our Shadows on
                                         Earth</l>
-                                   <l n="lt2oct1800.1.ltr.03.09" justify="left">Like a weak mortal
+                                   <l n="lt2oct1800.1.ltr.03.08" justify="left">Like a weak mortal
                                         birth</l>
-                                   <l n="lt2oct1800.1.ltr.03.10" justify="left">My eyes more &amp;
+                                   <l n="lt2oct1800.1.ltr.03.09" justify="left">My Eyes more &#38;
                                         more</l>
-                                   <l n="lt2oct1800.1.ltr.03.11" justify="left">Like a Sea without
+                                   <l n="lt2oct1800.1.ltr.03.10" justify="left">Like a Sea without
                                         shore </l>
-                                   <l n="lt2oct1800.1.ltr.03.12" justify="left">Continue Expanding </l>
-                                   <l n="lt2oct1800.1.ltr.03.13" justify="left">The Heavens
+                                   <l n="lt2oct1800.1.ltr.03.11" justify="left">Continue Expanding </l>
+                                   <l n="lt2oct1800.1.ltr.03.12" justify="left">The Heavens
                                         commanding </l>
-                                   <l n="lt2oct1800.1.ltr.03.14" justify="left">Till the Jewels of
+                                   <l n="lt2oct1800.1.ltr.03.13" justify="left">Till the Jewels of
                                         Light </l>
-                                   <l n="lt2oct1800.1.ltr.03.15" justify="left">Heavenly Men beaming
+                                   <l n="lt2oct1800.1.ltr.03.14" justify="left">Heavenly Men beaming
                                         bright </l>
-                                   <l n="lt2oct1800.1.ltr.03.16" justify="left"
+                                   <l n="lt2oct1800.1.ltr.03.15" justify="left"
                                                   ><choice><orig>Appeard</orig><reg>Appeared</reg></choice>
-                                        as One Man <note>The "One Man" is Los, the Spirit of
-                                             Prophecy (Keynes <hi rend="italic">Letters</hi>,
-                                             29).</note></l>
-                                   <l n="lt2oct1800.1.ltr.03.17" justify="left">Who Complacent began </l>
-                                   <l n="lt2oct1800.1.ltr.03.18" justify="left">My limbs to infold </l>
-                                   <l n="lt2oct1800.1.ltr.03.19" justify="left">In his beams of
+                                        as One Man </l>
+                                   <l n="lt2oct1800.1.ltr.03.16" justify="left">Who Complacent began </l>
+                                   <l n="lt2oct1800.1.ltr.03.17" justify="left">My limbs to
+                                                  <choice><orig>infold</orig><reg>enfold</reg></choice>
+                                   </l>
+                                   <l n="lt2oct1800.1.ltr.03.18" justify="left">In his beams of
                                         bright gold </l>
-                                   <l n="lt2oct1800.1.ltr.03.20" justify="left">Like dross
+                                   <l n="lt2oct1800.1.ltr.03.19" justify="left">Like dross
                                                   <choice><orig>purgd</orig><reg>purged</reg></choice>
                                         away </l>
-                                   <l n="lt2oct1800.1.ltr.03.21" justify="left">All my mire &amp; my
+                                   <l n="lt2oct1800.1.ltr.03.20" justify="left">All my mire &#38; my
                                         clay </l>
-                                   <l n="lt2oct1800.1.ltr.03.22" justify="left">Soft
-                                                  <choice><orig>consumd</orig><reg>consumed</reg></choice>
-                                        in delight </l>
+                                   <l n="lt2oct1800.1.ltr.03.21" justify="left">Soft consumed in
+                                        delight </l>
                               </lg>
                          </column>
                          <column>
                               <lg>
-                                   <l n="lt2oct1800.1.ltr.03.23" justify="left">In his bosom Sun
-                                        bright</l>
-                                   <l n="lt2oct1800.1.ltr.03.24" justify="left">I
-                                                  <choice><orig>remaind</orig><reg>remained</reg></choice>.
-                                        Soft he
-                                        <choice><orig>smild</orig><reg>smiled</reg></choice></l>
-                                   <l n="lt2oct1800.1.ltr.03.25" justify="left">And I heard his
+                                   <l n="lt2oct1800.1.ltr.03.22" justify="left">In his bosom Sun
+                                             bright<note>Erdman (page 713) reads "Sun" as
+                                             "sun".</note></l>
+                                   <l n="lt2oct1800.1.ltr.03.23" justify="left">I remaind. Soft he
+                                                  <choice><orig>smild</orig><reg>smiled</reg></choice></l>
+                                   <l n="lt2oct1800.1.ltr.03.24" justify="left">And I heard his
                                         voice Mild</l>
-                                   <l n="lt2oct1800.1.ltr.03.26" justify="left">Saying This is my
+                                   <l n="lt2oct1800.1.ltr.03.25" justify="left">Saying This is My
                                         Fold</l>
-                                   <l n="lt2oct1800.1.ltr.03.27" justify="left">O Thou Ram
+                                   <l n="lt2oct1800.1.ltr.03.26" justify="left">O thou Ram
                                                   <choice><orig>hornd</orig><reg>horned</reg></choice>
-                                        with gold</l>
-                                   <l n="lt2oct1800.1.ltr.03.28" justify="left">Who awakest from
-                                             Sleep<note>Keynes (<hi rend="italic">Letters</hi>, 29)
-                                             reads "awakest" as "wakest".</note></l>
-                                   <l n="lt2oct1800.1.ltr.03.29" justify="left">On the Sides of the
-                                        Deep</l>
-                                   <l n="lt2oct1800.1.ltr.03.30" justify="left">On the Mountains
+                                        with gold<note>Keynes (*Letters*, page 29)
+                                             reads "thou" as "Thou".</note></l>
+                                   <l n="lt2oct1800.1.ltr.03.27" justify="left">Who awakest from
+                                             Sleep<note>Erdman (page 713) reads "Sleep" as "sleep".
+                                             Keynes (*Letters*, page 29) reads
+                                             "awakest" as "wakest".</note></l>
+                                   <l n="lt2oct1800.1.ltr.03.28" justify="left">On the Sides of the
+                                             Deep<note>Erdman (page 713) reads "Sides" as
+                                             "sides".</note></l>
+                                   <l n="lt2oct1800.1.ltr.03.29" justify="left">On the Mountains
                                         around</l>
-                                   <l n="lt2oct1800.1.ltr.03.31" justify="left">The roarings
+                                   <l n="lt2oct1800.1.ltr.03.30" justify="left">The roarings
                                         resound</l>
-                                   <l n="lt2oct1800.1.ltr.03.32" justify="left">Of the lion &amp;
+                                   <l n="lt2oct1800.1.ltr.03.31" justify="left">Of the lion &#38;
                                         wolf</l>
-                                   <l n="lt2oct1800.1.ltr.03.33" justify="left">The loud sea &amp;
-                                        deep gulf</l>
-                                   <l n="lt2oct1800.1.ltr.03.34" justify="left">These are guards of
+                                   <l n="lt2oct1800.1.ltr.03.32" justify="left">The loud Sea &#38;
+                                        deep gulf<note>Erdman (page 713) reads "Sea" as
+                                             "sea".</note></l>
+                                   <l n="lt2oct1800.1.ltr.03.33" justify="left">These are guards of
                                         My Fold</l>
-                                   <l n="lt2oct1800.1.ltr.03.35" justify="left">O thou Ram
+                                   <l n="lt2oct1800.1.ltr.03.34" justify="left">O thou Ram
                                                   <choice><orig>hornd</orig><reg>horned</reg></choice>
-                                        with gold</l>
-                                   <l n="lt2oct1800.1.ltr.03.36" justify="left">And the voice faded
+                                        with gold<note>Keynes (*Letters*, page 29)
+                                             reads "thou" as "Thou".</note></l>
+                                   <l n="lt2oct1800.1.ltr.03.35" justify="left">And the voice faded
                                         mild</l>
-                                   <l n="lt2oct1800.1.ltr.03.37" justify="left">I
+                                   <l n="lt2oct1800.1.ltr.03.36" justify="left">I
                                                   <choice><orig>remaind</orig><reg>remained</reg></choice>
                                         as a Child</l>
-                                   <l n="lt2oct1800.1.ltr.03.38" justify="left">All I ever had
+                                   <l n="lt2oct1800.1.ltr.03.37" justify="left">All I ever had
                                         known</l>
-                                   <l n="lt2oct1800.1.ltr.03.39" justify="left">Before me bright
+                                   <l n="lt2oct1800.1.ltr.03.38" justify="left">Before me bright
                                         Shone</l>
-                                   <l n="lt2oct1800.1.ltr.03.40" justify="left">I saw you &amp; your
+                                   <l n="lt2oct1800.1.ltr.03.39" justify="left">I saw you &#38; your
                                         wife</l>
-                                   <l n="lt2oct1800.1.ltr.03.41" justify="left">By the fountains of
+                                   <l n="lt2oct1800.1.ltr.03.40" justify="left">By the fountains of
                                         Life</l>
-                                   <l n="lt2oct1800.1.ltr.03.42" justify="left">Such the Vision to
+                                   <l n="lt2oct1800.1.ltr.03.41" justify="left">Such the Vision to
                                         me</l>
-                                   <l n="lt2oct1800.1.ltr.03.43" justify="left"
-                                                  ><choice><orig>Appeard</orig><reg>Appeared</reg></choice>
-                                        on the Sea</l>
+                                   <l n="lt2oct1800.1.ltr.03.42" justify="left">Appeard on the
+                                        Sea</l>
                               </lg>
                          </column>
                     </columns>
-                    <lg type="prose" justify="left">
-                         <l n="lt2oct1800.1.ltr.03.23" justify="left">M<hi rend="superscript"
-                                   >rs</hi> Butts will I hope Excuse my not having
-                                        <choice><orig>finishd</orig><reg>finished</reg></choice> the
-                              Portrait. I wait for<note> The portrait referred to is a miniature of
-                                   Thomas Butts</note></l>
-                         <l n="lt2oct1800.1.ltr.03.24" justify="left">less hurried moments. Our
-                              Cottage looks more &amp; more beautiful. And</l>
-                         <l n="lt2oct1800.1.ltr.03.25" justify="left"
+                    <lg justify="left">
+                         <l n="lt2oct1800.1.ltr.03.43" justify="left"><choice><orig>M<hi
+                                             rend="superscript"
+                                   >rs</hi></orig><reg>Mrs</reg></choice> Butts will I hope Excuse
+                              my not having <choice><orig>finishd</orig><reg>finished</reg></choice>
+                              the Portrait. I wait for</l>
+                         <l n="lt2oct1800.1.ltr.03.44" justify="left">less hurried moments. Our
+                              Cottage looks more &#38; more beautiful. And</l>
+                         <l n="lt2oct1800.1.ltr.03.45" justify="left"
                                         ><choice><orig>tho</orig><reg>though</reg></choice> the
                               weather is wet, the Air is very Mild. much Milder than it</l>
-                         <l n="lt2oct1800.1.ltr.03.26" justify="left">was in London when we came
+                         <l n="lt2oct1800.1.ltr.03.46" justify="left">was in London when we came
                               away. Chichester is a very
-                                        <choice><orig>handsom</orig><reg>handsome</reg></choice>City</l>
-                         <l n="lt2oct1800.1.ltr.03.27" justify="left">Seven miles from us we can get
+                                        <choice><orig>handsom</orig><reg>handsome</reg></choice>
+                              City</l>
+                         <l n="lt2oct1800.1.ltr.03.47" justify="left">Seven miles from us we can get
                               most Conveniences there. The Country</l>
-                         <l n="lt2oct1800.1.ltr.03.28" justify="left">is not so destitute of
+                         <l n="lt2oct1800.1.ltr.03.48" justify="left">is not so destitute of
                               accomodations to our wants as I expected it</l>
-                         <l n="lt2oct1800.1.ltr.03.29" justify="left">would be We have had but
+                         <l n="lt2oct1800.1.ltr.03.49" justify="left">would be We have had but
                               little time for viewing the Country but</l>
-                         <l n="lt2oct1800.1.ltr.03.30" justify="left">what we have seen is Most
-                              Beautiful &amp; the People are Genuine</l>
-                         <l n="lt2oct1800.1.ltr.03.31" justify="left">Saxons handsomer than the
-                              people <del type="overstrike">of</del> about London. M<hi
-                                   rend="superscript">rs</hi> Butts</l>
+                         <l n="lt2oct1800.1.ltr.03.50" justify="left">what we have seen is Most
+                              Beautiful &#38; the People are Genuine</l>
+                         <l n="lt2oct1800.1.ltr.03.51" justify="left">Saxons handsomer than the
+                              people <del type="overstrike">of</del> about London.
+                                             <choice><orig>M<hi rend="superscript"
+                                        >rs</hi></orig><reg>Mrs</reg></choice> Butts</l>
                     </lg>
                </phystext>
           </desc>
           <desc id="lt2oct1800.1.ltr.04" dbi="lt2oct1800.1.4.LT">
-               <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A4">object
-                              4</objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="editorial">cont.</title>, <objid>
+                         <objnumber code="A4">Object 4</objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>20.0 x 16.2 cm.</objsize>
+                    <objsize>16.2 x 20 cm.</objsize>
                     <objnote>
-                         <p>REPEAT NOTE FROM NUMBER OF LEAVES IN WORK INFO IN THIS PARAGRAPH</p>
-                         <p>OPTIONAL: USE THIS PARAGRAPH TO DESCRIBE ANY INSCRIPTIONS OR OTHER
-                              SPECIAL FEATURES ON THIS PARTICULAR OBJECT, INCLUDING DAMAGE SUCH AS
-                              TEARS AND HOLES, AS WELL AS INSTITUTIONAL STAMPS OR OTHER MARKERS</p>
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on
+                              the first recto (Object 2) and first verso (Object 3) and second recto
+                              (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting. The address appears on the second verso (Object
+                              1), which would have been the exterior of the sealed packet. The
+                              number “3” is written in the upper right hand corner of the first
+                              recto (Object 2) in an unknown hand. There is a tear on the bottom of
+                              the second verso and in the right margin of the second recto.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    <lg type="prose" justify="left">
-                         <l n="lt2oct1800.1.ltr.04.01" justify="left">???<note>EXAMPLE
-                              NOTE</note></l>
-                    </lg>
                     <vspace extent="1"/>
-                    <!-- example blank vertical space; use empty vspace(s) for empty line(s) that do not contain any text or other punctuation -->
-                    <lg type="verse" justify="left">
-                         <l n="lt2oct1800.1.ltr.04.01" justify="left">will Excuse the followg
-                              lines</l>
-                         <l n="lt2oct1800.1.ltr.04.02" justify="left" indent="10">To M<hi
-                                   rend="superscript">rs</hi><space extent="5"/>Butts</l>
-                         <l n="lt2oct1800.1.ltr.04.03" justify="left" indent="5">Wife of the Friend
-                              of those I most revere</l>
-                         <l n="lt2oct1800.1.ltr.04.04" justify="left" indent="5"
-                                        ><choice><orig>Recieve</orig><reg>Receive</reg></choice>this
-                              tribute from a Harp sincere</l>
-                         <l n="lt2oct1800.1.ltr.04.05" justify="left" indent="6">Go on in Virtuous
-                              Seed sowing on Mold</l>
-                         <l n="lt2oct1800.1.ltr.04.06" justify="left" indent="7">Of Human Vegetation
-                              &amp; Behold</l>
-                         <l n="lt2oct1800.1.ltr.04.07" justify="left" indent="7.5">Your Harvest
-                              Springing to Eternal life</l>
-                         <l n="lt2oct1800.1.ltr.04.08" justify="left" indent="7.5">Parent of
-                              Youthful Minds &amp; happy Wife</l>
-                         <l n="lt2oct1800.1.ltr.04.09" justify="left" indent="32"
-                                        ><choice><orig>WB</orig><reg>William
-                              Blake</reg></choice>–</l>
-                         <l n="lt2oct1800.1.ltr.04.10" justify="left" indent="15">I am for Ever
+                    <lg justify="left">
+                         <l n="lt2oct1800.1.ltr.04.01" justify="left">will Excuse the
+                                        <choice><orig>followg</orig><reg>following</reg></choice>
+                                   lines<notes>Bentley (*Writings* volume 2, page
+                                   1547) and Erdman (page 714) read "followg" as
+                                   "following".</notes></l>
+                    </lg>
+                    <lg justify="left">
+                         <l n="lt2oct1800.1.ltr.04.02" justify="left" indent="12">To
+                                             <choice><orig>M<hi rend="superscript"
+                                        >rs</hi></orig><reg>Mrs</reg></choice> Butts</l>
+                         <l n="lt2oct1800.1.ltr.04.03" justify="left">Wife of the Friend of those I
+                              most revere</l>
+                         <l n="lt2oct1800.1.ltr.04.04" justify="left">Recieve this tribute from a
+                              Harp sincere</l>
+                         <l n="lt2oct1800.1.ltr.04.05" justify="left">Go on in Virtuous Seed sowing
+                              on Mold</l>
+                         <l n="lt2oct1800.1.ltr.04.06" justify="left">Of Human Vegetation &#38;
+                              Behold</l>
+                         <l n="lt2oct1800.1.ltr.04.07" justify="left">Your Harvest Springing to
+                              Eternal life</l>
+                         <l n="lt2oct1800.1.ltr.04.08" justify="left">Parent of Youthful Minds &#38;
+                              happy Wife</l>
+                         <l n="lt2oct1800.1.ltr.04.09" justify="left" indent="24">
+                              <choice><orig>WB</orig><reg>William Blake</reg></choice>-</l>
+                         <l n="lt2oct1800.1.ltr.04.10" justify="left" indent="16">I am for Ever
                               Yours</l>
-                         <l n="lt2oct1800.1.ltr.04.11" justify="left" indent="4">Felpham<space
-                                   extent="10"/>William Blake</l>
-                         <l n="lt2oct1800.1.ltr.04.12" justify="left" indent="4"
-                                             ><choice><orig>Oct<hi rend="superscript"
-                                        >r</hi></orig><reg>October</reg></choice> 2<hi
-                                   rend="superscript">d</hi>. 1800</l>
+                         <l n="lt2oct1800.1.ltr.04.11" justify="left">Felpham <space extent="8"/>
+                              William Blake</l>
+                         <l n="lt2oct1800.1.ltr.04.12" justify="left"><choice><orig>Oct <hi
+                                             rend="superscript"
+                                   >r</hi></orig><reg>October</reg></choice>
+                              <choice><orig>2<hi rend="superscript"
+                                   >d</hi></orig><reg>Second</reg></choice>. 1800</l>
                     </lg>
                </phystext>
           </desc>

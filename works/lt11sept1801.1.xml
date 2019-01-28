@@ -3,33 +3,35 @@
      <header>
           <filedesc>
                <titlestmt>
-                    <title reg="Letter to Thomas Butts, 11 September 1801"><main>Letter to Thomas
-                              Butts, 11 September 1801</main> : electronic edition </title>
-                    <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of
-                         Rochester; <name>Robert Essick,</name>University of California, Riverside;
-                         and <name>Joseph Viscomi</name>, University of North Carolina at Chapel
+                    <title reg="Letter to Thomas Butts, 11 September 1801">
+                         <main>Letter to Thomas Butts, 11 September 1801</main> : electronic edition </title>
+                    <principal>
+                         <resp>Editors: </resp>
+                         <name>Morris Eaves, </name>University of Rochester; <name>Robert
+                              Essick, </name>University of California, Riverside; and <name>Joseph
+                              Viscomi</name>, University of North Carolina at Chapel
                          Hill</principal>
                     <respstmt> </respstmt>
                     <sponsor>The Library of Congress, the University of North Carolina at Chapel
                          Hill and the University of Rochester</sponsor>
                     <funder/>
                </titlestmt>
-               <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-               <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
+               <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+               <extent>1 XML file approx. 27.6KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
                     ??KB to ??KB</extent>
                <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                         Archives<date>???</date></publicationstmt>
+                         Archives<date>February 2019</date></publicationstmt>
                <seriesstmt>The William Blake Archive</seriesstmt>
                <updatestmt> </updatestmt>
                <notesstmt/>
           </filedesc>
-          <userestrict>Copyright © <date>2009</date> by Morris Eaves, Robert N. Essick, and Joseph
-               Viscomi, all rights reserved. Items in the Archive may be shared in accordance with
-               the Fair Use provisions of U.S. copyright law. Redistribution or republication on
-               other terms, in any medium, requires express written consent from the editors and
+          <userestrict>Copyright &#169; <date>2018</date> by Morris Eaves, Robert N. Essick, and
+               Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance
+               with the Fair Use provisions of U.S. copyright law. Redistribution or republication
+               on other terms, in any medium, requires express written consent from the editors and
                advance notification of the publisher. Permission to reproduce the graphic images in
-               this archive has been granted by the owners of the originals for this publication
-               only.<lb/><lb/>This image copyright © 2009 Huntington Library and Art Gallery. </userestrict>
+               this archive has been granted by the owners of the originals for this publication only.<lb/>
+               <lb/>This image copyright &#169; 2018 City of Westminster Archives Centre. </userestrict>
           <encodingdesc/>
           <profiledesc/>
      </header>
@@ -39,143 +41,353 @@
                     <objtitle>
                          <title>Letter to Thomas Butts, 11 September 1801</title>
                     </objtitle>
-                    <origination>William Blake<role>author, </role><role>inventor,
-                              </role><role>delineator</role></origination>
+                    <origination>William Blake<role>author,</role>
+                         <role>inventor,</role>
+                         <role>delineator</role>
+                    </origination>
                     <compdate value="1801.B">1801</compdate>
                </objdescid>
                <objinfo>
                     <numberobj>4</numberobj>
                     <objorder>1-4</objorder>
-                    <objsize>full sheet ??.? x ??.? cm.</objsize>
-                    <numberleaves>2<note>The full sheet was ???</note></numberleaves>
-                    <leafsize>??.? x ??.? cm.</leafsize>
+                    <objsize>full sheet 30.7 x 19.1 cm.</objsize>
+                    <numberleaves>2<note>The full sheet was folded to form two leaves. This folded
+                              sheet was folded furter to form a sealed packet for posting. The
+                              address appears on the exterior of the folded packet. </note>
+                    </numberleaves>
+                    <leafsize>30.7 x 19.1 cm.</leafsize>
                     <medium>pen and ink</medium>
-                    <inkcolor>??</inkcolor>
+                    <inkcolor>black</inkcolor>
                     <support>laid paper</support>
-                    <watermark>??</watermark>
-                    <binding>??</binding>
-                    <postmark>??</postmark>
-                    <sealDesc>??</sealDesc>
+                    <watermark>wafer</watermark>
+                    <binding>loose</binding>
+                    <postmark>none</postmark>
+                    <sealDesc>red wafer</sealDesc>
                     <addressee>Thomas Butts</addressee>
-                    <placeLet>??</placeLet>
+                    <placeLet>Felpham</placeLet>
                </objinfo>
                <provenance n="1">
-                    <name>??</name>
-                    <date>??</date>
-                    <dealer>??</dealer>
-                    <price>??</price>
-                    <note>??</note>
+                    <name>City of Westminster Archive</name>
+                    <date>1967</date>
+                    <dealer>none</dealer>
+                    <price>gift</price>
+                    <note>The letter was sold along with the letters of 22 Sept., end of Sept., 2
+                         Oct. 1800, 10 May, 1801, 10 Jan., 22 Nov. (both parts) 1802, 25 April, 6
+                         July, 16 Aug. 1803 by Captain Frederick Butts in about 1906 to W. Graham
+                         Robertson, who allowed them to be reproduced in 1926 and bequeathed them in
+                         1948 to Mr. Kerrison Preston, who gave them in 1967 to the Westminster
+                         Arhives.</note>
                </provenance>
                <repository>
-                    <institution>??</institution>
-                    <addressline>??</addressline>
-                    <addressline>??</addressline>
-                    <addressline>??</addressline>
-                    <addressline>Telephone: ???</addressline>
-                    <addressline>Fax: ??</addressline>
-                    <addressline>E-mail: ??</addressline>
-                    <addressline>URL: ??</addressline>
-                    <department>??</department>
-                    <repositoryid label="accession number"
-                         >??<!-- Or is it a catalog number? --></repositoryid>
+                    <institution>City of Westminster Archives Centre</institution>
+                    <addressline>10 St Ann's Street</addressline>
+                    <addressline>London SW1P 2DE</addressline>
+                    <addressline>United Kingdom</addressline>
+                    <addressline>Telephone:044 020 7641 5189</addressline>
+                    <addressline>E-mail: archives@westminster.gov.uk</addressline>
+                    <addressline>URL: https://www.westminster.gov.uk/contact-archives</addressline>
+                    <department>Local Studies</department>
+                    <repositoryid label="Call Number">Preston Blake Collection: Blake-Butts Letters
+                         &#38; Receipts (5)</repositoryid>
                </repository>
           </source>
+
           <desc id="lt11sept1801.1.ltr.01" dbi="lt11sept1801.1.1.LT">
-               <objtitle><title type="editorial">Address</title>, <objid><objnumber code="A1">object
-                              1</objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="editorial">Letter to Thomas Butts</title>, <objid>
+                         <objnumber code="A1">Object 1</objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>??.? x ??.? cm.</objsize>
+                    <objsize>30.7 x 19.1 cm.</objsize>
                     <objnote>
-                         <p>REPEAT NOTE FROM NUMBER OF LEAVES IN WORK INFO IN THIS PARAGRAPH</p>
-                         <p>OPTIONAL: USE THIS PARAGRAPH TO DESCRIBE ANY INSCRIPTIONS OR OTHER
-                              SPECIAL FEATURES ON THIS PARTICULAR OBJECT, INCLUDING DAMAGE SUCH AS
-                              TEARS AND HOLES, AS WELL AS INSTITUTIONAL STAMPS OR OTHER MARKERS</p>
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on
+                              the first recto (Object 2) and first verso (Object 3) and second recto
+                              (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting. The address appears on the second verso (Object
+                              1), which would have been the exterior of the sealed packet. The
+                              number “5” facing downward is written in the upper left corner of the
+                              second verso (Object 1) in an unknown hand.</p>
+                         <p>A tear appears on the bottom of Object 1, presumably where a sticker has
+                              been torn away upon the letters opening.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    <lg type="prose" justify="left">
-                         <l n="lt11sept1801.1.ltr.01.01" justify="left">??</l>
-                         <l n="lt11sept1801.1.ltr.01.02" justify="left">??</l>
-                         <l n="lt11sept1801.1.ltr.01.03" justify="left">??</l>
+                    <lg justify="left">
+                         <l n="lt11sept1801.1.ltr.01.01" justify="left" indent="2">Mr. Butts</l>
+                         <l n="lt11sept1801.1.ltr.01.02" justify="left">Great Marlborough Street</l>
+                         <l n="lt11sept1801.1.ltr.01.03" justify="left" indent="5">London--</l>
                     </lg>
                </phystext>
           </desc>
           <desc id="lt11sept1801.1.ltr.02" dbi="lt11sept1801.1.2.LT">
-               <objtitle><title type="transcribed">FIRST PHRASE, UP TO ABOUT 8 WORDS, FROM FIRST
-                         LINE OF BODY OF LETTER</title>, <objid><objnumber code="A2">object 2
-                         </objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="transcribed">I hope you will continue to excuse my want</title>, <objid>
+                         <objnumber code="A2">Object 2 </objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>??.? x ??.? cm.</objsize>
+                    <objsize>19.2 x 30.1 cm.</objsize>
                     <objnote>
-                         <p>REPEAT NOTE FROM NUMBER OF LEAVES IN WORK INFO IN THIS PARAGRAPH</p>
-                         <p>OPTIONAL: USE THIS PARAGRAPH TO DESCRIBE ANY INSCRIPTIONS OR OTHER
-                              SPECIAL FEATURES ON THIS PARTICULAR OBJECT, INCLUDING DAMAGE SUCH AS
-                              TEARS AND HOLES, AS WELL AS INSTITUTIONAL STAMPS OR OTHER MARKERS</p>
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on
+                              the first recto (Object 2) and first verso (Object 3) and second recto
+                              (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting. The address appears on the second verso (Object
+                              1), which would have been the exterior of the sealed packet. The
+                              number “5” facing downward is written in the upper left corner of the
+                              second verso (Object 1) in an unknown hand.</p>
+                         <p>Red stain on the middle-left side of the object and a small tear on the
+                              middle-right side of the object. </p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    <lg type="prose" justify="left">
-                         <l n="lt11sept1801.1.ltr.02.01" justify="left">???</l>
-                         <l n="lt11sept1801.1.ltr.02.02" justify="left">???</l>
-                         <l n="lt11sept1801.1.ltr.02.03" justify="left">???</l>
-                         <l n="lt11sept1801.1.ltr.02.04" justify="left">???</l>
-                         <l n="lt11sept1801.1.ltr.02.05" justify="left">???</l>
+                    <lg justify="left">
+                         <l n="lt11sept1801.1.ltr.02.01" justify="left">My Dear Sir</l>
+                         <l n="lt11sept1801.1.ltr.02.02" justify="left" indent="10">I hope you will
+                              continue to excuse my want of s<subst>
+                                   <del type="overwrite">p</del>
+                                   <add type="overwrite" place="inline">t</add>
+                              </subst><choice>
+                                   <orig>eady</orig>
+                                   <reg>steady</reg>
+                              </choice> perseverance </l>
+                         <l n="lt11sept1801.1.ltr.02.03" justify="left">by which want I am still so
+                              much your debtor &#38; you so much my Credit-er</l>
+                         <l n="lt11sept1801.1.ltr.02.04" justify="left">but such as I can be I will:
+                              I can be grateful &#38; I can soon Send</l>
+                         <l n="lt11sept1801.1.ltr.02.05" justify="left">you some of your designs
+                              which I have nearly completed. In the mean</l>
+                         <l n="lt11sept1801.1.ltr.02.06" justify="left">time by my
+                                        <choice><orig>Sisters</orig><reg>Sister's</reg></choice>
+                              hands I transmit to <choice><orig>M<hi rend="superscript"
+                                        >rs</hi></orig><reg>Mrs</reg></choice> Butts an attempt <del
+                                   type="overstrike">to</del> at </l>
+                         <l n="lt11sept1801.1.ltr.02.07" justify="left">your likeness which I hope
+                              She who is the best judge will think like</l>
+                         <l n="lt11sept1801.1.ltr.02.08" justify="left">Time flies faster, (as seems
+                              to me), here than in London I
+                                        <choice><orig>labour</orig><reg>labor</reg></choice></l>
+                         <l n="lt11sept1801.1.ltr.02.09" justify="left">incessantly &#38; accomplish
+                              not one half of what I intend because my</l>
+                         <l n="lt11sept1801.1.ltr.02.10" justify="left">Abstract folly hurries me
+                              often away while I am at work, carrying</l>
+                         <l n="lt11sept1801.1.ltr.02.11" justify="left">me over Mountains &#38;
+                              Valleys which are not Real in a Land of</l>
+                         <l n="lt11sept1801.1.ltr.02.12" justify="left">Abstraction where Spectres
+                              of the Dead wander. This I
+                                        <choice><orig>endeavour</orig><reg>endeavor</reg></choice>
+                              to</l>
+                         <l n="lt11sept1801.1.ltr.02.13" justify="left">prevent &#38; with my whole
+                              might chain my feet to the world of Duty</l>
+                         <l n="lt11sept1801.1.ltr.02.14" justify="left">&#38; Reality. but in vain!
+                              the faster I bind the better is the Ballast</l>
+                         <l n="lt11sept1801.1.ltr.02.15" justify="left">for I so far from being
+                              bound down take the world with me in my</l>
+                         <l n="lt11sept1801.1.ltr.02.16" justify="left">flights &#38; often it seems
+                              lighter than a ball of wool rolled by the wind<note>Keynes (*Letters*, page 34) reads "wool" as
+                                   "Wool".</note></l>
+                         <l n="lt11sept1801.1.ltr.02.17" justify="left">Bacon &#38; Newton would
+                              prescribe ways of making the world heavier</l>
+                         <l n="lt11sept1801.1.ltr.02.18" justify="left">to me &#38; Pitt would
+                              prescribe distress for a medicinal potion. but</l>
+                         <l n="lt11sept1801.1.ltr.02.19" justify="left">as none on Earth can give me
+                              Mental Distress. &#38; I know that all</l>
+                         <l n="lt11sept1801.1.ltr.02.20" justify="left">Distress inflicted by Heaven
+                              is a Mercy. a Fig for all Corporeal</l>
+                         <l n="lt11sept1801.1.ltr.02.21" justify="left">Such Distress is my mock
+                              &#38; scorn. Alas wretched happy ineffectual</l>
+                         <l n="lt11sept1801.1.ltr.02.22" justify="left"
+                                        ><choice><orig>labourer</orig><reg>laborer</reg></choice> of
+                                        <choice><orig>times</orig><reg>time's</reg></choice> moments
+                              that I am! who shall deliver me from</l>
+                         <l n="lt11sept1801.1.ltr.02.23" justify="left">this Spirit of Abstraction
+                              &#38; Improvidence. Such my Dear Sir</l>
+                         <l n="lt11sept1801.1.ltr.02.24" justify="left">Is the truth of my state
+                              &#38; I tell it you in palliation of my</l>
+                         <l n="lt11sept1801.1.ltr.02.25" justify="left">seeming neglect of your most
+                              pleasant orders. but I have</l>
+                         <l n="lt11sept1801.1.ltr.02.26" justify="left">not neglected them &#38; yet
+                              a Year is rolled over &#38; only now<note>Bentley (*Writings* volume 2, page 1552) reads "now" as
+                                   "nhw".</note></l>
+                         <l n="lt11sept1801.1.ltr.02.27" justify="left">I approach the prospect of
+                              sending you some which you may expect</l>
+                         <l n="lt11sept1801.1.ltr.02.28" justify="left">soon. I should have sent
+                              them by My Sister but as the Coach</l>
+                         <l n="lt11sept1801.1.ltr.02.29" justify="left">goes three times a week to
+                              London &#38; they <del type="overstrike">shall</del> will arrive as
+                              safe</l>
+                         <l n="lt11sept1801.1.ltr.02.30" justify="left">as with her. I shall have an
+                              opportunity of
+                                   <choice><orig>inclosing</orig><reg>enclosing</reg></choice>
+                              several together</l>
+
                     </lg>
                </phystext>
           </desc>
           <desc id="lt11sept1801.1.ltr.03" dbi="lt11sept1801.1.3.LT">
-               <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A3">object
-                              3</objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="editorial">cont.</title>, <objid>
+                         <objnumber code="A3">Object 3</objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>??.? x ??.? cm.</objsize>
+                    <objsize>19.0 x 30.7 cm.</objsize>
                     <objnote>
-                         <p>REPEAT NOTE FROM NUMBER OF LEAVES IN WORK INFO IN THIS PARAGRAPH</p>
-                         <p>OPTIONAL: USE THIS PARAGRAPH TO DESCRIBE ANY INSCRIPTIONS OR OTHER
-                              SPECIAL FEATURES ON THIS PARTICULAR OBJECT, INCLUDING DAMAGE SUCH AS
-                              TEARS AND HOLES, AS WELL AS INSTITUTIONAL STAMPS OR OTHER MARKERS</p>
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on
+                              the first recto (Object 2) and first verso (Object 3) and second recto
+                              (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting. The address appears on the second verso (Object
+                              1), which would have been the exterior of the sealed packet. The
+                              number “5” facing downward is written in the upper left corner of the
+                              second verso (Object 1) in an unknown hand. </p>
+                         <p>A stain and small tear appear on the left hand side of Object 3.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    <lg type="prose" justify="left">
-                         <l n="lt11sept1801.1.ltr.03.01" justify="left">???<note>EXAMPLE
-                              NOTE</note></l>
+                    <lg justify="left">
+                         <l n="lt11sept1801.1.ltr.03.01" justify="left">which are not yet completed.
+                              I thank you again &#38; again for your</l>
+                         <l n="lt11sept1801.1.ltr.03.02" justify="left">generous forbearance of
+                              which I have need-- &#38; now I must express</l>
+                         <l n="lt11sept1801.1.ltr.03.03" justify="left">my wishes to see you at
+                              Felpham &#38; to <choice><orig>shew</orig><reg>show</reg></choice> you
+                                             <choice><orig>M<hi rend="superscript"
+                                        >r</hi></orig><reg>Mr</reg></choice>
+                              <choice><orig>Hayleys</orig><reg>Hayley's</reg></choice></l>
+                         <l n="lt11sept1801.1.ltr.03.04" justify="left">Library. which is still
+                                        <choice><orig>unfinishd</orig><reg>unfinished</reg></choice>
+                              but is <gap reason="cancellation" extent="2" unit="character"/> in a
+                              finishing way</l>
+                         <l n="lt11sept1801.1.ltr.03.05" justify="left">&#38; looks well. I ought
+                              also to mention my Extreme disappointment</l>
+                         <l n="lt11sept1801.1.ltr.03.06" justify="left">at <choice><orig>M<hi
+                                             rend="superscript">r</hi></orig><reg>Mr</reg></choice>
+                              <choice><orig>Johnsons</orig><reg>Johnson's</reg></choice>
+                              forgetfulness, who appointed to call on you but</l>
+                         <l n="lt11sept1801.1.ltr.03.07" justify="left">did Not. He is also a happy
+                              Abstract known by all his</l>
+                         <l n="lt11sept1801.1.ltr.03.08" justify="left">Friends as the most innocent
+                              forgetter of his own Interests. He is</l>
+                         <l n="lt11sept1801.1.ltr.03.09" justify="left" indent="7">
+                              <add place="supralinear">The late</add>
+                         </l>
+                         <l n="lt11sept1801.1.ltr.03.10" justify="left">nephew to <add
+                                   type="insertion" place="inline" symbol="caret"><hi
+                                        rend="subscript">^</hi></add>
+                              <choice><orig>M<hi rend="superscript"
+                                   >r</hi></orig><reg>Mr</reg></choice> Cowper the Poet you would
+                              like him much</l>
+                         <l n="lt11sept1801.1.ltr.03.11" justify="left">I continue painting
+                              Miniatures &#38; Improve more &#38; more as all</l>
+                         <l n="lt11sept1801.1.ltr.03.12" justify="left">my friends tell me. but my
+                              Principal <choice><orig>labour</orig><reg>labor</reg></choice> at this
+                              time is</l>
+                         <l n="lt11sept1801.1.ltr.03.13" justify="left">Engraving Plates for
+                                        <choice><orig>Cowpers</orig><reg>Cowper's</reg></choice>
+                              Life a Work of Magnitude</l>
+                         <l n="lt11sept1801.1.ltr.03.14" justify="left">which <choice><orig>M<hi
+                                             rend="superscript">r</hi></orig><reg>Mr</reg></choice>
+                              Hayley is now
+                                   <choice><orig>Labouring</orig><reg>Laboring</reg></choice> with
+                              all his matchless</l>
+                         <l n="lt11sept1801.1.ltr.03.15" justify="left">industry &#38; which will be
+                              a most valuable acquisition to</l>
+                         <l n="lt11sept1801.1.ltr.03.16" justify="left">Literature not only on
+                              account of <choice><orig>M<hi rend="superscript"
+                                        >r</hi></orig><reg>Mr</reg></choice>
+                              <choice><orig>Hayleys</orig><reg>Hayley's</reg></choice>
+                              composition</l>
+                         <l n="lt11sept1801.1.ltr.03.17" justify="left">but also as it will contain
+                              Letters of Cowper to his friends<note>Bentley (*Writings* volume 2, page 1553) reads "Friends" for
+                                   "friends".</note></l>
+                         <l n="lt11sept1801.1.ltr.03.18" justify="left">Perhaps or rather Certainly
+                              the very best letters that ever</l>
+                         <l n="lt11sept1801.1.ltr.03.19" justify="left">were published</l>
                     </lg>
-                    <vspace extent="1"/>
-                    <!-- example blank vertical space; use empty vspace(s) for empty line(s) that do not contain any text or other punctuation -->
-                    <lg type="verse" justify="left">
-                         <l n="lt11sept1801.1.ltr.03.02" justify="left">???</l>
-                         <l n="lt11sept1801.1.ltr.03.03" justify="left">???</l>
-                         <l n="lt11sept1801.1.ltr.03.04" justify="left">???</l>
+                    <lg justify="left">
+                         <l n="lt11sept1801.1.ltr.03.20" justify="left" indent="6"> My wife joins
+                              with me in Love to you &#38; <choice><orig>M<hi rend="superscript"
+                                             >rs</hi></orig><reg>Mrs</reg></choice> Butts</l>
+                         <l n="lt11sept1801.1.ltr.03.21" justify="left">hoping that her joy is now
+                              increased &#38; yours also in an</l>
+                         <l n="lt11sept1801.1.ltr.03.22" justify="left">increase of family &#38; of
+                              health &#38; happiness</l>
+                         <l n="lt11sept1801.1.ltr.03.23" justify="left" indent="14">I remain Dear
+                              Sir</l>
+                         <l n="lt11sept1801.1.ltr.02.24" justify="left" indent="19">Ever Yours
+                              Sincerely</l>
+                         <l n="lt11sept1801.1.ltr.02.25" justify="left">Felpham Cottage</l>
+                         <l n="lt11sept1801.1.ltr.02.26" justify="left">of Cottages the prettiest
+                                   <space extent="6"/> William Blake</l>
+                         <l n="lt11sept1801.1.ltr.02.27" justify="left">September 11. 1801</l>
+                    </lg>
+                    <lg justify="left">
+                         <l n="lt11sept1801.1.ltr.02.28" justify="left" indent="6">Next time I have
+                              the happiness to see you I am determined</l>
+                         <l n="lt11sept1801.1.ltr.02.29" justify="left">to paint another Portrait of
+                              you from Life in my best manner</l>
+                         <l n="lt11sept1801.1.ltr.02.30" justify="left">for Memory will not do in
+                              such minute operations, for I have</l>
                     </lg>
                </phystext>
           </desc>
           <desc id="lt11sept1801.1.ltr.04" dbi="lt11sept1801.1.4.LT">
-               <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A4">object
-                              4</objnumber></objid></objtitle>
+               <objtitle>
+                    <title type="editorial">cont.</title>, <objid>
+                         <objnumber code="A4">Object 4</objnumber>
+                    </objid>
+               </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>??.? x ??.? cm.</objsize>
+                    <objsize>19.1 x 30.7 cm.</objsize>
                     <objnote>
-                         <p>REPEAT NOTE FROM NUMBER OF LEAVES IN WORK INFO IN THIS PARAGRAPH</p>
-                         <p>OPTIONAL: USE THIS PARAGRAPH TO DESCRIBE ANY INSCRIPTIONS OR OTHER
-                              SPECIAL FEATURES ON THIS PARTICULAR OBJECT, INCLUDING DAMAGE SUCH AS
-                              TEARS AND HOLES, AS WELL AS INSTITUTIONAL STAMPS OR OTHER MARKERS</p>
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on
+                              the first recto (Object 2) and first verso (Object 3) and second recto
+                              (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting. The address appears on the second verso (Object
+                              1), which would have been the exterior of the sealed packet. The
+                              number “5” facing downward is written in the upper left corner of the
+                              second verso (Object 1) in an unknown hand.</p>
+                         <p>A tear appears on the right side of Object 4.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
                     <lg type="prose" justify="left">
-                         <l n="lt11sept1801.1.ltr.04.01" justify="left">???<note>EXAMPLE
-                              NOTE</note></l>
+                         <l n="lt11sept1801.1.ltr.04.01" justify="left">now
+                                        <choice><orig>discoverd</orig><reg>discovered</reg></choice>
+                              that without Nature before the
+                                        <choice><orig>painters</orig><reg>painter's</reg></choice>
+                              Eye he can</l>
+                         <l n="lt11sept1801.1.ltr.04.02" justify="left">never produce
+                                        <choice><orig>any thing</orig><reg>anything</reg></choice>
+                              in the walks of Natural Painting</l>
+                         <l n="lt11sept1801.1.ltr.04.03" justify="left">Historical Designing is one
+                              thing &#38; Portrait Painting another</l>
+                         <l n="lt11sept1801.1.ltr.04.04" justify="left">&#38; they are as Distinct
+                              as any two Arts can be Happy would</l>
+                         <l n="lt11sept1801.1.ltr.04.05" justify="left">that Man be who could unite
+                              them</l>
                     </lg>
-                    <vspace extent="1"/>
-                    <!-- example blank vertical space; use empty vspace(s) for empty line(s) that do not contain any text or other punctuation -->
-                    <lg type="verse" justify="left">
-                         <l n="lt11sept1801.1.ltr.04.02" justify="left">???</l>
-                         <l n="lt11sept1801.1.ltr.04.03" justify="left">???</l>
-                         <l n="lt11sept1801.1.ltr.04.04" justify="left">???</l>
+                    <vspace extent="5"/>
+                    <lg>
+                         <l n="lt11sept1801.1.ltr.04.06" justify="left">P.S. Please to Remember our
+                              best respects</l>
+                         <l n="lt11seot1801.1.ltr.04.07" justify="left">to <choice><orig>M<hi
+                                             rend="superscript">r</hi></orig><reg>Mr</reg></choice>
+                                        B<subst><del type="overwrite" extent="1"
+                                   /><add>i</add></subst><choice><orig>rch</orig><reg>John
+                                        Birch</reg></choice> &#38; tell him that Felpham</l>
+                         <l n="lt11sept1801.1.ltr.04.08" justify="left">Men are the mildest of the
+                              human race if</l>
+                         <l n="lt11sept1801.1.ltr.04.09" justify="left">it is the will of Providence
+                              they shall be the wisest</l>
+                         <l n="lt11sept1801.1.ltr.04.10" justify="left">We hope that he will next
+                              Summer joke us</l>
+                         <l n="lt11sept1801.1.ltr.04.11" justify="left">face to face-------God bless
+                              you all</l>
                     </lg>
                </phystext>
           </desc>

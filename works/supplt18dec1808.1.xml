@@ -3,12 +3,14 @@
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter from George Cumberland, 18 December 1808"><main>Letter from
-                        George Cumberland, 18 December 1808</main> : electronic edition </title>
-                <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester;
-                        <name>Robert Essick,</name>University of California, Riverside; and
-                        <name>Joseph Viscomi</name>, University of North Carolina at Chapel
-                    Hill</principal>
+                <title reg="Letter from George Cumberland, 18 December 1808">
+                    <main>Letter from George Cumberland, 18 December 1808</main> : electronic
+                    edition </title>
+                <principal>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                    Essick,</name>University of California, Riverside; and <name>Joseph
+                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
@@ -18,18 +20,18 @@
             <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
                 to ??KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>???</date></publicationstmt>
+                    Archives<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2005</date> by Morris Eaves, Robert N. Essick, and Joseph
-            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
-            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
-            terms, in any medium, requires express written consent from the editors and advance
-            notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2005 British Library. </userestrict>
+        <userestrict>Copyright &#169; <date>2005</date> by Morris Eaves, Robert N. Essick, and
+            Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance
+            with the Fair Use provisions of U.S. copyright law. Redistribution or republication on
+            other terms, in any medium, requires express written consent from the editors and
+            advance notification of the publisher. Permission to reproduce the graphic images in
+            this archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright &#169; 2005 British Library. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -40,7 +42,8 @@
                     <title>Letter from George Cumberland, 18 December 1808</title>
                 </objtitle>
                 <origination>George Cumberland<role>author,</role><role> inventor,</role><role>
-                        delineator</role></origination>
+                        delineator</role>
+                </origination>
                 <compdate value="1808.A">1808</compdate>
             </objdescid>
             <objinfo>
@@ -56,7 +59,8 @@
                         the following day in a separate letter dated 19 December 1808 that is
                         available through the Index of Letters. The full sheet view of objects 2 and
                         3 is available as a Supplemental View on the Object View Page for those
-                        objects.</note></numberleaves>
+                        objects.</note>
+                </numberleaves>
                 <leafsize>22.8 x 18.2 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
@@ -93,9 +97,12 @@
             </repository>
         </source>
         <desc id="supplt18dec1808.1.rm.01" dbi="lt18dec1808.1.2+3.RM">
-            <objtitle><title type="editorial">Letter from George Cumberland, 18 December 1808,
-                    supplemental views</title>, <objid><objnumber code="A1">full sheet view, objects
-                        2 and 3</objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">Letter from George Cumberland, 18 December 1808,
+                    supplemental views</title>, <objid>
+                    <objnumber code="A1">full sheet view, objects 2 and 3</objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>22.8 x 36.4 cm.</objsize>
                 <objnote>
@@ -112,16 +119,16 @@
                         Cumberland's signature, a line division is inscribed above Cumberland's
                         instructions to his son, also named George. The instructions read "Dear
                         George. / [deleted; "<hi rend="strikethrough">Take the above to Mr Blake,
-                            and</hi>"] Go on receit of this to Black Friars &amp; when You / have
+                            and</hi>"] Go on receit of this to Black Friars &#38; when You / have
                         been to Sr. R Phillips to know if he got my / 24 Pages of Biography sent by
-                            <hi rend="underline">Fromonts</hi> Coach carriage / Paid &amp; booked on
-                        Wednesday last — take the above to Mr Blake / and get him to answer it <hi
-                            rend="underline">directly</hi> on the Sheet of Paper on / which you
-                        write your answer as to the receit of the Biography of / Grignion—but say
-                        nothing to his Brother as to where I publish it as / yet. I shall ret.<hi
-                            rend="superscript">n</hi> his Papers. All well &amp; all desire love
-                        [illegible characters] / PS. If you have my Lett. through S. R Phillips, it
-                        is come safe |Yours. GC.</p>
+                            <hi rend="underline">Fromonts</hi> Coach carriage / Paid &#38; booked on
+                        Wednesday last &#8212; take the above to Mr Blake / and get him to answer it
+                            <hi rend="underline">directly</hi> on the Sheet of Paper on / which you
+                        write your answer as to the receit of the Biography of / Grignion&#8212;but
+                        say nothing to his Brother as to where I publish it as / yet. I shall
+                            ret.<hi rend="superscript">n</hi> his Papers. All well &#38; all desire
+                        love [illegible characters] / PS. If you have my Lett. through S. R
+                        Phillips, it is come safe &#124;Yours. GC.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>

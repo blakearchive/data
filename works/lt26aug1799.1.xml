@@ -3,33 +3,35 @@
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter to George Cumberland, 26 August 1799"><main>Letter to George
-                        Cumberland, 26 August 1799</main> : electronic edition </title>
-                <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester;
-                        <name>Robert Essick,</name>University of California, Riverside; and
-                        <name>Joseph Viscomi</name>, University of North Carolina at Chapel
-                    Hill</principal>
+                <title reg="Letter to George Cumberland, 26 August 1799">
+                    <main>Letter to George Cumberland, 26 August 1799</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert
+                    Essick, </name>University of California, Riverside; and <name>Joseph
+                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 25.5KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
                 to ??KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>???</date></publicationstmt>
+                    Archives<date>February 2019</date>
+            </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2005</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2005 British Library. </userestrict>
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2018 British Library. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -39,21 +41,25 @@
                 <objtitle>
                     <title>Letter to George Cumberland, 26 August 1799</title>
                 </objtitle>
-                <origination>William Blake<role>author, </role><role>inventor,
-                        </role><role>delineator</role></origination>
-                <compdate value="1799.C">1799<note>Keynes (<hi rend="i">Letters</hi>, page 10) dates
-                        the letter 27 August 1799.</note></compdate>
+                <origination>William Blake<role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1799.C">1799<note>Keynes (*Letters*, page 10) dates
+                        the letter 27 August 1799.</note>
+                </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>3</numberobj>
                 <objorder>1-3</objorder>
                 <objsize>full sheet 19.0 x 31.2 cm.</objsize>
                 <numberleaves>2<note>The full sheet was folded to form two leaves, with Blake's
-                        letter written on the first recto (object 1), first verso (object 2), and
-                        second recto (object 3) of the folded sheet, which was sealed. The second
+                        letter written on the first recto (Object 1), first verso (Object 2), and
+                        second recto (Object 3) of the folded sheet, which was sealed. The second
                         verso is not photographed. The unfolded full sheet image containing objects
                         2 and 3 can be accessed under Supplemental Views on the Object View Page for
-                        those objects.</note></numberleaves>
+                        those objects.</note>
+                </numberleaves>
                 <leafsize>19.0 x 15.6 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
@@ -77,12 +83,12 @@
             </provenance>
             <repository>
                 <institution>British Library</institution>
+                <addressline>St. Pancras</addressline>
                 <addressline>96 Euston Road</addressline>
                 <addressline>London, NW1 2DB</addressline>
                 <addressline>United Kingdom</addressline>
                 <addressline>Telephone, Manuscript Collections: +44 (0)20-7414-7513</addressline>
                 <addressline>Telephone, Reader Services: +44 (0)20-7414-7676</addressline>
-                <addressline>Fax, Reader Services: +44 (0)1937-546321 </addressline>
                 <addressline>E-mail, Reader Services: reader-services-enquiries@bl.uk</addressline>
                 <addressline>http://www.bl.uk</addressline>
                 <department>Manuscripts</department>
@@ -90,13 +96,16 @@
             </repository>
         </source>
         <desc id="lt26aug1799.1.ltr.01" dbi="lt26aug1799.1.1.LT">
-            <objtitle><title type="transcribed">I ought long ago to have written</title>,
-                        <objid><objnumber code="A1">Object 1 </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="transcribed">I ought long ago to have written</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>19.0 x 15.6 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves, with Blake's letter written on
-                        the first recto (object 1), first verso (object 2), and second recto (object
+                        the first recto (Object 1), first verso (Object 2), and second recto (Object
                         3) of the folded sheet, which was sealed. The second verso is not
                         photographed. The unfolded full sheet image containing objects 2 and 3 can
                         be accessed under Supplemental Views on the Object View Page for those
@@ -107,75 +116,99 @@
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
-                <lg type="prose" justify="left">
+                <lg justify="left">
                     <l n="lt26aug1799.1.ltr.01.01" justify="left">Dear Cumberland</l>
                     <l n="lt26aug1799.1.ltr.01.02" justify="left" indent="7">I ought long ago to
                         have written to you to thank</l>
                     <l n="lt26aug1799.1.ltr.01.03" justify="left">you for your kind recommendation
-                        to D<hi rend="superscript">r</hi> Trusler which</l>
-                    <l n="lt26aug1799.1.ltr.01.04" justify="left">tho it has
-                                <choice><orig>faild</orig><reg>failed</reg></choice> of Success is
-                        not the less to be
-                            <choice><orig>rememberd</orig><reg>remembered</reg></choice><note>Bentley
-                                (<hi rend="i">Writings</hi> volume 2, page 1528), Erdman (page 703),
-                            and Keynes (<hi rend="i">Letters</hi>, page 10) read "Success" as
-                            "success".</note></l>
+                        to <choice><orig>D<hi rend="superscript">r</hi></orig><reg>Dr</reg></choice>
+                        <choice><orig>Trusler</orig><reg>John Trusler</reg></choice> which</l>
+                    <l n="lt26aug1799.1.ltr.01.04" justify="left"
+                                ><choice><orig>tho</orig><reg>though</reg></choice> it has <choice>
+                            <orig>faild</orig>
+                            <reg>failed</reg>
+                        </choice> of Success is not the less to be <choice>
+                            <orig>rememberd</orig>
+                            <reg>remembered</reg>
+                        </choice>
+                        <note>Bentley (*Writings* volume 2, page 1528), Erdman (page
+                            703), and Keynes (*Letters*, page 10) read "Success" as
+                            "success".</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.01.05" justify="left">by me with Gratitude.</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt26aug1799.1.ltr.01.06" justify="left" indent="7">I have made him a
                         Drawing in my best manner</l>
                     <l n="lt26aug1799.1.ltr.01.07" justify="left">he has sent it back with a Letter
-                        full of Criticisms in<note>Bentley (<hi rend="i">Writings</hi> volume 2,
-                            page 1528) omits "has" from his transcription.</note></l>
+                        full of Criticisms in<note>Bentley (*Writings* volume 2,
+                            page 1528) omits "has" from his transcription.</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.01.08" justify="left">which he says It accords not with
-                        his Intentions which<note>Erdman (page 703) reads "It" as "it".</note></l>
-                    <l n="lt26aug1799.1.ltr.01.09" justify="left"><unclear resp="nw">a</unclear>re
-                        to Reject all Fancy from his Work. How far he<note>Part of the "a" in "are"
-                            is obscured by the remnant of the wafer seal.</note></l>
+                        his Intentions which<note>Erdman (page 703) reads "It" as "it".</note>
+                    </l>
+                    <l n="lt26aug1799.1.ltr.01.09" justify="left">
+                        <unclear resp="nw">a</unclear><choice><orig>re</orig><reg>are</reg></choice> to Reject all Fancy from his Work. How far
+                            he<note>Part of the "a" in "are" is obscured by the remnant of the wafer
+                            seal.</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.01.10" justify="left">Expects to please I cannot tell.
                         But as I cannot paint</l>
-                    <l n="lt26aug1799.1.ltr.01.11" justify="left"><unclear resp="">D</unclear>irty
-                        rags &amp; old Shoes where I ought to place Nak<unclear resp="NW"
+                    <l n="lt26aug1799.1.ltr.01.11" justify="left">
+                        <unclear resp="RR"
+                            >D</unclear><choice><orig>irty</orig><reg>Dirty</reg></choice> rags
+                        &amp; old Shoes where I ought to place
+                                <choice><orig>Nak</orig><reg>Naked</reg></choice><unclear resp="NW"
                             >dd</unclear> Beauty<note>Part of the "D" in "Dirty" is obscured by the
-                            remnant of the wafer seal. Keynes (<hi rend="i">Letters</hi>, page 10)
-                            reads "Shoes" as "shoes". Bentley (<hi rend="i">Writings</hi> volume 2,
+                            remnant of the wafer seal. Keynes (*Letters*, page 10)
+                            reads "Shoes" as "shoes". Bentley (*Writings* volume 2,
                             page 1528), Erdman (page 703), and Keynes (page 10) read "Nakdd" as
-                            "Naked".</note></l>
+                            "Naked".</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.01.12" justify="left">or Simple ornament. I despair of
-                        Ever pleasing one Class<note>Erdman (page 703) and Keynes (<hi rend="i"
-                                >Letters</hi>, page 10) read "Simple" as "simple".</note></l>
+                        Ever pleasing one Class<note>Erdman (page 703) and Keynes (*Letters*, page 10) read "Simple" as "simple".</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.01.13" justify="left">of Men. Unfortunately our authors
                         of books are among</l>
                     <l n="lt26aug1799.1.ltr.01.14" justify="left">this Class how soon we Shall have
                         a change for the better</l>
-                    <l n="lt26aug1799.1.ltr.01.15" justify="left">I cannot Prophecy. D<hi
-                            rend="superscript">r</hi> Trusler says "<hi rend="underscore">Your Fancy
-                            fr</hi>om</l>
+                    <l n="lt26aug1799.1.ltr.01.15" justify="left">I cannot Prophecy. <choice><orig>D<hi
+                        rend="superscript">r</hi></orig><reg>Dr</reg></choice> <choice><orig>Trusler</orig><reg>John Trusler</reg></choice> says "<hi rend="underscore">Your Fancy
+                            fr</hi><choice><orig>om</orig><reg>from</reg></choice></l>
                     <l n="lt26aug1799.1.ltr.01.16" justify="left">What I have seen of it. &amp; I
-                        have seen variety at M<hi rend="superscript">r</hi><note>Bentley (<hi
-                                rend="i">Writings</hi> volume 2, page 1528), Erdman (page 704), and
-                            Keynes (<hi rend="i">Letters</hi>, page 10) read “What” as
-                            “what”.</note></l>
-                    <l n="lt26aug1799.1.ltr.01.17" justify="left">Cumberlands seems to be in the
-                        other world or the World of</l>
+                        have seen variety at <choice><orig>M<hi rend="superscript"
+                                >r</hi></orig><reg>Mr</reg></choice>
+                        <note>Bentley (*Writings* volume 2, page 1528), Erdman (page
+                            704), and Keynes (*Letters*, page 10) read “What” as
+                            “what”.</note>
+                    </l>
+                    <l n="lt26aug1799.1.ltr.01.17" justify="left"
+                                ><choice><orig>Cumberlands</orig><reg>Cumberland's</reg></choice>
+                        seems to be in the other world or the World of</l>
                     <l n="lt26aug1799.1.ltr.01.18" justify="left">Spirits. which accords not with my
                         Intentions. which whilst</l>
                     <l n="lt26aug1799.1.ltr.01.19" justify="left">living in This World Wish to
-                        follow <hi rend="underscore">the Nature of it"</hi></l>
+                        follow <hi rend="underscore">the Nature of it"</hi>
+                    </l>
                     <l n="lt26aug1799.1.ltr.01.20" justify="left">I could not help Smiling at the
                         difference between the doctrines</l>
-                    <l n="lt26aug1799.1.ltr.01.21" justify="left">of D<hi rend="superscript">r</hi>
-                        Trusler &amp; those of Christ. But however for his</l>
+                    <l n="lt26aug1799.1.ltr.01.21" justify="left">of <choice><orig>D<hi
+                                    rend="superscript">r</hi></orig><reg>Dr</reg></choice> <choice><orig>Trusler</orig><reg>John Trusler</reg></choice>
+                        &amp; those of Christ. But however for his</l>
                 </lg>
             </phystext>
         </desc>
         <desc id="lt26aug1799.1.ltr.02" dbi="lt26aug1799.1.2.LT">
-            <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A2">object 2
-                    </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">cont.</title>, <objid>
+                    <objnumber code="A2">Object 2 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>19.0 x 15.6 cm.</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves, with Blake's letter written on
-                        the first recto (object 1), first verso (object 2), and second recto (object
+                        the first recto (Object 1), first verso (Object 2), and second recto (Object
                         3) of the folded sheet, which was sealed. The second verso is not
                         photographed. The unfolded full sheet image containing objects 2 and 3 can
                         be accessed under Supplemental Views on the Object View Page for those
@@ -185,43 +218,59 @@
             </physdesc>
             <supplemental objectid="supplt26aug1799.1.rm.01" ovp="noindex"/>
             <phystext>
-                <lg type="prose" justify="left">
+                <lg justify="left">
                     <l n="lt26aug1799.1.ltr.02.01" justify="left">own sake I am sorry that a Man
-                        should be so
-                                <choice><orig>enamourd</orig><reg>enamored</reg><reg>enamoured</reg></choice></l>
-                    <l n="lt26aug1799.1.ltr.02.02" justify="left">of Rowlandsons caricatures as to
-                        call them copies from life &amp;</l>
+                        should be so <choice>
+                            <orig>enamourd</orig>
+                            <reg>enamored</reg>
+                            <reg>enamoured</reg>
+                        </choice>
+                    </l>
+                    <l n="lt26aug1799.1.ltr.02.02" justify="left">of
+                                <choice><orig>Rowlandsons</orig><reg>Rowlandson's</reg></choice>
+                        caricatures as to call them copies from life &amp;</l>
                     <l n="lt26aug1799.1.ltr.02.03" justify="left">manners or fit Things for a
                         Clergyman to write upon</l>
-                    <l n="lt26aug1799.1.ltr.02.04" justify="left" indent="7">Pray let me intreat you
-                        to persevere in your Designi<unclear resp="nw">n</unclear>g<note><illus
-                                filename="lt26aug1799.2.4.note.jpg"/>Bentley (<hi rend="i"
-                                >Writings</hi> volume 2, page 1529) reads “Designing” as
-                            “Disigning”.</note></l>
+                </lg>
+                <lg justify="left">
+                    <l n="lt26aug1799.1.ltr.02.04" justify="left" indent="7">Pray let me
+                                <choice><orig>intreat</orig><reg>entreat</reg></choice> you to
+                        persevere in your Designi<unclear resp="nw"
+                                >n</unclear><choice><orig>g</orig><reg>Designing</reg></choice><note>
+                            <illus filename="lt26aug1799.2.4.note.jpg"/>Bentley (*Writings* volume 2, page 1529) reads “Designing” as
+                            “Disigning”.</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.02.05" justify="left">it is the only source of Pleasure
-                        all your other pleasures depend<note>Bentley (<hi rend="i">Writings</hi>
-                            volume 2, page 1529) and Keynes (<hi rend="i">Letters</hi>, page 11)
-                            read "all" as "All".</note></l>
+                        all your other pleasures depend<note>Bentley (*Writings*
+                            volume 2, page 1529) and Keynes (*Letters*, page 11)
+                            read "all" as "All".</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.02.06" justify="left">upon It. It is the Tree your
-                        Pleasures are the Fruit. Your<note>Keynes (<hi rend="i">Letters</hi>, page
+                        Pleasures are the Fruit. Your<note>Keynes (*Letters*, page
                             11) reads "upon It" as "upon it". Erdman (page 704) reads "your
-                            Pleasures" as "Your Pleasures".</note></l>
+                            Pleasures" as "Your Pleasures".</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.02.07" justify="left">Inventions of Intellectual Visions
-                        are the Stamina of every</l>
-                    <l n="lt26aug1799.1.ltr.02.08" justify="left">thing you value. Go on if not for
+                        are the Stamina of <choice><orig>every</orig><reg>everything</reg></choice></l>
+                    <l n="lt26aug1799.1.ltr.02.08" justify="left"><choice><orig>thing</orig><reg>everything</reg></choice> you value. Go on if not for
                         your own sake yet for</l>
                     <l n="lt26aug1799.1.ltr.02.09" justify="left">ours who love &amp; admire your
                         works. but above all For</l>
                     <l n="lt26aug1799.1.ltr.02.10" justify="left">the Sake of the Arts. Do not throw
                         aside for any long time</l>
-                    <l n="lt26aug1799.1.ltr.02.11" justify="left">the honour intended you by Nature
-                        to revive the Greek work<note>Bentley (<hi rend="i">Writings</hi> volume 2,
-                            page 1529) Erdman (page 704), and Keynes (<hi rend="i">Letters</hi>,
-                            page 11) read the word fragments split between lines 22 and 23, “work /
-                            manship”, as a single word, “workmanship”.</note></l>
-                    <l n="lt26aug1799.1.ltr.02.12" justify="left">manship. I study your outlines as
-                        usual just as if they</l>
+                    <l n="lt26aug1799.1.ltr.02.11" justify="left">the
+                                <choice><orig>honour</orig><reg>honor</reg></choice> intended you by
+                        Nature to revive the Greek <choice><orig>work</orig><reg type="split_word"
+                                >workmanship</reg></choice><note>Bentley (*Writings*
+                            volume 2, page 1529) Erdman (page 704), and Keynes (*Letters*, page 11) read the word fragments split between lines
+                            22 and 23, “work / manship”, as a single word, “workmanship”.</note>
+                    </l>
+                    <l n="lt26aug1799.1.ltr.02.12" justify="left"
+                                ><choice><orig>manship</orig><reg>workmanship</reg></choice>. I
+                        study your outlines as usual just as if they</l>
                     <l n="lt26aug1799.1.ltr.02.13" justify="left">were antiques.</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt26aug1799.1.ltr.02.14" justify="left" indent="8">As to Myself about whom
                         you are so kindly</l>
                     <l n="lt26aug1799.1.ltr.02.15" justify="left">Interested. I live by Miracle. I
@@ -230,13 +279,20 @@
                         Engraving in which art<note>Blake's "small / Pictures from the Bible" refers
                             to his Biblical temperas, available through the Index of Works as <hi
                                 rend="i">Paintings Illustrating the Bible</hi>.</note></l>
-                    <l n="lt26aug1799.1.ltr.02.17" justify="left">I cannot reproach my<unclear
-                            resp="nw">self</unclear> with any neglect yet I am</l>
+                    <l n="lt26aug1799.1.ltr.02.17" justify="left">I cannot reproach
+                                <choice><orig>my</orig><reg>myself</reg></choice><unclear resp="nw"
+                            >self</unclear> with any neglect yet I am</l>
                     <l n="lt26aug1799.1.ltr.02.18" justify="left">laid by in a corner as if I did
                         not Exist &amp; Since</l>
-                    <l n="lt26aug1799.1.ltr.02.19" justify="left">my Youngs Night Thoughts have been
-                                <choice><sic>publishd</sic><reg>published</reg></choice> Even</l>
-                    <l n="lt26aug1799.1.ltr.02.20" justify="left">Johnson &amp; Fuseli have
+                    <l n="lt26aug1799.1.ltr.02.19" justify="left">my
+                                <choice><orig>Youngs</orig><reg>Young's</reg><reg>Edward
+                            Young</reg></choice> Night Thoughts have been <choice>
+                            <sic>publishd</sic>
+                            <reg>published</reg>
+                        </choice> Even</l>
+                    <l n="lt26aug1799.1.ltr.02.20" justify="left"
+                                ><choice><orig>Johnson</orig><reg>Joseph Johnson</reg></choice>
+                        &amp; <choice><orig>Fuseli</orig><reg>Henry Fuseli</reg></choice> have
                         discarded my Graver. But</l>
                     <l n="lt26aug1799.1.ltr.02.21" justify="left">as I know that He who Works &amp;
                         has his health cannot</l>
@@ -244,13 +300,16 @@
             </phystext>
         </desc>
         <desc id="lt26aug1799.1.ltr.03" dbi="lt26aug1799.1.3.LT">
-            <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A3">object
-                        3</objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">cont.</title>, <objid>
+                    <objnumber code="A3">Object 3</objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>19.0 x 15.6 cm</objsize>
                 <objnote>
                     <p>The full sheet was folded to form two leaves, with Blake's letter written on
-                        the first recto (object 1), first verso (object 2), and second recto (object
+                        the first recto (Object 1), first verso (Object 2), and second recto (Object
                         3) of the folded sheet, which was sealed. The second verso is not
                         photographed. The unfolded full sheet image containing objects 2 and 3 can
                         be accessed under Supplemental Views on the Object View Page for those
@@ -262,21 +321,23 @@
             </physdesc>
             <supplemental objectid="supplt26aug1799.1.rm.01" ovp="noindex"/>
             <phystext>
-                <lg type="prose" justify="left">
-                    <l n="lt26aug1799.1.ltr.03.01" justify="left">starve. I laugh at Fort<unclear
-                            resp="EK">une</unclear> &amp; Go on &amp; on. I think<note><illus
-                                filename="lt26aug1799.3.1.note.jpg"/>Bentley (<hi rend="i"
-                                >Writings</hi> volume 2, page 1529), Erdman (page 704), and Keynes
-                                (<hi rend="i">Letters</hi>, page 11) read "Fortune" for the unclear
-                            word ending.</note></l>
+                <lg justify="left">
+                    <l n="lt26aug1799.1.ltr.03.01" justify="left">starve. I laugh at
+                                <choice><orig>Fort</orig><reg>Fortune</reg></choice><unclear
+                            resp="EK">une</unclear> &amp; Go on &amp; on. I think<note>
+                            <illus filename="lt26aug1799.3.1.note.jpg"/>Bentley (*Writings* volume 2, page 1529), Erdman (page 704), and Keynes
+                                (*Letters*, page 11) read "Fortune" for the unclear
+                            word ending.</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.03.02" justify="left">I foresee better Things than I
                         have ever seen. My Work</l>
                     <l n="lt26aug1799.1.ltr.03.03" justify="left">pleases my employer &amp; I have
                         an order for Fifty small</l>
                     <l n="lt26aug1799.1.ltr.03.04" justify="left">Pictures at One Guinea each which
-                        is Something better<note>Keynes (<hi rend="i">Letters</hi>, page 11) reads
-                            "One" as "one". Bentley (<hi rend="i">Writings</hi> volume 2, page
-                            1529n7) lists some of these "small / Pictures".</note></l>
+                        is Something better<note>Keynes (*Letters*, page 11) reads
+                            "One" as "one". Bentley (*Writings* volume 2, page
+                            1529n7) lists some of these "small / Pictures".</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.03.05" justify="left">than mere copying after another
                         artist. But above all</l>
                     <l n="lt26aug1799.1.ltr.03.06" justify="left">I feel myself happy &amp;
@@ -284,37 +345,41 @@
                     <l n="lt26aug1799.1.ltr.03.07" justify="left">having passed now near twenty
                         years in ups &amp; downs</l>
                     <l n="lt26aug1799.1.ltr.03.08" justify="left">I am used to them &amp; perhaps a
-                        little practise in them</l>
+                        little <choice><orig>practise</orig><reg>practice</reg></choice> in them</l>
                     <l n="lt26aug1799.1.ltr.03.09" justify="left">may turn out to benefit. It is now
                         Exactly Twenty</l>
                     <l n="lt26aug1799.1.ltr.03.10" justify="left">years since I was upon the ocean
-                        of business &amp; Tho I</l>
-                    <l n="lt26aug1799.1.ltr.03.11" justify="left">laugh at Fortune I am
-                                <choice><orig>perswaded</orig><reg>persauded</reg></choice> that She
-                        Alone is</l>
+                        of business &amp; <choice><orig>Tho</orig><reg>Though</reg></choice> I</l>
+                    <l n="lt26aug1799.1.ltr.03.11" justify="left">laugh at Fortune I am <choice>
+                            <orig>perswaded</orig>
+                            <reg>persauded</reg>
+                        </choice> that She Alone is</l>
                     <l n="lt26aug1799.1.ltr.03.12" justify="left">the Governor of Worldy Riches.
                         &amp; when it is Fit She</l>
                     <l n="lt26aug1799.1.ltr.03.13" justify="left">will call on me till then I wait
                         with Patience in hopes</l>
                     <l n="lt26aug1799.1.ltr.03.14" justify="left">that She is busied among my
                         Friends.</l>
+                </lg>
+                <lg justify="left">
                     <l n="lt26aug1799.1.ltr.03.15" justify="left" indent="8">With Mine &amp; My
-                        Wifes best compliments to</l>
-                    <l n="lt26aug1799.1.ltr.03.16" justify="left">Mr<hi rend="superscript">s</hi>
-                            Cumberland<space extent="4"/>I remain<note>Bentley (<hi rend="i"
-                                >Writings</hi> volume 2, page 1530) and Erdman (page 704) read
-                                "Mr<hi rend="superscript">s</hi>" as"M<hi rend="superscript"
-                            >rs</hi>".</note></l>
+                        <choice><orig>Wifes</orig><reg>Wife's</reg></choice> best compliments to</l>
+                    <l n="lt26aug1799.1.ltr.03.16" justify="left"><choice><orig>Mr<hi rend="superscript">s</hi></orig><reg>Mrs</reg></choice>
+                            Cumberland<space extent="4"/>I remain<note>Bentley (*Writings* volume 2, page 1530) and Erdman (page 704) read
+                                "Mr<hi rend="superscript">s</hi>" as "M<hi rend="superscript"
+                            >rs</hi>".</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.03.17" justify="left" indent="24">Yours
-                            Sincerely<note>Erdman (page 704) and Keynes (<hi rend="i">Letters</hi>,
-                            page 11) read "Sincerely" as "sincerely".</note></l>
+                            Sincerely<note>Erdman (page 704) and Keynes (*Letters*,
+                            page 11) read "Sincerely" as "sincerely".</note>
+                    </l>
                     <l n="lt26aug1799.1.ltr.03.18" justify="left" indent="4">Hercules Buildings</l>
                     <l n="lt26aug1799.1.ltr.03.19" justify="left" indent="25">
-                        <hi rend="underscore">Will<hi rend="superscript">m</hi> Blake</hi>
+                        <hi rend="underscore"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg>William</reg></choice> Blake</hi>
                     </l>
                     <l n="lt26aug1799.1.ltr.03.20" justify="left" indent="7">Lambeth</l>
-                    <l n="lt26aug1799.1.ltr.03.21" justify="left" indent="4">Aug<hi
-                            rend="superscript">st</hi> 26. 1799</l>
+                    <l n="lt26aug1799.1.ltr.03.21" justify="left" indent="4"><choice><orig>Aug<hi
+                        rend="superscript">st</hi></orig><reg>August</reg></choice> 26. 1799</l>
                 </lg>
             </phystext>
         </desc>

@@ -3,33 +3,35 @@
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter to George Cumberland, 19 December 1808"><main>Letter to George
-                        Cumberland, 19 December 1808</main> : electronic edition </title>
-                <principal><resp>Editors:</resp><name>Morris Eaves,</name>University of Rochester;
-                        <name>Robert Essick,</name>University of California, Riverside; and
-                        <name>Joseph Viscomi</name>, University of North Carolina at Chapel
-                    Hill</principal>
+                <title reg="Letter to George Cumberland, 19 December 1808">
+                    <main>Letter to George Cumberland, 19 December 1808</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert
+                    Essick, </name>University of California, Riverside; and <name>Joseph
+                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>1 XML file approx. ??KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
-                to ??KB</extent>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 11.9KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 1.5MB
+                to 1.6MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>???</date></publicationstmt>
+                    Archives<date>February 2019</date>
+            </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2009</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2009 Huntington Library and Art Gallery. </userestrict>
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2018 British Library. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -39,8 +41,10 @@
                 <objtitle>
                     <title>Letter to George Cumberland, 19 December 1808</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role><role> inventor,</role><role>
-                        delineator</role></origination>
+                <origination>William Blake<role>author,</role>
+                    <role> inventor,</role>
+                    <role> delineator</role>
+                </origination>
                 <compdate value="1808.B">1808</compdate>
             </objdescid>
             <objinfo>
@@ -49,7 +53,8 @@
                 <objsize>24.5 x 19.0 cm.</objsize>
                 <numberleaves>1<note>The letter was written on both sides of a single leaf. Blake's
                         letter is a reply to Cumberland's letter of 18 December 1808, which is
-                        available through the Index of Letters.</note></numberleaves>
+                        available through the Index of Letters.</note>
+                </numberleaves>
                 <leafsize>24.5 x 19.0 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
@@ -78,7 +83,6 @@
                 <addressline>United Kingdom</addressline>
                 <addressline>Telephone, Manuscript Collections: +44 (0)20-7414-7513</addressline>
                 <addressline>Telephone, Reader Services: +44 (0)20-7414-7676</addressline>
-                <addressline>Fax, Reader Services: +44 (0)1937-546321 </addressline>
                 <addressline>E-mail, Reader Services: reader-services-enquiries@bl.uk</addressline>
                 <addressline>http://www.bl.uk</addressline>
                 <department>Manuscripts</department>
@@ -86,32 +90,35 @@
             </repository>
         </source>
         <desc id="lt19dec1808.1.ltr.01" dbi="lt19dec1808.1.1.LT">
-            <objtitle><title type="transcribed">I am very much obliged by your kind
-                    ardour</title><title type="alt">Letter to George Cumberland, 19 December
-                    1808</title>, <objid><objnumber code="A1">object 1
-                </objnumber></objid></objtitle>
+            <objtitle>
+                <title type="transcribed">I am very much obliged by your kind ardour</title>
+                <title type="alt">Letter to George Cumberland, 19 December 1808</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>24.5 x 19.0 cm.</objsize>
                 <objnote>
                     <p>The letter was written on both sides of a single leaf. Blake's letter is a
                         reply to Cumberland's letter of 18 December 1808, which is available through
                         the Index of Letters.</p>
-                    <p>On the upper right corner of object 1, the British Library folio number,
+                    <p>On the upper right corner of Object 1, the British Library folio number,
                         "314", is inscribed in pencil in an unknown hand.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
-                <lg>
+                <lg justify="left">
                     <l n="lt19dec1808.1.ltr.01.01" justify="left">Dear Cumberland</l>
                     <l n="lt19dec1808.1.ltr.01.02" justify="left" indent="5">I am very much obliged
-                        by your kind ardour in my </l>
+                        by your kind <choice><orig>ardour</orig><reg>ardor</reg></choice> in my </l>
                     <l n="lt19dec1808.1.ltr.01.03" justify="left">cause &amp; should immediately
-                        Engage in rev<gap reason="illegible" extent="3"/>ing my former<note><illus
-                                filename="lt19dec1808.1.3.note.jpg"/>Bentley (<hi rend="i"
-                                >Writings</hi> volume 2, page 1644) reads the uncertain word in this
-                            line as "reviewing"; Erdman (page 769) and Keynes (<hi rend="i"
-                                >Letters</hi>, page 137) read "reviving".</note></l>
+                        Engage in rev<gap reason="illegible" extent="3"
+                                /><choice><orig>ing</orig><reg>reviewing</reg><reg>reviving</reg></choice>
+                        my former<note>
+                            <illus filename="lt19dec1808.1.3.note.jpg"/>Bentley (*Writings* volume 2, page 1644) reads the uncertain word in this
+                            line as "reviewing"; Erdman (page 769) and Keynes (*Letters*, page 137) read "reviving".</note>
+                    </l>
                     <l n="lt19dec1808.1.ltr.01.04" justify="left">pursuits of printing if I had not
                         now so long been turned</l>
                     <l n="lt19dec1808.1.ltr.01.05" justify="left">out of the old channel into a new
@@ -124,16 +131,18 @@
                         me so tempting that I</l>
                     <l n="lt19dec1808.1.ltr.01.09" justify="left">have already involved myself in
                         engagements that preclude all</l>
-                    <l n="lt19dec1808.1.ltr.01.10" justify="left">possibility of promising any
-                        thing. I have however the</l>
+                    <l n="lt19dec1808.1.ltr.01.10" justify="left">possibility of promising
+                                <choice><orig>any thing</orig><reg>anything</reg></choice>. I have
+                        however the</l>
                     <l n="lt19dec1808.1.ltr.01.11" justify="left">satisfaction to inform you that I
                         have Myself begun to</l>
-                    <l n="lt19dec1808.1.ltr.01.12" justify="left" indent="44">
+                    <l n="lt19dec1808.1.ltr.01.12" justify="left" indent="43">
                         <add type="insertion" place="supralinear" symbol="caret">for</add>
                     </l>
                     <l n="lt19dec1808.1.ltr.01.13" justify="left">print an account of my various
-                        Inventions in Art <add type="insertion" place="infralinear" symbol="caret"
-                                ><hi rend="subscript">^</hi></add> which</l>
+                        Inventions in Art <add type="insertion" place="infralinear" symbol="caret">
+                            <hi rend="subscript">^</hi>
+                        </add> which</l>
                     <l n="lt19dec1808.1.ltr.01.14" justify="left">I have procured a Publisher &amp;
                         am determined to pursue</l>
                     <l n="lt19dec1808.1.ltr.01.15" justify="left">the plan of publishing what I may
@@ -141,38 +150,43 @@
                     <l n="lt19dec1808.1.ltr.01.16" justify="left">disarranging my time which in
                         future must alone be</l>
                     <l n="lt19dec1808.1.ltr.01.17" justify="left">devoted to Designing &amp;
-                        Painting <del type="overstrike">alone</del> when I have got<note><illus
-                                filename="lt19dec1808.1.17.note.jpg"/>Bentley (<hi rend="i"
-                                >Writings</hi> volume 2, page 1645) and Erdman (page 770) read the
-                            deleted word as "alone"; Keynes (<hi rend="i">Letters</hi>, page 137)
-                            does not comment.</note></l>
+                        Painting <del type="overstrike">alone</del> when I have got<note>
+                            <illus filename="lt19dec1808.1.17.note.jpg"/>Bentley (*Writings* volume 2, page 1645) and Erdman (page 770) read the
+                            deleted word as "alone"; Keynes (*Letters*, page 137)
+                            does not comment.</note>
+                    </l>
                     <l n="lt19dec1808.1.ltr.01.18" justify="left">my Work printed I will send it you
-                        first of any body</l>
+                        first of <choice><orig>any body</orig><reg>anybody</reg></choice></l>
                 </lg>
             </phystext>
         </desc>
         <desc id="lt19dec1808.1.ltr.02" dbi="lt19dec1808.1.2.LT">
-            <objtitle><title type="editorial">cont.</title>, <objid><objnumber code="A2">object
-                        2</objnumber></objid></objtitle>
+            <objtitle>
+                <title type="editorial">cont.</title>, <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>24.5 x 19.0 cm.</objsize>
                 <objnote>
                     <p>The letter was written on both sides of a single leaf. Blake's letter is a
                         reply to Cumberland's letter of 18 December 1808, which is available through
                         the Index of Letters.</p>
-                    <p>Near the center of the top half of object 2 a small red "British Museum"
+                    <p>Near the center of the top half of Object 2 a small red "British Museum"
                         stamp is visible.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
-                <lg>
+                <lg justify="left">
                     <l n="lt19dec1808.1.ltr.02.01" justify="left">in the mean time believe me to
                         be</l>
                     <l n="lt19dec1808.1.ltr.02.02" justify="left" indent="19">Your Sincere
                         Friend</l>
-                    <l n="lt19dec1808.1.ltr.02.03" justify="left">19 Dec<hi rend="superscript"
-                            >r</hi> 1808<space extent="15"/>Will Blake</l>
+                    <l n="lt19dec1808.1.ltr.02.03" justify="left">19 <choice><orig>Dec<hi
+                                    rend="superscript">r</hi></orig><reg>December</reg></choice>
+                            1808<space extent="15"
+                            /><choice><orig>Will</orig><reg>William</reg></choice> Blake</l>
                 </lg>
             </phystext>
         </desc>
