@@ -8,16 +8,15 @@
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert
-                    Essick, </name>University of California, Riverside; and <name>Joseph
-                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+                    Essick, </name>University of California, Riverside; and <name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt> </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 12.5KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
-                to ??KB</extent>
+            <extent>1 XML file approx. 12.2KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 382.6KB
+                to 511.6KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
                     Archives<date>February 2019</date>
             </publicationstmt>
@@ -25,13 +24,13 @@
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication only.<lb/>
-            <lb/>This image copyright © 2018 Huntington Library and Art Gallery. </userestrict>
+            <lb/>This image copyright © 2019 Huntington Library and Art Gallery. </userestrict>
         <encodingdesc/>
         <profiledesc/>
     </header>
@@ -47,15 +46,13 @@
                 </origination>
                 <compdate value="1791.B">1791<note>Willey Reveley's letter to Blake is dated "Oct
                         18" in Reveley's hand, but the partial postmark stamp, "C OCT / 7", suggests
-                        it may have actually been posted by [1]7 October 1791. Bentley (<hi rend="i"
-                            >Writings</hi> volume 2, page 1521) notes "The date of the letter is in
+                        it may have actually been posted by [1]7 October 1791. Bentley (*Writings* volume 2, page 1521) notes "The date of the letter is in
                         some doubt [...] for though Reveley clearly dated the letter 'Oct 18', the
                         numeral in the postmark is equally clearly a '7'. I cannot reconcile these
                         facts." Blake's undated reply to Reveley was written on the back of the
-                        letter he received by post from Reveley. According to Essick (<hi rend="i"
-                            >Huntington</hi>, page 185), "Blake refers to his willingness to engrave
+                        letter he received by post from Reveley. According to Essick (*Huntington*, page 185), "Blake refers to his willingness to engrave
                         for Reveley 'by the end of January' some illustrations for James Stuart and
-                        Nicholas Revett, <hi rend="i">The Antiquities of Athens</hi>. Volume 3
+                        Nicholas Revett, *The Antiquities of Athens*. Volume 3
                         (1794) of that work (see Part III, section B, No. 48) includes 4 plates by
                         Blake dated 3 April 1792 in the imprints. Thus, Blake must have written his
                         note, a direct reply to Reveley's letter, shortly after 18 October 1791."
@@ -71,9 +68,9 @@
                         below. Object 1 has been reoriented vertically in the Object View Page, as
                         would be customary when reading the letter by Blake.</note>
                 </objsize>
-                <numberleaves>2<note>Blake's undated letter (object 1), probably a draft, is written
+                <numberleaves>2<note>Blake's undated letter (Object 1), probably a draft, is written
                         on the right half of the reverse side of a letter that he received from
-                        Willey Reveley; see the note on Composition Date, above. The full sheet
+                        Willey Reveley; see the note on Composition Date above. The full sheet
                         bearing Reveley's letter was folded into two leaves, which were folded
                         further to form a packet for posting. The second leaf, not pictured, bearing
                         Blake's address in Reveley's hand and the remnant of the postmark stamp, is
@@ -101,8 +98,8 @@
                         see the note on provenance below.</note>
                 </price>
                 <note>John Linnell; sold from Linnell's estate, Christie's, 15 March 1918, probably
-                    in lot 214 with 12 (?) other letters by Blake (£84 to the dealer George D. Smith
-                    acting for Henry E. Huntington) including 10 (?) letters by Blake to John
+                    in lot 214 with 12 other letters by Blake (£84 to the dealer George D. Smith
+                    acting for Henry E. Huntington) including 10 letters by Blake to John
                     Linnell of 10 November 1825, 19 May 1826, 5 July 1826, 16 July 1826, 29 July
                     1826, 1 August 1826, 27 January 1827, 2 undated letters (one probably of March
                     1825, inscribed "12 O Clock/Wednesday" with an 1818 watermark, and the other
@@ -152,10 +149,11 @@
             <supplemental objectid="supplt18oct1791.1.rm.02" ovp="noindex"/>
             <supplemental objectid="supplt18oct1791.1.rm.01" ovp="noindex"/>
             <phystext>
+                <vspace extent="5"/>
                 <lg justify="left">
                     <l n="ltoct1791.1.ltr.01.01" justify="left"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice>
                         <choice><orig>Blakes</orig><reg>Blake's</reg></choice> <choice><orig>Comp<hi rend="superscript">ts</hi></orig><reg>Compliments</reg></choice> To <choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice>
-                            Reveley<note>Erdman (page 699) and Keynes (<hi rend="i">Letters</hi>, page 4)
+                            Reveley<note>Erdman (page 699) and Keynes (*Letters*, page 4)
                             read "To" as "to".</note>
                     </l>
                     <l n="ltoct1791.1.ltr.01.02" justify="left"><choice><orig>tho</orig><reg>though</reg></choice> full of work <delSpan
