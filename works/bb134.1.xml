@@ -1,0 +1,1578 @@
+<bad id="bb134.1" type="ms" work="Receipts" copy="1" copyid="1" institution="westminster yale huntington" catalog="bentley" catid="bb134.1">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Receipts">
+                    <main>Receipts</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                    Essick,</name>University of California, Riverside; and <name>Joseph
+                        Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 118KB; 88 JPEG (ISO/IEC 10918) files ranging in size from 400KB
+                to 1.5MB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
+                    Archives<date>February 2019</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+            <notesstmt/>
+     </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
+            in any medium, requires express written consent from the editors and advance notification
+            of the publisher. Permission to reproduce the graphic images in this archive has been
+            granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright &#169; 2009 City of Westminster Archives Centre (Objects 1-6, 8-29), Henry E. Huntington Library and Art Gallery (Object 7), Yale University Library (Objects 30-44).
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>February 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>
+                   Textual transcriptions and notes
+                </change>
+                <date>September 2017</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Alison Harper,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Emily Tronson,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Alex Zawacki</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BADs created</change>
+                <date>January 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher</name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Receipts</title>
+                </objtitle>
+                <origination>William Blake
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator,</role>
+                </origination>
+                <compdate value="1805">1805-1829</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>44</numberobj>
+                <objorder>1-44</objorder>
+                <objsize>ranging between 7 x 20 cm. (approx. fragment size) and 15 x 20 cm. (approx. leaf size)</objsize>
+                <numberleaves>41</numberleaves>
+                <leafsize>approx. 7 x 20 cm.</leafsize>
+                <medium>pen and ink</medium>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <binding>loose</binding>
+            </objinfo>
+            <provenance n="1">
+                <name>City of Westminster Archives Centre</name>
+                <date>1967</date>
+                <dealer></dealer>
+                <price>Not recorded</price>
+                <note>Objects 1-6 and 8-29 as numbered here: Thomas Butts; from the Butts collection; acquired from Butt’s grandson, Captain Butts between 1903 and 1906 by the late W. Graham Robertson; bequeathed by Robertson to his executor, Kerrison Preston about 1948; presented by Preston with his Blake collection to the City of Westminster Reference Library in 1967. </note>
+            </provenance>
+            <provenance n="2">
+                <name>Henry E. Huntington Library and Art Gallery</name>
+                <date>1998</date>
+                <dealer></dealer>
+                <price/>
+                <note>Object 8 as numbered here: Thomas Butts; from the Butts collection; acquired by Ruthven Todd no later than 1942; sold in April 1998 in a catalogue of Marvin Sadik Fine Arts of Scarborough, Maine, April 1998 catalogue no. 1, 8th unnumbered item, illustrated in color (not priced); acquired by John Windle and bequeathed by him to the Huntington Library in May 1998 with funds provided by Robert Essick.</note>
+            </provenance>
+            <provenance n="3">
+                <name>Yale University Library</name>
+                <date>1956</date>
+                <dealer>W.H. Robinson</dealer>
+                <price>£78 15s</price>
+                <note>
+                    Objects 30-44 as numbered here: John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                </note>
+            </provenance>
+            <repository n="1">
+                <institution>City of Westminster Archives Centre</institution>
+                <addressline>10 St. Ann's Street</addressline>
+                <addressline>London</addressline>
+                <addressline>SW1P 2DE</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 020 7641 5180</addressline>
+                <addressline>Fax: 020 7641 5179</addressline>
+                <addressline>E-mail: archives@westminster.gov.uk</addressline>
+                <addressline>URL: https://www.westminster.gov.uk/archives</addressline>
+                <department>Special Collections</department>
+                <collection>Preston Blake Collection</collection>
+                <repositoryid label="Call number">Accession 924</repositoryid>
+            </repository>  
+            <repository n="2">
+            <institution>Henry E. Huntington Library and Art Gallery</institution>
+            <addressline>1151 Oxford Road</addressline>
+            <addressline>San Marino</addressline>
+            <addressline>CA 91108</addressline>
+            <addressline>United States of America</addressline>
+            <addressline>Telephone: 626.405.2100</addressline>
+            <addressline>Fax:</addressline>
+            <addressline>E-mail: publicinformation@huntinton.org</addressline>
+            <addressline>URL: http://www.huntington.org/</addressline>
+            <collection>William Blake Collection</collection>
+            <repositoryid label="Call number">HM58284</repositoryid>
+            </repository>  
+            <repository n="3">
+                <institution>Yale University Library</institution>
+                <addressline>180 York St</addressline>
+                <addressline>New Haven</addressline>
+                <addressline>Connecticut 06511</addressline>  
+                <addressline>United States of America</addressline>
+                <addressline>Telephone: 203-432-2645</addressline>
+                <addressline>E-mail: askyale@gmail.com</addressline>
+                <addressline>https://web.library.yale.edu/</addressline>
+                <department>Beinecke Rare Book and Manuscript Library</department>
+                <collection>William Blake Collection</collection>
+                <repositoryid label="Call number">GEN MSS 914 Series I</repositoryid>
+            </repository>
+        </source>
+   <desc id="bb134.3.1.ms.01" dbi="BB134.3.1.MS">
+            <objtitle>
+                <title type="transcribed">22 January 1805</title>
+                <title type="alt">Receipt, Thomas Butts, 22 January 1805</title>, <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 8.0 x 20.0 cm.</objsize>
+                <objnote>
+                    <p>On the left of the receipt there is a revenue stamp embossed depicting a shield bearing the Union Flag and the motto &#8220;Dieu et Mon Droit&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves.Below the shield is the phrase &#8220;FOR RECEIPTS/FOUR PENCE&#8221;.</p>
+                    <p>On the top right corner, the number "1" is inscribed in pencil in an unknown hand.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.3.1.ms.01.01" justify="left" indent="15">22: <choice><orig>Janry</orig><reg type="abbrev">January</reg></choice> 180<subst><del type="overwrite">4</del><add place="inline" type="overwrite">5</add></subst></l>
+                        <l n="bb134.3.1.ms.01.02" justify="left" indent="7">Received of M<hi rend="superscript">r</hi>. Butts twelve</l>       
+                        <l n="bb134.3.1.ms.01.03" justify="left">Pounds twelve Shillings on further</l>
+                        <l n="bb134.3.1.ms.01.04" justify="left" indent="1">account</l>
+                        <l n="bb134.3.1.ms.01.05" justify="left" indent="18">Willia<hi rend="u">m Blake</hi></l>       
+                        <l n="bb134.3.1.ms.01.06" justify="left">&#163;12. 12&#8212;</l>
+                    </lg>
+                </phystext>
+   </desc>
+   <desc id="bb134.5.1.ms.02" dbi="BB134.5.1.MS">
+            <objtitle>
+                <title type="transcribed">7 September 1805</title>
+                <title type="alt">Receipt, Thomas Butts, 7 September 1805</title>, <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.5 x 19 cm.</objsize>
+                <objnote>
+                    <p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPT&#8221;.</p>
+                    <p>On the top right corner, the number "2" is inscribed in pencil in an unknown hand.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+       <phystext>
+           <lg justify="left">
+               <l n="bb134.5.1.ms.02.01" justify="left" indent="17">7: <choice>
+                   <orig>Sept<hi rend="superscript">r.</hi></orig>
+                   <reg type="abbrev">September</reg>
+               </choice> 1805</l>
+               <l n="bb134.5.1.ms.02.02" justify="left" indent="9">Received of M<hi
+                   rend="superscript">r</hi>. Butts four</l>
+               <l n="bb134.5.1.ms.02.03" justify="left" indent="1">Pounds four Shillings on further</l>
+               <l n="bb134.5.1.ms.02.04" justify="left" indent="2">account</l>
+               <l n="bb134.5.1.ms.02.05" justify="left" indent="20">Will<hi rend="u">iam
+                   Blake</hi></l>
+               <l n="bb134.5.1.ms.02.06" justify="left">&#163;4 ,, 4 &#8212;</l>
+           </lg>
+       </phystext>
+     </desc>
+     <desc id="bb134.6.1.ms.03" dbi="BB134.6.1.MS">
+            <objtitle>
+                <title type="transcribed">May-December 1805, page 1</title>
+                <title type="alt">Accounts between Blake and Thomas Butts, May-December 1805</title>, <objid>
+                    <objnumber code="A3">Object 3</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a sheet of paper 15.6 x 18.9 cm.</objsize>
+                <objnote>
+                    <p>This receipt is written on both sides of a full sheet of paper and continued on a slip of paper attached by a wafer to the sheet. This object is the recto.</p>            
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+         <phystext>
+             <lg justify="left">  
+                 <l n="bb134.6.1.ms.03.01" justify="left" indent="10">M<hi rend="superscript">r</hi> Butts &#8212; <space extent="32"/>D.<hi rend="superscript">r</hi><space extent="4"/>____________________________ C<hi rend="superscript">r</hi></l>
+                 <l n="bb134.6.1.ms.03.02" justify="left" indent="6">May 12 1805<space extent="38"/>Jan<hi rend="superscript">y</hi> 12</l>
+                 <l n="bb134.6.1.ms.03.03" justify="left" indent="9">Due on Account<space extent="13"/>_________0.4.0<space extent="5"/><hi rend="strikethrough">By Cash</hi>______________________ 12.12.0</l>
+                 <l n="bb134.6.1.ms.03.04" justify="left" indent="6">12 Drawings Viz</l>
+                 <l n="bb134.6.1.ms.03.05" justify="left" indent="6">1 Famine 2 War 3 Moses Striking the Rock</l>
+                 <l n="bb134.6.1.ms.03.06" justify="left" indent="6">4 Ezekiels Wheels 5 Christ girding himself</l>
+                 <l n="bb134.6.1.ms.03.07" justify="left" indent="6">with Strength 6 Four &amp; twenty Elders</l>
+                 <l n="bb134.6.1.ms.03.08" justify="left" indent="6">7 Christ Baptizing 8 Samson <choice><orig>breakg</orig><reg>breaking</reg></choice> bonds
+                     <note>Keynes (<hi rend="i">Letters</hi>, 113) reads "breakg" as "breaking". Bentley (<hi rend="i">Blake Records</hi>, 764) reads "breakg" as "break<hi rend="supercript">g</hi>"</note>.</l>
+                 <l n="bb134.6.1.ms.03.09" justify="left" indent="6">9 Samson <choice><orig>subdud</orig><reg>subdued</reg></choice> 10 Noah &amp; Rainbow
+                     <note>Keynes (<hi rend="i">Letters</hi>, 113) reads "subdud" as "subdu'd".</note></l>
+                 <l n="bb134.6.1.ms.03.10" justify="left" indent="6">11 Wise &amp; foolish Virgins 12 Hell beneath is</l>
+                 <l n="bb134.6.1.ms.03.11" justify="left" indent="7">moved for thee &amp;<hi rend="superscript">c</hi> from Isaiah __________12.12.0</l>
+                 <l n="bb134.6.1.ms.03.12" justify="left" indent="9">5 July<space extent="42"/>5 July</l>
+                 <l n="bb134.6.1.ms.03.13" justify="left" indent="12">4 Prints Viz<space extent="37"/>By D&#176;_______________________5.7.0</l>
+                 <l n="bb134.6.1.ms.03.14" justify="left" indent="6">1 Good &amp; Evil Angel 2 House of Death</l>
+                 <l n="bb134.6.1.ms.03.15" justify="left" indent="6">3 God <subst><del>Creating</del><add>Judging</add></subst> Adam 4 Lamech __ 4.4.0
+                     <note><illus filename="bb134.6.1.ms.01.15.note.jpg"/>Bentley (*Blake Records*, 764) reads the deletion as"Creating" and the addition as "Judging".Keynes (*Letters*, 113) reads "Judging".</note></l>
+                 <l n="bb134.6.1.ms.03.16" justify="left" indent="6">21 <choice><orig>Aug</orig><reg>August</reg></choice><hi rend="superscript">st</hi></l>
+                 <l n="bb134.6.1.ms.03.17" justify="left" indent="12">4 N<hi rend="superscript">os</hi> of Haleys Ballads ___  0.10.0</l>
+                 <l n="bb134.6.1.ms.03.18" justify="left" indent="6">7 <choice><orig>Sept<hi rend="superscript">r</hi></orig><reg>September</reg></choice></l>
+                 <l n="bb134.6.1.ms.03.19" justify="left" indent="16">4 Prints Viz<space extent="29"/>7<choice><orig>Sept<hi rend="superscript">r</hi></orig><reg>September</reg></choice></l>
+                 <l n="bb134.6.1.ms.03.20" justify="left" indent="57">By D&#176;_______________________4.4.0</l>
+                 <l n="bb134.6.1.ms.03.21" justify="left" indent="6">1 Nebuchadnezzar 2 Newton</l>
+                 <l n="bb134.6.1.ms.03.22" justify="left" indent="6">3 God Creating Adam 4 Christ <add type="overwrite">appearing</add> __ 4.4.0
+                     <note><illus filename="bb134.6.1.ms.01.22.note.jpg"/>Bentley (*Blake Records*, 764) and Keynes (*Letters*, 113) read the addition as "appearing".</note></l>
+                 <l n="bb134.6.1.ms.03.23" justify="left" indent="4"><choice><orig>Dec<hi rend="superscript">. r</hi></orig><reg>December</reg></choice>12.</l>
+                 <l n="bb134.6.1.ms.03.24" justify="left" indent="12">Touch<hi rend="superscript">g</hi> up Christ Baptizing _____ <hi rend="u">1.1.0</hi><space extent="28"/>__________</l>
+                 <l n="bb134.6.1.ms.03.25" justify="left" indent="15">Should be 22.15.<space extent="9"/>&#163;21.15.0<space extent="12"/>Should be &#163;22.3<space extent="12"/>&#163;21.3.0</l> 
+             </lg>
+         </phystext>
+      </desc> 
+      <desc id="bb134.6.2.ms.04" dbi="BB134.6.2.MS">
+            <objtitle>
+                <title type="transcribed">May-December 1805, page 1</title>
+                <title type="alt">Accounts between Blake and Thomas Butts, May-December 1805</title>, <objid>
+                    <objnumber code="A4">Object 4</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a sheet of paper 15.6 x 18.9 cm.</objsize>
+                <objnote>
+                    <p>This receipt is written on both sides of a full sheet of paper and continued on a slip of paper attached by a wafer to the sheet. This object is the verso .</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>  
+                <phystext>
+                    <lg justify="left">  
+                        <l n="bb134.6.2.ms.04.01" justify="left" indent="5">D.<hi rend="superscript">r</hi>  M<hi rend="superscript">r</hi>. Butts  ______<space extent="38"/>C.<hi rend="superscript">r</hi></l>
+                        <l n="bb134.6.2.ms.04.02" justify="left" indent="5">Bro:<hi rend="superscript">t</hi> over ___________ <space extent="5"/>&#163;22.15 ._<space extent="10"/>Bro:<hi rend="superscript">t</hi> over ______ &#163;22,,3. ___</l>
+                        <l n="bb134.6.2.ms.04.03" justify="left" indent="6">Drawings &amp;c <unclear type="2" extent="2" resp="OS"/> sent<space extent="20"/>Balance due from me</l>
+                        <l n="bb134.6.2.ms.04.04" justify="left" indent="10">from Felpham___}<space extent="6"/>14,,14 <space extent="8"/>previous to my going
+                            <note>Lines 3-4 are enclosed by an incomplete parenthesis on the right.</note></l>
+                        <l n="bb134.6.2.ms.04.05" justify="left" indent="5">Urizen, heaven &#38;c <space extent="25"/>to Felpham _________<space extent="3"/>14,,10.8</l>
+                        <l n="bb134.6.2.ms.04.06" justify="left" indent="7">&amp; Songs of Experience &#8212;<space extent="16"/>By Coals to 5: <choice><orig>Octo.<hi rend="superscript">r</hi></orig><reg>October</reg></choice></l>
+                        <l n="bb134.6.2.ms.04.07" justify="left" indent="8">for balance__________ <space extent="2"/> &#8212; ,, 10.6</l>
+                        <l n="bb134.6.2.ms.04.08" justify="left" indent="4">3 Hayleys Ballads <hi rend="u"><hi rend="superscript">+ Brother</hi></hi><space extent="5"/> &#8212; ,, 7. 6<space extent="11"/>1805 _________ }12,,19 &#8212;
+                            <note>Lines 6-8 are enclosed by an incomplete parenthesis on the right.</note></l>
+                        <l n="bb134.6.2.ms.04.9" justify="left" indent="4">3 Ditto<space extent="1"/>___  <space extent="1"/>M.<hi rend="superscript">r</hi> Birch_____ <space extent="2"/> &#8212; ,, 7. 6</l>
+                        <l n="bb134.6.2.ms.04.10" justify="left" indent="61">Balance paid</l>
+                        <l n="bb134.6.2.ms.04.11" justify="left" indent="4">4<space extent="2"/>Ditto &#8212; _ _ _ _ _ _ _ _ _<space extent="3"/> &#8212; ,, 10.6<space extent="17"/>to M.<hi rend="superscript">r</hi> Blake_ <hi rend="u">16.7.4.</hi></l>
+                        <l n="bb134.6.2.ms.04.12" justify="left" indent="4">History of Mast.<hi rend="superscript">r</hi> Malkin <space extent="7"/> &#8212; ,, 10.6</l>
+                        <l n="bb134.6.2.ms.04.13" justify="left" indent="5"><choice><orig>Dec<hi rend="superscript">r</hi></orig><reg>December</reg></choice> 25. 1805</l>
+                        <l n="bb134.6.2.ms.04.14" justify="left" indent="5">On Account of teaching your Son</l>
+                        <l n="bb134.6.2.ms.04.15" justify="left" indent="6">at 25 Guineas per Annum<space extent="7"/>}26,,5,,0</l>
+                        <l n="bb134.6.2.ms.04.16" justify="left" indent="8">to commence on this Day
+                            <note>Bentley (*Blake Records*, 766) reads "commence" as "Commence".</note>
+                            <note>Lines 13-16 are enclosed by an incomplete parenthesis on the right.</note></l>
+                        <l n="bb134.6.2.ms.04.17" justify="left" indent="36">_____________</l>
+                        <l n="bb134.6.2.ms.04.18" justify="left" indent="36"><hi rend="u">&#163; 66.0.0 _</hi><space extent="27"/><hi rend="u">&#163; 66.0.0</hi></l>
+                    </lg>
+                </phystext>
+      </desc>   
+      <desc id="bb134.6.3.ms.05" dbi="BB134.6.3.MS">
+            <objtitle>
+                <title type="transcribed">March 3 1806</title>
+                <title type="alt">Receipt, Thomas Butts, March 3 1806</title>, <objid>
+                    <objnumber code="A5">Object 5</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 17.8 x 20 cm.</objsize>
+                <objnote>
+                    <p>This receipt is written on both sides of a full sheet of paper and continued on a slip of paper attached by a wafer to the sheet. This object is the slip of paper.</p>
+                    <p>On the left of the receipt there is a revenue stamp embossed depicting a shield bearing the Union Flag and the motto &#8220;Dieu et Mon Droit&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves.Below the shield is the phrase &#8220;FOR RECEIPTS/FOUR PENCE&#8221;.</p>
+                    <p>On the top right corner, the number "3" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">  
+                    <l n="bb134.6.3.ms.05.01" justify="left" indent="15"><choice><orig>Recievd</orig><corr>Received</corr></choice> of M<hi rend="superscript">r</hi> Butts. March 3. 1806 the Sum of
+                        <note>Keynes (<hi rend="i">Letters</hi>p. 114) reads "Recievd" as "Receiv'd".</note></l>
+                    <l n="bb134.6.3.ms.05.02" justify="left" indent="10">Sixteen Pounds Seven &amp; Four pence Balance to this</l>
+                    <l n="bb134.6.3.ms.05.03" justify="left" indent="12">Day as Per <add type="overwrite">Annexed</add> Account 
+                        <note>Bentley (*Blake Records*, 766) and Keynes (*Letters*, 114) read "Day" as "day" and "Per" as "per".</note><note><illus filename="bb134.6.3.ms.01.03.note.jpg"/>Bentley (*Blake Records*, 766) and Keynes (*Letters*, 114) read the addition as "Annexed".</note></l>
+                    <l n="bb134.6.3.ms.05.04" justify="left" indent="40">Will<hi rend="u">iam Blake</hi></l>
+                    <l n="bb134.6.3.ms.05.05" justify="left" indent="6">&#163;<hi rend="u">16.7.4 </hi></l>
+                </lg>
+            </phystext>
+       </desc>
+        <desc id="bb134.7.1.ms.06" dbi="BB134.7.1.MS">
+            <objtitle>
+                <title type="transcribed">30 June 1806</title>
+                <title type="alt">Receipt, Thomas Butts, 30 June 1806</title>, <objid>
+                    <objnumber code="A6">Object 6</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.5 x 18.5 cm.</objsize>
+                <objnote>
+                    <p> To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;EIGHT PENCE&#8221; at the bottom.</p>
+                    <p>On the top right corner, the number "4" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.7.1.ms.06.01" justify="left" indent="21">30: June 1806</l>
+                    <l n="bb134.7.1.ms.06.02" justify="left" indent="10">Received of M<hi rend="supercript">r</hi>. Butts twenty</l>
+                    <l n="bb134.7.1.ms.06.03" justify="left">one Pounds ten Shillings on account for<note>Keynes(<hi rend ="i">Letters</hi>, 114) and Bentley (<hi rend="i">Blake Records</hi>, 766) read "Pounds" as "pounds".</note></l>
+                    <l n="bb134.7.1.ms.06.04" justify="left">sundry Drawings</l>
+                    <l n="bb134.7.1.ms.06.05" justify="left" indent="26"><handshift medium="pencil"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice></handshift>Blake<note>The letters "ll" are written in pencil and retraced in ink.</note></l><!-- insert image -->
+                    <l n="bb134.7.1.ms.06.06" justify="left" indent="4">&#163;21,,10,,0 .</l> 
+                </lg>
+            </phystext>
+        </desc>   
+        <desc id="bb134.8.1.ms.07" dbi="BB134.8.1.MS">
+            <objtitle>
+                <title type="transcribed">9 September 1806</title>
+                <title type="alt">Receipt to Thomas Butts, 9 September 1806</title>, <objid>
+                    <objnumber code="A7">Object 7</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.7 x 18.6 cm.</objsize>
+                <objnote>
+                    <p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPTS&#8221;.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>       
+                <phystext>
+                    <phystext>
+                        <lg justify="left">
+                            <l n="bb134.8.1.ms.07.01" justify="left" indent="21">9 <choice>
+                                <orig>Sept.<hi rend="superscript">r</hi></orig>
+                                <reg type="abbrev">September</reg>
+                            </choice> 1806 &#8212;<note>Keynes (*Letters*, page 123) reads “Receiv’d” for “Received.”</note></l>
+                            <l n="bb134.8.1.ms.07.02" justify="left" indent="7">Received of M<hi
+                                rend="superscript">r</hi>. Butts six
+                                <note>Keynes (<hi rend="i">Letters</hi>p. 123) reads "Received" as "Receiv'd".</note></l>
+                            <l n="bb134.8.1.ms.07.03" justify="left">Pounds, six Shillings for Drawings,</l>
+                            <l n="bb134.8.1.ms.07.04" justify="left" indent="1">Songs of Innocence &#38;&#8212;</l>
+                            <l n="bb134.8.1.ms.07.05" justify="left" indent="19">William Blake</l>
+                            <l n="bb134.8.1.ms.07.06" justify="left">&#163;6, 6 &#8212;</l>
+                        </lg>
+                    </phystext>
+                </phystext>
+        </desc>       
+        <desc id="bb134.9.1.ms.08" dbi="BB134.9.1.MS">
+            <objtitle>
+                <title type="transcribed">15 October 1806</title>
+                <title type="alt">Receipt, Thomas Butts, 15 October 1806</title>, <objid>
+                    <objnumber code="A8">Object 8</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.7 x 18.6 cm.</objsize>
+                <objnote>
+                    <p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPTS&#8221;.</p>
+                    <p>On the top right corner, the number "5" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.9.1.ms.08.01" justify="left" indent="18">15: <choice><orig>Octo <hi rend="superscript">r</hi></orig><reg type="abbrev">October</reg></choice>. 1806</l> 
+                    <l n="bb134.9.1.ms.08.02" justify="left" indent="10">Received of M<hi rend="superscript">r</hi>. Butts five</l>
+                    <l n="bb134.9.1.ms.08.03" justify="left" indent="2">Pounds 5/. on further account&#8212;</l>
+                    <l n="bb134.9.1.ms.08.04" justify="left" indent="2">&#163; 5,,5 &#8212;<space extent ="11"/><hi rend="u"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice> Blake</hi></l>
+                </lg>
+            </phystext> 
+        </desc>
+        <desc id="bb134.11.1.ms.09" dbi="BB134.11.1.MS">
+            <objtitle>
+                <title type="transcribed">3 March 1807</title>
+                <title type="alt">Receipt, Thomas Butts, 3 March 1807</title>, <objid>
+                    <objnumber code="A9">Object 9</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.4 x 18.8 cm.</objsize>
+                <objnote>
+                    <p> To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;EIGHT PENCE&#8221; at the bottom.</p>
+                    <p>On the top right corner, the number "6" is inscribed in pencil in an unknown hand.</p>
+                    <p> Blake writes the latter half of the receipt (lines 4-7) in pencil. Bentley (*Blake Records*, page 767) notes that the figures in pencil itemize the work for which the money was due.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.11.1.ms.09.01" justify="left" indent="4"><choice><orig>Recievd</orig>
+                        <corr>Recieved</corr></choice>March 3. 1807 of M<hi rend="superscript">r</hi> Butts the Sum of <note>Bentley (*Blake Records*,766) and Keynes (*Letters*, 123) read "Recieved".</note></l>
+                    <l n="bb134.11.1.ms.09.02" justify="left" indent="5">Twenty Eight Pounds Six Shillings on Account</l>
+                    <l n="bb134.11.1.ms.09.03" justify="left" indent="5"><hi rend="u"> 28. 6. 0 </hi><space extent ="21"/><hi rend="u"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice> Blake</hi></l>
+                    <l n="bb134.11.1.ms.09.04" justify="left" indent="2"><handshift medium="pencil">Tom — 26.5</handshift></l>
+                    <l n="bb134.11.1.ms.09.05" justify="left"><handshift medium="pencil">Drawings in<space extent="7"/>&#125;28.6<space extent="16"/>28. 6</handshift><note><illus filename="bb134.11.1.ms.01.ms.05.note1.jpg"/>Bentley (*Blake Records*, page 767) and Keynes (*Letters*, page 124) read “Drawings in,” but the two words, written in pencil, are obscured in the manuscript.</note><note><illus filename="bb134.11.1.ms.01.05.note2.jpg"/>Bentley (*Blake Records*, page 767) and Keynes (*Letters*, page 124) read the first price as “28.6,” but the number is unclear in the manuscript.</note></l>
+                    <l n="bb134.11.1.ms.09.06" justify="left" indent="1"><handshift medium="pencil">full to this<space extent="1"/>2.1 &#8212;<space extent="22"/><hi rend="u">25 4 6</hi></handshift><note><illus filename="bb134.11.1.ms.01.06.note.jpg"/>Keynes (*Letters*, page 124) read “25.4.6,” but the number is obscured in the manuscript.
+                    </note></l>
+                    <l n="bb134.11.1.ms.09.07" justify="left" indent="3"><handshift medium="pencil">>day:&#8212;<space extent="32"/>3 1 6</handshift><note><illus filename="bb134.11.1.ms.01.07.note.jpg"/>Bentley (*Blake Records*, page 767) and Keynes (*Letters*, page 124) read “3.1.6,” but the number is obscured in the manuscript.</note></l>
+                </lg>
+            </phystext>
+        </desc>     
+        <desc id="bb134.12.1.ms.10" dbi="BB134.12.1.MS">
+            <objtitle>
+                <title type="transcribed">2 June 1807</title>
+                <title type="alt">Receipt, Thomas Butts, 2 June 1807</title>, <objid>
+                    <objnumber code="A10">Object 10</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.8 x 18.7 cm.</objsize>
+                <objnote>
+                    <p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPTS&#8221;.</p>
+                    <p>On the top right corner, the number "7" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.12.1.ms.10.01" justify="left" indent="24">2 :June 1807</l>
+                    <l n="bb134.12.1.ms.10.02" justify="left" indent="13">Received of Mr: Butts twelve</l>
+                    <l n="bb134.12.1.ms.10.03" justify="left" indent="2">Pounds 1/6. on further account&#8212;</l>
+                    <l n="bb134.12.1.ms.10.04" justify="left" indent="23">William Blake</l>
+                    <l n="bb134.12.1.ms.10.05" justify="left" indent="7">£12,,1,,6 &#8212;</l>
+                </lg>
+            </phystext>
+        </desc>    
+        <desc id="bb134.13.1.ms.11" dbi="BB134.13.1.MS">
+            <objtitle>
+                <title type="transcribed">13 July 1807</title>
+                <title type="alt">Receipt, Thomas Butts, 13 July 1807</title>, <objid>
+                    <objnumber code="A11">/Object 11</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 8.5 x 21.0 cm.</objsize>
+                <objnote>
+                    <p>On the left of the receipt there is a revenue stamp embossed depicting a shield bearing the Union Flag and the motto &#8220;Dieu et Mon Droit&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves.Below the shield is the phrase &#8220;FOR RECEIPTS/FOUR PENCE&#8221;.</p>    
+                    <p>On the top right corner, the number "8" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>       
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb134.13.1.ms.11.01" justify="left" indent="21">13 :July 1807&#8212;</l>
+                    <l n="bb134.13.1.ms.11.02" justify="left" indent="11">Received of M<hi rend="superscript">r</hi>. Butts</l>
+                    <l n="bb134.13.1.ms.11.03" justify="left" indent="1">fifteen Pounds 15/. on further account</l>
+                    <l n="bb134.13.1.ms.11.04" justify="left" indent="20"> William Blake</l>
+                    <l n="bb134.13.1.ms.11.05" justify="left" indent="3">&#163;15 ,, 15 &#8212;</l> 
+                </lg>
+            </phystext>
+        </desc>      
+        <desc id="bb134.14.1.ms.12" dbi="BB134.14.1.MS">
+            <objtitle>
+                <title type="transcribed">6 October 1807</title>
+                <title type="alt">Receipt, Thomas Butts, 6 October 1807</title>, <objid>
+                    <objnumber code="A12">Object 12</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 8.4 x 21.0 cm.</objsize>
+                <objnote>
+                    <p>On the left of the receipt there is a revenue stamp embossed depicting a shield bearing the Union Flag and the motto &#8220;Dieu et Mon Droit&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves.Around the shield is written  &#8220;FOR RECEIPTS&#8221; and below &#8220;FOUR PENCE&#8221;.</p>
+                    <p>On the top right corner, the number "9" is inscribed in pencil in an unknown hand.</p>       
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.14.1.ms.12.01" justify="left" indent="21">6 : <choice><orig>Octo .<hi rend="superscript">r</hi></orig><reg type="abbrev">October</reg></choice> 1807&#8212;</l>
+                    <l n="bb134.14.1.ms.12.02" justify="left" indent="14">Received of M<hi rend="superscript">r</hi>. Butts ten</l>
+                    <l n="bb134.14.1.ms.12.03" justify="left" indent="5">Guineas on further account&#8212;</l>
+                    <l n="bb134.14.1.ms.12.04" justify="left" indent="22">William <hi rend="u">Blake</hi></l>
+                    <l n="bb134.14.1.ms.12.05" justify="left" indent="3">&#163; 10,, 10  &#8212;</l>
+                </lg>
+            </phystext>       
+        </desc>
+        <desc id="bb134.15.1.ms.13" dbi="BB134.15.1.MS">
+            <objtitle>
+                <title type="transcribed">14 January 1808</title>
+                <title type="alt">Receipt, Thomas Butts, 14 January 1808</title>, 
+                <objid>
+                    <objnumber code="A13">Object 13</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.7 x 19.5 cm.</objsize>
+                <objnote>                
+                    <p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPTS&#8221;.</p>
+                    <p>On the top right corner, the number "10" is inscribed in pencil in an unknown hand.</p>
+                    <p>The signature on the receipt is not in Blake's hand. Keynes (<hi rend="i">Letters</hi>, 131) and Bentley (<hi rend="i">Blake Records</hi>, 768) identify it as Catherine Blake's signature.</p>             
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.15.1.ms.13.01" justify="left" indent="21">14 <choice>:<orig>Janry</orig><reg>January</reg></choice> 1808__ </l>
+                    <l n="bb134.15.1.ms.13.02" justify="left" indent="11">Received of M<hi rend="superscript">r</hi>: Butts twenty</l> 
+                    <l n="bb134.15.1.ms.13.03" justify="left" indent="6">six Pounds 5/- on further account</l>
+                    <l n="bb134.15.1.ms.13.04" justify="left" indent="21">for <choice><orig>W<hi rend="superscript">m</hi>:</orig><reg type="abbrev">William</reg></choice> Blake</l>
+                    <l n="bb134.15.1.ms.13.05" justify="left" indent="7"> £26,, 5 — <space extent="8"/> Catherine<note>Keynes (*Letters*, 131) reads "Catherine" as "Cathrine".</note></l> 
+                    <l n="bb134.15.1.ms.13.06" justify="left" indent="29">Blake<note><illus filename="bb134.15.1.ms.01.06.note.jpg"/>(*Blake Records*, page 768) and Keynes (*Letters*, page 131) read “Blake” but the word is obscured in the manuscript.
+                    </note></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.16.1.ms.14" dbi="BB134.16.1.MS">
+            <objtitle>
+                <title type="transcribed">29 February 1808</title>
+                <title type="alt">Receipt, Thomas Butts, 29 February 1808</title>, <objid>
+                    <objnumber code="A14">Object 14</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.8 x 17.9 cm.</objsize>
+                <objnote> 
+                    <p>On the top right corner, the number "11" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.16.1.ms.14.01" justify="left" indent="17">29:<choice><orig>Febry</orig><reg type="abbrev">February</reg></choice> 1808 -</l>
+                    <l n="bb134.16.1.ms.14.02" justify="left" indent="8">Received of M<hi rend="superscript">r</hi>: Butts ten</l>
+                    <l n="bb134.16.1.ms.14.03" justify="left" indent="2">Pounds on further account&#8212;</l>
+                    <l n="bb134.16.1.ms.14.04" justify="left" indent="5">&#163;10 &#8212; &#8212;<space extent="1"/>William Blake</l>
+                </lg>
+            </phystext>     
+        </desc>
+        <desc id="bb134.17.1.ms.15" dbi="BB134.17.1.MS">
+            <objtitle>
+                <title type="transcribed">29 February 1808</title>
+                <title type="alt">Receipt, Thomas Butts, 29 February 1808</title>, <objid>
+                    <objnumber code="A15">Object 15</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 8 x 19.7 cm.</objsize>
+                <objnote>
+                    <p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPTS&#8221;.</p>
+                    
+                    <p>On the top right corner, the number "12" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.17.1.ms.15.01" justify="left" indent="17">29 : July 1808&#8212;</l>
+                    <l n="bb134.17.1.ms.15.02" justify="left" indent="10">Received of M<hi rend="superscript">r</hi>. Butts</l>
+                    <l n="bb134.17.1.ms.15.03" justify="left">Ten Pounds<space extent= "1"></space>on<space extent= "1"></space>further account&#8212;<note><illus filename="bb134.17.1.ms.01.03.note.jpg"/>Bentley (*Blake Records*, page 768) and Keynes (*Letters*, page 135) read “on” but the word is illegible due to the inkblot and the overlapping letter 'R" from the previous line.</note></l>           
+                    <l n="bb134.17.1.ms.15.04" justify="left" indent="17">Willi<hi rend="u">am Blake<space extent="2"/></hi></l>
+                    <l n="bb134.17.1.ms.15.05" justify="left" indent="5">&#163;10,,&#8212;      
+                    </l> 
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.18.1.ms.16" dbi="BB134.18.1.MS">
+            <objtitle>
+                <title type="transcribed">3 November 1808</title>
+                <title type="alt">Receipt, Thomas Butts, 3 November 1808</title>, <objid>
+                    <objnumber code="A16">Object 16</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.7 x 19 cm.</objsize>
+                <objnote>
+                    <p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPTS&#8221;.</p>             
+                    <p>On the top right corner, the number "13" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.18.1.ms.16.01" justify="left" indent="21">3:<space extent="1"/><choice><orig>Novem<hi rend="superscript">r</hi>.</orig>
+                        <reg type="abbrev">November</reg></choice> 1808 &#8212;</l>
+                    <l n="bb134.18.1.ms.16.02" justify="left" indent="13">Received of M<hi rend="superscript">r</hi>: Butts five</l>
+                    <l n="bb134.18.1.ms.16.03" justify="left" indent="6">Guineas on further account&#8212;</l>
+                    <l n="bb134.18.1.ms.16.04" justify="left" indent="27"><hi rend="u"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice> Blake</hi></l>
+                    <l n="bb134.18.1.ms.16.05" justify="left" indent="5">&#163;5 ,, 5 ,,&#8212;</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.19.1.ms.17" dbi="BB134.19.1.MS">
+                        <objtitle>
+                            <title type="transcribed">7 December 1808</title>
+                            <title type="alt">Receipt, Thomas Butts, 7 December 1808</title>, <objid>
+                                <objnumber code="A17">Object 17</objnumber>
+                            </objid>
+                        </objtitle>
+                        <physdesc desclevel="brief">
+                            <objsize>On a slip of paper 7.6 x 18.5 cm.</objsize>
+                            <objnote>
+                                <p> To the left of the text is an embossed revenue stamp depicting a shield
+                                    bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                                    DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                                    are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                                    PENCE / FOR RECEIPTS&#8221;.</p>                              
+                                <p>On the top right corner, the number "14" is inscribed in pencil in an unknown hand.</p>
+                            </objnote>
+                            <windowsize width="500" height="630"/>
+                        </physdesc>
+                        <phystext>
+                            <lg justify="left">
+                                <l n="bb134.19.1.ms.17.01" justify="left" indent="25">7: <choice><orig>Dec<hi rend="superscript">r</hi>.</orig><reg type="abbrev">December</reg></choice>1808 &#8212;</l>
+                                <l n="bb134.19.1.ms.17.02" justify="left" indent="14">Received of M<hi rend="superscript">r</hi>: Butts five</l>
+                                <l n="bb134.19.1.ms.17.03" justify="left" indent="1">Guineas on further account&#8212;</l>
+                                <l n="bb134.19.1.ms.17.04" justify="left" indent="25">Willi<hi rend="u">am Blake</hi></l>
+                                <l n="bb134.19.1.ms.17.05" justify="left" indent="7">&#163;5 ,, 5&#8212;</l>
+                            </lg>
+                    </phystext>
+        </desc>
+        <desc id="bb134.20.1.ms.18" dbi="BB134.20.1.MS">
+            <objtitle>
+                <title type="transcribed">7 April 1809</title>
+                <title type="alt">Receipt, Thomas Butts, 7 April 1809</title>, <objid>
+                    <objnumber code="A18">Object 18</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 8 x 20.4 cm.</objsize>
+                <objnote> <p>On the top right corner, the number "15" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.20.1.ms.18.01" justify="left" indent="23">7: April 1809 &#8212;</l> 
+                    <l n="bb134.20.1.ms.18.02" justify="left" indent="7.5">Received of M<hi rend="superscript">r</hi>. Butts Twenty one<note>Keynes (*Letters*, 138) reads "Twenty one" as "Twenty on".</note></l>
+                    <l n="bb134.20.1.ms.18.03" justify="left" indent="1">Pounds on further account&#8212;</l>
+                    <l n="bb134.20.1.ms.18.04" justify="left" indent="5">&#163;21 &#8212;&#8212;</l>
+                    <l n="bb134.20.1.ms.18.05" justify="left" indent="23"><handshift medium ="black ink">William <hi rend="u">Blake</hi></handshift></l>
+               </lg>
+            </phystext>
+        </desc> 
+        <desc id="bb134.22.1.ms.19" dbi="BB134.22.1.MS">
+            <objtitle>
+                <title type="transcribed">10 July 1809</title>
+                <title type="alt">Receipt, Thomas Butts, 10 July 1809</title>, <objid>
+                    <objnumber code="A19">Object 19</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 17.8 x 19.3 cm.</objsize>
+                <objnote><p>On the top right corner, the number "16" is inscribed in pencil in an unknown hand.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.22.1.ms.19.01" justify="left"><space extent="21" />10: July 1809 &#8212;</l>
+                    <l n="bb134.22.1.ms.19.02" justify="left" indent="4">Received of M<hi rend="superscript">r</hi>. Butts ten Guineas</l>
+                    <l n="bb134.22.1.ms.19.03" justify="left">on further account&#8212;</l>
+                    <l n="bb134.22.1.ms.19.04" justify="left" indent="3">&#163;10 ,, 10 &#8212;<space extent="9"/>William Bla<hi rend="u">ke</hi></l>
+                       
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.23.1.ms.20" dbi="BB134.23.1.MS">
+            <objtitle>
+                <title type="transcribed">10 August 1809</title>
+                <title type="alt">Receipt, Thomas Butts, 10 August 1809</title>, <objid>
+                    <objnumber code="A20">Object 20</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.5 x 17.8 cm.</objsize>
+                <objnote><p>On the top right corner, the number "17" is inscribed in pencil in an unknown hand.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.23.1.ms.20.01" justify="left" indent="18">10: August 1809&#8212;</l>
+                    <l n="bb134.23.1.ms.20.02" justify="left" indent="8">Received of M<hi rend="superscript">r.</hi> Butts<space extent="2"/>ten</l>
+                    <l n="bb134.23.1.ms.20.03" justify="left" indent="1">Guineas on further account&#8211;</l>
+                    <l n="bb134.23.1.ms.20.04" justify="left" indent="20"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice> Bl<hi rend="u">ake</hi></l>
+                    <l n="bb134.23.1.ms.20.05" justify="left" indent="">&#163;10 ,, 10&#8212;</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.24.1.ms.21" dbi="BB134.24.1.MS">
+            <objtitle>
+                <title type="transcribed">4 October 1809</title>
+                <title type="alt">Receipt, Thomas Butts, 4 October 1809</title>, <objid>
+                    <objnumber code="A21">Object 21</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.6 x 18.6 cm.</objsize>
+                <objnote>
+                    <p>On the top right corner, the number "18" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.24.1.ms.21.01" justify="left" indent="23">4 : <choice><orig>Octo.<hi rend="superscript">r</hi></orig><reg>October</reg></choice> 1809&#8212;</l>
+                    <l n="bb134.24.1.ms.21.02" justify="left" indent="1">Received of M.<hi rend="superscript">r</hi>. Butts ten Guineas on<note>Bentley (*Blake Records*, page 768) and Keynes (*Letters*, page 139) read “ten” for “Ten.”</note></l>
+                    <l n="bb134.24.1.ms.21.03" justify="left" indent="5">further account&#8212;</l>
+                    <l n="bb134.24.1.ms.21.04" justify="left">&#163;10 ,, 10 &#8212; <space extent="15"/><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice></l>
+                </lg>
+            </phystext>
+        </desc> 
+        <desc id="bb134.25.1.ms.22" dbi="BB134.25.1.MS">
+            <objtitle>
+                <title type="transcribed">25 November 1809</title>
+                <title type="alt">Receipt, Thomas Butts, 25 November 1809</title>, <objid>
+                    <objnumber code="A22">Object 22</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 8 x 18.5 cm.</objsize>
+                <objnote><p>On the top right corner, the number "19" is inscribed in pencil in an unknown hand.</p></objnote>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.25.1.ms.22.01" justify="left" indent="21">25: <choice><orig>Nov. <hi rend="superscript">r</hi></orig><reg>November</reg></choice> 1809 &#8212;</l>
+                    <l n="bb134.25.1.ms.22.02" justify="left" indent="1"> Received of M<hi rend="superscript">r</hi>. Butts, twenty Pounds on</l>
+                    <l n="bb134.25.1.ms.22.03" justify="left" indent="1">further account&#8212;</l>
+                    <l n="bb134.25.1.ms.22.04" justify="left" indent="1">&#163;20&#8212;&#8212;<space extent="15"/>Willia<hi rend="u">m Blake</hi></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.26.1.ms.23" dbi="BB134.26.1.MS">
+            <objtitle>
+                <title type="transcribed">16 January 1810</title>
+                <title type="alt">Receipt, Thomas Butts, 16 January 1810</title>, <objid>
+                    <objnumber code="A23">Object 23</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.5 x 2.1 cm.</objsize>
+                <objnote><p>On the top right corner, the number "20" is inscribed in pencil in an unknown hand.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.26.1.ms.23.01" justify="left" indent="24"> 16. <choice><orig>Janry</orig><corr>January</corr></choice> 1810&#8212;</l>
+                    <l n="bb134.26.1.ms.23.02" justify="left" indent="7">Received of M<hi rend="superscript">r</hi> T Butts twenty one</l>
+                    <l n="bb134.26.1.ms.23.03" justify="left">Pounds on further account&#8212;</l>
+                    <l n="bb134.26.1.ms.23.04" justify="left" indent="4">&#163;21&#8212;&#8212;<space extent="11"/><handshift medium="grey ink">William Blake</handshift></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.27.1.ms.24" dbi="BB134.27.1.MS">
+            <objtitle>
+                <title type="transcribed">3 March 1810</title>
+                <title type="alt">Receipt, Thomas Butts, 3 March 1810</title>, <objid>
+                    <objnumber code="A24">Object 24</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 8 x 19.8 cm.</objsize>
+                <objnote><p>On the top right corner, the number "21" is inscribed in pencil in an unknown hand.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.27.1.ms.24.01" justify="left" indent="21.5">3: March 1810-</l>
+                    <l n="bb134.27.1.ms.24.02" justify="left" indent="1">Received of M<hi rend="superscript">r</hi>. Butts<space extent="1"/> ten Guineas on further</l>
+                    <l n="bb134.27.1.ms.24.03" justify="left" indent="3">account&#8212;</l>
+                    <l n="bb134.27.1.ms.24.04" justify="left" indent="25.5">William <hi rend="u">Blake <space extent="1"/></hi></l>
+                    <l n="bb134.27.1.ms.24.05" justify="left" indent="4"> &#163;10 ,, 10 &#8212;</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.28.1.ms.25" dbi="BB134.28.1.MS">
+                <objtitle>
+                    <title type="transcribed">14 April 1810</title>
+                    <title type="alt">Receipt, Thomas Butts, 14 April 1810</title>, <objid>
+                        <objnumber code="A25">Object 25</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 7.6 x 18.3 cm.</objsize>
+                    <objnote>
+                        <p>On the top right corner, the number "22" is inscribed in pencil in an unknown hand.</p>
+                    </objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.28.1.ms.25.01" justify="left" indent="24">14: April 1810.</l>
+                        <l n="bb134.28.1.ms.25.02" justify="left" indent="2">Received of M<hi rend="superscript">r</hi>. Butts twenty one Pounds</l>
+                        <l n="bb134.28.1.ms.25.03" justify="left" indent="4">on further account&#8212;</l>
+                        <l n="bb134.28.1.ms.25.04" justify="left" indent="20">William Blake</l>
+                        <l n="bb134.28.1.ms.25.05" justify="left" indent="1">&#163;21&#8212;</l>
+                    </lg>
+                </phystext>
+            </desc>
+        <desc id="bb134.29.1.ms.26" dbi="BB134.29.1.MS">
+                <objtitle>
+                    <title type="transcribed">30 June 1810</title>
+                    <title type="alt">Receipt, Thomas Butts, 30 June 1810</title>, <objid>
+                        <objnumber code="A26">Object 26</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 7.6 x 18.5 cm.</objsize>
+                    <objnote>
+                        <p>On the top right corner, the number "23" is inscribed in pencil in an unknown hand.</p>
+                    </objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.29.1.ms.26.01" justify="left" indent="18">30 : June 1810&#8212;</l>
+                        <l n="bb134.29.1.ms.26.02" justify="left" indent="1">Received of M<hi rend="superscript">r</hi>: Butts five Guineas on</l> 
+                        <l n="bb134.29.1.ms.26.03" justify="left" indent="3">further Account—</l>
+                        <l n="bb134.29.1.ms.26.04" justify="left" indent="22"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice> Blake</l>
+                        <l n="bb134.29.1.ms.26.05" justify="left">£ 5 ,, 5 ,&#8212;</l>
+                    </lg>
+                </phystext>
+            </desc>
+        <desc id="bb134.30.1.ms.27" dbi="BB134.30.1.MS">
+                <objtitle>
+                    <title type="transcribed">30 June 1810</title>
+                    <title type="alt">Receipt, Thomas Butts, 14 July 1810</title>, <objid>
+                        <objnumber code="A27">Object 27</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 6.6 x 18.5 cm.</objsize>
+                    <objnote>
+                        <p>On the top right corner, the number "24" is inscribed in pencil in an unknown hand.</p>
+                    </objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.30.1.ms.27.01" justify="left" indent="24">14: July 1810&#8212;.</l>
+                        <l n="bb134.30.1.ms.27.02" justify="left" indent="4">Received of M<hi rend="superscript">r</hi>: Butts fifteen Guineas on</l>
+                        <l n="bb134.30.1.ms.27.03" justify="left" indent="7.5">further account&#8212;</l>
+                        <l n="bb134.30.1.ms.27.04" justify="left" indent="27">William Blake</l>
+                        <l n="bb134.30.1.ms.27.05" justify="left" indent="7">&#163;15 ,, 15 ,&#8212;</l>
+                    </lg>
+                </phystext>
+        </desc>    
+        <desc id="bb134.31.1.ms.28" dbi="BB134.31.1.MS">
+            <objtitle>
+                <title type="transcribed">20 September 1810</title>
+                <title type="alt">Receipt, Thomas Butts, 20 September 1810</title>, <objid>
+                    <objnumber code="A28">Object 28</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 7.4 x 19.5 cm.</objsize>
+                <objnote><p>On the top right corner, the number "25" is inscribed in pencil in an unknown hand.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.31.1.ms.28.01" justify="left" indent="20">20: <choice><orig>Sept<hi rend="superscript">r</hi>:</orig>
+                        <corr>September</corr></choice> 1810.</l>
+                    <l n="bb134.31.1.ms.28.02" justify="left" indent="7">Received of M<hi rend="superscript">r</hi>: Butts ten Pounds</l>
+                    <l n="bb134.31.1.ms.28.03" justify="left">ten Shillings on further account&#8212;</l>
+                    <l n="bb134.31.1.ms.28.04" justify="left" indent="22">William <hi rend="u">Blake<space extent="3"></space></hi></l>
+                    <l n="bb134.31.1.ms.28.05" justify="left" indent="8">£ 10 ,, 10&#8212;</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.32.1.ms.29" dbi="BB134.32.1.MS">
+                <objtitle>
+                    <title type="transcribed">18 December 1810</title>
+                    <title type="alt">Receipt, Thomas Butts, 18 December 1810</title>, <objid>
+                        <objnumber code="A29">Object 29</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 7.8 x 16 cm.</objsize>
+                    <objnote><p>On the top right corner, the number "26" is inscribed in pencil in an unknown hand.</p></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.32.1.ms.29.01" justify="left" indent="16">18: <choice><orig>Dec:<hi rend="superscript">r</hi></orig><reg></reg></choice> 1810&#8212;</l>
+                        <l n="bb134.32.1.ms.29.02" justify="left" indent="3">Received of M<hi rend="superscript">r</hi>. Butts ten Pounds</l>
+                        <l n="bb134.32.1.ms.29.03" justify="left">ten Shillings on further account–</l>
+                        <l n="bb134.32.1.ms.29.04" justify="left" indent="1">&#163;10 ,, 10&#8212;<space extent="5"/>William Blake</l>
+                    </lg>
+                </phystext>
+            </desc>
+        <desc id="bb134.33.1.ms.30" dbi="BB134.33.1.MS">
+                <objtitle>
+                    <title type="transcribed">12 August 1818</title>
+                    <title type="alt">Receipt, John Linnell, 12 August 1818</title>, <objid>
+                        <objnumber code="A30">Object 30</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 4 x 17 cm.</objsize>
+                    <objnote></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.33.1.ms.30.01" justify="left" indent="2"><choice><orig>Recievd</orig>
+                            <reg>Received</reg></choice>. 12 <choice><orig>Aug st</orig>
+                                <reg type="abbrev">August</reg></choice> 1818 of M<hi rend="superscript">r</hi> Linnell<note>Bentley (*Blake Records*, page 773) reads “August” for “Aug st.” Keynes (*Letters*, page 144) reads “Augst.”</note></l>
+                        <l n="bb134.33.1.ms.30.02" justify="left" indent="9">Two Pounds<space extent="6"/><choice><orig>W</orig>
+                            <reg type="abbrev">William</reg></choice> Blake</l>
+                    </lg>
+                </phystext>
+            </desc>
+        <desc id="bb134.35.1.ms.31" dbi="BB134.35.1.MS">
+                <objtitle>
+                    <title type="transcribed">19 September 1818</title>
+                    <title type="alt">Receipt, John Linnell, 19 September 1818</title>, <objid>
+                        <objnumber code="A31">Object 31</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 8.5 x 14 cm.</objsize>
+                    <objnote><p>on the top left the number "28" is partially visible. The number is typed and has been obscured by tearing.</p></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.35.1.ms.31.01" justify="left" indent = "2">M<hi rend="superscript">r</hi> Linnell <space extent = "2"></space>D <hi rend="superscript">r</hi></l>
+                    <l n="bb134.35.1.ms.31.02" justify="left">19 <choice>
+                        <orig>Septemb<hi rend="superscript">r</hi>
+                        </orig>
+                        <reg type="abbrev">September</reg>
+                    </choice>1818<space extent="6"/>To <choice>
+                        <orig>Will<hi rend="superscript">m</hi>
+                        </orig>
+                        <reg type="abbrev">William</reg>
+                    </choice> Blake</l>
+                    <l n="bb134.35.1.ms.31.03" justify="left" indent="4">For Laying in the
+                        Engrav<unclear resp="OS">in</unclear>g
+                        of M<hi rend="superscript">r</hi>
+                        Uptons<note>Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 145) read “Engraving” but the “in” of “Engraving” is unclear in the manuscript.
+                        </note></l>
+                    <l n="bb134.35.1.ms.31.04" justify="left" indent="6">portrait __________________________15.15.0</l>
+                    <l n="bb134.35.1.ms.31.05" justify="left" indent="6">
+                        <choice>
+                            <orig>Receivd</orig>
+                            <reg>Received</reg>
+                        </choice> on this account<space extent="12.5"/>
+                        <hi rend="u"><space extent="2"/>7. 0. 0<space extent="1"/></hi></l>
+                    <l n="bb134.35.1.ms.31.06" justify="left" indent="41">
+                        <hi rend="u"><space extent = "1.75"/>8 . 15 . 0<space extent="1.5"/></hi></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.36.1.ms.32" dbi="BB134.36.1.MS">
+                <objtitle>
+                    <title type="transcribed">9 November 1818</title>
+                    <title type="alt">Receipt, John Linnell, 9 November 1818</title>, <objid>
+                        <objnumber code="A32">Object 32</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 7.5 x 18.5 cm.</objsize>
+                    <objnote>
+                        <p> To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;THREE/PENCE&#8221; at the bottom.</p>
+                    </objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.36.1.ms.32.01" justify="left" indent="2"><choice><orig>Recievd</orig>
+                            <reg>Received</reg>
+                        </choice> 9 <choice><orig>Nov<hi rend="superscript">r</hi></orig>
+                            <reg type="abbrev">November</reg>
+                        </choice> 1<subst><gap reason="illegible" extent="1" unit="character"/><add type="overwrite" place="inline">8</add>
+                        </subst>18 of M<hi rend="superscript">r</hi> Linnell<note>Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 145) read "1818". The
+                            first "8" in the date appears to be written over the number "7".
+                        </note></l>
+                        <l n="bb134.36.1.ms.32.02" justify="left" indent="2">The Sum of Five Pounds on Account</l>
+                        <l n="bb134.36.1.ms.32.03" justify="left" indent ="1"><hi rend="u">5 . 0 . 0<space extent = "1"/></hi><space extent="13.5"/>WilliamB<hi rend="u">lake.</hi></l>
+                    </lg>
+                </phystext>
+            </desc>
+            <desc id="bb134.37.1.ms.33" dbi="BB134.37.1.MS">
+                <objtitle>
+                    <title type="transcribed">31 December 1818</title>
+                    <title type="alt">Receipt, John Linnell, 31 December 1818</title>, <objid>
+                        <objnumber code="A33">Object 33</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 6.5 x 16.5 cm.</objsize>
+                    <objnote><p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPTS&#8221;.</p></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.37.1.ms.33.01" justify="left" indent ="2"><choice><orig>Recieved</orig>
+                            <reg>Received</reg>
+                        </choice> 31<choice><orig>Decemb<hi rend="superscript">r</hi></orig>
+                            <reg type="abbrev">December</reg>
+                        </choice>1818 of M<hi rend="superscript">r</hi> Linnell<note>Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 145) read "Recieved".</note></l>
+                        <l n="bb134.37.1.ms.33.02" justify="left" indent ="2">the Sum of Three Pounds Fifteen Shillings</l>
+                        <l n="bb134.37.1.ms.33.03" justify="left" indent ="3.5">the Balance of Account of M<hi rend="superscript">r</hi> Uptons Plate</l>
+                        <l n="bb134.37.1.ms.33.04" justify="left" indent ="3"><hi rend="u"><space extent="0.5"/>3. 15.0<space extent="1.5"/></hi><space extent="16"/>William Blake</l>
+                    </lg>
+                </phystext>
+            </desc>
+            <desc id="bb134.38.1.ms.34" dbi="BB134.38.1.MS">
+                <objtitle>
+                    <title type="transcribed">27 August 1819</title>
+                    <title type="alt">Receipt, John Linnell, 27 August 1819</title>, <objid>
+                        <objnumber code="A34">Object 34</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 11 x 18.5 cm.</objsize>   
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb134.38.1.ms.34.01" justify="left" indent="6">August 27 . 1819.</l>
+                    <l n="bb134.38.1.ms.34.02" justify="left">
+                        <choice>
+                            <orig>Recievd</orig>
+                            <reg>Received</reg>
+                        </choice> One Pound Nineteen &amp; Sixpence of— </l>
+                    <l n="bb134.38.1.ms.34.03" justify="left">M<hi rend="superscript">r</hi> Linnell
+                        for Songs of Innocence &amp; Experience</l>
+                    <l n="bb134.38.1.ms.34.04" justify="left" indent="1">One Copy</l>
+                    <l n="bb134.38.1.ms.34.05" justify="left" indent="31">William Blake</l>
+                    <l n="bb134.38.1.ms.34.06" justify="left" indent="1">
+                        <hi rend="u"><space extent="0.75"/>1 . 19 . 6<space extent="5"/></hi>
+                    </l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.39.1.ms.35" dbi="BB134.39.1.MS">
+                <objtitle>
+                    <title type="transcribed">30 December 1819</title>
+                    <title type="alt">Receipt, John Linnell, 30 December 1819</title>, <objid>
+                        <objnumber code="A35">Object 35</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 11 x 18.5 cm.</objsize>
+                    <objnote><illus filename="bb134.39.1.ms.objectnote.jpg"/>On the left side of the object, there are slanted words written in pencil in Linnell's hand. According to Bentley(*Blake Records*, 774) "Sideways in the corner of the sheet is written Linnell's note to himself:"2&#163;. to Father Paid by Mr Varley lent 1/6"".</objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg type="prose" justify="left">
+                        <l n="bb134.39.1.ms.35.01" justify="left" indent="2">
+                            <choice>
+                                <orig>Recievd</orig>
+                                <reg>Received</reg>
+                            </choice> 30 <choice>
+                                <orig>Decemb<hi rend="superscript">r</hi>
+                                </orig>
+                                <reg type="abbrev">December</reg>
+                            </choice>1819 of M<hi rend="superscript">r</hi>Linnell the <unclear resp="HS">sum</unclear><note><illus filename="bb134.39.1.ms.01.01.note.jpg"/> Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 146)  read the last word of this line as "sum".</note>
+                            
+                        </l>
+                        <l n="bb134.39.1.ms.35.02" justify="left" indent="2">of Fourteen Shillings for Jerusalem <choice>
+                            <orig>Chap</orig>
+                            <reg>Chapter</reg>
+                        </choice> 2</l>
+                        <l n="bb134.39.1.ms.35.03" justify="left" indent="1.5">
+                            <hi rend="u"><space extent="2"/>0. 14 .0<space extent="1.5"/></hi>
+                            <space extent="15"/>
+                            <choice>
+                                <orig>Will<hi rend="superscript">m</hi>
+                                </orig>
+                                <reg type="abbrev">William</reg>
+                            </choice> Blake</l>
+                    </lg>
+                </phystext>
+            </desc> 
+        <desc id="bb134.40.1.ms.36" dbi="BB134.40.1.MS">
+                <objtitle>
+                    <title type="transcribed">30 April 1821</title>
+                    <title type="alt">Receipt, John Linnell, 30 April 1821</title>, <objid>
+                        <objnumber code="A36">Object 36</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 7.5 x 18.5 cm.</objsize>
+                    <objnote><p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPTS&#8221;.</p></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.40.1.ms.36.01" justify="left"><space extent="2"/>
+                            <choice>
+                                <orig>Recievd</orig>
+                                <reg>Received</reg>
+                            </choice> April 30<unclear resp="HS">:</unclear>1821 of M<hi rend="superscript">r</hi> Linnell</l>
+                        <l n="bb134.40.1.ms.36.02" justify="left"><space extent="1"/>the Sum of Two Guineas for Heaven
+                            &amp; Hell</l>
+                        
+                            <l n="bb134.40.1.ms.36.03" justify="left" indent="25">
+                            <choice>
+                                <orig>Will<hi rend="superscript">m</hi>
+                                </orig>
+                                <reg>William</reg>
+                            </choice> Blake<note><illus filename="bb134.40.1.ms.01.03.note.jpg"/> Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 146)  read the last number of this price as "0".
+                            </note>
+                            </l>
+                        <l n="bb134.40.1.ms.36.04" justify="left">£ <hi rend="u">2 . 2 . <unclear resp="HS">0</unclear>
+                            </hi></l>            
+                    </lg>
+                </phystext>
+            </desc>    
+        <desc id="bb134.41.1.ms.37" dbi="BB134.41.1.MS">
+                <objtitle>
+                    <title type="transcribed">1 March 1822</title>
+                    <title type="alt">Receipt, John Linnell, 1 March 1822</title>, <objid>
+                        <objnumber code="A37">Object 37</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 7 x 18.5 cm.</objsize>
+                    <objnote> <p> To the left of the text is an embossed revenue stamp depicting a shield
+                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
+                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
+                        PENCE / FOR RECEIPTS&#8221;.</p></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.41.1.ms.37.01" justify="left"><space extent="2"/>
+                        <choice>
+                            <orig>Recievd</orig>
+                            <reg>Received</reg>
+                        </choice> 1 March 1822 of M<hi rend="superscript">r</hi> Linnell</l>
+                    <l n="bb134.41.2.ms.37.02" justify="left"><space extent="1"/>Three Pounds on <choice>
+                        <orig>Acco<hi rend="superscript">t</hi>.
+                        </orig>
+                        <reg>Account</reg>
+                    </choice>
+                    </l>
+                    <l n="bb134.41.3.ms.37.03" justify="left" indent="22">William Blake</l>
+                    <l n="bb134.41.3.ms.37.04" justify="left">£<hi rend="u"> 3 . 0 .</hi> 0</l>   
+                </lg>
+            </phystext>
+            </desc>
+        <desc id="bb134.42.1.ms.38" dbi="BB134.42.1.MS">
+                <objtitle>
+                    <title type="transcribed">March 1823 </title>
+                    <title type="alt">Accounts Between Blake and John Linnell, March 1823 to November 1825, page 1</title>, <objid>
+                        <objnumber code="A38">Object 38</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a full sheet of paper 17.5 x 11.5 cm.</objsize>
+                    <objnote><p>The full receipt, of which this is one page, is written on both sides of three loose sheets, some of which have page numbers in the top left corner. This page is numbered "2". Keynes (<hi rend="i">Letters</hi>, 151) notes that this page is the recto of second sheet. </p>
+                        <p>The receipt is written in Linnell's hand with Blake's initials against each sum.</p>
+                    <p>A significant part of the object is written in pencil and overwritten in pen.</p></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+            <phystext>
+                <lg justify="left">                 
+                    <l n="bb134.42.1.ms.38.01" justify="left" indent="15"><hi rend="u">1823</hi><space extent="21"/><hi rend="u">2</hi></l>
+                    <l n="bb134.42.1.ms.38.02" justify="left">March</l>
+                    <l n="bb134.42.1.ms.38.03" justify="left" indent="1">20-<space extent="3"/>To M<hi rend="superscript">r</hi>. Blake - 1<hi rend="superscript">st</hi> payment<space extent="4"/>&#163;<space extent="2.5"/><handshift medium="pencil">-</handshift>s</l>
+                    <l n="bb134.42.1.ms.38.04" justify="left" indent="6.5">on account of J<hi rend="u">o</hi>b- -<space extent="8"/><handshift medium="pencil"><space extent="2"/>-</handshift>5<handshift medium="pencil">. -</handshift> 0</l>
+                    <l n="bb134.42.1.ms.38.05" justify="left" indent="8.5">see memorandum of</l>
+                    <l n="bb134.42.1.ms.38.06" justify="left" indent="6">agreement . &#38;c..<space extent="3"/><handshift medium="pencil">-</handshift><space extent="9"/>WB</l>
+                    <l n="bb134.42.1.ms.38.07" justify="left">May<hi rend="sub">2</hi>&#176;<space extent="6"/>Cash<space extent="2"/>D&#176;<space extent="6.5"/><handshift medium="pencil">-</handshift><space extent="6.5"/>3 -<space extent="2"/>0.</l>
+                    <l n="bb134.42.1.ms.38.08" justify="left" indent="33">WB</l>
+                    <l n="bb134.42.1.ms.38.9" justify="left" indent="2"><handshift medium="pencil">_</handshift><space extent="10"/><subst><del type="overwrite"><handshift medium="pencil">Cash</handshift></del><add>D&#176;</add></subst><space extent="2"/>D&#176;<handshift medium="pencil">-<space extent="2"/>-<space extent="2"/>-</handshift><space extent="6"/>10 -<space extent="2"/>0</l>
+                    <l n="bb134.42.1.ms.38.10" justify="left" indent="33">WB</l>
+                    <l n="bb134.42.1.ms.38.11" justify="left">July 11<space extent="5"/>D&#176;<space extent="3"/>D&#176;<space extent="16"/>3 -<space extent="2"/>0</l>
+                    <l n="bb134.42.1.ms.38.12" justify="left" indent="33">WB</l>
+                    <l n="bb134.42.1.ms.38.13" justify="left">Aug<hi rend="superscript">t</hi>- 2-<space extent="5.5"/>D&#176;<space extent="2"/>D&#176;<space extent="15"/>2 -<space extent="2"/>0</l>
+                    <l n="bb134.42.1.ms.38.14" justify="left" indent="33">WB</l>
+                    <l n="bb134.42.1.ms.38.15" justify="left" indent="5">17<space extent="5.5"/>D&#176;_<space extent="2"/>D&#176;________<space extent="1"/>WB 1 _ 0</l>
+                    <l n="bb134.42.1.ms.38.16" justify="left">Sep 3 _<space extent="5.5"/>D&#176;__ <space extent ="1"/>D&#176;________ WB 2<space extent="1"/> _0</l>
+                    <l n="bb134.42.1.ms.38.17" justify="left" indent="3.5">14<space extent="3"/>_<space extent="3"/> D&#176; __ D&#176;_________WB 1<space extent="1"/>_ 0</l>
+                    <l n="bb134.42.1.ms.38.18" justify="left" indent="3.5">25<space extent="7.5"/>D&#176;__ <handshift medium="pencil">D</handshift> D&#176;_________<hi rend="u">W</hi>B 2<space extent="1"/>_ 0</l>
+                    <l n="bb134.42.1.ms.38.19" justify="left">Oc<hi rend="superscript">t</hi>. 12<space extent="2"/>_<space extent="3.5"/>D&#176;__ <handshift medium="pencil">D</handshift> D&#176;________ WB 1<space extent="1"/> _ 0</l>
+                    <l n="bb134.42.1.ms.38.20" justify="left" indent="4.5">20<space extent="6"/>D&#176;__ <handshift medium="pencil">D</handshift> D&#176; ________<hi rend="u">W</hi>B 1<space extent="1.5"/>_ 0</l>
+                    <l n="bb134.42.1.ms.38.21" justify="left">Nov<hi rend="superscript">r</hi><hi rend="sub">6</hi>. <space extent="2"/>_<space extent="3.5"/>D&#176;__ <handshift medium="pencil">D</handshift> D&#176;________ <hi rend="u">WB 1<space extent="1.5"/>_ 0</hi></l>
+                    <l n="bb134.42.1.ms.38.22" justify="left" indent="30">&#163; 32  .  .<del type="erasure"><handshift medium="pencil">0</handshift></del> <unclear>0</unclear></l>
+                </lg>
+            </phystext>
+            </desc>
+            <desc id="bb134.42.2.ms.39" dbi="BB134.42.2.MS">
+                <objtitle>
+                    <title type="transcribed">March 1823 to July 1824</title>
+                    <title type="alt">Accounts Between Blake and John Linnell, March 1823 to November 1825, page 2</title>, 
+                    <objid>
+                        <objnumber code="A39">Object 39</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a full sheet of paper 17.5 x 11.5 cm.</objsize>
+                    <objnote><p>The full receipt, of which this is one page, is written on both sides of three loose sheets, some of which have page numbers in the top left corner. This page is not numbered. Keynes (<hi rend="i">Letters</hi>, 151) notes that this page is the verso of the second sheet. </p>
+                        <p>The receipt is written in Linnell's hand with Blake's initials against each sum.</p>
+                        <p>A significant part of the object is written in pencil and overwritten in pen.</p></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.42.2.ms.39.01" justify="left" indent="19">1823</l>
+                        <l n="bb134.42.2.ms.39.02" justify="left" indent="7">Cash Paid to M<hi rend="superscript">r</hi> Blake on<space extent="5.5"/> &#163; _ s .</l>
+                        <l n="bb134.42.2.ms.39.03" justify="left">Nov<hi rend="superscript">r</hi>.<space extent="1"/> account of Job______.</l>
+                        <l n="bb134.42.2.ms.39.04" justify="left" indent="1">_<space extent="10"/>Bro<hi rend="superscript">t</hi>. over __________<space extent="2"/> 32 _ 0</l>
+                        <l n="bb134.42.2.ms.39.05" justify="left" indent="3">13<space extent="1.5"/>_<space extent="3"/>Cash _______________WB 1 _ 0</l>
+                        <l n="bb134.42.2.ms.39.06" justify="left" indent="3">15 .<space extent="4.5"/>D&#176; <space extent="1.5"/> Balmano's Sub.<space extent="3"/>WB 1 _ 0<note>Keynes (<hi rend="i">Letters</hi>, p. 151) reads “Balmano’s” as “Balmanno’s”.</note></l>
+                        <l n="bb134.42.2.ms.39.07" justify="left" indent="3">18 .<space extent="4.5"/>D&#176;<handshift medium="pencil">-</handshift> __<handshift medium="pencil">-_________</handshift><space extent="7"/>WB 6 _ 0</l>
+                        <l n="bb134.42.2.ms.39.08" justify="left">Dec<hi rend="superscript">r</hi>.15 <space extent="3.5"/>D&#176; _____<space extent="3"/> _____<space extent="4"/> WB 5 _ 0</l>
+                        <l n="bb134.42.2.ms.39.09" justify="left">1824<space extent="6"/> M<hi rend="superscript">r</hi> Leigh's Sub.s. _____WB 2_0<note>Keynes (<hi rend="i">Letters</hi>, p. 151) reads “Sub.s.” as “Sub.”</note></l>
+                        <l n="bb134.42.2.ms.39.10" justify="left">Jan 10.<space extent="4.5"/>Cash&#8212;<handshift>_____________</handshift>WB 5_0.0</l>
+                        <l n="bb134.42.2.ms.39.11" justify="left" indent="11.5">Coals ______________ WB 3 . 5.9</l>
+                        <l n="bb134.42.2.ms.39.12" justify="left">Feb. 2<hi rend="superscript">d</hi>.<space extent="4"/>Cash<space extent="4"/>____<space extent="5"/> ___WB 5_0.0</l>
+                        <l n="bb134.42.2.ms.39.13" justify="left" indent="4">21<space extent="5"/>D&#176;___________<space extent="7.5"/>WB 10_0_0</l>
+                        <l n="bb134.42.2.ms.39.14" justify="left">March 29. <space extent="2"/>D&#176;<handshift medium="pencil">_______________</handshift><space extent="2"/>WB 5 <subst><del type="overwrite"><handshift medium="pencil">0</handshift></del><add>-</add></subst></l>
+                        <l n="bb134.42.2.ms.39.15" justify="left">May <space extent="2"/>4<space extent="4"/>D&#176; M<hi rend="superscript">r.</hi> Muss’s Sub_____WB 1 <subst><del type="overwrite"><handshift medium="pencil">0</handshift></del><add>-</add></subst></l>
+                        <l n="bb134.42.2.ms.39.16" justify="left" indent="6"> 6<space extent="4"/>D&#176; __<handshift medium="pencil">______________</handshift> WB 10 <subst><del type="overwrite"><handshift medium="pencil">0</handshift></del><add>-</add></subst></l>
+                        <l n="bb134.42.2.ms.39.17" justify="left" indent="1">June 11.<space extent="3.5"/>D&#176; ________________ WB 5 __</l>
+                        <l n="bb134.42.2.ms.39.18" justify="left" indent="12">1 Chaldron of Coals<space extent="3"/>_WB 1 .17 .</l>
+                        <l n="bb134.42.2.ms.39.19" justify="left">July 6 .<space extent="5"/>Cash by D<hi rend="superscript">r</hi> Thornton’s order.<handshift medium="pencil"><unclear resp="OS">Mr</unclear> Po<unclear type="character" extent="2" resp="OS"></unclear></handshift><hi rend="u"><unclear resp="OS">W</unclear>B 5. 5.<space extent="1"/></hi><note><illus filename="bb134.42.2.ms.01.19.note.jpg"/>Unclear pencil marks under "Mr. Thornton" and the words "Mr. Po" written in pencil are visible at the end of the line. Bentley (*Blake Records*, 806) reads "pd by M<hi rend="supercript">r</hi>Post".</note></l>
+                        <l n="bb134.42.2.ms.39.20" justify="left" indent="41"><handshift medium="pencil">98.7.9</handshift></l>
+                    </lg>
+                </phystext>
+            </desc>      
+        <desc id="bb134.42.3.ms.40" dbi="BB134.42.3.MS">
+                <objtitle>
+                    <title type="transcribed">August 1824 to November 1825</title>
+                    <title type="alt">Accounts Between Blake and John Linnell, March 1823 to November 1825, page 3</title>, <objid>
+                        <objnumber code="A40">Object 40</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a full sheet of paper 17.5 x 11.5 cm.</objsize>
+                    <objnote><p>The full receipt, of which this is one page, is written on both sides of three loose sheets, some of which have page numbers in the top left corner. This page is numbered "1". Keynes (<hi rend="i">Letters</hi>, 152) notes that this page is the recto of first sheet. </p>
+                        <p>The receipt is written in Linnell's hand with Blake's initials against each sum.</p>
+                    </objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.42.3.ms.40.01" justify="left" indent="35"><hi rend="u">1</hi></l>
+                    <l n="bb134.42.3.ms.40.02" justify="left" indent="1">Aug<hi rend="superscript">t.</hi> 18<hi rend="superscript">h.</hi> 1824 .</l>
+                    <l n="bb134.42.3.ms.40.03" justify="left" indent="6">Cash on account of<space extent="7"/>&#163;</l>
+                    <l n="bb134.42.3.ms.40.04" justify="left" indent="4">The Portrait of M<hi rend="superscript">r</hi>. Lowry<note>Keynes (<hi rend="i">Letters</hi>, p. 151) identifies this figure as Wilson Lowry, FRS (1762-1824), engraver and inventor</note> WB 5<space extent="1.5"/>–</l>
+                    <l n="bb134.42.3.ms.40.05" justify="left">Novembr 10<hi rend="superscript">th</hi>-<space extent="1"/>D&#176;<space extent="2"/>D&#176;<hi rend="superscript"> –</hi><space extent="4.5"/>WB 5<space extent="1.25"/>—</l>
+                    <l n="bb134.42.3.ms.40.06" justify="left">Dec<space extent="1.25"/><hi rend="superscript">r</hi><space extent="3.5"/>25.<space extent="4"/>D&#176;<space extent="1"/>D<hi rend="superscript"> –</hi><space extent="1.5"/>—<space extent="1"/>WB<hi rend="u"><space extent="1"/>5<space extent="1.5"/></hi>––</l>
+                    <l n="bb134.42.3.ms.40.07" justify="left">Jany<space extent="3.5"/>28<space extent="5.5"/>D&#176;- D –<space extent="4.25"/><hi rend="u">WB<space extent="1.25"/>5<space extent="1.25"/>- –</hi></l>
+                    <l n="bb134.42.3.ms.40.08" justify="left">1825</l>
+                    <l n="bb134.42.3.ms.40.09" justify="left" indent="6">For Sketches of</l>
+                    <l n="bb134.42.3.ms.40.10" justify="left" indent="6">Subjects from</l>
+                    <l n="bb134.42.3.ms.40.11" justify="left" indent="6">Dante <hi rend="superscript">.</hi><space extent="2"/>–—<space extent="12.5"/><hi rend="u">5<space extent="1.5"/>––</hi></l>
+                    <l n="bb134.42.3.ms.40.12" justify="left" indent="11">Carried to page<space extent="3"/>5 .</l>
+                    <l n="bb134.42.3.ms.40.13" justify="left" indent="2">Oc<hi rend="superscript">t.</hi> 10<hi rend="superscript">th</hi>.  on acc<hi rend="superscript">t.</hi> of Drawings</l>
+                    <l n="bb134.42.3.ms.40.14" justify="left" indent="4">of Paradise
+                        <choice>
+                            <orig>regaind</orig>
+                            <reg>regained</reg>
+                        </choice>—— WB<space extent="1"/>5 <space extent="1"/>- -</l>
+                    <l n="bb134.42.3.ms.40.15" justify="left" indent="2">Nov<hi rend="superscript">r</hi>19<hi rend="superscript">th</hi>.<space extent="1.5"/> D&#176;<hi rend="superscript"> . </hi><space extent="2"/>–<space extent="2"/>D<hi rend="superscript">- </hi><space extent="1.5"/>–<space extent="4"/>5 <space extent="1"/>- -</l>
+                </lg>
+            </phystext>
+            </desc>
+        <desc id="bb134.42.4.ms.41" dbi="BB134.42.4.MS">
+                <objtitle>
+                    <title type="transcribed">January to November 1825</title>
+                    <title type="alt">Accounts between Blake and John Linnell, March 1823 to November 1825, page 4</title>, <objid>
+                        <objnumber code="A41">Object 41</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a full sheet of paper 17.5 x 11.5 cm.</objsize>
+                    <objnote><p>The full receipt, of which this is one page, is written on both sides of three loose sheets, some of which have page numbers in the top left corner. This page is numbered "3". Keynes (<hi rend="i">Letters</hi>, 152) notes that this page is the recto of third sheet. </p>
+                        <p>The receipt is written in Linnell's hand with Blake's initials against each sum.</p>
+                        <p>A significant part of the object is written in pencil and overwritten in pen.</p>
+                    <p><illus filename="bb134.42.4.ms.01.objectnote.jpg"/>In the bottom right of the page, there are some indistinct figures and letters in pencil. Bentley (*Blake Records*, 807) and Keynes (*Letters*, 152) make no note of them.</p></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+            <phystext>
+                <lg justify="left">  
+                    <l n="bb134.42.4.ms.41.01" justify="left" indent="32.5">&#163;<space extent="1.5"/>s<hi rend="u"><space extent="1.5"/>3<space extent="1"/></hi></l>
+                    <l n="bb134.42.4.ms.41.02" justify="left" indent="1">Jany 1825<space extent="12"/>Brot over<space extent="1"/>98<space extent="1"/>7<space extent="1"/>9</l>
+                    <l n="bb134.42.4.ms.41.03" justify="left" indent="3">28<hi rend="superscript">h</hi>..<space extent="3"/>Cash on acc<hi rend="superscript">t</hi> of Job. WB 5 – —</l>
+                    <l n="bb134.42.4.ms.41.04" justify="left">March 12<space extent="2"/>D<hi rend="superscript"> –</hi><space extent="6"/>, D - -<space extent="5.5"/>WB 5<space extent="3"/>-</l>
+                    <l n="bb134.42.4.ms.41.05" justify="left">April 8<space extent="6"/>D<hi rend="superscript">–</hi><space extent="7"/>D<hi rend="superscript">–</hi><space extent="1.5"/>—–<space extent="1"/>WB 3 . 10</l>
+                    <l n="bb134.42.4.ms.41.06" justify="left" indent="1">May 3<hi rend="superscript">d</hi><space extent="4"/>D<hi rend="superscript">–</hi><space extent="4"/>— D<hi rend="superscript">–</hi> —— <space extent="1"/> WB 5 .<space extent="1.5"/>–</l>
+                    <l n="bb134.42.4.ms.41.07" justify="left" indent="1">June 6<space extent="5"/>D&#176;<space extent="3"/>— <space extent="1"/>D&#176;<space extent="1"/>—— WB 2<space extent="1.5"/>–<space extent="1.5"/>-</l>
+                    <l n="bb134.42.4.ms.41.08" justify="left" indent="8">By Coals sent in May -<space extent="1"/>WB 2. 13. 6</l>
+                    <l n="bb134.42.4.ms.41.09" justify="left" indent="1">Aug<hi rend="superscript">t</hi> 21<space extent="3"/>Cash<space extent="1"/>—–—–——— WB 3<space extent="1"/>—</l>
+                    <l n="bb134.42.4.ms.41.10" justify="left" indent="1">Sep 3<hi rend="superscript"> -</hi><space extent="4"/>D<hi rend="superscript">-</hi><space extent="1.5"/>—–—–————WB 1 <space extent="1"/>—</l>
+                    <l n="bb134.42.4.ms.41.11" justify="left" indent="5">4 –<space extent="3.5"/>D<hi rend="superscript">-</hi><space extent="3"/>—––—–———<hi rend="strikethrough">W</hi>B 10 –</l>
+                    <l n="bb134.42.4.ms.41.12" justify="left">Oc<hi rend="superscript">t</hi>- 1<hi rend="superscript">st</hi><space extent="4.5"/>D<hi rend="superscript">-</hi><space extent="3"/>—––—–———WB<space extent = "1"/> 1 —</l>
+                    <l n="bb134.42.4.ms.41.13" justify="left" indent="4.5">30<space extent="4.5"/>D&#176;<space extent="2"/>—––––—<space extent="10"/>5 - -</l>
+                    <l n="bb134.42.4.ms.41.14" justify="left" indent="11">D&#176; – by M<hi rend="superscript">r</hi> Flaxmans Sub. 3 . 3 –</l>
+                    <l n="bb134.42.4.ms.41.15" justify="left"><hi rend="u"><space extent="3"/></hi><space extent="8"/>D&#176;.<space extent="4"/>M<hi rend="superscript">r</hi> Calverts<space extent="1"/>D<hi rend="superscript">–</hi> –<space extent="1.5"/>1<space extent="1.5"/>—</l>
+                    <l n="bb134.42.4.ms.41.16" justify="left"><handshift medium="pencil"><hi rend="u">75<space extent="2"/></hi></handshift><space extent="2"/>by Sir Tho.<hi rend="superscript">s</hi> Lawrence D<hi rend="superscript">–</hi><space extent="5"/>5<space extent="2"/>5</l>
+                    <l n="bb134.42.4.ms.41.17" justify="left" indent="6">for one Copy - the extra 5 gs.<space extent="1"/>_______</l>
+                    <l n="bb134.42.4.ms.41.18" justify="left" indent="1"><handshift medium="pencil"><hi rend="superscript">1820</hi></handshift>
+                        which Sir T. L. gave<space extent="1.5"/>is <space extent="7.5"/><hi rend="u">150 19 3</hi></l>
+                    <l n="bb134.42.4.ms.41.19" justify="left" indent="5">not reckond
+                        <choice>
+                            <orig>reckond</orig>
+                            <reg>reckoned</reg>
+                        </choice>against Mr Blake.</l>
+                    <l n="bb134.42.4.ms.41.20" justify="left" indent="4.5">Sir T. L. perhaps intended<space extent="2"/>it</l>
+                    <l n="bb134.42.4.ms.41.21" justify="left" indent="4">for the copy presented to him for</l>
+                    <l n="bb134.42.4.ms.41.22" justify="left" indent="4">the library of the Royal Academy.</l>
+                </lg>
+            </phystext>
+            </desc>       
+        <desc id="bb134.43.1.ms.42" dbi="BB134.43.1.MS">
+                <objtitle>
+                    <title type="transcribed">14 July 1826</title>
+                    <title type="alt">Receipt, John Linnell, 14 July 1826</title>, <objid>
+                        <objnumber code="A42">Object 42</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 7.5 x 18.5 cm.</objsize>
+                    <objnote>
+                        <p>To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;TWO SHILLING/SIX PENCE&#8221; at the centre.</p>
+                        <p>The second signature, signed by the witness to this statement, is not in Blake's hand. Keynes (<hi rend="i">Letters</hi>, 161) and Bentley (<hi rend="i">Blake Records</hi>,776) identify this signature and witness as Edward John Chance, Linnell's nephew.</p>
+                    </objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.43.1.ms.42.01" justify="left" indent="33">London July 14: 1826</l>
+                    <l n="bb134.43.1.ms.42.02" justify="left" indent="17">
+                        <choice>
+                            <orig>Recievd</orig>
+                            <reg>Received</reg>
+                        </choice> of M<hi rend="superscript">r</hi>John Linnell . the Sum of One</l>
+                    <l n="bb134.43.1.ms.42.03" justify="left" indent="11">Hundred &amp; Fifty Pounds for the
+                        Copy-right &amp; Plates</l>
+                    <l n="bb134.43.1.ms.42.04" justify="left" indent="11">(Twenty-two in number) of the Book of
+                        Job. <choice>
+                            <orig>Publishd</orig>
+                            <reg>Published</reg>
+                        </choice>
+                    </l>
+                    <l n="bb134.43.1.ms.42.05" justify="left" indent="4">March 1825<space extent="4"/>by
+                        Me.<space extent="3"/>William Blake Author of the Work</l>
+                    <l n="bb134.43.1.ms.42.06" justify="left" indent="34">N<hi rend="superscript">o</hi>3 Fountain Court Strand</l>
+                    <l n="bb134.43.1.ms.42.07" justify="left" indent="2">Witness: Ed<hi rend="u">w<hi rend="superscript">d</hi> Jno Chan</hi>ce<space extent="3"/></l>
+                </lg>
+            </phystext>
+            </desc>
+        <desc id="bb134.44.1.ms.43" dbi="BB134.44.1.MS">
+                <objtitle>
+                    <title type="transcribed">29 July 1826</title>
+                    <title type="alt">Receipt, John Linnell, 29 July 1826</title>, <objid>
+                        <objnumber code="A43">Object 43</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 7.5 x 18.5 cm.</objsize>
+                    <objnote>
+                        <p> To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;THREE/PENCE&#8221; at the bottom.</p>
+                    </objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.44.1.ms.43.01" justify="left" indent="4.5">
+                        <choice>
+                            <orig>Recievd</orig>
+                            <reg>Received</reg>
+                        </choice> 29 July 1826 of M<hi rend="superscript">rs</hi> Ade<add place="supralinear">r</add>s by the hands of<note>Keynes (<hi rend="i">Letters</hi>, 163) and Bentley (<hi rend="i">Blake Records</hi>,776) read "Recieved"</note></l>
+                    <l n="bb134.44.1.ms.43.02" justify="left" indent="5">M<hi rend="superscript">r</hi> Linnell the Sum of <unclear resp="OS">Five</unclear> Pounds Five
+                        Shillings<note>There is an inkblot over the "e" of Linnell that may be read as the tittle of an "i" if "Linnell" is spelt "Linnill". Keynes (<hi rend="i">Letters</hi>, 163) and Bentley (<hi rend="i">Blake Records</hi>, 776) read "Linnell".</note>
+                        <note>The pound amount specified in the receipt is ambiguous. Keynes (*Letters*, 163) reads "Five" as "Two". Bentley (*Blake Records*, 776) reads "Five".</note></l><!-- insert image -->
+                    <l n="bb134.44.1.ms.43.03" justify="left" indent="5">for the Songs of Innocence</l>
+                    <l n="bb134.44.1.ms.43.04" justify="left"><hi rend="u">£5.5.0</hi><space extent="25"/>William Blake<note>Keynes (<hi rend="i">Letters</hi>, 163) reads "&#163;5.5.0" as "&#163;2.5.0"</note></l>
+                </lg>
+            </phystext>
+            </desc>
+        <desc id="bb134.45.1.ms.44" dbi="BB134.45.1.MS">
+                <objtitle>
+                    <title type="transcribed">18 May 1829</title>
+                    <title type="alt">Receipt, John Linnell, 18 May 1829</title>, <objid>
+                        <objnumber code="A44">Object 44</objnumber>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 8.5 x 18 cm.</objsize>
+                    <objnote><p>The signature on the receipt is not in Blake's hand. Bentley (*Blake Records*, 778) and Keynes (*Letters*, 172) identify it as Frederick Tatham's signature.</p></objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.45.1.ms.44.01" justify="left" indent="13">May 18<hi rend="superscript">th</hi> 1829</l>
+                    <l n="bb134.45.1.ms.44.02" justify="left" indent="2">Received of Mr. J Linnell</l>
+                    <l n="bb134.45.1.ms.44.03" justify="left" indent="2">one pound Eleven shillings &amp;</l>
+                    <l n="bb134.45.1.ms.44.04" justify="left" indent="2">Sixpence for Homer<unclear resp="HS">s</unclear> Iliad<note>Keynes (*Letters*, 172) reads "sixpence" for "Sixpence".</note></l>
+                    <l n="bb134.45.1.ms.44.05" justify="left" indent="2">&amp; 
+                        <choice>
+                            <orig>Odd<unclear resp="HS">isy</unclear></orig>
+                            <reg>Odyssey</reg>
+                        </choice><space extent="2"/>–<note><illus filename="bb134.45.1.ms.01.05.note.jpg"/>Bentley (*Blake Records*, 778) and Keynes (*Letters*, 172) read "Oddisy" but the word is obscured in the manuscript.</note></l>
+                    <l n="bb134.45.1.ms.44.06" justify="left" indent="13">for M<hi rend="superscript">r</hi> Blake</l>
+                    <l n="bb134.45.1.ms.44.07" justify="left" indent="10">—<space extent="5"/>Frederick Tatham</l>
+                </lg>
+            </phystext>
+            </desc>
+    </objdesc>
+</bad>
+    
+    
+    
+    
