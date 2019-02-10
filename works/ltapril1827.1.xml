@@ -11,39 +11,14 @@
                     Essick, </name>University of California, Riverside; and <name>Joseph
                         Viscomi</name>, University of North Carolina at Chapel Hill</principal>
                 <respstmt>
-                    <resp>Technical Editor: </resp>
-                    <name>William Shaw</name>
-                    <resp>Project Manager: </resp>
-                    <name>Ashley Reed</name>
-                    <resp>Bibliographer: </resp>
-                    <name>Mark Crosby</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Esther Arnold, </name>
-                    <name>Kate Attkisson, </name>
-                    <name>Laura Bell, </name>
-                    <name>Lauren Cameron, </name>
-                    <name>Katherine Carlson, </name>
-                    <name>Cassandra Etter-Wenzel, </name>
-                    <name>Andrea Everett, </name>
-                    <name>Joseph Fletcher, </name>
-                    <name>Elizabeth Goodfellow, </name>
-                    <name>Rachel Lee, </name>
-                    <name>Ali McGhee, </name>
-                    <name>Jennifer Park, </name>
-                    <name>Adair Rispoli, </name>
-                    <name>Sarah Shaw, </name>
-                    <name>Sarah Tolf, </name>
-                    <name>Joseph Vogel, </name>
-                    <name>Nikolaus Wasmoen, </name>
-                    <name>Bihan Zhang</name>
                 </respstmt>
                 <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill,
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 11.7KB; 2 JPEG (ISO/IEC 10918) files ranging in size from
-                ??KB to ??KB</extent>
+            <extent>1 XML file approx. 11.4KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
+                277KB to 972KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
                     Archives<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
@@ -78,13 +53,12 @@
             <objinfo>
                 <numberobj>2</numberobj>
                 <objorder>1-2</objorder>
-
                 <objsize>full sheet 17.4 x 22.0 cm.</objsize>
                 <numberleaves>1<note>The full sheet was folded to form two leaves. Blake's letter
-                        appears on the first recto (object 2) and the address on the second verso
-                        (object 1) of the folded sheet. The bottom left corner of the leaf
-                        containing object 1 is torn away, leaving part of the other leaf of the
-                        folded letter visible behind it in the image of object 1.</note>
+                        appears on the first recto (Object 2) and the address on the second verso
+                        (Object 1) of the folded sheet. The bottom left corner of the leaf
+                        containing Object 1 is torn away, leaving part of the other leaf of the
+                        folded letter visible behind it in the image of Object 1.</note>
                 </numberleaves>
                 <leafsize>17.4 x 11.0 cm.</leafsize>
                 <medium>pen and ink</medium>
@@ -104,8 +78,8 @@
                 <price>unknown</price>
                 <note>John Linnell; inserted in *Songs of Innocence* (copy Q); sold
                     at Sotheby's, 30 July 1893, as part of lot 1100, including *Songs of
-                        Innocence* (copy Q), 28 coloured plates, two coloured drawings by Blake
-                    [Butlin #785, ”Timon”], pen and ink signed portrait by John Linnell and "a
+                        Innocence* (copy Q), 28 colored plates, two colored drawings by Blake
+                    (Butlin #785, "Timon"), pen and ink signed portrait by John Linnell and "a
                     drawing of the portrait by Schiavonetti" (&#163;49.10s to Heath); acquired by W.
                     A. White, New York; acquired by Alfred W. Van Sinderen; purchased from Van
                     Sinderen by Yale University through the Chauncey Brewster Tinker Fund, 1965;
@@ -123,8 +97,7 @@
                     Shelves Blake)</repositoryid>
             </repository>
         </source>
-
-        <desc id="ltapril1827.1.ltr.01" dbi="ltapril1827.1.1.LT">
+        <desc id="ltapril1827.1.ltr.01" dbi="ltapril1827.1.1.lt">
             <objtitle>
                 <title type="editorial">Address</title>, <objid>
                     <objnumber code="A1">Object 1 </objnumber>
@@ -133,8 +106,7 @@
             <physdesc desclevel="brief">
                 <objsize>17.4 x 11.0 cm.</objsize>
                 <objnote>
-                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the
-                        first recto (Object 2) and the address on the second verso (Object 1) of the
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the first recto (Object 2) and the address on the second verso (Object 1) of the
                         folded sheet. The bottom left corner of the leaf containing Object 1 is torn
                         away, leaving part of the other leaf of the folded letter visible behind it
                         in the image of Object 1.</p>
@@ -145,6 +117,7 @@
                 <windowsize width="810" height="1000"/>
             </physdesc>
             <phystext>
+                <vspace extent="7"/>
                 <lg type="prose" justify="left">
                     <l n="ltapril1827.1.ltr.01.01" justify="left">John Linnell <choice><orig>Esq<hi
                         rend="superscript">re</hi></orig><reg>Esquire</reg></choice></l>
@@ -153,7 +126,7 @@
                 </lg>
             </phystext>
         </desc>
-        <desc id="ltapril1827.1.ltr.02" dbi="ltapril1827.1.2.LT">
+        <desc id="ltapril1827.1.ltr.02" dbi="ltapril1827.1.2.lt">
             <objtitle><title type="transcribed">I am still far from recoverd</title>, <objid>
                     <objnumber code="A2">Object 2 </objnumber>
                 </objid>

@@ -16,8 +16,8 @@
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 11.6KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
-                to ??KB</extent>
+            <extent>1 XML file approx. 11.6KB; 4 JPEG (ISO/IEC 10918) files ranging in size from 400KB
+                to 1.5MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
                     Archives<date>February 2019</date>
             </publicationstmt>
@@ -53,11 +53,7 @@
                 <objsize>full sheet 20.4 x 16.6 cm.</objsize>
                 <numberleaves>1<note>The address is on one side (Object 1) and the letter on the
                         other side (Object 2) of a single leaf, which was folded to form a sealed
-                        packet for posting. The printing "job" Blake is discussing is his
-                        "Illustrations of the Book of Job"; see also the articles about the
-                        provenance and contents of this letter summarized in Bentley, "William Blake
-                        and His Circle: A Checklist of Publications and Discoveries in 2004," *Blake: An Illustrated Quarterly* 39.1 (summer 2005):
-                        5.</note>
+                        packet for posting.</note>
                 </numberleaves>
                 <leafsize>20.4 x 16.6 cm.</leafsize>
                 <medium>pen and ink</medium>
@@ -80,7 +76,7 @@
                 <dealer>unknown</dealer>
                 <price>unknown</price>
                 <note>John Linnell; acquired by John Murray II (1778-1843) or, more likely, John
-                    Murray III (1808-1892), who included it in a collection of artist's autographs;
+                    Murray III (1808-1892), who included it in a collection of artists' autographs;
                     located in the John Murray Collection, London.</note>
             </provenance>
             <repository>
@@ -101,15 +97,12 @@
                 <objnote>
                     <p>The address is on one side (Object 1) and the letter on the other side
                         (Object 2) of a single leaf, which was folded to form a sealed packet for
-                        posting. The printing "job" Blake is discussing is his "Illustrations of the
-                        Book of Job"; see also the articles about the provenance and contents of
-                        this letter summarized in Bentley, "William Blake and His Circle: A
-                        Checklist of Publications and Discoveries in 2004," *Blake: An
-                            Illustrated Quarterly* 39.1 (summer 2005): 5.</p>
+                        posting. The address appears on what would have been the exterior of the sealed packet (Object 1). Near the center of the top of the sheet a tear is visible where the seal was opened.</p>
                 </objnote>
                 <windowsize width="800" height="1040"/>
             </physdesc>
             <phystext>
+                <vspace extent="7"/>
                 <lg justify="left">
                     <l n="lt25nov1825.1.ltr.01.01" justify="left">John Linnell <choice><orig>Esq<hi
                         rend="superscript">re</hi></orig><reg>Esquire</reg></choice></l>
@@ -131,17 +124,12 @@
                 <objnote>
                     <p>The address is on one side (Object 1) and the letter on the other side
                         (Object 2) of a single leaf, which was folded to form a sealed packet for
-                        posting. The printing "job" Blake is discussing is his "Illustrations of the
-                        Book of Job"; see also the articles about the provenance and contents of
-                        this letter summarized in Bentley, "William Blake and His Circle: A
-                        Checklist of Publications and Discoveries in 2004," *Blake: An
-                            Illustrated Quarterly* 39.1 (summer 2005): 5.</p>
-                    <p>In the top margin near the center of the page, "Crazy Artist" is inscribed in
-                        pencil in an unknown hand.</p>
+                        posting.</p>
                 </objnote>
                 <windowsize width="800" height="1040"/>
             </physdesc>
             <phystext>
+                <vspace extent="2"/>
                 <lg justify="left">
                     <l n="lt25nov1825.1.ltr.02.01" justify="left">Dear Sir</l>
                     <l n="lt25nov1825.1.ltr.02.02" justify="left" indent="6"><choice><orig>M<hi rend="superscript"
@@ -173,7 +161,7 @@
                     <l n="lt25nov1825.1.ltr.02.08" justify="left">the light is <choice><orig>betterd</orig><reg>bettered</reg></choice> in <space
                         extent="6"/>I am <choice><orig>S<hi rend="superscript">ir</hi></orig><reg>Sir</reg></choice> Your<unclear resp="NW"
                             >s</unclear> Sincerely</l>
-                    <l n="lt25nov1825.1.ltr.02.09" justify="left" indent="4">our kitchen if</l>
+                    <l n="lt25nov1825.1.ltr.02.09" justify="left" indent="4">our Kitchen if</l>
                     <l n="lt25nov1825.1.ltr.02.10" justify="left" indent="1">there is but room
                         enough <space extent="8"/><hi rend="u"><choice><orig>Will</orig><reg>William</reg></choice> Blake</hi></l>
                 </lg>
