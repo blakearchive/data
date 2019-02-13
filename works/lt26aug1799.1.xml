@@ -16,8 +16,8 @@
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 25.5KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
-                to ??KB</extent>
+            <extent>1 XML file approx. 25.4KB; 6 JPEG (ISO/IEC 10918) files ranging in size from 209.5KB
+                to 1.9MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
                     Archives<date>February 2019</date>
             </publicationstmt>
@@ -25,7 +25,7 @@
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
@@ -63,7 +63,7 @@
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>1795</watermark>
-                <binding>loose</binding>
+                <binding>none</binding>
                 <postmark>none</postmark>
                 <sealDesc>wafer</sealDesc>
                 <addressee>George Cumberland</addressee>
@@ -145,8 +145,11 @@
                     </l>
                     <l n="lt26aug1799.1.ltr.01.09" justify="left">
                         <unclear resp="nw">a</unclear><choice><orig>re</orig><reg>are</reg></choice> to Reject all Fancy from his Work. How far
-                            he<note>Part of the "a" in "are" is obscured by the remnant of the wafer
-                            seal.</note>
+                            he
+                        <note>
+                        <illus filename="lt26aug1799.1.9.note.jpg"/>
+                        Part of the "a" in "are" is obscured by the remnant of the wafer seal.
+                        </note>
                     </l>
                     <l n="lt26aug1799.1.ltr.01.10" justify="left">Expects to please I cannot tell.
                         But as I cannot paint</l>
@@ -229,8 +232,7 @@
                     <l n="lt26aug1799.1.ltr.02.04" justify="left" indent="7">Pray let me
                                 <choice><orig>intreat</orig><reg>entreat</reg></choice> you to
                         persevere in your Designi<unclear resp="nw"
-                                >n</unclear><choice><orig>g</orig><reg>Designing</reg></choice><note>
-                            <illus filename="lt26aug1799.2.4.note.jpg"/>Bentley (*Writings* volume 2, page 1529) reads “Designing” as
+                                >n</unclear><choice><orig>g</orig><reg>Designing</reg></choice><note>Bentley (*Writings* volume 2, page 1529) reads “Designing” as
                             “Disigning”.</note>
                     </l>
                     <l n="lt26aug1799.1.ltr.02.05" justify="left">it is the only source of Pleasure
@@ -269,9 +271,7 @@
                     <l n="lt26aug1799.1.ltr.02.15" justify="left">Interested. I live by Miracle. I
                         am Painting small</l>
                     <l n="lt26aug1799.1.ltr.02.16" justify="left">Pictures from the Bible. For as to
-                        Engraving in which art<note>Blake's "small / Pictures from the Bible" refers
-                            to his Biblical temperas, available through the Index of Works as <hi
-                                rend="i">Paintings Illustrating the Bible</hi>.</note></l>
+                        Engraving in which art</l>
                     <l n="lt26aug1799.1.ltr.02.17" justify="left">I cannot reproach
                                 <choice><orig>my</orig><reg>myself</reg></choice><unclear resp="nw"
                             >self</unclear> with any neglect yet I am</l>
@@ -355,9 +355,7 @@
                     <l n="lt26aug1799.1.ltr.03.15" justify="left" indent="8">With Mine &amp; My
                         <choice><orig>Wifes</orig><reg>Wife's</reg></choice> best compliments to</l>
                     <l n="lt26aug1799.1.ltr.03.16" justify="left"><choice><orig>Mr<hi rend="superscript">s</hi></orig><reg>Mrs</reg></choice>
-                            Cumberland<space extent="4"/>I remain<note>Bentley (*Writings* volume 2, page 1530) and Erdman (page 704) read
-                                "Mr<hi rend="superscript">s</hi>" as "M<hi rend="superscript"
-                            >rs</hi>".</note>
+                            Cumberland<space extent="4"/>I remain<note>Bentley (*Writings* volume 2, page 1530) and Erdman (page 704) read the "rs" in "Mrs" in superscript.</note>
                     </l>
                     <l n="lt26aug1799.1.ltr.03.17" justify="left" indent="24">Yours
                             Sincerely<note>Erdman (page 704) and Keynes (*Letters*,
