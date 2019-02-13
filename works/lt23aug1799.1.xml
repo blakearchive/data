@@ -16,8 +16,8 @@
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 29.3KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
-                to ??KB</extent>
+            <extent>1 XML file approx. 29.3KB; 6 JPEG (ISO/IEC 10918) files ranging in size from 207.4KB
+                to 1.8MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
                     Archives<date>February 2019</date>
             </publicationstmt>
@@ -25,7 +25,7 @@
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
@@ -46,8 +46,7 @@
                     <role>delineator </role>
                 </origination>
                 <compdate value="1799.B">1799<note>Erdman (page 702) mentions a postmark of 28
-                        August in brackets, which may appear on a surface not included in the images
-                        for this letter, either on a separate cover or on the second verso.</note>
+                        August in brackets, which may appear either on a separate cover or on the second verso, neither of which is included in the images for this letter.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -64,7 +63,7 @@
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>1795</watermark>
-                <binding>loose</binding>
+                <binding>none</binding>
                 <postmark>none</postmark>
                 <sealDesc>red wafer</sealDesc>
                 <addressee>Dr. John Trusler</addressee>
@@ -133,7 +132,7 @@
                     <l n="lt23aug1799.1.ltr.01.07" justify="left">company. I had hoped your plan
                         comprehended All Species'</l>
                     <l n="lt23aug1799.1.ltr.01.08" justify="left">of this Art &amp; Especially that
-                        you would not reject that Species '</l>
+                        you would not reject that Species</l>
                     <l n="lt23aug1799.1.ltr.01.09" justify="left">which gives Existence to Every
                         other. namely Visions of Eternity<note>Bentley (*Writings*
                             volume 2, page 1526) reads “Visions” as “visions”. </note>
@@ -170,10 +169,7 @@
                     <l n="lt23aug1799.1.ltr.01.18" justify="left">is. That I have supposed
                         Malevolence without a Cause. _ Is</l>
                     <l n="lt23aug1799.1.ltr.01.19" justify="left">not Merit in one a Cause of Envy
-                        in ano<subst>
-                            <del type="overwrite">th</del>
-                            <add type="overwrite" place="inline">t</add>
-                        </subst><choice><orig>er</orig><reg>another</reg></choice> &amp; Serenity &amp;<note>
+                        in ano<subst><del type="overwrite">th</del><add type="overwrite" place="inline">t</add></subst><choice><orig>er</orig><reg>another</reg></choice> &amp; Serenity &amp;<note>
                             <illus filename="lt23aug1799.1.19.note.jpg"/>Blake appears to have
                             written a second "t" over the poorly formed initial "t" and part of the
                             "h" in the word "another".</note>
@@ -188,14 +184,13 @@
                     <l n="lt23aug1799.1.ltr.01.22" justify="left">of his Thievery. for many honest
                         people endure greater <choice><orig>hard</orig><reg type="split_word"
                                 >hardships</reg></choice><note>
-                            <illus filename="lt23aug1799.1.22.note.jpg"/>Bentley (*Writings* volume 2, page 1526) and Keynes (*
-                                Letters*, page 8) read "Thievery" as "Thieving". Keynes reads
+                            <illus filename="lt23aug1799.1.22.note.jpg"/>Bentley (*Writings* volume 2, page 1526) and Keynes (*Letters*, page 8) read "Thievery" as "Thieving". Keynes reads
                             the words split between lines 22 and 23, “hard ships”, as a single word,
                             “hardships”.</note>
                     </l>
                     <l n="lt23aug1799.1.ltr.01.23" justify="left"
                                 ><choice><orig>ships</orig><reg>hardships</reg></choice> with
-                        Fortitude. We must therefore seek the Cause else where<note>Erdman (page
+                        Fortitude We must therefore seek the Cause else where<note>Erdman (page
                             702) and Keynes (*Letters*, page 9) read “else where” as “elsewhere”.</note>
                     </l>
                     <l n="lt23aug1799.1.ltr.01.24" justify="left">than in want of Money for that is
@@ -261,9 +256,7 @@
                                 ><choice><orig>piness</orig><reg>Happiness</reg></choice> is better
                         than Mirth. I feel that a Man may be happy in</l>
                     <l n="lt23aug1799.1.ltr.02.08" justify="left">This World. And I know that This
-                        World Is a World of Imagination<note>
-                            <illus filename="lt23aug1799.2.8.note.jpg"/></note>
-                    </l>
+                        World Is a World of Imagination</l>
                     <l n="lt23aug1799.1.ltr.02.09" justify="left">&amp; Vision I see
                                 <choice><orig>Every thing</orig><reg>Everything</reg></choice> I
                         paint In This World. but <choice><orig>Every
@@ -356,7 +349,7 @@
                         </choice> of Learning Part 2 P 47 of first Edition</l>
                 </lg>
                 <lg justify="left">
-                    <l n="lt23aug1799.1.ltr.03.06" justify="left" indent="6">But I am happy to find
+                    <l n="lt23aug1799.1.ltr.03.06" justify="left" indent="5">But I am happy to find
                         a Great Majority of Fellow Mortals who</l>
                     <l n="lt23aug1799.1.ltr.03.07" justify="left">can Elucidate My Visions &amp;
                         Particularly they have been Elucidated by</l>
@@ -383,14 +376,7 @@
                     <l n="lt23aug1799.1.ltr.03.14" justify="left">has been Thirty Guineas &amp; I
                         cannot afford to do it for less. I had Twelve</l>
                     <l n="lt23aug1799.1.ltr.03.15" justify="left">for the Head I sent you as a
-                        Specimen. but after my own designs I could<note> For "the Head", Keynes (*Letters*, page 10) suggests either Blake's frontispiece
-                            to Leonard Euler's *Elements of Algebra* (1797) or the
-                            portrait of Wright of Derby in the *Monthly Magazine*
-                            (1798). Another possibility is the separate plate of Edmund Pitts, which
-                            is uncertainly dated but possibly prior to 1799 (see Essick, pages
-                            178-80); the reference to “Chalk Engraving” would be relevant to the
-                            Pitts portrait, a stipple in what could be called a “Chalk” manner. One
-                            other possibility is the portrait of John Brown in his *Elements of Medicine* (1795).</note></l>
+                        Specimen. but after my own designs I could</l>
                     <l n="lt23aug1799.1.ltr.03.16" justify="left">do at least Six times the quantity
                         of <choice><orig>labour</orig><reg>labor</reg></choice> in the same time
                         which will</l>
