@@ -15,8 +15,8 @@
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 19.5KB; 3 JPEG (ISO/IEC 10918) files ranging in size from ??KB
-                to ??KB</extent>
+            <extent>1 XML file approx. 19.3KB; 6 JPEG (ISO/IEC 10918) files ranging in size from 174KB
+                to 1.6MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
                 Archives<date>February 2019</date>
             </publicationstmt>
@@ -24,7 +24,7 @@
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and
             Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance
             with the Fair Use provisions of U.S. copyright law. Redistribution or republication on
             other terms, in any medium, requires express written consent from the editors and
@@ -51,8 +51,8 @@
                 <objorder>1-3</objorder>
                 <objsize>full sheet 19.4 x 31 cm.</objsize>
                 <numberleaves>2<note>The full sheet was folded to form two leaves, with Blake's
-                    letter written on the first recto (object 1), first verso (object 2), and
-                    second recto (object 3) of the folded sheet. The blank second verso is not
+                    letter written on the first recto (Object 1), first verso (Object 2), and
+                    second recto (Object 3) of the folded sheet. The blank second verso is not
                     photographed.</note>
                 </numberleaves>
                 <leafsize>19.4 x 15.5 cm.</leafsize>
@@ -60,7 +60,7 @@
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <binding>loose</binding>
+                <binding>none</binding>
                 <postmark>none</postmark>
                 <sealDesc>none</sealDesc>
                 <addressee>Dr. John Trusler</addressee>
@@ -115,7 +115,7 @@
                             <illus filename="lt16aug1799.1.2.note.jpg"/>Blake places
                             the superscript "d" above a period. These are presented as consecutive
                             characters in the transcription of this line. Bentley (*Writings* volume 2, page 1524) places the superscript "d"
-                            directly above the period. Keynes (*Letters* page 6)
+                            directly above the period. Keynes (*Letters*, page 6)
                             and Erdman (page 701) omit the period below the superscript "d".
                         </note>
                     </l>
@@ -129,8 +129,7 @@
                         would not fulfill the purpose</l>
                     <l n="lt16aug1799.1.ltr.01.07" justify="left">for which alone I live. which is <subst>
                         <gap reason="erasure" extent="14"/>
-                        <add type="overwrite" place="inline">in conjunction</add>
-                    </subst> with</l>
+                        <add type="overwrite" place="inline">in conjunction</add></subst> with</l>
                     <l n="lt16aug1799.1.ltr.01.08" justify="left">such men as my friend Cumberland
                         to renew the lost</l>
                     <l n="lt16aug1799.1.ltr.01.09" justify="left">Art of the Greeks</l>
@@ -138,10 +137,9 @@
                         morning for a fortnight together to</l>
                     <l n="lt16aug1799.1.ltr.01.11" justify="left">follow your Dictate but when I
                         found my attempts were</l>
-                    <l n="lt16aug1799.1.ltr.01.12" justify="left">in vain.<choice><orig>resolvd</orig><reg>resolved</reg></choice>
+                    <l n="lt16aug1799.1.ltr.01.12" justify="left">in vain. <choice><orig>resolvd</orig><reg>resolved</reg></choice>
                         to <choice><orig>shew</orig><reg>show</reg></choice> an independence which I know</l>
-                    <l n="lt16aug1799.1.ltr.01.13" justify="left">will please <choice><orig>an</orig><reg>any</reg></choice><del type="wash">y</del>
-                        <space extent="1"/>
+                    <l n="lt16aug1799.1.ltr.01.13" justify="left">will please <choice><orig>an</orig><reg>any</reg></choice><del type="wash">y</del> 
                         <subst>
                             <del>a</del>
                             <add type="overwrite" place="inline">A</add>
@@ -199,8 +197,7 @@
                             <del type="overwrite">
                                 <gap extent="6" reason="overwrite"/>
                             </del>
-                            <add type="overwrite" place="inline">the Spir</add>
-                        </subst><choice><orig>it</orig><reg>Spirit</reg></choice> of my Invention. But I hope that none<note>
+                            <add type="overwrite" place="inline">the Spir</add></subst><choice><orig>it</orig><reg>Spirit</reg></choice> of my Invention. But I hope that none<note>
                             <illus filename="lt16aug1799.2.9.note.jpg"/>Erdman (page 701)
                             reads "some of m" underneath the overwritten script of "the
                             Spirit".</note></l>
@@ -251,8 +248,8 @@
                 <lg justify="left">
                     <l n="lt16aug1799.1.ltr.03.01" justify="left">same terms. by this means you will have a number of<note>Bentley (*Writings*, volume 2, page 1525) reads "by" as "By".</note></l>
                     <l n="lt16aug1799.1.ltr.03.02" justify="left">Cabinet pictures. which I flatter myself will not be unworthy</l>
-                    <l n="lt16aug1799.1.ltr.03.03" justify="left">of a scholar of <choice><orig>Rembrant</orig><reg>Rembrandt</reg></choice> &amp; <choice><orig>Teniers</orig><reg>David Teniers.</reg></choice> whom I have Studied<note>Bentley (*Writings*, volume 2, page 1525), Erdman (page 701), and Keynes (*Letters*, page 8) read “scholar” for “Scholar”; Bentley and Keynes read "Rembrant" as "Rembrandt".</note></l>
-                    <l n="lt16aug1799.1.ltr.03.04" justify="left">no less than <choice><orig>Rafael</orig><reg>Raphael</reg></choice> &amp;<choice><orig>Michael angelo</orig><reg>Michelangelo</reg></choice> Please to send</l>
+                    <l n="lt16aug1799.1.ltr.03.03" justify="left">of a scholar of <choice><orig>Rembrant</orig><reg>Rembrandt</reg></choice> &amp; <choice><orig>Teniers</orig><reg>David Teniers</reg></choice>. whom I have Studied<note>Bentley (*Writings*, volume 2, page 1525) and Keynes (*Letters*, page 8) read "Rembrant" as "Rembrandt".</note></l>
+                    <l n="lt16aug1799.1.ltr.03.04" justify="left">no less than <choice><orig>Rafael</orig><reg>Raphael</reg></choice> &amp; <choice><orig>Michael angelo</orig><reg>Michelangelo</reg></choice>. Please to send</l>
                     <l n="lt16aug1799.1.ltr.03.05" justify="left">me your orders respecting this &amp; In my next Effort</l>
                     <l n="lt16aug1799.1.ltr.03.06" justify="left">I promise more Expedition</l>
                     <l n="lt16aug1799.1.ltr.03.07" justify="left" indent="21">I am <choice><orig>Rev<hi rend="superscript">d</hi></orig><reg>Reverend</reg></choice> Sir</l>
