@@ -44,8 +44,8 @@
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>1 XML file approx. 11.9KB; 2 JPEG (ISO/IEC 10918) files ranging in size from
-                ??KB to ??KB</extent>
+            <extent>1 XML file approx. 11.8KB; 2 JPEG (ISO/IEC 10918) files ranging in size from
+                168.9KB to 1.2MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
                     Archives<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
@@ -84,7 +84,7 @@
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
                 <objsize>full sheet 21.5 x 16.5 cm.</objsize>
-                <numberleaves>1<note>The letter is on one side of a single leaf (object 1), which
+                <numberleaves>1<note>The letter is on one side of a single leaf (Object 1), which
                         was folded to form a sealed packet.</note>
                 </numberleaves>
                 <leafsize>21.5 x 16.5 cm.</leafsize>
@@ -96,7 +96,7 @@
                         watermark present in his letters of 31 January 1826, 16 July 1826, and 12
                         April 1827.</note></support>
                 <watermark>none</watermark>
-                <binding>loose</binding>
+                <binding>none</binding>
                 <postmark>none</postmark>
                 <sealDesc>wafer</sealDesc>
                 <addressee>Maria Denman, sister-in-law of John Flaxman</addressee>
@@ -145,14 +145,12 @@
                 <windowsize width="810" height="1000"/>
             </physdesc>
             <phystext>
+                <vspace extent="5"/>
                 <lg justify="left">
                     <l n="lt18march1827.1.ltr.01.01" justify="left" indent="2"><choice><orig>M<hi
                             rend="superscript">r</hi></orig><reg>Mr</reg></choice>
                         <choice><orig>Blakes</orig><reg>Blake's</reg></choice>
-                        <subst>
-                            <del type="overwrite">p</del>
-                            <add type="overwrite" place="inline">r</add>
-                        </subst><choice><orig>espectful</orig><reg>respectful</reg></choice>
+                        <subst><del type="overwrite">p</del><add type="overwrite" place="inline">r</add></subst><choice><orig>espectful</orig><reg>respectful</reg></choice>
                         Compliments to Miss Denman</l>
                     <l n="lt18march1827.1.ltr.01.02" justify="left">has found 15 Proofs of The
                         Hesiod as they are<note>Erdman (page 783) reads "The" as "the".</note></l>
@@ -163,10 +161,7 @@
                         </choice></l>
                     <l n="lt18march1827.1.ltr.01.04" justify="left">at Miss Denmans Service if she
                         will accept of them</l>
-                    <l n="lt18march1827.1.ltr.01.05" justify="left">what Proofs he has remaining a<subst>
-                            <del type="overwrite">ll</del>
-                            <add type="overwrite" place="inline">re</add>
-                        </subst> all Printed on both<note>Erdman (page 783) reads "what" as "What"
+                    <l n="lt18march1827.1.ltr.01.05" justify="left">what Proofs he has remaining a<subst><del type="overwrite">ll</del><add type="overwrite" place="inline">re</add></subst> all Printed on both<note>Erdman (page 783) reads "what" as "What"
                             and "Printed" as "printed".</note></l>
                     <l n="lt18march1827.1.ltr.01.06" justify="left">sides of the Paper &#38; so are
                         unfit for to make up a set<note>Bentley (*Writings* volume
@@ -186,10 +181,7 @@
                             Morn<unclear resp="HS"
                                 >in</unclear><choice><orig>g</orig><reg>Morning</reg></choice>
                     </l>
-                    <l n="lt18march1827.1.ltr.01.11" justify="left" indent="3">18 March 1<subst>
-                            <del type="overwrite">7</del>
-                            <add place="inline">8</add>
-                        </subst>27</l>
+                    <l n="lt18march1827.1.ltr.01.11" justify="left" indent="3">18 March 1<subst><del type="overwrite">7</del><add place="inline">8</add></subst>27</l>
                     <l n="lt18march1827.1.ltr.01.12" justify="left">3 Fountain Court Stra<unclear
                             resp="hs"
                         ><choice><orig>nd</orig><reg>Strand</reg></choice></unclear></l>

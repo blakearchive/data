@@ -65,7 +65,7 @@
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none visible</watermark>
-                <binding>loose</binding>
+                <binding>none</binding>
                 <postmark>none</postmark>
                 <sealDesc>none</sealDesc>
                 <addressee>John Linnell</addressee>
@@ -97,10 +97,10 @@
                     Shelves Blake)</repositoryid>
             </repository>
         </source>
-        <desc id="ltapril1827.1.ltr.01" dbi="ltapril1827.1.1.lt">
+        <desc id="ltapril1827.1.ltr.01" dbi="ltapril1827.1.1.LT">
             <objtitle>
                 <title type="editorial">Address</title>, <objid>
-                    <objnumber code="A1">Object 1 </objnumber>
+                    <objnumber code="A1">Object 1</objnumber>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
@@ -126,9 +126,9 @@
                 </lg>
             </phystext>
         </desc>
-        <desc id="ltapril1827.1.ltr.02" dbi="ltapril1827.1.2.lt">
+        <desc id="ltapril1827.1.ltr.02" dbi="ltapril1827.1.2.LT">
             <objtitle><title type="transcribed">I am still far from recoverd</title>, <objid>
-                    <objnumber code="A2">Object 2 </objnumber>
+                    <objnumber code="A2">Object 2</objnumber>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
