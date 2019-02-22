@@ -1,0 +1,390 @@
+<bad id="bb134.42" type="ms" work="Accounts March 1823 to November 1825" copy="42" copyid="42"
+    institution="yale" catalog="bentley" catid="bb134.42">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Accounts March 1823 to November 1825">
+                    <main>Accounts March 1823 to November 1825</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                        Essick,</name>University of California, Riverside; and <name>Joseph
+                            Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 20KB; 6 JPEG (ISO/IEC 10918) files ranging in size from approx. 130KB
+                to 1.3MB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
+                Archives<date>February 2019</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
+            in any medium, requires express written consent from the editors and advance notification
+            of the publisher. Permission to reproduce the graphic images in this archive has been
+            granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright &#169; 2018 Yale University Library.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>February 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>
+                    Textual transcriptions and notes
+                </change>
+                <date>September 2017</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Alison Harper,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Emily Tronson,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Alex Zawacki</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BADs created</change>
+                <date>January 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher</name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Accounts March 1823 to November 1825</title>
+                </objtitle>
+                <origination>William Blake<role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1823">1823-1825</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>4</numberobj>
+                <objorder>1-4</objorder>
+                <objsize/>
+                <numberleaves>3<note/>
+                </numberleaves>
+                <leafsize/>
+                <medium>pen and ink</medium>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <framelines>none</framelines>
+                <binding>none</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Yale University Library</name>
+                <date>1956</date>
+                <dealer>W.H. Robinson</dealer>
+                <price>£78 15s</price>
+                <note>
+                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                </note>
+            </provenance>
+            <repository>
+                <institution>Yale University Library</institution>
+                <addressline>180 York St</addressline>
+                <addressline>New Haven</addressline>
+                <addressline>Connecticut 06511</addressline>  
+                <addressline>United States of America</addressline>
+                <addressline>Telephone: 203-432-2645</addressline>
+                <addressline>E-mail: askyale@gmail.com</addressline>
+                <addressline>https://web.library.yale.edu/</addressline>
+                <department>Beinecke Rare Book and Manuscript Library</department>
+                <collection>William Blake Collection</collection>
+                <repositoryid label="Call number">GEN MSS 914 Series I</repositoryid>
+            </repository>
+        </source>
+        <desc id="bb134.42.ms.01" dbi="BB134.42.1.MS">
+            <objtitle>
+                <title type="transcribed">March 1823 </title>
+                <title type="alt">Accounts Between Blake and John Linnell, March 1823 to November 1825, page 1</title>, 
+                <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="B42-1">(Bentley Receipt 42.1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a full sheet of paper 17.5 x 11.5 cm.</objsize>
+                <objnote><p>The full receipt, of which this is one page, is written on both sides of three loose sheets, some of which have page numbers in the top left corner. This page is numbered "2". Keynes (<hi rend="i">Letters</hi>, 151) notes that this page is the recto of second sheet. </p>
+                    <p>The receipt is written in Linnell's hand with Blake's initials against each sum.</p>
+                    <p>A significant part of the object is written in pencil and overwritten in pen.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">                 
+                    <l n="bb134.42.ms.01.01" justify="left" indent="15"><hi rend="u">1823</hi><space extent="21"/><hi rend="u">2</hi></l>
+                    <l n="bb134.42.ms.01.02" justify="left">March</l>
+                    <l n="bb134.42.ms.01.03" justify="left" indent="1">20-<space extent="3"/>To M<hi rend="superscript">r</hi>. Blake - 1<hi rend="superscript">st</hi> payment<space extent="4"/>&#163;<space extent="2.5"/><handshift medium="pencil">-</handshift>s</l>
+                    <l n="bb134.42.ms.01.04" justify="left" indent="6.5">on account of J<hi rend="u">o</hi>b- -<space extent="8"/><handshift medium="pencil"><space extent="2"/>-</handshift>5<handshift medium="pencil">. -</handshift> 0</l>
+                    <l n="bb134.42.ms.01.05" justify="left" indent="8.5">see memorandum of</l>
+                    <l n="bb134.42.ms.01.06" justify="left" indent="6">agreement . &#38;c..<space extent="3"/><handshift medium="pencil">-</handshift><space extent="9"/>WB</l>
+                    <l n="bb134.42.ms.01.07" justify="left">May<hi rend="sub">2</hi>&#176;<space extent="6"/>Cash<space extent="2"/>D&#176;<space extent="6.5"/><handshift medium="pencil">-</handshift><space extent="6.5"/>3 -<space extent="2"/>0.</l>
+                    <l n="bb134.42.ms.01.08" justify="left" indent="33">WB</l>
+                    <l n="bb134.42.ms.01.09" justify="left" indent="2"><handshift medium="pencil">_</handshift><space extent="10"/><subst><del type="overwrite"><handshift medium="pencil">Cash</handshift></del><add>D&#176;</add></subst><space extent="2"/>D&#176;<handshift medium="pencil">-<space extent="2"/>-<space extent="2"/>-</handshift><space extent="6"/>10 -<space extent="2"/>0</l>
+                    <l n="bb134.42.ms.01.10" justify="left" indent="33">WB</l>
+                    <l n="bb134.42.ms.01.11" justify="left">July 11<space extent="5"/>D&#176;<space extent="3"/>D&#176;<space extent="16"/>3 -<space extent="2"/>0</l>
+                    <l n="bb134.42.ms.01.12" justify="left" indent="33">WB</l>
+                    <l n="bb134.42.ms.01.13" justify="left">Aug<hi rend="superscript">t</hi>- 2-<space extent="5.5"/>D&#176;<space extent="2"/>D&#176;<space extent="15"/>2 -<space extent="2"/>0</l>
+                    <l n="bb134.42.ms.01.14" justify="left" indent="33">WB</l>
+                    <l n="bb134.42.ms.01.15" justify="left" indent="5">17<space extent="5.5"/>D&#176;_<space extent="2"/>D&#176;________<space extent="1"/>WB 1 _ 0</l>
+                    <l n="bb134.42.ms.01.16" justify="left">Sep 3 _<space extent="5.5"/>D&#176;__ <space extent ="1"/>D&#176;________ WB 2<space extent="1"/> _0</l>
+                    <l n="bb134.42.ms.01.17" justify="left" indent="3.5">14<space extent="3"/>_<space extent="3"/> D&#176; __ D&#176;_________WB 1<space extent="1"/>_ 0</l>
+                    <l n="bb134.42.ms.01.18" justify="left" indent="3.5">25<space extent="7.5"/>D&#176;__ <handshift medium="pencil">D</handshift> D&#176;_________<hi rend="u">W</hi>B 2<space extent="1"/>_ 0</l>
+                    <l n="bb134.42.ms.01.19" justify="left">Oc<hi rend="superscript">t</hi>. 12<space extent="2"/>_<space extent="3.5"/>D&#176;__ <handshift medium="pencil">D</handshift> D&#176;________ WB 1<space extent="1"/> _ 0</l>
+                    <l n="bb134.42.ms.01.20" justify="left" indent="4.5">20<space extent="6"/>D&#176;__ <handshift medium="pencil">D</handshift> D&#176; ________<hi rend="u">W</hi>B 1<space extent="1.5"/>_ 0</l>
+                    <l n="bb134.42.ms.01.21" justify="left">Nov<hi rend="superscript">r</hi><hi rend="sub">6</hi>. <space extent="2"/>_<space extent="3.5"/>D&#176;__ <handshift medium="pencil">D</handshift> D&#176;________ <hi rend="u">WB 1<space extent="1.5"/>_ 0</hi></l>
+                    <l n="bb134.42.ms.01.22" justify="left" indent="30">&#163; 32  .  .<del type="erasure"><handshift medium="pencil">0</handshift></del> <unclear>0</unclear></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.42.ms.02" dbi="BB134.42.2.MS">
+            <objtitle>
+                <title type="transcribed">March 1823 to July 1824</title>
+                <title type="alt">Accounts Between Blake and John Linnell, March 1823 to November 1825, page 2</title>, 
+                <objid>
+                    <objnumber code="A2">Object 2 </objnumber>
+                    <objcode code="B42-2">(Bentley Receipt 42.2)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a full sheet of paper 17.5 x 11.5 cm.</objsize>
+                <objnote><p>The full receipt, of which this is one page, is written on both sides of three loose sheets, some of which have page numbers in the top left corner. This page is not numbered. Keynes (<hi rend="i">Letters</hi>, 151) notes that this page is the verso of the second sheet. </p>
+                    <p>The receipt is written in Linnell's hand with Blake's initials against each sum.</p>
+                    <p>A significant part of the object is written in pencil and overwritten in pen.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.42.ms.02.01" justify="left" indent="19">1823</l>
+                    <l n="bb134.42.ms.02.02" justify="left" indent="7">Cash Paid to M<hi rend="superscript">r</hi> Blake on<space extent="5.5"/> &#163; _ s .</l>
+                    <l n="bb134.42.ms.02.03" justify="left">Nov<hi rend="superscript">r</hi>.<space extent="1"/> account of Job______.</l>
+                    <l n="bb134.42.ms.02.04" justify="left" indent="1">_<space extent="10"/>Bro<hi rend="superscript">t</hi>. over __________<space extent="2"/> 32 _ 0</l>
+                    <l n="bb134.42.ms.02.05" justify="left" indent="3">13<space extent="1.5"/>_<space extent="3"/>Cash _______________WB 1 _ 0</l>
+                    <l n="bb134.42.ms.02.06" justify="left" indent="3">15 .<space extent="4.5"/>D&#176; <space extent="1.5"/> Balmano's Sub.<space extent="3"/>WB 1 _ 0<note>Keynes (<hi rend="i">Letters</hi>, p. 151) reads “Balmano’s” as “Balmanno’s”.</note></l>
+                    <l n="bb134.42.ms.02.07" justify="left" indent="3">18 .<space extent="4.5"/>D&#176;<handshift medium="pencil">-</handshift> __<handshift medium="pencil">-_________</handshift><space extent="7"/>WB 6 _ 0</l>
+                    <l n="bb134.42.ms.02.08" justify="left">Dec<hi rend="superscript">r</hi>.15 <space extent="3.5"/>D&#176; _____<space extent="3"/> _____<space extent="4"/> WB 5 _ 0</l>
+                    <l n="bb134.42.ms.02.09" justify="left">1824<space extent="6"/> M<hi rend="superscript">r</hi> Leigh's Sub.s. _____WB 2_0<note>Keynes (<hi rend="i">Letters</hi>, p. 151) reads “Sub.s.” as “Sub.”</note></l>
+                    <l n="bb134.42.ms.02.10" justify="left">Jan 10.<space extent="4.5"/>Cash&#8212;<handshift>_____________</handshift>WB 5_0.0</l>
+                    <l n="bb134.42.ms.02.11" justify="left" indent="11.5">Coals ______________ WB 3 . 5.9</l>
+                    <l n="bb134.42.ms.02.12" justify="left">Feb. 2<hi rend="superscript">d</hi>.<space extent="4"/>Cash<space extent="4"/>____<space extent="5"/> ___WB 5_0.0</l>
+                    <l n="bb134.42.ms.02.13" justify="left" indent="4">21<space extent="5"/>D&#176;___________<space extent="7.5"/>WB 10_0_0</l>
+                    <l n="bb134.42.ms.02.14" justify="left">March 29. <space extent="2"/>D&#176;<handshift medium="pencil">_______________</handshift><space extent="2"/>WB 5 <subst><del type="overwrite"><handshift medium="pencil">0</handshift></del><add>-</add></subst></l>
+                    <l n="bb134.42.ms.02.15" justify="left">May <space extent="2"/>4<space extent="4"/>D&#176; M<hi rend="superscript">r.</hi> Muss’s Sub_____WB 1 <subst><del type="overwrite"><handshift medium="pencil">0</handshift></del><add>-</add></subst></l>
+                    <l n="bb134.42.ms.02.16" justify="left" indent="6"> 6<space extent="4"/>D&#176; __<handshift medium="pencil">______________</handshift> WB 10 <subst><del type="overwrite"><handshift medium="pencil">0</handshift></del><add>-</add></subst></l>
+                    <l n="bb134.42.ms.02.17" justify="left" indent="1">June 11.<space extent="3.5"/>D&#176; ________________ WB 5 __</l>
+                    <l n="bb134.42.ms.02.18" justify="left" indent="12">1 Chaldron of Coals<space extent="3"/>_WB 1 .17 .</l>
+                    <l n="bb134.42.ms.02.19" justify="left">July 6 .<space extent="5"/>Cash by D<hi rend="superscript">r</hi> Thornton’s order.<handshift medium="pencil"><unclear resp="OS">Mr</unclear> Po<unclear type="character" extent="2" resp="OS"></unclear></handshift><hi rend="u"><unclear resp="OS">W</unclear>B 5. 5.<space extent="1"/></hi><note><illus filename="bb134.42.2.ms.01.19.note.jpg"/>Unclear pencil marks under "Mr. Thornton" and the words "Mr. Po" written in pencil are visible at the end of the line. Bentley (*Blake Records*, 806) reads "pd by M<hi rend="supercript">r</hi>Post".</note></l>
+                    <l n="bb134.42.ms.02.20" justify="left" indent="41"><handshift medium="pencil">98.7.9</handshift></l>
+                </lg>
+            </phystext>
+        </desc>   
+        <desc id="bb134.42.ms.03" dbi="BB134.42.3.MS">
+            <objtitle>
+                <title type="transcribed">August 1824 to November 1825</title>
+                <title type="alt">Accounts Between Blake and John Linnell, March 1823 to November 1825, page 3</title>, 
+                <objid>
+                    <objnumber code="A3">Object 3 </objnumber>
+                    <objcode code="B42-3">(Bentley Receipt 42.3)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a full sheet of paper 17.5 x 11.5 cm.</objsize>
+                <objnote><p>The full receipt, of which this is one page, is written on both sides of three loose sheets, some of which have page numbers in the top left corner. This page is numbered "1". Keynes (<hi rend="i">Letters</hi>, 152) notes that this page is the recto of first sheet. </p>
+                    <p>The receipt is written in Linnell's hand with Blake's initials against each sum.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb134.42.ms.03.01" justify="left" indent="35"><hi rend="u">1</hi></l>
+                    <l n="bb134.42.ms.03.02" justify="left" indent="1">Aug<hi rend="superscript">t.</hi> 18<hi rend="superscript">h.</hi> 1824 .</l>
+                    <l n="bb134.42.ms.03.03" justify="left" indent="6">Cash on account of<space extent="7"/>&#163;</l>
+                    <l n="bb134.42.ms.03.04" justify="left" indent="4">The Portrait of M<hi rend="superscript">r</hi>. Lowry<note>Keynes (<hi rend="i">Letters</hi>, p. 151) identifies this figure as Wilson Lowry, FRS (1762-1824), engraver and inventor</note> WB 5<space extent="1.5"/>–</l>
+                    <l n="bb134.42.ms.03.05" justify="left">Novembr 10<hi rend="superscript">th</hi>-<space extent="1"/>D&#176;<space extent="2"/>D&#176;<hi rend="superscript"> –</hi><space extent="4.5"/>WB 5<space extent="1.25"/>—</l>
+                    <l n="bb134.42.ms.03.06" justify="left">Dec<space extent="1.25"/><hi rend="superscript">r</hi><space extent="3.5"/>25.<space extent="4"/>D&#176;<space extent="1"/>D<hi rend="superscript"> –</hi><space extent="1.5"/>—<space extent="1"/>WB<hi rend="u"><space extent="1"/>5<space extent="1.5"/></hi>––</l>
+                    <l n="bb134.42.ms.03.07" justify="left">Jany<space extent="3.5"/>28<space extent="5.5"/>D&#176;- D –<space extent="4.25"/><hi rend="u">WB<space extent="1.25"/>5<space extent="1.25"/>- –</hi></l>
+                    <l n="bb134.42.ms.03.08" justify="left">1825</l>
+                    <l n="bb134.42.ms.03.09" justify="left" indent="6">For Sketches of</l>
+                    <l n="bb134.42.ms.03.10" justify="left" indent="6">Subjects from</l>
+                    <l n="bb134.42.ms.03.11" justify="left" indent="6">Dante <hi rend="superscript">.</hi><space extent="2"/>–—<space extent="12.5"/><hi rend="u">5<space extent="1.5"/>––</hi></l>
+                    <l n="bb134.42.ms.03.12" justify="left" indent="11">Carried to page<space extent="3"/>5 .</l>
+                    <l n="bb134.42.ms.03.13" justify="left" indent="2">Oc<hi rend="superscript">t.</hi> 10<hi rend="superscript">th</hi>.  on acc<hi rend="superscript">t.</hi> of Drawings</l>
+                    <l n="bb134.42.ms.03.14" justify="left" indent="4">of Paradise
+                        <choice>
+                            <orig>regaind</orig>
+                            <reg>regained</reg>
+                        </choice>—— WB<space extent="1"/>5 <space extent="1"/>- -</l>
+                    <l n="bb134.42.ms.03.15" justify="left" indent="2">Nov<hi rend="superscript">r</hi>19<hi rend="superscript">th</hi>.<space extent="1.5"/> D&#176;<hi rend="superscript"> . </hi><space extent="2"/>–<space extent="2"/>D<hi rend="superscript">- </hi><space extent="1.5"/>–<space extent="4"/>5 <space extent="1"/>- -</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.42.ms.04" dbi="BB134.42.4.MS">
+            <objtitle>
+                <title type="transcribed">January to November 1825</title>
+                <title type="alt">Accounts between Blake and John Linnell, March 1823 to November 1825, page 4</title>, 
+                <objid>
+                    <objnumber code="A4">Object 4 </objnumber>
+                    <objcode code="B42-4">(Bentley Receipt 42.4)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a full sheet of paper 17.5 x 11.5 cm.</objsize>
+                <objnote><p>The full receipt, of which this is one page, is written on both sides of three loose sheets, some of which have page numbers in the top left corner. This page is numbered "3". Keynes (<hi rend="i">Letters</hi>, 152) notes that this page is the recto of third sheet. </p>
+                    <p>The receipt is written in Linnell's hand with Blake's initials against each sum.</p>
+                    <p>A significant part of the object is written in pencil and overwritten in pen.</p>
+                    <p><illus filename="bb134.42.4.ms.01.objectnote.jpg"/>In the bottom right of the page, there are some indistinct figures and letters in pencil. Bentley (*Blake Records*, 807) and Keynes (*Letters*, 152) make no note of them.</p></objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">  
+                    <l n="bb134.42.ms.04.01" justify="left" indent="32.5">&#163;<space extent="1.5"/>s<hi rend="u"><space extent="1.5"/>3<space extent="1"/></hi></l>
+                    <l n="bb134.42.ms.04.02" justify="left" indent="1">Jany 1825<space extent="12"/>Brot over<space extent="1"/>98<space extent="1"/>7<space extent="1"/>9</l>
+                    <l n="bb134.42.ms.04.03" justify="left" indent="3">28<hi rend="superscript">h</hi>..<space extent="3"/>Cash on acc<hi rend="superscript">t</hi> of Job. WB 5 – —</l>
+                    <l n="bb134.42.ms.04.04" justify="left">March 12<space extent="2"/>D<hi rend="superscript"> –</hi><space extent="6"/>, D - -<space extent="5.5"/>WB 5<space extent="3"/>-</l>
+                    <l n="bb134.42.ms.04.05" justify="left">April 8<space extent="6"/>D<hi rend="superscript">–</hi><space extent="7"/>D<hi rend="superscript">–</hi><space extent="1.5"/>—–<space extent="1"/>WB 3 . 10</l>
+                    <l n="bb134.42.ms.04.06" justify="left" indent="1">May 3<hi rend="superscript">d</hi><space extent="4"/>D<hi rend="superscript">–</hi><space extent="4"/>— D<hi rend="superscript">–</hi> —— <space extent="1"/> WB 5 .<space extent="1.5"/>–</l>
+                    <l n="bb134.42.ms.04.07" justify="left" indent="1">June 6<space extent="5"/>D&#176;<space extent="3"/>— <space extent="1"/>D&#176;<space extent="1"/>—— WB 2<space extent="1.5"/>–<space extent="1.5"/>-</l>
+                    <l n="bb134.42.ms.04.08" justify="left" indent="8">By Coals sent in May -<space extent="1"/>WB 2. 13. 6</l>
+                    <l n="bb134.42.ms.04.09" justify="left" indent="1">Aug<hi rend="superscript">t</hi> 21<space extent="3"/>Cash<space extent="1"/>—–—–——— WB 3<space extent="1"/>—</l>
+                    <l n="bb134.42.ms.04.10" justify="left" indent="1">Sep 3<hi rend="superscript"> -</hi><space extent="4"/>D<hi rend="superscript">-</hi><space extent="1.5"/>—–—–————WB 1 <space extent="1"/>—</l>
+                    <l n="bb134.42.ms.04.11" justify="left" indent="5">4 –<space extent="3.5"/>D<hi rend="superscript">-</hi><space extent="3"/>—––—–———<hi rend="strikethrough">W</hi>B 10 –</l>
+                    <l n="bb134.42.ms.04.12" justify="left">Oc<hi rend="superscript">t</hi>- 1<hi rend="superscript">st</hi><space extent="4.5"/>D<hi rend="superscript">-</hi><space extent="3"/>—––—–———WB<space extent = "1"/> 1 —</l>
+                    <l n="bb134.42.ms.04.13" justify="left" indent="4.5">30<space extent="4.5"/>D&#176;<space extent="2"/>—––––—<space extent="10"/>5 - -</l>
+                    <l n="bb134.42.ms.04.14" justify="left" indent="11">D&#176; – by M<hi rend="superscript">r</hi> Flaxmans Sub. 3 . 3 –</l>
+                    <l n="bb134.42.ms.04.15" justify="left"><hi rend="u"><space extent="3"/></hi><space extent="8"/>D&#176;.<space extent="4"/>M<hi rend="superscript">r</hi> Calverts<space extent="1"/>D<hi rend="superscript">–</hi> –<space extent="1.5"/>1<space extent="1.5"/>—</l>
+                    <l n="bb134.42.ms.04.16" justify="left"><handshift medium="pencil"><hi rend="u">75<space extent="2"/></hi></handshift><space extent="2"/>by Sir Tho.<hi rend="superscript">s</hi> Lawrence D<hi rend="superscript">–</hi><space extent="5"/>5<space extent="2"/>5</l>
+                    <l n="bb134.42.ms.04.17" justify="left" indent="6">for one Copy - the extra 5 gs.<space extent="1"/>_______</l>
+                    <l n="bb134.42.ms.04.18" justify="left" indent="1"><handshift medium="pencil"><hi rend="superscript">1820</hi></handshift>
+                        which Sir T. L. gave<space extent="1.5"/>is <space extent="7.5"/><hi rend="u">150 19 3</hi></l>
+                    <l n="bb134.42.ms.04.19" justify="left" indent="5">not reckond
+                        <choice>
+                            <orig>reckond</orig>
+                            <reg>reckoned</reg>
+                        </choice>against Mr Blake.</l>
+                    <l n="bb134.42.ms.04.20" justify="left" indent="4.5">Sir T. L. perhaps intended<space extent="2"/>it</l>
+                    <l n="bb134.42.ms.04.21" justify="left" indent="4">for the copy presented to him for</l>
+                    <l n="bb134.42.ms.04.22" justify="left" indent="4">the library of the Royal Academy.</l>
+                </lg>
+            </phystext>
+        </desc> 
+    </objdesc>
+</bad>

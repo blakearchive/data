@@ -1,0 +1,339 @@
+<bad id="bb134.6" type="ms" work="Receipt, 3 March 1806 (for 12 May 1805 to March 1806)" copy="6" copyid="6"
+    institution="westminster" catalog="bentley" catid="bb134.6">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Receipt, 3 March 1806 (for 12 May 1805 to March 1806)">
+                    <main>Receipt, 3 March 1806 (for 12 May 1805 to March 1806)</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                        Essick,</name>University of California, Riverside; and <name>Joseph
+                            Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 6KB; 6 JPEG (ISO/IEC 10918) files ranging in size from approx. 80KB
+                to 1.5MB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
+                Archives<date>February 2019</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
+            in any medium, requires express written consent from the editors and advance notification
+            of the publisher. Permission to reproduce the graphic images in this archive has been
+            granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright &#169; 2009 City of Westminster Archives Centre.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>February 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>
+                    Textual transcriptions and notes
+                </change>
+                <date>September 2017</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Alison Harper,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Emily Tronson,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Alex Zawacki</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BADs created</change>
+                <date>January 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher</name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Receipt, 3 March 1806 (for 12 May 1805 to March 1806)</title>
+                </objtitle>
+                <origination>William Blake<role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1805">1805-1806</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>3</numberobj>
+                <objorder>1-3</objorder>
+                <objsize/>
+                <numberleaves>2<note/>
+                </numberleaves>
+                <leafsize/>
+                <medium>pen and ink</medium>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <framelines>none</framelines>
+                <binding>none</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>City of Westminster Archives Centre</name>
+                <date>1967</date>
+                <dealer></dealer>
+                <price>Not recorded</price>
+                <note>Thomas Butts; from the Butts collection; acquired from Butt’s grandson, Captain Butts between 1903 and 1906 by the late W. Graham Robertson; bequeathed by Robertson to his executor, Kerrison Preston about 1948; presented by Preston with his Blake collection to the City of Westminster Reference Library in 1967. </note>
+            </provenance>
+            <repository>
+                <institution>City of Westminster Archives Centre</institution>
+                <addressline>10 St. Ann's Street</addressline>
+                <addressline>London</addressline>
+                <addressline>SW1P 2DE</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 020 7641 5180</addressline>
+                <addressline>Fax: 020 7641 5179</addressline>
+                <addressline>E-mail: archives@westminster.gov.uk</addressline>
+                <addressline>URL: https://www.westminster.gov.uk/archives</addressline>
+                <department>Special Collections</department>
+                <collection>Preston Blake Collection</collection>
+                <repositoryid label="Call number">Accession 924</repositoryid>
+            </repository>
+        </source>
+        <desc id="bb134.6.ms.01" dbi="BB134.6.1.MS">
+            <objtitle>
+                <title type="transcribed">May-December 1805, page 1</title>
+                <title type="alt">Accounts between Blake and Thomas Butts, May-December 1805</title>, 
+                <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="B6-1">(Bentley Receipt 6.1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a sheet of paper 15.6 x 18.9 cm.</objsize>
+                <objnote>
+                    <p>This receipt is written on both sides of a full sheet of paper and continued on a slip of paper attached by a wafer to the sheet. This object is the recto.</p>            
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">  
+                    <l n="bb134.6.ms.01.01" justify="left" indent="10">M<hi rend="superscript">r</hi> Butts &#8212; <space extent="32"/>D.<hi rend="superscript">r</hi><space extent="4"/>____________________________ C<hi rend="superscript">r</hi></l>
+                    <l n="bb134.6.ms.01.02" justify="left" indent="6">May 12 1805<space extent="38"/>Jan<hi rend="superscript">y</hi> 12</l>
+                    <l n="bb134.6.ms.01.03" justify="left" indent="9">Due on Account<space extent="13"/>_________0.4.0<space extent="5"/><hi rend="strikethrough">By Cash</hi>______________________ 12.12.0</l>
+                    <l n="bb134.6.ms.01.04" justify="left" indent="6">12 Drawings Viz</l>
+                    <l n="bb134.6.ms.01.05" justify="left" indent="6">1 Famine 2 War 3 Moses Striking the Rock</l>
+                    <l n="bb134.6.ms.01.06" justify="left" indent="6">4 Ezekiels Wheels 5 Christ girding himself</l>
+                    <l n="bb134.6.ms.01.07" justify="left" indent="6">with Strength 6 Four &amp; twenty Elders</l>
+                    <l n="bb134.6.ms.01.08" justify="left" indent="6">7 Christ Baptizing 8 Samson <choice><orig>breakg</orig><reg>breaking</reg></choice> bonds
+                        <note>Keynes (<hi rend="i">Letters</hi>, 113) reads "breakg" as "breaking". Bentley (<hi rend="i">Blake Records</hi>, 764) reads "breakg" as "break<hi rend="supercript">g</hi>"</note>.</l>
+                    <l n="bb134.6.ms.01.09" justify="left" indent="6">9 Samson <choice><orig>subdud</orig><reg>subdued</reg></choice> 10 Noah &amp; Rainbow
+                        <note>Keynes (<hi rend="i">Letters</hi>, 113) reads "subdud" as "subdu'd".</note></l>
+                    <l n="bb134.6.ms.01.10" justify="left" indent="6">11 Wise &amp; foolish Virgins 12 Hell beneath is</l>
+                    <l n="bb134.6.ms.01.11" justify="left" indent="7">moved for thee &amp;<hi rend="superscript">c</hi> from Isaiah __________12.12.0</l>
+                    <l n="bb134.6.ms.01.12" justify="left" indent="9">5 July<space extent="42"/>5 July</l>
+                    <l n="bb134.6.ms.01.13" justify="left" indent="12">4 Prints Viz<space extent="37"/>By D&#176;_______________________5.7.0</l>
+                    <l n="bb134.6.ms.01.14" justify="left" indent="6">1 Good &amp; Evil Angel 2 House of Death</l>
+                    <l n="bb134.6.ms.01.15" justify="left" indent="6">3 God <subst><del>Creating</del><add>Judging</add></subst> Adam 4 Lamech __ 4.4.0
+                        <note><illus filename="bb134.6.1.ms.01.15.note.jpg"/>Bentley (*Blake Records*, 764) reads the deletion as"Creating" and the addition as "Judging".Keynes (*Letters*, 113) reads "Judging".</note></l>
+                    <l n="bb134.6.ms.01.16" justify="left" indent="6">21 <choice><orig>Aug</orig><reg>August</reg></choice><hi rend="superscript">st</hi></l>
+                    <l n="bb134.6.ms.01.17" justify="left" indent="12">4 N<hi rend="superscript">os</hi> of Haleys Ballads ___  0.10.0</l>
+                    <l n="bb134.6.ms.01.18" justify="left" indent="6">7 <choice><orig>Sept<hi rend="superscript">r</hi></orig><reg>September</reg></choice></l>
+                    <l n="bb134.6.ms.01.19" justify="left" indent="16">4 Prints Viz<space extent="29"/>7<choice><orig>Sept<hi rend="superscript">r</hi></orig><reg>September</reg></choice></l>
+                    <l n="bb134.6.ms.01.20" justify="left" indent="6">1 Nebuchadnezzar 2 Newton</l>
+                    <l n="bb134.6.ms.01.22" justify="left" indent="6">3 God Creating Adam 4 Christ <add type="overwrite">appearing</add> __ 4.4.0
+                        <note><illus filename="bb134.6.1.ms.01.22.note.jpg"/>Bentley (*Blake Records*, 764) and Keynes (*Letters*, 113) read the addition as "appearing".</note></l>
+                    <l n="bb134.6.ms.01.23" justify="left" indent="4"><choice><orig>Dec<hi rend="superscript">. r</hi></orig><reg>December</reg></choice>12.</l>
+                    <l n="bb134.6.ms.01.24" justify="left" indent="12">Touch<hi rend="superscript">g</hi> up Christ Baptizing _____ <hi rend="u">1.1.0</hi><space extent="28"/>__________</l>
+                    <l n="bb134.6.ms.01.25" justify="left" indent="15">Should be 22.15.<space extent="9"/>&#163;21.15.0<space extent="12"/>Should be &#163;22.3<space extent="12"/>&#163;21.3.0</l> 
+                </lg>
+            </phystext>
+        </desc>   
+        <desc id="bb134.6.ms.02" dbi="BB134.6.2.MS">
+            <objtitle>
+                <title type="transcribed">May-December 1805, page 2</title>
+                <title type="alt">Accounts between Blake and Thomas Butts, May-December 1805</title>, 
+                <objid>
+                    <objnumber code="A2">Object 2 </objnumber>
+                    <objcode code="B6-2">(Bentley Receipt 6.2)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a sheet of paper 15.6 x 18.9 cm.</objsize>
+                <objnote>
+                    <p>This receipt is written on both sides of a full sheet of paper and continued on a slip of paper attached by a wafer to the sheet. This object is the verso .</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>  
+            <phystext>
+                <lg justify="left">  
+                    <l n="bb134.6.ms.02.01" justify="left" indent="5">D.<hi rend="superscript">r</hi>  M<hi rend="superscript">r</hi>. Butts  ______<space extent="38"/>C.<hi rend="superscript">r</hi></l>
+                    <l n="bb134.6.ms.02.02" justify="left" indent="5">Bro:<hi rend="superscript">t</hi> over ___________ <space extent="5"/>&#163;22.15 ._<space extent="10"/>Bro:<hi rend="superscript">t</hi> over ______ &#163;22,,3. ___</l>
+                    <l n="bb134.6.ms.02.03" justify="left" indent="6">Drawings &amp;c <unclear type="2" extent="2" resp="OS"/> sent<space extent="20"/>Balance due from me</l>
+                    <l n="bb134.6.ms.02.04" justify="left" indent="10">from Felpham___}<space extent="6"/>14,,14 <space extent="8"/>previous to my going
+                        <note>Lines 3-4 are enclosed by an incomplete parenthesis on the right.</note></l>
+                    <l n="bb134.6.ms.02.05" justify="left" indent="5">Urizen, heaven &#38;c <space extent="25"/>to Felpham _________<space extent="3"/>14,,10.8</l>
+                    <l n="bb134.6.ms.02.06" justify="left" indent="7">&amp; Songs of Experience &#8212;<space extent="16"/>By Coals to 5: <choice><orig>Octo.<hi rend="superscript">r</hi></orig><reg>October</reg></choice></l>
+                    <l n="bb134.6.ms.02.07" justify="left" indent="8">for balance__________ <space extent="2"/> &#8212; ,, 10.6</l>
+                    <l n="bb134.6.ms.02.08" justify="left" indent="4">3 Hayleys Ballads <hi rend="u"><hi rend="superscript">+ Brother</hi></hi><space extent="5"/> &#8212; ,, 7. 6<space extent="11"/>1805 _________ }12,,19 &#8212;
+                        <note>Lines 6-8 are enclosed by an incomplete parenthesis on the right.</note></l>
+                    <l n="bb134.6.ms.02.9" justify="left" indent="4">3 Ditto<space extent="1"/>___  <space extent="1"/>M.<hi rend="superscript">r</hi> Birch_____ <space extent="2"/> &#8212; ,, 7. 6</l>
+                    <l n="bb134.6.ms.02.10" justify="left" indent="61">Balance paid</l>
+                    <l n="bb134.6.ms.02.11" justify="left" indent="4">4<space extent="2"/>Ditto &#8212; _ _ _ _ _ _ _ _ _<space extent="3"/> &#8212; ,, 10.6<space extent="17"/>to M.<hi rend="superscript">r</hi> Blake_ <hi rend="u">16.7.4.</hi></l>
+                    <l n="bb134.6.ms.02.12" justify="left" indent="4">History of Mast.<hi rend="superscript">r</hi> Malkin <space extent="7"/> &#8212; ,, 10.6</l>
+                    <l n="bb134.6.ms.02.13" justify="left" indent="5"><choice><orig>Dec<hi rend="superscript">r</hi></orig><reg>December</reg></choice> 25. 1805</l>
+                    <l n="bb134.6.ms.02.14" justify="left" indent="5">On Account of teaching your Son</l>
+                    <l n="bb134.6.ms.02.15" justify="left" indent="6">at 25 Guineas per Annum<space extent="7"/>}26,,5,,0</l>
+                    <l n="bb134.6.ms.02.16" justify="left" indent="8">to commence on this Day
+                        <note>Bentley (*Blake Records*, 766) reads "commence" as "Commence".</note>
+                        <note>Lines 13-16 are enclosed by an incomplete parenthesis on the right.</note></l>
+                    <l n="bb134.6.ms.02.17" justify="left" indent="36">_____________</l>
+                    <l n="bb134.6.ms.02.18" justify="left" indent="36"><hi rend="u">&#163; 66.0.0 _</hi><space extent="27"/><hi rend="u">&#163; 66.0.0</hi></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb134.6.ms.03" dbi="BB134.6.3.MS">
+            <objtitle>
+                <title type="transcribed">March 3 1806</title>
+                <title type="alt">Receipt, Thomas Butts, March 3 1806</title>, 
+                <objid>
+                    <objnumber code="A3">Object 3 </objnumber>
+                    <objcode code="B6-3">(Bentley Receipt 6.3)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 17.8 x 20 cm.</objsize>
+                <objnote>
+                    <p>This receipt is written on both sides of a full sheet of paper and continued on a slip of paper attached by a wafer to the sheet. This object is the slip of paper.</p>
+                    <p>On the left of the receipt there is a revenue stamp embossed depicting a shield bearing the Union Flag and the motto &#8220;Dieu et Mon Droit&#8221;. Above the shield is a coronet and on the left and right sides
+                        are sprigs of long, narrow leaves.Below the shield is the phrase &#8220;FOR RECEIPTS/FOUR PENCE&#8221;.</p>
+                    <p>On the top right corner, the number "3" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">  
+                    <l n="bb134.6.ms.03.01" justify="left" indent="15"><choice><orig>Recievd</orig><corr>Received</corr></choice> of M<hi rend="superscript">r</hi> Butts. March 3. 1806 the Sum of
+                        <note>Keynes (<hi rend="i">Letters</hi>p. 114) reads "Recievd" as "Receiv'd".</note></l>
+                    <l n="bb134.6.ms.03.02" justify="left" indent="10">Sixteen Pounds Seven &amp; Four pence Balance to this</l>
+                    <l n="bb134.6.ms.03.03" justify="left" indent="12">Day as Per <add type="overwrite">Annexed</add> Account 
+                        <note>Bentley (*Blake Records*, 766) and Keynes (*Letters*, 114) read "Day" as "day" and "Per" as "per".</note><note><illus filename="bb134.6.3.ms.01.03.note.jpg"/>Bentley (*Blake Records*, 766) and Keynes (*Letters*, 114) read the addition as "Annexed".</note></l>
+                    <l n="bb134.6.ms.03.04" justify="left" indent="40">Will<hi rend="u">iam Blake</hi></l>
+                    <l n="bb134.6.ms.03.05" justify="left" indent="6">&#163;<hi rend="u">16.7.4 </hi></l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

@@ -1,0 +1,242 @@
+<bad id="bb134.29" type="ms" work="Receipt, Thomas Butts, 30 June 1810" copy="29" copyid="29"
+    institution="westminster" catalog="bentley" catid="bb134.29">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Receipt, Thomas Butts, 30 June 1810">
+                    <main>Receipt 30 June 1810</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                        Essick,</name>University of California, Riverside; and <name>Joseph
+                            Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
+                to 1.5MB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
+                Archives<date>February 2019</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
+            in any medium, requires express written consent from the editors and advance notification
+            of the publisher. Permission to reproduce the graphic images in this archive has been
+            granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright &#169; 2009 City of Westminster Archives Centre.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>February 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>
+                    Textual transcriptions and notes
+                </change>
+                <date>September 2017</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Alison Harper,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Emily Tronson,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Alex Zawacki</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BADs created</change>
+                <date>January 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher</name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Receipt, Thomas Butts, 30 June 1810</title>
+                </objtitle>
+                <origination>William Blake<role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1810">1810</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize/>
+                <numberleaves>1<note/>
+                </numberleaves>
+                <leafsize/>
+                <medium>pen and ink</medium>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <framelines>none</framelines>
+                <binding>none</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>City of Westminster Archives Centre</name>
+                <date>1967</date>
+                <dealer></dealer>
+                <price>Not recorded</price>
+                <note>Thomas Butts; from the Butts collection; acquired from Butt’s grandson, Captain Butts between 1903 and 1906 by the late W. Graham Robertson; bequeathed by Robertson to his executor, Kerrison Preston about 1948; presented by Preston with his Blake collection to the City of Westminster Reference Library in 1967. </note>
+            </provenance>
+            <repository>
+                <institution>City of Westminster Archives Centre</institution>
+                <addressline>10 St. Ann's Street</addressline>
+                <addressline>London</addressline>
+                <addressline>SW1P 2DE</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 020 7641 5180</addressline>
+                <addressline>Fax: 020 7641 5179</addressline>
+                <addressline>E-mail: archives@westminster.gov.uk</addressline>
+                <addressline>URL: https://www.westminster.gov.uk/archives</addressline>
+                <department>Special Collections</department>
+                <collection>Preston Blake Collection</collection>
+                <repositoryid label="Call number">Accession 924</repositoryid>
+            </repository>
+        </source>
+            <desc id="bb134.29.ms.01" dbi="BB134.29.1.MS">
+                <objtitle>
+                    <title type="transcribed">30 June 1810</title>
+                    <title type="alt">Receipt, Thomas Butts, 30 June 1810</title>, 
+                    <objid>
+                        <objnumber code="A1">Object 1 </objnumber>
+                        <objcode code="B29">(Bentley Receipt 29)</objcode>
+                    </objid>
+                </objtitle>
+                <physdesc desclevel="brief">
+                    <objsize>On a slip of paper 7.6 x 18.5 cm.</objsize>
+                    <objnote>
+                        <p>On the top right corner, the number "23" is inscribed in pencil in an unknown hand.</p>
+                    </objnote>
+                    <windowsize width="500" height="630"/>
+                </physdesc>
+                <phystext>
+                    <lg justify="left">
+                        <l n="bb134.29.ms.01.01" justify="left" indent="18">30 : June 1810&#8212;</l>
+                        <l n="bb134.29.ms.01.02" justify="left" indent="1">Received of M<hi rend="superscript">r</hi>: Butts five Guineas on</l> 
+                        <l n="bb134.29.ms.01.03" justify="left" indent="3">further Account—</l>
+                        <l n="bb134.29.ms.01.04" justify="left" indent="22"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice> Blake</l>
+                        <l n="bb134.29.ms.01.05" justify="left">£ 5 ,, 5 ,&#8212;</l>
+                    </lg>
+                </phystext>
+            </desc>
+    </objdesc>
+</bad>

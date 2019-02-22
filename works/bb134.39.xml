@@ -1,0 +1,259 @@
+<bad id="bb134.39" type="ms" work="Receipt 30 December 1819" copy="39" copyid="39"
+    institution="yale" catalog="bentley" catid="bb134.39">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Receipt 30 December 1819">
+                    <main>Receipt 30 December 1819</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                        Essick,</name>University of California, Riverside; and <name>Joseph
+                            Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
+                to 1.5MB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
+                Archives<date>February 2019</date></publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
+            in any medium, requires express written consent from the editors and advance notification
+            of the publisher. Permission to reproduce the graphic images in this archive has been
+            granted by the owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright &#169; 2018 Yale University Library.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>February 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>
+                    Textual transcriptions and notes
+                </change>
+                <date>September 2017</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin,</name>
+                    <name>Erin Francisco,</name>
+                    <name>Ani Govjian,</name>
+                    <name>Alison Harper,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Jewell Thomas,</name>
+                    <name>Emily Tronson,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Alex Zawacki</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BADs created</change>
+                <date>January 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher</name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Receipt 30 December 1819</title>
+                </objtitle>
+                <origination>William Blake<role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1819">1819</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize/>
+                <numberleaves>1<note/>
+                </numberleaves>
+                <leafsize/>
+                <medium>pen and ink</medium>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <framelines>none</framelines>
+                <binding>none</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Yale University Library</name>
+                <date>1956</date>
+                <dealer>W.H. Robinson</dealer>
+                <price>£78 15s</price>
+                <note>
+                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                </note>
+            </provenance>
+            <repository>
+                <institution>Yale University Library</institution>
+                <addressline>180 York St</addressline>
+                <addressline>New Haven</addressline>
+                <addressline>Connecticut 06511</addressline>  
+                <addressline>United States of America</addressline>
+                <addressline>Telephone: 203-432-2645</addressline>
+                <addressline>E-mail: askyale@gmail.com</addressline>
+                <addressline>https://web.library.yale.edu/</addressline>
+                <department>Beinecke Rare Book and Manuscript Library</department>
+                <collection>William Blake Collection</collection>
+                <repositoryid label="Call number">GEN MSS 914 Series I</repositoryid>
+            </repository>
+        </source>
+        <desc id="bb134.39.ms.01" dbi="BB134.39.1.MS">
+            <objtitle>
+                <title type="transcribed">30 December 1819</title>
+                <title type="alt">Receipt, John Linnell, 30 December 1819</title>, 
+                <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="B39">(Bentley Receipt 39)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>On a slip of paper 11 x 18.5 cm.</objsize>
+                <objnote><illus filename="bb134.39.1.ms.objectnote.jpg"/>On the left side of the object, there are slanted words written in pencil in Linnell's hand. According to Bentley(*Blake Records*, 774) "Sideways in the corner of the sheet is written Linnell's note to himself:"2&#163;. to Father Paid by Mr Varley lent 1/6"".</objnote>
+                <windowsize width="500" height="630"/>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb134.39.ms.01.01" justify="left" indent="2">
+                        <choice>
+                            <orig>Recievd</orig>
+                            <reg>Received</reg>
+                        </choice> 30 <choice>
+                            <orig>Decemb<hi rend="superscript">r</hi>
+                            </orig>
+                            <reg type="abbrev">December</reg>
+                        </choice>1819 of M<hi rend="superscript">r</hi>Linnell the <unclear resp="HS">sum</unclear><note><illus filename="bb134.39.1.ms.01.01.note.jpg"/> Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 146)  read the last word of this line as "sum".</note>
+                        
+                    </l>
+                    <l n="bb134.39.ms.01.02" justify="left" indent="2">of Fourteen Shillings for Jerusalem <choice>
+                        <orig>Chap</orig>
+                        <reg>Chapter</reg>
+                    </choice> 2</l>
+                    <l n="bb134.39.ms.01.03" justify="left" indent="1.5">
+                        <hi rend="u"><space extent="2"/>0. 14 .0<space extent="1.5"/></hi>
+                        <space extent="15"/>
+                        <choice>
+                            <orig>Will<hi rend="superscript">m</hi>
+                            </orig>
+                            <reg type="abbrev">William</reg>
+                        </choice> Blake</l>
+                </lg>
+            </phystext>
+        </desc> 
+    </objdesc>
+</bad>
