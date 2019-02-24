@@ -169,9 +169,15 @@
                 <objtitle>
                     <title>Receipt 30 December 1819</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>William Blake
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator.</role>
+                </origination>
+                <origination>John Linnell
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator. Blake wrote and signed this receipt, and John Linnell annotated it (see note).</role>
                 </origination>
                 <compdate value="1819">1819</compdate>
             </objdescid>
@@ -224,7 +230,10 @@
             </objtitle>
             <physdesc desclevel="brief">
                 <objsize>11.0 x 18.5 cm.</objsize>
-                <objnote><illus filename="bb134.39.1.ms.objectnote.jpg"/>On the left side of the object, there are slanted words written in pencil in Linnell's hand. According to Bentley(*Blake Records*, 774) "Sideways in the corner of the sheet is written Linnell's note to himself:"2&#163;. to Father Paid by Mr Varley lent 1/6"".</objnote>
+                <objnote>
+                    <p>Blake wrote and signed this receipt, and John Linnell annotated it.</p>
+                </objnote>
+                <objnote><illus filename="bb134.39.1.ms.objectnote.jpg"/><p>On the left side of the object, there are slanted words written in pencil in Linnell's hand. According to Bentley(*Blake Records*, page 774), "Sideways in the corner of the sheet is written Linnell's note to himself:"2&#163;. to Father Paid by Mr Varley lent 1/6"".</p></objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
