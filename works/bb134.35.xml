@@ -169,9 +169,10 @@
                 <objtitle>
                     <title>Receipt 19 September 1818</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>William Blake
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator. This receipt is written by Blake (no signature).</role>
                 </origination>
                 <compdate value="1818">1818</compdate>
             </objdescid>
@@ -224,7 +225,9 @@
             </objtitle>
             <physdesc desclevel="brief">
                 <objsize>8.5 x 14.0 cm.</objsize>
-                <objnote><p>on the top left the number "28" is partially visible. The number is typed and has been obscured by tearing.</p></objnote>
+                <objnote>
+                    <p>This receipt is written by Blake (no signature).</p>
+                    <p>on the top left the number "28" is partially visible. The number is typed and has been obscured by tearing.</p></objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
