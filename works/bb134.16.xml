@@ -168,9 +168,15 @@
                 <objtitle>
                     <title>Receipt, Thomas Butts, 29 February 1808</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>Thomas Butts
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator.</role>
+                </origination>
+                <origination>William Blake
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator. Thomas Butts wrote this receipt, and Blake signed it.</role>
                 </origination>
                 <compdate value="1808">1808</compdate>
             </objdescid>
@@ -222,7 +228,8 @@
             </objtitle>
             <physdesc desclevel="brief">
                 <objsize>7.8 x 17.9 cm.</objsize>
-                <objnote> 
+                <objnote>
+                    <p>Thomas Butts wrote this receipt, and Blake signed it.</p>
                     <p>On the top right corner, the number "11" is inscribed in pencil in an unknown hand.</p>
                 </objnote>              
                 <windowsize width="500" height="630"/>
