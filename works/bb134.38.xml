@@ -170,9 +170,10 @@
                 <objtitle>
                     <title>Receipt 27 August 1819</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>William Blake
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator. This receipt is written and signed by Blake.</role>
                 </origination>
                 <compdate value="1819">1819</compdate>
             </objdescid>
@@ -224,7 +225,10 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>11.0 x 18.5 cm.</objsize>   
+                <objsize>11.0 x 18.5 cm.</objsize>
+                <objnote>
+                    <p>This receipt is written and signed by Blake.</p>
+                </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
