@@ -168,9 +168,15 @@
                 <objtitle>
                     <title>Receipt, Thomas Butts, 4 October 1809</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>Thomas Butts
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator.</role>
+                </origination>
+                <origination>William Blake
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator. Thomas Butts wrote this receipt, and Blake signed it.</role>
                 </origination>
                 <compdate value="1809">1809</compdate>
             </objdescid>
@@ -223,6 +229,7 @@
             <physdesc desclevel="brief">
                 <objsize>7.6 x 18.6 cm.</objsize>
                 <objnote>
+                    <p>Thomas Butts wrote this receipt, and Blake signed it.</p>
                     <p>In the top right corner, the number "18" is inscribed in pencil in an unknown hand.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
