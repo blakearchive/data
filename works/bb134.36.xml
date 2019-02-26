@@ -1,9 +1,9 @@
-<bad id="bb134.36" type="ms" work="Receipt 9 November 1818" copy="36" copyid="36"
+<bad id="bb134.36" type="ms" work="Receipt, John Linnell, 9 November 1818" copy="36" copyid="36"
     institution="yale" catalog="bentley" catid="bb134.36">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Receipt 9 November 1818">
+                <title reg="Receipt, John Linnell, 9 November 1818">
                     <main>Receipt 9 November 1818</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
                 to 1.5MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -194,10 +193,10 @@
             <provenance n="1">
                 <name>Yale University Library</name>
                 <date>1956</date>
-                <dealer>W.H. Robinson</dealer>
+                <dealer>W. H. Robinson</dealer>
                 <price>£78 15s</price>
                 <note>
-                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W. H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
                 </note>
             </provenance>
             <repository>
@@ -242,7 +241,7 @@
                         first "8" in the date appears to be written over the number "7".
                     </note></l>
                     <l n="bb134.36.ms.01.02" justify="left" indent="2">The Sum of Five Pounds on Account</l>
-                    <l n="bb134.36.ms.01.03" justify="left" indent ="1"><hi rend="u">5 . 0 . 0<space extent = "1"/></hi><space extent="13.5"/>WilliamB<hi rend="u">lake.</hi></l>
+                    <l n="bb134.36.ms.01.03" justify="left" indent ="1"><hi rend="u">5 . 0 . 0<space extent="1"/></hi><space extent="13.5"/>WilliamB<hi rend="u">lake.</hi></l>
                 </lg>
             </phystext>
         </desc>
