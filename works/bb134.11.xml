@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 11KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 75KB
                 to 1.5MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -30,7 +29,7 @@
             in any medium, requires express written consent from the editors and advance notification
             of the publisher. Permission to reproduce the graphic images in this archive has been
             granted by the owners of the originals for this publication only.<lb/>
-            <lb/>This image copyright &#169; 2009 City of Westminster Archives Centre.
+            <lb/>This image copyright &#169; 2019 City of Westminster Archives Centre.
         </userestrict>
         <encodingdesc/>
         <profiledesc/>
@@ -196,7 +195,7 @@
                 <date>1967</date>
                 <dealer></dealer>
                 <price>Not recorded</price>
-                <note>Thomas Butts; from the Butts collection; acquired from Butt’s grandson, Captain Butts between 1903 and 1906 by the late W. Graham Robertson; bequeathed by Robertson to his executor, Kerrison Preston about 1948; presented by Preston with his Blake collection to the City of Westminster Reference Library in 1967. </note>
+                <note>Thomas Butts; from the Butts collection; acquired from Butts's grandson, Captain Butts between 1903 and 1906 by the late W. Graham Robertson; bequeathed by Robertson to his executor, Kerrison Preston about 1948; presented by Preston with his Blake collection to the City of Westminster Reference Library in 1967. </note>
             </provenance>
             <repository>
                 <institution>City of Westminster Archives Centre</institution>
@@ -227,7 +226,7 @@
                 <objnote>
                     <p>This receipt is written and signed by Blake.</p>
                     <p>To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;EIGHT PENCE&#8221; at the bottom.</p>
-                    <p>On the top right corner, the number "6" is inscribed in pencil in an unknown hand.</p>
+                    <p>In the top right corner, the number "6" is inscribed in pencil in an unknown hand.</p>
                     <p>Blake writes the latter half of the receipt (lines 4-7) in pencil. Bentley (*Blake Records*, page 767) notes that the figures in pencil itemize the work for which the money was due.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
@@ -235,14 +234,13 @@
             <phystext>
                 <lg justify="left">
                     <l n="bb134.11.ms.01.01" justify="left" indent="4"><choice><orig>Recievd</orig>
-                        <corr>Recieved</corr></choice>March 3. 1807 of M<hi rend="superscript">r</hi> Butts the Sum of <note>Bentley (*Blake Records*,766) and Keynes (*Letters*, 123) read "Recieved".</note></l>
+                        <corr>Recieved</corr></choice>March 3. 1807 of M<hi rend="superscript">r</hi> Butts the Sum of</l>
                     <l n="bb134.11.ms.01.02" justify="left" indent="5">Twenty Eight Pounds Six Shillings on Account</l>
                     <l n="bb134.11.ms.01.03" justify="left" indent="5"><hi rend="u"> 28. 6. 0 </hi><space extent ="21"/><hi rend="u"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice> Blake</hi></l>
                     <l n="bb134.11.ms.01.04" justify="left" indent="2"><hi rend="handshift">Tom — 26.5</hi></l>
-                    <l n="bb134.11.ms.01.05" justify="left"><hi rend="handshift">Drawings in<space extent="7"/>&#125;28.6<space extent="16"/>28. 6</hi><note><illus filename="bb134.11.1.ms.01.ms.05.note1.jpg"/>Bentley (*Blake Records*, page 767) and Keynes (*Letters*, page 124) read “Drawings in,” but the two words, written in pencil, are obscured in the manuscript.</note><note><illus filename="bb134.11.1.ms.01.05.note2.jpg"/>Bentley (*Blake Records*, page 767) and Keynes (*Letters*, page 124) read the first price as “28.6,” but the number is unclear in the manuscript.</note></l>
-                    <l n="bb134.11.ms.01.06" justify="left" indent="1"><hi rend="handshift">full to this<space extent="1"/>2.1 &#8212;<space extent="22"/><hi rend="u">25 4 6</hi></hi><note><illus filename="bb134.11.1.ms.01.06.note.jpg"/>Keynes (*Letters*, page 124) read “25.4.6,” but the number is obscured in the manuscript.
-                    </note></l>
-                    <l n="bb134.11.ms.01.07" justify="left" indent="3"><hi rend="handshift">day:&#8212;<space extent="32"/>3 1 6</hi><note><illus filename="bb134.11.1.ms.01.07.note.jpg"/>Bentley (*Blake Records*, page 767) and Keynes (*Letters*, page 124) read “3.1.6,” but the number is obscured in the manuscript.</note></l>
+                    <l n="bb134.11.ms.01.05" justify="left"><hi rend="handshift">D<gap reason="illegible" extent="1" unit="character"/><unclear resp="EL">a</unclear>wings in<space extent="7"/>&#125;28.6<space extent="16"/>28. 6</hi><note><illus filename="bb134.11.1.ms.01.ms.05.note1.jpg"/>Bentley (*Blake Records*, page 767) and Keynes (*Letters*, page 124) read “Drawings”, but the second and third characters are unclear in the manuscript.</note></l>
+                    <l n="bb134.11.ms.01.06" justify="left" indent="1"><hi rend="handshift">full to this<space extent="1"/>2.1 &#8212;<space extent="22"/><hi rend="u">25 4 6</hi></hi></l>
+                    <l n="bb134.11.ms.01.07" justify="left" indent="3"><hi rend="handshift">day:&#8212;<space extent="32"/>3 1 6</hi></l>
                 </lg>
             </phystext>
         </desc>     
