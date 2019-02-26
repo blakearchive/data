@@ -1,9 +1,9 @@
-<bad id="bb134.37" type="ms" work="Receipt 31 December 1818" copy="37" copyid="37"
+<bad id="bb134.37" type="ms" work="Receipt, John Linnell, 31 December 1818" copy="37" copyid="37"
     institution="yale" catalog="bentley" catid="bb134.37">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Receipt 31 December 1818">
+                <title reg="Receipt, John Linnell, 31 December 1818">
                     <main>Receipt 31 December 1818</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
                 to 1.5MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -238,9 +237,9 @@
                 <lg justify="left">
                     <l n="bb134.37.ms.01.01" justify="left" indent ="2"><choice><orig>Recieved</orig>
                         <reg>Received</reg>
-                    </choice> 31<choice><orig>Decemb<hi rend="superscript">r</hi></orig>
+                    </choice> 31 <choice><orig>Decemb<hi rend="superscript">r</hi></orig>
                         <reg type="abbrev">December</reg>
-                    </choice>1818 of M<hi rend="superscript">r</hi> Linnell<note>Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 145) read "Recieved".</note></l>
+                    </choice>1818 of M<hi rend="superscript">r</hi> Linnell</l>
                     <l n="bb134.37.ms.01.02" justify="left" indent ="2">the Sum of Three Pounds Fifteen Shillings</l>
                     <l n="bb134.37.ms.01.03" justify="left" indent ="3.5">the Balance of Account of M<hi rend="superscript">r</hi> Uptons Plate</l>
                     <l n="bb134.37.ms.01.04" justify="left" indent ="3"><hi rend="u"><space extent="0.5"/>3. 15.0<space extent="1.5"/></hi><space extent="16"/>William Blake</l>
