@@ -1,9 +1,9 @@
-<bad id="bb134.40" type="ms" work="Receipt 30 April 1821" copy="40" copyid="40"
+<bad id="bb134.40" type="ms" work="Receipt, John Linnell, 30 April 1821" copy="40" copyid="40"
     institution="yale" catalog="bentley" catid="bb134.40">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Receipt 30 April 1821">
+                <title reg="Receipt, John Linnell, 30 April 1821">
                     <main>Receipt 30 April 1821</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
                 to 1.5MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -194,10 +193,10 @@
             <provenance n="1">
                 <name>Yale University Library</name>
                 <date>1956</date>
-                <dealer>W.H. Robinson</dealer>
+                <dealer>W. H. Robinson</dealer>
                 <price>£78 15s</price>
                 <note>
-                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W. H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
                 </note>
             </provenance>
             <repository>
@@ -240,7 +239,7 @@
                         <choice>
                             <orig>Recievd</orig>
                             <reg>Received</reg>
-                        </choice> April 30<unclear resp="HS">:</unclear>1821 of M<hi rend="superscript">r</hi> Linnell</l>
+                        </choice> April 30: 1821 of M<hi rend="superscript">r</hi> Linnell</l>
                     <l n="bb134.40.ms.01.02" justify="left"><space extent="1"/>the Sum of Two Guineas for Heaven
                         &amp; Hell</l>           
                     <l n="bb134.40.ms.01.03" justify="left" indent="25">
@@ -248,10 +247,9 @@
                             <orig>Will<hi rend="superscript">m</hi>
                             </orig>
                             <reg>William</reg>
-                        </choice> Blake<note><illus filename="bb134.40.1.ms.01.03.note.jpg"/> Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 146)  read the last number of this price as "0".
-                        </note>
+                        </choice> Blake
                     </l>
-                    <l n="bb134.40.ms.01.04" justify="left">£ <hi rend="u">2 . 2 . <unclear resp="HS">0</unclear>
+                    <l n="bb134.40.ms.01.04" justify="left">£ <hi rend="u">2 . 2 . 0
                     </hi></l>            
                 </lg>
             </phystext>
