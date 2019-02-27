@@ -1,9 +1,9 @@
-<bad id="bb134.44" type="ms" work="Receipt 29 July 1826" copy="44" copyid="44"
+<bad id="bb134.44" type="ms" work="Receipt, Mrs. Charles Aders, 29 July 1826" copy="44" copyid="44"
     institution="yale" catalog="bentley" catid="bb134.44">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Receipt 29 July 1826">
+                <title reg="Receipt, Mrs. Charles Aders, 29 July 1826">
                     <main>Receipt 29 July 1826</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
                 to 1.5MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -169,34 +168,33 @@
                 <objtitle>
                     <title>Receipt 29 July 1826</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>William Blake
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator. Blake wrote and signed this receipt.</role>
                 </origination>
-                <compdate value="1826">1826</compdate>
+                <compdate value="1826.B">1826</compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize/>
+                <objsize>8.0 x 18.5 cm.</objsize>
                 <numberleaves>1<note/>
                 </numberleaves>
-                <leafsize/>
+                <leafsize>8.0 x 18.5 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <framelines>none</framelines>
                 <binding>none</binding>
-                <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
                 <name>Yale University Library</name>
                 <date>1956</date>
-                <dealer>W.H. Robinson</dealer>
+                <dealer>W. H. Robinson</dealer>
                 <price>£78 15s</price>
                 <note>
-                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W. H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
                 </note>
             </provenance>
             <repository>
@@ -223,9 +221,10 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>On a slip of paper 7.5 x 18.5 cm.</objsize>
+                <objsize>8.0 x 18.5 cm.</objsize>
                 <objnote>
-                    <p> To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;THREE/PENCE&#8221; at the bottom.</p>
+                    <p>Blake wrote and signed this receipt.</p>
+                    <p>To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;THREE/PENCE&#8221; at the bottom.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
@@ -233,14 +232,14 @@
                 <lg justify="left">
                     <l n="bb134.44.ms.01.01" justify="left" indent="4.5">
                         <choice>
-                            <orig>Recievd</orig>
+                            <orig>Recieved</orig>
                             <reg>Received</reg>
-                        </choice> 29 July 1826 of M<hi rend="superscript">rs</hi> Ade<add place="supralinear">r</add>s by the hands of<note>Keynes (<hi rend="i">Letters</hi>, 163) and Bentley (<hi rend="i">Blake Records</hi>,776) read "Recieved"</note></l>
-                    <l n="bb134.44.ms.01.02" justify="left" indent="5">M<hi rend="superscript">r</hi> Linnell the Sum of <unclear resp="OS">Five</unclear> Pounds Five
-                        Shillings<note>There is an inkblot over the "e" of Linnell that may be read as the tittle of an "i" if "Linnell" is spelt "Linnill". Keynes (<hi rend="i">Letters</hi>, 163) and Bentley (<hi rend="i">Blake Records</hi>, 776) read "Linnell".</note>
-                        <note>The pound amount specified in the receipt is ambiguous. Keynes (*Letters*, 163) reads "Five" as "Two". Bentley (*Blake Records*, 776) reads "Five".</note></l><!-- insert image -->
-                    <l n="bb134.44.ms.01.03" justify="left" indent="5">for the Songs of Innocence</l>
-                    <l n="bb134.44.ms.01.04" justify="left"><hi rend="u">£5.5.0</hi><space extent="25"/>William Blake<note>Keynes (<hi rend="i">Letters</hi>, 163) reads "&#163;5.5.0" as "&#163;2.5.0"</note></l>
+                        </choice> 29 July 1826 of M<hi rend="superscript">rs</hi> Ade<add place="supralinear">r</add>s by the hands of</l>
+                    <l n="bb134.44.ms.01.02" justify="left" indent="5">M<hi rend="superscript">r</hi> Linnell the Sum of Five Pounds Five
+                        Shillings
+                        <note>Keynes (*Letters*, page 163) reads "Two" for "Five". See also note for line 4.</note></l>
+                    <l n="bb134.44.ms.01.03" justify="left" indent="5">for the Songs of Innocenc.e</l>
+                    <l n="bb134.44.ms.01.04" justify="left"><hi rend="u">£5.5.0</hi><space extent="25"/>William Blake<note>Keynes (*Letters*, page 163) reads "&#163;2.5.0" for "&#163;5.5.0".</note></l>
                 </lg>
             </phystext>
         </desc>

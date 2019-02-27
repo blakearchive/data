@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 11KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 75KB
                 to 1.1MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -30,7 +29,7 @@
             in any medium, requires express written consent from the editors and advance notification
             of the publisher. Permission to reproduce the graphic images in this archive has been
             granted by the owners of the originals for this publication only.<lb/>
-            <lb/>This image copyright &#169; 2009 City of Westminster Archives Centre.
+            <lb/>This image copyright &#169; 2019 City of Westminster Archives Centre.
         </userestrict>
         <encodingdesc/>
         <profiledesc/>
@@ -169,33 +168,37 @@
                 <objtitle>
                     <title>Receipt, Thomas Butts, 30 June 1806</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>Thomas Butts
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator.</role>
                 </origination>
-                <compdate value="1806">1806</compdate>
+                <origination>William Blake
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator. Thomas Butts wrote this receipt, and Blake signed it.</role>
+                </origination>
+                <compdate value="1806.B">1806</compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize/>
+                <objsize>7.5 x 18.5 cm.</objsize>
                 <numberleaves>1<note/>
                 </numberleaves>
-                <leafsize/>
+                <leafsize>7.5 x 18.5 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <framelines>none</framelines>
                 <binding>none</binding>
-                <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
                 <name>City of Westminster Archives Centre</name>
                 <date>1967</date>
                 <dealer></dealer>
                 <price>Not recorded</price>
-                <note>Thomas Butts; from the Butts collection; acquired from Butt’s grandson, Captain Butts between 1903 and 1906 by the late W. Graham Robertson; bequeathed by Robertson to his executor, Kerrison Preston about 1948; presented by Preston with his Blake collection to the City of Westminster Reference Library in 1967. </note>
+                <note>Thomas Butts; from the Butts collection; acquired from Butts's grandson, Captain Butts between 1903 and 1906 by the late W. Graham Robertson; bequeathed by Robertson to his executor, Kerrison Preston about 1948; presented by Preston with his Blake collection to the City of Westminster Reference Library in 1967. </note>
             </provenance>
             <repository>
                 <institution>City of Westminster Archives Centre</institution>
@@ -222,23 +225,24 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>On a slip of paper 7.5 x 18.5 cm.</objsize>
+                <objsize>7.5 x 18.5 cm.</objsize>
                 <objnote>
+                    <p>Thomas Butts wrote this receipt, and Blake signed it.</p>
                     <p> To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;EIGHT PENCE&#8221; at the bottom.</p>
                     <p>On the top right corner, the number "4" is inscribed in pencil in an unknown hand.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
-                <lg justify="left">
-                    <l n="bb134.7.ms.01.01" justify="left" indent="21">30: June 1806</l>
-                    <l n="bb134.7.ms.01.02" justify="left" indent="10">Received of M<hi rend="supercript">r</hi>. Butts twenty</l>
-                    <l n="bb134.7.ms.01.03" justify="left">one Pounds ten Shillings on account for<note>Keynes(*Letters*, page 114) and Bentley (*Blake Records*, page 766) read "Pounds" as "pounds".</note></l>
-                    <l n="bb134.7.ms.01.04" justify="left">sundry Drawings</l>
-                    <l n="bb134.7.ms.01.05" justify="left" indent="26"><hi rend="handshift"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice></hi>Blake<note>The letters "ll" are written in pencil and retraced in ink.</note></l>
-                    <l n="bb134.7.ms.01.06" justify="left" indent="4">&#163;21,,10,,0 .</l> 
-                </lg>
-            </phystext>
+    <lg justify="left">
+        <l n="bb134.7.ms.01.01" justify="left" indent="21">30: June 1806</l>
+        <l n="bb134.7.ms.01.02" justify="left" indent="10">Received of M<hi rend="supercript">r</hi>. Butts twenty</l>
+        <l n="bb134.7.ms.01.03" justify="left">one Pounds ten Shillings on account for<note>Keynes (*Letters*, page 114) and Bentley (*Blake Records*, page 766) read "Pounds" as "pounds".</note></l>
+        <l n="bb134.7.ms.01.04" justify="left">sundry Drawings</l>
+        <l n="bb134.7.ms.01.05" justify="left" indent="26"><choice><orig>Wi<hi rend="underscore">ll</hi><hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice><hi rend="underscore">Blake</hi></l>
+        <l n="bb134.7.ms.01.06" justify="left" indent="4">&#163;21,,10,,0 .</l> 
+    </lg>
+</phystext>
         </desc>   
     </objdesc>
 </bad>

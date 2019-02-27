@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 15KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 108KB
                 to 793KB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -30,7 +29,7 @@
             in any medium, requires express written consent from the editors and advance notification
             of the publisher. Permission to reproduce the graphic images in this archive has been
             granted by the owners of the originals for this publication only.<lb/>
-            <lb/>This image copyright &#169; 2018 Henry E. Huntington Library and Art Gallery.
+            <lb/>This image copyright &#169; 2019 Henry E. Huntington Library and Art Gallery.
         </userestrict>
         <encodingdesc/>
         <profiledesc/>
@@ -169,32 +168,30 @@
                 <objtitle>
                     <title>Receipt to Thomas Butts, 9 September 1806</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>Thomas Butts
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator.</role>
                 </origination>
-                <compdate value="1806">1806</compdate>
+                <origination>William Blake
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator. Thomas Butts wrote this receipt, and Blake signed it.</role>
+                </origination>
+                <compdate value="1806.C">1806</compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize>18.6 x 7.7 cm.</objsize>
-                <numberleaves>1<note>The receipt was written on one side of a single sheet in a very
-                        elegant, official hand, while the signature is distinctly Blake's. To the
-                        left of the text is an embossed revenue stamp depicting a shield bearing the
-                        union flag and surrounded by the motto &#8220;DIEU ET MON DROIT&#8221;.
-                        Above the shield is a coronet and on the left and right sides are sprigs of
-                        long, narrow leaves. Below the shield is the phrase &#8220;TWO PENCE / FOR
-                        RECEIPT&#8221;.</note>
+                <objsize>7.7 x 18.6 cm.</objsize>
+                <numberleaves>1<note></note>
                 </numberleaves>
-                <leafsize>18.6 x 7.7 cm.</leafsize>
+                <leafsize>7.7 x 18.6 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <framelines>none</framelines>
                 <binding>none</binding>
-                <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
                 <name>Henry E. Huntington Library and Art Gallery</name>
@@ -228,29 +225,31 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>On a slip of paper 7.7 x 18.6 cm.</objsize>
+                <objsize>7.7 x 18.6 cm.</objsize>
                 <objnote>
-                    <p> To the left of the text is an embossed revenue stamp depicting a shield
-                        bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
-                        DROIT&#8221;. Above the shield is a coronet and on the left and right sides
-                        are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
-                        PENCE / FOR RECEIPTS&#8221;.</p>
+                    <p>Thomas Butts wrote this receipt, and Blake signed it.</p>
+                    <p> To the
+                        left of the text is an embossed revenue stamp depicting a shield bearing the
+                        union flag and surrounded by the motto &#8220;DIEU ET MON DROIT&#8221;.
+                        Above the shield is a coronet and on the left and right sides are sprigs of
+                        long, narrow leaves. Below the shield is the phrase &#8220;TWO PENCE / FOR
+                        RECEIPT&#8221;.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>       
                 <phystext>
                     <lg justify="left">
-                        <l n="bb134.8.ms.01.01" justify="left" indent="21">9 <choice>
+                        <l n="bb134.8.ms.01.01" justify="left" indent="21">9: <choice>
                             <orig>Sept.<hi rend="superscript">r</hi></orig>
                             <reg type="abbrev">September</reg>
-                        </choice> 1806 &#8212;<note>Keynes (*Letters*, page 123) reads “Receiv’d” for “Received.”</note></l>
+                        </choice> 1806 &#8212;</l>
                         <l n="bb134.8.ms.01.02" justify="left" indent="7">Received of M<hi
                             rend="superscript">r</hi>. Butts six
-                            <note>Keynes (<hi rend="i">Letters</hi>p. 123) reads "Received" as "Receiv'd".</note></l>
+                            <note>Keynes (*Letters*, page 123) reads "Received" as "Receiv'd".</note></l>
                         <l n="bb134.8.ms.01.03" justify="left">Pounds, six Shillings for Drawings,</l>
                         <l n="bb134.8.ms.01.04" justify="left" indent="1">Songs of Innocence &#38;&#8212;</l>
                         <l n="bb134.8.ms.01.05" justify="left" indent="19">William Blake</l>
-                        <l n="bb134.8.ms.01.06" justify="left">&#163;6, 6 &#8212;</l>
+                        <l n="bb134.8.ms.01.06" justify="left">&#163;6,, 6 &#8212;</l>
                     </lg>
                 </phystext>
         </desc>       

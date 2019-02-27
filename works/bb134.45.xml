@@ -1,9 +1,9 @@
-<bad id="bb134.45" type="ms" work="Receipt 18 May 1829" copy="45" copyid="45"
+<bad id="bb134.45" type="ms" work="Receipt, John Linnell,  18 May 1829" copy="45" copyid="45"
     institution="yale" catalog="bentley" catid="bb134.45">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Receipt 18 May 1829">
+                <title reg="Receipt, John Linnell, 18 May 1829">
                     <main>Receipt 18 May 1829</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
                 to 1.5MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -169,34 +168,33 @@
                 <objtitle>
                     <title>Receipt 18 May 1829</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>Frederick Tatham
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator. Frederick Tatham wrote and signed this receipt.</role>
                 </origination>
                 <compdate value="1829">1829</compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize/>
+                <objsize>8.5 x 18.0 cm.</objsize>
                 <numberleaves>1<note/>
                 </numberleaves>
-                <leafsize/>
+                <leafsize>8.5 x 18.0 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <framelines>none</framelines>
                 <binding>none</binding>
-                <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
                 <name>Yale University Library</name>
                 <date>1956</date>
-                <dealer>W.H. Robinson</dealer>
+                <dealer>W. H. Robinson</dealer>
                 <price>£78 15s</price>
                 <note>
-                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W. H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
                 </note>
             </provenance>
             <repository>
@@ -223,8 +221,8 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>On a slip of paper 8.5 x 18 cm.</objsize>
-                <objnote><p>The signature on the receipt is not in Blake's hand. Bentley (*Blake Records*, 778) and Keynes (*Letters*, 172) identify it as Frederick Tatham's signature.</p></objnote>
+                <objsize>8.5 x 18.0 cm.</objsize>
+                <objnote><p>Frederick Tatham wrote and signed this receipt.</p></objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
@@ -232,12 +230,12 @@
                     <l n="bb134.45.ms.01.01" justify="left" indent="13">May 18<hi rend="superscript">th</hi> 1829</l>
                     <l n="bb134.45.ms.01.02" justify="left" indent="2">Received of Mr. J Linnell</l>
                     <l n="bb134.45.ms.01.03" justify="left" indent="2">one pound Eleven shillings &amp;</l>
-                    <l n="bb134.45.ms.01.04" justify="left" indent="2">Sixpence for Homer<unclear resp="HS">s</unclear> Iliad<note>Keynes (*Letters*, 172) reads "sixpence" for "Sixpence".</note></l>
+                    <l n="bb134.45.ms.01.04" justify="left" indent="2">Sixpence for Homer<unclear resp="HS">s</unclear> Iliad<note>Keynes (*Letters*, page 172) reads "sixpence" for "Sixpence".</note></l>
                     <l n="bb134.45.ms.01.05" justify="left" indent="2">&amp; 
                         <choice>
-                            <orig>Odd<unclear resp="HS">isy</unclear></orig>
+                            <orig>Oddisy</orig>
                             <reg>Odyssey</reg>
-                        </choice><space extent="2"/>–<note><illus filename="bb134.45.1.ms.01.05.note.jpg"/>Bentley (*Blake Records*, 778) and Keynes (*Letters*, 172) read "Oddisy" but the word is obscured in the manuscript.</note></l>
+                        </choice><space extent="2"/>–</l>
                     <l n="bb134.45.ms.01.06" justify="left" indent="13">for M<hi rend="superscript">r</hi> Blake</l>
                     <l n="bb134.45.ms.01.07" justify="left" indent="10">—<space extent="5"/>Frederick Tatham</l>
                 </lg>

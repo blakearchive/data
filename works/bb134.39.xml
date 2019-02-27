@@ -1,9 +1,9 @@
-<bad id="bb134.39" type="ms" work="Receipt 30 December 1819" copy="39" copyid="39"
+<bad id="bb134.39" type="ms" work="Receipt, John Linnell, 30 December 1819" copy="39" copyid="39"
     institution="yale" catalog="bentley" catid="bb134.39">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Receipt 30 December 1819">
+                <title reg="Receipt, John Linnell, 30 December 1819">
                     <main>Receipt 30 December 1819</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
                 to 1.5MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -169,34 +168,38 @@
                 <objtitle>
                     <title>Receipt 30 December 1819</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>William Blake
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator.</role>
                 </origination>
-                <compdate value="1819">1819</compdate>
+                <origination>John Linnell
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator. Blake wrote and signed this receipt, and John Linnell annotated it (see object note).</role>
+                </origination>
+                <compdate value="1819.B">1819</compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize/>
+                <objsize>11.0 x 18.5 cm.</objsize>
                 <numberleaves>1<note/>
                 </numberleaves>
-                <leafsize/>
+                <leafsize>11.0 x 18.5 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <framelines>none</framelines>
                 <binding>none</binding>
-                <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
                 <name>Yale University Library</name>
                 <date>1956</date>
-                <dealer>W.H. Robinson</dealer>
+                <dealer>W. H. Robinson</dealer>
                 <price>£78 15s</price>
                 <note>
-                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W. H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
                 </note>
             </provenance>
             <repository>
@@ -223,8 +226,11 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>On a slip of paper 11 x 18.5 cm.</objsize>
-                <objnote><illus filename="bb134.39.1.ms.objectnote.jpg"/>On the left side of the object, there are slanted words written in pencil in Linnell's hand. According to Bentley(*Blake Records*, 774) "Sideways in the corner of the sheet is written Linnell's note to himself:"2&#163;. to Father Paid by Mr Varley lent 1/6"".</objnote>
+                <objsize>11.0 x 18.5 cm.</objsize>
+                <objnote>
+                    <p>Blake wrote and signed this receipt, and John Linnell annotated it.</p>
+                </objnote>
+                <objnote><illus filename="bb134.39.1.ms.objectnote.jpg"/><p>On the left side of the object, there are words written vertically in pencil in Linnell's hand. According to Bentley (*Blake Records*, page 774), "Sideways in the corner of the sheet is written Linnell's note to himself: '2&#163;. to Father Paid by Mr Varley lent 1/6'".</p></objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
@@ -237,7 +243,7 @@
                             <orig>Decemb<hi rend="superscript">r</hi>
                             </orig>
                             <reg type="abbrev">December</reg>
-                        </choice>1819 of M<hi rend="superscript">r</hi>Linnell the <unclear resp="HS">sum</unclear><note><illus filename="bb134.39.1.ms.01.01.note.jpg"/> Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 146)  read the last word of this line as "sum".</note>
+                        </choice>1819 of M<hi rend="superscript">r</hi>Linnell the <unclear resp="HS">sum</unclear><note><illus filename="bb134.39.1.ms.01.01.note.jpg"/> Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 146) read the last word of this line as "sum".</note>
                         
                     </l>
                     <l n="bb134.39.ms.01.02" justify="left" indent="2">of Fourteen Shillings for Jerusalem <choice>

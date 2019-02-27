@@ -1,9 +1,9 @@
-<bad id="bb134.37" type="ms" work="Receipt 31 December 1818" copy="37" copyid="37"
+<bad id="bb134.37" type="ms" work="Receipt, John Linnell, 31 December 1818" copy="37" copyid="37"
     institution="yale" catalog="bentley" catid="bb134.37">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Receipt 31 December 1818">
+                <title reg="Receipt, John Linnell, 31 December 1818">
                     <main>Receipt 31 December 1818</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
                 to 1.5MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -169,34 +168,33 @@
                 <objtitle>
                     <title>Receipt 31 December 1818</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>William Blake
+                    <role>author,</role>
                     <role>inventor,</role>
-                    <role>delineator</role>
+                    <role>delineator. This receipt is written and signed by Blake.</role>
                 </origination>
-                <compdate value="1818">1818</compdate>
+                <compdate value="1818.D">1818</compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize/>
+                <objsize>6.5 x 16.5 cm.</objsize>
                 <numberleaves>1<note/>
                 </numberleaves>
-                <leafsize/>
+                <leafsize>6.5 x 16.5 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <framelines>none</framelines>
                 <binding>none</binding>
-                <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
                 <name>Yale University Library</name>
                 <date>1956</date>
-                <dealer>W.H. Robinson</dealer>
+                <dealer>W. H. Robinson</dealer>
                 <price>£78 15s</price>
                 <note>
-                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W. H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
                 </note>
             </provenance>
             <repository>
@@ -223,8 +221,10 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>On a slip of paper 6.5 x 16.5 cm.</objsize>
-                <objnote><p> To the left of the text is an embossed revenue stamp depicting a shield
+                <objsize>6.5 x 16.5 cm.</objsize>
+                <objnote>
+                    <p>This receipt is written and signed by Blake.</p>
+                    <p> To the left of the text is an embossed revenue stamp depicting a shield
                     bearing the union flag and surrounded by the motto &#8220;DIEU ET MON
                     DROIT&#8221;. Above the shield is a coronet and on the left and right sides
                     are sprigs of long, narrow leaves. Below the shield is the phrase &#8220;TWO
@@ -235,9 +235,9 @@
                 <lg justify="left">
                     <l n="bb134.37.ms.01.01" justify="left" indent ="2"><choice><orig>Recieved</orig>
                         <reg>Received</reg>
-                    </choice> 31<choice><orig>Decemb<hi rend="superscript">r</hi></orig>
+                    </choice> 31 <choice><orig>Decemb<hi rend="superscript">r</hi></orig>
                         <reg type="abbrev">December</reg>
-                    </choice>1818 of M<hi rend="superscript">r</hi> Linnell<note>Bentley (*Blake Records*, page 774) and Keynes (*Letters*, page 145) read "Recieved".</note></l>
+                    </choice>1818 of M<hi rend="superscript">r</hi> Linnell</l>
                     <l n="bb134.37.ms.01.02" justify="left" indent ="2">the Sum of Three Pounds Fifteen Shillings</l>
                     <l n="bb134.37.ms.01.03" justify="left" indent ="3.5">the Balance of Account of M<hi rend="superscript">r</hi> Uptons Plate</l>
                     <l n="bb134.37.ms.01.04" justify="left" indent ="3"><hi rend="u"><space extent="0.5"/>3. 15.0<space extent="1.5"/></hi><space extent="16"/>William Blake</l>

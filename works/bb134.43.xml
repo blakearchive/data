@@ -1,9 +1,9 @@
-<bad id="bb134.43" type="ms" work="Receipt 14 July 1826" copy="43" copyid="43"
+<bad id="bb134.43" type="ms" work="Receipt, John Linnell, 14 July 1826" copy="43" copyid="43"
     institution="yale" catalog="bentley" catid="bb134.43">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Receipt 14 July 1826">
+                <title reg="Receipt, John Linnell, 14 July 1826">
                     <main>Receipt 14 July 1826</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
@@ -18,8 +18,7 @@
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from approx. 75KB
                 to 1.5MB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>February 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt></updatestmt>
             <notesstmt/>
@@ -169,34 +168,38 @@
                 <objtitle>
                     <title>Receipt 14 July 1826</title>
                 </objtitle>
-                <origination>William Blake<role>author,</role>
+                <origination>William Blake
+                    <role>author,</role>
                     <role>inventor,</role>
                     <role>delineator</role>
                 </origination>
-                <compdate value="1826">1826</compdate>
+                <origination>Edward John Chance
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator. Blake wrote this receipt, and "Edwd. Jno. Chance" signed it as witness (see object note).</role>
+                </origination>
+                <compdate value="1826.A">1826</compdate>
             </objdescid>
             <objinfo>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize/>
+                <objsize>7.5 x 18.5 cm.</objsize>
                 <numberleaves>1<note/>
                 </numberleaves>
-                <leafsize/>
+                <leafsize>7.5 x 18.5 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <framelines>none</framelines>
                 <binding>none</binding>
-                <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
                 <name>Yale University Library</name>
                 <date>1956</date>
-                <dealer>W.H. Robinson</dealer>
+                <dealer>W. H. Robinson</dealer>
                 <price>£78 15s</price>
                 <note>
-                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W.H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
+                    John Linnell; from the Linnell collection; sold at Christie's, Dec. 2, 1938 to the dealer W. H. Robinson on behalf on Otis T. Bradley (in Lot 62 £78 15s); presented to Yale University Library by Mr. Otis T. Bradley in 1941 or 1942.  
                 </note>
             </provenance>
             <repository>
@@ -223,10 +226,10 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>On a slip of paper 7.5 x 18.5 cm.</objsize>
+                <objsize>7.5 x 18.5 cm.</objsize>
                 <objnote>
-                    <p>To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;TWO SHILLING/SIX PENCE&#8221; at the centre.</p>
-                    <p>The second signature, signed by the witness to this statement, is not in Blake's hand. Keynes (<hi rend="i">Letters</hi>, 161) and Bentley (<hi rend="i">Blake Records</hi>,776) identify this signature and witness as Edward John Chance, Linnell's nephew.</p>
+                    <p>Blake wrote this receipt, and "Edwd. Jno. Chance" signed it as witness. Keynes (*Letters*, page 161) identifies this signature and witness as Edward John Chance, a son-in-law of John Linnell.</p>
+                    <p>To the left of the text is an embossed revenue stamp depicting a coronet and sprigs of long, narrow leaves on its left and right. The word &#8220;RECEIPT&#8221; appears at the top and the words &#8220;TWO SHILLING/SIX PENCE&#8221; at the centre.</p>  
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
@@ -237,8 +240,8 @@
                         <choice>
                             <orig>Recievd</orig>
                             <reg>Received</reg>
-                        </choice> of M<hi rend="superscript">r</hi>John Linnell . the Sum of One</l>
-                    <l n="bb134.43.ms.01.03" justify="left" indent="11">Hundred &amp; Fifty Pounds for the
+                        </choice> of M<hi rend="superscript">r</hi>John Linnell. the Sum of One</l>
+                    <l n="bb134.43.ms.01.03" justify="left" indent="11">Hundred &amp; fifty Pounds for the
                         Copy-right &amp; Plates</l>
                     <l n="bb134.43.ms.01.04" justify="left" indent="11">(Twenty-two in number) of the Book of
                         Job. <choice>
