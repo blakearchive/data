@@ -1,3 +1,16 @@
+<script>
+    jQuery(document).ready(function() {
+    jQuery('[data-toggle="tooltip"]').each(function() {
+        var $elem = jQuery(this);
+        $elem.tooltip({
+            html:true,
+            container: $elem,
+            delay: {hide:400}
+        });
+    });
+});
+</script>
+
 <div class="col-sm-12 col-sm-offset-3 content-right-column" style="margin-left:0%;background: #171515;
     color: #cbcbcb;">
     <div class="row">
@@ -542,7 +555,7 @@
                 opaque colors were applied to the plate's surfaces and shallows, sometimes heavily,
                 sometimes lightly, and printed with the inked design. Blake had adapted the <i>á la
                     poup&#233;e</i> technique English printers used for color printing, and used it for
-                nearly everything he printed in 1794-95.<span class='footnote' data-toggle="tooltip" title="French printers favored the multi-plate mode of color printing: a key plate prints the outline and separate plates, registered exactly onto the key plate, carry one or more colors. For a detailed examination of Blakes color printing method and others of his day, see Essick and Viscomi, Inquiry and Blakes Method." tooltip></span> In effect, he painted plates with
+                nearly everything he printed in 1794-95.<span class='footnote' data-toggle="tooltip" title="French printers favored the multi-plate mode of color printing: a key plate prints the outline and separate plates, registered exactly onto the key plate, carry one or more colors. For a detailed examination of Blakes color printing method and others of his day, see Essick and Viscomi, Inquiry and Blakes Method."></span> In effect, he painted plates with
                 small dabbers (<i>poup&#233;es</i>) to produce opaque colors and textures resembling oil
                 sketches <sup><a style="color:pink" href="" ng-click="exhibitCtrl.scrollTo(79);">ill. 11
 </a> <a style="color:pink" href="" ng-click="exhibitCtrl.scrollTo(80);">ill. 12
