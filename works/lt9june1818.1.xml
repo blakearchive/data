@@ -16,13 +16,13 @@
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20.5KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
-                to ??KB</extent>
+            <extent>1 XML file approx. 20.5KB; 4 JPEG (ISO/IEC 10918) files ranging in size from 500KB
+                to 1.6MBKB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
                     Archives<date>February 2019</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            <updatestmt>  </updatestmt>
+            <updatestmt></updatestmt>
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2018</date> by Morris Eaves, Robert N. Essick, and Joseph
@@ -70,9 +70,9 @@
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>design</watermark>
-                <binding>loose</binding>
+                <binding>none</binding>
                 <postmark>B / J[U?] / [1]818</postmark>
-                <sealDesc>Traces of what appears to have been a wafer seal are are visible; see note
+                <sealDesc>Traces of what appears to have been a wafer seal are visible; see note
                     on Number of Leaves above.</sealDesc>
                 <addressee>Dawson Turner</addressee>
                 <placeLet>London</placeLet>
@@ -84,9 +84,9 @@
                 <price>gift</price>
                 <note>Dawson Turner; sold with the Dawson Turner collection at Puttick and
                     Simpson's, London, 6-10 June 1859, as part of lot 676, "AUTOGRAPHS: SECOND
-                    SERIES; 6 vols." (£24); offered by J.S. Davey for £6.6.o. (Keynes, Letters, page
+                    SERIES; 6 vols." (£24); offered by J. S. Davey for £6.6.o. (Keynes *Letters*, page
                     215); acquired by W. A. White who lent it to the Grolier Club in 1905 and the
-                    Fogg Art Museum in 1924; on his death in 1929, sold to A.S.W. Rosenbach;
+                    Fogg Art Museum in 1924; on White's death in 1929, sold to A. S. W. Rosenbach;
                     bequeathed to Rosenbach Museum and Library, Philadelphia.</note>
             </provenance>
             <repository>
@@ -116,13 +116,13 @@
                         repaired along the corner of the leaf containing Objects 1 and 4, probably
                         where a wafer seal was torn open. Traces of what appear to be a wafer seal,
                         no longer present, are visible along the edges of the folded letter.</p>
-                    <p>In the bottom left corner, oriented vertically, "1010/2" is inscribed in
-                        pencil in an unknown hand.</p>
+                    <p>In the bottom left corner, reoriented vertically, "1010/2" is inscribed in
+                        pencil in an unknown hand. In the bottom right corner, reoriented vertically, a few illegible characters are inscribed in pencil in an uknown hand.</p>
                 </objnote>
                 <windowsize width="800" height="685"/>
             </physdesc>
-            <supplemental objectid="supplt9june1818.1.rm.01" ovp="noindex"/>
             <phystext>
+                <vspace extent="5"/>
                 <lg type="prose" justify="left">
                     <l n="lt9june1818.1.ltr.01.01" justify="left">To</l>
                     <l n="lt9june1818.1.ltr.01.02" justify="left">Dawson Turner <choice><orig>Esq<hi
@@ -149,13 +149,13 @@
                         repaired along the corner of the leaf containing Objects 1 and 4, probably
                         where a wafer seal was torn open. Traces of what appear to be a wafer seal,
                         no longer present, are visible along the edges of the folded letter.</p>
-                    <p>In the top left corner, "E L 3 / .B636 / MS 1" is inscribed in an unknown
+                    <p>In the top left corner, "E L 3 / .B636 / MS1" is inscribed in pencil in an unknown
                         hand.</p>
                 </objnote>
                 <windowsize width="800" height="695"/>
             </physdesc>
-            <supplemental objectid="supplt9june1818.1.rm.01" ovp="noindex"/>
             <phystext>
+<vspace extent="2"/>
                 <lg justify="left">
                     <l n="lt9june1818.1.ltr.02.01" justify="left">Sir</l>
                     <l n="lt9june1818.1.ltr.02.02" justify="left" indent="7">I send you a List of
@@ -168,10 +168,8 @@
                     <l n="lt9june1818.1.ltr.02.05" justify="left">Those I Printed for <choice><orig>M<hi
                         rend="superscript">r</hi></orig><reg>Mr</reg></choice> <choice><orig>Humphry</orig><reg>Ozias Humphry</reg></choice> are a selection</l>
                     <l n="lt9june1818.1.ltr.02.06" justify="left">from the different Books of such
-                        as Could be Printed<note>Bentley (*Writings* volume 2, page
-                            1648) reads "such" as "Such"; Bentley, Erdman (page 771), and Keynes
-                                (*Letters*, page 142) read "Could" as
-                            "could".</note></l>
+                        as could be Printed<note>Bentley (*Writings* volume 2, page
+                            1648) reads "such" as "Such".</note></l>
                     <l n="lt9june1818.1.ltr.02.07" justify="left">without the Wr<unclear resp="nw"
                             >i</unclear><choice><orig>ting</orig><reg>writing</reg></choice> <choice><orig>tho</orig><reg>though</reg></choice> to the Loss of some of the best</l>
                     <l n="lt9june1818.1.ltr.02.08" justify="left">things For they when Printed
@@ -183,25 +181,25 @@
                             "which".</note></l>
                     <l n="lt9june1818.1.ltr.02.10" justify="left">could have been Executed <space
                             extent="19"/>&#163; <space extent="1"/>s <space extent="1"/>d</l>
-                    <l n="lt9june1818.1.ltr.02.11" justify="left" indent="7">America <space
-                            extent="10"/>18 Prints <space extent="2"/>folio . <space extent="1"
-                            />5&#163; 5 . 0<note>Bentley
+                    <l n="lt9june1818.1.ltr.02.11" justify="left" indent="8">America <space
+                            extent="9"/>18 Prints <space extent="4"/>folio . <space extent="1"
+                                                                                    />5<unclear resp="EL">&#163;</unclear> 5 . 0<note>Bentley
                                 (*Writings* volume 2, page 1648)
-                                and Keynes (*Letters*, page 142) do not read the &#163; after "5".</note></l>
-                    <l n="lt9june1818.1.ltr.02.12" justify="left" indent="7">Europe <space
-                            extent="12"/>17 do <space extent="4"/>folio <space extent="3"/>5 . 5 .
+                                and Keynes (*Letters*, page 142) do not read the unclear characters, possibly "&#163;", after "5".</note></l>
+                    <l n="lt9june1818.1.ltr.02.12" justify="left" indent="8">Europe <space
+                            extent="11"/>17 do <space extent="6"/>folio <space extent="2"/>5 . 5 .
                         0</l>
                     <l n="lt9june1818.1.ltr.02.13" justify="left" indent="7">Visions &#38;<hi
                             rend="superscript">c</hi>
-                        <space extent="9"/>8 do <space extent="5"/>folio <space extent="3"/>3 . 3.
+                        <space extent="10"/>8 do <space extent="6"/>folio <space extent="2"/>3 . 3.
                         0</l>
-                    <l n="lt9june1818.1.ltr.02.14" justify="left" indent="7">Thel . <space
-                            extent="13"/>6 do <space extent="5"/>Quarto <space extent="2"/>2 . 2 .
+                    <l n="lt9june1818.1.ltr.02.14" justify="left" indent="8">Thel . <space
+                            extent="14"/>6 do <space extent="5"/>Quarto 2 . 2 .
                         0</l>
-                    <l n="lt9june1818.1.ltr.02.15" justify="left" indent="7">Songs of Innocence 28
-                        do. <space extent="3"/>Octavo <space extent="2"/>3 . 3 . 0</l>
-                    <l n="lt9june1818.1.ltr.02.16" justify="left" indent="7">Songs of Experience 26
-                        do <space extent="3"/>Octavo <space extent="2"/>3 . 3 . 0</l>
+                    <l n="lt9june1818.1.ltr.02.15" justify="left" indent="7">Songs of Innocence <space extent="2"/> 28
+                        do. <space extent="2"/> Octavo 3 . 3 . 0</l>
+                    <l n="lt9june1818.1.ltr.02.16" justify="left" indent="7">Songs of Experience <space extent="2" />26
+                        do <space extent="3"/>Octavo<space extent="1"/>3 . 3 . 0</l>
                 </lg>
             </phystext>
         </desc>
@@ -225,13 +223,12 @@
                 </objnote>
                 <windowsize width="800" height="695"/>
             </physdesc>
-            <supplemental objectid="supplt9june1818.1.rm.02" ovp="noindex"/>
             <phystext>
                 <lg justify="left">
                     <l n="lt9june1818.1.ltr.03.01" justify="left" indent="7">Urizen <space
                             extent="3"/>28 Prints Quarto <space/>5 . 5 . 0</l>
                     <l n="lt9june1818.1.ltr.03.02" justify="left" indent="7">Milton <space
-                            extent="3"/>50 do <space extent="2"/>Quarto <space/>10 .10 . 0</l>
+                            extent="4"/>50 do <space extent="2"/>Quarto <space/>10 .10 . 0</l>
                 </lg>
                 <vspace extent="1"/>
                 <lg justify="left">
@@ -241,14 +238,14 @@
                         1&#38;&#189; Historical</l>
                     <l n="lt9june1818.1.ltr.03.05" justify="left" indent="7">&#38; Poetical Printed
                         in <choice><orig>Colours</orig><reg>Colors</reg></choice></l>
-                    <l n="lt9june1818.1.ltr.03.06" justify="left" indent="26">Each <space/>5 . 5 .
-                        0</l>
+                    <l n="lt9june1818.1.ltr.03.06" justify="left" indent="27">Each <space/>5 . 5 .
+                        0<note>Lines 3-6 are enclosed by a single bracket on the right.</note></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg justify="left">
-                    <l n="lt9june1818.1.ltr.03.07" justify="left" indent="2">These last 12 Prints
+                    <l n="lt9june1818.1.ltr.03.07" justify="left" indent="1">These last 12 Prints
                         are unaccompanied by any</l>
-                    <l n="lt9june1818.1.ltr.03.08" justify="left" indent="3">writing</l>
+                    <l n="lt9june1818.1.ltr.03.08" justify="left" indent="2">writing</l>
                     <l n="lt9june1818.1.ltr.03.09" justify="left" indent="5">The few I have Printed
                         &#38; Sold are sufficient</l>
                     <l n="lt9june1818.1.ltr.03.10" justify="left">to have gained me great reputation
@@ -291,7 +288,6 @@
                 </objnote>
                 <windowsize width="800" height="695"/>
             </physdesc>
-            <supplemental objectid="supplt9june1818.1.rm.02" ovp="noindex"/>
             <phystext>
                 <lg justify="left">
                     <l n="lt9june1818.1.ltr.04.01" justify="left">least as well as any I have yet
