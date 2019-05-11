@@ -18,10 +18,10 @@
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 11.9KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
-                to ??KB</extent>
+            <extent>1 XML file approx. 11.9KB; 4 JPEG (ISO/IEC 10918) files ranging in size from approx. 525KB
+                to 3.2MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>February 2019</date></publicationstmt>
+                    Archives<date>June 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
@@ -63,7 +63,7 @@
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
                 <watermark>none</watermark>
-                <binding>loose</binding>
+                <binding>none</binding>
                 <postmark>none</postmark>
                 <sealDesc>wafer</sealDesc>
                 <addressee>Elizabeth Aders, wife of Charles Aders; Blake abbreviates or misspells
@@ -91,11 +91,9 @@
                 <addressline>Fax: 512-471-9646</addressline>
                 <addressline>URL: http://www.hrc.utexas.edu/</addressline>
                 <department>Manuscripts</department>
-                <repositoryid label="Call number">William Blake Collection, Letters
-                    series</repositoryid>
+                <repositoryid label="Catalog number">William Blake Collection, MS-00404, Letters</repositoryid>
             </repository>
         </source>
-
         <desc id="lt29dec1826.1.ltr.01" dbi="lt29dec1826.1.1.LT">
             <objtitle>
                 <title type="editorial">Address</title>, <objid>
@@ -116,22 +114,21 @@
                 <windowsize width="800" height="685"/>
             </physdesc>
             <phystext>
+                <vspace extent="6"/>
                 <lg justify="left">
-                    <l n="lt29dec1826.1.ltr.01.01" justify="left"><choice><orig>M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> 
+                    <l n="lt29dec1826.1.ltr.01.01" justify="left" indent="8"><choice><orig>M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> 
                         <choice>
                             <orig>Ades</orig>
                             <reg>Aders</reg>
-                        </choice><note>Blake abbreviates or misspells the surname "Aders" as "Ades"
-                            in the address (Object 1, line 1) and body of the letter (Object 2, line
-                            1).</note></l>
-                    <l n="lt29dec1826.1.ltr.01.02" justify="left" indent="1">Euston Square</l>
+                        </choice></l>
+                    <l n="lt29dec1826.1.ltr.01.02" justify="left" indent="9">Euston Square</l>
                 </lg>
             </phystext>
         </desc>
         <desc id="lt29dec1826.1.ltr.02" dbi="lt29dec1826.1.2.LT">
             <objtitle><title type="transcribed">Mr Blakes respectful Compliments to Mrs
                     Ade[r]s</title>, <objid>
-                    <objnumber code="A2">Object 2 </objnumber>
+                    <objnumber code="A2">Object 2</objnumber>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
@@ -151,6 +148,7 @@
                 <windowsize width="800" height="695"/>
             </physdesc>
             <phystext>
+                <vspace extent="4"/>
                 <lg justify="left">
                     <l n="lt29dec1826.1.ltr.02.01" justify="left"><choice><orig>M<hi
                                     rend="superscript">r</hi></orig><reg>Mr</reg></choice>
@@ -160,9 +158,7 @@
                         <choice>
                             <orig>Ades</orig>
                             <reg>Elizabeth Aders</reg>
-                        </choice> is sorry to<note>Blake abbreviates or misspells the surname
-                            "Aders" as "Ades" in the address (Object 1, line 1) and body of the
-                            letter (Object 2, line 1).</note></l>
+                        </choice> is sorry to</l>
                     <l n="lt29dec1826.1.ltr.02.02" justify="left">say that his Illness is so far
                         from gone that the least thing</l>
                     <l n="lt29dec1826.1.ltr.02.03" justify="left">brings on the symptoms of the
