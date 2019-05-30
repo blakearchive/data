@@ -17,10 +17,10 @@
                     <funder/>
                </titlestmt>
                <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-               <extent>1 XML file approx. 27.6KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
-                    ??KB to ??KB</extent>
+               <extent>1 XML file approx. 27.4KB; 8 JPEG (ISO/IEC 10918) files ranging in size from
+                    approx. 157KB to 1.5MB</extent>
                <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                         Archives<date>February 2019</date></publicationstmt>
+                         Archives<date>June 2019</date></publicationstmt>
                <seriesstmt>The William Blake Archive</seriesstmt>
                <updatestmt> </updatestmt>
                <notesstmt/>
@@ -50,33 +50,30 @@
                <objinfo>
                     <numberobj>4</numberobj>
                     <objorder>1-4</objorder>
-                    <objsize>full sheet 30.7 x 19.1 cm.</objsize>
-                    <numberleaves>2<note>The full sheet was folded to form two leaves. This folded
-                              sheet was folded furter to form a sealed packet for posting. The
-                              address appears on the exterior of the folded packet. </note>
+                    <objsize>full sheet 19.1 x 30.7 cm. <note>Full sheet and Leaf Size dimensions (height x width) are given according to the vertical orientation of the body of Blake's letter; see the note on Number of Leaves, below. Object 1 has been reoriented vertically in the Object View Page, as would be customary when reading the address.</note></objsize>
+                    <numberleaves>2<note>The full sheet was folded to form two leaves. Blake's letter appears on the first recto (Object 2) and first verso (Object 3) and second recto (Object 4). This folded sheet was folded further to form a sealed packet for posting. The address appears on the second verso (Object 1).</note>
                     </numberleaves>
-                    <leafsize>30.7 x 19.1 cm.</leafsize>
+                    <leafsize>19.1 x 15.3 cm.</leafsize>
                     <medium>pen and ink</medium>
                     <inkcolor>black</inkcolor>
                     <support>laid paper</support>
-                    <watermark>wafer</watermark>
-                    <binding>loose</binding>
+                    <watermark>F HAYES / 1798</watermark>
+                    <binding>none</binding>
                     <postmark>none</postmark>
                     <sealDesc>red wafer</sealDesc>
                     <addressee>Thomas Butts</addressee>
                     <placeLet>Felpham</placeLet>
                </objinfo>
                <provenance n="1">
-                    <name>City of Westminster Archive</name>
+                    <name>City of Westminster Archives Centre</name>
                     <date>1967</date>
                     <dealer>none</dealer>
                     <price>gift</price>
-                    <note>The letter was sold along with the letters of 22 Sept., end of Sept., 2
-                         Oct. 1800, 10 May, 1801, 10 Jan., 22 Nov. (both parts) 1802, 25 April, 6
-                         July, 16 Aug. 1803 by Captain Frederick Butts in about 1906 to W. Graham
-                         Robertson, who allowed them to be reproduced in 1926 and bequeathed them in
-                         1948 to Mr. Kerrison Preston, who gave them in 1967 to the Westminster
-                         Arhives.</note>
+                   <note>Captain Frederick Butts (the grandson of the recipient) sold (c. 1906) this
+                         letter along with several other letters to W. Graham Robertson, who allowed them 
+                         to be reproduced (1926) and bequeathed them in 1948 to Mr. Kerrison Preston, who 
+                         gave them in 1967 to The Westminster Public Library, which has since been 
+                         incorporated into the City of Westminster Archives Centre.</note>
                </provenance>
                <repository>
                     <institution>City of Westminster Archives Centre</institution>
@@ -91,33 +88,31 @@
                          &#38; Receipts (5)</repositoryid>
                </repository>
           </source>
-
           <desc id="lt11sept1801.1.ltr.01" dbi="lt11sept1801.1.1.LT">
                <objtitle>
-                    <title type="editorial">Letter to Thomas Butts</title>, <objid>
+                    <title type="editorial">Address</title>, <objid>
                          <objnumber code="A1">Object 1</objnumber>
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>30.7 x 19.1 cm.</objsize>
+                    <objsize>15.3 x 19.1 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. Blake's letter appears on
                               the first recto (Object 2) and first verso (Object 3) and second recto
                               (Object 4). This folded sheet was folded further to form a sealed
                               packet for posting. The address appears on the second verso (Object
-                              1), which would have been the exterior of the sealed packet. The
-                              number “5” facing downward is written in the upper left corner of the
-                              second verso (Object 1) in an unknown hand.</p>
-                         <p>A tear appears on the bottom of Object 1, presumably where a sticker has
-                              been torn away upon the letters opening.</p>
+                              1), which would have been the exterior of the sealed packet.</p> 
+                         <p>The number “5” is written upside down (as the object is reoriented for reading the address) in the lower left corner in an unknown hand.</p>
+                         <p>A tear appears on the bottom of the object, presumably where the wafer was torn away upon opening the letter.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
+                    <vspace extent="10"/>
                     <lg justify="left">
-                         <l n="lt11sept1801.1.ltr.01.01" justify="left" indent="2">Mr. Butts</l>
+                         <l n="lt11sept1801.1.ltr.01.01" justify="left" indent="2">M<hi rend="superscript">r</hi> Butts</l>
                          <l n="lt11sept1801.1.ltr.01.02" justify="left">Great Marlborough Street</l>
-                         <l n="lt11sept1801.1.ltr.01.03" justify="left" indent="5">London--</l>
+                         <l n="lt11sept1801.1.ltr.01.03" justify="left" indent="5">London&#8212;</l>
                     </lg>
                </phystext>
           </desc>
@@ -128,28 +123,22 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>19.2 x 30.1 cm.</objsize>
+                    <objsize>19.1 x 15.3 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. Blake's letter appears on
                               the first recto (Object 2) and first verso (Object 3) and second recto
                               (Object 4). This folded sheet was folded further to form a sealed
                               packet for posting. The address appears on the second verso (Object
-                              1), which would have been the exterior of the sealed packet. The
-                              number “5” facing downward is written in the upper left corner of the
-                              second verso (Object 1) in an unknown hand.</p>
-                         <p>Red stain on the middle-left side of the object and a small tear on the
-                              middle-right side of the object. </p>
+                              1), which would have been the exterior of the sealed packet.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
+                    <vspace extent="2"/>
                     <lg justify="left">
                          <l n="lt11sept1801.1.ltr.02.01" justify="left">My Dear Sir</l>
-                         <l n="lt11sept1801.1.ltr.02.02" justify="left" indent="10">I hope you will
-                              continue to excuse my want of s<subst>
-                                   <del type="overwrite">p</del>
-                                   <add type="overwrite" place="inline">t</add>
-                              </subst><choice>
+                         <l n="lt11sept1801.1.ltr.02.02" justify="left" indent="9">I hope you will
+                              continue to excuse my want of s<subst><del type="overwrite">p</del><add type="overwrite" place="inline">t</add></subst><choice>
                                    <orig>eady</orig>
                                    <reg>steady</reg>
                               </choice> perseverance </l>
@@ -233,25 +222,23 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>19.0 x 30.7 cm.</objsize>
+                    <objsize>19.1 x 15.3 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. Blake's letter appears on
                               the first recto (Object 2) and first verso (Object 3) and second recto
                               (Object 4). This folded sheet was folded further to form a sealed
                               packet for posting. The address appears on the second verso (Object
-                              1), which would have been the exterior of the sealed packet. The
-                              number “5” facing downward is written in the upper left corner of the
-                              second verso (Object 1) in an unknown hand. </p>
-                         <p>A stain and small tear appear on the left hand side of Object 3.</p>
+                              1), which would have been the exterior of the sealed packet.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
+                    <vspace extent="1"/>
                     <lg justify="left">
                          <l n="lt11sept1801.1.ltr.03.01" justify="left">which are not yet completed.
                               I thank you again &#38; again for your</l>
                          <l n="lt11sept1801.1.ltr.03.02" justify="left">generous forbearance of
-                              which I have need-- &#38; now I must express</l>
+                              which I have need_ &#38; now I must express</l>
                          <l n="lt11sept1801.1.ltr.03.03" justify="left">my wishes to see you at
                               Felpham &#38; to <choice><orig>shew</orig><reg>show</reg></choice> you
                                              <choice><orig>M<hi rend="superscript"
@@ -272,7 +259,7 @@
                          <l n="lt11sept1801.1.ltr.03.08" justify="left">Friends as the most innocent
                               forgetter of his own Interests. He is</l>
                          <l n="lt11sept1801.1.ltr.03.09" justify="left" indent="7">
-                              <add place="supralinear">The late</add>
+                              <add place="supralinear">the late</add>
                          </l>
                          <l n="lt11sept1801.1.ltr.03.10" justify="left">nephew to <add
                                    type="insertion" place="inline" symbol="caret"><hi
@@ -306,8 +293,6 @@
                          <l n="lt11sept1801.1.ltr.03.18" justify="left">Perhaps or rather Certainly
                               the very best letters that ever</l>
                          <l n="lt11sept1801.1.ltr.03.19" justify="left">were published</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt11sept1801.1.ltr.03.20" justify="left" indent="6"> My wife joins
                               with me in Love to you &#38; <choice><orig>M<hi rend="superscript"
                                              >rs</hi></orig><reg>Mrs</reg></choice> Butts</l>
@@ -325,7 +310,7 @@
                          <l n="lt11sept1801.1.ltr.02.27" justify="left">September 11. 1801</l>
                     </lg>
                     <lg justify="left">
-                         <l n="lt11sept1801.1.ltr.02.28" justify="left" indent="6">Next time I have
+                         <l n="lt11sept1801.1.ltr.02.28" justify="left" indent="4">Next time I have
                               the happiness to see you I am determined</l>
                          <l n="lt11sept1801.1.ltr.02.29" justify="left">to paint another Portrait of
                               you from Life in my best manner</l>
@@ -341,20 +326,18 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>19.1 x 30.7 cm.</objsize>
+                    <objsize>19.1 x 15.3 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. Blake's letter appears on
                               the first recto (Object 2) and first verso (Object 3) and second recto
                               (Object 4). This folded sheet was folded further to form a sealed
                               packet for posting. The address appears on the second verso (Object
-                              1), which would have been the exterior of the sealed packet. The
-                              number “5” facing downward is written in the upper left corner of the
-                              second verso (Object 1) in an unknown hand.</p>
-                         <p>A tear appears on the right side of Object 4.</p>
+                              1), which would have been the exterior of the sealed packet.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
+                    <vspace extent="1"/>
                     <lg type="prose" justify="left">
                          <l n="lt11sept1801.1.ltr.04.01" justify="left">now
                                         <choice><orig>discoverd</orig><reg>discovered</reg></choice>
@@ -373,20 +356,20 @@
                     </lg>
                     <vspace extent="5"/>
                     <lg>
-                         <l n="lt11sept1801.1.ltr.04.06" justify="left">P.S. Please to Remember our
+                         <l n="lt11sept1801.1.ltr.04.06" justify="left" indent="1">P.S. Please to Remember our
                               best respects</l>
-                         <l n="lt11seot1801.1.ltr.04.07" justify="left">to <choice><orig>M<hi
+                         <l n="lt11seot1801.1.ltr.04.07" justify="left" indent="3">to <choice><orig>M<hi
                                              rend="superscript">r</hi></orig><reg>Mr</reg></choice>
-                                        B<subst><del type="overwrite" extent="1"
-                                   /><add>i</add></subst><choice><orig>rch</orig><reg>John
+                                        B<subst><gap reason="overwrite" extent="1" unit="character"
+                                   /><add type="overwrite" place="inline">i</add></subst><choice><orig>rch</orig><reg>John
                                         Birch</reg></choice> &#38; tell him that Felpham</l>
-                         <l n="lt11sept1801.1.ltr.04.08" justify="left">Men are the mildest of the
+                         <l n="lt11sept1801.1.ltr.04.08" justify="left" indent="3">Men are the mildest of the
                               human race if</l>
-                         <l n="lt11sept1801.1.ltr.04.09" justify="left">it is the will of Providence
+                         <l n="lt11sept1801.1.ltr.04.09" justify="left" indent="3">it is the will of Providence
                               they shall be the wisest</l>
-                         <l n="lt11sept1801.1.ltr.04.10" justify="left">We hope that he will next
+                         <l n="lt11sept1801.1.ltr.04.10" justify="left" indent="3">We hope that he will next
                               Summer joke us</l>
-                         <l n="lt11sept1801.1.ltr.04.11" justify="left">face to face-------God bless
+                         <l n="lt11sept1801.1.ltr.04.11" justify="left" indent="3">face to face&#8212; &#8212;God bless
                               you all</l>
                     </lg>
                </phystext>
