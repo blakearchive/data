@@ -17,10 +17,10 @@
                     <funder/>
                </titlestmt>
                <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-               <extent>1 XML file approx. 32.1KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
-                    ??KB to ??KB</extent>
+               <extent>1 XML file approx. 31.9KB; 8 JPEG (ISO/IEC 10918) files ranging in size from
+                    approx. 200KB to 1.4MB</extent>
                <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                         Archives<date>February 2019</date></publicationstmt>
+                         Archives<date>June 2019</date></publicationstmt>
                <seriesstmt>The William Blake Archive</seriesstmt>
                <updatestmt> </updatestmt>
                <notesstmt/>
@@ -39,7 +39,7 @@
           <source>
                <objdescid>
                     <objtitle>
-                         <title>Letter to Thomas Butts, 22 November 1802</title>
+                         <title>Letter to Thomas Butts, 22 November 1802-A</title>
                     </objtitle>
                     <origination>William Blake<role>author, </role>
                          <role>inventor, </role>
@@ -50,26 +50,32 @@
                <objinfo>
                     <numberobj>4</numberobj>
                     <objorder>1-4</objorder>
-                    <objsize>full sheet 15.8 x 18.8 cm.</objsize>
-                    <numberleaves>2<note>A double leaf written on four sides.</note>
+                    <objsize>full sheet 18.8 x 31.6 cm.<note>Full sheet and Leaf Size dimensions (height x width) are given according to the vertical orientation of the body of Blake's letter; see the note on Number of Leaves, below.</note></objsize>
+                    <numberleaves>2
+                         <note>The full sheet was folded to form two leaves. The letter appears on the
+                              first recto (Object 1) first verso (Object 2) second recto (Object 3) 
+                              and second verso (Object 4) of the folded sheet. This folded sheet was 
+                              folded further to form a sealed packet for posting. The address appears 
+                              on the second verso (Object 4), which would have been the exterior of 
+                              the folded packet. </note>
                     </numberleaves>
-                    <leafsize>15.8 x 18.8 cm.</leafsize>
+                    <leafsize>18.8 x 15.8 cm.</leafsize>
                     <medium>pen and ink</medium>
                     <inkcolor>black</inkcolor>
                     <support>laid paper</support>
-                    <watermark>F HAYES/1798</watermark>
-                    <binding>loose</binding>
+                    <watermark>F HAYES / 1798</watermark>
+                    <binding>none</binding>
                     <postmark>none</postmark>
                     <sealDesc>none</sealDesc>
                     <addressee>Thomas Butts</addressee>
-                    <placeLet>///Felpham</placeLet>
+                    <placeLet>Felpham</placeLet>
                </objinfo>
                <provenance n="1">
-                    <name>Westminster Public Library</name>
+                    <name>City of Westminster Archives Centre</name>
                     <date>1967</date>
                     <dealer>none</dealer>
                     <price>gift</price>
-                    <note>According to Keynes this letter has the same history as another Blake to Butts letter (21 September 1800). "Acquired from Captain Butts about 1906 by the late W. Graham Robertson and bequeathed by him to his executor, Mr. Kerrison Preston, who gave it with his blake collectionto the City of Westminster Central Reference Library in 1967</note>
+                    <note>Captain Frederick Butts (the grandson of the recipient) sold (c. 1906) this letter along with several other letters to W. Graham Robertson, who allowed them to be reproduced (1926) and bequeathed them in 1948 to Mr. Kerrison Preston, who gave them in 1967 to The Westminster Public Library, which has since been incorporated into the City of Westminster Archives Centre.</note>
                </provenance>
                <repository>
                     <institution>City of Westminster Archives Centre</institution>
@@ -83,7 +89,6 @@
                     <repositoryid label="Call Number">Preston Blake Collection: Blake-Butts Letters &#38; Receipts (7)</repositoryid>
                </repository>
           </source>
-
           <desc id="lt22nov1802a.1.ltr.01" dbi="lt22nov1802a.1.1.LT">
                <objtitle>
                     <title type="transcribed">My Brother tells me that he fears you are offended</title>, <objid>
@@ -91,7 +96,7 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>15.8 x 18.8 cm.</objsize>
+                    <objsize>18.8 x 15.8 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. The letter appears on the
                               first recto (Object 1) first verso (Object 2) second recto (Object 3) 
@@ -99,34 +104,30 @@
                               folded further to form a sealed packet for posting. The address appears 
                               on the second verso (Object 4), which would have been the exterior of 
                               the folded packet. </p>
-                         <p>On the second verso (Object 4), the letter only takes up about half of the page. In the bottom half of the leaf there are two stray inscriptions. One of them is three stray lines of verse on the left half of the bottom of the page that read from bottom up. The other is the name and address of Thomas Butts and reads from top down.</p>
+                         <p>The number "7" is written in the upper right corner in pencil in an unknown hand.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
                     <lg justify="left">
                          <l n="lt22nov1802a.1.ltr.01.01" justify="left" indent="12">Felpham <choice><orig>Nov<hi rend="superscript">r</hi></orig><reg>November</reg></choice>. 22: 1802</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt22nov1802a.1.ltr.01.02" justify="left">Dear Sir</l>
                          <l n="lt22nov1802a.1.ltr.01.03" justify="left" indent="8">My Brother tells me that he fears you are offended</l>
                          <l n="lt22nov1802a.1.ltr.01.04" justify="left">with me. I fear so too because there appears some reason why you</l>
                          <l n="lt22nov1802a.1.ltr.01.05" justify="left">might be so. But when you have heard me out you will not be so</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt22nov1802a.1.ltr.01.06" justify="left" indent="4">I have now given two years to the intense study of those</l>
                          <l n="lt22nov1802a.1.ltr.01.07" justify="left">parts of the art which relate to light &#38; shade &#38; <choice><orig>colour</orig><reg>color</reg></choice> &#38; am <choice><orig>Convincd</orig><reg>Convinced</reg></choice></l>
                          <l n="lt22nov1802a.1.ltr.01.08" justify="left">that either my understanding is incapable of comprehending the</l>
                          <l n="lt22nov1802a.1.ltr.01.09" justify="left">beauties of <choice><orig>Colouring</orig><reg>Coloring</reg></choice> or the Pictures which I painted for You Are<note>Keynes (*Letters*, page 40) reads "You" as "you".</note></l>
                          <l n="lt22nov1802a.1.ltr.01.10" justify="left">Equal in Every part of the Art &#38; superior in One to <choice><orig>any thing</orig><reg>anything</reg></choice> that</l> 
-                         <l n="lt22nov1802a.1.ltr.01.11" justify="left">has been done since the age of <choice><orig>Rafael</orig><reg type="alt_name">Raphael</reg></choice>.&#95;<add type="insertion" place="supralinear">All</add> <choice><orig>S<hi rend="superscript">r</hi></orig><reg>Sir</reg></choice> J Reynolds's discourses</l>
-                         <l n="lt22nov1802a.1.ltr.01.12" justify="left"><substSpan spanto="D2"/><add type="insertion" place="supralinear">to the Royal Academy</add></l>
-                         <l n="lt22nov1802a.1.ltr.01.13" justify="left"><add type="insertion" place="sublinear">^</add> will <choice><orig>shew</orig><reg>show</reg></choice> that the Venetian finesse in <add type="insertion" place="supralinear">^</add><anchor xml:id="D2"/>art can never be united</l>
+                         <l n="lt22nov1802a.1.ltr.01.11" justify="left">has been done since the age of <choice><orig>Rafael</orig><reg type="alt_name">Raphael</reg></choice>. <add type="insertion" place="supralinear"><hi rend="u">All</hi></add> <choice><orig>S<hi rend="superscript">r</hi></orig><reg>Sir</reg></choice> J Reynolds's discourses</l>
+                         <l n="lt22nov1802a.1.ltr.01.12" justify="left"><add type="insertion" place="supralinear">to the Royal Academy</add><space extent="17"/><add type="insertion" symbol="caret" place="supralinear">^</add></l>
+                         <l n="lt22nov1802a.1.ltr.01.13" justify="left"><add type="insertion" symbol="caret" place="inline"><hi rend="subscript">^</hi></add> will <choice><orig>shew</orig><reg>show</reg></choice>. that the Venetian finesse in Art can never be united</l>
                          <l n="lt22nov1802a.1.ltr.01.14" justify="left">with the Majesty of <choice><orig>Colouring</orig><reg>Coloring</reg></choice> necessary to Historical beauty. &#38; in a</l>
                          <l n="lt22nov1802a.1.ltr.01.15" justify="left">letter to the <choice><orig>Rev<hi rend="superscript">d</hi></orig><reg type="abbrev">Reverend</reg></choice> <choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Gilpin author of a work on Picturesque Scenery</l>
                          <l n="lt22nov1802a.1.ltr.01.16" justify="left">he says Thus &#34;It may be worth consideration whether the epithet <choice><orig>Pic</orig><reg type="split_word">Picturesque</reg></choice>&#8211;&#34;</l>
-                         <l n="lt22nov1802a.1.ltr.01.17" justify="left">&#34;<choice><orig>turesque</orig><reg type="split_word">Picturesque</reg></choice> is not applicable to the excellencies of the inferior Schools&#34;</l>
-                         <l n="lt22nov1802a.1.ltr.01.18" justify="left">&#34;rather than to the higher. The works of <choice><orig>Michael Angelo</orig><reg>Michelangelo</reg></choice> <choice><orig>Rafael</orig><reg type="alt_name">Raphael</reg></choice> &#38;<hi rend="superscript">c</hi></l>
+                         <l n="lt22nov1802a.1.ltr.01.17" justify="left">&#34;-<choice><orig>turesque</orig><reg type="split_word">Picturesque</reg></choice> is not applicable to the excellencies of the inferior Schools&#34;</l>
+                         <l n="lt22nov1802a.1.ltr.01.18" justify="left">&#34;rather than to the higher. The works of <choice><orig>Michael Angelo</orig><reg>Michelangelo</reg></choice> <choice><orig>Rafael</orig><reg type="alt_name">Raphael</reg></choice> &#38;<hi rend="superscript">c</hi>"</l>
                          <l n="lt22nov1802a.1.ltr.01.19" justify="left">&#34;appear to me to have nothing of it: whereas Rubens &#38; the Venetian&#34;<note>Bentley (*Writings* volume 2, 1560) reads "appear" as "appears".</note></l>
                          <l n="lt22nov1802a.1.ltr.01.20" justify="left">&#34;Painters may almost be said to have Nothing Else.&#8212; Perhaps <choice><orig>Pic</orig><reg type="split_word">Picturesque</reg></choice>&#8211;&#34;</l>
                          <l n="lt22nov1802a.1.ltr.01.21" justify="left">&#34;&#8211;<choice><orig>turesque</orig><reg type="split_word">Picturesque</reg></choice> is somewhat synonymous to the word Taste which we should&#34;</l>
@@ -135,8 +136,8 @@
                          <l n="lt22nov1802a.1.ltr.01.24" justify="left">&#34;of an inferior order &#38; which are incompatible with the Grand Style&#34;</l>
                          <l n="lt22nov1802a.1.ltr.01.25" justify="left">&#34;You are certainly right in saying that Variety of Tints &#38; Forms is&#34;<note>Bentley (*Writings* volume 2, page 1560) and Keynes (*Letters*, page 41) read "Variety" as "variety".</note></l>
                          <l n="lt22nov1802a.1.ltr.01.26" justify="left">&#34;Picturesque: but it must be <choice><orig>rememberd</orig><reg>remembered</reg></choice> on the other hand. that the&#34;</l>
-                         <l n="lt22nov1802a.1.ltr.01.27" justify="left">&#34;reverse of this&#8212;(uniformity of <choice><orig>Colour</orig><reg>Color</reg></choice> &#38; a long continuation of lines&#34;)</l> 
-                         <l n="lt22nov1802a.1.ltr.01.28" justify="left">&#34;produces Grandeur&#34;&#8212; S<unclear resp="RR">o</unclear> Says <choice><orig>S<hi rend="superscript">ir</hi></orig><reg>Sir</reg></choice> Joshua and So say I for I have<note>The "o" in "So" in this line and the "e" in "the" on the next line are partly obscured by ink blots</note></l> 
+                         <l n="lt22nov1802a.1.ltr.01.27" justify="left">&#34;reverse of this&#8212;(<hi rend="u">uniformity of <choice><orig>Colour</orig><reg>Color</reg></choice></hi> &#38; a <hi rend="u">long continuation of lines</hi>&#34;)</l> 
+                         <l n="lt22nov1802a.1.ltr.01.28" justify="left">&#34;produces Grandeur&#34;&#8212; S<unclear resp="RR">o</unclear> Says <choice><orig>S<hi rend="superscript">ir</hi></orig><reg>Sir</reg></choice> Joshua and So say I for I have<note>The "o" in "So" in this line and the "e" in "the" on the next line are partially obscured by ink blots.</note></l> 
                          <l n="lt22nov1802a.1.ltr.01.29" justify="left">now proved that the parts of the art which I neglected to display in</l>
                          <l n="lt22nov1802a.1.ltr.01.30" justify="left">those little pictures &#38; drawings which I had the pleasure &#38; profit to do</l>
                          <l n="lt22nov1802a.1.ltr.01.31" justify="left">for you are incompatible with the designs&#8212;There is nothing in the</l> 
@@ -150,7 +151,7 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>15.7 x 18.7 cm.</objsize>
+                    <objsize>18.8 x 15.8 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. The letter appears on the
                               first recto (Object 1) first verso (Object 2) second recto (Object 3) 
@@ -158,19 +159,17 @@
                               folded further to form a sealed packet for posting. The address appears 
                               on the second verso (Object 4), which would have been the exterior of 
                               the folded packet. </p>
-                         <p>On the second verso (Object 4), the letter only takes up about half of the page. In the bottom half of the leaf there are two stray inscriptions. One of them is three stray lines of verse on the left half of the bottom of the page that read from bottom up. The other is the name and address of Thomas Butts and reads from top down.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
                     <lg justify="left">
-
                          <l n="lt22nov1802a.1.ltr.02.01" justify="left">Art which our Painters do. that I can confess myself ignorant of</l>
                          <l n="lt22nov1802a.1.ltr.02.02" justify="left">I also Know &#38; Understand &#38; can assuredly affirm that the works I</l>
                          <l n="lt22nov1802a.1.ltr.02.03" justify="left">have done for You are Equal to <choice><orig>Carrache</orig><reg type="alt_name">Carracci</reg></choice> or <choice><orig>Rafael</orig><reg type="alt_name">Raphael</reg></choice> (and I am now</l>
                          <l n="lt22nov1802a.1.ltr.02.04" justify="left">Seven years older than <choice><orig>Rafael</orig><reg type="alt_name">Raphael</reg></choice> was when he died) I say they are</l>
                          <l n="lt22nov1802a.1.ltr.02.05" justify="left">Equal to <choice><orig>Carrache</orig><reg type="alt_name">Carracci</reg></choice> or <choice><orig>Rafael</orig><reg type="alt_name">Raphael</reg></choice> or Else I am Blind Stupid Ignorant</l>
-                         <l n="lt22nov1802a.1.ltr.02.06" justify="left">and Incapable in two years study to understand those things which</l>
+                         <l n="lt22nov1802a.1.ltr.02.06" justify="left">and Incapable in two years Study to understand those things which</l>
                          <l n="lt22nov1802a.1.ltr.02.07" justify="left">a Boarding School Miss can comprehend in a fortnight. Be assured</l>
                          <l n="lt22nov1802a.1.ltr.02.08" justify="left">My dear Friend that there is not one touch in those Drawings &#38; Pictures</l>
                          <l n="lt22nov1802a.1.ltr.02.09" justify="left">but what came from my Head &#38; my Heart in Unison. That I am</l>
@@ -181,24 +180,18 @@
                          <l n="lt22nov1802a.1.ltr.02.14" justify="left">till I had again <choice><orig>reconsiderd</orig><reg>reconsidered</reg></choice> my notions of Art &#38; had put myself</l>
                          <l n="lt22nov1802a.1.ltr.02.15" justify="left">back as if I was a learner I have proved that I am Right &#38;</l>
                          <l n="lt22nov1802a.1.ltr.02.16" justify="left">shall now Go on with the Vigor I was in my Childhood famous for</l>
-                    </lg>
-                     <lg justify="left">
                          <l n="lt22nov1802a.1.ltr.02.17" justify="left" indent="2">But I do not pretend to be Perfect. but if my Works have faults</l>
                          <l n="lt22nov1802a.1.ltr.02.18" justify="left"><choice><orig>Carrache</orig><reg type="alt_name">Carracci</reg></choice> Corregio &#38; <choice><orig>Rafaels</orig><reg type="alt_name">Rapahel's</reg></choice> have faults also. let me observe that the<note>Erdman (page 719) reads "Corregios" for "Corregio".</note></l>
                          <l n="lt22nov1802a.1.ltr.02.19" justify="left">yellow leather flesh of old men the ill drawn &#38; ugly young women &#38; above</l>
                          <l n="lt22nov1802a.1.ltr.02.20" justify="left">all the <choice><orig>dawbed</orig><reg>daubed</reg></choice> black &#38; yellow shadows that are found in most fine</l>
                          <l n="lt22nov1802a.1.ltr.02.21" justify="left">ay &#38; the finest pictures. I altogether reject as ruinous to Effect</l>
                          <l n="lt22nov1802a.1.ltr.02.22" justify="left"><choice><orig>tho</orig><reg>though</reg></choice> Connoisseurs may think otherwise.</l>
-                     </lg>
-                    <lg justify="left">
                          <l n="lt22nov1802a.1.ltr.02.23" justify="left" indent="4">Let me also notice that <choice><orig>Carraches</orig><reg type="alt_name">Carracci's</reg></choice> Pictures are not like <choice><orig>Correggios</orig><reg>Correggio's</reg></choice></l>
                          <l n="lt22nov1802a.1.ltr.02.24" justify="left">nor <choice><orig>Correggios</orig><reg>Correggio's</reg></choice> like <choice><orig>Rafaels</orig><reg type="alt_name">Raphael's</reg></choice> &#38; if neither of them was to be encouraged</l> 
                          <l n="lt22nov1802a.1.ltr.02.25" justify="left">till he did like any of the others he must die without Encouragement</l>
                          <l n="lt22nov1802a.1.ltr.02.26" justify="left">My Pictures are unlike any of these Painters &#38; I would have them</l>
                          <l n="lt22nov1802a.1.ltr.02.27" justify="left">to be so I think the manner I adopt More Perfect than any other</l>  
                          <l n="lt22nov1802a.1.ltr.02.28" justify="left">no doubt They thought the same of theirs</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt22nov1802a.1.ltr.02.29" justify="left" indent="2">You will be tempted to think that as I improve The Pictures &#38;<hi rend="superscript">c</hi><note>Erdman (page 719) reads "As" for "as".</note></l>                         
                     </lg>
                </phystext>
@@ -210,7 +203,7 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>15.7 x 18.7 cm.</objsize>
+                    <objsize>18.8 x 15.8 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. The letter appears on the
                               first recto (Object 1) first verso (Object 2) second recto (Object 3) 
@@ -218,7 +211,6 @@
                               folded further to form a sealed packet for posting. The address appears 
                               on the second verso (Object 4), which would have been the exterior of 
                               the folded packet. </p>
-                         <p>On the second verso (Object 4), the letter only takes up about half of the page. In the bottom half of the leaf there are two stray inscriptions. One of them is three stray lines of verse on the left half of the bottom of the page that read from bottom up. The other is the name and address of Thomas Butts and reads from top down.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
@@ -229,9 +221,7 @@
                          <l n="lt22nov1802a.1.ltr.03.03" justify="left">I know I never shall do better for if I was to do them over again</l>
                          <l n="lt22nov1802a.1.ltr.03.04" justify="left">they would lose as much as they <choice><orig>gaind</orig><reg>gained</reg></choice> because they were done</l>
                          <l n="lt22nov1802a.1.ltr.03.05" justify="left">in the heat of My Spirits</l>
-                    </lg>
-                    <lg justify="left">
-                         <l n="lt22nov1802a.1.ltr.03.06" justify="left" indent="5">But You will justly <choice><orig>enquire</orig><reg>inquire</reg></choice> why I have not written all<note>Erdman (page 719) and Keynes (*Letters*, page 42) read "justly" as "Justly"; Erdman reads "all" as "All".</note></l>
+                         <l n="lt22nov1802a.1.ltr.03.06" justify="left" indent="5">But You will justly <choice><orig>enquire</orig><reg>inquire</reg></choice> why I have not written all<note>Erdman (page 719) and Keynes (*Letters*, page 42) read "Justly" for "justly"; Erdman reads "All" for "all".</note></l>
                          <l n="lt22nov1802a.1.ltr.03.07" justify="left">this time to you? I answer I have been very Unhappy &#38;</l>
                          <l n="lt22nov1802a.1.ltr.03.08" justify="left">could not think of troubling you about it or any of my real</l>
                          <l n="lt22nov1802a.1.ltr.03.09" justify="left">Friends (I have written many letters to you which I <choice><orig>burnd</orig><reg>burned</reg></choice> &#38; did</l>
@@ -241,17 +231,15 @@
                          <l n="lt22nov1802a.1.ltr.03.13" justify="left">for Portrait Painting is the direct contrary to Designing &#38; Historical</l>
                          <l n="lt22nov1802a.1.ltr.03.14" justify="left">Painting in every respect&#8212; If you have not Nature before you for</l>
                          <l n="lt22nov1802a.1.ltr.03.15" justify="left">Every Touch you cannot Paint Portrait. &#38; if you have Nature</l>
-                         <l n="lt22nov1802a.1.ltr.03.16" justify="left">before you at all you cannot Paint History it was <choice><orig>Michael Angelos</orig><reg>Michelangelo's</reg></choice></l>
-                         <l n="lt22nov1802a.1.ltr.03.17" justify="left">opinion &#38; is Mine. Pray Give My Wifes love with mine to <choice><orig>M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> Butts</l>
+                         <l n="lt22nov1802a.1.ltr.03.16" justify="left">before you at all you cannot Paint History it was <choice><orig>Michall Angelos</orig><reg>Michelangelo's</reg></choice><note>Bentley (*Writings* volume 2, page 1562) and Keynes (*Letters* page 42) read "Michael" for "Michall".</note></l>
+                         <l n="lt22nov1802a.1.ltr.03.17" justify="left">opinion &#38; is Mine. Pray Give My Wife's love with mine to <choice><orig>M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> Butts</l>
                          <l n="lt22nov1802a.1.ltr.03.18" justify="left">assure her that it cannot be long before I have the pleasure of Painting</l>
                          <l n="lt22nov1802a.1.ltr.03.19" justify="left">from you in Person &#38; then that She may Expect a likeness but</l>
                          <l n="lt22nov1802a.1.ltr.03.20" justify="left">now I have done All I could &#38; know she will forgive any failure</l>
                          <l n="lt22nov1802a.1.ltr.03.21" justify="left">in consideration of the <choice><orig>Endeavour</orig><reg>Endeavor</reg></choice>.</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt22nov1802a.1.ltr.03.22" justify="left" indent="4">And now let me finish with assuring you that <choice><orig>Tho</orig><reg>Though</reg></choice> I have</l>
                          <l n="lt22nov1802a.1.ltr.03.23" justify="left">been very unhappy I am so no longer I am again Emerged into</l>
-                         <l n="lt22nov1802a.1.ltr.03.24" justify="left">the light of Day I still &#38; shall to Eternity Embrace Christianity<note>Bentley (*Writings* volume 2, page 1562) reads "Day" as "day".</note></l>
+                         <l n="lt22nov1802a.1.ltr.03.24" justify="left">the light of Day I still &#38; shall to Eternity Embrace Christianity<note>Bentley (*Writings* volume 2, page 1562) reads "day" for "Day".</note></l>
                          <l n="lt22nov1802a.1.ltr.03.25" justify="left">and Adore him who is the Express image of God but I have <choice><orig>traveld</orig><reg>traveled</reg></choice></l>
                          <l n="lt22nov1802a.1.ltr.03.26" justify="left"><choice><orig>thro</orig><reg>through</reg></choice> Perils &#38; Darkness not unlike a Champion I have <choice><orig>Conquerd</orig><reg>Conquered</reg></choice></l>
                          <l n="lt22nov1802a.1.ltr.03.27" justify="left">and shall still Go on Conquering Nothing can withstand the</l>
@@ -267,7 +255,7 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>15.7 x 18.7 cm.</objsize>
+                    <objsize>18.8 x 15.8 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. The letter appears on the
                               first recto (Object 1) first verso (Object 2) second recto (Object 3) 
@@ -275,15 +263,13 @@
                               folded further to form a sealed packet for posting. The address appears 
                               on the second verso (Object 4), which would have been the exterior of 
                               the folded packet. </p>
-                         <p>On the second verso (Object 4), the letter only takes up about half of the page. In the bottom half of the leaf there are two stray inscriptions. One of them is three stray lines of verse on the left half of the bottom of the page that read from bottom up. The other is the name and address of Thomas Butts and reads from top down.</p>
+                         <p>On the bottom half of the object there are two inscriptions written vertically. The first inscription contains three lines of verse on the left half of the page and reads from bottom up. The other inscription is the name and address of Thomas Butts and reads from top down. Both are included in the transcription for the object.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
-               <phystext>
+             <phystext>
                     <lg justify="left">
-                         <l n="lt22nov1802a.1.ltr.04.01" justify="left">and <choice><orig>confirmd</orig><reg>confirmed</reg></choice></l>
-                    </lg>
-                    <lg justify="left">    
+                         <l n="lt22nov1802a.1.ltr.04.01" justify="left">and <choice><orig>confirmd</orig><reg>confirmed</reg></choice></l> 
                          <l n="lt22nov1802a.1.ltr.04.02" justify="left" indent="5">I now Send Two Pictures &#38; hope you will approve of them</l>
                          <l n="lt22nov1802a.1.ltr.04.03" justify="left">I have <choice><orig>inclosed</orig><reg>enclosed</reg></choice> the Account of Money <choice><orig>recievd</orig><reg>recieved</reg></choice> &#38; Work done<note>Bentley (*Writings* volume 2, page 1562) reads "work" for "Work".</note></l>
                          <l n="lt22nov1802a.1.ltr.04.04" justify="left">which I ought long ago to have sent you pray forgive Errors in</l>
@@ -292,18 +278,20 @@
                          <l n="lt22nov1802a.1.ltr.04.07" justify="left">employment &#38; <choice><orig>thro</orig><reg>through</reg></choice> hope of soon seeing you again I often</l>
                          <l n="lt22nov1802a.1.ltr.04.08" justify="left">omit to <choice><orig>Enquire</orig><reg>Inquire</reg></choice> of you But pray let me now hear how</l>
                          <l n="lt22nov1802a.1.ltr.04.09" justify="left">you do &#38; of the welfare of your family</l>
-                         <l n="lt22nov1802a.1.ltr.04.10" justify="left" indent="2">Accept my Sincere love &#38; respect</l>
-                         <l n="lt22nov1802a.1.ltr.04.11" justify="left" indent="6">I remain Yours Sincerely</l>
-                         <l n="lt22nov1802a.1.ltr.04.12" justify="left" indent="8"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice> Blake</l>
+                         <l n="lt22nov1802a.1.ltr.04.10" justify="left" indent="10">Accept my Sincere love &#38; respect</l>
+                         <l n="lt22nov1802a.1.ltr.04.11" justify="left" indent="33">I remain Yours Sincerely</l>
+                         <l n="lt22nov1802a.1.ltr.04.12" justify="left" indent="45"><choice><orig>Will<hi rend="superscript">m</hi></orig><reg type="abbrev">William</reg></choice> Blake</l>
                     </lg>
+<vspace extent="2"/>
                     <lg justify="left">
-                         <l n="lt22nov1802a.1.ltr.04.13" justify="left">A Piece of Sea Weed serves for<note>Lines 14 and 15 are inscribed vertically on the left side of the bottom half of the page reading from bottom up; Bentley (*Writings* volume 2, page 1562) and Keynes (*Letters*, page 43) read "Serves" as "serves".</note></l>
-                         <l n="lt22nov1802a.1.ltr.04.14" justify="left">a Barometer at gets wet &#38; dry<note>It seems like Blake meant to write "it" but mistakenly wrote "at"</note></l>
-                         <l n="lt22nov1802a.1.ltr.04.15" justify="left">as the weather gets so</l>
+                         <l n="lt22nov1802a.1.ltr.04.13" justify="left">A Piece of Sea Weed Serves for<note>Lines 13-15 are inscribed vertically on the left side of the bottom half of the page reading from bottom up. Bentley (*Writings* volume 2, page 1562) and Keynes (*Letters*, page 43) read "serves" for "Serves".</note></l>
+                         <l n="lt22nov1802a.1.ltr.04.14" justify="left" indent="8">a Barometer at gets wet &#38; dry</l>
+                         <l n="lt22nov1802a.1.ltr.04.15" justify="left" indent="12">as the weather gets so</l>
                     </lg>
+<vspace extent="2"/>
                     <lg justify="left">
-                         <l n="lt22nov1802a.1.ltr.04.16" justify="left"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Butts<note>Lines 17 and 18 are inscribed vertically on the right side of the bottom half of the page reading downward</note></l>
-                         <l n="lt22nov1802a.1.ltr.04.17" justify="left"><choice><orig>Gt</orig><reg type="abbrev">Great</reg></choice> Marlborough Street</l>
+                         <l n="lt22nov1802a.1.ltr.04.16" justify="left" indent="33"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Butts<note>Lines 16 and 17 are inscribed vertically on the right side of the bottom half of the page reading top down.</note></l>
+                         <l n="lt22nov1802a.1.ltr.04.17" justify="left" indent="33"><choice><orig>Gr</orig><reg type="abbrev">Great</reg></choice> Marlborough Street<note>Bentley (*Writings volume 2, page 1559) reads "Gt" for "Gr".</note></l>
                     </lg>     
                </phystext>
           </desc>
