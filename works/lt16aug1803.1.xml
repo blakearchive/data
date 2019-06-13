@@ -1,10 +1,10 @@
-<bad id="lt16aug1803.1" type="ltr" work="Letter from William Blake, c. 16 August 1803" copy="1"
+<bad id="lt16aug1803.1" type="ltr" work="Letter to Thomas Butts, 16 August 1803" copy="1"
      copyid="1" institution="westminster" catalog="bentley" catid="lt86-16aug1803">
      <header>
           <filedesc>
                <titlestmt>
-                    <title reg="Letter to Thomas Butts, c. 16 August 1803">
-                         <main>Letter to Thomas Butts, c. 16 August 1803</main> : electronic edition </title>
+                    <title reg="Letter to Thomas Butts, 16 August 1803">
+                         <main>Letter to Thomas Butts, 16 August 1803</main> : electronic edition </title>
                     <principal>
                          <resp>Editors: </resp>
                          <name>Morris Eaves, </name>University of Rochester; <name>Robert
@@ -17,10 +17,10 @@
                     <funder/>
                </titlestmt>
                <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-               <extent>1 XML file approx. 40KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
-                    1.2MB to 1.5MB</extent>
+               <extent>1 XML file approx. 40KB; 8 JPEG (ISO/IEC 10918) files ranging in size from
+                    approx. 210KB to 1.5MB</extent>
                <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                         Archives<date>February 2019</date></publicationstmt>
+                         Archives<date>June 2019</date></publicationstmt>
                <seriesstmt>The William Blake Archive</seriesstmt>
                <updatestmt> </updatestmt>
                <notesstmt/>
@@ -39,7 +39,7 @@
           <source>
                <objdescid>
                     <objtitle>
-                         <title>Letter to Thomas Butts, c. August 1803</title>
+                         <title>Letter to Thomas Butts, 16 August 1803</title>
                     </objtitle>
                     <origination>William Blake<role>author, </role>
                          <role>inventor, </role>
@@ -50,36 +50,30 @@
                <objinfo>
                     <numberobj>4</numberobj>
                     <objorder>1-4</objorder>
-                    <objsize>full sheet 19 x 15.8 cm.</objsize>
-                    <numberleaves>2<note>Blake's letter is written on two leaves. The letter appears
-                              on the recto (Object 2) and verso (Object 3) sides of the first leaf,
-                              and the recto (Object 4) of the second leaf. These leaves are folded
-                              to form a sealed letter packet. The address appears on the verso
-                              (Object 1) of the second leaf, which would have been the exterior
-                              sealed packet.</note>
+                    <objsize>full sheet 19 x 31.6 cm. <note>Full sheet and Leaf Size dimensions (height x width) are given according to the vertical orientation of the body of Blake's letter; see the note on Number of Leaves, below. Object 1 has been reoriented vertically in the Object View Page, as would be customary when reading the address.</note></objsize>
+                    <numberleaves>2<note>The full sheet was folded to form two leaves. Blake's letter appears on the first recto (Object 2),  first verso (Object 3), and second recto (Object 4). This folded sheet was folded further to form a sealed packet for posting. The address appears on the second verso (Object 1).</note>
                     </numberleaves>
                     <leafsize>19 x 15.8 cm.</leafsize>
                     <medium>pen and ink</medium>
                     <inkcolor>black</inkcolor>
                     <support>laid paper</support>
-                    <watermark>none</watermark>
+                    <watermark>F HAYES / 1798</watermark>
                     <binding>none</binding>
                     <postmark>none</postmark>
                     <sealDesc>red wax</sealDesc>
                     <addressee>Thomas Butts</addressee>
-                    <placeLet>Chichester</placeLet>
+                    <placeLet>Felpham</placeLet>
                </objinfo>
                <provenance n="1">
                     <name>City of Westminster Archives Centre</name>
                     <date>1967</date>
                     <dealer>none</dealer>
                     <price>gift</price>
-                    <note>Captain Frederick Butts (the grandson of the recipient) sold in "about
-                         1906" this letter along with several other letters to W. Graham Robertson,
-                         who allowed them to be reproduced (1926) and bequeathed them in 1948 to Mr.
-                         Kerrison Preston, who gave them in 1967 to The Westminster Public Library,
-                         which has since been incorporated into the City of Westminster
-                         Archives.</note>
+                    <note>Captain Frederick Butts (the grandson of the recipient) sold (c. 1906) this
+                         letter along with several other letters to W. Graham Robertson, who allowed them 
+                         to be reproduced (1926) and bequeathed them in 1948 to Mr. Kerrison Preston, who 
+                         gave them in 1967 to The Westminster Public Library, which has since been 
+                         incorporated into the City of Westminster Archives Centre.</note>
                </provenance>
                <repository>
                     <institution>City of Westminster Archives Centre</institution>
@@ -93,7 +87,6 @@
                     <repositoryid label="Call Number">Preston Blake Collection: Blake-Butts Letters &#38; Receipts (11)</repositoryid>
                </repository>
           </source>
-
           <desc id="lt16aug1803.1.ltr.01" dbi="lt16aug1803.1.1.LT">
                <objtitle>
                     <title type="editorial">Address</title>, <objid>
@@ -101,23 +94,18 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>19 x 15.8 cm.</objsize>
+                    <objsize>15.8 x 19 cm.</objsize>
                     <objnote>
-                         <p>Blake's letter is written on two leaves. The letter appears on the recto
-                              (Object 2) and verso (Object 3) sides of the first leaf, and the recto
-                              (Object 4) of the second leaf. These leaves are folded to form a
-                              sealed letter packet. The address appears on the verso (Object 1) of
-                              the second leaf, which would have been the exterior sealed packet. </p>
-                         <p> In the upper left corner of Object 2, "11" is inscribed in an unknown
-                              hand </p>
+                         <p><note>The full sheet was folded to form two leaves. Blake's letter appears on the first recto (Object 2) and first verso (Object 3) and second recto (Object 4). This folded sheet was folded further to form a sealed packet for posting. The address appears on the verso of the second leaf (Object 1), which would have been the exterior sealed packet.</note></p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
+                    <vspace extent="5"/>
                     <lg justify="left">
                          <l n="lt16aug1803.1.ltr.01.01" justify="left"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice>. Butts</l>    
-                         <l n="lt16aug1803.1.ltr.01.02" justify="left" indent="2"><choice><orig>Gr</orig><reg>Great</reg></choice> Marlborough <choice><orig>S<hi rend="superscript">t</hi></orig><reg>Street</reg></choice>.</l>
-                         <l n="lt16aug1803.1.ltr.01.03" justify="left" indent="7">London</l>
+                         <l n="lt16aug1803.1.ltr.01.02" justify="left" indent="3"><choice><orig>Gr</orig><reg>Great</reg></choice> Marlborough <choice><orig>S<hi rend="superscript">t</hi></orig><reg>Street</reg></choice>. <note>Bentley (*Writings* volume 2, page 1577) reads "Gt" for "Gr".</note></l>
+                         <l n="lt16aug1803.1.ltr.01.03" justify="left" indent="11">London</l>
                     </lg>
                </phystext>
           </desc>
@@ -129,20 +117,15 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>15.8 x 19 cm.</objsize>
+                    <objsize>19 x 15.8 cm.</objsize>
                     <objnote>
-                         <p>Blake's letter is written on two leaves. The letter appears on the recto
-                              (Object 2) and verso (Object 3) sides of the first leaf, and the recto
-                              (Object 4) of the second leaf. These leaves are folded to form a
-                              sealed letter packet. The address appears on the verso (Object 1) of
-                              the second leaf, which would have been the exterior sealed packet.</p>
-
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on the first recto (Object 2) and first verso (Object 3) and second recto (Object 4). This folded sheet was folded further to form a sealed packet for posting. The address appears on the verso of the second leaf (Object 1), which would have been the exterior sealed packet.</p>
+                           <p>The number "11" has been inscribed in the upper right corner in pencil in an unknown hand.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
                     <lg justify="left">
-
                          <l n="lt16aug1803.1.ltr.02.01" justify="left" indent="28"> Felpham August
                               16. 1803</l>
                          <l n="lt16aug1803.1.ltr.02.02" justify="left">Dear Sir </l>
@@ -169,7 +152,7 @@
                               you by him who Seeth in Secret. if you should find it
                               convenient<note>Bentley (*Writings* volume 2, page
                                    1577) and Keynes (*Letters*, page 63)
-                                    read "Seeth in Secret" as "seeth in secret".</note></l>
+                                    read "seeth in secret" for "Seeth in Secret".</note></l>
                          <l n="lt16aug1803.1.1tr.02.12" justify="left">to do so it will be
                               gratefully
                                    <choice><orig>rememberd</orig><reg>remembered</reg></choice> by
@@ -181,33 +164,32 @@
                     <lg justify="left">
                          <l n="lt16aug1803.1.1tr.02.14" justify="left" indent="4">I go on with the
                               remaining Subjects which you gave me commission to Execute for you</l>
-                         <l n="lt16aug1803.1.ltr.02.15" justify="left">but shall not be able to send
+                         <l n="lt16aug1803.1.ltr.02.15" justify="left"><gap reason="partial" agent="seal" extent="3" unit="character"/>shall not be able to send
                               any more before my return
                                    <choice><orig>tho</orig><reg>though</reg></choice> perhaps I may
-                              bring some</l>
+                              bring some<note>The first word of line 15, apparently "but", is partially obscured by the red wax seal along the left edge of Object 2. Bentley (*Writings* volume 2, page 1577), Erdman (page 732), and Keynes (*Letters*, page 63) read the word as "but".</note></l>
                          <l n="lt16aug1803.1.ltr.02.16" justify="left"><gap agent="seal" extent="7"
                                    unit="character"/>e
                                         <choice><orig>finishd</orig><reg>finished</reg></choice>. I
                               am at Present in a Bustle to defend myself against a very unwarrant
                                    <note>The beginning of line 16 is obscured by the red wax seal
-                                   along the left edge of object two. Bentley (*Writings* volume 2, page 1577), Erdman (page 732), and Keynes (*Letters*, page 63) read the beginning of this line as "with me finishd". </note></l>
+                                   along the left edge of Object 2. Bentley (*Writings* volume 2, page 1577), Erdman (page 732), and Keynes (*Letters*, page 63) read the beginning of this line as "with me finishd".</note></l>
                          <l n="lt16aug1803.1.ltr.02.17" justify="left"><gap agent="seal" extent="5"
-                                   unit="character"/>arrrant from a Justice of Peace in Chichester.
+                                   unit="character"/>arrant from a Justice of Peace in Chichester.
                               which was taken out against me by a Private <note>The beginning of
-                                   line 17 is also obscured by the red wax seal along the left edge
-                                   of object two. Bentley (*Writings* volume
+                                   line 17 is obscured by the red wax seal along the left edge
+                                   of Object 2. Bentley (*Writings* volume
                                    2, page 1577), Erdman (page 732), and Keynes (*Letters*, page 63)
                                      read the the beginning of this line and the
                                    end of the previous line as "unwarrant/-able warrant".</note></l>
-                         <l n="lt16aug1803.1.ltr.02.18" justify="left">in <choice><orig>Capt<hi
+                         <l n="lt16aug1803.1.ltr.02.18" justify="left">in <gap reason="partial" agent="seal" extent="1" unit="character"/><choice><orig>apt<hi
                                              rend="superscript"
-                                   >n</hi></orig><reg>Captain</reg></choice> Leather's troop of
+                                   >n</hi></orig><reg>Captain</reg></choice> Leathes's troop of
                                              <choice><orig>1<hi rend="superscript"
                                         >st</hi></orig><reg>first</reg></choice> or Royal Dragoons
-                              for an assault &#38; Seditious words. The <note>Bentley (*Writings* volume 2, page 1577), Erdman (page
+                              for an assault &#38; Seditious words. The <note>The first letter of the second word in line 18, apparently "C", is partially obscured by the red wax seal on the left edge of Object 2. Bentley (*Writings* volume 2, page 1577), Erdman (page
                                    732), and Keynes
-                                        (*Letters*, page 63) read "Capt<hi rend="superscript">n</hi> Leathes's" for
-                                        "Capt<hi rend="superscript">n</hi> Leather's".</note></l>
+                                        (*Letters*, page 63) read the name as "Capt<hi rend="superscript">n</hi> Leathes's".</note></l>
                          <l n="lt16aug1803.1.ltr.02.19" justify="left">wretched Man has terribly
                                         <choice><orig>Perjurd</orig><reg>perjured</reg></choice>
                               himself as has his Comrade for as to Sedition not one Word</l>
@@ -216,7 +198,7 @@
                               my</l>
                          <l n="lt16aug1803.1.ltr.02.21" justify="left">having turned him out of my
                               Garden into which he was invited as an assistant by a Gardener</l>
-                         <l n="lt16aug1803.1.ltr.02.22" justify="left">at work therin, without my
+                         <l n="lt16aug1803.1.ltr.02.22" justify="left">at work therein, without my
                               knowledge that he was so invited. I desired him as politely as</l>
                          <l n="lt16aug1803.1.ltr.02.23" justify="left">was possible to go out of the
                               Garden, he made me an impertinent answer I insisted on his</l>
@@ -236,7 +218,7 @@
                               out at the Gate &#38; putting aside his blows took him again by
                               the</l>
                          <l n="lt16aug1803.1.ltr.02.30" justify="left">Elbows &#38; keeping his back to me pushed him forward, down the road about fifty yards <note>Bentley (*Writings* volume 2,
-                              page 1578), Erdman (page 732), and Keynes (*Letters*, page 63) read "forward" as "forwards".</note></l>
+                              page 1578), Erdman (page 732), and Keynes (*Letters*, page 63) read "forwards" for "forward,".</note></l>
                          <l n="lt16aug1803.1.ltr.02.31" justify="left">he all the while
                                         <choice><orig>endeavouring</orig><reg>endeavoring</reg></choice>
                               to turn round &#38; strike me &#38; raging &#38; cursing which
@@ -247,7 +229,6 @@
                                         <choice><orig>Quarterd</orig><reg>quartered</reg></choice>,
                               which</l>
                     </lg>
-
                </phystext>
           </desc>
           <desc id="lt16aug1803.1.ltr.03" dbi="lt16aug1803.1.3.LT">
@@ -257,14 +238,9 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>15.7 x 19 cm.</objsize>
+                    <objsize>19 x 15.7 cm.</objsize>
                     <objnote>
-                         <p>Blake's letter is written on two leaves. The letter appears on the recto
-                              (Object 2) and verso (Object 3) sides of the first leaf, and the recto
-                              (Object 4) of the second leaf. These leaves are folded to form a
-                              sealed letter packet. The address appears on the verso (Object 1) of
-                              the second leaf, which would have been the exterior sealed packet.</p>
-
+                         <p>The full sheet was folded to form two leaves. Blake's letter appears on the first recto (Object 2) and first verso (Object 3) and second recto (Object 4). This folded sheet was folded further to form a sealed packet for posting. The address appears on the verso of the second leaf (Object 1), which would have been the exterior sealed packet.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
@@ -274,20 +250,20 @@
                               were met at the Gate by the Master of the house. The Fox <note>Bentley
                                         (*Writings* volume 2, page 1578) reads
                                    "Master of the House" for "Master of the house".</note></l>
-                         <l n="lt16aug1803.1.ltr.03.02" justify="left">Inn, (who is <del>my</del>
+                         <l n="lt16aug1803.1.ltr.03.02" justify="left">Inn, (who is <del type="overstrike">my</del>
                               the proprietor of my Cottage) &#38; his wife &#38; Daughter &#38; the
                               Mans Comrade</l>
                          <l n="lt16aug1803.1.ltr.03.03" justify="left">&#38; several other people My
                               Landlord <choice><orig>compelld</orig><reg>compelled</reg></choice>
                               the Soldiers to go <choice><orig>in
                                    doors</orig><reg>indoors</reg></choice> after many abusive</l>
-                         <l n="lt16aug1803.1.ltr.03.04" justify="left">threats <subst><del>from
-                                        them</del><gap reason="cancellation"/></subst> against me
+                         <l n="lt16aug1803.1.ltr.03.04" justify="left">threats <del type="overstrike">from
+                                        them</del> against me
                               &#38; my wife from the two Soldiers but not one word of threat</l>
                          <l n="lt16aug1803.1.ltr.03.05" justify="left">on account of Sedition was
                                         <choice><orig>utterd</orig><reg>uttered</reg></choice> at
                               that time. This method of Revenge was
-                                        <choice><orig>Plannd</orig><reg>Planned</reg></choice>
+                                        <choice><orig>Plann'd</orig><reg>Planned</reg></choice>
                               between</l>
                          <l n="lt16aug1803.1.ltr.03.06" justify="left">them after they had got
                               together into the Stable. This is the whole outline. I have for</l>
@@ -313,67 +289,67 @@
                               remark &#38; does high
                                    <choice><orig>honour</orig><reg>honor</reg></choice> to her good
                               sense as she observes that whenever</l>
-                         <l n="lt16aug1803.1.ltr.03.13" justify="left">a quarrel happens, the
+                         <l n="lt16aug1803.1.ltr.03.13" justify="left">a quarrel happens the
                                         <choice><orig>offence</orig><reg>offense</reg></choice> is
                               always repeated. The Landlord of the Inn &#38; His Wife</l>
                          <l n="lt16aug1803.1.ltr.03.14" justify="left">&#38; Daughter will Evidence
                               the Same &#38; will evidently prove the Comrade
                                         <choice><orig>perjurd</orig><reg>perjured</reg></choice>
                               who</l>
-                         <l n="lt16aug1803.1.ltr.03.15" justify="left">swore that he heard me <add
-                                   type="insertion" place="supralinear" symbol="caret">while</add>
+                         <l n="lt16aug1803.1.ltr.03.15" justify="left" indent="20"><add type="insertion" place="supralinear">while</add></l>
+                         
+                         <l n="lt16aug1803.1.ltr.03.16" justify="left">swore that he heard me <add type="insertion" place="supralinear"><hi rend="subscript">^</hi></add>
                               at the Gate utter Seditious words &#38; D&#8212; the K&#8212; without
                               which</l>
-                         <l n="lt16aug1803.1.ltr.03.16" justify="left">perjury I could not have been
+                         <l n="lt16aug1803.1.ltr.03.17" justify="left">perjury I could not have been
                               committed &#38; I had no witness with me before the Justices</l>
-                         <l n="lt16aug1803.1.ltr.03.17" justify="left">who could combat his
+                         <l n="lt16aug1803.1.ltr.03.18" justify="left">who could combat his
                               assertion as the Gardener remained in my Garden all the while
                               &#38;<note>Bentley (*Writings*, page 1579), Erdman (page 732), and Keynes (*Letters*, page 64) read "remained" as "remaind".</note></l>
                          
-                         <l n="lt16aug1803.1.ltr.03.18" justify="left">he was the only person I
+                         <l n="lt16aug1803.1.ltr.03.19" justify="left">he was the only person I
                               thought necessary to take with me. I have been before a Bench</l>
-                         <l n="lt16aug1803.1.ltr.03.19" justify="left">of Justices at Chichester
+                         <l n="lt16aug1803.1.ltr.03.20" justify="left">of Justices at Chichester
                               this morning. but they as the Lawyer who wrote down the
-                              Accusations</l>
-                         <l n="lt16aug1803.1.ltr.03.20" justify="left">told me in private are
+                              Accusations<note>Erdman (page 783) and Keynes (*Letters* page 64) read "Accusation" for "Accusations".</note></l>
+                         <l n="lt16aug1803.1.ltr.03.21" justify="left">told me in private are
                                         <choice><orig>compelld</orig><reg>compelled</reg></choice>
                               by the Military to suffer a prosecution to be
                                         <choice><orig>enterd</orig><reg>entered</reg></choice>
                               into</l>
-                         <l n="lt16aug1803.1.ltr.03.21" justify="left"
+                         <l n="lt16aug1803.1.ltr.03.22" justify="left"
                                         ><choice><orig>altho</orig><reg>although</reg></choice> they
                               must know &#38; it is manifest that the whole is a Fabricated Perjury.
                               I have been</l>
-                         <l n="lt16aug1803.1.ltr.03.22" justify="left">forced to find Bail.
+                         <l n="lt16aug1803.1.ltr.03.23" justify="left">forced to find Bail.
                                              <choice><orig>M<hi rend="superscript"
                                         >r</hi></orig><reg>Mr</reg></choice> <choice><orig>Hayley</orig><reg>William Hayley</reg></choice> was kind enough
                               to come forwards &#38; <choice><orig>M<hi rend="superscript"
                                         >r</hi></orig><reg>Mr</reg></choice> <choice><orig>Seagrave</orig><reg>Joseph Seagrave</reg></choice></l>
-                         <l n="lt16aug1803.1.ltr.03.23" justify="left">Printer at Chichester.
+                         <l n="lt16aug1803.1.ltr.03.24" justify="left">Printer at Chichester.
                                              <choice><orig>M<hi rend="superscript"
                                         >r</hi></orig><reg>Mr</reg></choice> H. in 100&#163; &#38;
                                              <choice><orig>M<hi rend="superscript"
                                         >r</hi></orig><reg>Mr</reg></choice> S. in 50&#163; &#38;
                               myself am bound in 100&#163;</l>
-                        
-                         <l n="lt16aug1803.1.ltr.03.24" justify="left">for my appearance at the
+                         <l n="lt16aug1803.1.ltr.03.25" justify="left">for my appearance at the
                               Quarter Sessions which is after
                                         <choice><orig>Michaelmass</orig><reg>Michaelmas</reg></choice>.
                               So I shall</l>
-                         <l n="lt16aug1803.1.ltr.03.25" justify="left">have the Satisfaction to see
+                         <l n="lt16aug1803.1.ltr.03.26" justify="left">have the Satisfaction to see
                               my friends in Town before this Contemptible business comes
                                    on<note>Keynes (*Letters*, page 64) reads
-                                   "Satisfaction" as "satisfaction".</note></l>
-                         <l n="lt16aug1803.1.ltr.03.26" justify="left">I say Contemptible for it
+                                   "satisfaction" for "Satisfaction".</note></l>
+                         <l n="lt16aug1803.1.ltr.03.27" justify="left">I say Contemptible for it
                               must be manifest to <choice><orig>every
                                    one</orig><reg>everyone</reg></choice> that the whole accusation
                               is</l>
-                         <l n="lt16aug1803.1.ltr.03.27" justify="left">a wilful Perjury. Thus you
+                         <l n="lt16aug1803.1.ltr.03.28" justify="left">a wilful Perjury. Thus you
                               see my dear Friend that I cannot leave this place without</l>
-                         <l n="lt16aug1803.1.ltr.03.28" justify="left">some adventure. it has struck
+                         <l n="lt16aug1803.1.ltr.03.29" justify="left">some adventure. it has struck
                               a consternation <choice><orig>thro</orig><reg>through</reg></choice>
                               all the Villages round. Every Man</l>
-                         <l n="lt16aug1803.1.ltr.03.29" justify="left">is now afraid of speaking to
+                         <l n="lt16aug1803.1.ltr.03.30" justify="left">is now afraid of speaking to
                               or looking at a Soldier. for the peaceable Villagers have always</l>
                     </lg>
                </phystext>
@@ -385,14 +361,9 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>15.7 x 19.3 cm.</objsize>
+                    <objsize>19.3 x 15.7 cm.</objsize>
                     <objnote>
-                         <p>Blake's letter is written on two leaves. The letter appears on the recto
-                              (Object 2) and verso (Object 3) sides of the first leaf, and the recto
-                              (Object 4) of the second leaf. These leaves folded to form a sealed
-                              letter packet. The address appears on the verso (Object 1) of the
-                              second leaf, which would have been the exterior sealed packet.</p>
-
+                        <p>The full sheet was folded to form two leaves. Blake's letter appears on the first recto (Object 2) and first verso (Object 3) and second recto (Object 4). This folded sheet was folded further to form a sealed packet for posting. The address appears on the verso of the second leaf (Object 1), which would have been the exterior sealed packet.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
@@ -425,8 +396,6 @@
                               know</l>
                          <l n="lt16aug1803.1.ltr.04.09" justify="left">if it is possible you will be
                               kind enough to do in this matter</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt16aug1803.1.ltr.04.10" justify="left" indent="3"> Dear Sir This
                               perhaps was <choice><orig>sufferd</orig><reg>suffered</reg></choice>
                               to Clear up some doubts &#38; to give oppurtunity</l>
@@ -435,15 +404,15 @@
                          <l n="lt16aug1803.1.ltr.04.12" justify="left">ignorantly &#38; not
                               designedly surely I ought to consider him with
                                         <choice><orig>favour</orig><reg>favor</reg></choice> &#38;
-                              affection. <choice><orig>Per&#8212;</orig><reg type="split_word"
+                              affection. <choice><orig>Per-</orig><reg type="split_word"
                                         >Perhaps</reg></choice></l>
                          <l n="lt16aug1803.1.ltr.04.13" justify="left"
-                                        ><choice><orig>&#8212;haps</orig><reg type="split_word"
+                                        ><choice><orig>-haps</orig><reg type="split_word"
                                         >Perhaps</reg></choice> the Simplicity of myself is the
                               origin of all
                                    <choice><orig>offences</orig><reg>offenses</reg></choice>
-                              committed against me: If<note>Erdman (page 733) reads "Simplicity" as
-                                   "simplicity."</note></l>
+                              committed against me: If<note>Erdman (page 733) and Keynes (*Letters* page 65) read "simplicity" for
+                                   "Simplicity".</note></l>
                          <l n="lt16aug1803.1.ltr.04.14" justify="left">I have found this I shall
                               have learned a most valuable thing well worth three years</l>
                          <l n="lt16aug1803.1.ltr.04.15" justify="left">perserverance. I have found
@@ -452,8 +421,6 @@
                               had done me much mischief I must now express to you</l>
                          <l n="lt16aug1803.1.ltr.04.17" justify="left">my conviction that all is
                               come from the spiritual World for Good &#38; not for Evil.</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt16aug1803.1.ltr.04.18" justify="left" indent="3">Give me your
                               advice in my perilous adventure. burn what I have peevishly
                               written</l>
@@ -462,10 +429,11 @@
                          <l n="lt16aug1803.1.ltr.04.20" justify="left">arise from my own fault I
                               ought to blame myself</l>
                     </lg>
+                    <columns>
+                     <column>
                     <lg justify="left">
-                         <columns>
-                              <column>
-                                   <l n="lt16aug1803.1.ltr.04.21" justify="left">O why was I born
+
+                                   <l n="lt16aug1803.1.ltr.04.21" justify="left" indent="1">O why was I born
                                         with a different face</l>
                                    <l n="lt16aug1803.1.ltr.04.22" justify="left">Why was I not born
                                         like the rest of my race</l>
@@ -473,8 +441,10 @@
                                         one starts! when I speak I offend</l>
                                    <l n="lt16aug1803.1.ltr.04.24" justify="left">Then I'm silent
                                         &#38; passive &#38; lose every Friend.</l>
-                              </column>
-                              <column>
+                          </lg>
+                         </column>
+                         <column>
+                              <lg>
                                    <l n="lt16aug1803.1.ltr.04.25" justify="left">Then my verse I
                                                   <choice><orig>dishonour</orig><reg>dishonor</reg></choice>.
                                         My pictures despise</l>
@@ -483,19 +453,18 @@
                                    <l n="lt16aug1803.1.ltr.04.27" justify="left">And the pen is my
                                         terror. the pencil my shame</l>
                                    <l n="lt16aug1803.1.ltr.04.28" justify="left">All my Talents I
-                                        bury. and Dead is my Fame.</l>
+                                        bury, and Dead is my Fame.</l>
+                              </lg>
                               </column>
                          </columns>
-
-                    </lg>
                     <vspace extent="1"/>
                     <lg justify="left">
-                         <l n="lt16aug1803.1.ltr.04.29" justify="left" indent="15">I am
+                         <l n="lt16aug1803.1.ltr.04.29" justify="left" indent="18">I am
                                         <choice><orig>eithe</orig><reg>either</reg></choice><subst><gap
-                                        reason="erasure" extent="5" unit="character"/><add
+                                        reason="erasure" extent="4" unit="character"/><add
                                         type="overwrite" place="inline">r to</add></subst>o low or
                               too highly <choice><orig>prizd</orig><reg>prized</reg></choice></l>
-                         <l n="lt16aug1803.1.ltr.04.30" justify="left" indent="15">When Elate
+                         <l n="lt16aug1803.1.ltr.04.30" justify="left" indent="18">When Elate
                                         I'<subst><gap reason="erasure" extent="8" unit="character"
                                         /><add type="overwrite" place="inline">am
                                                   <choice><orig>Envy'd</orig><reg>Envied</reg></choice></add></subst>,
@@ -518,7 +487,7 @@
                               in love to you &#38; <choice><orig>M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> Butts &#38;
                                    <note>Bentley (*Writings* volume 2, page
                                    1581) and Keynes (*Letters*, page 65) read
-                                   "Enjoy" as "enjoy".</note></l>
+                                   "enjoy" for "Enjoy".</note></l>
                          <l n="lt16aug1803.1.ltr.04.34" justify="left">all your family. I again take
                               the liberty to beg of you to cause the
                                         <choice><orig>Enclosd</orig><reg>Enclosed</reg></choice>
@@ -528,7 +497,6 @@
                               Sincerely &#38; Affectionately <space extent="4"/>Yours William
                               Blake</l>
                     </lg>
-
                </phystext>
           </desc>
      </objdesc>
