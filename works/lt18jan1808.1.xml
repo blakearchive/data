@@ -15,11 +15,11 @@
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>1 XML file approx. 19.4KB; 4 JPEG (ISO/IEC 10918) files ranging in size from ??KB
-                to ??KB</extent>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 19.4KB; 8 JPEG (ISO/IEC 10918) files ranging in size from approx. 148KB
+                to 3.7MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+                Archives<date>June 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
@@ -44,29 +44,32 @@
                     <role>inventor,</role>
                     <role>delineator</role>
                 </origination>
-                <compdate value="1808">1808</compdate>
+                <compdate value="1808">1808
+                    <note>According to Bentley (*Writings* volume 2, page 1637), "Blake copied this letter (A) twice, once (B) evidently for the Earl of Egremont or his wife [...], and the second time (C) in February for Ozias Humphry to send to the Earl of Buchan". In *Blake Books Supplement* (page 95), Bentley updates this ordering by referring to John Wilson who "argues plausibly that the first version of the letter was B (sent to the Earl of Egremont), that A (sent to Ozias Humphry) was copied from B, and that C (sent by Humphry to the Earl of Buchan) was copied from A". In any event, the letter copy presented here is what has been historically labeled "A" by scholars.</note>
+                </compdate>
             </objdescid>
             <objinfo>
                 <numberobj>4</numberobj>
                 <objorder>1-4</objorder>
-                <objsize>full sheet 18.5 x 22 cm.</objsize>
-                <numberleaves>2<note>The letter is on both sides of two sheets.</note>
+                <objsize>22 x 18.5 cm.</objsize>
+                <numberleaves>2<note>A double leaf written on four sides.</note>
                 </numberleaves>
-                <leafsize>18.5 x 22 cm.</leafsize>
+                <leafsize>22 x 18.5 cm.</leafsize>
                 <medium>pen and ink</medium>
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
-                <watermark>Ivy Mill 1806</watermark>
-                <framelines>none</framelines>
-                <binding>loose</binding>
-                <stabholes>none</stabholes>
+                <watermark>Ivy Mill / 1806</watermark>
+                <binding>none</binding>
+                <postmark>none</postmark>
+                <sealDesc>none</sealDesc>
+                <addressee>Ozias Humphry</addressee>
+                <placeLet>London</placeLet>
             </objinfo>
             <provenance n="1">
-                <name></name>
-                <date></date>
-                <dealer>George D. Smith</dealer>
-                <price>&#163;51<note></note></price>
-                <note></note>
+                <name>Benjamin Spademan</name>
+                <date>2015</date>
+                <price>&#163;43,750</price>          
+                <note>Ozias Humphry; likely passed to his son William Upcott; acquired by J. R. Smith no later than 1828; ownership unknown after 1829 until offered for sale by Thomas Thorp in 1837 for 15s; later in the collection of Major C. H. Simpson of Bath; sold at Sotheby's, 15 March 1916, lot 33 to G. D. Smith for &#163;51; acquired by Oliver R. Barrett; passed to his son Roger W. Barrett; sold at Sotheby's New York, 14 December 1988, lot 58 for &#36;24,000; sold by John Wilson Autographs Ltd at Sotheby's London 14 December 1992, lot 16 for &#163;18,000; Roy Davids Collection; sold at Bonham's 18 March 2015 for &#163;43,750 to dealer Benjamin Spademan.</note>
             </provenance>
             <repository>
                 <institution>Benjamin Spademan: Rare Books</institution>
@@ -75,29 +78,23 @@
                 <addressline>Telephone: +4420 7930 8499</addressline>
                 <addressline>URL: www.benjaminspademan.com/</addressline>
             </repository>
-        </source>
-        
+        </source>       
 <desc id="lt18jan1808.1.ltr.01" dbi="lt18jan1808.1.1.LT">
     <objtitle>
-        <title type="transcribed">page 1</title>
+        <title type="transcribed">The Design of The Last Judgment</title>
         <title type="alt">Letter to Ozias Humphrey</title>, <objid>
             <objnumber code="A1">Object 1 </objnumber>
         </objid>
     </objtitle>
     <physdesc desclevel="brief">
-        <objsize>18.5 x 22 cm.</objsize>
+        <objsize>22 x 18.5 cm.</objsize>
         <objnote>
-            <p>The full sheet was folded to form two leaves. The letter appears on the
-                first recto (Object 1) first verso (Object 2) second recto (Object 3) 
-                and second verso (Object 4) of the folded sheet. This folded sheet was 
-                folded further to form a sealed packet for posting. 
-            </p>
         </objnote>
         <windowsize width="500" height="630"/>
     </physdesc>
     <phystext>
         <lg justify="left">
-            <l n="lt18jan1808.1.ltr.01.01" justify="left">To Ozias Humphry <choice><orig>Esq:<hi rend="superscript">re</hi></orig><reg>Esquire</reg></choice></l>
+            <l n="lt18jan1808.1.ltr.01.01" justify="left" indent="6">To Ozias Humphry <choice><orig>Esq:<hi rend="superscript">re</hi></orig><reg>Esquire</reg></choice></l>
         </lg>
         <lg justify="left">
             <l n="lt18jan1808.1.ltr.01.02" justify="left" indent="4">The Design of The Last Judgment, which I have</l>
@@ -105,24 +102,18 @@
             <l n="lt18jan1808.1.ltr.01.04" justify="left">it is necessary to give some account of: &#38; its various parts</l>
             <l n="lt18jan1808.1.ltr.01.05" justify="left">ought to be described, for the accomodation of those who give it</l>
             <l n="lt18jan1808.1.ltr.01.06" justify="left">the <choice><orig>honor</orig><reg>honour</reg></choice> of attention.</l>
-        </lg>
-        <lg justify="left">
             <l n="lt18jan1808.1.ltr.01.07" justify="left" indent="9">Christ seated on the Throne of Judgment:</l>
             <l n="lt18jan1808.1.ltr.01.08" justify="left">The Heavens in Clouds rolling before him &#38; around him, like</l>
-            <l n="lt18jan1808.1.ltr.01.09" justify="left">a Scroll ready to be consumed in the fires of the Angels; who<note>Keynes (*Letters*, page 132) reads "Scroll" as "scroll".</note></l>
+            <l n="lt18jan1808.1.ltr.01.09" justify="left">a Scroll ready to be consumed in the fires of the Angels; who<note>Keynes (*Letters*, page 132) reads "scroll" for "Scroll".</note></l>
             <l n="lt18jan1808.1.ltr.01.10" justify="left">descend before his feet with their four trumpets sounding to the</l>
             <l n="lt18jan1808.1.ltr.01.11" justify="left">four Winds.</l>
-        </lg>
-        <lg justify="left">
             <l n="lt18jan1808.1.ltr.01.12" justify="left" indent="9">Beneath; the Earth is <choice><reg>convulsed</reg><orig>convuls'd</orig></choice> with the <choice><orig>labours</orig><reg>labors</reg></choice></l>
             <l n="lt18jan1808.1.ltr.01.13" justify="left">of the Resurrection; In the caverns of the Earth is the Dragon</l>
             <l n="lt18jan1808.1.ltr.01.14" justify="left">with seven heads &#38; ten horns, Chained by two Angels &#38; above</l>
-            <l n="lt18jan1808.1.ltr.01.15" justify="left">his Cavern on the Earths Surface, is the Harlot also siezed<note>Keynes (*Letters*, page 132) reads "Surface" as "surface".</note></l>
+            <l n="lt18jan1808.1.ltr.01.15" justify="left">his Cavern on the Earths Surface, is the Harlot also siezed<note>Keynes (*Letters*, page 132) reads "surface" for "Surface".</note></l>
             <l n="lt18jan1808.1.ltr.01.16" justify="left">&#38; bound by two Angels with Chains while her Palaces are falling</l>
             <l n="lt18jan1808.1.ltr.01.17" justify="left">into ruins &#38; her <choice><reg>Counselor's</reg><orig>Counsellors</orig></choice> &#38; Warriors are descending into the</l>
             <l n="lt18jan1808.1.ltr.01.18" justify="left">Abyss in wailings &#38; despair</l>
-        </lg>
-        <lg justify="left">
             <l n="lt18jan1808.1.ltr.01.19" justify="left" indent="8">Hell opens beneath the Harlots seat on the left hand</l>
             <l n="lt18jan1808.1.ltr.01.20" justify="left">into which the Wicked are descending</l>
         </lg>
@@ -130,19 +121,14 @@
 </desc>
 <desc id="lt18jan1808.1.ltr.02" dbi="lt18january1808.1.2.LT">
     <objtitle>
-        <title type="transcribed">page 2</title>
+        <title type="editorial">cont.</title>
         <title type="alt">Letter to Ozias Humphry, 18 January 1808</title>, <objid>
             <objnumber code="A2">Object 2 </objnumber>
         </objid>
     </objtitle>
     <physdesc desclevel="brief">
-        <objsize>16.6 x 20.9 cm.</objsize>
+        <objsize>22 x 18.5 cm.</objsize>
         <objnote>
-            <p>The full sheet was folded to form two leaves. The letter appears on the
-                first recto (Object 1) first verso (Object 2) second recto (Object 3) 
-                and second verso (Object 4) of the folded sheet. This folded sheet was 
-                folded further to form a sealed packet for posting. 
-            </p>
         </objnote>
         <windowsize width="500" height="630"/>
     </physdesc>
@@ -151,8 +137,6 @@
             <l n="lt18jan1808.1.ltr.02.01" justify="left" indent="5">The right hand of the Design is appropriated to the <choice><orig>Re-</orig><reg type="split_word">Resurrection</reg></choice></l>
             <l n="lt18jan1808.1.ltr.02.02" justify="left"><choice><orig>-surrection</orig><reg>Resurrection</reg></choice> of The Just; the left hand of the Design is <choice><orig>appro-</orig><reg type="split_word">appropriated</reg></choice></l>
             <l n="lt18jan1808.1.ltr.02.03" justify="left"><choice><orig>-priated</orig><reg>appropriated</reg></choice> to the Resurrection &#38; Fall of the Wicked</l>
-        </lg>
-        <lg justify="left">
             <l n="lt18jan1808.1.ltr.02.04" justify="left" indent="7">Immediately before the Throne of Christ is Adam &#38;</l>
             <l n="lt18jan1808.1.ltr.02.05" justify="left">Eve, kneeling in humiliation, as representitives of the whole Human</l>
             <l n="lt18jan1808.1.ltr.02.06" justify="left">Race; Abraham &#38; Moses kneel on each side beneath them; from</l>
@@ -162,16 +146,14 @@
             <l n="lt18jan1808.1.ltr.02.10" justify="left">the left hand pleading their own righteousness before the Throne</l>
             <l n="lt18jan1808.1.ltr.02.11" justify="left">of Christ: The Book of Death is <choice><orig>opend</orig><reg>opened</reg></choice> on Clouds by two Angels;</l>
             <l n="lt18jan1808.1.ltr.02.12" justify="left">many groupes of Figures are falling from before the Throne &#38;</l>
-            <l n="lt18jan1808.1.ltr.02.13" justify="left">from the Sea of Fire which flows before the Steps of the Throne;<note>Keynes (*Letters*, page 132) reads "Steps" as "steps".</note></l>
+            <l n="lt18jan1808.1.ltr.02.13" justify="left">from the Sea of Fire which flows before the Steps of the Throne;<note>Keynes (*Letters*, page 132) reads "steps" for "Steps".</note></l>
             <l n="lt18jan1808.1.ltr.02.14" justify="left">on which are seen the Seven Lamps of the Almighty. burning</l>
             <l n="lt18jan1808.1.ltr.02.15" justify="left">before the Throne. many Figures <choice><orig>Chaind</orig><reg>chained</reg></choice> &#38; bound together fall <choice><orig>thro'</orig><reg>through</reg></choice></l>
-            <l n="lt18jan1808.1.ltr.02.16" justify="left">the air, &#38; some are scourged by Spirits with Flames of fire into the<note>Bentley (*Writings*, page 1639) and Keynes (*Letters*, page 132) read "Flames" as "flames".</note></l>
+            <l n="lt18jan1808.1.ltr.02.16" justify="left">the air, &#38; some are scourged by Spirits with flames of fire into the</l>
             <l n="lt18jan1808.1.ltr.02.17" justify="left">Abyss of Hell which opens to recieve them beneath, on the left hand</l>
             <l n="lt18jan1808.1.ltr.02.18" justify="left">of the Harlot's seat; where others are howling &#38; descending into the</l>
             <l n="lt18jan1808.1.ltr.02.19" justify="left">flames. &#38; in the act of dragging each other into Hell &#38; of <choice><orig>con-</orig><reg type="split_word">contending</reg></choice></l>
             <l n="lt18jan1808.1.ltr.02.20" justify="left"><choice><orig>tending</orig><reg>contending</reg></choice> in fighting with each other on the brink of Perdition</l>
-        </lg>
-        <lg justify="left">
             <l n="lt18jan1808.1.ltr.02.21" justify="left" indent="9">Before the Throne of Christ on the right hand</l>
             <l n="lt18jan1808.1.ltr.02.22" justify="left">the Just in humiliation &#38; in exultation, rise <choice><orig>thro'</orig><reg>through</reg></choice> the air,</l>
         </lg>
@@ -179,19 +161,14 @@
 </desc>
 <desc id="lt18jan1808.1.ltr.02" dbi="lt18january1808.1.2.LT">
     <objtitle>
-        <title type="transcribed">page 3</title>
+        <title type="editorial">cont.</title>
         <title type="alt">Letter to Ozias Humphry, 18 January 1808</title>, <objid>
-            <objnumber code="A2">Object 3 </objnumber>
+            <objnumber code="A3">Object 3 </objnumber>
         </objid>
     </objtitle>
     <physdesc desclevel="brief">
-        <objsize>18.5 x 22 cm.</objsize>
+        <objsize>22 x 18.5 cm.</objsize>
         <objnote>
-            <p>The full sheet was folded to form two leaves. The letter appears on the
-                first recto (Object 1) first verso (Object 2) second recto (Object 3) 
-                and second verso (Object 4) of the folded sheet. This folded sheet was 
-                folded further to form a sealed packet for posting. 
-            </p>
         </objnote>
         <windowsize width="500" height="630"/>
     </physdesc>
@@ -209,8 +186,6 @@
             <l n="lt18jan1808.1.ltr.03.10" justify="left">the air rejoicing! others newly <choice><orig>awakend</orig><reg>awakened</reg></choice> from the Grave stand</l>
             <l n="lt18jan1808.1.ltr.03.11" justify="left">upon the Earth embracing &#38; shouting to the Lamb who cometh</l>
             <l n="lt18jan1808.1.ltr.03.12" justify="left">in the Clouds with Power &#38; great Glory.</l>
-        </lg>
-        <lg justify="left">
             <l n="lt18jan1808.1.ltr.03.13" justify="left" indent="8">The whole upper part of the Design is a view of Heaven</l>
             <l n="lt18jan1808.1.ltr.03.14" justify="left">opened; around the Throne of Christ, Four Living Creatures filled</l>
             <l n="lt18jan1808.1.ltr.03.15" justify="left">with Eyes, attended by seven Angles with the Seven Vials of the</l>
@@ -218,10 +193,8 @@
             <l n="lt18jan1808.1.ltr.03.17" justify="left">compose the Cloud, which by its rolling away displays the opening</l>
             <l n="lt18jan1808.1.ltr.03.18" justify="left">Seats of the Blessed, on the right &#38; the left of which are seen the</l>
             <l n="lt18jan1808.1.ltr.03.19" justify="left">Four &#38; Twenty Elders seated on Thrones to Judge the Dead.</l>
-        </lg>
-        <lg justify="left">
             <l n="lt18jan1808.1.ltr.03.20" justify="left" indent="8">Behind the Seat and Throne of Christ appears the Tabernacle</l>
-            <l n="lt18jan1808.1.ltr.03.21" justify="left">with its Veil opened; the Candlestick on the right: the Table with</l>
+            <l n="lt18jan1808.1.ltr.03.21" justify="left">with its Veil opened; the Candlestick on the right; the Table with</l>
             <l n="lt18jan1808.1.ltr.03.22" justify="left"><choice><orig>Shew Bread</orig><reg>Showbread</reg><reg>Shewbread</reg></choice>, on the left; &#38; in the midst, the Cross in place of</l>
             <l n="lt18jan1808.1.ltr.03.23" justify="left">the Ark, with the two Cherubim bowing over it.</l>
         </lg>
@@ -229,19 +202,14 @@
 </desc>
 <desc id="lt18jan1808.1.ltr.02" dbi="lt18january1808.1.2.LT">
     <objtitle>
-        <title type="transcribed">page 3</title>
+        <title type="editorial">cont.</title>
         <title type="alt">Letter to Ozias Humphry, 18 January 1808</title>, <objid>
-            <objnumber code="A2">Object 3 </objnumber>
+            <objnumber code="A4">Object 4 </objnumber>
         </objid>
     </objtitle>
     <physdesc desclevel="brief">
-        <objsize>18.5 x 22 cm.</objsize>
+        <objsize>22 x 18.5 cm.</objsize>
         <objnote>
-            <p>The full sheet was folded to form two leaves. The letter appears on the
-                first recto (Object 1) first verso (Object 2) second recto (Object 3) 
-                and second verso (Object 4) of the folded sheet. This folded sheet was 
-                folded further to form a sealed packet for posting. 
-            </p>
         </objnote>
         <windowsize width="500" height="630"/>
     </physdesc>
@@ -252,19 +220,15 @@
             <l n="lt18jan1808.1.ltr.04.03" justify="left">Eternal Life. Women with Infants approach the Figure of</l>
             <l n="lt18jan1808.1.ltr.04.04" justify="left">an aged apostle which represents Baptism; &#38; on the left hand</l>
             <l n="lt18jan1808.1.ltr.04.05" justify="left">the Lords Supper is <choice><orig>administerd</orig><reg>administered</reg></choice> by Angels, from the hands of</l>
-            <l n="lt18jan1808.1.ltr.04.06" justify="left">another aged Apostle; these kneel on each side of the Throne<note>Keynes (*Letters*, page 133) reads "kneel" as "Kneel".</note></l>
+            <l n="lt18jan1808.1.ltr.04.06" justify="left">another aged Apostle; these kneel on each side of the Throne<note>Keynes (*Letters*, page 133) reads "Kneel" for "kneel".</note></l>
             <l n="lt18jan1808.1.ltr.04.07" justify="left">which is surrounded by a glory, in the glory many Infants</l>
             <l n="lt18jan1808.1.ltr.04.08" justify="left">appear, representing Eternal Creation flowing from The</l>
             <l n="lt18jan1808.1.ltr.04.09" justify="left">Divine Humanity in Jesus; who opens the Scroll of Judgment</l>
             <l n="lt18jan1808.1.ltr.04.10" justify="left">upon his knees before the Living &#38; the Dead.</l>
-        </lg>
-        <lg justify="left">
             <l n="lt18jan1808.1.ltr.04.11" justify="left" indent="8">Such is the Design which you my Dear Sir</l>
             <l n="lt18jan1808.1.ltr.04.12" justify="left">have been the cause of my producing &#38; which; but</l>
             <l n="lt18jan1808.1.ltr.04.13" justify="left">for you might have slept till the Last Judgment.</l>
-        </lg>
-        <lg justify="left">
-            <l n="lt18jan1808.1.ltr.04.14" justify="left" indent="20">William Blake<hi rend="underline"><space extent="2"/></hi></l>
+            <l n="lt18jan1808.1.ltr.04.14" justify="left" indent="23">William Blake<hi rend="u"><space extent="2"/></hi></l>
             <l n="lt18jan1808.1.ltr.04.15" justify="left">18 January 1808.</l>
         </lg>
     </phystext>

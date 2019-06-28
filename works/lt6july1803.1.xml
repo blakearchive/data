@@ -17,10 +17,10 @@
                     <funder/>
                </titlestmt>
                <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-               <extent>1 XML file approx. 34.7KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
-                    1.3MB to 1.4MB</extent>
+               <extent>1 XML file approx. 34.5KB; 8 JPEG (ISO/IEC 10918) files ranging in size from
+                    approx. 201KB to 1.4MB</extent>
                <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                         Archives<date>February 2019</date></publicationstmt>
+                         Archives<date>June 2019</date></publicationstmt>
                <seriesstmt>The William Blake Archive</seriesstmt>
                <updatestmt> </updatestmt>
                <notesstmt/>
@@ -45,19 +45,18 @@
                          <role>inventor, </role>
                          <role>delineator</role>
                     </origination>
-                    <compdate value="1803.C">1803</compdate>
+                    <compdate value="1803.D">1803</compdate>
                </objdescid>
                <objinfo>
                     <numberobj>4</numberobj>
                     <objorder>1-4</objorder>
-                    <objsize>full sheet 15.9 x 18.6 cm.</objsize>
-                    <numberleaves>2<note>The full sheet was ???</note>
-                    </numberleaves>
-                    <leafsize>15.9 x 18.6 cm.</leafsize>
+                    <objsize>full sheet 18.6 x 31.8 cm. <note>Full sheet and Leaf Size dimensions (height x width) are given according to the vertical orientation of the body of Blake's letter; see the note on Number of Leaves, below.</note></objsize>
+                    <numberleaves>2 <note>The full sheet was folded to form two leaves. Blake's letter appears on the first recto (Object 1), first verso (Object 2), second recto (Object 3), and second verso (Object 4). This folded sheet was folded further to form a sealed packet for posting.</note></numberleaves>
+                    <leafsize>18.6 x 15.9 cm.</leafsize>
                     <medium>pen and ink</medium>
                     <inkcolor>black</inkcolor>
                     <support>laid paper</support>
-                    <watermark>1798</watermark>
+                    <watermark>A BLACKWELL / 1798</watermark>
                     <binding>none</binding>
                     <postmark>none</postmark>
                     <sealDesc>none</sealDesc>
@@ -65,16 +64,15 @@
                     <placeLet>Felpham</placeLet>
                </objinfo>
                <provenance n="1">
-                    <name>Letter to Thomas Butts, 6 July 1803</name>
+                    <name>City of Westminster Archives Centre</name>
                     <date>1967</date>
                     <dealer>none</dealer>
                     <price>gift</price>
-                    <note>Captain Frederick Butts (the grandson of the recipient) sold about 1906
-                         this letter along with several other letters to W. Graham Robertson, who
-                         allowed them to be reproduced (1926) and bequeathed them in 1948 to Mr.
-                         Kerrison Preston, who gave them in 1967 to The Westminster Public Library,
-                         which has since been incorporated into the City of Westminster
-                         Archives.</note>
+                    <note>Captain Frederick Butts (the grandson of the recipient) sold (c. 1906) this
+                         letter along with several other letters to W. Graham Robertson, who allowed them 
+                         to be reproduced (1926) and bequeathed them in 1948 to Mr. Kerrison Preston, who 
+                         gave them in 1967 to The Westminster Public Library, which has since been 
+                         incorporated into the City of Westminster Archives Centre.</note>
                </provenance>
                <repository>
                     <institution>City of Westminster Archives Centre</institution>
@@ -89,7 +87,6 @@
                          &#38; Receipts (10)</repositoryid>
                </repository>
           </source>
-
           <desc id="lt6july1803.1.ltr.01" dbi="lt6july1803.1.1.LT">
                <objtitle>
                     <title type="transcribed">Letter to Thomas Butts, 6 July 1803</title>, <objid>
@@ -97,16 +94,13 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>15.9 x 18.6 cm.</objsize>
+                    <objsize>18.6 x 15.9 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. Blake's letter appears on
-                              the first recto (Object 1) the first verso (Object 2) the second recto
-                              (Object 3) and the second verso (Object 4). This folded sheet was folded further to form a sealed
-                              packet for posting. The number “10” is written in the upper right corner of the
-                              first recto (Object 1) in an unknown hand.</p>
-                         <p> There is a stain along the left side of the recto of each leaf and
-                              along the vertical middle crease on the verso of the second leaf
-                              (Object 4).</p>
+                              the first recto (Object 1), the first verso (Object 2), the second recto
+                              (Object 3), and the second verso (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting.</p> 
+                             <p>The number “10” is written in the upper right corner in pencil in an unknown hand.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
@@ -132,7 +126,7 @@
                          <l n="lt6july1803.1.ltr.01.08" justify="left">Poems &#38; will read with
                               great delight. I have given in the <choice><orig>back
                                         ground</orig><reg>background</reg></choice><note>Erdman
-                                   (page 729) reads "back ground" as "background".</note></l>
+                                   (page 729) and Keynes (*Letters* page 56) read "background" for "back ground".</note></l>
                          <l n="lt6july1803.1.ltr.01.09" justify="left">a building which may be
                               supposed the ruin of a Part of
                                         <choice><orig>Nimrods</orig><reg>Nimrod's</reg></choice>
@@ -142,30 +136,23 @@
                          <l n="lt6july1803.1.ltr.01.11" justify="left"
                                         ><choice><orig>reckond</orig><reg>reckoned</reg></choice> of
                               the Giant brood</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt6july1803.1.ltr.01.12" justify="left" indent="6">I have now on the
                               Stocks the following drawings for you</l>
-                         <l n="lt6july1803.1.ltr.01.13" justify="left">1. Jephthah sacrificing his
+                         <l n="lt6july1803.1.ltr.01.13" justify="left">1 Jephthah sacrificing his
                               Daughter_ 2. Ruth and her mother in Law &#38; Sister</l>
                          <l n="lt6july1803.1.ltr.01.14" justify="left">3. The three Maries at the
                               Sepulcher. 4 The Death of Joseph. 5 The</l>
                          <l n="lt6july1803.1.ltr.01.15" justify="left">Death of the Virgin Mary.
-                                        <subst><del type="overwrite">5</del><add>6</add></subst> 6.
-                                   S<hi rend="superscript">t</hi> Paul Preaching <subst><del
-                                        type="overwrite">6</del><add>7</add></subst>The Angel of</l>
+                                        <subst><del type="overwrite">5</del><add type="overwrite" place="inline">6</add></subst> S<hi rend="superscript">t</hi> Paul Preaching <subst><del
+                                        type="overwrite">6</del><add type="overwrite" place="inline">7</add></subst> The Angel of</l>
                          <l n="lt6july1803.1.ltr.01.16" justify="left">the Divine Presence clothing
                               Adam &#38; Eve with Coats of Skins</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt6july1803.1.ltr.01.17" justify="left" indent="6">These are all in
                               great forwardness &#38; I am satisfied that I</l>
                          <l n="lt6july1803.1.ltr.01.18" justify="left">improve very much &#38; shall
                               continue to do so while I live which</l>
-                         <l n="lt6july1803.1.ltr.01.19" justify="left">is a blessing I can never be
+                         <l n="lt6july1803.1.ltr.01.19" justify="left">i<subst><gap reason="overwrite" extent="1" unit="character"/><add type="overwrite" place="inline">s</add></subst> a bl<subst><gap reason="overwrite" extent="1" unit="character"/><add type="overwrite" place="inline">e</add></subst>ssing I can never be
                               too thankful for both to God &#38; Man</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt6july1803.1.ltr.01.20" justify="left" indent="6">We look forward
                               every day with pleasure toward our meeting</l>
                          <l n="lt6july1803.1.ltr.01.21" justify="left">again in London with those
@@ -175,7 +162,6 @@
                               by presence for recollection often surpasses</l>
                     </lg>
                </phystext>
-
           </desc>
           <desc id="lt6july1803.1.ltr.02" dbi="lt6july1803.1.2.LT">
                <objtitle>
@@ -184,16 +170,12 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>15.9 x 18.5 cm.</objsize>
+                    <objsize>18.5 x 15.9 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. Blake's letter appears on
-                              the first recto (Object 1) the first verso (Object 2) the second recto
-                              (Object 3) and the second verso (Object 4). This folded sheet was folded further to form a sealed
-                              packet for posting. The number “10” is written in the upper right corner of the
-                              first recto (Object 1) in an unknown hand.</p>
-                         <p> There is a stain along the left side of the recto of each leaf and
-                              along the vertical middle crease on the verso of the second leaf
-                              (Object 4).</p>
+                              the first recto (Object 1), the first verso (Object 2), the second recto
+                              (Object 3), and the second verso (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
@@ -208,7 +190,7 @@
                                         >rs</hi></orig><reg>Mrs</reg></choice> Butts shall have a
                               good</l>
                          <l n="lt6july1803.1.ltr.02.03" justify="left">likeness of You if I have
-                              hands &#38; eyes left for I am become a likeness</l>
+                              hands &#38; eyes left. for I am become a likeness</l>
                          <l n="lt6july1803.1.ltr.02.04" justify="left">taker &#38; succeed admirably
                               well. but this is not to be
                                         <choice><orig>atchievd</orig><reg>achieved</reg></choice>
@@ -222,8 +204,6 @@
                                         one</orig><reg>anyone</reg></choice></l>
                          <l n="lt6july1803.1.ltr.02.08" justify="left">to attempt it for it is
                               Idolatry &#38; destroys the Soul</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt6july1803.1.ltr.02.09" justify="left" indent="6">I ought to tell
                               you that <choice><orig>M<hi rend="superscript"
                                         >r</hi></orig><reg>Mr</reg></choice> H. is quite agreeable
@@ -271,8 +251,8 @@
                                         >r</hi></orig><reg>Mr</reg></choice> Pitt are both among the
                               Subscribers</l>
                          <l n="lt6july1803.1.ltr.02.21" justify="left">which are already numerous
-                              &#38; of the first rank. The price of the Work</l>
-                         <l n="lt6july1803.1.ltr.02.22" justify="left">is Six Guineas -- Thus I hope
+                              &#38; of the first rank. the price of the Work</l>
+                         <l n="lt6july1803.1.ltr.02.22" justify="left">is Six Guineas&#8212; Thus I hope
                               that all our three years trouble</l>
                          <l n="lt6july1803.1.ltr.02.23" justify="left">Ends in Good Luck at last
                               &#38; shall be forgot by my affections &#38; only </l>
@@ -286,16 +266,12 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>16 x 19 cm.</objsize>
+                    <objsize>19 x 16 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. Blake's letter appears on
-                              the first recto (Object 1) the first verso (Object 2) the second recto
-                              (Object 3) and the second verso (Object 4). This folded sheet was folded further to form a sealed
-                              packet for posting. The number “10” is written in the upper right corner of the
-                              first recto (Object 1) in an unknown hand.</p>
-                         <p> There is a stain along the left side of the recto of each leaf and
-                              along the vertical middle crease on the verso of the second leaf
-                              (Object 4).</p>
+                              the first recto (Object 1), the first verso (Object 2), the second recto
+                              (Object 3), and the second verso (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
@@ -311,7 +287,7 @@
                          <l n="lt6july1803.1.ltr.03.04" justify="left">than the Secretary the
                               Authors are in Eternity I consider it as the Grandest</l>
                          <l n="lt6july1803.1.ltr.03.05" justify="left">Poem that this World
-                              Contains. Allegory addressed to the Intellectual powers</l>
+                              Contains. Allegory addressed to the Intellectual powers<note>Erdman (page 730) reads "This" for "this".</note></l>
                          <l n="lt6july1803.1.ltr.03.06" justify="left">while it is altogether hidden
                               from the Corporeal Understanding is My Definition</l>
                          <l n="lt6july1803.1.ltr.03.07" justify="left">of the Most Sublime Poetry.
@@ -333,18 +309,16 @@
                                    looked<note>Erdman (page 730) reads "had read" for "has
                                    read".</note></l>
                          <l n="lt6july1803.1.ltr.03.13" justify="left">with sufficient contempt to
-                              enhance my opinion of it. But I do not wish<note>Bentley (*Writings* volume 2, page 1575) and Keynes (*Letters*, page 58) read "enhance" as
-                              "inhance".</note></l>
+                              enhance my opinion of it. But I do not wish<note>Bentley (*Writings* volume 2, page 1575) and Keynes (*Letters*, page 58) read "inhance" for
+                              "enhance".</note></l>
                          <l n="lt6july1803.1.ltr.03.14" justify="left">to irritate by seeming too
                               obstinate in Poetic pursuits But if all the World</l>
                          <l n="lt6july1803.1.ltr.03.15" justify="left">should set their faces
                               against This. I have Orders to set my face like</l>
                          <l n="lt6july1803.1.ltr.03.16" justify="left">a flint, Ezekial III C 9 v.
                               against their faces &#38; my forehead against<note>Bentley (*Writings* volume 2, page 1575) and Erdman (page
-                                   730) read "III" as "iii".</note></l>
+                                   730) read "iii" for "III".</note></l>
                          <l n="lt6july1803.1.ltr.03.17" justify="left">their foreheads</l>
-                    </lg>
-                    <lg justify="left">
                          <l n="lt6july1803.1.ltr.03.18" justify="left" indent="6">As to
                                              <choice><orig>M<hi rend="supercript"
                                         >r</hi></orig><reg>Mr</reg></choice> H I feel myself at
@@ -352,7 +326,7 @@
                          <l n="lt6july1803.1.ltr.03.19" justify="left">ticklish subject. I regard
                               Fashion in Poetry as little as I do in</l>
                          <l n="lt6july1803.1.ltr.03.20" justify="left">Painting. So if both Poets
-                              &#38; Painters should alternatively dislike (but</l>
+                              &#38; Painters should alternatively dislike (but <note>Erdman (page 730) reads "so" for "So".</note></l>
                          <l n="lt6july1803.1.ltr.03.21" justify="left">I know the majority of them
                               will not) I am not to regard it at all</l>
                          <l n="lt6july1803.1.ltr.03.22" justify="left">but <choice><orig>M<hi
@@ -364,10 +338,9 @@
                                         <choice><orig>determind</orig><reg>determined</reg></choice>
                               to be no longer
                                    <choice><orig>Pesterd</orig><reg>Pestered</reg></choice>
-                                   with<note>Erdman (page 730) reads "own" as "Own".</note></l>
+                                   with<note>Erdman (page 730) reads "Own" for "own".</note></l>
                          <l n="lt6july1803.1.ltr.03.25" justify="left">his Genteel Ignorance &#38;
                               Polite Disapprobation. I know myself</l>
-
                     </lg>
                </phystext>
           </desc>
@@ -378,16 +351,12 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>16 x 19 cm.</objsize>
+                    <objsize>19 x 16 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. Blake's letter appears on
-                              the first recto (Object 1) the first verso (Object 2) the second recto
-                              (Object 3) and the second verso (Object 4). This folded sheet was folded further to form a sealed
-                              packet for posting. The number “10” is written in the upper right corner of the
-                              first recto (Object 1) in an unknown hand.</p>
-                         <p> There is a stain along the left side of the recto of each leaf and
-                              along the vertical middle crease on the verso of the second leaf
-                              (Object 4).</p>
+                              the first recto (Object 1), the first verso (Object 2), the second recto
+                              (Object 3), and the second verso (Object 4). This folded sheet was folded further to form a sealed
+                              packet for posting.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
@@ -397,7 +366,7 @@
                               it is not his affected Contempt that can move</l>
                          <l n="lt6july1803.1.ltr.04.02" justify="left">me to <choice><orig>any
                                         thing</orig><reg>anything</reg></choice> but a more
-                              assidious pursuit of both Arts. Indeed</l>
+                              assiduous pursuit of both Arts. Indeed</l>
                          <l n="lt6july1803.1.ltr.04.03" justify="left">by my late Firmness I have
                               brought down his affected Loftiness</l>
                          <l n="lt6july1803.1.ltr.04.04" justify="left">&#38; he begins to think I
@@ -410,7 +379,7 @@
                               it is a Fact too true That if I</l>
                          <l n="lt6july1803.1.ltr.04.08" justify="left">had only depended on Mortal
                               Things both myself &#38; my Wife must</l>
-                         <l n="lt6july1803.1.ltr.04.09" justify="left">have been Lost--I shall leave
+                         <l n="lt6july1803.1.ltr.04.09" justify="left">have been Lost - I shall leave
                                         <choice><orig>every one</orig><reg>everyone</reg></choice>
                               in This Country
                                    <choice><orig>astonishd</orig><reg>astonished</reg></choice></l>
@@ -461,7 +430,7 @@
                          <l n="lt6july1803.1.ltr.04.24" justify="left">been borne on angels wings.
                               Till we meet I beg of God our Saviour to</l>
                          <l n="lt6july1803.1.ltr.04.25" justify="left">be with you &#38; me &#38;
-                              yours &#38; mine. Pray give my and my wifes love to ---</l>
+                              yours &#38; mine Pray give my and my wifes love to &#8212;</l>
                          <l n="lt6july1803.1.ltr.04.26" justify="left"><choice><orig>M<hi
                                              rend="superscript"
                                    >rs</hi></orig><reg>Mrs</reg></choice> Butts &#38; Family &#38;

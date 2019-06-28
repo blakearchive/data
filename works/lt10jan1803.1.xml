@@ -1,10 +1,10 @@
-<bad id="lt10jan1802.1" type="ltr" work="Letter to Thomas Butts, 10 January 1802" copy="1"
-     copyid="1" institution="westminster" catalog="bentley" catid="lt86-10jan1802">
+<bad id="lt10jan1803.1" type="ltr" work="Letter to Thomas Butts, 10 January [1803]" copy="1"
+     copyid="1" institution="westminster" catalog="bentley" catid="lt86-10jan1803">
      <header>
           <filedesc>
                <titlestmt>
-                    <title reg="Letter to Thomas Butts, 10 January 1802">
-                         <main>Letter to Thomas Butts, 10 January 1802</main> : electronic edition </title>
+                    <title reg="Letter to Thomas Butts, 10 January [1803]">
+                         <main>Letter to Thomas Butts, 10 January [1803]</main> : electronic edition </title>
                     <principal>
                          <resp>Editors: </resp>
                          <name>Morris Eaves, </name>University of Rochester; <name>Robert
@@ -17,10 +17,10 @@
                     <funder/>
                </titlestmt>
                <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-               <extent>1 XML file approx. 17.7KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
-                    587.3KB to 920.6KB</extent>
+               <extent>1 XML file approx. 37KB; 8 JPEG (ISO/IEC 10918) files ranging in size from
+                    146KB to 1.5MB</extent>
                <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                         Archives<date>February 2019</date></publicationstmt>
+                         Archives<date>June 2019</date></publicationstmt>
                <seriesstmt>The William Blake Archive</seriesstmt>
                <updatestmt> </updatestmt>
                <notesstmt/>
@@ -31,7 +31,7 @@
                on other terms, in any medium, requires express written consent from the editors and
                advance notification of the publisher. Permission to reproduce the graphic images in
                this archive has been granted by the owners of the originals for this publication only.<lb/>
-               <lb/> Copyright &#169; 2018 City of Westminster Archives Centre. </userestrict>
+               <lb/> Copyright &#169; 2018 City of Westminster Archives Centre.</userestrict>
           <encodingdesc/>
           <profiledesc/>
      </header>
@@ -39,47 +39,44 @@
           <source>
                <objdescid>
                     <objtitle>
-                         <title>Letter to Thomas Butts, 10 January 1802</title>
+                         <title>Letter to Thomas Butts, 10 January [1803]</title>
                     </objtitle>
                     <objnote>
-                         <p> The precise date of this letter is in dispute. For a detailed note,
-                              please refer to <hi rend="italics">Blake</hi> An Illustrated Quarterly
-                              51 Volume 13 Number 3 Winter 79-80, page 148. </p>
                     </objnote>
                     <origination>William Blake<role>author, </role>
                          <role>inventor, </role>
                          <role>delineator</role>
                     </origination>
-                    <compdate value="1802.A">1802</compdate>
+                    <compdate value="1803.A">[1803]
+                        <note>This letter was originally misdated by Blake as "1802". Scholars accepted the incorrect date until E. B. Murray published "A Suggested Redating of a Blake Letter to Thomas Butts" in *Blake: An Illustrated Quarterly* 13.3 (winter 1979-80), which conclusively redates the letter to 1803. See also Erdman page 893.</note>
+                    </compdate>
                </objdescid>
                <objinfo>
                     <numberobj>4</numberobj>
                     <objorder>1-4</objorder>
-                    <objsize>full sheet 15.9 x 18.7 cm.</objsize>
-                    <numberleaves>2<note>A double leaf written on four sides.</note>
+                    <objsize>full sheet 18.7 x 31.8 cm.
+                         <note>Full sheet and Leaf Size dimensions (height x width) are given according to the vertical orientation of the body of Blake's letter; see the note on Number of Leaves, below. Object 1 has been reoriented vertically in the Object View Page, as would be customary when reading the address.</note>
+                    </objsize>
+                    <numberleaves>2<note>
+The full sheet was folded to form two leaves. Blake's letter appears on the first recto (Object 2) and first verso (Object 3) and second recto (Object 4). This folded sheet was folded further to form a sealed packet for posting. The address appears on the second verso (Object 1).</note>
                     </numberleaves>
-                    <leafsize>15.9 x 18.7 cm.</leafsize>
+                    <leafsize>18.7 x 15.9 cm.</leafsize>
                     <medium>pen and ink</medium>
                     <inkcolor>black</inkcolor>
                     <support>laid paper</support>
                     <watermark>A Blackwell / 1798</watermark>
-                    <binding>loose</binding>
+                    <binding>none</binding>
                     <postmark>chichester</postmark>
-                    <sealDesc>red wax</sealDesc>
+                    <sealDesc>red wafer</sealDesc>
                     <addressee>Thomas Butts</addressee>
-                    <placeLet> Felpham </placeLet>
+                    <placeLet>Felpham</placeLet>
                </objinfo>
                <provenance n="1">
-                    <name>Letter to Thomas Butts, 10 January 1802</name>
+                    <name>Letter to Thomas Butts, 10 January [1803]</name>
                     <date>1967</date>
                     <dealer>none</dealer>
                     <price>gift</price>
-                    <note>Captain Frederick Butts (the grandson of the recipient) sold about 1906
-                         this letter along with several other letters to W. Graham Robertson, who
-                         allowed them to be reproduced (1926) and bequeathed them in 1948 to Mr.
-                         Kerrison Preston, who gave them in 1967 to The Westminster Public Library,
-                         which has since been incorporated into the City of Westminster
-                         Archives</note>
+                    <note>Captain Frederick Butts (the grandson of the recipient) sold (c. 1906) this letter along with several other letters to W. Graham Robertson, who allowed them to be reproduced (1926) and bequeathed them in 1948 to Mr. Kerrison Preston, who gave them in 1967 to The Westminster Public Library, which has since been incorporated into the City of Westminster Archives Centre.</note>
                </provenance>
                <repository>
                     <institution>City of Westminster Archives Centre</institution>
@@ -94,8 +91,7 @@
                          &#38; Receipts (6)</repositoryid>
                </repository>
           </source>
-
-          <desc id="lt10jan1802.1.ltr.01" dbi="lt10jan1802.1.1.LT">
+          <desc id="lt10jan1803.1.ltr.01" dbi="lt10jan1803.1.1.LT">
                <objtitle>
                     <title type="editorial">Address</title>, <objid>
                          <objnumber code="A1">Object 1</objnumber>
@@ -108,392 +104,368 @@
                               the first recto (Object 2) and first verso (Object 3) and second recto
                               (Object 4). This folded sheet was folded further to form a sealed
                               packet for posting. The address appears on the second verso (Object
-                              1), which would have been the exterior of the sealed packet. The
-                              number “6” is written in the upper right corner of the first recto
-                              (Object 2) and in the middle of the second verso (Object 1) in an
-                              unknown hand.</p>
+                              1), which would have been the exterior of the sealed packet.</p> 
+                         <p>The number "6" is written upside down in the middle of the object in pencil in an uknown hand.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
+                    <vspace extent="3"/>
                     <lg justify="left">
-                         <l n="lt10jan1802.1.ltr.01.01" justify="left">P.S. Your Obliging proposal
-                              of Exhibiting my two Pictures likewise calls</l>
-                         <l n="lt10jan1802.1.ltr.01.02" justify="left">for my thanks I will finish
-                              the other &#38; then we shall judge of the matter</l>
-                         <l n="lt10jan1802.1.ltr.01.03" justify="left">with certainty <note>lines
-                                   written on left-hand margin parallel to page edge</note></l>
-                    </lg>
-                    <lg justify="left">
-                         <l n="lt10jan1802.1.ltr.01.04" justify="left" indent="10"
+                         <l n="lt10jan1803.1.ltr.01.01" justify="left" indent="10"
                                              ><choice><orig>M<hi rend="superscript"
                                         >r</hi></orig><reg>Mr</reg></choice> Butts</l>
-                         <l n="lt10jan1802.1.ltr.01.05" justify="left" indent="12">Great Marlborough
+                         <l n="lt10jan1803.1.ltr.01.02" justify="left" indent="12">Great Marlborough
                               Street</l>
-                         <l n="lt10jan1802.1.ltr.01.06" justify="left" indent="15">Oxford Street</l>
-                         <l n="lt10jan1802.1.ltr.01.07" justify="left" indent="16">London</l>
+                         <l n="lt10jan1803.1.ltr.01.03" justify="left" indent="15">Oxford Street</l>
+                         <l n="lt10jan1803.1.ltr.01.04" justify="left" indent="16">London</l>
+                    </lg>
+                    <vspace extent="6"/>
+                    <lg justify="left">
+                         <l n="lt10jan1803.1.ltr.01.05" justify="left">P.S. Your Obliging proposal
+                              of Exhibiting my two Pictures likewise calls<note>Lines 5-7 are written vertically along the left edge of the object (as it is reoriented for reading the address).</note></l>
+                         <l n="lt10jan1803.1.ltr.01.06" justify="left">for my thanks I will finish
+                              the other &#38; then we shall judge of the matter</l>
+                         <l n="lt10jan1803.1.ltr.01.07" justify="left">with certainty</l>
                     </lg>
                </phystext>
           </desc>
-          <desc id="lt10jan1802.1.ltr.02" dbi="lt10jan1802.1.2.LT">
+          <desc id="lt10jan1803.1.ltr.02" dbi="lt10jan1803.1.2.LT">
                <objtitle>
                     <title type="transcribed">Your very kind &#38; affectionate letter</title>, <objid>
                          <objnumber code="A2">Object 2 </objnumber>
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize> 15.9 x 18.9 cm.</objsize>
+                    <objsize>18.7 x 15.9 cm.</objsize>
                     <objnote>
                          <p>The full sheet was folded to form two leaves. Blake's letter appears on
                               the first recto (Object 2) and first verso (Object 3) and second recto
                               (Object 4). This folded sheet was folded further to form a sealed
                               packet for posting. The address appears on the second verso (Object
-                              1), which would have been the exterior of the sealed packet. The
-                              number “6” is written in the upper right corner of the first recto
-                              (Object 2) and in the middle of the second verso (Object 1) in an
-                              unknown hand. </p>
+                              1), which would have been the exterior of the sealed packet.</p>           
+                          <p>The number “6” is written in the upper right corner in an unknown hand.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
                     <lg justify="left">
-                         <l n="lt10jan1802.1.ltr.02.01" justify="left">Dear Sir<space extent="20"
-                              />Felpham <choice><orig>Jan<hi rend="supercript"
+                         <l n="lt10jan1803.1.ltr.02.01" justify="left">Dear Sir<space extent="20"
+                              />Felpham <choice><orig>Jan<hi rend="superscript"
                                         >y</hi></orig><reg>January</reg></choice> 10. 1802</l>
-                         <l n="lt10jan1802.1.ltr.02.02" justify="left" indent="9">Your very kind
+                         <l n="lt10jan1803.1.ltr.02.02" justify="left" indent="9">Your very kind
                               &#38; affectionate Letter &#38; the many kind things you have</l>
-                         <l n="lt10jan1802.1.ltr.02.03" justify="left">said in it;
+                         <l n="lt10jan1803.1.ltr.02.03" justify="left">said in it;
                                         <choice><orig>calld</orig><reg>called</reg></choice> upon me
                               for an immediate answer. but it found My Wife &#38;</l>
-                         <l n="lt10jan1802.1.ltr.02.04" justify="left">Myself so Ill &#38; My wife
+                         <l n="lt10jan1803.1.ltr.02.04" justify="left">Myself so Ill &#38; My wife
                               so very ill that till now I have not been able to</l>
-                         <l n="lt10jan1802.1.ltr.02.05" justify="left">do this duty. The Ague &#38;
+                         <l n="lt10jan1803.1.ltr.02.05" justify="left">do this duty. The Ague &#38;
                               Rheumatism have been almost her constant Enemies</l>
-                         <l n="lt10jan1802.1.ltr.02.06" justify="left">which she has combated in
+                         <l n="lt10jan1803.1.ltr.02.06" justify="left">which she has combated in
                               vain ever since we have been here, &#38; her sickness is</l>
-                         <l n="lt10jan1802.1.ltr.02.07" justify="left">always my sorrow of course.
+                         <l n="lt10jan1803.1.ltr.02.07" justify="left">always my sorrow of course.
                               But what you tell me about your sight afflicted</l>
-                         <l n="lt10jan1802.1.ltr.02.08" justify="left">me not a little, &#38; that
+                         <l n="lt10jan1803.1.ltr.02.08" justify="left">me not a little, &#38; that
                               about your health in another part of your letter makes</l>
-                         <l n="lt10jan1802.1.ltr.02.09" justify="left">me
+                         <l n="lt10jan1803.1.ltr.02.09" justify="left">me
                                         <choice><orig>intreat</orig><reg>entreat</reg></choice> you
                               to take due care of both it is a part of our duty to God &#38; man
                               to</l>
-                         <l n="lt10jan1802.1.ltr.02.10" justify="left">take due care of his Gifts
+                         <l n="lt10jan1803.1.ltr.02.10" justify="left">take due care of his Gifts
                               &#38; <choice><orig>tho</orig><reg>though</reg></choice> we ought not
-                              think <hi rend="underline">more</hi> highly of ourselves, yet we</l>
-                         <l n="lt10jan1802.1.ltr.02.11" justify="left">ought to think <hi
+                              think <hi rend="underscore">more</hi> highly of ourselves, yet we</l>
+                         <l n="lt10jan1803.1.ltr.02.11" justify="left">ought to think <hi
                                    rend="underscore">As</hi> highly of ourselves as immortals ought
                               to think</l>
-                    </lg>
-                    <lg justify="left">
-                         <l n="lt10jan1802.1.ltr.02.12" justify="left" indent="5">When I came down
+                         <l n="lt10jan1803.1.ltr.02.12" justify="left" indent="5">When I came down
                               here I was more sanguine than I am at present</l>
-                         <l n="lt10jan1802.1.ltr.02.13" justify="left">but it was because I was
+                         <l n="lt10jan1803.1.ltr.02.13" justify="left">but it was because I was
                               ignorant of many things which have since occurred</l>
-                         <l n="lt10jan1802.1.ltr.02.14" justify="left">&#38; chiefly the
+                         <l n="lt10jan1803.1.ltr.02.14" justify="left">&#38; chiefly the
                               unhealthiness of the place Yet I do not repent of coming, on</l>
-                         <l n="lt10jan1802.1.ltr.02.15" justify="left">a thousand accounts, &#38;
+                         <l n="lt10jan1803.1.ltr.02.15" justify="left">a thousand accounts, &#38;
                                              <choice><orig>M<hi rend="superscript"
                                         >r</hi></orig><reg>Mr</reg></choice> H I doubt not will do
                               ultimately all that both</l>
-                         <l n="lt10jan1802.1.ltr.02.16" justify="left">he &#38; I wish that is to
+                         <l n="lt10jan1803.1.ltr.02.16" justify="left">he &#38; I wish that is to
                               left me out of difficulty. but this is no easy matter</l>
-                         <l n="lt10jan1802.1.ltr.02.17" justify="left">to a man who having Spiritual
+                         <l n="lt10jan1803.1.ltr.02.17" justify="left">to a man who having Spiritual
                               Enemies of such formidable magnitude cannot expect</l>
-                         <l n="lt10jan1802.1.ltr.02.18" justify="left">to want natural hidden
+                         <l n="lt10jan1803.1.ltr.02.18" justify="left">to want natural hidden
                               ones</l>
-                    </lg>
-                    <lg justify="left">
-                         <l n="lt10jan1802.1.ltr.02.19" justify="left" indent="5">Your approbation
+                         <l n="lt10jan1803.1.ltr.02.19" justify="left" indent="5">Your approbation
                               of my pictures is a Multitude to Me &#38; I doubt not that</l>
-                         <l n="lt10jan1802.1.ltr.02.20" justify="left">all your kind wishes in my
+                         <l n="lt10jan1803.1.ltr.02.20" justify="left">all your kind wishes in my
                               behalf shall in due time be fulfilled. Your kind</l>
-                         <l n="lt10jan1802.1.ltr.02.21" justify="left">offer of pecuniary assistance
+                         <l n="lt10jan1803.1.ltr.02.21" justify="left">offer of pecuniary assistance
                               I can only thank you for at present because I</l>
-                         <l n="lt10jan1802.1.ltr.02.22" justify="left">have enough to serve my
+                         <l n="lt10jan1803.1.ltr.02.22" justify="left">have enough to serve my
                               present purpose here. our expenses are small &#38;</l>
-                         <l n="lt10jan1802.1.ltr.02.23" justify="left" indent="50">
+                         <l n="lt10jan1803.1.ltr.02.23" justify="left" indent="50">
                               <substSpan spanto="A1"/>
                               <add type="insertion" place="supralinear">them</add>
                          </l>
-                         <l n="lt10jan1802.1.ltr.02.24" justify="left">our income from our incessant
+                         <l n="lt10jan1803.1.ltr.02.24" justify="left">our income from our incessant
                                         <choice><orig>labour</orig><reg>labor</reg></choice> fully
                               adequate to <del type="overstrike">it</del><anchor xml:id="A1"/> at
                               present. I am</l>
-                         <l n="lt10jan1802.1.ltr.02.25" justify="left">now engaged in Engraving 6
+                         <l n="lt10jan1803.1.ltr.02.25" justify="left">now engaged in Engraving 6
                               small plates for a New Edition of <choice><orig>M<hi
                                              rend="superscript">r</hi></orig><reg>Mr</reg></choice>
                               <choice><orig>Hayleys</orig><reg>Hayley's</reg></choice>
                               <choice><orig>Tri-</orig><reg type="split_word"
                                    >Triumphs</reg></choice></l>
-                         <l n="lt10jan1802.1.ltr.02.26" justify="left"
+                         <l n="lt10jan1803.1.ltr.02.26" justify="left"
                                         ><choice><orig>-umphs</orig><reg>Triumphs</reg></choice> of
                               Temper, from drawings by Maria Flaxman sister to my friend the
                               Sculptor</l>
-                         <l n="lt10jan1802.1.ltr.02.27" justify="left">and it seems that other
+                         <l n="lt10jan1803.1.ltr.02.27" justify="left">and it seems that other
                               things will follow in course if I do but Copy these well. but</l>
-                         <l n="lt10jan1802.1.ltr.02.28" justify="left">Patience! if Great things do
+                         <l n="lt10jan1803.1.ltr.02.28" justify="left">Patience! if Great things do
                               not turn out it is because such things depend <gap
                                    reason="cancellation" extent="5" unit="character"/></l>
-                         <l n="lt10jan1802.1.ltr.02.29" justify="left">on the Spiritual &#38; not on
+                         <l n="lt10jan1803.1.ltr.02.29" justify="left">on the Spiritual &#38; not on
                               the Natural World &#38; if it was fit for me I doubt not</l>
-                         <l n="lt10jan1802.1.ltr.02.30" justify="left">that I should be
+                         <l n="lt10jan1803.1.ltr.02.30" justify="left">that I should be
                                         <choice><orig>Employd</orig><reg>Employed</reg></choice> in
                               Greater things &#38; when it is proper my Talents</l>
-                         <l n="lt10jan1802.1.ltr.02.31" justify="left">shall be properly exercised
-                              in Public as I hope they are now in private. For<note>Keynes (*Letters*, page 47) and Erdman (page 724) read
-                                   "For" as "for".</note></l>
+                         <l n="lt10jan1803.1.ltr.02.31" justify="left">shall be properly exercised
+                              in Public as I hope they are now in private. for</l>
                     </lg>
                </phystext>
-
-               <desc id="lt10jan1802.1.ltr.03" dbi="lt10jan1802.1.3.LT">
+               <desc id="lt10jan1803.1.ltr.03" dbi="lt10jan1803.1.3.LT">
                     <objtitle>
                          <title type="editorial">cont.</title>, <objid>
                               <objnumber code="A3">Object 3</objnumber>
                          </objid>
                     </objtitle>
                     <physdesc desclevel="brief">
-                         <objsize>15.9 x 18.8 cm.</objsize>
+                         <objsize>18.7 x 15.9 cm.</objsize>
                          <objnote>
                               <p>The full sheet was folded to form two leaves. Blake's letter
                                    appears on the first recto (Object 2) and first verso (Object 3)
                                    and second recto (Object 4). This folded sheet was folded further
                                    to form a sealed packet for posting. The address appears on the
                                    second verso (Object 1), which would have been the exterior of
-                                   the sealed packet. The number “6” is written in the upper right
-                                   corner of the first recto (Object 2) and in the middle of the
-                                   second verso (Object 1) in an unknown hand. </p>
+                                   the sealed packet.</p>
                          </objnote>
                          <windowsize width="500" height="630"/>
                     </physdesc>
                     <phystext>
                          <lg justify="left">
-                              <l n="lt10jan1802.1.ltr.03.01" justify="left">till then I leave no
+                              <l n="lt10jan1803.1.ltr.03.01" justify="left">till then I leave no
                                    stone <choice><orig>unturnd</orig><reg>unturned</reg></choice>
                                    &#38; no path
                                         <choice><orig>unexplord</orig><reg>unexplored</reg></choice>
                                    that tends to improvement</l>
-                              <l n="lt10jan1802.1.ltr.03.02" justify="left">in my beloved Arts. One
+                              <l n="lt10jan1803.1.ltr.03.02" justify="left">in my beloved Arts. One
                                    thing of real consequence I have
                                              <choice><orig>accomplishd</orig><reg>accomplished</reg></choice>
                                    by coming</l>
-                              <l n="lt10jan1802.1.ltr.03.03" justify="left">into the country. which
+                              <l n="lt10jan1803.1.ltr.03.03" justify="left">into the country. which
                                    is to me consolation enough, namely. I have recollected</l>
-                              <l n="lt10jan1802.1.ltr.03.04" justify="left">all my
+                              <l n="lt10jan1803.1.ltr.03.04" justify="left">all my
                                              <choice><orig>scatterd</orig><reg>scattered</reg></choice>
                                    thoughts on Art &#38; resumed my primitive &#38; original
                                    ways</l>
-                              <l n="lt10jan1802.1.ltr.03.05" justify="left">of Execution in both
+                              <l n="lt10jan1803.1.ltr.03.05" justify="left">of Execution in both
                                    painting &#38; Engraving. which in the confusion of London
-                                        I<note>Bentley (*Writings*, page 1557) and
-                                        Keynes (*Letters*, page 47) read "Engraving"
-                                        as "engraving".</note></l>
-                              <l n="lt10jan1802.1.ltr.03.06" justify="left">had very much lost &#38;
+                                        I<note>Bentley (*Writings* volume 2, page 1557) and
+                                        Keynes (*Letters*, page 47) read "engraving"
+                                        for "Engraving".</note></l>
+                              <l n="lt10jan1803.1.ltr.03.06" justify="left">had very much lost &#38;
                                    obliterated from my mind. But whatever becomes of my</l>
-                              <l n="lt10jan1802.1.ltr.03.07" justify="left"
+                              <l n="lt10jan1803.1.ltr.03.07" justify="left"
                                              ><choice><orig>labours</orig><reg>labors</reg></choice>
                                    I would rather that they should be
                                              <choice><orig>preservd</orig><reg>preserved</reg></choice>
                                    in your Green House</l>
-                              <l n="lt10jan1802.1.ltr.03.08" justify="left">(not as you mistakenly
-                                   call it dung hill). than in the cold gallery of fashion.———</l>
-                              <l n="lt10jan1802.1.ltr.03.09" justify="left">The Sun may yet shine
+                              <l n="lt10jan1803.1.ltr.03.08" justify="left">(not as you mistakenly
+                                   call it dung hill). than in the cold gallery of fashion.&#8212;</l>
+                              <l n="lt10jan1803.1.ltr.03.09" justify="left">The Sun may yet shine
                                    &#38; then they will be brought into open air</l>
-                         </lg>
-                         <lg justify="left">
-                              <l n="lt10jan1802.1.ltr.03.10" justify="left" indent="5">But you have
+                              <l n="lt10jan1803.1.ltr.03.10" justify="left" indent="5">But you have
                                    so generously &#38; openly desired that I will divide my</l>
-                              <l n="lt10jan1802.1.ltr.03.11" justify="left">griefs with you that I
+                              <l n="lt10jan1803.1.ltr.03.11" justify="left">griefs with you that I
                                    cannot hide what it is now become my duty to</l>
-                              <l n="lt10jan1802.1.ltr.03.12" justify="left">explain—— My unhappiness
+                              <l n="lt10jan1803.1.ltr.03.12" justify="left">explain &#8212; My unhappiness
                                    has arisen from a source which if
                                              <choice><orig>explord</orig><reg>explored</reg></choice>
                               </l>
-                              <l n="lt10jan1802.1.ltr.03.13" justify="left">too narrowly might hurt
+                              <l n="lt10jan1803.1.ltr.03.13" justify="left">too narrowly might hurt
                                    my pecuniary circumstances. As my dependence</l>
-                              <l n="lt10jan1802.1.ltr.03.14" justify="left">is on Engraving at
+                              <l n="lt10jan1803.1.ltr.03.14" justify="left">is on Engraving at
                                    present &#38; particularly on the Engravings I have in hand</l>
-                              <l n="lt10jan1802.1.ltr.03.15" justify="left">for <choice><orig>M<hi
+                              <l n="lt10jan1803.1.ltr.03.15" justify="left">for <choice><orig>M<hi
                                                   rend="superscript"
                                         >r</hi></orig><reg>Mr</reg></choice> H. &#38; I find on all
                                    hands great objections to my doing <choice><orig>any
                                              thing</orig><reg>anything</reg></choice></l>
-                              <l n="lt10jan1802.1.ltr.03.16" justify="left">but the
+                              <l n="lt10jan1803.1.ltr.03.16" justify="left">but the
                                              <choice><orig>meer</orig><reg>mere</reg></choice>
                                    drudgery of business &#38; intimations that if I do not
                                    confine</l>
-                              <l n="lt10jan1802.1.ltr.03.17" justify="left">myself to this I shall
+                              <l n="lt10jan1803.1.ltr.03.17" justify="left">myself to this I shall
                                    not live. this has always
                                              <choice><orig>pursud</orig><reg>pursued</reg></choice>
                                    me, You will</l>
-                              <l n="lt10jan1802.1.ltr.03.18" justify="left">understand by this the
+                              <l n="lt10jan1803.1.ltr.03.18" justify="left">understand by this the
                                    source of all my uneasiness This from
                                              <choice><orig>Johnson</orig><reg>Joseph
                                         Johnson</reg></choice> &#38;</l>
-                              <l n="lt10jan1802.1.ltr.03.19" justify="left"
+                              <l n="lt10jan1803.1.ltr.03.19" justify="left"
                                              ><choice><orig>Fuseli</orig><reg>Henry
                                         Fuseli</reg></choice> brought me down here &#38; this from
                                                   <choice><orig>M<hi rend="superscript"
                                              >r</hi></orig><reg>Mr</reg></choice> H will bring me
                                    back again</l>
-                              <l n="lt10jan1802.1.ltr.03.20" justify="left">for that I cannot live
+                              <l n="lt10jan1803.1.ltr.03.20" justify="left">for that I cannot live
                                    without doing my duty to lay up treasures in heaven</l>
-                              <l n="lt10jan1802.1.ltr.03.21" justify="left">is Certain &#38;
+                              <l n="lt10jan1803.1.ltr.03.21" justify="left">is Certain &#38;
                                    Determined &#38; to this I have long made up my mind &#38;
                                    why</l>
-                              <l n="lt10jan1802.1.ltr.03.22" justify="left">this should be made an
+                              <l n="lt10jan1803.1.ltr.03.22" justify="left">this should be made an
                                    objection to Me while Drunkeness Lewdness</l>
-                              <l n="lt10jan1802.1.ltr.03.23" justify="left">Gluttony &#38; even
+                              <l n="lt10jan1803.1.ltr.03.23" justify="left">Gluttony &#38; even
                                    Idleness itself does not hurt other men let Satan himself</l>
-                              <l n="lt10jan1802.1.ltr.03.24" justify="left">Explain. The Thing I
+                              <l n="lt10jan1803.1.ltr.03.24" justify="left">Explain. The Thing I
                                    have most at Heart! more than life or all that seems</l>
-                              <l n="lt10jan1802.1.ltr.03.25" justify="left">to make life comfortable
+                              <l n="lt10jan1803.1.ltr.03.25" justify="left">to make life comfortable
                                    without. Is the Interest of True Religion &#38;</l>
-                              <l n="lt10jan1802.1.ltr.03.26" justify="left">Science &#38; whenever
+                              <l n="lt10jan1803.1.ltr.03.26" justify="left">Science &#38; whenever
                                              <choice><orig>any
                                         thing</orig><reg>anything</reg></choice> appears to affect
                                    that Interest. (Especially</l>
-                              <l n="lt10jan1802.1.ltr.03.27" justify="left" indent="26">
+                              <l n="lt10jan1803.1.ltr.03.27" justify="left" indent="26">
                                    <substSpan spanto="A2"/>
                                    <add type="insertion" place="supralinear">Station</add>
                               </l>
-                              <l n="lt10jan1802.1.ltr.03.28" justify="left">if I myself omit any
+                              <l n="lt10jan1803.1.ltr.03.28" justify="left">if I myself omit any
                                    duty to my <del type="overstrike">self</del><anchor xml:id="A2"/>
                                    as a Soldier of Christ) It gives</l>
-                              <l n="lt10jan1802.1.ltr.03.29" justify="left">me the greatest of
+                              <l n="lt10jan1803.1.ltr.03.29" justify="left">me the greatest of
                                    torments, I am not ashamed afraid or averse to tell</l>
-                              <l n="lt10jan1802.1.ltr.03.30" justify="left">You what Ought to be
+                              <l n="lt10jan1803.1.ltr.03.30" justify="left">You what Ought to be
                                    Told That I am under the direction of Messengers <note>Keynes
-                                             (*Letters*, page 48) reads "You"
-                                        as "you".</note></l>
+                                             (*Letters*, page 48) reads "you"
+                                        for "You".</note></l>
                          </lg>
-
                     </phystext>
                </desc>
-               <desc id="lt10jan1802.1.ltr.04" dbi="lt10jan1802.1.4.LT">
+               <desc id="lt10jan1803.1.ltr.04" dbi="lt10jan1803.1.4.LT">
                     <objtitle>
                          <title type="editorial">cont.</title>, <objid>
-                              <objnumber code="A4">Object 4</objnumber>
+                              <objnumber code="A4">Object 4 </objnumber>
                          </objid>
                     </objtitle>
                     <physdesc desclevel="brief">
-                         <objsize>15.9 x 18.8 cm.</objsize>
+                         <objsize>18.7 x 15.9 cm.</objsize>
                          <objnote>
                               <p>The full sheet was folded to form two leaves. Blake's letter
                                    appears on the first recto (Object 2) and first verso (Object 3)
                                    and second recto (Object 4). This folded sheet was folded further
                                    to form a sealed packet for posting. The address appears on the
                                    second verso (Object 1), which would have been the exterior of
-                                   the sealed packet. The number “6” is written in the upper right
-                                   corner of the first recto (Object 2) and in the middle of the
-                                   second verso (Object 1) in an unknown hand. </p>
-                              <p> Bentley notes that lines 280 and 281 are "[f]rom Thomas Tickell's
-                                   'Lucy and Colin', perhaps quoted from Blake's copy of Percy's *Reliques of Ancient Poetry* (1765)" (*Writings* volume 2, page 1558). </p>
+                                   the sealed packet.</p>
                          </objnote>
                          <windowsize width="500" height="630"/>
                     </physdesc>
                     <phystext>
                          <vspace extent="1"/>
                          <lg justify="left">
-                              <l n="lt10jan1802.1.ltr.04.01" justify="left">from Heaven Daily &#38;
+                              <l n="lt10jan1803.1.ltr.04.01" justify="left">from Heaven Daily &#38;
                                    Nightly but the nature of such things is not as some</l>
-                              <l n="lt10jan1802.1.ltr.04.02" justify="left">suppose. without trouble
+                              <l n="lt10jan1803.1.ltr.04.02" justify="left">suppose. without trouble
                                    or care. Temptations are on the right hand &#38; left</l>
-                              <l n="lt10jan1802.1.ltr.04.03" justify="left">behind the sea of time
+                              <l n="lt10jan1803.1.ltr.04.03" justify="left">behind the sea of time
                                    &#38; space roars &#38; follows swiftly he who keeps not
                                    right</l>
-                              <l n="lt10jan1802.1.ltr.04.03" justify="left">onward is lost &#38; if
+                              <l n="lt10jan1803.1.ltr.04.03" justify="left">onward is lost &#38; if
                                    our footsteps slide in clay how can we do otherwise</l>
-                              <l n="lt10jan1802.1.ltr.04.04" justify="left">than fear &#38; tremble.
+                              <l n="lt10jan1803.1.ltr.04.04" justify="left">than fear &#38; tremble.
                                    but I should not have troubled You with this account</l>
-                              <l n="lt10jan1802.1.ltr.04.05" justify="left">of my spiritual state
+                              <l n="lt10jan1803.1.ltr.04.05" justify="left">of my spiritual state
                                    unless it had been necessary in explaining the actual</l>
-                              <l n="lt10jan1802.1.ltr.04.06" justify="left">cause of my uneasiness
+                              <l n="lt10jan1803.1.ltr.04.06" justify="left">cause of my uneasiness
                                    into which you are so kind as to Enquire for I</l>
-                              <l n="lt10jan1802.1.ltr.04.07" justify="left">never obtrude such
+                              <l n="lt10jan1803.1.ltr.04.07" justify="left">never obtrude such
                                    things on others unless
                                              <choice><orig>questiond</orig><reg>questioned</reg></choice>
                                    &#38; then I never disguise</l>
-                              <l n="lt10jan1802.1.ltr.04.08" justify="left">the truth--But if we
+                              <l n="lt10jan1803.1.ltr.04.08" justify="left">the truth &#8212; But if we
                                    fear to do the dictates of our Angels &#38; tremble</l>
-                              <l n="lt10jan1802.1.ltr.04.09" justify="left">at the Tasks set before
+                              <l n="lt10jan1803.1.ltr.04.09" justify="left">at the Tasks set before
                                    us. if we refuse to do Spiritual Acts. because</l>
-                              <l n="lt10jan1802.1.ltr.04.10" justify="left">of Natural Fears or
+                              <l n="lt10jan1803.1.ltr.04.10" justify="left">of Natural Fears or
                                    Natural Desires! Who can describe the dismal</l>
-                              <l n="lt10jan1802.1.ltr.04.11" justify="left">torments of such a
-                                   state!--I too well remember the Threats I</l>
-                              <l n="lt10jan1802.1.ltr.04.12" justify="left">heard!--If you who are
+                              <l n="lt10jan1803.1.ltr.04.11" justify="left">torments of such a
+                                   state!&#8212;I too well remember the Threats I</l>
+                              <l n="lt10jan1803.1.ltr.04.12" justify="left">heard!-If you who are
                                    organized by Divine Providence for Spiritual</l>
-                              <l n="lt10jan1802.1.ltr.04.13" justify="left">communion. Refuse &#38;
+                              <l n="lt10jan1803.1.ltr.04.13" justify="left">communion. Refuse &#38;
                                    bury your Talent in the Earth even
-                                             <choice><orig>tho</orig><reg>though</reg></choice>
+                                             <choice><orig>th</orig><reg>though</reg></choice><subst><gap reason="overwrite" extent="1" unit="character"/><add type="overwrite" place="inline">o</add></subst>
                                    you</l>
-                              <l n="lt10jan1802.1.ltr.04.14" justify="left">Should want Natural
+                              <l n="lt10jan1803.1.ltr.04.14" justify="left">Should want Natural
                                    Bread. Sorrow &#38; Desperation pursues you</l>
-                              <l n="lt10jan1802.1.ltr.04.14" justify="left"
+                              <l n="lt10jan1803.1.ltr.04.15" justify="left"
                                              ><choice><orig>Thro</orig><reg>Through</reg></choice>
-                                   life! &#38; after death shame &#38; confusion of face to
-                                        eternity--<note>Keynes (*Letters*,
-                                        page 49) reads "shame" as "Shame".</note></l>
-                              <l n="lt10jan1802.1.ltr.04.15" justify="left">Every one in Eternity
+                                   life! &#38; after death Shame &#38; confusion of face to
+                                        eternity - - <note>Bentley (*Writings* volume 2,
+                                        page 1558) reads "shame" for "Shame".</note></l>
+                              <l n="lt10jan1803.1.ltr.04.16" justify="left">Every one in Eternity
                                    will leave you aghast at the Man who was</l>
-                              <l n="lt10jan1802.1.ltr.04.16" justify="left"
+                              <l n="lt10jan1803.1.ltr.04.17" justify="left"
                                              ><choice><orig>crownd</orig><reg>crowned</reg></choice>
                                    with glory &#38;
                                         <choice><orig>honour</orig><reg>honor</reg></choice> by his
                                    brethren &#38;
                                         <choice><orig>betrayd</orig><reg>betrayed</reg></choice>
                                    their cause</l>
-                              <l n="lt10jan1802.1.ltr.04.17" justify="left">to their enemies. You
+                              <l n="lt10jan1803.1.ltr.04.18" justify="left">to their enemies. You
                                    will be <choice><orig>calld</orig><reg>called</reg></choice> the
                                    base Judas who
                                         <choice><orig>betrayd</orig><reg>betrayed</reg></choice></l>
-                              <l n="lt10jan1802.1.ltr.04.18" justify="left">his Friend!--Such words
+                              <l n="lt10jan1803.1.ltr.04.19" justify="left">his Friend!&#8212; Such words
                                    would make any Stout man tremble &#38;<note>Keynes (page 49)
-                                        reads "Stout" as "stout".</note></l>
-                              <l n="lt10jan1802.1.ltr.04.19" justify="left">how then could I be at
+                                        reads "stout" for "Stout".</note></l>
+                              <l n="lt10jan1803.1.ltr.04.20" justify="left">how then could I be at
                                    ease? But I am now no longer in That State </l>
-                              <l n="lt10jan1802.1.ltr.04.20" justify="left">&#38; now go on again
+                              <l n="lt10jan1803.1.ltr.04.21" justify="left">&#38; now go on again
                                    with my Task Fearless and
                                              <choice><orig>tho</orig><reg>though</reg></choice> my
                                    path is difficult. I</l>
-                              <l n="lt10jan1802.1.ltr.04.21" justify="left">have no fear of
+                              <l n="lt10jan1803.1.ltr.04.22" justify="left">have no fear of
                                    stumbling while I keep it </l>
-                         </lg>
-                         <lg justify="left">
-                              <l n="lt10jan1802.1.ltr.04.22" justify="left" indent="5"> My wife
+                              <l n="lt10jan1803.1.ltr.04.23" justify="left" indent="5"> My wife
                                    desires her kindest Love to <choice><orig>M<hi rend="superscript"
                                                   >rs</hi></orig><reg>Mrs</reg></choice> Butts &#38;
                                    I have permitted her to send</l>
-                              <l n="lt10jan1802.1.ltr.04.23" justify="left">it to you also. we often
+                              <l n="lt10jan1803.1.ltr.04.24" justify="left">it to you also. we often
                                    wish <del type="overstrike">that</del> we could unite again in
                                    Society &#38; hope that the</l>
-                              <l n="lt10jan1802.1.ltr.04.24" justify="left">time is not distant when
+                              <l n="lt10jan1803.1.ltr.04.25" justify="left">time is not distant when
                                    we shall do so. being
                                              <choice><orig>determind</orig><reg>determined</reg></choice>
                                    not to remain another</l>
-                              <l n="lt10jan1802.1.ltr.04.25" justify="left">winter here but to
+                              <l n="lt10jan1803.1.ltr.04.26" justify="left">winter here but to
                                    return to London</l>
-                         </lg>
-                         <lg justify="left">
-                              <l n="lt10jan1802.1.ltr.04.26" justify="left" indent="12">I hear a
+                              <l n="lt10jan1803.1.ltr.04.27" justify="left" indent="12">I hear a
                                    voice you cannot hear that says I must not stay</l>
-                              <l n="lt10jan1802.1.ltr.04.27" justify="left" indent="12">I see a hand
+                              <l n="lt10jan1803.1.ltr.04.28" justify="left" indent="12">I see a hand
                                    you cannot see that beckons me away</l>
-                         </lg>
-                         <lg justify="left">
-                              <l n="lt10jan1802.1.ltr.04.28" justify="left">Naked we came here naked
+                              <l n="lt10jan1803.1.ltr.04.29" justify="left">Naked we came here naked
                                    of Natural things &#38; naked we shall return. but while
                                              <choice><orig>clothd</orig><reg>clothed</reg></choice></l>
-                              <l n="lt10jan1802.1.ltr.04.29" justify="left">with the Divine Mercy we
+                              <l n="lt10jan1803.1.ltr.04.30" justify="left">with the Divine Mercy we
                                    are richly <choice><orig>clothd</orig><reg>clothed</reg></choice>
                                    in Spiritual &#38; suffer all the rest gladly</l>
-                              <l n="lt10jan1802.1.ltr.04.30" justify="left">Pray give my Love to
+                              <l n="lt10jan1803.1.ltr.04.31" justify="left">Pray give my Love to
                                                   <choice><orig>M<hi rend="superscript"
                                              >rs</hi></orig><reg>Mrs</reg></choice> Butts &#38; your
                                    family I am Yours Sincerely </l>
-                              <l n="lt10jan1802.1.tlr.04.31" justify="left" indent="40">William
+                              <l n="lt10jan1803.1.tlr.04.32" justify="left" indent="50">William
                                    Blake</l>
                          </lg>
                     </phystext>

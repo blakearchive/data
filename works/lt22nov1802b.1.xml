@@ -1,10 +1,10 @@
-<bad id="lt22nov1802b.1" type="ltr" work="Letter to Thomas Butts, 22 November 1802" copy="1"
+<bad id="lt22nov1802b.1" type="ltr" work="Letter to Thomas Butts, 22 November 1802-B" copy="1"
      copyid="1" institution="westminster" catalog="bentley" catid="lt86-22nov1802b">
      <header>
           <filedesc>
                <titlestmt>
-                    <title reg="Letter to Thomas Butts, 22 November 1802">
-                         <main>Letter to Thomas Butts, 22 November 1802</main> : electronic edition </title>
+                    <title reg="Letter to Thomas Butts, 22 November 1802-B">
+                         <main>Letter to Thomas Butts, 22 November 1802-B</main> : electronic edition </title>
                     <principal>
                          <resp>Editors: </resp>
                          <name>Morris Eaves, </name>University of Rochester; <name>Robert
@@ -18,9 +18,9 @@
                </titlestmt>
                <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
                <extent>1 XML file approx. 26.5KB; 4 JPEG (ISO/IEC 10918) files ranging in size from
-                    ??KB to ??KB</extent>
+                    193KB to 1.3MB</extent>
                <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                         Archives<date>February 2019</date></publicationstmt>
+                         Archives<date>June 2019</date></publicationstmt>
                <seriesstmt>The William Blake Archive</seriesstmt>
                <updatestmt> </updatestmt>
                <notesstmt/>
@@ -39,21 +39,21 @@
           <source>
                <objdescid>
                     <objtitle>
-                         <title>Letter to Thomas Butts, 22 November 1802</title>
+                         <title>Letter to Thomas Butts, 22 November 1802-B</title>
                     </objtitle>
                     <origination>William Blake<role>author, </role>
                          <role>inventor, </role>
                          <role>delineator</role>
                     </origination>
-                    <compdate value="1802.C">1802</compdate>
+                    <compdate value="1802.B">1802<note>This letter is a supplement to another letter written by Blake to Butts on the same day. This other letter can be found through the Index of Letters carrying an "A" designation after the date.</note></compdate>
                </objdescid>
                <objinfo>
                     <numberobj>2</numberobj>
                     <objorder>1-2</objorder>
-                    <objsize>full sheet 18 x 21 cm.</objsize>
-                    <numberleaves>2<note>A single leaf, written on two sides, the other half missing.</note>
+                    <objsize>full sheet 21 x 18 cm.</objsize>
+                    <numberleaves>1<note>A single leaf, written on two sides.</note>
                     </numberleaves>
-                    <leafsize>18 x 21 cm.</leafsize>
+                    <leafsize>21 x 18 cm.</leafsize>
                     <medium>pen and ink</medium>
                     <inkcolor>black</inkcolor>
                     <support>laid paper</support>
@@ -69,12 +69,7 @@
                     <date>1967</date>
                     <dealer>none</dealer>
                     <price>gift</price>
-                    <note> According to Keynes this letter has the same history as another Blake to Butts
-                         letter (21 September 1800). Acquired from Captain Butts about 1906 by the late
-                         W. Graham Robertson and bequeathed by him to his executor, Mr. Kerrison Preston,
-                         who gave it with his Blake collection to the City of Westminster Central Reference
-                         Library in 1967. Since that time, the Westminster Central Reference Library has been
-                         incorporated into the City of Westminster Archives Centre. </note>
+                    <note>Captain Frederick Butts (the grandson of the recipient) sold (c. 1906) this letter along with several other letters to W. Graham Robertson, who allowed them to be reproduced (1926) and bequeathed them in 1948 to Mr. Kerrison Preston, who gave them in 1967 to The Westminster Public Library, which has since been incorporated into the City of Westminster Archives Centre.</note>
                </provenance>
                <repository>
                     <institution>City of Westminster Archives Centre</institution>
@@ -96,26 +91,19 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>18 x 21 cm.</objsize>
+                    <objsize>21 x 18 cm.</objsize>
                     <objnote>
-                         <p>A single leaf, written on two sides, the other half missing.</p>
-                         <p>This object is divided into a prose paragraph filling roughly half the leaf and two columns of verse which fill up the botton half. There are two hand-drawn (non-ruled)
-                         lines on the leaf. One is a horizontal line separating the prose paragraph from the verse columns and the other is a broken line between running vertically between the two
-                         verse columns. There are two lines of verse written vertically, running up the left hand side of the paper, with an X indicating where Blake intended them to be inserted
-                         in the verse stanza (according to his note above those lines). The outer edges of this paper are a different color from the rest of it (the part the writing is on) but it is 
-                         difficult to tell why. The date of the letter and the number "8" are inscribed at the top of the first object in an unknown hand.</p>
+                         <p>Blake's letter is written on both sides of a single leaf.</p>
+                         <p>The date of the letter and the number "8" are inscribed in the upper right corner in pencil in an unknown hand.</p>
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
                <phystext>
-                    
-                    
                     <lg justify="left">
-                         <l n="lt22nov1802b.1.ltr.01.01" justify="left">Dear Sir</l></lg>
-                    <lg justify="left">
-                         <l n="lt22nov1802b.1.ltr.01.02" justify="left" indent="2">After I had <choice><orig>finishd</orig><reg>finished</reg></choice> my Letter I found that I had</l>
+                         <l n="lt22nov1802b.1.ltr.01.01" justify="left">Dear Sir</l>
+                         <l n="lt22nov1802b.1.ltr.01.02" justify="left" indent="6">After I had <choice><orig>finishd</orig><reg>finished</reg></choice> my Letter I found that I had</l>
                          <l n="lt22nov1802b.1.ltr.01.03" justify="left">not said half what I intended to say &#38; in particular I</l>
-                         <l n="lt22nov1802b.1.ltr.01.04" justify="left">wish to ask you what Subject you choose to be painted on<note>Erdman (page 720) reads "Subject" as "subject".</note></l>
+                         <l n="lt22nov1802b.1.ltr.01.04" justify="left">wish to ask you what Subject you choose to be painted on<note>Erdman (page 720) and Keynes (*Letters* page 43) read "subject" for "Subject".</note></l>
                          <l n="lt22nov1802b.1.ltr.01.05" justify="left">the remaining Canvas which I brought down with me (for</l>
                          <l n="lt22nov1802b.1.ltr.01.06" justify="left">there were three) and to tell you that several of the</l>
                          <l n="lt22nov1802b.1.ltr.01.07" justify="left">Drawings were in great forwardness you will see by the</l>
@@ -126,56 +114,58 @@
                          <l n="lt22nov1802b.1.ltr.01.12" justify="left">tell me in a Letter of forgiveness if you were offended &#38; of <choice><orig>accustomd</orig><reg>accustomed</reg></choice></l>
                          <l n="lt22nov1802b.1.ltr.01.13" justify="left">friendship if you were not. But I will bore you more with some</l>
                          <l n="lt22nov1802b.1.ltr.01.14" justify="left">Verses which My Wife desires me to Copy out &#38; send you with her</l>
-                         <l n="lt22nov1802b.1.ltr.01.15" justify="left" indent="37"><add type="insertion" place="supralinear">above</add><space extent="12"/><add place="supralinear">while</add></l>
-                         <l n="lt22nov1802b.1.ltr.01.16" justify="left">kind love &#38; Respect they were Composed <add type="insertion" place="inline" symbol="caret">^</add> a twelvemonth ago <del type="overstrike">in</del></l>
-                         <l n="lt22nov1802b.1.ltr.01.17" justify="left"><del type="overstrike">a</del> Walking from <choice><orig>Fel</orig><reg>Felpham</reg></choice><hi rend="underscore">pham to Lavant to meet my</hi> Sister<note>There is a non-ruled line drawn beneath these words separating the prose paragraph from the verse stanzas beneath it</note></l>
+                         <l n="lt22nov1802b.1.ltr.01.15" justify="left" indent="37"><add type="insertion" place="supralinear">above</add><space extent="12"/><subst><add place="supralinear">while</add></subst></l>
+                         <l n="lt22nov1802b.1.ltr.01.16" justify="left">kind love &#38; Respect they were Composed <add type="insertion" place="inline" symbol="caret"><hi rend="subscript">^</hi></add> a twelvemonth ago <delSpan spanto="A2" rend="strikethrough"/>in</l>
+                         <l n="lt22nov1802b.1.ltr.01.17" justify="left">a<anchor xml:id="A2"/> Walk<subst><add type="insertion" place="inline">ing</add></subst> from <choice><orig>Fel</orig><reg>Felpham</reg></choice>pham to Lavant to meet my Sister<note>Keynes (*Letters* page 43) reads "walking" for "Walking".</note></l>
+                         <l n="lt22nov1802b.1.ltr.01.18" justify="left"><hr width="12" align="left" indent="8"/><note>A non-ruled line separates the letter's prose content from Blake's verse, as well as between the two columns.</note></l>
                     </lg>
                          <columns><column>
                     <lg justify="left">
-                         <l n="lt22nov1802b.1.ltr.01.18" justify="left">With happiness <choice><orig>stretchd</orig><reg>stretched</reg></choice> across the hills</l>
-                         <l n="lt22nov1802b.1.ltr.01.19" justify="left">In a cloud that dewy sweetness distills</l>
-                         <l n="lt22nov1802b.1.ltr.01.20" justify="left">With a blue sky spread over with wings</l>
-                         <l n="lt22nov1802b.1.ltr.01.21" justify="left">And a mild sun that mounts &#38; sings</l>
-                         <l n="lt22nov1802b.1.ltr.01.22" justify="left">With trees &#38; fields full of Fairy elves</l>
-                         <l n="lt22nov1802b.1.ltr.01.23" justify="left">And little devils who fight for themselves</l>
-                         <l n="lt22nov1802b.1.ltr.01.24" justify="left" indent="1"><add type="insertion" place="supralinear"><choice><orig>Remembring</orig><reg>Remembering</reg></choice></add></l>
-                         <l n="lt22nov1802b.1.ltr.01.25" justify="left">Remembering the Verses that Hayley sung</l>
-                         <l n="lt22nov1802b.1.ltr.01.26" justify="left">When my heart <choice><orig>knockd</orig><reg>knocked</reg></choice> against the root of my tongue</l><anchor/><note>Lines 22 and 23 are written vertically along the left margin. The word "Remembering" is written above line 24. Blake also writes "These 2 lines were omitted in transcribing &#38; ought to come in at X"</note>
-                         <l n="lt22nov1802b.1.ltr.01.27" justify="left">With Angels planted in Hawthorn bowers</l>
-                         <l n="lt22nov1802b.1.ltr.01.28" justify="left">And God himself in the passing hours</l>
-                         <l n="lt22nov1802b.1.ltr.01.29" justify="left">With Silver Angels across my way</l>
-                         <l n="lt22nov1802b.1.ltr.01.30" justify="left">And Golden Demons that none can stay</l>
-                         <l n="lt22nov1802b.1.ltr.01.31" justify="left">With my Father hovering upon the wind</l>
-                         <l n="lt22nov1802b.1.ltr.01.32" justify="left">And my Brother Robert just behind</l>
-                         <l n="lt22nov1802b.1.ltr.01.33" justify="left">And my Brother John the evil one</l>
-                         <l n="lt22nov1802b.1.ltr.01.34" justify="left">In a black cloud making his <choice><orig>mone</orig><reg>moan</reg></choice></l>
-                         <l n="lt22nov1802b.1.ltr.01.35" justify="left"><choice><orig>Tho</orig><reg>Though</reg></choice> dead they appear upon my path</l>
-                         <l n="lt22nov1802b.1.ltr.01.36" justify="left">Notwithstanding my terrible wrath</l>
-                         <l n="lt22nov1802b.1.ltr.01.37" justify="left">They beg they <choice><orig>intreat</orig><reg>entreat</reg></choice> they drop their tears</l>
+                         <l n="lt22nov1802b.1.ltr.01.19" justify="left">With happiness <choice><orig>stretchd</orig><reg>stretched</reg></choice> across the hills</l>
+                         <l n="lt22nov1802b.1.ltr.01.20" justify="left">In a cloud that dewy sweetness distills</l>
+                         <l n="lt22nov1802b.1.ltr.01.21" justify="left">With a blue sky spread over with wings</l>
+                         <l n="lt22nov1802b.1.ltr.01.22" justify="left">And a mild Sun that mounts &#38; sings<note>Erdman (page 720) reads "sun" for "Sun".</note></l>
+                         <l n="lt22nov1802b.1.ltr.01.23" justify="left">With trees &#38; fields full of Fairy elves</l>
+                         <l n="lt22nov1802b.1.ltr.01.24" justify="left">And little devils who fight for themselves</l>
+                         <l n="lt22nov1802b.1.ltr.01.25" justify="left"><add type="insertion" place="supralinear" symbol="caret"> X> <choice><orig>Remembring</orig><reg>Remembering</reg></choice></add></l>
+                         <l n="lt22nov1802b.1.ltr.01.26" justify="left"><addSpan spanto="B1" place="marginleft"/>Remembring the Verses that Hayley sung <space extent="6"/> These 2 lines were omitted in transcribing</l>
+                         <l n="lt22nov1802b.1.ltr.01.27" justify="left">When my heart <choice><orig>knockd</orig><reg>knocked</reg></choice> against the root of my tongue} &#38; ought to come in at X<anchor xml:id="B1"/><note>Lines 26 and 27 are written vertically along the left margin.</note></l>
+                         <l n="lt22nov1802b.1.ltr.01.28" justify="left">With Angels planted in Hawthorn bowers</l>
+                         <l n="lt22nov1802b.1.ltr.01.29" justify="left">And God himself in the passing hours</l>
+                         <l n="lt22nov1802b.1.ltr.01.30" justify="left">With Silver Angels across my way</l>
+                         <l n="lt22nov1802b.1.ltr.01.31" justify="left">And Golden Demons that none can stay</l>
+                         <l n="lt22nov1802b.1.ltr.01.32" justify="left">With my Father hovering upon the wind</l>
+                         <l n="lt22nov1802b.1.ltr.01.33" justify="left">And my Brother Robert just behind</l>
+                         <l n="lt22nov1802b.1.ltr.01.34" justify="left">And my Brother John the evil one</l>
+                         <l n="lt22nov1802b.1.ltr.01.35" justify="left">In a black cloud making his <choice><orig>mone</orig><reg>moan</reg></choice></l>
+                         <l n="lt22nov1802b.1.ltr.01.36" justify="left"><choice><orig>Tho</orig><reg>Though</reg></choice> dead they appear upon my path</l>
+                         <l n="lt22nov1802b.1.ltr.01.37" justify="left">Notwithstanding my terrible wrath</l>
+                         <l n="lt22nov1802b.1.ltr.01.38" justify="left">They beg they <choice><orig>intreat</orig><reg>entreat</reg></choice> they drop their tears</l>
                     </lg>     
                     </column>
-                    <column><lg justify="left">
-                         <l n="lt22nov1802b.1.ltr.01.38" justify="left"><choice><orig>Filld</orig><reg>filled</reg></choice> full of hopes <choice><orig>filld</orig><reg>filled</reg></choice> full of fears</l>
-                         <l n="lt22nov1802b.1.ltr.01.39" justify="left">With a thousand Angels upon the Wind</l>
-                         <l n="lt22nov1802b.1.ltr.01.40" justify="left">Pouring disconsolate from behind</l>
-                         <l n="lt22nov1802b.1.ltr.01.41" justify="left">To drive them off &#38; before my way</l>
-                         <l n="lt22nov1802b.1.ltr.01.42" justify="left">A frowning Thistle implores my stay</l>
-                         <l n="lt22nov1802b.1.ltr.01.43" justify="left">What to others a trifle appears</l>
-                         <l n="lt22nov1802b.1.ltr.01.44" justify="left">Fills me full of smiles or tears</l>
-                         <l n="lt22nov1802b.1.ltr.01.45" justify="left">For double the vision my Eyes do see</l>
-                         <l n="lt22nov1802b.1.ltr.01.46" justify="left">And a double vision is always with me</l>
-                         <l n="lt22nov1802b.1.ltr.01.47" justify="left">With my inward Eye 'tis an old Man <choice><orig>grey</orig><reg>gray</reg></choice></l>
-                         <l n="lt22nov1802b.1.ltr.01.48" justify="left">With my outward a Thistle across my way</l>
-                         <l n="lt22nov1802b.1.ltr.01.49" justify="left">"If thou goest back the thistle said</l>
-                         <l n="lt22nov1802b.1.ltr.01.50" justify="left">Thou art to endless woe <choice><orig>betrayd</orig><reg>betrayed</reg></choice></l>
-                         <l n="lt22nov1802b.1.ltr.01.51" justify="left">For here does Theotormon lower</l>
-                         <l n="lt22nov1802b.1.ltr.01.52" justify="left">And here is Enitharmons bower</l>
-                         <l n="lt22nov1802b.1.ltr.01.53" justify="left">And Los the terrible thus hath sworn</l>
-                         <l n="lt22nov1802b.1.ltr.01.54" justify="left">Because thou backward dost return</l>
-                         <l n="lt22nov1802b.1.ltr.01.55" justify="left" indent="31">Poverty</l>
-                    </lg></column>
-                    </columns>
-                                        
+                    <column>
+                    <lg justify="left">
+                         <l n="lt22nov1802b.1.ltr.01.39" justify="left"><choice><orig>Filld</orig><reg>filled</reg></choice> full of hopes <choice><orig>filld</orig><reg>filled</reg></choice> full of fears</l>
+                         <l n="lt22nov1802b.1.ltr.01.40" justify="left">With a thousand Angels upon the Wind</l>
+                         <l n="lt22nov1802b.1.ltr.01.41" justify="left">Pouring disconsolate from behind</l>
+                         <l n="lt22nov1802b.1.ltr.01.42" justify="left">To drive them off &#38; before my way</l>
+                         <l n="lt22nov1802b.1.ltr.01.43" justify="left">A frowning Thistle implores my stay</l>
+                         <l n="lt22nov1802b.1.ltr.01.44" justify="left">What to others a trifle appears</l>
+                         <l n="lt22nov1802b.1.ltr.01.45" justify="left">Fills me full of smiles or tears</l>
+                         <l n="lt22nov1802b.1.ltr.01.46" justify="left">For double the vision my Eyes do see</l>
+                         <l n="lt22nov1802b.1.ltr.01.47" justify="left">And a double vision is always with me</l>
+                         <l n="lt22nov1802b.1.ltr.01.48" justify="left">With my inward Eye 'tis an old Man <choice><orig>grey</orig><reg>gray</reg></choice></l>
+                         <l n="lt22nov1802b.1.ltr.01.49" justify="left">With my outward a Thistle across my way</l>
+                         <l n="lt22nov1802b.1.ltr.01.50" justify="left">"If thou goest back the thistle said</l>
+                         <l n="lt22nov1802b.1.ltr.01.51" justify="left">Thou art to endless woe <choice><orig>betrayd</orig><reg>betrayed</reg></choice></l>
+                         <l n="lt22nov1802b.1.ltr.01.52" justify="left">For here does Theotormon lower</l>
+                         <l n="lt22nov1802b.1.ltr.01.53" justify="left">And here is Enitharmons bower</l>
+                         <l n="lt22nov1802b.1.ltr.01.54" justify="left">And Los the terrible thus hath sworn</l>
+                         <l n="lt22nov1802b.1.ltr.01.55" justify="left">Because thou backward dost return</l>
+                         <l n="lt22nov1802b.1.ltr.01.56" justify="left" indent="31">Poverty</l>
+                    </lg>
+                    </column>
+                    </columns>                              
                </phystext>
           </desc>
           <desc id="lt22nov1802b.1.ltr.02" dbi="lt22nov1802b.1.2.LT">
@@ -185,13 +175,9 @@
                     </objid>
                </objtitle>
                <physdesc desclevel="brief">
-                    <objsize>18 x 21 cm.</objsize>
+                    <objsize>21 x 18 cm.</objsize>
                     <objnote>
-                         <p>A single leaf, written on two sides, the other half missing.</p>
-                         <p>This leaf contains two columns of verse that take up most of the upper three quarters of the page and a short prose paragraph at the bottom concluding the letter. There are three hand-drawn (non-ruled) lines on
-                         the leaf. One is a broken vertical line between the two columns of verse. Another is a horizontal line at the bottom of the right hand column, the shorter of the two. The third is directly above the prose paragraph
-                         at the bottom of the leaf separating it from the columns of verse above it. The creases in the leaf are noteworthy, seeming to indicate that it was folded into 
-                         quarters at one point, as is the final PS line, the text of which is transcribed vertically up the right hand edge of the leaf.</p>
+                         <p>A single leaf, written on two sides.</p>      
                     </objnote>
                     <windowsize width="500" height="630"/>
                </physdesc>
@@ -206,10 +192,10 @@
                          <l n="lt22nov1802b.1.ltr.02.05" justify="left">I struck the Thistle with my foot</l>
                          <l n="lt22nov1802b.1.ltr.02.06" justify="left">And broke him up from his delving root</l>
                          <l n="lt22nov1802b.1.ltr.02.07" justify="left">"Must the duties of life each other cross"</l>
-                         <l n="lt22nov1802b.1.ltr.02.08" justify="left">"Must every joy be dung &#38; dross"</l>
+                         <l n="lt22nov1802b.1.ltr.02.08" justify="left">"Must every joy be dung &#38; dross <space extent="3"/>"</l>
                          <l n="lt22nov1802b.1.ltr.02.09" justify="left">"Must my dear Butts feel cold neglect"</l>
                          <l n="lt22nov1802b.1.ltr.02.10" justify="left">"Because I give Hayley his due respect"</l>
-                         <l n="lt22nov1802b.1.ltr.02.11" justify="left">"Must Flaxman look upon me as wild"</l>
+                         <l n="lt22nov1802b.1.ltr.02.11" justify="left">"Must Flaxman look upon me as wild <space extent="3"/>"</l>
                          <l n="lt22nov1802b.1.ltr.02.12" justify="left">"And all my friends be with doubts <choice><orig>beguild</orig><reg>beguiled</reg></choice>"</l>
                          <l n="lt22nov1802b.1.ltr.02.13" justify="left">"Must my Wife live in my Sisters bane</l>
                          <l n="lt22nov1802b.1.ltr.02.14" justify="left">"Or my Sister survive on my Loves pain&#160;</l>
@@ -220,16 +206,16 @@
                          <l n="lt22nov1802b.1.ltr.02.17" justify="left">So I spoke &#38; struck in my wrath</l>
                          <l n="lt22nov1802b.1.ltr.02.18" justify="left">The old man weltering upon my path.</l>
                          <l n="lt22nov1802b.1.ltr.02.19" justify="left">Then Los <choice><orig>appeard</orig><reg>appeared</reg></choice> in all his power</l>
-                         <l n="lt22nov1802b.1.ltr.02.20" justify="left">In the sun he <choice><orig>appeard</orig><reg>appeared</reg></choice> descending before</l>
+                         <l n="lt22nov1802b.1.ltr.02.20" justify="left">In the Sun he <choice><orig>appeard</orig><reg>appeared</reg></choice> descending before</l>
                          <l n="lt22nov1802b.1.ltr.02.21" justify="left">My face in fierce flames in my double sight</l>
                          <l n="lt22nov1802b.1.ltr.02.22" justify="left">Twas outward a Sun: inward Los in his might</l></lg>
                               <vspace extent="1"/>
                               <lg justify="left">
                          <l n="lt22nov1802b.1.ltr.02.23" justify="left">"My hands are <choice><orig>labourd</orig><reg>laboured</reg></choice> day &#38; night"</l>
                          <l n="lt22nov1802b.1.ltr.02.24" justify="left">"And Ease comes never in my sight"</l>
-                         <l n="lt22nov1802b.1.ltr.02.25" justify="left">"My Wife has no indulgence given"</l>
+                         <l n="lt22nov1802b.1.ltr.02.25" justify="left">"My Wife has no indulgence given <space extent="3"/>"</l>
                          <l n="lt22nov1802b.1.ltr.02.26" justify="left">"Except what comes to her from heaven"</l>
-                         <l n="lt22nov1802b.1.ltr.02.27" justify="left">"We eat little we drink less "</l>
+                         <l n="lt22nov1802b.1.ltr.02.27" justify="left">"We eat little we drink less <space extent="9"/>"</l>
                          <l n="lt22nov1802b.1.ltr.02.28" justify="left">"This Earth breeds not our happiness"</l>
                          <l n="lt22nov1802b.1.ltr.02.29" justify="left">"Another Sun feeds our lifes streams"</l>
                          <l n="lt22nov1802b.1.ltr.02.30" justify="left" indent="31">We</l></lg></column>
@@ -243,14 +229,14 @@
                     </lg><vspace extent="1"/>
                     <lg justify="left">
                          <l n="lt22nov1802b.1.ltr.02.36" justify="left">When I had my Defiance given</l>
-                         <l n="lt22nov1802b.1.ltr.02.37" justify="left">The Sun stood trembling in heaven<note>Bentley (*Writings*, page 1565) reads "The" as "Tho".</note></l>
+                         <l n="lt22nov1802b.1.ltr.02.37" justify="left">The Sun stood trembling in heaven<note>Bentley (*Writings* volume 2, page 1565) reads "Tho" for "The".</note></l>
                          <l n="lt22nov1802b.1.ltr.02.38" justify="left">The Moon that <choice><orig>glowd</orig><reg>glowed</reg></choice> remote below</l>
                          <l n="lt22nov1802b.1.ltr.02.39" justify="left">Became leprous &#38; white as snow</l>
                          <l n="lt22nov1802b.1.ltr.02.40" justify="left">And every Soul of men on the Earth</l>
                          <l n="lt22nov1802b.1.ltr.02.41" justify="left">Felt affliction &#38; sorrow &#38; sickness &#38; dearth</l>
                          <l n="lt22nov1802b.1.ltr.02.42" justify="left">Los <choice><orig>flamd</orig><reg>flamed</reg></choice> in my path &#38; the Sun was hot</l>
                          <l n="lt22nov1802b.1.ltr.02.43" justify="left">With the bows of my Mind &#38; the Arrows of Thought</l>
-                         <l n="lt22nov1802b.1.ltr.02.44" justify="left">My bowstring fierce with <choice><orig>Ardour</orig><reg>Ardor</reg></choice> breathes<note>Bentley (*Writings*, page 1566) reads "bowstring" as "bow string."</note></l>
+                         <l n="lt22nov1802b.1.ltr.02.44" justify="left">My bowstring fierce with <choice><orig>Ardour</orig><reg>Ardor</reg></choice> breathes<note>Bentley (*Writings* volume 2, page 1566) reads "bow string" for "bowstring."</note></l>
                          <l n="lt22nov1802b.1.ltr.02.45" justify="left">My arrows glow in their golden sheaves</l>
                          <l n="lt22nov1802b.1.ltr.02.46" justify="left">My brothers &#38; father march before</l>
                          <l n="lt22nov1802b.1.ltr.02.47" justify="left">The heavens drop with human gore</l>
@@ -261,23 +247,23 @@
                          <l n="lt22nov1802b.1.ltr.02.50" justify="left">Tis fourfold in my supreme delight</l>
                          <l n="lt22nov1802b.1.ltr.02.51" justify="left">And three fold in soft Beulahs night</l>
                          <l n="lt22nov1802b.1.ltr.02.52" justify="left">And twofold Always. May God us keep</l>
-                         <l n="lt22nov1802b.1.ltr.02.53" justify="left">From <hi rend="underscore">Single vision &#38; Newtons sl</hi><choice><orig>eep</orig><reg>sleep</reg></choice><note>There is a non-ruled line at the bottom of this verse stanza separating it from the blank space beneath it</note></l>
+                         <l n="lt22nov1802b.1.ltr.02.53" justify="left">From Single vision &#38; Newtons sl<choice><orig>eep</orig><reg>sleep</reg></choice><note>Non-ruled lines at the bottom of these columns of verse separate them from the rest of the letter's content.</note></l>
+                         <l n="lt22nov1802b.1.ltr.02.54" justify="left"><hr width="11" align="left" indent="3"/></l>
                     </lg>
                          </column>
                          </columns>
                     <lg justify="left">
-                         <l n="lt22nov1802b.1.ltr.02.54" justify="left">I also <choice><orig>inclose</orig><reg>enclose</reg></choice> you some Ballads by <choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Hayley with prints to them by Your</l>
-                         <l n="lt22nov1802b.1.ltr.02.55" justify="left"><choice><orig>H<hi rend="superscript">ble</hi>.</orig><reg type="abbrev">Humble</reg></choice><choice><orig>Serv<hi rend="superscript">t</hi>.</orig><reg type="abbrev">Servant</reg></choice> I should have sent them before now but could not get <choice><orig>any thing</orig><reg>anything</reg></choice></l>
-                         <l n="lt22nov1802b.1.ltr.02.56" justify="left">done for You to please myself for I do assure you that I have truly studied</l>
-                         <l n="lt22nov1802b.1.ltr.02.57" justify="left">the two little pictures I now send &#38; do not repent of the time I have spent</l>
-                         <l n="lt22nov1802b.1.ltr.02.58" justify="left">upon them</l>
+                         <l n="lt22nov1802b.1.ltr.02.55" justify="left"><hr width="20" align="left" indent="7"/></l>
+                         <l n="lt22nov1802b.1.ltr.02.56" justify="left">I also <choice><orig>inclose</orig><reg>enclose</reg></choice> you some Ballads by <choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Hayley with prints to them by Your</l>
+                         <l n="lt22nov1802b.1.ltr.02.57" justify="left"><choice><orig>H<hi rend="superscript">ble</hi>.</orig><reg type="abbrev">Humble</reg></choice><choice><orig>Serv<hi rend="superscript">t</hi>.</orig><reg type="abbrev">Servant</reg></choice> I should have sent them before now but could not get <choice><orig>any thing</orig><reg>anything</reg></choice></l>
+                         <l n="lt22nov1802b.1.ltr.02.58" justify="left">done for You to please myself for I do assure you that I have truly studied</l>
+                         <l n="lt22nov1802b.1.ltr.02.59" justify="left">the two little pictures I now send &#38; do not repent of the time I have spent</l>
+                         <l n="lt22nov1802b.1.ltr.02.60" justify="left">upon them</l>
+                         <l n="lt22nov1802b.1.ltr.02.61" justify="left" indent="12">God bless you</l>
+                         <l n="lt22nov1802b.1.ltr.02.62" justify="left" indent="35">Yours <choice><orig>W B</orig><reg>William Blake</reg></choice></l>
                     </lg>
                     <lg justify="left">
-                         <l n="lt22nov1802b.1.ltr.02.59" justify="left" indent="8">God bless you</l>
-                         <l n="lt22nov1802b.1.ltr.02.60" justify="left" indent="16">Yours <choice><orig>WB</orig><reg>William Blake</reg></choice></l>
-                    </lg>
-                    <lg justify="left">
-                         <l n="lt22nov1802b.1.ltr.02.61" justify="left">P.S. I have taken the liberty to trouble you with a letter to my Brother which you will be so kind as to send or give him &#38; oblige yours WB<note>The text is inscribed vertically beginning with the "d" in "kind."</note></l>
+                         <l n="lt22nov1802b.1.ltr.02.63" justify="left">P.S. I have taken the liberty to trouble you with a letter to my Brother which you will be so kind as to send or give him &#38; oblige yours W B<note>This line extends and continues vertically into the right margin.</note></l>
                     </lg>
                </phystext>
           </desc>
