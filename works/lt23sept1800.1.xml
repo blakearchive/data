@@ -1,9 +1,9 @@
-<bad id="lt23sept1800.1" type="ltr" work="Letter from Thomas Butts to William Blake, 23 September 1800" copy="1" copyid="1" institution="westminster" catalog="bentley" catid="lt86-23sept1800">
+<bad id="lt23sept1800.1" type="ltr" work="Letter to Thomas Butts, 23 September 1800" copy="1" copyid="1" institution="westminster" catalog="bentley" catid="lt86-23sept1800">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Letter from Thomas Butts to William Blake, 23 September 1800">
-                    <main>Letter from Thomas Butts to William Blake, 23 September 1800</main> : electronic edition </title>
+                <title reg="Letter to Thomas Butts, 23 September 1800">
+                    <main>Letter to Thomas Butts, 23 September 1800</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert
@@ -16,10 +16,10 @@
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 15.9KB; 3 JPEG (ISO/IEC 10918) files ranging in size from
-                1.4MB to 1.6MB</extent>
+            <extent>1 XML file approx. 15.6KB; 6 JPEG (ISO/IEC 10918) files ranging in size from
+                approx. 162KB to 1.6MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date>February 2019</date></publicationstmt>
+                Archives<date>July 2019</date></publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
@@ -38,9 +38,9 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title>Letter from Thomas Butts to William Blake, 23 September 1800</title>
+                    <title>Letter to Thomas Butts, 23 September 1800</title>
                 </objtitle>
-                <origination>Thomas Butts<role>author, </role>
+                <origination>William Blake<role>author, </role>
                     <role>inventor, </role>
                     <role>delineator</role>
                 </origination>
@@ -49,8 +49,8 @@
             <objinfo>
                 <numberobj>3</numberobj>
                 <objorder>1-3</objorder>
-                <objsize>full sheet 20.35 x 16.64 cm.</objsize>
-                <numberleaves>2<note>A double sheet written on three sides.</note>
+                <objsize>full sheet 20.4 x 33.2 cm.<note>Full sheet and Leaf Size dimensions (height x width) are given according to the vertical orientation of the body of Blake's letter; see the note on Number of Leaves, below. Object 1 has been reoriented vertically in the Object View Page, as would be customary when reading the address.</note></objsize>
+                <numberleaves>2<note>The full sheet was folded to form two leaves. Blake's letter appears on the second recto (Object 2) and second verso (Object 3). This folded sheet was folded further to form a sealed packet for posting. The address appears on the first recto (Object 1), which would have been the exterior of the sealed packet.</note>
                 </numberleaves>
                 <leafsize>20.4 x 16.6 cm.</leafsize>
                 <medium>pen and ink</medium>
@@ -60,7 +60,7 @@
                 <binding>loose</binding>
                 <postmark>Chichester</postmark>
                 <sealDesc>red wax</sealDesc>
-                <addressee>William Blake</addressee>
+                <addressee>Thomas Butts</addressee>
                 <placeLet>Felpham</placeLet>
             </objinfo>
             <provenance n="1">
@@ -68,9 +68,8 @@
                 <date>1967</date>
                 <dealer>none</dealer>
                 <price>gift</price>
-                <note>The letter was sold along with the letters of 11 Sept., end of Sept., 2 Oct. 1800, 10 May, 1801, 10 Jan., 22 Nov. (both parts) 
-                    1802, 25 Spril, 6 July, 16 Aug. 1803 by Captain Frederick Butts in about 1906 to W. Graham Robertson, who allowed them to be 
-                    reproduced in 1926 and bequeathed them in 1948 to Mr. Kerrison Preston, who gave them in 1967 to the Westminster Arhives.</note>
+                <note>Captain Frederick Butts (the grandson of the recipient) sold (c. 1906) this letter along with several other letters to W. Graham Robertson, who allowed them to be reproduced (1926) and bequeathed them in 1948 to Mr. Kerrison Preston, who gave them in 1967 to The Westminster Public Library, which has since been incorporated into the City of Westminster Archives Centre.
+                </note>
             </provenance>
             <repository>
                 <institution>City of Westminster Archives Centre</institution>
@@ -92,44 +91,42 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>20.4 x 16.6 cm.</objsize>
+                <objsize>16.6 x 20.4 cm.</objsize>
                 <objnote>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the second recto (Object 2) and second verso (Object 3). This folded sheet was folded further to form a sealed packet for posting. The address appears on the first recto (Object 1), which would have been the exterior of the sealed packet.</p>
                     <p>Bentley (*Writings*, volume 2, page 1541) reads this letter dated 23 September 1800 as 22 September 1800 and remarks 
-                        "since the letter was postmarked on its receipt in the London Post Office'SEP 23/ 1800' and since letters posted in Chichester arrived 
-                        in London the next day, this letter must have been posted on 22 Sept. Presumably it was written on the day it was posted."</p>
-                    <p>A double leaf written on three sides.</p>
-                    <p>Tear on top of object.</p>
-                    <p>The stamp "Chichester" overlaps the name Butts.</p>
-                    <p>Lines 5-8 are written in the left margin of Object 1.</p>
+                        "[s]ince the letter was postmarked on its receipt in the London Post Office'SEP 23/ 1800', and since letters posted in Chichester arrived 
+                        in London the next day, this letter must have been posted on 22 Sept. Presumably it was written on the day it was posted".</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
             <phystext>
+                <vspace extent="5"/>
                 <lg justify="left">
-                    <l n="lt23sept1800.1.ltr.01.01" justify="left"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Butts<note>The stamp "CHICHESTER" can be read directly behind "Mr. Butts."</note></l>
-                    <l n="lt23sept1800.1.ltr.01.02" justify="left"><choice><orig>G<hi rend="superscript">t</hi></orig><reg>Great</reg></choice>. Marlborough Street near</l>
-                    <l n="lt23sept1800.1.ltr.01.03" justify="left">Oxford Street</l>
-                    <l n="lt23sept1800.1.ltr.01.04" justify="left" indent="30">London</l>
+                    <l n="lt23sept1800.1.ltr.01.01" justify="left" indent="20"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Butts<note>The stamp "CHICHESTER" can be read directly behind "Mr. Butts."</note></l>
+                    <l n="lt23sept1800.1.ltr.01.02" justify="left" indent="15"><choice><orig>G<hi rend="superscript">t</hi></orig><reg>Great</reg></choice>. Marlborough Street near</l>
+                    <l n="lt23sept1800.1.ltr.01.03" justify="left" indent="21">Oxford Street</l>
+                    <l n="lt23sept1800.1.ltr.01.04" justify="left" indent="29">London</l>
                 </lg>
                 <lg justify="left">
-                    <l n="lt23sept1800.1.ltr.01.05" justify="left" indent="2"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice>. Blake. <note>Lines 5-8 are written in the left margin of object one</note></l>
+                    <l n="lt23sept1800.1.ltr.01.05" justify="left" indent="1"><choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice>. Blake. <note>Lines 5-8 are written vertically in the left margin of Object 1.</note></l>
                     <l n="lt23sept1800.1.ltr.01.06" justify="left">His Account</l>
-                    <l n="lt23sept1800.1.ltr.01.07" justify="left" indent="8">&#38;</l>
+                    <l n="lt23sept1800.1.ltr.01.07" justify="left" indent="5">&#38;</l>
                     <l n="lt23sept1800.1.ltr.01.08" justify="left">Correspondence</l> 
-                </lg>"
+                </lg>
             </phystext>
         </desc>
         <desc id="lt23sept1800.1.ltr.02" dbi="lt23sept1800.1.2.LT">
             <objtitle>
                 <title type="transcribed">Dear Friend of my Angels</title>, <objid>
-                    <objnumber code="A2">Object 2 </objnumber>
+                    <objnumber code="A2">Object 2</objnumber>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>16.6 x 20.4 cm.</objsize>
+                <objsize>20.4 x 16.6 cm.</objsize>
                 <objnote>
-                    <p>A double sheet written on three sides.</p>
-                    <p>There is a tear on the left side of the letter and part of the red wax seal is still attached.</p>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the second recto (Object 2) and second verso (Object 3). This folded sheet was folded further to form a sealed packet for posting. The address appears on the first recto (Object 1), which would have been the exterior of the sealed packet.</p>
+                    <p>There is a tear on the left side of the letter, and part of the red wax seal is still attached.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
            </physdesc>
@@ -137,28 +134,28 @@
                 <lg justify="left">
                         <l n="lt23sept1800.1.ltr.02.01" justify="left">Dear Friend of My Angels</l>
                         <l n="lt23sept1800.1.ltr.02.02" justify="left" indent="5">We are safe arrived at our Cottage without accident or hindrance</l>
-                        <l n="lt23sept1800.1.ltr.02.03" justify="left"><choice><orig>tho</orig><reg>though</reg></choice> it was between Eleven &#38; Twelve O Clock at night before we could get </l>
-                        <l n="lt23sept1800.1.ltr.02.04" justify="left">home. owing to the necessary shifting of our boxes &#38; portfolios from one</l>
+                        <l n="lt23sept1800.1.ltr.02.03" justify="left"><choice><orig>tho</orig><reg>though</reg></choice> it was between Eleven &#38; Twelve OClock at night before we could get </l>
+                        <l n="lt23sept1800.1.ltr.02.04" justify="left">home, owing to the necessary shifting of our boxes &#38; portfolios from one</l>
                         <l n="lt23sept1800.1.ltr.02.05" justify="left">Chaise to another. We had Seven different Chaises &#38; as many different</l>
                         <l n="lt23sept1800.1.ltr.02.06" justify="left">drivers. All upon the road was <choice><orig>chearfulness</orig><reg>cheerfulness</reg></choice> &#38; welcome <choice><orig>tho</orig><reg>though</reg></choice> our luggage</l>
                         <l n="lt23sept1800.1.ltr.02.07" justify="left">was very heavy there was no grumbling at all. We <choice><orig>traveld</orig><reg>traveled</reg></choice> <choice><orig>thro</orig><reg>through</reg></choice> a most</l>
                         <l n="lt23sept1800.1.ltr.02.08" justify="left">beautiful country on a most glorious day. Our Cottage is more beautiful</l>
-                        <l n="lt23sept1800.1.ltr.02.09" justify="left">than I thought it &#38; also more convenient. for <choice><orig>tho</orig><reg>though</reg></choice> small it is well <choice><orig>pro-</orig><reg>proportioned</reg></choice></l>
-                        <l n="lt23sept1800.1.ltr.02.10" justify="left"><gap agent="cutaway" extent="5" unit="character"/><unclear resp="rr">por</unclear><choice><orig>tiond</orig><reg>proportioned</reg></choice> &#38; if I should ever build a Palace it would be only My Cottage<note>Part of the word "portiond" has been partially removed where the paper is torn.</note></l>
+                        <l n="lt23sept1800.1.ltr.02.09" justify="left">than I thought it &#38; also more convenient. for <choice><orig>tho</orig><reg>though</reg></choice> Small it is well <choice><orig>pro-</orig><reg>proportioned</reg></choice><note>Keynes (*Letters*, page 24) reads "small" for "Small".</note></l>
+                    <l n="lt23sept1800.1.ltr.02.10" justify="left"><gap agent="cutaway" extent="3" unit="character"/><choice><orig><unclear resp="rr">tiond</unclear></orig><reg>proportioned</reg></choice> &#38; if I should ever build a Palace it would be only My Cottage<note>Part of the word "portiond" has been removed where the paper is torn.</note></l>
                         <l n="lt23sept1800.1.ltr.02.11" justify="left">Enlarged. Please to tell <choice><orig>M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> Butts that we have dedicated a Chamber</l>
-                        <l n="lt23sept1800.1.ltr.02.12" justify="left"><gap agent="cutaway" extent="9"/><unclear resp= "nw">e</unclear><choice><orig>r</orig><reg>her</reg></choice> Service &#38; that is has a very fine view of the Sea. <choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Hayley
-                                                                     <note>The first two words of line 11 have been wholly or partially removed where the paper is torn, probably removing the words "to her". Only "r" is legible. 
+                        <l n="lt23sept1800.1.ltr.02.12" justify="left"><gap agent="cutaway" extent="4"/><unclear resp= "nw">e</unclear><choice><orig>r</orig><reg>her</reg></choice> Service &#38; that is has a very fine view of the Sea. <choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice> Hayley
+                                                                     <note>The first two words of line 12 have been wholly or partially removed where the paper is torn, probably removing the words "to her". Only "r" is completely legible. 
                                                                       Erdman (page 711) reads "to her" without comment or brackets.</note></l>
-                        <l n="lt23sept1800.1.ltr.02.13" justify="left"><choice><orig>receivd</orig><reg>received</reg></choice> me with his usual brotherly affection. My Wife &#38; Sister are<note>The first word of line 13 shows wear.</note></l>
-                        <l n="lt23sept1800.1.ltr.02.14" justify="left">both very well and courting Neptune for an Embrace. whose terrors this</l>
+                        <l n="lt23sept1800.1.ltr.02.13" justify="left"><choice><orig>receivd</orig><reg>received</reg></choice> me with his usual brotherly affection. My Wife &#38; Sister are</l>
+                        <l n="lt23sept1800.1.ltr.02.14" justify="left">both very well and courting Neptune for an Embrace, whose terrors this</l>
                         <l n="lt23sept1800.1.ltr.02.15" justify="left">morning made them afraid but whose mildness is often Equal to his terrors</l>
                         <l n="lt23sept1800.1.ltr.02.16" justify="left">The Villagers of Felpham are not meer- Rustic<del type="overstrike">s</del> they are polite &#38;</l>
                         <l n="lt23sept1800.1.ltr.02.17" justify="left">modest. Meat is cheaper than in London but the sweet air &#38; the voices</l> 
                         <l n="lt23sept1800.1.ltr.02.18" justify="left">of winds trees &#38; birds &#38; the <choice><orig>odours</orig><reg>odors</reg></choice> of the happy ground makes it a</l>
-                        <l n="lt23sept1800.1.ltr.02.19" justify="left">dwelling for immortals. Work will go on here with God speed --</l>
+                        <l n="lt23sept1800.1.ltr.02.19" justify="left">dwelling for immortals. Work will go on here with God speed &#8212;</l>
                         <l n="lt23sept1800.1.ltr.02.20" justify="left">A roller &#38; two harrows lie before my window. I met a plow on my</l> 
                         <l n="lt23sept1800.1.ltr.02.21" justify="left">first going out at my gate the first morning after my arrival &#38; the </l>
-                        <l n="lt23sept1800.1.ltr.02.22" justify="left">Plowboy said to the Plowman. "Father The Gate is Open" I have begun<note>An ink mark appears here, slightly overlapping the comma.</note></l> 
+                        <l n="lt23sept1800.1.ltr.02.22" justify="left">Plowboy said to the Plowman. "Father The Gate is Open",_ I have begun</l> 
                 </lg> 
             </phystext>
         </desc>
@@ -169,10 +166,10 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objsize>16.6 x 20.4 cm.</objsize>
+                <objsize>20.4 x 16.6 cm.</objsize>
                 <objnote>
-                    <p>A double sheet written on three sides.</p>
-                    <p>Object three appears to be glued to the back side of Object 2.</p>
+                    <p>The full sheet was folded to form two leaves. Blake's letter appears on the second recto (Object 2) and second verso (Object 3). This folded sheet was folded further to form a sealed packet for posting. The address appears on the first recto (Object 1), which would have been the exterior of the sealed packet.</p>
+                    <p>Object 3 is attached to the reverse side of Object 2 by some archival material support.</p>
                 </objnote>
                 <windowsize width="500" height="630"/>
             </physdesc>
@@ -181,21 +178,17 @@
                 <lg justify="left">
                     <l n="lt23sept1800.1.ltr.03.01" justify="left">to Work &#38; find that I can work with greater pleasure than ever. Hope</l>
                     <l n="lt23sept1800.1.ltr.03.02" justify="left">soon to give you a proof that Felpham is propitious to the Arts.</l>
-                </lg>
-                <lg justify="left">
-                    <l n="lt23sept1800.1.ltr.03.03" justify="left" indent="4">God bless you. I shall wait for you on tuesday Evening as usual. Pray<note>Keynes (*Letters*, page 24) reads "tuesday" as "Tuesday".</note></l>
+                    <l n="lt23sept1800.1.ltr.03.03" justify="left" indent="4">God bless you. I shall wish for you on tuesday Evening as usual. Pray<note>Keynes (*Letters*, page 24) and Erdman (page 711) read "Tuesday" for "tuesday".</note></l>
                     <l n="lt23sept1800.1.ltr.03.04" justify="left">give My &#38; My wife &#38; sisters love &#38; respects to <choice><orig>M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg></choice> Butts, accept them </l>
                     <l n="lt23sept1800.1.ltr.03.05" justify="left">yourself &#38; believe me for ever</l>
-                </lg>
-                <lg justify="left">
-                    <l n="lt23sept1800.1.ltr.03.06" justify="left" indent="20">Your affectionate &#38; obliged Friend</l>
-                    <l n="lt23sept1800.1.ltr.03.07" justify="left" indent="25">William Blake<note>A small, isolated ink mark appears at the beginning of this line.</note></l>
+                    <l n="lt23sept1800.1.ltr.03.06" justify="left" indent="22">Your affectionate &#38; obliged Friend</l>
+                    <l n="lt23sept1800.1.ltr.03.07" justify="left" indent="29">William Blake</l>
                 </lg>
                 <lg justify="left">
                     <l n="lt23sept1800.1.ltr.03.08" justify="left">My Sister will be in town in a week &#38; bring with her your account</l>
-                    <l n="lt23sept1800.1.ltr.03.09" justify="left">&#38; whatever else I can finish.<space extent="5"/>Direct to <choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice></l>
-                    <l n="lt23sept1800.1.ltr.03.10" justify="left" indent="10">Blake: Felpham near Chichester </l>
-                    <l n="lt23sept1800.1.ltr.03.11" justify="left" indent="35">Sussex</l>       
+                    <l n="lt23sept1800.1.ltr.03.09" justify="left">&#38; whatever else I can finish:<space extent="5"/>Direct to <choice><orig>M<hi rend="superscript">r</hi></orig><reg>Mr</reg></choice></l>
+                    <l n="lt23sept1800.1.ltr.03.10" justify="left" indent="14">Blake: Felpham near Chichester </l>
+                    <l n="lt23sept1800.1.ltr.03.11" justify="left" indent="43">Sussex</l>       
                 </lg>
          </phystext>
         </desc>
