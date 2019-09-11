@@ -1,5 +1,4 @@
-<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="esii.1.1" type="spb" work="Charity" copy="1" copyid="1" institution="britishmuseum" catalog="essick" catid="esii.1.1">
+<bad id="esii.1" type="spb" work="Charity" copy="1" copyid="1" institution="britishmuseum" catalog="essick" catid="esii.1">
     <header>
         <filedesc>
             <titlestmt>
@@ -169,10 +168,10 @@ granted by the owners of the originals for this publication only.<lb/>
                 </origination>
                 
                 
-                <compdate value="1789.A">c. 1789</compdate>
+                <compdate value="1788.A">c. 1788</compdate>
             </objdescid>
             <objinfo>
-                <printdate value="1789.A">c. 1789</printdate>
+                <printdate value="1788.A">c. 1788</printdate>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
                 <objsize>18.7 x 13.3 cm.</objsize>
@@ -212,7 +211,7 @@ granted by the owners of the originals for this publication only.<lb/>
                 <repositoryid label="Registration number">1958,1101.6</repositoryid>
             </repository>
         </source>
-        <desc id="esii.1.1.spb.01" dbi="ESII.1.1.SP">
+        <desc id="esii.1.spb.01" dbi="ESII.1.1.SP">
             <objtitle>
                 <title type="transcribed">Charity</title>,
 <objid>
