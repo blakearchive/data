@@ -1,12 +1,11 @@
-<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="esviii.1-3D" type="spb" work="The Accusers of Theft Adultery Murder" copy="1" copyid="1" institution="boston" catalog="essick" catid="viii">
+<bad id="esviii.3-3D" type="spb" work="The Accusers of Theft Adultery Murder" copy="3" copyid="3" institution="boston" catalog="essick" catid="viii">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="The Accusers of Theft Adultery Murder">
                     <main>
                         The Accusers of Theft Adultery Murder</main>
-                    <copy>copy 1</copy>: electronic edition
+                    <copy>Copy 3</copy>: electronic edition
 
 </title>
                 <principal>
@@ -162,7 +161,7 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        The Accusers of Theft Adultery Murder
+                        *The Accusers of Theft Adultery Murder*
                     </title>
                 </objtitle>
                 <origination>William Blake<role>inventor,</role>
@@ -174,10 +173,10 @@ granted by the owners of the originals for this publication only.<lb/>
                 <origination>Catherine Blake<role>printer</role>
                 </origination>
                 <imprint>None.  The imprint of the first and second states has been removed.</imprint>
-                <compdate value="1793.E">1793</compdate>
+                <compdate value="1793.A">1793</compdate>
             </objdescid>
             <objinfo>
-                <printdate value="1820.C">c. 1820-25</printdate>
+                <printdate value="1820.A">c. 1820-25</printdate>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
                 <objsize>18.4 x 10.0 cm. (design)</objsize>
@@ -214,12 +213,12 @@ granted by the owners of the originals for this publication only.<lb/>
                 <repositoryid label="Accession number">23.452</repositoryid>
             </repository>
         </source>
-        <desc id="esviii.1-3D.spb.01" dbi="esviii.1.3D.SP">
+        <desc id="esviii.3-3D.spb.01" dbi="esviii.3.3D.SP">
             <objtitle>
                 <title type="transcribed">The Accusers of Theft Adultery Murder</title>,
 <objid>
                     <objnumber code="A1">object 1 </objnumber>
-                    <objcode code="B1">(esviii.1-3D)</objcode>
+                    <objcode code="B1">(esviii.3-3D)</objcode>
                 </objid>
             </objtitle>
             <physdesc>
@@ -344,23 +343,23 @@ granted by the owners of the originals for this publication only.<lb/>
             <phystext>
                 <vspace extent="3"/>
                     <lg justify="left" indent="15">
-                        <l n="esviii.1-3D.sbp.01.01"><hi rend="i">The Accuse<space extent="2"/>rs of</hi></l>
+                        <l n="esviii.3-3D.sbp.01.01"><hi rend="i">The Accuse<space extent="2"/>rs of</hi></l>
                     </lg>
                 <vspace extent="2"/>
                     <lg justify="left" indent="10">
-                        <l n="esviii.1-3D.sbp.01.02"><hi rend="i">Theft<space extent="5"/>Adultery<space extent="8"/>Murder</hi></l>    
+                        <l n="esviii.3-3D.sbp.01.02"><hi rend="i">Theft<space extent="5"/>Adultery<space extent="8"/>Murder</hi></l>    
                     </lg>
                 <vspace extent="25"/>
                     <lg justify="left" indent="8">
-                        <l n="esviii.1-3D.sbp.01.03"><unclear resp="EL"><hi rend="i">When</hi></unclear><space extent="3"/><hi rend="i">WBlake inv &#38; sculp</hi><note>"When", visible to the left of the signature, is a fragment from the second-state title inscription. See object note.</note></l>
+                        <l n="esviii.3-3D.sbp.01.03"><unclear resp="EL"><hi rend="i">When</hi></unclear><space extent="3"/><hi rend="i">WBlake inv &#38; sculp</hi><note>"When", visible to the left of the signature, is a fragment from the second-state title inscription. See object note.</note></l>
                     </lg>
                  <vspace extent="1"/>
                     <lg justify="left" indent="7">
-                        <l n="esviii.1-3D.sbp.01.04"><hi rend="i">A Scene in the Last Judgment</hi><space extent="5"/><unclear resp="EL"><hi rend="i">P</hi></unclear><note>Partial character "P" is a fragment from the second-state inscription "Page 56". See object note.</note></l>
+                        <l n="esviii.3-3D.sbp.01.04"><hi rend="i">A Scene in the Last Judgment</hi><space extent="5"/><unclear resp="EL"><hi rend="i">P</hi></unclear><note>Partial character "P" is a fragment from the second-state inscription "Page 56". See object note.</note></l>
                     </lg>
                  <vspace extent="1"/>
                     <lg justify="left" indent="2">
-                        <l n="esviii.1-3D.sbp.01.05"><hi rend="i">Satans<unclear resp="EL">'</unclear> holy Trinity The Accuser The Judge &#38; The Executioner</hi><note>The apostrophe in "Satans'" is not clearly printed in this impression.</note></l>
+                        <l n="esviii.3-3D.sbp.01.05"><hi rend="i">Satans<unclear resp="EL">'</unclear> holy Trinity The Accuser The Judge &#38; The Executioner</hi><note>The apostrophe in "Satans'" is not clearly printed in this impression.</note></l>
                     </lg>       
            </phystext>
         </desc>
