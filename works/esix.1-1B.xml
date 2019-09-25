@@ -1,4 +1,4 @@
-<bad id="esix.1-1B" type="spb" work="A Dream of Thiralatha" copy="1" copyid="1" institution="ngadc" catalog="essick" catid="ix">
+<bad id="esix.1-1B" type="spb" work="A Dream of Thiralatha" copy="1" copyid="1" institution="ngadc" catalog="essickcat" catid="ix.1-1B">
     <header>
         <filedesc>
             <titlestmt>
@@ -161,7 +161,7 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        A Dream of Thiralatha
+                        *A Dream of Thiralatha*
                     </title>
                 </objtitle>
                 <origination>William Blake<role>inventor,</role>
@@ -208,12 +208,12 @@ granted by the owners of the originals for this publication only.<lb/>
                 <repositoryid label="Accession number">1943.3.8994</repositoryid>
             </repository>
         </source>
-        <desc id="esix.1-1B.speng.01" dbi="esix.1.1B.SP">
+        <desc id="esix.1-1B.spb.01" dbi="esix.1-1B.1.SP">
             <objtitle>
                 <title type="transcribed">A Dream of Thiralatha</title>,
 <objid>
                     <objnumber code="A1">Object 1 </objnumber>
-                    <objcode code="B1">(esix.1-1B)</objcode>
+                    <objcode code="ESIX">(Essick IX, </objcode><objcode code="B1">Bentley 85.8, </objcode><objcode code="U1">Butlin 267)</objcode>
                 </objid>
             </objtitle>
             <physdesc>
@@ -327,12 +327,12 @@ granted by the owners of the originals for this publication only.<lb/>
                 </lg>
             </phystext>
             <supplemental>
-                <desc id="***" dbi="***">
+                <desc id="suppesix.1-1B.rm.01" dbi="ESIX.1-1B.1v.SP">
                     <objtitle>
                         <title type="transcribed">A Dream of Thiralatha</title>,
                         <objid>
                             <objnumber code="A1">Object 1 verso</objnumber>
-                            <objcode code="B1">(esix.1-1B)</objcode>
+                            <objcode code="ESIX">(Essick IX, </objcode><objcode code="B1">Bentley 85.8, </objcode><objcode code="U1">Butlin 267)</objcode>
                         </objid>
                     </objtitle>
                     <physdesc>
@@ -357,12 +357,12 @@ granted by the owners of the originals for this publication only.<lb/>
                         </lg> 
                     </phystext>
                 </desc>
-                <desc id="***" dbi="***">
+                <desc id="suppesix.1-1B.rm.02" dbi="ESIX.1-1B.1v2.SP">
                     <objtitle>
                         <title type="transcribed">A Dream of Thiralatha</title>,
                         <objid>
                             <objnumber code="A1">Object 1 verso reversed, high contrast</objnumber>
-                            <objcode code="B1">(esix.1-1B)</objcode>
+                            <objcode code="ESIX">(Essick IX, </objcode><objcode code="B1">Bentley 85.8, </objcode><objcode code="U1">Butlin 267)</objcode>
                         </objid>
                     </objtitle>
                     <physdesc>
