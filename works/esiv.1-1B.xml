@@ -1,0 +1,593 @@
+<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
+<bad id="esiv.1-1B" type="spb" work="Edward &#38; Elenor" copy="1" copyid="1" institution="britishmuseum" catalog="essick" catid="iv">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Edward &#38; Elenor">
+                    <main>
+                        Edward &#38; Elenor</main>
+                    <copy>copy 1</copy>: electronic edition
+
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of 
+
+Rochester;
+
+<name>Robert Essick, </name>University of California, Riverside; and
+
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+
+            </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+
+           and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC
+
+10918) files ranging in size from 177KB to 3600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives<date>May 2009</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2017</date> by Morris Eaves, Robert N. Essick,
+
+and Joseph Viscomi, all rights reserved. Items in the Archive may be
+
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+
+Redistribution or republication on other terms, in any medium, requires
+
+express written consent from the editors and advance notification of the
+
+publisher.
+
+Permission to reproduce the graphic images in this archive has been
+
+granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+
+         This image copyright © 2017 British Museum.
+
+         <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Michael Fox,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Morgan Lessley,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson,</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and image color correction</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Kit Curtin,</name>
+                    <name>Christopher N. Jackson,</name>
+                    <name>Sarah Jones,</name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Wayne C. Ripley,</name>
+                    <name>Adair Rispoli, and</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date/>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor: </resp>
+                    <name>Andrea Laue </name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed,</name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        Edward &#38; Elenor
+                    </title>
+                </objtitle>
+                <origination>William Blake<role>inventor,</role>
+                    <role>delineator,</role>
+                    <role>etcher,</role>
+                    <role>engraver,</role>
+                    <role>printer</role>
+                </origination>
+                </origination>
+                <origination>Catherine Blake<role>printer</role>
+                </origination>
+                <imprint>
+                    <publisher>William Blake</publisher>
+                    <pubplace>Lambeth</pubplace>
+                    <date>18 August 1793</date>
+                </imprint>
+                <compdate value="1793.G">1793</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1793.B">1793</printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>30.7 x 45.7 cm.</objsize>
+                <platemark>37.5 x 48.7 cm.</platemark>
+                <numberleaves>1</numberleaves>
+                <leafsize>41.2 x 53.5 cm.</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1938</date>
+                <dealer>none recorded</dealer>
+                <price>not recorded</price>
+                <note>Early history unknown; acquire by the British Museum in April 1938 from Cecil H. Drummond.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <addressline>Great Russell Street</addressline>
+                <addressline>London WC1B 3DG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 44-(0)20-7323 8408</addressline>
+                <addressline>Fax: 44-(0)20-7323 8408</addressline>
+                <addressline>URL: http://www.britishmuseum.org</addressline>
+                <addressline>British Museum</addressline>
+                <department>Department of Prints and Drawings</department>
+                <addressline>Email, Department of Prints and Drawings: prints@britishmuseum.org</addressline>
+                <repositoryid label="Registration number">1938,0409.6</repositoryid>
+            </repository>
+        </source>
+        <desc id="esiv.1-1B.speng.01" dbi="ESIV.1.1B.SP">
+            <objtitle>
+                <title type="transcribed">Edward &#38; Elenor</title>,
+<objid>
+                    <objnumber code="A1">object 1 </objnumber>
+                    <objcode code="B1">(ESIV.1-1B)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objnote><p>This impression is in the only recorded state of the plate.  The only other known impression was cut by Blake into two pieces and used in his manuscript of *The Four Zoas* (British Library).</p></objnote>
+                <objsize>41.2 x 53.5 cm.</objsize>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>
+                        At least fifteen figures surround the central pair of figures, King Edward the First at left and Queen Elenor (Eleanor of Castile) at right, who sit beneath a draped canopy. Edward has long hair and a beard, and he wears a breastplate, drapery or gown, and sandals.  He sits facing forward and turns his head to the right to look toward Elenor.  His legs are bent, with his right resting on some sort of claw-footed footrest or stool, and his right arm is bent upward in front of his chest.  His left arm is bent but extended horizontally and held at the elbow by Elenor with both hands.  Elenor, who has her long hair coiffed in braids arranged on her head and wears a long gown, sits facing left and bends forward to place her lips on Edward's extended arm.  She is likely sucking the poison out of his wound. The figure to the right of Elenor holds a sizable arrow with his bent left arm that may have been the cause of the injury.  This male figure stands facing forward and slightly left as he looks to the royal couple. He has short hair but a long, curly beard and wears a shirt as well as a cloak. His right arm is at his side. The six female figures on the right side of the composition are likely attendants to Queen Elenor.  Two of these female figures, who wear gowns and drapery, kneel in front of the steps to the royal couple.  The figure at left has long, curly hair and holds a large basin or bowl with both arms raised horizontally. Her companion at right has coiffed curly hair and appears also to extend her arms, in which she holds a swath of drapery, horizontally to the left.  To the right of this group, four additional female figures, all of whom have long hair and wear gowns with drapery, stand at right.  The leftmost of these faces forward and left and looks toward the central pair of figures; her right arm is at her side with her hand raised, palm facing down.  The second figure from the left in this group looks left and raises both arms in front of her chest and folds her hands in a gesture of prayer.  The third figure from the left faces left and bends forward as if to look between the figures standing in front of her.  One of her feet is extended backward and slightly lifted on tiptoe.  The rightmost figure in this group turns to face forward with her head down and raises her left arm in front of her chest. She appears to look down toward the head and shoulders of a dead(?) male figure visible in the lower right corner of the composition. The male figure has short curly hair and a beard; his eyes are closed and his head is turned to face left.  He may lie on drapery or some sort of mat. On the left side of the composition, seven male figures stand facing right. On the step below King Edward stands a young boy who faces forward and right to look toward the central couple.  He has long hair and wears a shirt and pants as well as a cloak or other drapery. With his bent left arm, he supports a large sword and shield, which rest on a higher step. The child is likely their son Edward, future King Edward II. Above the young prince, three men who all wear helmets look toward the king and queen.  The rightmost of these has a beard and wears a breastplate.  His left arm is at his side but bent sharply upward to hold a shield.  The figure to his left also wears armor and holds a shield with his bent left arm.  The third figure in this group stands behind the first two figures at left and only the top of his helmet his visible.  Below and to the left of this trio and the young prince, three additional figures stand in the lower left corner. The rightmost of these stands facing away and looks to the right. He has short curly hair and wears a breastplate, shirt, pants, drapery, and sandals.  His right arm is at his side and raised slightly with palm facing down.  His left arm is at his side but bent upward to hold a long pike or spear at left. To the left the heads of two figures are visible looking right: the figure at right has a mustache while the left figure has a curly beard.  Both may hold similar pikes or spears (although their arms are not visible) as the weapons' tips are visible above the crowd of onlookers. There may be additional figures on the left since the tops of more weapons are visible. The canopy under which Edward and Elenor sit is formed by two vertical posts and one horizontal lintel from which a row of tassels dangles.  Drapery covers both the space inside and the walls flanking the canopy. The level on which the royal couple sits is elevated by two steps, which are covered in a rug or carpet with a diamond pattern.  The floor not covered by this rug or carpet visible along the lower edge of the composition may be made of wood planks.
+                    </illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>Edward the First</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>king</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>breastplate</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>sandals</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>wound</characteristic>
+                        <illusobjdesc>At least fifteen figures surround the central pair of figures, King Edward the First at left and Queen Elenor at right, who sit beneath a draped canopy. Edward has long hair and a beard, and he wears a breastplate, drapery or gown, and sandals.  He sits facing forward and turns his head to the right to look toward Elenor.  His legs are bent, with his right resting on some sort of claw-footed footrest or stool, and his left on the floor.  His right arm is bent upward and his palm faces his chest.  His left arm is bent but extended horizontally and held at the elbow by Elenor with both hands.  She is likely sucking the poison out of the wound on his arm. The figure to the right of Elenor holds a sizable arrow with his bent left arm that may have been the cause of the king's injury.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>female</characteristic>
+                        <characteristic>Elenor</characteristic>
+                        <characteristic>Eleanor of Castile</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>braid</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>queen</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>mouth</characteristic>
+                        <characteristic>sucking</characteristic>
+                        <illusobjdesc>At least fifteen figures surround the central pair of figures, King Edward the First at left and Queen Elenor (Eleanor of Castile) at right, who sit beneath a draped canopy.  Elenor, who has her long hair coiffed in braids arranged on her head and wears a long gown, sits facing left and bends forward to place her lips on Edward's extended arm.  Her eyes are closed and both of her arms are bent upward.  She is likely sucking the poison out of his wound.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>At least fifteen figures surround the central pair of figures, King Edward at left and Queen Elenor at right, who sit beneath a draped canopy. The figure to the right of Elenor holds a sizable arrow with his bent left arm that may have been the cause of the king's injury.  He stands facing forward and slightly left as he looks to the royal couple. He has short hair but a long, curly beard and wears a shirt as well as drapery. His right arm is at his side, and he may reach out to touch Elenor.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>arrow</characteristic>
+                        <illusobjdesc>The male figure who stands to the right of King Edward and Queen Elenor holds in his left hand an arrow, which is likely the cause of the king's arm injury.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>female</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>bowl</characteristic>
+                        <illusobjdesc>The six female figures on the right side of the composition are likely attendants to Queen Elenor.  Two of these female figures, who wear gowns and drapery, kneel in front of the steps to the royal couple.  The figure at left has long, curly hair tied back with a ribbon.  She holds a large basin or bowl with both arms raised horizontally and looks up toward the king and queen above her at left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>The six female figures on the right side of the composition are likely attendants to Queen Elenor.  Two of these female figures, who wear gowns and drapery, kneel in front of the steps to the royal couple.  The figure at right has coiffed curly hair and appears also to extend her arms, in which she holds a swath of drapery, horizontally to the left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>hand raised</characteristic>
+                        <characteristic>palm down</characteristic>
+                        <characteristic>gown</characteristic>
+                        <illusobjdesc>On the right side of the composition, four additional female figures, all of whom have long hair and wear gowns with drapery, stand and face left.  The leftmost of these faces forward and left and looks toward the central pair of figures.  She has long, curly hair tied back with a ribbon.  Her right arm is at her side with her hand raised, palm facing down.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>fingers</characteristic>
+                        <characteristic>sandal</characteristic>
+                        <illusobjdesc>On the right side of the composition, four additional female figures, all of whom have long hair and wear gowns with drapery, stand and face left. The second figure from the left in this group looks left and raises both arms in front of her chest and folds her hands in a gesture of prayer.  She has long curly hair worn with a ribbon and tilts her head forward slightly.  She wears a sandal on her left foot.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>scarf</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>foot</characteristic>
+                        <characteristic>tiptoe</characteristic>
+                        <illusobjdesc>On the right side of the composition, four additional female figures, all of whom have long hair and wear gowns with drapery, stand and face left. The third figure from the left faces left and bends forward as if to look between the figures standing in front of her.  Her long hair is worn with a ribbon or scarf.  One of her feet is extended backward and slightly lifted on tiptoe.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>scarf</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>hand raised, palm out</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <illusobjdesc>On the right side of the composition, four additional female figures, all of whom have long hair and wear gowns with drapery, stand and face left.  The rightmost figure in this group turns to face forward with her head down.  Her curly hair is tied with a ribbon or scarf.  She raises her bent left arm in front of her chest with hand raised and palm facing left. She appears to look down toward the head and shoulders of a dead(?) male figure visible in the lower right corner of the composition.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>head</characteristic>
+                        <characteristic>shoulders</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>prone</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>dead</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <illusobjdesc>In the lower right corner of the composition, the head and shoulders of a dead(?) male figure are visible.  The male figure has short curly hair and a beard; his eyes are closed and his head is turned to face left.  He may lie on drapery or some sort of mat.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>drapery</characteristic>
+                        <characteristic>mat</characteristic>
+                        <illusobjdesc>The male figure whose head and shoulders are visible in the lower right corner may lie on drapery or a mat.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>child</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>pants</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>sword</characteristic>
+                        <characteristic>shield</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>contrapposto</characteristic>
+                        <characteristic>sandals</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>prince</characteristic>
+                        <characteristic>Edward the Second</characteristic>
+                        <illusobjdesc>On the left side of the composition, at least seven male figures stand facing right. On the step below King Edward stands a young boy who faces forward and right to look toward the central couple.  He has long, curly hair and wears a shirt and pants as well as a cloak or other drapery. With his bent left arm, he supports a large sword and shield, which rest on a higher step. His right arm is at his side.  He stands in contrapposto with his right leg slightly bent; he wears sandals.  The child is likely the son of the royal couple, Edward, the future King Edward the Second.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>feather</characteristic>
+                        <characteristic>plume</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>shield</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>On the left side of the composition, at least seven male figures stand facing right. Above the young prince, three men who all wear helmets, and thus may be soldiers, look toward the king and queen. The rightmost of these has short hair and a beard and wears a breastplate.  His helmet includes a large feathered plume. His left arm is at his side but bent sharply upward to hold a shield. His head is bent down slightly.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>feather</characteristic>
+                        <characteristic>plume</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>shield</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>On the left side of the composition, at least seven male figures stand facing right. Above the young prince, three men who all wear helmets, and thus may be soldiers, look toward the king and queen.  The figure directly above the young prince also wears a helmet with a feathered plume and armor.  His left arm is bent upward to hold a shield and his right arm is at his side but bent forward at a right angle.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>On the left side of the composition, at least seven male figures stand facing right. Above the young prince, three men who all wear helmets, and thus may be soldiers, look toward the king and queen. The third figure from the right in this group stands behind the first two figures at left and only the top of his helmet, which is adorned with a zoomorphic figure, his visible.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>pants</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>sandals</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>palm down</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>carrying</characteristic>
+                        <characteristic>spear</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <illusobjdesc>On the left side of the composition, at least seven male figures stand facing right.  Below and to the leftmost trio of soldiers and the young prince, three additional figures stand in the lower left corner. The rightmost of these stands facing away and looks to the right. He has short curly hair and wears a breastplate, shirt, pants, drapery or a cloak, and sandals.  His right arm is at his side and raised slightly with palm facing down, fingers slightly spread.  His left arm is at his side but bent upward to hold a long pike or spear at left.  His left leg is bent and extended backward slightly with his left foot lifted off the ground.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>shoulders</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>spear</characteristic>
+                        <illusobjdesc>On the left side of the composition, at least seven male figures stand facing right.  Below and to the leftmost trio of soldiers and the young prince, three additional figures stand in the lower left corner. Against the left edge of the composition, the heads of two figures are visible looking right: the figure at right has a mustache while the left figure has a mustache and curly beard. The figure at right may wear a shirt or drapery. Both figures may hold similar pikes or spears (although their arms are not visible) as the weapons' tips are visible above the crowd of onlookers.</illusobjdesc>
+                    </component>
+                    <component type="object" location="A">
+                        <characteristic>spear</characteristic>
+                        <characteristic>arrow</characteristic>
+                        <characteristic>bow</characteristic>
+                        <characteristic>tassel</characteristic>
+                        <illusobjdesc>Several additional weapons are visible or partially visible above the group of male figures at left including multiple spears or pikes, some of which include decorative tassels, and a bow and arrow near the middle of the crowd.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>stool</characteristic>
+                        <characteristic>claw</characteristic>
+                        <illusobjdesc>King Edward'sright foot rests on a claw-footed footrest or stool.</illusobjdesc>
+                    </component>
+                    
+                    <component type="structure" location="E">
+                        <characteristic>post</characteristic>
+                        <characteristic>lintel</characteristic>
+                        <characteristic>step</characteristic>
+                        <characteristic>wall</characteristic>
+                        <characteristic>floor</characteristic>
+                        <illusobjdesc>The canopy under which Edward and Elenor sit, which may be a throne, is formed by two vertical posts and one horizontal lintel from which a row of tassels dangle.  Drapery covers both the space inside and the walls flanking the canopy. The level on which the royal couple sits is elevated by two steps, which are covered in a rug or carpet with a diamond pattern.  The floor not covered by this rug or carpet visible along the lower edge of the composition may be made of wood planks.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>throne</characteristic>
+                        <characteristic>tassel</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>carpet</characteristic>
+                        <characteristic>wood</characteristic>
+                        <illusobjdesc>The canopy under which Edward and Elenor sit, which may be a throne, is formed by two vertical posts and one horizontal lintel from which a row of tassels dangles.  Drapery covers both the space inside and the walls flanking the canopy. The level on which the royal couple sits is elevated by two steps, which are covered in a rug or carpet with a diamond pattern.  The floor not covered by this rug or carpet visible along the lower edge of the composition may be made of wood planks.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="30"/>
+                <lg justify="left">
+                    <l n="esiv.1-1B.speng.01.01" indent="20"><hi rend="i">Painted and Engraved by William Blake</hi></l> 
+                </lg>
+                <vspace extent="1"/>
+                <lg justify="left">
+                    <l n="esiv.1-1B.speng.01.02" indent="16"><hi rend="i">EDWARD &#38; ELENOR</hi></l>
+                </lg>
+                <vspace extent="1"/>
+                <lg justify="left">
+                    <l n="esiv.1-1B.speng.01.03" indent="18"><hi rend="i">Published 18<hi rend="superscript">th</hi>. August 1793 by W Blake N<hi rend="superscript">o</hi> 13 Hercules Buildings Lambeth</hi></l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
