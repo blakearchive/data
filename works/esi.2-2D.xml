@@ -1,11 +1,11 @@
-<bad id="esi.1-2D" type="spb" work="Joseph of Arimathea Among the Rocks of Albion" copy="1" copyid="1" institution="essick" catalog="essick" catid="I.2D">
+<bad id="esi.2-2D" type="spb" work="Joseph of Arimathea Among the Rocks of Albion" copy="2" copyid="2" institution="essick" catalog="essickcat" catid="I.2-2D">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Joseph of Arimathea Among the Rocks of Albion">
                     <main>
                         Joseph of Arimathea Among the Rocks of Albion</main>
-                    <copy>copy 1</copy>: electronic edition
+                    <copy>Copy 2</copy>: electronic edition
 
 </title>
                 <principal>
@@ -161,7 +161,7 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        <hi rend="i">Joseph of Arimathea Among the Rocks of Albion</hi>
+                        *Joseph of Arimathea Among the Rocks of Albion*
                     </title>
                 </objtitle>
                 <origination>William Blake<role>inventor,</role><role>author,</role><role>etcher,</role>
@@ -205,12 +205,12 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>California</addressline>
             </repository>
         </source>
-        <desc id="esi.1-2D.spb.01" dbi="ESI.1-2D.1.SP">
+        <desc id="esi.2-2D.spb.01" dbi="ESI.2-2D.1.SP">
             <objtitle>
                 <title type="transcribed">Joseph of Arimathea Among the Rocks of Albion</title>,
 <objid>
                     <objnumber code="A1">Object 1 </objnumber>
-                    <objcode code="B1">(ESI.1.2D)</objcode>
+                    <objcode code="ESI">(Essick I)</objcode>
                 </objid>
             </objtitle>
             <physdesc>
@@ -273,17 +273,17 @@ granted by the owners of the originals for this publication only.<lb/>
             </illusdesc>
            <phystext>         
                 <lg justify="left">
-                    <l n="esi.1-2D.spb.01.01" indent="40">JOSEPH<note>This inscription, lines 1-3, is inscribed in the copperplate on a diagonal in the top right corner of the design.</note></l>
-                    <l n="esi.1-2D.spb.01.02" indent="35">of Arimathea</l>
-                    <l n="esi.1-2D.spb.01.03" indent="30">among The Rocks of Albion</l>
+                    <l n="esi.2-2D.spb.01.01" indent="40">JOSEPH<note>This inscription, lines 1-3, is inscribed in the copperplate on a diagonal in the top right corner of the design.</note></l>
+                    <l n="esi.2-2D.spb.01.02" indent="35">of Arimathea</l>
+                    <l n="esi.2-2D.spb.01.03" indent="30">among The Rocks of Albion</l>
                 </lg>
            <vspace  extent="30"/>
                  <lg justify="left">
-                     <l n="esi.1-2D.spb.01.04" indent="15">Engraved by W Blake 1773 from an old Italian Drawing</l> 
-                     <l n="esi.1-2D.spb.01.05" indent="1">This is One of the Gothic Artists who Built the Cathedrals in what we call the Dark Ages</l>
-                     <l n="esi.1-2D.spb.01.06">Wandering about in sheep skins &#38; goat skins of whom the World was not worthy</l>
-                     <l n="esi.1-2D.spb.01.07" indent="20">Michael Angelo Pinxit<space extent="10"/>such were the Christians</l>
-                     <l n="esi.1-2D.spb.01.08" indent="40">in all Ages</l>
+                     <l n="esi.2-2D.spb.01.04" indent="15">Engraved by W Blake 1773 from an old Italian Drawing</l> 
+                     <l n="esi.2-2D.spb.01.05" indent="1">This is One of the Gothic Artists who Built the Cathedrals in what we call the Dark Ages</l>
+                     <l n="esi.2-2D.spb.01.06">Wandering about in sheep skins &#38; goat skins of whom the World was not worthy</l>
+                     <l n="esi.2-2D.spb.01.07" indent="20">Michael Angelo Pinxit<space extent="10"/>such were the Christians</l>
+                     <l n="esi.2-2D.spb.01.08" indent="40">in all Ages</l>
                  </lg>
             </phystext>
         </desc>
