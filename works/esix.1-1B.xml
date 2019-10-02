@@ -314,28 +314,27 @@ granted by the owners of the originals for this publication only.<lb/>
                 </illustration>
             </illusdesc>
             <phystext>
-                <lg justify="left" indent="5">
-                    <l n="esix.1-1B.spb.01.01"><gap reason="illegible" extent="49" unit="character"/></l>
-                    <l n="esix.1-1B.spb.01.02"><gap reason="illegible" extent="45" unit="character"/></l>
-                    <l n="esix.1-1B.spb.01.03"><gap reason="illegible" extent="45" unit="character"/></l>
-                    <l n="esix.1-1B.spb.01.04"><gap reason="illegible" extent="45" unit="character"/></l>
+                <lg justify="left" >
+                    <l n="esix.1-1B.spb.01.01" justify="left" indent="55">9</l>
+                    <l n="esix.1-1B.spb.01.02" justify="left" indent="5"><gap reason="illegible" extent="49" unit="character"/></l>
+                    <l n="esix.1-1B.spb.01.03" justify="left" indent="5"><gap reason="illegible" extent="45" unit="character"/></l>
+                    <l n="esix.1-1B.spb.01.04" justify="left" indent="5"><gap reason="illegible" extent="45" unit="character"/></l>
+                    <l n="esix.1-1B.spb.01.05" justify="left" indent="5"><gap reason="illegible" extent="45" unit="character"/></l>
                 </lg>
                 <vspace extent="2"/>
                 <lg justify="left">
-                    <l n="esix.1-1B.spb.01.05" justify="left" indent="5">And <gap reason="illegible" extent="47" unit="character"/></l>
-                    <l n="esix.1-1B.spb.01.06" justify="left" indent="6">But <gap reason="illegible" extent="41" unit="character"/></l>
+                    <l n="esix.1-1B.spb.01.06" justify="left" indent="5">And <gap reason="illegible" extent="47" unit="character"/></l>
+                    <l n="esix.1-1B.spb.01.07" justify="left" indent="6">But <gap reason="illegible" extent="41" unit="character"/></l>
                 </lg>
             </phystext>
             <supplemental>
-                <desc id="suppesix.1-1B.rm.01" dbi="ESIX.1-1B.1v.RM">
+                <desc id="esix.1-1B.spb.01" dbi="ESIX.1-1B.1v.RM">
                     <objtitle>
-                        <title type="transcribed">A Dream of Thiralatha</title>,
                         <objid>
                             <objnumber code="A1">Object 1 verso</objnumber>
-                            <objcode code="ESIX">(Essick IX, </objcode><objcode code="B1">Bentley 85.8, </objcode><objcode code="U1">Butlin 267)</objcode>
                         </objid>
                     </objtitle>
-                    <physdesc>
+                    <physdesc desclevel="brief">
                         <objnote>
                             <p>The transcription for this object is derived from the blind embossed text seen in reverse on this verso.</p>
                         </objnote>
@@ -357,15 +356,13 @@ granted by the owners of the originals for this publication only.<lb/>
                         </lg> 
                     </phystext>
                 </desc>
-                <desc id="suppesix.1-1B.rm.02" dbi="ESIX.1-1B.1v2.RM">
+                <desc id="esix.1-1B.spb.01" dbi="ESIX.1-1B.1v2.RM">
                     <objtitle>
-                        <title type="transcribed">A Dream of Thiralatha</title>,
                         <objid>
                             <objnumber code="A1">Object 1 verso reversed, high contrast</objnumber>
-                            <objcode code="ESIX">(Essick IX, </objcode><objcode code="B1">Bentley 85.8, </objcode><objcode code="U1">Butlin 267)</objcode>
                         </objid>
                     </objtitle>
-                    <physdesc>
+                    <physdesc desclevel="brief">
                         <objnote>
                             <p>The orientation of this image of the verso has been reversed and the contrast has been increased to allow for easier reading of the blind embossed text.</p>
                         </objnote>
