@@ -1,11 +1,11 @@
-<bad id="esv.1-1A" type="spb" work="Job" copy="1" copyid="1" institution="fitzwilliam" catalog="essickcat" catid="v.1-1A">
+<bad id="esv.2-2c" type="spb" work="Job" copy="1" copyid="1" institution="fitzwilliam" catalog="essickcat" catid="v.2-2c">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Job">
                     <main>
                         Job</main>
-                    <copy>copy 1</copy>: electronic edition
+                    <copy>Copy 1</copy>: electronic edition
 
 </title>
                 <principal>
@@ -52,7 +52,7 @@ Permission to reproduce the graphic images in this archive has been
 granted by the owners of the originals for this publication only.<lb/>
             <lb/>
 
-         This image copyright © 2017 Keynes Family Trust.
+         This image copyright © 2017 Fitzwilliam Museum.
 
          <lb/>
             <lb/>
@@ -161,7 +161,7 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *Job*
+                        Job
                     </title>
                 </objtitle>
                 <origination>William Blake<role>inventor,</role>
@@ -172,18 +172,21 @@ granted by the owners of the originals for this publication only.<lb/>
                 </origination>
                 <origination>Catherine Blake<role>printer</role>
                 </origination>
-                
-                <imprint>The usual area for an imprint, just below the title, has been trimmed off both known impressions of the first state.  The imprint, if present, was probably the same as in the second state of the plate: "Published 18 August 1793 by W Blake N<hi rend="superscript">o</hi> 13 Hercules Buildings Lambeth".</imprint>
-                <compdate value="1793.D">1793<note>The date of composition and execution is based on the 1793 imprint in the second state of the plate.</note></compdate>
+                <imprint>
+                    <publisher>William Blake</publisher>
+                    <pubplace>Lambeth</pubplace>
+                    <date>1793</date>
+                </imprint>
+                <compdate value="1793.D">1793</compdate>
             </objdescid>
             <objinfo>
-                <printdate value="1793.A">1793</printdate>
+                <printdate value="1820.A">c. 1820-25</printdate>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize>34.4 x 48.2 cm.</objsize>
-                <platemark>46.0 x 54.0 cm.<note>Both known impressions of the first state of the plate are trimmed within the platemark.  The size given here is based on the platemark in second-state impressions.</note></platemark>
+                <objsize>34.8 x 49.1 cm. (design)</objsize>
+                <platemark>46.0 x 54.0 cm.</platemark>
                 <numberleaves>1</numberleaves>
-                <leafsize>41.0 x 54.5 cm.</leafsize>
+                <leafsize>49.0 x 67.2 cm.</leafsize>
                 <medium>etching and engraving</medium>
                 <printingstyle>intaglio</printingstyle>
                 <inkcolor>black</inkcolor>
@@ -195,11 +198,11 @@ granted by the owners of the originals for this publication only.<lb/>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>Keynes Family Trust, Fitzwilliam Museum</name>
-                <date>1982</date>
-                <dealer>Bernard Quaritch</dealer>
-                <price>&#163;10</price>
-                <note>Early history unknown; sold Sotheby's, 21 May 1935, lot 297 (&#163;10 to the dealer Bernard Quaritch acting for Geoffrey Keynes); bequeathed in 1982 by Keynes to the Keynes Family Trust, on deposit at the Fitzwilliam Museum.</note>
+                <name>Fitzwilliam Museum</name>
+                <date>1954</date>
+                <dealer>none</dealer>
+                <price>none</price>
+                <note>Inherited in 1827 by Catherine Blake upon her husband's death; sold March 1830 to Haviland Burke acting for John Jebb, Bishop of Limerick (with an impression of Blake's "Ezekiel" engraving, &#163;2.2s.); bequeathed in 1833 by Burke to his chaplain, Rev. Charles Forster; by inheritance in 1871 to his son, E. M. L. Forster; by inheritance in 1880 to his sister, Laura M. Forster; by inheritance in 1924 to her nephew, the novelist E. M. Forster; given by him to King's College, Cambridge, in 1953 and transferred by the college to the Fitzwilliam Museum in 1954.</note>
             </provenance>
             <repository>
                 <institution>Fitzwilliam Museum</institution>
@@ -216,26 +219,26 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>Email, Image Library: fitzmuseum-photography@lists.cam.ac.uk</addressline>
                 <addressline>URL, Photographic Service: http://www.fitzmuseum.cam.ac.uk/dept/photography</addressline>
                 <department>Paintings, Drawings, and Prints</department>
-                <repositoryid label="Accession number">Keynes Family Trust</repositoryid>
+                <repositoryid label="Accession number">P.3-1953</repositoryid>
             </repository>
         </source>
-        <desc id="esv.1-1A.spb.01" dbi="esv.1-1A.1.SP">
+        <desc id="esv.2-2c.spb.01" dbi="esv.2-2C.1.SP">
             <objtitle>
                 <title type="transcribed">Job</title>,
 <objid>
-                    <objnumber code="A1">object 1 </objnumber>
+                    <objnumber code="A1">Object 1 </objnumber>
                     <objcode code="ESV">(Essick V)</objcode>
                 </objid>
             </objtitle>
             <physdesc>
-                <objnote><p>This impression is in the first state of two.  When sold at auction in 1935, this impression was badly damaged, including loss of some of the design at the top.  The print was restored shortly after its acquisition by Geoffrey Keynes at the 1935 auction.  Any imprint, if present in this first state, was trimmed off this impression.  An engraved loop, probably part of an inscription, below and to the right of the "B" of "JOB" in the title inscription appears just above the bottom margin of this impression. This loop does not correspond to any part of the lettering of the inscription below the title (beginning "What is Man...") in the second state.</p></objnote>
-                <objsize>41.0 x 54.5 cm.</objsize>
+                <objnote><p>This impression is in the second state of two.  The plate was first etched and engraved in 1793, as the imprint indicates, and converted to this final state c. 1820-25.  The final digit of the year in the imprint is poorly printed in this impression.  The date is clearly "1793" in the other two known impressions of the second state (British Museum and Keynes Family Trust, Fitzwilliam Museum).</p></objnote>
+                <objsize>46.0 x 54.0 cm.</objsize>
                 <windowsize width="600" height="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
                     <illusobjdesc>
-                        Five figures sit huddled in contracted positions in front of several tree trunks.  Job, the rightmost male figure, faces forward and lifts his head to look up with raised eyes. He is old with long hair and a beard, and he wears a gown. Both arms are slightly bent and at his sides with palms facing up and forward, fingers spread.  His knees are bent upward toward his chest. Job's wife, the second figure from the right, is a gowned female who sits facing forward but turns her head to look right toward Job with raised eyes. She has long curly hair and wears sandals. Her mouth is open.  Her knees are bent forward toward her chest, and she wraps both bent arms around her knees with her hands together, fingers intertwined, perhaps in a gesture of prayer. Only the head and one hand of the third figure from the right, who is male, are visible.  This is probably Zophar.  He faces forward and right and appears to have a mustache. One of his hands is raised in front of the left side of his face. He may rest his head on his raised hand, as his head is bent forward slightly. The second male figure from left is probably Bildad.  He has short curly hair and a beard and sits facing forward and right. Most of his body is obscured by the figure sitting in front of him, though he may wear a gown. He appears to bend forward and to the right slightly. The leftmost figure is probably Eliphaz.  He is gowned, or wears a shirt and cloak, and sits facing right with his knees bent beneath him and upper body bent or hunched forward.  He is old and has long hair and a beard. His right arm is at his side but bent upward, perhaps to rest on his left forearm. He points to the right with his right index finger, which appears to be extended through his beard.  His left arm is also bent and may rest in his lap. The ground on which the five figures sit may be covered in straw or other long grass. Behind the group of five figures, at least five tree trunks are visible. The third trunk from the left has a single bifurcated branch that extends to the left.</illusobjdesc>
+                        Five figures sit huddled in contracted positions in front of several tree trunks.  Job, the rightmost male figure, faces forward and lifts his head to look up with raised eyes.  Tears stream down his face. He is old with long hair and a beard, and he wears a gown. Both arms are slightly bent and at his sides with palms facing up and forward, fingers spread.  His knees are bent upward toward his chest. Job's wife, the second figure from the right, is a gowned female who sits facing forward but turns her head to look right toward Job with raised eyes. She has long curly hair and wears sandals. Her mouth is open.  Her knees are bent forward toward her chest, and she wraps both bent arms around her knees with her hands together, fingers intertwined, perhaps in a gesture of prayer. Only the head and one hand of the third figure from the right, who is male, are visible.  This is probably Zophar.  He faces forward and right and appears to have a mustache. One of his hands is raised in front of the left side of his face. He may rest his head on his raised hand, as his head is bent forward slightly. The second male figure from left is probably Bildad.  He has short curly hair and a beard and sits facing forward and right. Most of his body is obscured by the figure sitting in front of him, though he may wear a gown. He appears to bend forward and to the right slightly. The leftmost figure is probably Eliphaz.  He is gowned, or wears a shirt and cloak, and sits facing right with his knees bent beneath him and upper body bent or hunched forward.  He is old and has long hair and a beard. His right arm is at his side but bent upward, perhaps to rest on his left forearm. He points to the right with his right index finger, which appears to be extended through his beard.  His left arm is also bent and may rest in his lap. The ground on which the five figures sit may be covered in straw or other long grass. Behind the group of five figures, at least five tree trunks are visible. The third trunk from the left has a single bifurcated branch that extends to the left. The sky visible in the background is dark and pierced by at least one bolt of lightning between the third and fourth trunks from the right. There may be other, smaller bolts between the first tree on the left and the second and between the second and third tree from the right.</illusobjdesc>
                     <component type="figure" location="BD">
                         <characteristic>male</characteristic>
                         <characteristic>Job</characteristic>
@@ -245,6 +248,8 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>facing forward</characteristic>
                         <characteristic>facing up</characteristic>
                         <characteristic>old</characteristic>
+                        <characteristic>crying</characteristic>
+                        <characteristic>tears</characteristic>
                         <characteristic>eyes raised</characteristic>
                         <characteristic>looking</characteristic>
                         <characteristic>long hair</characteristic>
@@ -256,7 +261,7 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>palm facing viewer</characteristic>
                         <characteristic>fingers spread</characteristic>
                         <characteristic>leg bent at knee</characteristic>
-                        <illusobjdesc>Five figures sit huddled in contracted positions in front of several tree trunks. Job, the rightmost figure, faces forward and lifts his head to look up with raised eyes. He is old with long hair and a beard, and he wears a gown. Both arms are slightly bent and at his sides with palms facing up and forward, fingers spread.  His knees are bent upward toward his chest. This figure is likely Job.</illusobjdesc>
+                        <illusobjdesc>Five figures sit huddled in contracted positions in front of several tree trunks. Job, the rightmost figure, faces forward and lifts his head to look up with raised eyes. Tears stream down his face. He is old with long hair and a beard, and he wears a gown. Both arms are slightly bent and at his sides with palms facing up and forward, fingers spread.  His knees are bent upward toward his chest. This figure is likely Job.</illusobjdesc>
                     </component>
                     <component type="figure" location="E">
                         <characteristic>female</characteristic>
@@ -352,18 +357,34 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>tree</characteristic>
                         <characteristic>trunk</characteristic>
                         <characteristic>branch</characteristic>
-                        <characteristic>Behind the group of five figures, at least five tree trunks are visible. The third trunk from the left has a single bifurcated branch that extends to the left.</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>moss</characteristic>
+                        <characteristic>Behind the group of five figures, at least five tree trunks are visible. The third trunk from the left has a single bifurcated branch that extends at left, and the rightmost tree may have moss or vines visible on its trunk&#8212;or at least very reticulated bark.</characteristic>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>sky</characteristic>
+                        <characteristic>dark</characteristic>
+                        <characteristic>storm</characteristic>
+                        <characteristic>lightning</characteristic>
+                        <illusobjdesc>The sky visible in the background is dark and pierced by at least one bolt of lightning between the third and fourth trunks from the right. There may be other, smaller bolts between the first tree on the left and the second and between the second and third tree from the right.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
             <phystext>
-                <vspace extent= "30"/>
-                <lg justify= "left">
-                    <l n="esv.1-1A.spb.01.01" indent= "18"><hi rend="i">Painted and Engraved by William Blake</hi></l>
+                <vspace extent="20"/>
+                <lg justify="left" indent="15">
+                    <l n="esv.2-2c.spb.01.01"><hi rend="i">Painted and Engraved by William Blake</hi></l>
                 </lg>
-                <vspace extend="1"/>
-                <lg justify= "left">
-                    <l n="esv.1-1A.spb.01.02" indent= "17"><hi rend="i">JOB</hi></l>
+                <vspace extent="1"/>
+                <lg justify="left" indent="17">
+                    <l n="esv.2-2c.spb.01.02"><hi rend="i">JOB</hi></l>
+                </lg>
+                <lg justify="left" indent="5">
+                    <l n="esv.2-2c.spb.01.03"><hi rend="i">What is Man That thou shouldest Try him Every Moment? Job VII C 17 &#38; 18 V</hi></l>
+                </lg>
+                <vspace extent="2"/>
+                <lg justify="left" indent="10">
+                    <l n="esv.2-2c.spb.01.04"><hi rend="i">Published 18 August 1793 by W Blake N<hi rend="superscript">o</hi> 13 Hercules Buildings Lambeth</hi></l>
                 </lg>
             </phystext>
         </desc>
