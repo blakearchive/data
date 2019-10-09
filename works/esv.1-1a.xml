@@ -1,11 +1,11 @@
-<bad id="esv.1-1A" type="spb" work="Job" copy="1" copyid="1" institution="fitzwilliam" catalog="essickcat" catid="v.1-1A">
+<bad id="esv.1-1a" type="spb" work="Job" copy="1" copyid="1" institution="fitzwilliam" catalog="essickcat" catid="v.1-1a">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Job">
                     <main>
                         Job</main>
-                    <copy>copy 1</copy>: electronic edition
+                    <copy>Copy 1</copy>: electronic edition
 
 </title>
                 <principal>
@@ -219,11 +219,11 @@ granted by the owners of the originals for this publication only.<lb/>
                 <repositoryid label="Accession number">Keynes Family Trust</repositoryid>
             </repository>
         </source>
-        <desc id="esv.1-1A.spb.01" dbi="esv.1-1A.1.SP">
+        <desc id="esv.1-1a.spb.01" dbi="esv.1-1A.1.SP">
             <objtitle>
                 <title type="transcribed">Job</title>,
 <objid>
-                    <objnumber code="A1">object 1 </objnumber>
+                    <objnumber code="A1">Object 1 </objnumber>
                     <objcode code="ESV">(Essick V)</objcode>
                 </objid>
             </objtitle>
@@ -359,11 +359,11 @@ granted by the owners of the originals for this publication only.<lb/>
             <phystext>
                 <vspace extent= "30"/>
                 <lg justify= "left">
-                    <l n="esv.1-1A.spb.01.01" indent= "18"><hi rend="i">Painted and Engraved by William Blake</hi></l>
+                    <l n="esv.1-1a.spb.01.01" indent= "18"><hi rend="i">Painted and Engraved by William Blake</hi></l>
                 </lg>
                 <vspace extend="1"/>
                 <lg justify= "left">
-                    <l n="esv.1-1A.spb.01.02" indent= "17"><hi rend="i">JOB</hi></l>
+                    <l n="esv.1-1a.spb.01.02" indent= "17"><hi rend="i">JOB</hi></l>
                 </lg>
             </phystext>
         </desc>
