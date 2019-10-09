@@ -1,11 +1,11 @@
-<bad id="esv.2-2C" type="spb" work="Job" copy="1" copyid="1" institution="fitzwilliam" catalog="essickcat" catid="v.2-2C">
+<bad id="esv.2-2c" type="spb" work="Job" copy="1" copyid="1" institution="fitzwilliam" catalog="essickcat" catid="v.2-2c">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="Job">
                     <main>
                         Job</main>
-                    <copy>copy 1</copy>: electronic edition
+                    <copy>Copy 1</copy>: electronic edition
 
 </title>
                 <principal>
@@ -222,11 +222,11 @@ granted by the owners of the originals for this publication only.<lb/>
                 <repositoryid label="Accession number">P.3-1953</repositoryid>
             </repository>
         </source>
-        <desc id="esv.2-2C.spb.01" dbi="esv.2-2C.1.SP">
+        <desc id="esv.2-2c.spb.01" dbi="esv.2-2C.1.SP">
             <objtitle>
                 <title type="transcribed">Job</title>,
 <objid>
-                    <objnumber code="A1">object 1 </objnumber>
+                    <objnumber code="A1">Object 1 </objnumber>
                     <objcode code="ESV">(Essick V)</objcode>
                 </objid>
             </objtitle>
@@ -373,18 +373,18 @@ granted by the owners of the originals for this publication only.<lb/>
             <phystext>
                 <vspace extent="20"/>
                 <lg justify="left" indent="15">
-                    <l n="esv.2-2C.spb.01.01"><hi rend="i">Painted and Engraved by William Blake</hi></l>
+                    <l n="esv.2-2c.spb.01.01"><hi rend="i">Painted and Engraved by William Blake</hi></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg justify="left" indent="17">
-                    <l n="esv.2-2C.spb.01.02"><hi rend="i">JOB</hi></l>
+                    <l n="esv.2-2c.spb.01.02"><hi rend="i">JOB</hi></l>
                 </lg>
                 <lg justify="left" indent="5">
-                    <l n="esv.2-2C.spb.01.03"><hi rend="i">What is Man That thou shouldest Try him Every Moment? Job VII C 17 &#38; 18 V</hi></l>
+                    <l n="esv.2-2c.spb.01.03"><hi rend="i">What is Man That thou shouldest Try him Every Moment? Job VII C 17 &#38; 18 V</hi></l>
                 </lg>
                 <vspace extent="2"/>
                 <lg justify="left" indent="10">
-                    <l n="esv.2-2C.spb.01.04"><hi rend="i">Published 18 August 1793 by W Blake N<hi rend="superscript">o</hi> 13 Hercules Buildings Lambeth</hi></l>
+                    <l n="esv.2-2c.spb.01.04"><hi rend="i">Published 18 August 1793 by W Blake N<hi rend="superscript">o</hi> 13 Hercules Buildings Lambeth</hi></l>
                 </lg>
             </phystext>
         </desc>
