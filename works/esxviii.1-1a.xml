@@ -1,0 +1,687 @@
+<bad id="esxviii.1-1a" type="spb" work="Mirth" copy="1" copyid="1" institution="britishmuseum" catalog="essickcat" catid="xviii.1-1a">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Mirth">
+                    <main>
+                        Mirth</main>
+                    <copy> Copy 1</copy>: electronic edition
+
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of 
+
+Rochester;
+
+<name>Robert Essick, </name>University of California, Riverside; and
+
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+
+            </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+
+           and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC
+
+10918) files ranging in size from 177KB to 3600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives<date>May 2009</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2017</date> by Morris Eaves, Robert N. Essick,
+
+and Joseph Viscomi, all rights reserved. Items in the Archive may be
+
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+
+Redistribution or republication on other terms, in any medium, requires
+
+express written consent from the editors and advance notification of the
+
+publisher.
+
+Permission to reproduce the graphic images in this archive has been
+
+granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+
+         This image copyright © 2017 British Museum
+
+         <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Michael Fox,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Morgan Lessley,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson,</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and image color correction</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Kit Curtin,</name>
+                    <name>Christopher N. Jackson,</name>
+                    <name>Sarah Jones,</name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Wayne C. Ripley,</name>
+                    <name>Adair Rispoli, and</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date/>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor: </resp>
+                    <name>Andrea Laue </name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed,</name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        *Mirth*
+                    </title>
+                </objtitle>
+                <origination>William Blake<role>inventor, </role><role>delineator, </role><role>etcher, </role><role>engraver, </role>
+                    <role>printer</role>
+                </origination>
+                <origination>Catherine Blake<role>printer</role>
+                </origination>
+                
+                <compdate value="1816.A">c. 1816-20</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1816.A">c. 1816-20</printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>16.1 x 12.2 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>24.0 x 21.4 cm.</leafsize>
+                <medium>intaglio etching/engraving in line and stipple</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>1<note>A single framing line is contiguous with the edges of the image.</note></framelines>
+                <binding>none<note>The print is mounted on a larger leaf of paper in turn pasted to a mat.</note></binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1918</date>
+                <dealer>Alec Martin</dealer>
+                <price>&#163;54.12s.</price>
+                <note>Acquired, probably from Blake or his wife Catherine, by John Linnell; sold by the Trustees of the Linnell estate, Christie's, 15 March 1918, lot 190, with *The Accusers of Theft Adultery Murder* Copy 3E and "a parcel" of other plates by Blake (&#163;54.12s. to Alec Martin acting for the British Museum).</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <department>Prints and Drawings</department>
+                <repositoryid label="Accession number">1918,0413.7</repositoryid>
+            </repository>
+        </source>
+        <desc id="esxviii.1-1a.spb.01" dbi="ESXVIII.1-1A.1.SP">
+            <objtitle>
+                <title type="transcribed">Mirth</title>,
+<objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="ESXVIII">(Essick XVIII)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objnote><p>This is the only known impression of the first state of this engraving.  The design is based closely on Blake's water color of c. 1816-20, Object 1 among his illustrations to John Milton's "L'Allegro" and "Il Penseroso" (Butlin 543.1).</p></objnote>
+                <objsize>16.1 x 12.2 cm.</objsize>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The design illustrates a passage in John Milton's "L'Allegro." The female personification of Mirth stands or hovers in the center of the design, surrounded by at least twenty-six other figures. Her hair is long and curly, and she wears a crown or wreath of small berries or flowers. She smiles with an open mouth and looks out toward the viewer. She wears a semi-transparent gown and extends both arms: her right arm is raised at 45 degrees and her left arm is nearly vertical. Lines suggesting beams of light or an area of radiance extend outward around her head. Four spirits who all play musical instruments appear above Mirth's head; their circular arrangement suggests a halo. Two pairs of smaller figures stand on either side of Mirth along the lower edge of the composition. The leftmost figure is a female nymph who possibly represents the personification of Liberty. She is gowned and wears sandals. A quiver containing at least two arrows hangs by a strap over her left shoulder. With her raised right hand she grasps the feathered tail of an arrow; with her raised left hand, she also holds hands with (or at least touches the hand of) Mirth. The second figure from the left is a male spirit who stands or hovers facing forward with both arms raised upward. He wears short breeches or tights and a shirt with an elaborate, ruffled collar and buttons. His left leg is raised and bent at 90 degrees. Two gowned, female nymphs stand or hover to the right of Mirth. The figure closest to Mirth bends her arms upwards above her head, turns her head to look left and down, and raises her bent right leg. The rightmost figure has her arms at her sides but bent upward with the palms held out at shoulder-height. The ground below the figures appears to be covered with grass. Leafy vegetation that appears in the lower left corner of the design may represent distant trees. Additional shapes lower left and right may represent cities, including a triangular spire (on the right) and rectangular buildings. Hills or a low mountain appear to rise above the city in the lower right corner of the design. Directly above the female nymph in the lower right corner, another female nymph who bends forward flies or hovers near the right border of the design. The figure is gowned with bat-like wings surrounding her head, torso, and upper legs. A male spirit flies or hovers near the right border of the design. The figure has two horns on his head and is seen in a contracted position with his left arm wrapped around his knees, which are bent upward to his chest. His left arm is raised vertically. The figure turns his head to look toward the female nymph below him. A nude male spirit who faces forward hovers or flies to the right of the central figure, below her left arm. His arms are bent with his hands grasping his sides. An insciption in the second state of the plate identifies this smiling figure as a personification of Laughter. Four nude spirits fly or hover above and to the right of the figure of Laughter. The largest figure in the group at upper left has its legs spread and arms raised horizontally; its head is twisted to the left. The second spirit from the left in this group appears to hold a pitcher(?) from which it pours liquid into a cup held by the third spirit below. A group of four spirits fly or hover around Mirth's raised left hand. To the left of her hand, a spirit plays a long trumpet or musical horn held in its extended right hand. Three circles, possibly bubbles, appear in the upper right corner of the design, to the right of the trumpet. To the right of Mirth's hand, a nude spirit seen from behind flies or hovers with arms bent upward. With his(?) right hand, he touches the raised right arm of an infant spirit who faces forward and left. To the right of the child spirit, the rightmost spirit in this group flies or hovers with her(?) body horizontal. Five female spirits who face forward fly or hover above and to the left of the central figure of Mirth. The rightmost figure in this group extends her arms horizontally while the three figures in a row to her left bend both arms upward with palms facing forward. The largest, central figure of the group flies diagonally downward and to the left. Her arms are extended down and to the left where she points with both hands towards the gowned male spirit below.  An inscription in the second state of the print identifies her as a personification of Sport. The gowned male flies or hovers with bent legs to the left of Mirth's right shoulder. He is seen from behind with his lower body facing left; his torso and head are twisted to the right. His head is bent back and he looks up and slightly to the right towards the female figures above. His arms are bent upward and his mouth is open. An inscription in the second state of the print identifies him as a personification of Care.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>female</characteristic>
+                        <characteristic>Mirth</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>berry</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>teeth</characteristic>
+                        <characteristic>smiling</characteristic>
+                        <characteristic>semi-transparent</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>hand raised, palm out</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>line</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>radiance</characteristic>
+                        <characteristic>halo</characteristic>
+                        <illusobjdesc>The female personification of Mirth stands or hovers in the center of the design, surrounded by at least twenty-six other figures. Her hair is long and curly, and she wears a crown or wreath of small berries or flowers. She smiles with an open mouth (her teeth are visible) and looks out toward the viewer with head turned slightly right. She wears a semi-transparent gown and extends both arms, which are bent: her right arm is raised at 45 degrees and her left arm is nearly vertical. With her right hand, she touches or holds the raised hand of the leftmost figure in the lower left corner. The palm of her raised left hand faces forward. Her legs appear to be bent slightly and her feet are pointed downward. Lines suggesting beams of light or an area of radiance extend outward around her head. The four spirits around her head also suggest a halo.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>halo</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>breast</characteristic>
+                        <characteristic>bending backward</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>tambourine</characteristic>
+                        <characteristic>drum</characteristic>
+                        <illusobjdesc>Four spirits who all play musical instruments appear above Mirth's head; their circular arrangement suggests a halo. The rightmost of these figures appears to be nude and female as breasts are suggested. She flies or hovers facing forward and right and raises her arms vertically. She bends backward slightly. With both hands she holds or play a circular instrument, perhaps a tambourine or drum.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>halo</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <illusobjdesc>Four spirits who all play musical instruments appear above Mirth's head; their circular arrangement suggests a halo. The second figure from the right flies or hovers facing left with her(?) upper body twisted or bent to the right. She appears to be nude and bends both arms upward to hold a horn, which she may play. Her left leg is bent.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>halo</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>horn</characteristic>
+                        <illusobjdesc>Four spirits who all play musical instruments appear above Mirth's head; their circular arrangement suggests a halo. The highest figure in this group, the third from the right, flies or hovers with head at right. The figure's nude body faces down but with upper body twisted to the right. The figure's left arm is bent upward to hold a horn, which he or she may play.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>halo</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>breast</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>tambourine</characteristic>
+                        <characteristic>drum</characteristic>
+                        <illusobjdesc>Four spirits who all play musical instruments appear above Mirth's head; their circular arrangement suggests a halo. The leftmost figure in this group flies or hovers facing away and is nude. The figure's breast may be visible at right suggesting the figure is female. She bends to the right and down and raises both arms, which are bent, vertically. In her left hand, the figure holds an instrument, perhaps a tambourine or drum, which she may play.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>nymph</characteristic>
+                        <characteristic>Liberty</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>breast</characteristic>
+                        <characteristic>sandals</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>quiver</characteristic>
+                        <characteristic>arrow</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <illusobjdesc>Two pairs of smaller figures stand or hover on either side of Mirth along the lower edge of the composition. The leftmost figure is a female nymph who possibly represents the personification of Liberty. Her body faces and leans left although she twists her head to look forward and right. She has short hair and is gowned, though her right breast is exposed, and wears sandals. Her right leg is extended backward slightly. A quiver containing at least two arrows hangs by a strap over her left shoulder. With her raised right hand she grasps the feathered tail of an arrow; with her raised left hand, she also holds hands with (or at least touches the hand of) Mirth.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>spirit</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>ruff</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg raised</characteristic>
+                        <illusobjdesc>Two pairs of smaller figures stand or hover on either side of Mirth along the lower edge of the composition. The second figure from the left is a male spirit with short hair who stands or hovers facing forward with both arms bent and raised upward. On both hands, his fingers are spread. He leans to left slightly but his head is tilted to the right. He wears short breeches or tights and a shirt with buttons and an elaborate, ruffled collar and buttons. His left leg is raised and bent at 90 degrees.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>nymph</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>smiling</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg raised</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>Two gowned, female nymphs stand or hover to the right of Mirth along the lower edge of the composition. The figure closest to Mirth at left bends her arms upwards above her head and her fingers on both hands are spread. Her hair is arranged in a bun. She faces forward but turns her head to look left and down; she is smiling. She raises her bent right leg and her left leg is extended backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>nymph</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>hands raised, palms out</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>Two gowned, female nymphs stand or hover to the right of Mirth along the lower edge of the composition. The rightmost figure faces forward and leans to the right. She has her arms at her sides but bent upward with the palms held out at shoulder-height. Her gown has a spiky collar and she appears to wear a hat. Her mouth is open and her head is up. Her left leg is extended backward. The foot of the figure above her appears to touch her left shoulder.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>grass</characteristic>
+                        <characteristic>tree</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <illusobjdesc>Grass appears to cover the ground along the lower edge of the composition. Leafy vegetation in the lower left corner may represent distant leafy trees.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="CD">
+                        <characteristic>spire</characteristic>
+                        <characteristic>building</characteristic>
+                        <characteristic>city</characteristic>
+                        <illusobjdesc>In the lower left and right corners of the composition, light-colored shapes may represent cities, including a triangular spire (on the right) and rectangular buildings.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>hill</characteristic>
+                        <characteristic>mountain</characteristic>
+                        <illusobjdesc>Hills or a low mountain appear to rise above the city in the lower right corner of the design.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>nymph</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>bat-winged</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>smiling</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>hand raised, palm out</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>Directly above the female nymph in the lower right corner, another female nymph who bends forward flies or hovers near the right border of the design. The figure is gowned with spiky bat-like wings surrounding her head, torso, and upper legs. She bends forward and left but twists her head up and to the right. She has short hair and appears to smile. Her right arm is raised vertically with hand raised, palm out. Her left arm is bent at 90 degrees and she may point to the left with her index finger. Her left leg is bent and her left foot may rest on or touch the left shoulder of the female nymph below her.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>spirit</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>arm wrapped around knees</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>palm up</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <illusobjdesc>A male spirit flies or hovers near the right border of the design. The figure has two horns on his head and is seen in a contracted position with his left arm wrapped around his knees, which are bent upward to his chest. His left arm is raised vertically with palm facing up. He may have short hair. The figure faces right but turns his head to look left and down toward the female nymph below him. His mouth appears to be open.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>spirit</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>legs drawn up</characteristic>
+                        <characteristic>smiling</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>Laughter</characteristic>
+                        <illusobjdesc>A nude male spirit who faces forward and leans to the left hovers or flies to the right of the central figure, below her left arm. His arms are bent with his hands grasping his sides, fingers spread. His hair is short. Both legs are bent and drawn upward beneath his body. He is smiling with an open mouth.  An inscription in the second state of the plate identifies this figure as a personification of Laughter.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Four nude spirits fly or hover above and to the right of the figure of Laughter. The largest figure in the group at upper left faces right; its legs are spread and extended to the left and arms raised horizontally. The figure appears to hold a long, thin object in its raised left hand. The figure may have short hair and its head is twisted to the left and up, perhaps to look at the other group of spirits above.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>pitcher</characteristic>
+                        <characteristic>pouring</characteristic>
+                        <illusobjdesc>Four nude spirits fly or hover above and to the right of the figure of Laughter. The second spirit from the left in this group faces down with legs together, extended backward and up. The figure appears to hold a pitcher(?) from which it pours liquid into a cup held by the third spirit below.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>cup</characteristic>
+                        <illusobjdesc>Four nude spirits fly or hover above and to the right of the figure of Laughter. The third spirit in this group from the right faces away with head turned to the left. The figure appears to have short hair and bends both legs. The fourth spirit below may touch this figure's right foot. Leaning to the left, the spirit raises its left arm at 135 degrees and hold a cup in its left hand, into which the above figure pours liquid.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>Four nude spirits fly or hover above and to the right of the figure of Laughter. The lowest and rightmost spirit in this group faces forward and bends to the left. The figure may touch the right foot of the above spirit.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>trumpet</characteristic>
+                        <characteristic>trumpeter</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>A group of four spirits fly or hover around Mirth's raised left hand. To the left of her hand, a spirit plays a long trumpet or musical horn held in its extended right hand. This figure bends to the right and may have short hair and wear a gown. The figure's left leg is bent back and its left foot may touch Mirth's left thumb.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>bubbles</characteristic>
+                        <characteristic>circle</characteristic>
+                        <illusobjdesc>Three circles, possibly bubbles, appear in the upper right corner of the design, to the right of the trumpet played by the spirit flying or hovering to the left of Mirth's raised left hand.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>A group of four spirits fly or hover around Mirth's raised left hand. To the right of Mirth's hand, a nude spirit seen from behind flies or hovers with arms bent upward. He(?) appears to have short hair and turns his head up and right, perhaps to look toward the smaller spirit at right. With his right hand, he touches the raised right arm of an infant spirit who faces forward and left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>infant</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>A group of four spirits fly or hover around Mirth's raised left hand. An nude infant spirit in the middle of this group faces forward and left, perhaps to look toward the spirit at left. The figure raises both arms and may touch the right hand of the spirit at left with its raised right arm.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>A group of four spirits fly or hover around Mirth's raised left hand. To the right of the child spirit, the rightmost spirit in this group flies or hovers with her(?) body horizontal and head up to face left, perhaps to look toward the child at left. She may have long hair. Her left arm appears to be bent in front of her chest and her legs are together and extended backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>palms down</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>Five female spirits who face forward fly or hover above and to the left of the central figure of Mirth. The rightmost figure in this group extends her arms horizontally, with palms facing down. She has long hair and appears to be nude. With her right hand, she may hold or touch the drapery of other figure's gown visible at left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>hands raised, palms out</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>breasts</characteristic>
+                        <characteristic>smiling</characteristic>
+                        <illusobjdesc>Five female spirits who face forward fly or hover above and to the left of the central figure of Mirth. The three middle figures who appear in a horizontal row all bend both arms upward with palms facing forward, fingers spread. They all appear to have short hair and their breasts are prominent. All appear to smile.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>arms reaching downward</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>smiling</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>Sport</characteristic>
+                        <illusobjdesc>Five female spirits who face forward fly or hover above and to the left of the central figure of Mirth. The largest figure of the group flies diagonally downward and to the left but turns her head up and to the right. Her arms are extended down and to the left where she points with both hands towards the gowned male spirit below. She wears a gown and her long hair is arranged in a ponytail. She smiles and may have an open mouth.  An inscription in the second state of the print identifies her as a personification of Sport.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>spirit</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>hands raised, palms out</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>Care</characteristic>
+                        <illusobjdesc>The male figure, who may be a spirit, flies or hovers to the left of Mirth's right shoulder. He is seen from behind with his lower body facing left while his torso and head are twisted to the right. His head is bent back and he looks up and slightly to the right towards the female figures above. He has short hair and appears to wear a gown. His arms are bent upward and his fingers are spread. His mouth is open. Both legs are bent and his left is extended backward.  An inscription in the second state of the print identifies him as a personification of Care.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+        </desc>
+    </objdesc>
+</bad>
