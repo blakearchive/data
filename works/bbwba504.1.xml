@@ -1,0 +1,667 @@
+<bad id="bbwba504.1" type="spb" work="Virgil Relief Etching" copy="1" copyid="1" institution="essick"
+    catalog="bentley" catid="wba504">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Virgil Relief Etching">
+                    <main>Virgil Relief Etching</main>
+                    <copy> Copy 1</copy>: electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 17KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 177KB
+                to 1600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>November 2019</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>The William Blake Archive is pleased to announce the publication of nineteen separate prints designed and etched or engraved by Blake. The original works are housed in seven collections, including the Bodleian Library, British Museum, Robert N. Essick collection, Fitzwilliam Museum, Huntington Library, Art Collections, and Botanical Gardens, Museum of Fine Arts, Boston, and National Gallery of Art, Washington. These separate prints join two others, <hi rend="i">Deaths Door</hi> and <hi rend="i">George Cumberland’s Card</hi>, and four series of prints, all previously published, to complete this important category of Blake's endeavors as a printmaker.
+                <lb/>
+                <lb/> 
+                The new group of nineteen includes Blake’s first separate engraving, <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, executed while still an apprentice, and two of his masterpieces in mixed-method etching/engraving, the large <hi rend="i">Job</hi> and <hi rend="i">Ezekiel</hi> plates. <hi rend="i">The Accusers of Theft Adultery Murder</hi>, <hi rend="i">Lucifer and the Pope in Hell</hi>, and <hi rend="i">Albion rose</hi> depict Blake's response to the political revolutions of the late eighteenth century. Blake printed these three, plus <hi rend="i">A Dream of Thiralatha</hi> and <hi rend="i">Joseph of Arimathea Preaching to the Inhabitants of Britain</hi>, in colors as part of his development of relief and planographic color printing in the mid-1790s. Other plates, ranging from <hi rend="i">The Approach of Doom</hi> to the <hi rend="i">Enoch</hi> lithograph and <hi rend="i">The Chaining of Orc</hi>, testify to Blake's lifelong experimentation with innovative graphic techniques. He produced <hi rend="i">Deaths Door</hi> and the <hi rend="i">Virgil Relief Etching</hi> as book illustrations but they were never published as such and exist only as unique, separate impressions. Introductions to each work offer information on medium, changes in state, dating, and subject. Blake’s <hi rend="i">Laocoön</hi> etching/engraving, sometimes considered a separate plate, is included among the Illuminated Books in the Archive.
+                <lb/>
+                <lb/> 
+                Late in his career, c. 1820-25 or even extending into his final year, Blake returned to several of his earlier separate engravings, dramatically revising the interplay of darkness and light in their designs and adding new inscriptions on some plates that alter their meaning. These final states of <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, <hi rend="i">Job</hi>, <hi rend="i">Ezekiel</hi>, <hi rend="i">The Accusers</hi>, <hi rend="i">Albion rose</hi>, and Blake's largest and most ambitious print, <hi rend="i">Chaucers Canterbury Pilgrims</hi>, are included, along with extant earlier states. The publication of these and other multiple states and printings offer insights into Blake's development as a printmaker and changes in his thematic interests over several decades.
+                <lb/>
+                <lb/> 
+                As always, the William Blake Archive is a free site, imposing no access
+                restrictions and charging no subscription fees. The site is made possible by the
+                University of North Carolina at Chapel Hill with the University of Rochester, the
+                continuing support of the Library of Congress, and the cooperation of the
+                international array of libraries and museums that have generously given us
+                permission to reproduce works from their collections in the Archive. </updatestmt>  
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/> This image copyright © 2019 William Blake Archive. <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>BAD creation, final proofing and publication</change>
+                <date>November 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name> University of Rochester; <name>Robert Essick,</name>
+                    University of California, Riverside; and <name>Joseph Viscomi,</name> University
+                    of North Carolina at Chapel Hill <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer,</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>April 1999</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                    Essick,</name>University of California, Riverside; and <name>Joseph
+                        Viscomi,</name>University of North Carolina at Chapel Hill 
+                    <resp>Programmer/Analysts: </resp>
+                    <name>David Cosca</name> and 
+                    <name>Robert Bingler</name>
+                    <resp>Project Manager: </resp>
+                    <name>Matthew Kirschenbaum</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Jessica Kem,</name>
+                    <name>Kari Kraus,</name>
+                    <name>Andrea Laue,</name>
+                    <name>Greg Murray</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>*Virgil Relief Etching*</title>
+                </objtitle>
+                <origination>William Blake<role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>etcher, </role>
+                    <role>printer, </role>
+                    <role>colorist.  The hand coloring consists only of black wash used to strengthen printed areas.</role>
+                </origination>
+                <origination>Catherine Blake<role>printer</role>
+                </origination>
+                
+                <compdate value="1820.A">1820</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1820.A">1820</printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>14.3 x 8.5 cm.<note>The platemark measures 14.6 x 9.0 cm.  The individual designs, top to bottom, measure 3.6 x 8.1 cm., 2.9 x 8.3 cm., 3.4 x 8.5 cm., and 3.8 x 8.5 cm.</note></objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>15.9 x 9.9 cm.</leafsize>
+                <medium>relief etching with some strengthening of printed areas with black wash</medium>
+                <printingstyle>relief</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Robert N. Essick</name>
+                <date>1991</date>
+                <dealer>none</dealer>
+                <price>$16,215.75</price>
+                <note>Bound at an unknown time into an extra-illustrated copy of Alexander Gilchrist, *Life of William Blake*, vol. 1 (1863); the book acquired by Hugh Fraser in the 1950s; the father of Kevin Vegas; his son, probaby by inheritance, who sold the extra-illustrations removed from the Gilchrist volume, Sotheby's New York, 9 May 1991, this print lot 9 ($16,215.75 to Essick).
+                </note>
+            </provenance>
+            <repository>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena</addressline>
+                <addressline>California</addressline>
+            </repository>
+        </source>
+        <desc id="bbwba504.1.spb.01" dbi="bbwba504.1.6-9.sp">
+            <objtitle>
+                <title type="transcribed">Virgil Relief Etching</title>, <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="B1">(BBWBA 504)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                
+                <objsize>14.6 x 9.0 cm.</objsize>
+                <windowsize width="600" height="830"/>
+            </physdesc>
+            
+            <illusdesc>
+                <illustration type="plate" location="AB">
+                    <illusobjdesc>This relief etching contains four distinct designs, which in Blake's wood engravings in Robert John
+                        Thornton's third edition of <i>The Pastorals of Virgil</i> (1821) are
+                        labeled in letterpress, top to bottom, "COLINET.", "THENOT.",
+                        "COLINET and THENOT.", and "COLINET."  These identifications of the characters almost certainly pertain to the designs in this relief etching. In the top image, Colinet, the younger
+                        shepherd on the right, stands with his left arm raised, palm vertical and
+                        facing out. He holds a shepherd's crook in his right hand. Thenot, the older
+                        shepherd on the left, faces Colinet with his arms raised between 45 degrees
+                        and the horizontal in what may be a questioning or conciliatory gesture. A
+                        dog greets Thenot, perhaps by sniffing his right foot. At least two (possibly three) sheep
+                        graze to the left and right of Colinet. The sun sets or rises over the hills
+                        in the background and a tree trunk stands at the right side of the
+                        scene.</illusobjdesc>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>Colinet</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>shepherd's crook</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>hand raised, palm out</characteristic>
+                        <characteristic>palm out</characteristic>
+                        <characteristic>palm vertical</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>semi-transparent</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>tights</characteristic>
+                        <illusobjdesc>In the top image, Colinet, the younger shepherd on the right,
+                            stands, with his left arm bent upward with his left hand raised above
+                            his head and the palm turned out toward Thenot, the older shepherd on
+                            the left. His right arm is bent and he holds a shepherd's crook in his
+                            right hand. His left knee is bent. His hair may be long and may cascade
+                            over his right shoulder. He faces forward and to the left, perhaps
+                            looking toward Thenot. He wears a semi-transparent shirt and tights
+                            fitted to his body.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>Thenot</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>arms raised at 45 degrees</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>hands raised, palms out</characteristic>
+                        <characteristic>palms vertical</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>standing</characteristic>
+                        <illusobjdesc>An older shepherd, Thenot, stands to the left with his back to
+                            the viewer. His head is turned to the right and he may be looking toward
+                            Colinet. His arms are raised between 45 degrees and the horizontal in
+                            what may be a questioning or conciliatory gesture; his hands are held
+                            out with the palms held vertically. He has long hair and a beard, and
+                            wears a full-length gown.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="A">
+                        <characteristic>dog</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>standing</characteristic>
+                        <illusobjdesc>A dog stands to the right of Thenot with its head down at
+                            Thenot's right foot. The dog may be greeting Thenot, perhaps by sniffing
+                            his foot.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="B">
+                        <characteristic>sheep</characteristic>
+                        <characteristic>flock</characteristic>
+                        <characteristic>grazing</characteristic>
+                        <characteristic>head down</characteristic>
+                        <illusobjdesc>At least two sheep graze with their heads down to the left of
+                            Colinet. The body of a third sheep may be visible just to the right of
+                            Colinet.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>grass</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>The trunk of a tree rises along the right side of the design.
+                            The leafy branches of the tree extend to the left and dangle above the
+                            sun on the horizon. There may be grass in the foreground and some sort
+                            of vegetation on the hills, including a tree in the distance to the left
+                            of Thenot.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>hill</characteristic>
+                        <characteristic>mountain</characteristic>
+                        <characteristic>sun</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>radiance</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>Behind the figures is a landscape of hills or distant
+                            mountains, with the sun rising or setting in the center of the design.
+                            Beams of light radiate from the sun with a cloud above and to the
+                            right.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="plate" location="AB">
+                    <illusobjdesc>This relief etching contains four distinct designs, which in Blake's wood engravings in Robert John
+                        Thornton's third edition of <i>The Pastorals of Virgil</i> (1821) are
+                        labeled in letterpress, top to bottom, "COLINET.", "THENOT.",
+                        "COLINET and THENOT.", and "COLINET."  These identifications of the characters almost certainly pertain to the designs in this relief etching. In the second image from the top, Thenot sits on the left under
+                        the branches of a fruit tree, possibly with his eyes closed, and with his
+                        arms bent and raised. Another figure, Colinet, sits or reclines to the right
+                        under another tree with his body twisted and head bowed. He leans on his
+                        right elbow, perhaps against the tree behind him; his left hand may be
+                        raised to his face. Two sheep, perhaps part of a larger flock, lie between
+                        the two figures; a third sheep grazes to the left of Colinet. A dog, also pictured in the top design, lies to his right. A sun shines in the sky
+                        over a scene of grassy hills and leafy trees. </illusobjdesc>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>Thenot</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>hands raised, palms up</characteristic>
+                        <characteristic>palms up</characteristic>
+                        <characteristic>palm out</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <illusobjdesc>Thenot sits on the left side of the image, his eyes possibly
+                            closed or possibly looking towards Colinet. His arms are bent upward
+                            with the palms raised and turned up. His legs, head, and torso face
+                            forward towards the viewer, with his right leg bent at the knee, which
+                            is prominent. His left leg appears to stretch outward toward the right.
+                            He is old, with long hair and a beard, and wears a gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>Colinet</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>head on shoulder</characteristic>
+                        <characteristic>hand on face</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>head on hand</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <illusobjdesc>Another figure, Colinet, sits or reclines to the right under a
+                            tree. His head is bowed and may rest on his raised left hand. His right
+                            leg is extended to the left while his left leg is bent back; his upper
+                            body is twisted and faces away from the viewer. Both arms are bent, and
+                            his right elbow leans against the base of the tree.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AB">
+                        <characteristic>sheep</characteristic>
+                        <characteristic>ram</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>grazing</characteristic>
+                        <illusobjdesc>Two sheep lie on the ground between the human figures; a third
+                            sheep grazes to the left of Colinet. The one on the left faces
+                            right; the one in the middle, possibly a horned ram, faces forward. The
+                            third sheep may be standing and has its face lowered to the ground,
+                            potentially grazing.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="D">
+                        <characteristic>dog</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>sleeping</characteristic>
+                        <illusobjdesc>A dog, also pictured in the top design, lies on the ground to the right of Colinet. The dog faces
+                            left with its body curled towards the reader.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>fruit</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>grass</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <characteristic>arching</characteristic>
+                        <illusobjdesc>Two trees flank the scene. The branches of the tree on the
+                            left arch to the right over Thenot; the branches are leafy and bear at
+                            least nine round fruits. Sections of the branch obscure the sun rising
+                            or setting in the distance. The tree to the right of Colinet extends its
+                            branches over him, with its branches arching to the
+                            left.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>bank</characteristic>
+                        <characteristic>mound</characteristic>
+                        <characteristic>hill</characteristic>
+                        <characteristic>mountain</characteristic>
+                        <characteristic>sun</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>sky</characteristic>
+                        <illusobjdesc>Thenot, on the left, appears to be sitting on bank or mound of
+                            earth. Colinet, on the right, leans against the trunk of the tree behind
+                            him. The background is a landscape of grassy hills or more distant
+                            mountains, with the sun in the sky over the hilltops. Beams of light
+                            radiate from the sun, which either rises or sets.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="plate" location="CD">
+                    <illusobjdesc>This relief etching contains four distinct designs, which in Blake's wood engravings in Robert John
+                        Thornton's third edition of <i>The Pastorals of Virgil</i> (1821) are
+                        labeled in letterpress, top to bottom, "COLINET.", "THENOT.",
+                        "COLINET and THENOT.", and "COLINET."  These identifications of the characters almost certainly pertain to the designs in this relief etching. In the third image from the top, Colinet stands on the left,
+                        leaning against the trunk of a tree. He looks down, perhaps at the two sheep in front of him, and holds musical pipes in his lowered right hand. To the right, Thenot, with
+                        long hair and a beard, also leans against the trunk of a tree. In the center
+                        foreground of the design, two sheep stand with their heads turned up and to the
+                        left. Directly above, a nude(?) figure runs on a hill, with a dog behind him
+                        and possibly chasing him. The running man holds a shepherd's crook in his
+                        left hand. He is identified as a shepherd named Lightfoot in the text illustrated. At least three sheep stand or run below and to the right of the
+                        running figure. Clouds appear in the sky above the sheep and below the shepherd's crook.</illusobjdesc>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>Colinet</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>pipe</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>tiptoe</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Colinet stands on the left of the image and leans against a
+                            tree trunk to the left. He has long hair and wears form-fitting tights.
+                            His arms are at his sides; he holds musical pipes in his lowered right
+                            hand. His left leg is bent back with his left foot raised on tiptoe or
+                            resting against the tree trunk. He looks down, possibly at the two sheep
+                            in front of him.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>male</characteristic>
+                        <characteristic>Thenot</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>hand raised, palm out</characteristic>
+                        <characteristic>hand raised, palm up</characteristic>
+                        <characteristic>palm out</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <illusobjdesc>Thenot stands on the right side of the image, leaning against
+                            the trunk of a tree. His body is slightly twisted as he faces both
+                            forward and to the left with his left foot slightly extended. He has
+                            long hair and a beard and wears a gown. He raises his right hand
+                            horizontally as though gesturing, palm out and up, to the left. His left
+                            arm is slightly bent and down at his side. He appears to face Colinet,
+                            perhaps addressing him.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>tree</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>arching</characteristic>
+                        <illusobjdesc>Both Colinet, on the left, and Thenot, on the right, stand
+                            beneath and lean against trees. The tree on the left has a fruitless
+                            branch that arches over Colinet, top left. The tree on the right is
+                            larger; leaves are visible on the branch over Thenot's
+                            head.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="CD">
+                        <characteristic>sheep</characteristic>
+                        <characteristic>flock</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>running</characteristic>
+                        <characteristic>leaping</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>In the center foreground of the image, two sheep stand facing
+                            Colinet. The one on the left appears to have its mouth open. At least
+                            three additional sheep appear above and to the right. These sheep may
+                            run to the right with their heads turned back to the left; they may look
+                            toward the running figure above and to the left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>shepherd</characteristic>
+                        <characteristic>Lightfoot</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>running</characteristic>
+                        <characteristic>striding</characteristic>
+                        <characteristic>leaping</characteristic>
+                        <characteristic>fleeing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>shepherd's crook</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>tiptoe</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>hand raised, palm up</characteristic>
+                        <illusobjdesc> Directly above the pair of sheep, a nude male figure with
+                            short hair on a hill runs or leaps to the right.  The text of the poem illustrated identifies this figure as a shepherd named Lightfoot. Both arms are raised
+                            horizontally, with the palm of his right hand facing up, and he holds a
+                            shepherd's crook in his left hand. His left leg is bent at the knee and
+                            his left foot is raised on tiptoe; his right leg is extended backward,
+                            nearly horizontally. He looks to the left, perhaps at the dog behind
+                            him. He may be fleeing from the dog. </illusobjdesc>
+                    </component>
+                    <component type="animal" location="C">
+                        <characteristic>dog</characteristic>
+                        <characteristic>pursuing</characteristic>
+                        <characteristic>tail</characteristic>
+                        <characteristic>ear</characteristic>
+                        <characteristic>leaping</characteristic>
+                        <characteristic>running</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>barking</characteristic>
+                        <illusobjdesc>A dog on a hill leaps to the right; it may be running after
+                            and pursuing the figure to the right. The dog's legs are extended, with
+                            its hind legs on the ground and its fore legs in the air. Its visible
+                            ear and tail are blown back horizontally to indicate its speed. The
+                            dog's mouth appears to be open and it may be barking.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>hill</characteristic>
+                        <illusobjdesc>The background landscape includes at least two hills, one
+                            below the running man and dog and one to the right, behind the sheep in
+                            the background.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>grass</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>The foreground may be grassy. There are indications of
+                            vegetation in the middle distance.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>Clouds appear in the sky, above the three sheep in the
+                            background and below the shepherd's crook of the fleeing
+                            figure.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="plate" location="CD">
+                    <illusobjdesc>This relief etching contains four distinct designs, which in Blake's wood engravings in Robert John
+                        Thornton's third edition of <i>The Pastorals of Virgil</i> (1821) are
+                        labeled in letterpress, top to bottom, "COLINET.", "THENOT.",
+                        "COLINET and THENOT.", and "COLINET."  These identifications of the characters almost certainly pertain to the designs in this relief etching. In the bottom image, Thenot stands to the left of Colinet. Thenot
+                        faces away from the viewer with arms
+                        lowered and palms facing down. Choline's arms are raised and he appears to
+                        be walking forward toward the viewer, prominent left foot forward and the
+                        right foot perhaps on tiptoe. On the right of the image is a large tree with
+                        riven trunk and two large arching limbs bare of leaves. A horned ram and three
+                        sheep lie down to the right of Colinet. Two hills appear in the background;
+                        the sky appears to be filled with clouds and possibly rain. </illusobjdesc>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>Thenot</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>striding</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arms down</characteristic>
+                        <characteristic>arms raised at 45 degrees</characteristic>
+                        <characteristic>palms down</characteristic>
+                        <illusobjdesc>A gowned male, Thenot, stands on the left side of the image.
+                            He is seen from behind. His arms are
+                            down with both palms facing down. His head
+                            faces right in profile; the figure has long hair and a
+                            beard.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>Colinet</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>tiptoe</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>striding</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>palm out</characteristic>
+                        <characteristic>hand raised, palm out</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <illusobjdesc>A male, Colinet, stands to the right of Thenot. Colinet wears
+                            form-fitting tights; his hair is long. He faces forward and looks to the
+                            right; he may walk toward the viewer. His right leg is bent and his
+                            right foot is raised on tiptoe. Choline's right arm is bent upward with
+                            the palm turned out and up. His left arm is outstretched nearly
+                            horizontally, and he points to the right with his left
+                            hand.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="D">
+                        <characteristic>tree</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>dead</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>leafless</characteristic>
+                        <illusobjdesc>A large, riven, and probably dead tree rises on the right. One
+                            leafless branch arches to the left and another arches in the opposite
+                            direction.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="D">
+                        <characteristic>ram</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>sheep</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>head up</characteristic>
+                        <illusobjdesc>A group of four sheep lie to the right of Colinet. Furthest
+                            right, a horned ram lies down and faces forward. To the left, a sheep
+                            lies facing forward with its head turned to the left. Between them appear
+                            to be two sheep in the background, probably also lying
+                            down.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>hill</characteristic>
+                        <characteristic>mountain</characteristic>
+                        <illusobjdesc>Two hills or more distant mountains rise in the
+                            background.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>cloud</characteristic>
+                        <characteristic>rain</characteristic>
+                        <illusobjdesc>Cloud outlines suggest that clouds dominate the sky in the
+                            background.  Diagonal lines suggest rain.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+        </desc>
+    </objdesc>
+</bad>
