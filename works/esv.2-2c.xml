@@ -1,0 +1,409 @@
+<bad id="esv.2-2c" type="spb" work="Job" copy="2" copyid="2" institution="fitzwilliam" catalog="essickcat" catid="v.2-2c">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Job">
+                    <main>
+                        Job</main>
+                    <copy> Copy 2</copy>: electronic edition
+
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of 
+
+Rochester;
+
+<name>Robert Essick, </name>University of California, Riverside; and
+
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+
+            </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+
+           and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 17KB; 2 JPEG (ISO/IEC
+
+10918) files ranging in size from 177KB to 1600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>November 2019</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+<updatestmt>The William Blake Archive is pleased to announce the publication of nineteen separate prints designed and etched or engraved by Blake. The original works are housed in seven collections, including the Bodleian Library, British Museum, Robert N. Essick collection, Fitzwilliam Museum, Huntington Library, Art Collections, and Botanical Gardens, Museum of Fine Arts, Boston, and National Gallery of Art, Washington. These separate prints join two others, <hi rend="i">Deaths Door</hi> and <hi rend="i">George Cumberland’s Card</hi>, and four series of prints, all previously published, to complete this important category of Blake's endeavors as a printmaker.
+                <lb/>
+                <lb/> 
+The new group of nineteen includes Blake’s first separate engraving, <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, executed while still an apprentice, and two of his masterpieces in mixed-method etching/engraving, the large <hi rend="i">Job</hi> and <hi rend="i">Ezekiel</hi> plates. <hi rend="i">The Accusers of Theft Adultery Murder</hi>, <hi rend="i">Lucifer and the Pope in Hell</hi>, and <hi rend="i">Albion rose</hi> depict Blake's response to the political revolutions of the late eighteenth century. Blake printed these three, plus <hi rend="i">A Dream of Thiralatha</hi> and <hi rend="i">Joseph of Arimathea Preaching to the Inhabitants of Britain</hi>, in colors as part of his development of relief and planographic color printing in the mid-1790s. Other plates, ranging from <hi rend="i">The Approach of Doom</hi> to the <hi rend="i">Enoch</hi> lithograph and <hi rend="i">The Chaining of Orc</hi>, testify to Blake's lifelong experimentation with innovative graphic techniques. He produced <hi rend="i">Deaths Door</hi> and the <hi rend="i">Virgil Relief Etching</hi> as book illustrations but they were never published as such and exist only as unique, separate impressions. Introductions to each work offer information on medium, changes in state, dating, and subject. Blake’s <hi rend="i">Laocoön</hi> etching/engraving, sometimes considered a separate plate, is included among the Illuminated Books in the Archive.
+                <lb/>
+                <lb/> 
+Late in his career, c. 1820-25 or even extending into his final year, Blake returned to several of his earlier separate engravings, dramatically revising the interplay of darkness and light in their designs and adding new inscriptions on some plates that alter their meaning. These final states of <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, <hi rend="i">Job</hi>, <hi rend="i">Ezekiel</hi>, <hi rend="i">The Accusers</hi>, <hi rend="i">Albion rose</hi>, and Blake's largest and most ambitious print, <hi rend="i">Chaucers Canterbury Pilgrims</hi>, are included, along with extant earlier states. The publication of these and other multiple states and printings offer insights into Blake's development as a printmaker and changes in his thematic interests over several decades.
+                <lb/>
+                <lb/> 
+                As always, the William Blake Archive is a free site, imposing no access
+                restrictions and charging no subscription fees. The site is made possible by the
+                University of North Carolina at Chapel Hill with the University of Rochester, the
+                continuing support of the Library of Congress, and the cooperation of the
+                international array of libraries and museums that have generously given us
+                permission to reproduce works from their collections in the Archive. </updatestmt>            
+            <notesstmt/>            
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick,
+
+and Joseph Viscomi, all rights reserved. Items in the Archive may be
+
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+
+Redistribution or republication on other terms, in any medium, requires
+
+express written consent from the editors and advance notification of the
+
+publisher.
+
+Permission to reproduce the graphic images in this archive has been
+
+granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+
+         This image copyright © 2019 Fitzwilliam Museum.
+
+         <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name> University of Rochester; <name>Robert Essick,</name>
+                    University of California, Riverside; and <name>Joseph Viscomi,</name> University
+                    of North Carolina at Chapel Hill <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer,</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation</change>
+                <date>April 2017</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor:</resp>
+                                                  <name>Michael Fox</name>
+                                                  <resp>Managing Editor:</resp>
+                                                  <name>Joseph Fletcher</name>
+                                                  <resp>Assistant Project Manager:</resp>
+                                                  <name>Grant Glass</name>
+                                                  <resp>Project Coordinator, University of
+                                                  Rochester:</resp>
+                                                  <name>Eric Loy</name>
+                                                  <resp>Consultants on Special Projects:</resp>
+                                                  <name>Ashley Reed</name>
+                                                  <resp>Bibliographer:</resp>
+                                                  <name>Mark Crosby</name>
+                                                  <resp>Project Assistants:</resp>
+                                                  <name>Anna Alden,</name>
+                                                  <name>Katherine Calvin,</name>
+                                                  <name>Patrick Delehanty,</name>
+                                                  <name>Adam Engel,</name>
+                                                  <name>Alison Harper,</name>
+                                                  <name>Jarrod Ingles,</name>
+                                                  <name>Rachael Isom,</name>
+                                                  <name>Joel Kingsley,</name>
+                                                  <name>Mary Learner,</name>
+                                                  <name>Adam McCune,</name>
+                                                  <name>Rob Rich,</name>
+                                                  <name>Oishani Sengupta,</name>
+                                                  <name>Matthew Skwiat,</name>
+                                                  <name>Lisa Vandenbossche</name>
+                                                  </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>November 1998</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Programmers/Analysts: </resp>
+                    <name>David Cosca,</name>
+                    <name>Robert Bingler</name>
+                    <resp>Project Manager: </resp>
+                    <name>Matthew Kirschenbaum</name>
+                    <resp>Project Assistant: </resp>
+                    <name>Greg Murray</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        Job
+                    </title>
+                </objtitle>
+                <origination>William Blake<role>inventor,</role>
+                    <role>delineator,</role>
+                    <role>etcher,</role>
+                    <role>engraver,</role>
+                    <role>printer</role>
+                </origination>
+                <origination>Catherine Blake<role>printer</role>
+                </origination>
+                <imprint>
+                    <publisher>William Blake</publisher>
+                    <pubplace>Lambeth</pubplace>
+                    <date>1793</date>
+                </imprint>
+                <compdate value="1793.D">1793</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1820.A">c. 1820-25</printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>34.8 x 49.1 cm. (design)</objsize>
+                <platemark>46.0 x 54.0 cm.</platemark>
+                <numberleaves>1</numberleaves>
+                <leafsize>49.0 x 67.2 cm.</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Fitzwilliam Museum</name>
+                <date>1954</date>
+                <dealer>none</dealer>
+                <price>none</price>
+                <note>Inherited in 1827 by Catherine Blake upon her husband's death; sold March 1830 to Haviland Burke acting for John Jebb, Bishop of Limerick (with an impression of Blake's *Ezekiel* engraving, &#163;2.2s.); bequeathed in 1833 by Burke to his chaplain, Rev. Charles Forster; by inheritance in 1871 to his son, E. M. L. Forster; by inheritance in 1880 to his sister, Laura M. Forster; by inheritance in 1924 to her nephew, the novelist E. M. Forster; given by him to King's College, Cambridge, in 1953 and transferred by the college to the Fitzwilliam Museum in 1954.</note>
+            </provenance>
+            <repository>
+                <institution>Fitzwilliam Museum</institution>
+                <addressline>Trumpington Street</addressline>
+                <addressline>Cambridge CB2 1RB</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: +44 (0)1223 332900</addressline>
+                <addressline>Fax: +44 (0)1223 332923</addressline>
+                <addressline>URL: http://www.fitzmuseum.cam.ac.uk/index.html</addressline>
+                <addressline>Email, Department of Paintings, Drawings, and Prints: fitzmuseum-pdp@lists.cam.ac.uk</addressline>
+                <addressline>URL, Department of Paintings, Drawings, and Prints: http://www.fitzmuseum.cam.ac.uk/dept/pdp</addressline>
+                <addressline>Telephone, Image Library: +44 (0)1223 332927</addressline>
+                <addressline>Fax, Image Library: +44 (0)1223 768591</addressline>
+                <addressline>Email, Image Library: fitzmuseum-photography@lists.cam.ac.uk</addressline>
+                <addressline>URL, Photographic Service: http://www.fitzmuseum.cam.ac.uk/dept/photography</addressline>
+                <department>Paintings, Drawings, and Prints</department>
+                <repositoryid label="Accession number">P.3-1953</repositoryid>
+            </repository>
+        </source>
+        <desc id="esv.2-2c.spb.01" dbi="esv.2-2C.1.SP">
+            <objtitle>
+                <title type="transcribed">Job</title>,
+<objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="ESV">(Essick V)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objnote><p>This impression is in the second state of two.  The plate was first etched and engraved in 1793, as the imprint indicates, and converted to this final state c. 1820-25.  The final digit of the year in the imprint is poorly printed in this impression.  The date is clearly "1793" in the other two known impressions of the second state (British Museum and Keynes Family Trust, Fitzwilliam Museum).</p></objnote>
+                <objsize>46.0 x 54.0 cm.</objsize>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>
+                        Five figures sit huddled in contracted positions in front of several tree trunks.  Job, the rightmost male figure, faces forward and lifts his head to look up with raised eyes.  Tears stream down his face. He is old with long hair and a beard, and he wears a gown. Both arms are slightly bent and at his sides with palms facing up and forward, fingers spread.  His knees are bent upward toward his chest. Job's wife, the second figure from the right, is a gowned female who sits facing forward but turns her head to look right toward Job with raised eyes. She has long curly hair and wears sandals. Her mouth is open.  Her knees are bent forward toward her chest, and she wraps both bent arms around her knees with her hands together, fingers intertwined, perhaps in a gesture of prayer. Only the head and one hand of the third figure from the right, who is male, are visible.  This is probably Zophar.  He faces forward and right and appears to have a mustache. One of his hands is raised in front of the left side of his face. He may rest his head on his raised hand, as his head is bent forward slightly. The second male figure from left is probably Bildad.  He has short curly hair and a beard and sits facing forward and right. Most of his body is obscured by the figure sitting in front of him, though he may wear a gown. He appears to bend forward and to the right slightly. The leftmost figure is probably Eliphaz.  He is gowned, or wears a shirt and cloak, and sits facing right with his knees bent beneath him and upper body bent or hunched forward.  He is old and has long hair and a beard. His right arm is at his side but bent upward, perhaps to rest on his left forearm. He points to the right with his right index finger, which appears to be extended through his beard.  His left arm is also bent and may rest in his lap. The ground on which the five figures sit may be covered in straw or other long grass. Behind the group of five figures, at least five tree trunks are visible. The third trunk from the left has a single bifurcated branch that extends to the left. The sky visible in the background is dark and pierced by at least one bolt of lightning between the third and fourth trunks from the right. There may be other, smaller bolts between the first tree on the left and the second and between the second and third tree from the right.</illusobjdesc>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>Job</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>huddled</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>crying</characteristic>
+                        <characteristic>tears</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>palm out</characteristic>
+                        <characteristic>palm facing viewer</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <illusobjdesc>Five figures sit huddled in contracted positions in front of several tree trunks. Job, the rightmost figure, faces forward and lifts his head to look up with raised eyes. Tears stream down his face. He is old with long hair and a beard, and he wears a gown. Both arms are slightly bent and at his sides with palms facing up and forward, fingers spread.  His knees are bent upward toward his chest. This figure is likely Job.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>female</characteristic>
+                        <characteristic>Job's wife</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>huddled</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>sandals</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>arms wrapped around knees</characteristic>
+                        <characteristic>hand on knee</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>fingers</characteristic>
+                        <characteristic>praying</characteristic>
+                        <illusobjdesc>Five figures sit huddled in contracted positions in front of several tree trunks. Job's wife, the second figure from the right, is a gowned female figure who sits facing forward but turns her head to look right toward her companion with raised eyes. She has long curly hair and wears sandals. Her mouth is open. Her knees are bent forward toward her chest, and she wraps both bent arms around her knees with her hands together, fingers intertwined, perhaps in a gesture of prayer.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>huddled</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>hand</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>hand on face</characteristic>
+                        <characteristic>head on hand</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>Zophar</characteristic>
+                        <illusobjdesc>Five figures sit huddled in contracted positions in front of several tree trunks. Only the head and one hand of the third figure from the right, who is male, are visible. He faces forward and right and appears to have a mustache. One of his hands is raised in front of the left side of his face. He may rest his head on his raised hand, as his head is bent forward slightly with eyes raised.  This is probably Zophar, given the probable identification of this figure in Blake's later series of Job designs.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>huddled</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>Bildad</characteristic>
+                        <illusobjdesc>Five figures sit huddled in contracted positions in front of several tree trunks. The second male figure from left, who has short curly hair and a beard, sits facing forward and right. Most of his body is obscured by the figure sitting in front of him, though he may wear a gown. He appears to bend forward and to the right slightly, perhaps to look toward the figure at far right.  This is probably Bildad, given the probable identification of this figure in Blake's later series of Job designs.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>huddled</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>hunched over</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>hand resting</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>Eliphaz</characteristic>
+                        <illusobjdesc>Five figures sit huddled in contracted positions in front of several tree trunks. The leftmost figure kneels facing right with his knees bent beneath him and upper body bent or hunched forward.  He wears a gown or shirt and cloak.  He is old and has long hair and a beard. His right arm is at his side but bent upward, perhaps to rest on his left forearm. He points to the right with his right index finger, which appears to be extended through his beard.  His left arm is also bent and may rest in his lap.  This is probably Eliphaz, given the probable identification of this figure in Blake's later series of Job designs.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>straw</characteristic>
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc>The ground on which the five figures sit may be covered in straw or other long grass.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>moss</characteristic>
+                        <characteristic>Behind the group of five figures, at least five tree trunks are visible. The third trunk from the left has a single bifurcated branch that extends at left, and the rightmost tree may have moss or vines visible on its trunk&#8212;or at least very reticulated bark.</characteristic>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>sky</characteristic>
+                        <characteristic>dark</characteristic>
+                        <characteristic>storm</characteristic>
+                        <characteristic>lightning</characteristic>
+                        <illusobjdesc>The sky visible in the background is dark and pierced by at least one bolt of lightning between the third and fourth trunks from the right. There may be other, smaller bolts between the first tree on the left and the second and between the second and third tree from the right.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="30"/>
+                <lg>
+                    <l n="esv.2-2c.spb.01.01" justify="left" indent="25"><hi rend="i">Painted and Engraved by William Blake</hi></l>
+                </lg>
+                <lg>
+                    <l n="esv.2-2c.spb.01.02" justify="left" indent="40"><hi rend="i">JOB</hi></l>
+                </lg>
+                <lg>
+                    <l n="esv.2-2c.spb.01.03"  justify="left" indent="16"><hi rend="i">What is Man That thou shouldest Try him Every Moment? Job VII C 17 &#38; 18 V</hi></l>
+                </lg>
+                <vspace extent="2"/>
+                <lg>
+                    <l n="esv.2-2c.spb.01.04"  justify="left" indent="12"><hi rend="i">Published 18 August 1793 by W Blake N<hi rend="superscript">o</hi> 13 Hercules Buildings Lambeth</hi></l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

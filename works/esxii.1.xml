@@ -1,0 +1,680 @@
+<bad id="esxii.1" type="spb" work="Moore &#38; Co's Advertisement" copy="1" copyid="1" institution="britishmuseum" catalog="essickcat" catid="xii">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Moore &#38; Co's Advertisement">
+                    <main> Moore &#38; Co's Advertisement</main>
+                    <copy> Copy 1</copy>: electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 17KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 177KB
+                to 1600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>November 2019</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+<updatestmt>The William Blake Archive is pleased to announce the publication of nineteen separate prints designed and etched or engraved by Blake. The original works are housed in seven collections, including the Bodleian Library, British Museum, Robert N. Essick collection, Fitzwilliam Museum, Huntington Library, Art Collections, and Botanical Gardens, Museum of Fine Arts, Boston, and National Gallery of Art, Washington. These separate prints join two others, <hi rend="i">Deaths Door</hi> and <hi rend="i">George Cumberland’s Card</hi>, and four series of prints, all previously published, to complete this important category of Blake's endeavors as a printmaker.
+                <lb/>
+                <lb/> 
+The new group of nineteen includes Blake’s first separate engraving, <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, executed while still an apprentice, and two of his masterpieces in mixed-method etching/engraving, the large <hi rend="i">Job</hi> and <hi rend="i">Ezekiel</hi> plates. <hi rend="i">The Accusers of Theft Adultery Murder</hi>, <hi rend="i">Lucifer and the Pope in Hell</hi>, and <hi rend="i">Albion rose</hi> depict Blake's response to the political revolutions of the late eighteenth century. Blake printed these three, plus <hi rend="i">A Dream of Thiralatha</hi> and <hi rend="i">Joseph of Arimathea Preaching to the Inhabitants of Britain</hi>, in colors as part of his development of relief and planographic color printing in the mid-1790s. Other plates, ranging from <hi rend="i">The Approach of Doom</hi> to the <hi rend="i">Enoch</hi> lithograph and <hi rend="i">The Chaining of Orc</hi>, testify to Blake's lifelong experimentation with innovative graphic techniques. He produced <hi rend="i">Deaths Door</hi> and the <hi rend="i">Virgil Relief Etching</hi> as book illustrations but they were never published as such and exist only as unique, separate impressions. Introductions to each work offer information on medium, changes in state, dating, and subject. Blake’s <hi rend="i">Laocoön</hi> etching/engraving, sometimes considered a separate plate, is included among the Illuminated Books in the Archive.
+                <lb/>
+                <lb/> 
+Late in his career, c. 1820-25 or even extending into his final year, Blake returned to several of his earlier separate engravings, dramatically revising the interplay of darkness and light in their designs and adding new inscriptions on some plates that alter their meaning. These final states of <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, <hi rend="i">Job</hi>, <hi rend="i">Ezekiel</hi>, <hi rend="i">The Accusers</hi>, <hi rend="i">Albion rose</hi>, and Blake's largest and most ambitious print, <hi rend="i">Chaucers Canterbury Pilgrims</hi>, are included, along with extant earlier states. The publication of these and other multiple states and printings offer insights into Blake's development as a printmaker and changes in his thematic interests over several decades.
+                <lb/>
+                <lb/> 
+                As always, the William Blake Archive is a free site, imposing no access
+                restrictions and charging no subscription fees. The site is made possible by the
+                University of North Carolina at Chapel Hill with the University of Rochester, the
+                continuing support of the Library of Congress, and the cooperation of the
+                international array of libraries and museums that have generously given us
+                permission to reproduce works from their collections in the Archive.</updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/> This image copyright © 2019 British Museum. <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name> University of Rochester; <name>Robert Essick,</name>
+                    University of California, Riverside; and <name>Joseph Viscomi,</name> University
+                    of North Carolina at Chapel Hill <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer,</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation</change>
+                <date>December 2017</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                    Essick,</name>University of California, Riverside; and <name>Joseph
+                        Viscomi,</name>University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor:</resp>
+<name>Michael Fox</name>
+<resp>Managing Editor:</resp>
+<name>Joseph Fletcher</name>
+<resp>Assistant Project Manager:</resp>
+<name>Grant Glass</name>
+<resp>Project Coordinator, University of Rochester:</resp>
+<name>Eric Loy</name>
+<resp>Consultants on Special Projects:</resp>
+<name>Ashley Reed</name>
+<name>Nikolaus Wasmoen</name>
+<name>Laura Whitebell</name>
+<resp>Bibliographer:</resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants:</resp>
+<name>Anna Alden,</name>
+<name>Katherine Calvin,</name>
+<name>Patrick Delehanty,</name>
+<name>Alison Harper,</name>
+<name>Jarrod Ingles,</name>
+<name>Rachael Isom,</name>
+<name>Joel Kingsley,</name>
+<name>Mary Learner,</name>
+<name>Rob Rich,</name>
+<name>Oishani Sengupta,</name>
+<name>Matthew Skwiat,</name>
+<name>Lisa Vandenbossche</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>September 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+<resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum, </name>
+                    <name>Andrea Laue</name>
+                    <resp>Programmer/Analyst: </resp>
+                    <name>Robert Bingler</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Scott Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title> *Moore &#38; Co's Advertisement* </title>
+                </objtitle>
+                <origination>William Blake<role>inventor, </role><role>delineator,
+                        </role><role>etcher, </role>
+                    <role>engraver. Blake designed only the portion of the image below the clouds at
+                        the top. He engraved all the pictorial motifs.</role>
+                </origination>
+                <origination>anonymous<role>engraver. The inscriptions between the columns and the
+                        quotation from Martial below the design were probably engraved by an
+                        anonymous writing engraver. The references to "Loom[s]" and "Frame" and
+                        Blake's signature immediately below the design were scratched in drypoint by
+                        Blake.</role>
+                </origination>
+                 <origination>anonymous<role>printer. Proofs of the plate may have been pulled by William and Catherine Blake, but most impressions were probably printed by a professional copperplate printer.</role>
+                </origination>
+
+                <compdate value="1797.A">c. 1797-98</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1797.A">c. 1797-98</printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>26.7 x 22.0 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <platemark>35.2 cm. vertical measurement. The left and right sides of the platemark
+                    are trimmed off in the only known impressions.</platemark>
+                <leafsize>36.5 x 27.7 cm.</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none visible<note>The backing mat to which the print is pasted prevents
+                        inspection for a watermark. According to A. G. B. Russell, *The Engravings
+                        of William Blake* (London: Grant Richards, 1912), page 57, this impression
+                        is "printed on Whatman paper," but this cannot now be
+                    confirmed.</note></watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>none</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1868</date>
+                <dealer>Frederick Startridge Ellis</dealer>
+                <price>not recorded</price>
+                <note>Possibly acquired at an unknown time by Ozias Humphry and inherited by his son
+                    William Upcott (according to the British Museum catalogue without explanation);
+                    sold in July 1868 by Frederick Startridge Ellis to the British Museum.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <department>Prints and Drawings</department>
+                <repositoryid label="Registration number">1868,0711.439</repositoryid>
+            </repository>
+        </source>
+        <desc id="esxii.1.spb.01" dbi="ESXII.1.1.SP">
+            <objtitle>
+                <title type="transcribed">Moore &#38; Co's Advertisement</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="ESXII">(Essick XII)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objnote>
+                    <p>A preliminary sketch in the Fondazione Horne, Florence (Butlin 340 verso),
+                        shows that Blake designed all the motifs below the clouds at the top. The
+                        upper part of the drawing is defined by curving lines that suggest drapery
+                        more than clouds. Above the center are slight pencil indications of the
+                        Royal Arms clearly pictured in the engraving. This motif and the feathers
+                        (left) and coat of arms (right) of the Prince of Wales are of course not of
+                        Blake's own invention.  The inscription between the columns and the
+                        quotation from Martial below the design were probably engraved by an
+                        anonymous writing engraver. The references to "Loom[s]" and "Frame" and
+                        Blake's signature immediately below the design were scratched in drypoint by
+                        Blake.</p>
+                </objnote>
+                <objsize>26.7 x 22.0 cm.</objsize>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>In this advertisement, a central section of text is framed on
+                        either side by two columns. A horizontal area of cloudy sky extends across
+                        the top of the design while an interior room is visible below the text near
+                        the lower edge of the composition. The royal coat of arms of Britain is
+                        depicted in the center of the area of sky with beams of light extending
+                        outward from it. The royal arms includes a quartered shield flanked by a
+                        lion at left and a unicorn at right as well as a banner with text below and
+                        a crown above. To the left of and slightly below the royal arms is the
+                        heraldic badge for the Prince of Wales, the feathers. This emblem includes
+                        three feathers encircled by a crown and banner. To the right of and slightly
+                        below the royal arms is the crest of the Prince of Wales, which includes a
+                        crowned lion atop a crown with a banner below. Clouds are visible around
+                        these three emblems in the sky. The tops of both columns that flank the text
+                        are obscured by clouds. Just below the clouds, patterned textiles wrap
+                        around the columns and descend along the back side of the columns into the
+                        lower section of the design, framing both side walls of the interior space
+                        below. The bases of the columns are visible and both stand on short
+                        pedestals. Three figures are visible between the bases of the columns. The
+                        leftmost figure faces forward and turns his head to look up and right. He
+                        has short curly hair and wears a shirt, breeches, and shoes. His right leg
+                        is bent and rests on the pedestal of the column. Both arms are raised to
+                        touch the edge of the textile around the column. The second figure from the
+                        left kneels facing right and bends forward, perhaps to roll a section of the
+                        textiles visible in front of him at right with his extended right arm. He
+                        has short curly hair and wears a shirt, breeches, and shoes. The third,
+                        rightmost figure sits facing left on the pedestal below the right column.
+                        She has long hair and wears a gown. She bends forward with both arms
+                        extended to work with a spinning wheel beside her at left. The interior
+                        space at the bottom of the design contains eight figures. The leftmost
+                        figure is a small child or youth who stands in the lower left corner facing
+                        right. He appears to have short hair and wear a shirt and breeches. His
+                        right arm is raised horizontally and extended forward to touch the fabric of
+                        the loom at right. He appears to look up toward the second figure from the
+                        left beside him. This adult male figure stands facing away and slightly
+                        right. He has long hair pulled back in a ponytail and wears a shirt,
+                        breeches, and shoes. He stands inside of a loom, which he appears to operate
+                        with both extended hands, arms bent and raised in front of his body, and
+                        perhaps also his feet, as he stands on the treadles. He leans forward
+                        slightly. The third figure from the left, who appears to be a male youth,
+                        stands facing away and turns to the left to look at the weaver. He wears a
+                        shirt, breeches, and shoes, and has short curly hair. He leans forward and
+                        raises both arms to pull or hold the ropes visible in front of him. Both
+                        legs are bent and his left leg is extended backward. The fourth figure from
+                        the left, a female figure with long hair and a gown, stands facing right and
+                        appears to talk with the fifth figure from the left, a male figure who faces
+                        forward and points to the right. The female figure's right arm is at her
+                        side while her left is raised at a right angle. The male figure wears a
+                        shirt, coat, breeches, and shoes and has short curly hair. His right arm is
+                        at his side, palm facing forward, and his left is raised horizontally as he
+                        points to the right. A large rug loom is visible in the center of the
+                        interior space and two women, who are seated facing away on a bench in front
+                        of the machine, work at the loom on what appears to be a tapestry or rug.
+                        Both women wear a hat and gown and appear to have long hair. The woman at
+                        left raises both bent arms; she grasped the fabric on the loom with her
+                        right hand and, in her left, holds a tool, perhaps a shuttle(?), near the
+                        loom. The woman at right also raises both bent arms to touch the fabric on
+                        the loom and turns to the left and down. The rightmost figure in the lower
+                        scene sits at a smaller loom facing right. He has short hair and wears a
+                        shirt, breeches, and shoes. He bends forward and raises both bent arms to
+                        work at the loom.</illusobjdesc>
+                    <component type="object" location="AB">
+                        <characteristic>sky</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <characteristic>crest</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>shield</characteristic>
+                        <characteristic>lion</characteristic>
+                        <characteristic>unicorn</characteristic>
+                        <characteristic>banner</characteristic>
+                        <characteristic>crown</characteristic>
+                        <illusobjdesc>A horizontal area of cloudy sky extends across the top of the
+                            design. The royal coat of arms of Britain is depicted in the center of
+                            the sky with beams of light extending outward from it. The royal arms
+                            includes a quartered shield flanked by a lion at left and a unicorn at
+                            right as well as a banner with text below and a crown
+                            above.</illusobjdesc>
+                    </component>
+                    <component type="object" location="A">
+                        <characteristic>crest</characteristic>
+                        <characteristic>feather</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>banner</characteristic>
+                        <illusobjdesc>To the left of and slightly below the royal arms in the sky at
+                            top is the heraldic badge for the Prince of Wales, the feathers. This
+                            emblem includes three feathers encircled by a crown and
+                            banner.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>crest</characteristic>
+                        <characteristic>lion</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>banner</characteristic>
+                        <illusobjdesc>To the right of and slightly below the royal arms in the sky
+                            at top is the crest of the Prince of Wales, which includes a crowned
+                            lion atop a crown with a banner below.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>pillar</characteristic>
+                        <characteristic>carpet</characteristic>
+                        <illusobjdesc>In this advertisement, a central section of text is framed on
+                            either side by two columns. The tops of both columns that flank the text
+                            are obscured by clouds. Just below the clouds, patterned textiles wrap
+                            around the columns and descend along the back side of the columns into
+                            the lower section of the design, framing both side walls of the interior
+                            space below. The bases of the columns are visible and both stand on
+                            short pedestals.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg raised</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <illusobjdesc>Three figures are visible between the bases of the columns.
+                            The leftmost figure faces forward and turns his head to look up and
+                            right. He has short curly hair and wears a shirt, breeches, and shoes.
+                            He appears to be a child or youth. His right leg is bent and rests on
+                            the pedestal of the column. Both arms are raised to touch or hold the
+                            edge of the textile around the column.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <illusobjdesc>Three figures are visible between the bases of the columns.
+                            The second figure from the left kneels facing right and bends forward
+                            with head down, perhaps to roll a section of the textiles visible in
+                            front of him at right with his extended right arm. He appears to be a
+                            child or youth. He has short curly hair and wears a shirt, breeches, and
+                            shoes.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>spinning</characteristic>
+                        <illusobjdesc>Three figures are visible between the bases of the columns.
+                            The third, rightmost figure sits facing left on the pedestal below the
+                            right column. She has long hair and wears a gown. She bends forward with
+                            both arms extended to work with a spinning wheel beside her at
+                            left.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>spinning wheel</characteristic>
+                        <characteristic>thread</characteristic>
+                        <illusobjdesc>A spinning wheel is visible to the left of the base of the
+                            right column. A female figure appears to spin thread using
+                            it.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>The interior space at the bottom of the design contains eight
+                            figures. The leftmost figure is a small child or youth who stands in the
+                            lower left corner facing right. He appears to have short hair and wear a
+                            shirt and breeches. His right arm is raised horizontally and extended
+                            forward to touch the fabric of the loom at right; his left arm appears
+                            to be bent and at his side. He appears to look up toward the second
+                            figure from the left beside him.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>weaving</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <illusobjdesc>The interior space at the bottom of the design contains eight
+                            figures. The second figure from the left is an adult male figure who
+                            stands facing away and slightly right. Alternatively, he may lean or sit
+                            on the board behind him that is part of the loom. He has long hair
+                            pulled back in a ponytail with a ribbon and wears a shirt, breeches, and
+                            shoes. He stands inside of a loom, which he appears to operate with both
+                            hands, arms bent and raised in front of his body, and perhaps also his
+                            feet, as he stands on the treadles. He bends forward
+                            slightly.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>pulling</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>The interior space at the bottom of the design contains eight
+                            figures. The third figure from the left, who appears to be a male youth,
+                            stands facing away and turns to the left to look at the weaver. He wears
+                            a shirt, breeches, and shoes, and has short curly hair. He bends forward
+                            and raises both arms to pull or hold the ropes visible in front of him.
+                            Both legs are bent and his left leg is extended backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>talking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>palm up</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <illusobjdesc>The interior space at the bottom of the design contains eight
+                            figures. The fourth figure from the left, a female figure with long hair
+                            and a gown, stands facing right and appears to talk with the fifth
+                            figure from the left, a male figure. The female figure's right arm is at
+                            her side while her left is raised at a right angle, palm facing up. A
+                            shoe is visible beneath the hem of her gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>talking</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <illusobjdesc>The interior space at the bottom of the design contains eight
+                            figures. The fifth figure from the left is a male figure who wears a
+                            shirt, coat, breeches, and shoes and has short curly hair. He faces
+                            forward and slightly left as he appears to talk to the female figure at
+                            his left. His right arm is at his side, palm facing forward, and his
+                            left is raised horizontally as he points to the right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>weaving</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>The interior space at the bottom of the design contains eight
+                            figures. A large rug loom is visible in the center of the interior space
+                            and two women, who are seated facing away on a bench in front of the
+                            machine, work at the loom on what appears to be a tapestry or rug. Both
+                            women wear a hat and gown and appear to have long hair. The woman at
+                            left raises both bent arms; she grasped the fabric on the loom with her
+                            right hand and, in her left, holds a tool, perhaps a shuttle(?), near
+                            the loom.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>weaving</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>The interior space at the bottom of the design contains eight
+                            figures. A large rug loom is visible in the center of the interior space
+                            and two women, who are seated facing away on a bench in front of the
+                            machine, work at the loom on what appears to be a tapestry or rug. Both
+                            women wear a hat and gown and appear to have long hair. The woman at
+                            right also raises both bent arms to touch the fabric on the loom and
+                            turns to the left and down. She may hold a tool, perhaps scissors(?), in
+                            her right hand.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <characteristic>weaving </characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>thread</characteristic>
+                        <illusobjdesc>The interior space at the bottom of the design contains eight
+                            figures. The rightmost figure in the lower scene sits at a smaller loom
+                            facing right. He has short hair and wears a shirt, breeches, and shoes.
+                            He bends forward and raises both bent arms to work at the loom. He may
+                            hold thread in his right hand.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>loom</characteristic>
+                        <characteristic>shuttle</characteristic>
+                        <characteristic>scissors</characteristic>
+                        <characteristic>carpet</characteristic>
+                        <characteristic>floor</characteristic>
+                        <characteristic>wood</characteristic>
+                        <illusobjdesc>Three looms occupy much of the interior space in the lower
+                            sector of the composition. Two women appear to work with tools, perhaps
+                            a shuttle(?) and scissors(?), at the central, largest loom. They may be
+                            weaving a carpet or tapestry. The floor appears to be made of wooden
+                            boards, particularly at right.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="10"/>
+                <lg justify="left">
+                    <l n="esxii.1.spb.01.01" justify="left" indent="37">
+                        <hi rend="i">AT</hi>
+                    </l>
+                    <l n="esxii.1.spb.01.02" justify="left" indent="32">MOORE &#38; C.<hi
+                            rend="superscript">o's</hi></l>
+                    <l n="esxii.1.spb.01.03" justify="left" indent="23">
+                        <hi rend="i">MANUFACTORY &#38; WAREHOUSE,</hi>
+                    </l>
+                    <l n="esxii.1.spb.01.04" justify="left" indent="37">
+                        <hi rend="i">of</hi>
+                    </l>
+                    <l n="esxii.1.spb.01.05" justify="left" indent="28">Carpeting AND Hosiery</l>
+                    <l n="esxii.1.spb.01.06" justify="left" indent="32">Chiswell Street,</l>
+                    <l n="esxii.1.spb.01.07" justify="left" indent="32">MOOR-FIELDS.</l>
+                    <l n="esxii.1.spb.01.08" justify="left" indent="13"><hi rend="i">The greatest
+                            variety of</hi> CARPETS, <hi rend="i">from the lowest Scotch,</hi></l>
+                    <l n="esxii.1.spb.01.09" justify="left" indent="18">
+                        <hi rend="i">&#38; Kidderminster, Wilton &#38; Brussels, to the finest</hi>
+                    </l>
+                    <l n="esxii.1.spb.01.10" justify="left" indent="26">Axminster, Turkey &#38;
+                        Persia.</l>
+                    <l n="esxii.1.spb.01.11" justify="left" indent="17">
+                        <hi rend="i">Private Families may be supplied with Silk, Cotton,</hi>
+                    </l>
+                    <l n="esxii.1.spb.01.12" justify="left" indent="13"><hi rend="i">Worsted, and
+                            Thread</hi> STOCKINGS <hi rend="i">of all kinds &#38;
+                        qualities,</hi></l>
+                    <l n="esxii.1.spb.01.13" justify="left" indent="25">on the most reasonable
+                        terms.</l>
+                    <l n="esxii.1.spb.01.14" justify="left" indent="9">
+                        <hi rend="i">Colours &#38; patterns of Carpeting may be changed to suit the
+                            taste of</hi>
+                    </l>
+                    <l n="esxii.1.spb.01.15" justify="left" indent="16"><hi rend="i">the Purchaser, &#38;
+                        patterns of Hosiery made to any size.</hi></l>
+                    <l n="esxii.1.spb.01.16" justify="left" indent="37">N.B.</l>
+                    <l n="esxii.1.spb.01.17" justify="left" indent="21">
+                        <hi rend="i">Merchants, Shopkeepers, and Upholsterers,</hi>
+                    </l>
+                    <l n="esxii.1.spb.01.18" justify="left" indent="26">supplied at Wholesale
+                        Prices.</l>
+                </lg>
+                <vspace extent="6"/>
+                <lg justify="left">
+                    <l n="esxii.1.spb.01.19" justify="left"><hi rend="i">Common Carpet Loom <space extent="8"
+                        />Persia &#38; Turkey Carpet Loom <space extent="9"/>Stocking Frame<space
+                            extent="2"/> Blake <unclear resp="RR">d. &#38; sc:</unclear></hi></l>
+                </lg>
+                <lg justify="left">
+                    <l n="esxii.1.spb.01.20" justify="left" indent="22"><foreign lang="latin">H&#339;c tibi Londini tellus dat
+                        munera: victa est</foreign><note>"H&#339;c" is probably an error for "H&#230;c."  Lines 20-21 are an adaptation from Martial which translates to "the district of London offers you these services: the needle of Babylon is already surpassed by the loom of Britain" (Essick pages 47-48).</note></l>
+                    <l n="esxii.1.spb.01.21" justify="left" indent="22"><foreign lang="latin">Pectine Britannico jam
+                        Babylonis acus</foreign></l>
+                    <l n="esxii.1.spb.01.22" justify="left" indent="55">
+                        <hi rend="i">Vid. Mart. Lib. 14. Ep. 150.</hi>
+                    </l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

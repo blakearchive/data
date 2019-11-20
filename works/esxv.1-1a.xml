@@ -1,0 +1,605 @@
+<bad id="esxv.1-1a" type="spb" work="Enoch" copy="1" copyid="1" institution="britishmuseum" catalog="essickcat" catid="xv.1-1a">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Enoch">
+                    <main> Enoch</main>
+                    <copy> Copy 1</copy>: electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 17KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 177KB
+                to 1600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>November 2019</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+<updatestmt>The William Blake Archive is pleased to announce the publication of nineteen separate prints designed and etched or engraved by Blake. The original works are housed in seven collections, including the Bodleian Library, British Museum, Robert N. Essick collection, Fitzwilliam Museum, Huntington Library, Art Collections, and Botanical Gardens, Museum of Fine Arts, Boston, and National Gallery of Art, Washington. These separate prints join two others, <hi rend="i">Deaths Door</hi> and <hi rend="i">George Cumberland’s Card</hi>, and four series of prints, all previously published, to complete this important category of Blake's endeavors as a printmaker.
+                <lb/>
+                <lb/> 
+The new group of nineteen includes Blake’s first separate engraving, <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, executed while still an apprentice, and two of his masterpieces in mixed-method etching/engraving, the large <hi rend="i">Job</hi> and <hi rend="i">Ezekiel</hi> plates. <hi rend="i">The Accusers of Theft Adultery Murder</hi>, <hi rend="i">Lucifer and the Pope in Hell</hi>, and <hi rend="i">Albion rose</hi> depict Blake's response to the political revolutions of the late eighteenth century. Blake printed these three, plus <hi rend="i">A Dream of Thiralatha</hi> and <hi rend="i">Joseph of Arimathea Preaching to the Inhabitants of Britain</hi>, in colors as part of his development of relief and planographic color printing in the mid-1790s. Other plates, ranging from <hi rend="i">The Approach of Doom</hi> to the <hi rend="i">Enoch</hi> lithograph and <hi rend="i">The Chaining of Orc</hi>, testify to Blake's lifelong experimentation with innovative graphic techniques. He produced <hi rend="i">Deaths Door</hi> and the <hi rend="i">Virgil Relief Etching</hi> as book illustrations but they were never published as such and exist only as unique, separate impressions. Introductions to each work offer information on medium, changes in state, dating, and subject. Blake’s <hi rend="i">Laocoön</hi> etching/engraving, sometimes considered a separate plate, is included among the Illuminated Books in the Archive.
+                <lb/>
+                <lb/> 
+Late in his career, c. 1820-25 or even extending into his final year, Blake returned to several of his earlier separate engravings, dramatically revising the interplay of darkness and light in their designs and adding new inscriptions on some plates that alter their meaning. These final states of <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, <hi rend="i">Job</hi>, <hi rend="i">Ezekiel</hi>, <hi rend="i">The Accusers</hi>, <hi rend="i">Albion rose</hi>, and Blake's largest and most ambitious print, <hi rend="i">Chaucers Canterbury Pilgrims</hi>, are included, along with extant earlier states. The publication of these and other multiple states and printings offer insights into Blake's development as a printmaker and changes in his thematic interests over several decades.
+                <lb/>
+                <lb/> 
+                As always, the William Blake Archive is a free site, imposing no access
+                restrictions and charging no subscription fees. The site is made possible by the
+                University of North Carolina at Chapel Hill with the University of Rochester, the
+                continuing support of the Library of Congress, and the cooperation of the
+                international array of libraries and museums that have generously given us
+                permission to reproduce works from their collections in the Archive. </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/> This image copyright © 2019 British Museum <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name> University of Rochester; <name>Robert Essick,</name>
+                    University of California, Riverside; and <name>Joseph Viscomi,</name> University
+                    of North Carolina at Chapel Hill <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer,</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation</change>
+                <date>April 2018</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                    Essick,</name>University of California, Riverside; and <name>Joseph
+                        Viscomi,</name>University of North Carolina at Chapel Hill 
+                    <resp>Assistant Editor:</resp>
+<name>Michael Fox</name>
+<resp>Managing Editor:</resp>
+<name>Joseph Fletcher</name>
+<resp>Assistant Project Manager:</resp>
+<name>Grant Glass</name>
+<resp>Project Coordinator, University of Rochester:</resp>
+<name>Eric Loy</name>
+<resp>Consultants on Special Projects:</resp>
+<name>Ashley Reed,</name>
+<name>Nikolaus Wasmoen,</name>
+<name>Laura Whitebell</name>
+<resp>Bibliographer:</resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants:</resp>
+<name>Katherine Calvin,</name>
+<name>Erin Francisco,</name>
+<name>Ani Govjian,</name>
+<name>Alison Harper,</name>
+<name>Rachael Isom,</name>
+<name>Joey Kingsley,</name>
+<name>Mary Learner,</name>
+<name>Rob Rich,</name>
+<name>Anneke Schwob,</name>
+<name>Oishani Sengupta,</name>
+<name>Elizabeth Shand,</name>
+<name>Matthew Skwiat,</name>
+<name>Jewell Thomas,</name>
+<name>Emily Tronson,</name>
+<name>Lisa Vandenbossche,</name>
+<name>Alex Zawacki</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>June 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                    Essick,</name>University of California, Riverside; and <name>Joseph
+                        Viscomi,</name>University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor: </resp>
+<name>Michael Fox</name>
+<resp>Project Manager: </resp>
+<name>Joseph Fletcher</name>
+<resp>Project Coordinator, University of Rochester:</resp>
+<name>Laura Whitebell</name>
+<resp>Bibliographer: </resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants: </resp>
+<name>Amber Bertin, </name>
+<name>Abby Brengle, </name>
+<name>Katherine Calvin, </name>
+<name>Adam Engel, </name>
+<name>Andrea Everett, </name>
+<name>Shannon Jaime, </name>
+<name>Gabrielle Kirilloff, </name>
+<name>Eric Loy, </name>
+<name>Kate Massie, </name>
+<name>Adam McCune, </name>
+<name>Kylie Regan, </name>
+<name>Hardeep Sidhu, </name>
+<name>Margaret Speer, </name>
+<name>Lisa Vandenbossche, </name>
+<name>Nikolaus Wasmoen, </name>
+<name>Alia Wegner, </name>
+<name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>*Enoch*</title>
+                </objtitle>
+                <origination>William Blake<role>inventor, </role><role>delineator</role>
+                </origination>
+                <origination>Georg Jacob Vollweiler(?)<role>printer. Printing a lithograph requires
+                        a special press. Vollweiler, the London agent for Alois Senefelder, the
+                        inventor of lithography, may have supplied Blake with the lithographic stone
+                        and also printed this work.</role>
+                </origination>
+
+                <compdate value="1806.A">c. 1806-07</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1806.A">c. 1806-07</printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>21.7 x 31.0 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>22.6 x 31.9 cm.</leafsize>
+                <medium>lithography on white lyas stone<note>According to an inscription by George
+                        Cumberland on the verso of an impression of *Enoch* formerly in the
+                        collection of Edward Croft-Murray and now in the Metropolitan Museum of Art,
+                        New York, Blake delineated his design with a mixture of asphaltum and
+                        linseed oil, rather than the customary chalk or lithographic ink, on white
+                        lyas stone.</note></medium>
+                <printingstyle>planographic</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>1<note>A single framing line is contiguous with the edges of the
+                        image.</note></framelines>
+                <binding>Mounted on a leaf of wove paper in turn bound as leaf 93 in a volume of
+                    miscellaneous lithographs by other artists.</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1874</date>
+                <dealer>James Rimmell &#38; Son</dealer>
+                <price>not recorded</price>
+                <note>Thomas Fisher (according to the British Museum catalogue); the dealer James
+                    Rimell &#38; Son, bound into a collection of early lithographs and one
+                    engraving; the volume sold by Rimell in July 1874 to the British Museum.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <department>Prints and Drawings</department>
+                <repositoryid label="Accession number">1874,0711.1028</repositoryid>
+            </repository>
+        </source>
+        <desc id="esxv.1-1A.spb.01" dbi="ESXV.1-1A.1.SP">
+            <objtitle>
+                <title type="transcribed">Enoch</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="ESXV">(Essick XV)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>21.7 x 31.0 cm.</objsize>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>In this lithograph, an old male figure sits facing forward on a
+                        raised plinth-like platform in the center of the composition. He has long
+                        hair and a beard and wears a gown. His arms are extended downward and he
+                        appears to hold an open book against his lower legs. His legs are bent with
+                        his right knee on the floor in a kneeling position. His left foot is visible
+                        beneath his gown. He may sit in a chair, the arms of which are visible on
+                        either side of his legs. This figure is Enoch, who is described in Genesis
+                        5:22-29 as having walked with God. Several sources describe Enoch as the
+                        first man to learn writing. Three younger, smaller figures sit or stand
+                        around the central old man, who may be their father. All hold instruments of
+                        an art. The figure at right, who appears to be nude, sits facing left and
+                        bends forward. The figure is likely male(?) and has short hair. His arms are
+                        bent and rest on his legs, which are also bent beneath him. He holds an open
+                        book and, in his right hand, a long pen or quill. A second nude, male figure
+                        stands facing left to the left of the old male figure. He has short hair and
+                        bends his head forward. He holds a paintbrush in his right hand and a
+                        palette in his left. Below and to the left of this figure, a female figure
+                        sits facing right on the corner of the raised platform. She has long hair
+                        and wears a gown. She is bending forward and rests a lyre between her legs.
+                        She appears to play the instrument with her right hand, which is raised. Her
+                        legs are bent beneath her. The platform on which these four figures sit or
+                        stand has two tiers. Each tier has an arch-like design on the front. The
+                        ground below the platform along the lower edge of the design is grassy. Two
+                        groups of flying or hovering figures who may be angels frame the central
+                        group. The pair of figures at right fly or hover facing left and away. The
+                        rightmost figure, who has short hair and wears a gown, turns his(?) head to
+                        face left. He may raise his left arm to point toward the tablet or piece of
+                        paper held by the figure at left with his left hand. His left foot is
+                        visible beneath his gown. The second figure from the right appears to be a
+                        nude male who twists slightly to the right, perhaps to look toward his
+                        companion at right. He has short curly hair and extends his straight legs
+                        backward slightly. He holds a page of Hebrew text in his left hand. The
+                        group of three flying or hovering figures at left face right. The rightmost
+                        of these figures is a male figure with curly hair. He appears to wear a
+                        semi-transparent gown with a long slit rising above his right leg. His head
+                        is bent down. His arms are bent and at his side, and he appears to hold a
+                        scroll or piece of paper with both hands. He may be reading. His legs are
+                        crossed at the ankle and his feet are pointed down. The leftmost figure in
+                        this group, who has long hair, hovers or flies facing right and wears a long
+                        gown or cloak, obscuring the body from the shoulders down. The figure's
+                        gender is indistinguishable. The figure's right leg appears to be bent
+                        backward beneath the gown or cloak. Behind this figure at right, the second
+                        figure from the left faces right and forward and appears to have short,
+                        curly hair. Only the head of this figure is visible. Leafy, twisted
+                        grapevines grow upward along the sides of the design and extend partially
+                        toward the center of the top edge. A large cluster of grapes is visible at
+                        the base of each plant in the lower right and left corners. Diagonal lines,
+                        likely suggesting beams of light or radiance, emanate from the top center of
+                        the design where there is an area of void. The edges of clouds may be
+                        visible against both the upper halves of the right and left sides of the
+                        design.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>hands resting</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>reading</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>Enoch</characteristic>
+                        <illusobjdesc>In this lithograph, an old male figure sits facing forward on
+                            a raised platform in the center of the composition. He has long hair and
+                            a beard and wears a gown. His arms are extended downward and he appears
+                            to hold an open book against his lower legs. His legs are bent with his
+                            right knee on the floor in a kneeling position. His left foot is visible
+                            beneath his gown. He may sit in a chair whose arms are visible on either
+                            side of his legs. This figure may be the biblical figure Enoch, who is
+                            described in Genesis 5:22-29 as having walked with God. Several sources
+                            describe Enoch as the first man to learn writing.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>book</characteristic>
+                        <characteristic>text</characteristic>
+                        <characteristic>writing</characteristic>
+                        <characteristic>Hebrew letters</characteristic>
+                        <characteristic>inscription</characteristic>
+                        <characteristic>chair</characteristic>
+                        <illusobjdesc>The old male figure in the center of the design holds an open
+                            book against his lower legs. Four Hebrew letters are visible on the left
+                            page of the book. This figure may sit in a chair, the arms of which are
+                            visible on either side of his legs.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms resting</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>writing</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <illusobjdesc>Three younger, smaller figures sit or stand around the central
+                            old man, who may be their father. All hold instruments of an art. The
+                            figure at right, who appears to be nude, sits facing left and bends
+                            forward with head down. The figure is likely male(?) and has short hair.
+                            His arms are bent and rest on his legs, which are also bent beneath him.
+                            He holds an open book and, in his right hand, a long pen or quill. He
+                            may be writing.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>book</characteristic>
+                        <characteristic>quill</characteristic>
+                        <characteristic>pen</characteristic>
+                        <illusobjdesc>The seated youth to the right of the central male figure holds
+                            an open book on his knees and a quill or pen in his right
+                            hand.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>painting</characteristic>
+                        <characteristic>artist</characteristic>
+                        <illusobjdesc>Three younger, smaller figures sit or stand around the central
+                            old man, who may be their father. All hold instruments of an art. A
+                            second nude, male figure stands facing left to the left of the old male
+                            figure. He has short hair and bends his head forward. He holds a
+                            paintbrush in his right hand and a palette in his left. He may be
+                            painting.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>brush</characteristic>
+                        <characteristic>palette</characteristic>
+                        <illusobjdesc>The standing youth to the left of the central male figure
+                            holds a palette with paint in his left hand and a brush in his right
+                            hand.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>sitting</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>hand raised</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <illusobjdesc>Three younger, smaller figures sit or stand around the central
+                            old man, who may be their father. All hold instruments of an art. On the
+                            leftmost corner of the central platform, a female figure sits facing
+                            right. She has long hair and wears a gown. She is bending forward and
+                            rests a lyre between her legs. She appears to play the instrument with
+                            her right hand, which is raised. Her legs are bent beneath
+                            her.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>lyre</characteristic>
+                        <illusobjdesc>The youth seated on the leftmost corner of the central
+                            platform holds a lyre in her lap. She appears to play the instrument
+                            with her raised right hand.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="CD">
+                        <characteristic>arch</characteristic>
+                        <characteristic>plinth</characteristic>
+                        <characteristic>step</characteristic>
+                        <characteristic>stone</characteristic>
+                        <illusobjdesc>The plinth-like platform, possibly made of carved stone, on
+                            which the central four figures sit or stand has two tiers or steps. Each
+                            tier has an arch design.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc>The platform on which these four figures sit or stand has two
+                            tiers. Each tier has an arch-like design on the front and may be covered
+                            with grass(?). The ground below the platform along the lower edge of the
+                            design is also grassy.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>reading</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <illusobjdesc>Two groups of flying or hovering figures who may be angels
+                            frame the central group. The pair of figures at right fly or hover
+                            facing left and away. The rightmost figure, who has short hair and wears
+                            a gown, turns his(?) head to face left. He may raise his left arm to
+                            point toward the page of Hebrew text held by the figure at left with his
+                            left hand. He appears to look toward the text, which he may read. His
+                            left foot is visible beneath his gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <illusobjdesc>Two groups of flying or hovering figures who may be angels
+                            frame the central group. The pair of figures at right fly or hover
+                            facing left and away. The second figure from the right appears to be a
+                            nude male who twists slightly to the right, perhaps to look toward his
+                            companion at right. He has short curly hair and extends his straight
+                            legs backward slightly. He holds a page of Hebrew text in his left hand.
+                            Both arms are bent upward.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>text</characteristic>
+                        <characteristic>paper</characteristic>
+                        <characteristic>tablet</characteristic>
+                        <characteristic>Hebrew letters</characteristic>
+                        <characteristic>inscription</characteristic>
+                        <illusobjdesc>The second figure from the right who flies or hovers holds in
+                            his left hand a piece of paper or tablet containing two lines of Hebrew
+                            text (see the Transcription). The figure to his right appears to point
+                            toward the text.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>semi-transparent</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>reading</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <illusobjdesc>Two groups of flying or hovering figures who may be angels
+                            frame the central group. The group of three figures at left face right.
+                            The rightmost of these figures is a male figure with curly hair. He
+                            appears to wear a semi-transparent gown with a long slit rising above
+                            his right leg. His head is bent down. His arms are bent and at his side,
+                            and he appears to hold a scroll or piece of paper with both hands. He
+                            may be reading. His legs are crossed at the ankle and his feet are
+                            pointed down.</illusobjdesc>
+                    </component>
+                    <component type="object" location="A">
+                        <characteristic>paper</characteristic>
+                        <characteristic>scroll</characteristic>
+                        <illusobjdesc>The third figure from the left who flies or hovers facing
+                            right holds with both hands a scroll or piece of paper which he may be
+                            reading.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>hovering</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>Two groups of flying or hovering figures who may be angels
+                            frame the central group. The group of three figures at left face right.
+                            The leftmost figure in this group, who has long hair and perhaps an open
+                            mouth, hovers or flies facing right and wears a long gown or cloak,
+                            obscuring the body from the shoulders down. The figure's gender is
+                            indistinguishable. The figure's right leg appears to be bent backward
+                            beneath the gown or cloak.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <illusobjdesc>Two groups of flying or hovering figures who may be angels
+                            frame the central group. The group of three figures at left face right.
+                            The middle figure in this group faces right and forward and appears to
+                            have short, curly hair. Only the head of this figure is
+                            visible.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>grape</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <illusobjdesc>Leafy, twisted grapevines grow upward along the sides of the
+                            design and extend partially toward the center of the top edge. A large
+                            cluster of grapes is visible at the base of each plant in the lower
+                            right and left corners.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>line</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>radiance</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>Diagonal lines, likely suggesting beams of light or radiance,
+                            emanate from the top center of the design where there is an area of
+                            void. The edges of clouds may be visible against both the upper halves
+                            of the right and left sides of the design.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="6"/>
+                <lg justify="left">
+                    <l n="esxv.1-1a.spb.01.01" justify="left" indent="30">
+                        <foreign lang="hebrew">ואננו כי לקח</foreign>
+                        <note>Lines 1-2, written on a piece of paper or tablet held by a hovering figure upper right, are from Genesis 5:24. Their English
+                            translation is "And Enoch walked with God" (Essick page 55). Sheila Spector
+                            points out "the omission in [the two figures'] text of the י (*yod*, symbol of the
+                            Divinity), which is the third letter (Trinity) of the first word (God)
+                            in the biblical text" (“Blake’s Graphic Use of Hebrew," *Blake/An
+                            Illustrated Quarterly* 37.2 [fall 2003]: 71). Hence, the correct spelling of this line would be
+                            "וא[י]ננו כי לקח".</note>
+                    </l>
+                    <l n="esxv.1-1a.spb.01.02" justify="left" indent="31">
+                        <foreign lang="hebrew">אתו אלהים</foreign>
+                    </l>
+                </lg>
+                <vspace extent="5"/>
+                <lg>
+                    <l n="esxv.1-1a.spb.01.03" justify="left" indent="20">
+                        <foreign lang="hebrew">חנוך</foreign>
+                        <note>This text appears just left of the inner margin of the verso of a leaf in an open book held by the central seated figure. English translation is "Enoch." As Sheila Spector explains, "While the
+                            lettering is lexigraphically correct, the text is located on the wrong
+                            half of the page. Because Hebrew is read from right to left, the name
+                            should either be in the center, as the title, or at the right margin."
+                            (“Blake’s Graphic Use of Hebrew”, *Blake/An Illustrated Quarterly*
+                            37.2 [fall 2003]: 70).</note>
+                    </l>
+                </lg>
+                <vspace extent="4"/>
+                <lg justify="left">
+                    <l n="esxv.1-1a.spb.01.04" justify="left" indent="35">WBlake. inv</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

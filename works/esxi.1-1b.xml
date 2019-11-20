@@ -1,0 +1,461 @@
+<bad id="esxi.1-1b" type="spb" work="" copy="1" copyid="1" institution="ngadc" catalog="essickcat" catid="xi.1-1b">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Joseph of Arimathea Preaching to the Inhabitants of Britain">
+                    <main>
+                        Joseph of Arimathea Preaching to the Inhabitants of Britain</main>
+                    <copy> Copy 1</copy>: electronic edition
+
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of 
+
+Rochester;
+
+<name>Robert Essick, </name>University of California, Riverside; and
+
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+
+            </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+
+           and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 17KB; 2 JPEG (ISO/IEC
+
+10918) files ranging in size from 177KB to 1600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>November 2019</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+<updatestmt>The William Blake Archive is pleased to announce the publication of nineteen separate prints designed and etched or engraved by Blake. The original works are housed in seven collections, including the Bodleian Library, British Museum, Robert N. Essick collection, Fitzwilliam Museum, Huntington Library, Art Collections, and Botanical Gardens, Museum of Fine Arts, Boston, and National Gallery of Art, Washington. These separate prints join two others, <hi rend="i">Deaths Door</hi> and <hi rend="i">George Cumberland’s Card</hi>, and four series of prints, all previously published, to complete this important category of Blake's endeavors as a printmaker.
+                <lb/>
+                <lb/> 
+The new group of nineteen includes Blake’s first separate engraving, <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, executed while still an apprentice, and two of his masterpieces in mixed-method etching/engraving, the large <hi rend="i">Job</hi> and <hi rend="i">Ezekiel</hi> plates. <hi rend="i">The Accusers of Theft Adultery Murder</hi>, <hi rend="i">Lucifer and the Pope in Hell</hi>, and <hi rend="i">Albion rose</hi> depict Blake's response to the political revolutions of the late eighteenth century. Blake printed these three, plus <hi rend="i">A Dream of Thiralatha</hi> and <hi rend="i">Joseph of Arimathea Preaching to the Inhabitants of Britain</hi>, in colors as part of his development of relief and planographic color printing in the mid-1790s. Other plates, ranging from <hi rend="i">The Approach of Doom</hi> to the <hi rend="i">Enoch</hi> lithograph and <hi rend="i">The Chaining of Orc</hi>, testify to Blake's lifelong experimentation with innovative graphic techniques. He produced <hi rend="i">Deaths Door</hi> and the <hi rend="i">Virgil Relief Etching</hi> as book illustrations but they were never published as such and exist only as unique, separate impressions. Introductions to each work offer information on medium, changes in state, dating, and subject. Blake’s <hi rend="i">Laocoön</hi> etching/engraving, sometimes considered a separate plate, is included among the Illuminated Books in the Archive.
+                <lb/>
+                <lb/> 
+Late in his career, c. 1820-25 or even extending into his final year, Blake returned to several of his earlier separate engravings, dramatically revising the interplay of darkness and light in their designs and adding new inscriptions on some plates that alter their meaning. These final states of <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, <hi rend="i">Job</hi>, <hi rend="i">Ezekiel</hi>, <hi rend="i">The Accusers</hi>, <hi rend="i">Albion rose</hi>, and Blake's largest and most ambitious print, <hi rend="i">Chaucers Canterbury Pilgrims</hi>, are included, along with extant earlier states. The publication of these and other multiple states and printings offer insights into Blake's development as a printmaker and changes in his thematic interests over several decades.
+                <lb/>
+                <lb/> 
+                As always, the William Blake Archive is a free site, imposing no access
+                restrictions and charging no subscription fees. The site is made possible by the
+                University of North Carolina at Chapel Hill with the University of Rochester, the
+                continuing support of the Library of Congress, and the cooperation of the
+                international array of libraries and museums that have generously given us
+                permission to reproduce works from their collections in the Archive.</updatestmt>            
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick,
+
+and Joseph Viscomi, all rights reserved. Items in the Archive may be
+
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+
+Redistribution or republication on other terms, in any medium, requires
+
+express written consent from the editors and advance notification of the
+
+publisher.
+
+Permission to reproduce the graphic images in this archive has been
+
+granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+
+         This image copyright © 2019 National Gallery of Art, Washington, D. C.
+
+         <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name> University of Rochester; <name>Robert Essick,</name>
+                    University of California, Riverside; and <name>Joseph Viscomi,</name> University
+                    of North Carolina at Chapel Hill <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer,</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+<change>BAD creation</change>
+<date>February 2017</date>
+<respstmt>
+<resp>Editors:</resp>
+<name>Morris Eaves,</name>
+University of Rochester;
+<name>Robert Essick,</name>
+University of California, Riverside; and
+<name>
+Joseph Viscomi,
+</name>
+University of North Carolina at Chapel Hill
+<resp>Technical Editor:</resp>
+<name>Michael Fox</name>
+<resp>Managing Editor:</resp>
+<name>Joseph Fletcher</name>
+<resp>Assistant Project Manager:</resp>
+<name>Grant Glass</name>
+<resp>
+Project Coordinator, University of Rochester:
+</resp>
+<name>Eric Loy</name>
+<resp>Consultants on Special Projects:</resp>
+<name>Ashley Reed</name>
+<resp>Bibliographer:</resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants:</resp>
+<name>Anna Alden,</name>
+<name>Katherine Calvin,</name>
+<name>Patrick Delehanty,</name>
+<name>Adam Engel,</name>
+<name>Alison Harper,</name>
+<name>Jarrod Ingles,</name>
+<name>Rachael Isom,</name>
+<name>Joel Kingsley,</name>
+<name>Mary Learner,</name>
+<name>Adam McCune,</name>
+<name>Rob Rich,</name>
+<name>Oishani Sengupta,</name>
+<name>Matthew Skwiat,</name>
+<name>Lisa Vandenbossche</name>
+</respstmt>
+</changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>February 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+<resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum, </name>
+                    <name>Andrea Laue</name>
+                    <resp>Programmer/Analyst: </resp>
+                    <name>Robert Bingler</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Scott Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        *Joseph of Arimathea Preaching to the Inhabitants of Britain*
+                    </title>
+                </objtitle>
+                <origination>William Blake<role>inventor, </role><role>delineator, </role><role>etcher, </role>
+                    <role>printer, </role><role>colorist</role>
+                </origination>
+                <origination>Catherine Blake<role>printer</role>
+                </origination>
+                
+                <compdate value="1794.C">c. 1794</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1796.A">1796</printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>7.8 x 10.7 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>32.0 x 24.0 cm.</leafsize>
+                <medium>relief etching, color printed with additional hand coloring</medium>
+                <printingstyle>relief</printingstyle>
+                <inkcolor>none<note>Blake printed this work with his color-printing medium without any ink.</note></inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>5<note>The number "5" was inscribed top right by someone other than Blake.  This number may relate to its position when bound with *The Song of Los* Copy B and other works by Blake (see the note on Provenance, below).</note></pennednumbers>
+                <framelines>none</framelines>
+                <binding>Formerly bound with other works by Blake (see the note on Provenance, below) but disbound by 1904.</binding>
+                <stabholes>Three holes, 8.9 cm. and 7.0 cm. apart<note>These stab holes relate to the binding of the print with *The Song of Los* Copy B and other works by Blake (see the note on Provenance, below).</note></stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>National Gallery of Art, Washington, D. C.</name>
+                <date>1943</date>
+                <dealer>none</dealer>
+                <price>gift</price>
+                <note>Possibly one of the works acquired from Blake in Aug. 1797 by James Curry; acquired when bound with *The Song of Los* Copy B and other works by Blake (including *The Accusers of Theft Adultery Murder*&#8212;see Essick page 32, Copy 2C) between 1856 and 1862 by Benjamin D'Israeli, later Earl of Beaconsfield; disbound and sold Hodgson auction, London, 14 Jan. 1904, lot 228, described as "a coloured print, presumably John the Baptist preaching repentance" (&#163;26.10s. to the dealer Bernard Quaritch, probably acting for William A White); sold from White's collection in May 1929 by the dealer A. S. W. Rosenbach to Lessing J. Rosenwald with *The Accusers of Theft Adultery Murder* Copy 2C for $3000; given by Rosenbach to the National Gallery of Art, Washington, D. C., in 1943.</note>
+            </provenance>
+            <repository>
+                <institution>National Gallery of Art, Washington, D. C.</institution>
+                <department>Drawings and Prints</department>
+                <collection>Lessing J. Rosenwald Collection</collection>
+                <repositoryid label="Accession number">1943.3.8988</repositoryid>
+            </repository>
+        </source>
+        <desc id="esxi.1-1b.spb.01" dbi="ESXI.1-1B.1.SP">
+            <objtitle>
+                <title type="transcribed">Joseph of Arimathea Preaching</title>,
+<objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="ESXI">(Essick XI, </objcode><objcode code="U1">Butlin 286)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objnote><p>This is the second impression of the plate, printed immediately after the impression in *A Large Book of Designs* Copy A, Object 6.  The number "5" top right was inscribed by someone other than Blake.  This number may relate to its position when bound with *The Song of Los* Copy B and other works by Blake (see the note on Provenance).</p></objnote>
+                <objsize>7.8 x 10.7 cm.</objsize>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Joseph of Arimathea, the tall male figure with a long beard and gown, stands near the right edge of the composition and faces left toward a crowd of figures. He short hair extends to the right, as if blown in the wind, and his mouth may be open. He holds a staff that rests on the ground with his bent left arm; his right arm is extended horizontally, palm facing down, over the heads of several figures at left. His left foot is visible beneath his gown, and he appears to stand on a stone that may be partially covered with moss or lichens. A dark form that may be a shadow is visible to the left of this stone. Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The second figure from the right has long hair and may be female. She stands facing forward with head bent forward to rest on the shoulder of the male figure at left. She may wear tights. Her left arm is at her side and bent upward slightly to hold the arm or hand of the male figure beside her. Her right leg appears to be bent. The male figure on whom she leans is the third figure from the right, and he stands facing forward with head raised, perhaps to look toward Joseph of Arimathea's outstretched arm. He has short hair and wears tights as well as a cloak across his right shoulder. His left arm is at his side, and he may hold hands with the female figure who leans on him at right. His right arm is also at his right and bent to hold or touch the hand of the male figure standing to his left. His right leg is extended slightly to the left and bent. The fourth figure from the right appears to be a male figure with short curly hair who wears tights. He stands facing left with head turned away from the viewer. His left arm is at his side and bent slightly to hold or touch the hand of the male figure to his right. The fifth figure from the right is a female figure who stands facing forward and right with head down. She has long hair and wears a gown. Her left arm is bent upward, and her hand is raised, palm facing forward with fingers spread. The sixth figure from the right is a male figure who stands facing right with head down. He has short curly hair and wears tights. His arms are bent upward and crossed in front of his chest. He may point down with the index finger of his left hand. The seventh figure from the right is a male figure who stands facing forward and right with closed eyes. He has short hair and a mustache and beard. He wears a long cloak that covers his entire body. His head appears to be bent down slightly. The eighth figure from the right appears to be a female figure with long hair who faces away from the viewer. She wears a long gown and bends her head back to look up. She raises both arms, which are bent, above her head and clasps her hands together, perhaps in a gesture of prayer. Her right leg is bent and extended backward; her right foot is visible beneath her gown. The ninth figure from the right is a female figure who stands facing forward and turns her head to the left to look toward the male figure who embraces her. She has long hair and wears a gown. Her mouth is open and her eyes are raised. She bends both arms upward with hands raised, palms facing forward. Her left leg is visibly bent beneath her gown. The tenth figure from the right and the leftmost figure in the foreground is a male figure who stands facing right. He has short curly hair and wears tights. He raises his bent right arm to embrace the female figure standing beside him at right. He also looks toward her. His left arm is raised vertically, and he raised two fingers of his left hand. The figure's left leg is extended forward. Shadowy forms that may represent additional figures' heads in the crowd are visible behind the nine figures standing in the foreground. The branch of a tree that may have some leaves extends over the bearded figure of Joseph of Arimathea in the upper right corner. A hill or mountain is visible beneath this branch. Six vertical lines above the figures at left suggest spikes or poles(?). The red coloring of the background sky may indicate a sunrise or sunset.</illusobjdesc>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>speaking</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>staff</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>palm down</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <illusobjdesc>Joseph of Arimathea, the tall male figure with a long beard and gown, stands near the right edge of the composition and faces left to look toward a crowd of figures. He short hair extends to the right, as if blown in the wind, and his mouth may be open. He may be preaching to the crowd. He holds a staff that rests on the ground with his bent left arm; his right arm is extended horizontally, palm facing down, over the heads of several figures at left. His left foot is visible beneath his gown.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>stone</characteristic>
+                        <characteristic>earth</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>Joseph of Arimathea appears to stand on a stone or patch of earth that may be partially covered with moss. A dark form that may be a shadow is visible to the left of this stone.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="D">
+                        <characteristic>moss</characteristic>
+                        <characteristic>lichens</characteristic>
+                        <illusobjdesc>Joseph of Arimathea appears to stand on a stone or patch of earth that may be partially covered with moss or lichens.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>despair</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>head on shoulder</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <illusobjdesc>Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The second figure from the right has long hair and may be female. She stands facing forward with head bent forward to rest on the shoulder of the male figure at left. She appears to wear tights. Her left arm is at her side and bent upward slightly to hold the arm or hand of the male figure beside her. Her right leg appears to be bent.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>despair</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <illusobjdesc>Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The third figure from the right is a male figure who stands facing forward with head raised, perhaps to look toward Joseph of Arimathea's outstretched arm. He has short hair and wears tights as well as a cloak across his right shoulder. His left arm is at his side, and he may hold hands with the female figure who leans on him at right. His right arm is also at his right and bent to hold or touch the hand of the male figure standing to his left. His right leg is extended slightly to the left and bent.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>despair</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <illusobjdesc>Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The fourth figure from the right appears to be a male figure with short curly hair who wears tights. He stands facing left with head turned away from the viewer. His left arm is at his side and bent slightly to hold or touch the hand of the male figure to his right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>despair</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>hand raised, palm out</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <illusobjdesc>Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The fifth figure from the right is a female figure who stands facing forward and right with head down. She has long hair and wears a gown. Her left arm is bent upward, and her hand is raised, palm facing forward with fingers spread.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>despair</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms crossed</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <illusobjdesc>Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The sixth figure from the right is a male figure who stands facing right with head down. He has short curly hair and wears tights. His arms are bent upward and crossed in front of his chest. He may point down with the index finger of his left hand.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>despair</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <illusobjdesc>Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The seventh figure from the right is an old male figure who stands facing forward and right with closed eyes. He has short hair and a mustache and beard. He wears a long cloak that covers his entire body. His head appears to be bent down slightly.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>despair</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>praying</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <illusobjdesc>Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The eighth figure from the right appears to be a female figure with long hair who faces away from the viewer. She wears a long gown and bends her head back to look up. She raises both arms, which are bent, above her head and clasps her hands together, perhaps in a gesture of prayer. Her right leg is bent and extended backward; her right foot is visible beneath her gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>despair</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>hands raised, palms up</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <illusobjdesc>Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The ninth figure from the right is a female figure who stands facing forward and turns her head to the left to look toward the male figure who embraces her. She has long hair and wears a gown. Her mouth is open and her eyes are raised. She bends both arms upward with hands raised, palms facing forward. Her left leg is visibly bent beneath her gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>despair</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>embracing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <illusobjdesc>Nine figures stand in the foreground to the left of Joseph of Arimathea, and all appear in despair or distress. The tenth figure from the right and the leftmost figure in the foreground is a male figure who stands facing right. He has short curly hair and wears tights. He raises his bent right arm to embrace the female figure standing beside him at right. He also looks toward her. His left arm is raised vertically, and he raised two fingers of his left hand. The figure's left leg is extended forward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <characteristic>head</characteristic>
+                        <illusobjdesc>Shadowy forms that may represent additional figures' heads in the crowd are visible behind the nine figures standing in the foreground.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="BD">
+                        <characteristic>tree</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>moss</characteristic>
+                        <characteristic>lichens</characteristic>
+                        <illusobjdesc>The branch of a tree that may have some leaves extends over the bearded figure of Joseph of Arimathea in the upper right corner. The trunk of the tree that is visible near the right edge of the composition may be covered in moss or lichens.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>hill</characteristic>
+                        <characteristic>mountain</characteristic>
+                        <illusobjdesc>A hill or mountain is visible beneath the branch of the tree in the upper right corner.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>pole</characteristic>
+                        <characteristic>spike</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <illusobjdesc>Six vertical lines above the figures at left suggest spikes or poles(?). The red coloring of the background sky may indicate a sunrise or sunset.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+        </desc>
+    </objdesc>
+</bad>

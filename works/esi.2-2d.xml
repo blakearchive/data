@@ -1,11 +1,11 @@
-<bad id="esii.1" type="spb" work="Charity" copy="1" copyid="1" institution="britishmuseum" catalog="essickcat" catid="ii.1">
+<bad id="esi.2-2d" type="spb" work="Joseph of Arimathea Among the Rocks of Albion" copy="2" copyid="2" institution="essick" catalog="essickcat" catid="I.2-2D">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Charity">
+                <title reg="Joseph of Arimathea Among the Rocks of Albion">
                     <main>
-                        Charity</main>
-                    <copy> Copy 1</copy>: electronic edition
+                        Joseph of Arimathea Among the Rocks of Albion</main>
+                    <copy> Copy 2</copy>: electronic edition
 
 </title>
                 <principal>
@@ -66,7 +66,7 @@ Permission to reproduce the graphic images in this archive has been
 granted by the owners of the originals for this publication only.<lb/>
             <lb/>
 
-         This image copyright © 2019 British Museum.
+         This image copyright © 2019 William Blake Archive.
 
          <lb/>
             <lb/>
@@ -74,7 +74,7 @@ granted by the owners of the originals for this publication only.<lb/>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
-                        <changestmt>
+            <changestmt>
                 <change>Final proofing and publication</change>
                 <date>November 2019</date>
                 <respstmt>
@@ -111,7 +111,7 @@ granted by the owners of the originals for this publication only.<lb/>
                     <name>Helen Davies</name>
                 </respstmt>
             </changestmt>
-             <changestmt>
+<changestmt>
                 <change>BAD creation</change>
                 <date>February 2017</date>
                 <respstmt>
@@ -154,7 +154,7 @@ granted by the owners of the originals for this publication only.<lb/>
             </changestmt>
             <changestmt>
                 <change>Image cataloguing and metadata collection</change>
-                <date>September 2002</date>
+                <date>September 2004</date>
                 <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves,</name>University of Rochester;
@@ -162,20 +162,19 @@ granted by the owners of the originals for this publication only.<lb/>
                <name>Robert Essick,</name>University of California, Riverside; and
 
                <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
-<resp>Technical Editors: </resp>
-                    <name>Matthew Kirschenbaum, </name>
+
+               <resp>Technical Editor: </resp>
                     <name>Andrea Laue</name>
-                    <resp>Programmer/Analyst: </resp>
-                    <name>Robert Bingler</name>
+                    <resp>Conversion: </resp>
+                    <name>Aziza Technology Associates</name>
                     <resp>Project Manager: </resp>
-                    <name>Andrea Dickens</name>
+                    <name>Justin Van Kleeck</name>
                     <resp>Project Assistants: </resp>
                     <name>Christopher N. Jackson, </name>
                     <name>Kari Kraus, </name>
+                    <name>Wesley N. Raabe, </name>
                     <name>Wayne C. Ripley, </name>
-                    <name>Sarah Trippensee, </name>
-                    <name>Justin Scott Van Kleeck</name>
-                </respstmt>
+                    <name>William Shaw</name></respstmt>
             </changestmt>
         </revisiondesc>
     </header>
@@ -184,162 +183,136 @@ granted by the owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        *Charity*
+                        *Joseph of Arimathea Among the Rocks of Albion*
                     </title>
                 </objtitle>
-                <origination>William Blake<role>inventor,</role><role>printer</role>
+                <origination>William Blake<role>inventor,</role>
+                    <role>author,</role>
+                    <role>etcher,</role>
+                    <role>engraver,</role>
+                    <role>printer</role>
                 </origination>
                  <origination>Catherine Blake<role>printer</role>
                 </origination>
                 
-                <compdate value="1788.A">c. 1788</compdate>
+                
+                <compdate value="1773.A">1773</compdate>
             </objdescid>
             <objinfo>
-                <printdate value="1788.A">c. 1788</printdate>
+                <printdate value="1820.A">c. 1820-25</printdate>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize>18.7 x 13.3 cm.</objsize>
+                <objsize>22.9 x 11.9 cm.</objsize>
+                <platemark>25.6 x 14.0 cm.</platemark>
                 <numberleaves>1</numberleaves>
-                <leafsize>19.0 x 14.9 cm.</leafsize>
-                <medium>planographic transfer print with washes added</medium>
-                <printingstyle>planographic<note>The image was probably printed by transfer from another leaf of paper or from millboard.</note></printingstyle>
-                <inkcolor>black<note>The black wash surrounding the figures was added by hand.</note></inkcolor>
-                <support>laid paper</support>
+                <leafsize>27.8 x 19.5 cm.</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
                 <watermark>
                     <note>none</note>
                 </watermark>
                 <etchednumbers>none</etchednumbers>
                 <pennednumbers>none</pennednumbers>
-                <framelines>none</framelines>
+                <framelines>2<note>The design is surrounded by two framing lines, closely spaced.</note></framelines>
                 <binding/>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>British Museum</name>
-                <date>1958</date>
-                <dealer>T. Rowe</dealer>
-                <price>not recorded</price>
-                <note>Early history unknown; acquired 1958 by the British Museum from T. Rowe.</note>
+                <name>Robert N. Essick</name>
+                <date>1976</date>
+                <dealer>Donald Heald</dealer>
+                <price>&#163;1000</price>
+                <note>Early history unknown; sold Sotheby's, Hodgson's rooms, 12 Nov. 1976, lot 384, inserted in a copy of Robert Blair, *The Grave*, [1870] edition with Blake's illustrations (&#163;1000 to Donald Heald acting for Robert N. Essick).</note>
             </provenance>
             <repository>
-                <institution>British Museum</institution>
-                <addressline>Great Russell Street</addressline>
-                <addressline>London WC1B 3DG</addressline>
-                <addressline>United Kingdom</addressline>
-                <addressline>Telephone: 44-(0)20-7323 8408</addressline>
-                <addressline>Fax: 44-(0)20-7323 8408</addressline>
-                <addressline>URL: http://www.britishmuseum.org</addressline>
-                <addressline>British Museum</addressline>
-                <department>Department of Prints and Drawings</department>
-                <addressline>Email, Department of Prints and Drawings: prints@britishmuseum.org</addressline>
-                <repositoryid label="Registration number">1958,1101.6</repositoryid>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena</addressline>
+                <addressline>California</addressline>
             </repository>
         </source>
-        <desc id="esii.1.spb.01" dbi="ESII.1.1.SP">
+        <desc id="esi.2-2d.spb.01" dbi="ESI.2-2D.1.SP">
             <objtitle>
-                <title type="transcribed">Charity</title>,
+                <title type="transcribed">Joseph of Arimathea Among the Rocks of Albion</title>,
 <objid>
                     <objnumber code="A1">Object 1 </objnumber>
-                    <objcode code="ESII">(Essick II)</objcode>
+                    <objcode code="ESI">(Essick I)</objcode>
                 </objid>
             </objtitle>
             <physdesc>
-                <objnote><p>This is the only traced impression of *Charity*, a title first published for the work in 1972. A date of c. 1788 is suggested by similarities between the figures and pictures by Blake of that period.</p></objnote>
-                <objsize>19.0 x 14.9 cm.</objsize>
+                <objnote><p>Although the figure is a close copy of an unidentified figure in Michelangelo's *Crucifixion of St. Peter* (Pauline Chapel, Vatican), the entire composition is usually credited to Blake as the designer.  The landscape setting is Blake's own invention.  This impression is in the second state of two; the title is taken from the inscription upper right added to this second state.  Blake's pen and ink inscription lower right on the only traced impression of the first state indicates that Blake based the figure on "a drawing by Salviati" (probably Francesco Rossi Salviati).  No such drawing has been traced.  Blake may have taken the figure from an engraving of Michelangelo's entire painting or the figure alone, without surrounding background, in an engraving by Nicholas Beatrizet.  This second state with its added inscriptions was probably executed by Blake c. 1820-25.</p></objnote>
+                <objectsize>25.6 x 14.0 cm.</objectsize>
                 <windowsize width="600" height="700"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>A nude female figure stands in the center of the composition flanked on both sides by a pair of nude children.  The central adult stands or walks facing forward with her head turned to the right and slightly down, looking toward the children.  She has long hair and prominent breasts. Both arms are by her sides and she holds the hand of the child closest to her on either side. Her right leg appears to be slightly bent and lifted, as if she is stepping or walking forward. This figure may be a personification of Charity. The two nude children on the right side of the composition stand or walk facing forward.  The rightmost child appears to be female as she has long hair.  Her left arm (not clearly pictures below the elbow) may be raised horizontally and bent in front of her chest while she embraces her companion's shoulders with her extended right arm.  She may touch the hand of the adult female figure with her right hand as well. Her right leg is slightly bent and lifted as if she is stepping forward.  The gender of the second child from the right is unclear, though he(?) appears to have short hair. He faces forward but turns his head up and to the left to look toward the adult figure whose hand he holds with his raised right arm. His left leg is extended behind him as if he is walking forward.  The two children on the left side of the composition embrace each other.  The leftmost male child faces forward but twists to the right to embrace his companion with his raised right arm.  He appears to have curly hair and his genitals are pictured. His right leg is extended backward as if he is walking forward.  The second figure from the left, who may be female, faces forward but turns her head to the left, perhaps to touch the head of the figure beside her.  Her mouth is open.  With her raised left arm, she holds the right hand of the adult female figure.  Her right leg is bent and she may walk forward.</illusobjdesc>
+                    <illusobjdesc>
+                        A single male figure, identified as Joseph of Arimathea in the inscription top right, faces forward and stands on sandy and rocky ground. He has a long beard and turns his head to look down and to the left. He wears a short tunic or gown as well as a hood-like Phrygian cap with a pointed top that falls to the left. Both arms are bent at the elbow and crossed in front of his chest. With his right hand, the figure grasps his left arm just above the elbow; his left hand rests on his right forearm and he appears to touch his right upper arm with a partially extended index finger. He bends forward slightly. The figure's right leg is straight while his left is bent at the knee. Several small rocks are visible to the left of his right foot.  His left foot may rest on a rock behind him or he may be stepping or walking forward.  Shadows fall on the ground beneath him and at right. The rocky and sandy shore on which the figure stands extends behind him at right and appears to rise into a cliff. A body of water, no doubt the sea with waves, extends behind the figure and to the left. Sky is visible in the upper left corner where dark clouds appear above beams of sunlight, which may suggest sunrise or sunset.
+                    </illusobjdesc>
                     <component type="figure" location="E">
-                        <characteristic>female</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>male</characteristic>
                         <characteristic>standing</characteristic>
                         <characteristic>walking</characteristic>
-                        <characteristic>facing forward</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms crossed</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>finger</characteristic>
                         <characteristic>looking</characteristic>
-                        <characteristic>facing right</characteristic>
                         <characteristic>head down</characteristic>
-                        <characteristic>breasts</characteristic>
-                        <characteristic>arms at side</characteristic>
-                        <characteristic>hand holding</characteristic>
-                        <characteristic>touching</characteristic>
+                        <characteristic>bending forward</characteristic>
                         <characteristic>leg bent</characteristic>
-                        <characteristic>Charity</characteristic>
-                        <illusobjdesc>A nude female figure stands in the center of the composition flanked on both sides by a pair of nude children.  The central adult stands or walks facing forward with her head turned to the right and slightly down, looking toward the children.  She has long hair and prominent breasts. Both arms are by her sides and she holds the hand of the child closest to her on either side. Her right leg appears to be slightly bent and lifted, as if she is stepping or walking forward. This figure may be a personification of Charity.</illusobjdesc>
+                        <characteristic>Joseph of Arimathea</characteristic>
+                        <illusobjdes>A single male figure, identified as Joseph of Arimathea in the inscription top right, faces forward and stands on rocky and sandy ground in front of a body of water, no doubt the sea. He has a long beard and turns his head to look down and to the left. He wears a short tunic or gown as well as a hood-like Phrygian cap with a pointed top that falls to the left. Both arms are bent at the elbow and crossed in front of his chest. With his right hand, the figure grasps his left arm just above the elbow; his left hand rests on his right forearm and he appears to touch his right upper arm with a partially extended index finger. He bends forward slightly. The figure's right leg is straight while his left is bent at the knee.  His left foot may rest on a rock behind him or he may be stepping or walking forward.</illusobjdes>
                     </component>
-                    <component type="figure" location="BD">
-                        <characteristic>child</characteristic>
-                        <characteristic>female</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>walking</characteristic>
-                        <characteristic>facing forward</characteristic>
-                        <characteristic>long hair</characteristic>
-                        <characteristic>head up</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>arm bent</characteristic>
-                        <characteristic>embracing</characteristic>
-                        <characteristic>touching</characteristic>
-                        <characteristic>hand holding</characteristic>
-                        <characteristic>leg bent</characteristic>
-                        <illusobjdesc>The two nude children on the right side of the composition stand or walk facing forward.  The rightmost child appears to be female as she has long hair.  Her left arm (not clearly represented below the elbow) may be raised horizontally and bent in front of her chest while she embraces her companion's shoulders with her extended right arm.  She may touch the hand of the adult female figure with her right hand as well. Her right leg is slightly bent and lifted as if she is stepping forward.</illusobjdesc>
+                    <component type="object" location="CD">
+                        <characteristic>rock</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <illusobjdes>Several small rocks are visible to the left of the figure's right foot, and he appears to rest his left foot on a raised, flat rock.  Shadows fall on the ground beneath him and at right.</illusobjdes>
                     </component>
-                    <componet type="figure" location="BD">
-                        <characteristic>child</characteristic>
-                        <characteristic>male</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>walking</characteristic>
-                        <characteristic>facing forward</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>short hair</characteristic>
-                        <characteristic>head up</characteristic>
-                        <characteristic>looking</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>arm bent</characteristic>
-                        <characteristic>embracing</characteristic>
-                        <characteristic>touching</characteristic>
-                        <characteristic>hand holding</characteristic>
-                        <characteristic>leg extended backward</characteristic>
-                        <illusobjdesc>The two nude children on the right side of the composition stand or walk facing forward. The gender of the second child from the right is unclear, though he(?) appears to have short hair. He faces forward but turns his head up and to the left to look toward the adult figure whose hand he holds with his raised right arm. His left leg is extended behind him as if he is walking forward.</illusobjdesc>
-                    </componet>
-                    <component type="figure" location="C">
-                        <characteristic>child</characteristic>
-                        <characteristic>male</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>walking</characteristic>
-                        <characteristic>facing forward</characteristic>
-                        <characteristic>facing right</characteristic>
-                        <characteristic>twisting</characteristic>
-                        <characteristic>embracing</characteristic>
-                        <characteristic>curly hair</characteristic>
-                        <characteristic>genitals</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>touching</characteristic>
-                        <characteristic>leg extended backward</characteristic>
-                        <illusobjdesc>The two children on the left side of the composition embrace each other.  The leftmost male child faces forward but twists to the right to embrace his companion with his raised right arm.  He appears to have curly hair and his genitals are pictured. His right leg is extended backward as if he is walking forward.</illusobjdesc>
+                    <component type="object" location="E">
+                        <characteristic>rock</characteristic>
+                        <characteristic>cliff</characteristic>
+                        <characteristic>water</characteristic>
+                        <characteristic>sand</characteristic>
+                        <characteristic>shore</characteristic>
+                        <characteristic>sea</characteristic>
+                        <characteristic>waves</characteristic>
+                        <illusobjdes>The rocky and sandy shore on which the figure stands extends behind him at right and appears to rise into a cliff. The body of water, no doubt the sea with waves, extends behind the figure and to the left.</illusobjdes>
                     </component>
-                    <component type="figure" location="C">
-                        <characteristic>child</characteristic>
-                        <characteristic>female</characteristic>
-                        <characteristic>nude</characteristic>
-                        <characteristic>facing forward</characteristic>
-                        <characteristic>facing left</characteristic>
-                        <characteristic>embracing</characteristic>
-                        <characteristic>walking</characteristic>
-                        <characteristic>standing</characteristic>
-                        <characteristic>mouth open</characteristic>
-                        <characteristic>arm raised horizontally</characteristic>
-                        <characteristic>touching</characteristic>
-                        <characteristic>hand holding</characteristic>
-                        <characteristic>legs bent</characteristic>
-                        <illusobjdesc>The two children on the left side of the composition embrace each other.  The second figure from the left, who may be female, faces forward but turns her head to the left, perhaps to touch the head of the figure beside her.  Her mouth is open.  With her raised left arm, she holds the right hand of the adult female figure.  Her right leg is bent and she may walk forward.</illusobjdesc>
+                    <component type="object" location="A">
+                        <characteristic>sky</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <characteristic>dark</characteristic>
+                        <characteristic>sun</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <illusobjdes>The sky is visible in the upper left corner where dark clouds appear above beams of sunlight, which may suggest sunrise or sunset.  The beams of light are not present in the first state of the plate but were added in this second state.</illusobjdes>
                     </component>
                 </illustration>
             </illusdesc>
+            <phystext>         
+                <lg>
+                    <l n="esi.2-2d.spb.01.01" justify="left" indent="55">JOSEPH<note>This inscription, lines 1-3, is inscribed in the copperplate on a diagonal in the top right corner of the design.</note></l>
+                    <l n="esi.2-2d.spb.01.02" justify="left" indent="53">of Arimathea</l>
+                    <l n="esi.2-2d.spb.01.03" justify="left" indent="42">among The Rocks of Albion</l>
+                </lg>
+                <vspace  extent="30"/>
+                <lg>
+                    <l n="esi.2-2d.spb.01.04" justify="left" indent="15">Engraved by W Blake 1773 from an old Italian Drawing</l> 
+                    <l n="esi.2-2d.spb.01.05" justify="left" indent="1">This is One of the Gothic Artists who Built the Cathedrals in what we call the Dark Ages</l>
+                    <l n="esi.2-2d.spb.01.06" justify="left">Wandering about in sheep skins &#38; goat skins of whom the World was not worthy</l>
+                    <l n="esi.2-2d.spb.01.07" justify="left" indent="20">Michael Angelo Pinxit<space extent="10"/>such were the Christians</l>
+                    <l n="esi.2-2d.spb.01.08" justify="left" indent="53">in all Ages</l>
+                </lg>
+            </phystext>
         </desc>
     </objdesc>
 </bad>

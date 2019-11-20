@@ -1,0 +1,1399 @@
+<bad id="esxvi.4-4dd" type="spb" work="Chaucers Canterbury Pilgrims" copy="4" copyid="4" institution="essick" catalog="essickcat" catid="xvi.4-4dd">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Chaucers Canterbury Pilgrims">
+                    <main>
+                        Chaucers Canterbury Pilgrims</main>
+                    <copy> Copy 4</copy>: electronic edition
+
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of 
+
+Rochester;
+
+<name>Robert Essick, </name>University of California, Riverside; and
+
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+
+            </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+
+           and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 126KB; 2 JPEG (ISO/IEC
+
+10918) files ranging in size from 177KB to 2600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>November 2019</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+ <updatestmt>The William Blake Archive is pleased to announce the publication of nineteen separate prints designed and etched or engraved by Blake. The original works are housed in seven collections, including the Bodleian Library, British Museum, Robert N. Essick collection, Fitzwilliam Museum, Huntington Library, Art Collections, and Botanical Gardens, Museum of Fine Arts, Boston, and National Gallery of Art, Washington. These separate prints join two others, <hi rend="i">Deaths Door</hi> and <hi rend="i">George Cumberland’s Card</hi>, and four series of prints, all previously published, to complete this important category of Blake's endeavors as a printmaker.
+                <lb/>
+                <lb/> 
+The new group of nineteen includes Blake’s first separate engraving, <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, executed while still an apprentice, and two of his masterpieces in mixed-method etching/engraving, the large <hi rend="i">Job</hi> and <hi rend="i">Ezekiel</hi> plates. <hi rend="i">The Accusers of Theft Adultery Murder</hi>, <hi rend="i">Lucifer and the Pope in Hell</hi>, and <hi rend="i">Albion rose</hi> depict Blake's response to the political revolutions of the late eighteenth century. Blake printed these three, plus <hi rend="i">A Dream of Thiralatha</hi> and <hi rend="i">Joseph of Arimathea Preaching to the Inhabitants of Britain</hi>, in colors as part of his development of relief and planographic color printing in the mid-1790s. Other plates, ranging from <hi rend="i">The Approach of Doom</hi> to the <hi rend="i">Enoch</hi> lithograph and <hi rend="i">The Chaining of Orc</hi>, testify to Blake's lifelong experimentation with innovative graphic techniques. He produced <hi rend="i">Deaths Door</hi> and the <hi rend="i">Virgil Relief Etching</hi> as book illustrations but they were never published as such and exist only as unique, separate impressions. Introductions to each work offer information on medium, changes in state, dating, and subject. Blake’s <hi rend="i">Laocoön</hi> etching/engraving, sometimes considered a separate plate, is included among the Illuminated Books in the Archive.
+                <lb/>
+                <lb/> 
+Late in his career, c. 1820-25 or even extending into his final year, Blake returned to several of his earlier separate engravings, dramatically revising the interplay of darkness and light in their designs and adding new inscriptions on some plates that alter their meaning. These final states of <hi rend="i">Joseph of Arimathea among the Rocks of Albion</hi>, <hi rend="i">Job</hi>, <hi rend="i">Ezekiel</hi>, <hi rend="i">The Accusers</hi>, <hi rend="i">Albion rose</hi>, and Blake's largest and most ambitious print, <hi rend="i">Chaucers Canterbury Pilgrims</hi>, are included, along with extant earlier states. The publication of these and other multiple states and printings offer insights into Blake's development as a printmaker and changes in his thematic interests over several decades.
+                <lb/>
+                <lb/> 
+                As always, the William Blake Archive is a free site, imposing no access
+                restrictions and charging no subscription fees. The site is made possible by the
+                University of North Carolina at Chapel Hill with the University of Rochester, the
+                continuing support of the Library of Congress, and the cooperation of the
+                international array of libraries and museums that have generously given us
+                permission to reproduce works from their collections in the Archive. </updatestmt>           
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2019</date> by Morris Eaves, Robert N. Essick,
+
+and Joseph Viscomi, all rights reserved. Items in the Archive may be
+
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+
+Redistribution or republication on other terms, in any medium, requires
+
+express written consent from the editors and advance notification of the
+
+publisher.
+
+Permission to reproduce the graphic images in this archive has been
+
+granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+
+         This image copyright © 2019 William Blake Archive
+
+         <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2019</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name> University of Rochester; <name>Robert Essick,</name>
+                    University of California, Riverside; and <name>Joseph Viscomi,</name> University
+                    of North Carolina at Chapel Hill <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Ani Govjian,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Joey Kingsley,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Matthew Skwiat,</name>
+                    <name>Marcie Woehl,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Kendall DeBoer,</name>
+                    <name>Helen Davies</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation</change>
+                <date>February 2018</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester; <name>Robert
+                    Essick,</name>University of California, Riverside; and <name>Joseph
+                        Viscomi,</name>University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor:</resp>
+<name>Michael Fox</name>
+<resp>Managing Editor:</resp>
+<name>Joseph Fletcher</name>
+<resp>Assistant Project Manager:</resp>
+<name>Grant Glass</name>
+<resp>Project Coordinator, University of Rochester:</resp>
+<name>Eric Loy</name>
+<resp>Consultants on Special Projects:</resp>
+<name>Ashley Reed</name>
+<name>Nikolaus Wasmoen</name>
+<name>Laura Whitebell</name>
+<resp>Bibliographer:</resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants:</resp>
+<name>Anna Alden,</name>
+<name>Katherine Calvin,</name>
+<name>Patrick Delehanty,</name>
+<name>Alison Harper,</name>
+<name>Jarrod Ingles,</name>
+<name>Rachael Isom,</name>
+<name>Joel Kingsley,</name>
+<name>Mary Learner,</name>
+<name>Rob Rich,</name>
+<name>Oishani Sengupta,</name>
+<name>Matthew Skwiat,</name>
+<name>Lisa Vandenbossche</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>March 2017</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor:</resp>
+<name>Michael Fox</name>
+<resp>Managing Editor:</resp>
+<name>Joseph Fletcher</name>
+<resp>Assistant Project Manager:</resp>
+<name>Grant Glass</name>
+<resp>
+Project Coordinator, University of Rochester:
+</resp>
+<name>Eric Loy</name>
+<resp>Consultants on Special Projects:</resp>
+<name>Ashley Reed</name>
+<resp>Bibliographer:</resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants:</resp>
+<name>Anna Alden,</name>
+<name>Katherine Calvin,</name>
+<name>Patrick Delehanty,</name>
+<name>Adam Engel,</name>
+<name>Alison Harper,</name>
+<name>Jarrod Ingles,</name>
+<name>Rachael Isom,</name>
+<name>Joel Kingsley,</name>
+<name>Mary Learner,</name>
+<name>Adam McCune,</name>
+<name>Rob Rich,</name>
+<name>Oishani Sengupta,</name>
+<name>Matthew Skwiat,</name>
+<name>Lisa Vandenbossche</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        *Chaucers Canterbury Pilgrims*
+                    </title>
+                </objtitle>
+                <origination>William Blake<role>inventor, </role><role>delineator, </role><role>etcher, </role><role>engraver, </role>
+                    <role>printer</role>
+                </origination>
+                <origination>Catherine Blake<role>printer</role>
+                </origination>
+                
+                <compdate value="1810.A">1810</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1820.A">c. 1820-25<note>The good printing of the scratched inscriptions, added in this fourth state left and right of the title, and the burr on some letters indicate that this is one of the first impressions printed after the conversion of the third state of the plate into its fourth state.</note></printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>33.4 x 93.7 cm.</objsize>
+                <platemark>This impression is trimmed on or within the platemark on all four side.</platemark>
+                <numberleaves>1</numberleaves>
+                <leafsize>35.8 x 96.0 cm.</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>none</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Robert N. Essick</name>
+                <date>2009</date>
+                <dealer>John Windle</dealer>
+                <price>&#163;14,400</price>
+                <note>Early history unknown; sold Bonham's auction, London, 15 Dec. 2009, lot 59 (&#163;14,400 to the dealer John Windle acting for Robert N. Essick).</note>
+            </provenance>
+            <repository>
+                <institution>Collection of Robert N. Essick</institution>
+            </repository>
+        </source>
+        <desc id="esxvi.4-4dd.spb.01" dbi="ESXVI.4-4DD.1.SP">
+            <objtitle>
+                <title type="transcribed">Chaucers Canterbury Pilgrims</title>,
+<objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="ESXVI">(Essick ESXVI)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objnote><p>This impression is in the fourth state of four or five, with drypoint inscriptions added left and right of the title. Blake has dramatically increased the contrasts between light and dark passages in this fourth state by the use of both his engraving tools and his burnisher. The only difference between this fourth state and the fifth state is the disappearance of the scratched inscriptions left and right of the title. These may have simply worn off the plate rather than being removed by purposeful action. If that is indeed the case, then the so-called "fifth" state is not a true "state" as usually defined but simply later impressions of the fourth state.</p></objnote>
+                <objsize>33.4 x 93.7 cm.</objsize>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The engraving, after Blake's painting <hi rend="i">Sir Jeffery Chaucer and the nine and twenty Pilgrims on their journey to Canterbury</hi> (Butlin 653), depicts the thirty pilgrims departing Canterbury on horseback, eight bystanders and several other animals in the foreground, and a sprawling landscape view of the English countryside in the background. All of the riders are identified by name in the inscription below the composition. The last rider in the procession at the far left, the Reeve, has short hair and may smile. His right arm is at his side, bent, and rests on his lap. The second pilgrim from the left, Chaucer, faces forward and right. He wears a head covering that falls just past his shoulders and appears to be made of a light textile. He wears a gown with lace detailing and shoes with a low, flat heel and prominent spurs. He rides a dark horse who holds its left front leg up at a right angle with the ground. In his left hand, which is gloved, Chaucer holds the horse’s reins and perhaps the glove missing from his right hand, in which he holds a string of beads, perhaps rosary beads. A circular pillow or blanket is rolled up behind his back. The third pilgrim from the left, the Clerk of Oxenford, has long hair visible beneath a square hat similar to a mortarboard. Wide-eyed, he stares directly forward and to the right. He has sparse dark facial hair in a mustache and small goatee. The fourth pilgrim from the left, the Cook, rides in the background so that only his upper torso, head, and raised hands are visible. He tilts back his head to drink from the frothy beverage, perhaps a beer, that he raises to his lips with his left hand. He wears a white cloth head covering that is tied with a dark ribbon above his forehead, and no hair is visible beneath the hat. His mouth is open. The fifth pilgrim from the left, the Miller, is one of the few pilgrims shown with noticeably dark skin. He turns to face forward. His hair is short and curly, and he has a beard and mustache. With his raised right hand, he holds a horn or pipe to his lips, and the shaft appears to extend both downward in front of him and rises again into a horn behind his left shoulder.  This may be a bagpipe. He wears a collared shirt or coat clasped below his neck with a single button. The sixth pilgrim from the left, the Wife of Bath, rides sidesaddle with her whole body facing forward with knees bent and spread. She turns to look slightly right. She wears several layers of coverings and hats, including a knitted bonnet that covers her hair (although some curls may escape at the sides) and two elaborate hoods, one of which bends forward to touch the crown of her forehead. A pointed triangle stands erect on the outermost collar or hat and may indicate a hood. She smiles with an open mouth and her teeth are visible. She wears earrings and three strands of pearls; the middle strand supports a cross and the longest strand has a heart-shaped ornament in the middle. Her breasts, with visible nipples, swell out of her gown. The garment also includes a spiky collar. She wears gloves and stockings cover her legs. A heavily patterned blanket with fringe is visible over her lap. She wears heels, and her right shoe includes a prominent spiked spur. Her right arm is bent at a right angle and in her right hand, she holds a stemmed glass filled with a dark liquid, perhaps wine. The horse’s reins, which are decorated with small bells, dangle over her left hand, which may also hold another long cylindrical object, maybe a riding crop, that is decorated with an animal head, possibly that of a bird. The seventh rider from the left, the Merchant, faces forward and turns his head slightly left, as if to look toward the Wife of Bath. He wears a hat and appears to have short hair with a beard. The eighth pilgrim from the left, the Parson, faces right and rides forward. His hair and beard are long, and he wears a hat, gown, and laced shoes.  The ninth pilgrim from the left, the Man of Law, sits facing right but tilts his shoulders and head to face the viewer in three-quarter view. He has short hair, a mustache, and a beard and wears a triangular hat with two distinct layers. Two tassels dangle from his hat behind his head. The tenth pilgrim from the left, the Plowman, rides to and faces to the right. His skin appears to be tanned. He wears a woven hat with a wide, loose brim over medium-length hair. He wears a simple shirt with a single button in the center. Two veins protrude prominently on the right side of his neck. The Plowman rides a light-colored horse that appears haggard from overwork. The eleventh rider from the left, the Physician, faces right and forward. He is the leftmost figure in a closely spaced group of four pilgrims. He has a mustache and beard. He wears a fur-trimmed cylindrical hat that covers his ears. His overcoat also has fur trim and his shirt underneath has a collar. The twelfth rider from the left, the Franklin, is also the second figure from the left in a closely spaced group of four pilgrims. The Franklin’s hair appears to be short and he has a large beard and a mustache. He wears a hat with a dark, rounded top with a large jewel in the front topped by two white curved feathers. His left arm is bent upward, and he holds the reins in a gloved hand in front of his chest. The thirteenth and fourteenth riders from the left are the two citizens. Both citizens wear identical hats that have rounded tops and upturned brims with a large semi-circular opening in the front middle; each wears a shirt with a high collar. They both have beards and mustaches. The fifteenth figure from the left, the Shipman, is one of the only figures who twists his body nearly 180 degrees to look behind him, to the left. The shipman’s complexion is dark and he appears to frown. He rests his left hand on the rump of his horse and leans to the left. The sixteenth pilgrim from the left, the Host (named Harry Bailey in the poem), commands attention due to his central placement, hefty size, and grandiose gesture. He twists his torso to face forward and raises his arms horizontally with slightly bent elbows in a cruciform posture. The seventeenth pilgrim from the left, the Summoner or "Sompnour," turns his torso to face the viewer (and the Pardoner) in three-quarter view. His complexion is dark and he has a thin beard. He wears what appears to be a floral wreath or garland on his head, which obscures his hair. A similar garland-like accoutrement hangs low around his neck, although this may also be trim on his coat.  Only visible above the shoulders, the Manciple, is the eighteenth pilgrim from the left, and he rides in the background of the composition. He turns his neck sharply to look to the right and slightly behind him, and he tilts his chin and gazes up. His hair is short and he has a beard. He wears a small, circular hat with vertical stripes; at least two feathers rise from the back of the hat. The collar of the Manciple's shirt is barely visible behind the Summoner. The nineteenth figure from the left, the Pardoner, rides to the right in the foreground but twists his torso to the left so that his face is rendered in a left profile. He may look toward the Host behind him. He has long hair and wears a hat with a dark band around the base and a long trailing hood that falls over his right shoulder. His gown is unadorned except for the large decorative cross that covers the entire backside of the garment. The eleventh pilgrim from the right side of the composition, the Monk, stares directly ahead to the right. The majority of his body is obscured by the Pardoner’s horse, but his head, with tonsured curly hair, is visible. Like the Friar beside him, the Monk wears a dark habit with a circular hood that stands stiff against his back. The tenth pilgrim from the right, the Friar, turns to look toward the monk at whom he points with his left hand. His hair is also tonsured and he wears a circular hood that stands stiffly behind his head and neck. The ninth rider from the right, a male citizen, rides facing right behind the Monk and Friar. Only his head and shoulders are visible. He wears a hat with upturned side brims and has medium-length, shaggy hair as well as a beard and mustache. The eighth pilgrim from the right, the Lady Abbess, faces forward and right while riding sidesaddle with her legs on the left side of her horse. In her left hand she holds her horse’s reins and with her right grasps the shaft of a long, thin riding crop, which dangles to the right of her horse. Rosary beads fastened with a ribbon tied into two bows, a circular medallion with the words “Amor Vincit Omnia,” and a cross dangle from her right wrist. The Lady Abbess’ horse has a vibrantly flowing, flame-like mane and it picks up its left front and back right hoofs. Its body is draped with a net or veil-like covering. The seventh pilgrim from the right, the Nun, rides to the left of the Lady Abbess and turns her head to the right to look directly out at the viewer. She has a round face with thick curly hair, and her neck is completely covered by a white wimple. Like the Lady Abbess, she wears a black veil. The group of three priests constitute the fourth, fifth, and sixth riders from the right side of the composition. The third pilgrim from the right, the Squire’s Yeoman, faces right but turns his head to look out at the viewer, tilting his head slightly back. His complexion is darker than the majority of the pilgrims. In his right hand he holds a large bow that extends upward in a serpentine curve far above his head. The feathered tail of at least one arrow is visible in the crook of his right arm. The second pilgrim from the right, the Knight, rides in the foreground and twists his torso to the right so that his chest faces the viewer. The chain mail encircling his head and neck connects to a breastplate that comes to a point below his sternum below which another layer of chain mail extends over his hips and down his arms. A necklace or sash adorned with a cross is visible in front of his upper chest; another decorated sash crosses his torso diagonally down to his left hip. A large black dog walks to the right below the Knight's horse. The first pilgrim leading the party forward on the right side of the composition, the Squire, sits taller than his companions (with the added height of his hat’s plumes) and turns his shoulders to the right to face the viewer. He has short curly hair and wears a collar, perhaps made of lace, and a decorated overcoat that is clasped in the middle of his chest with a single button. The Squire's horse is the most active of the animals in the procession, raising both of its front legs off the ground in a dramatic gallop forward. The animal turns its head to the right to look directly at the viewer with wide, dark eyes and dramatically flared nostrils. A group of six figures—one adult male, one adult female holding an infant, and three standing children that collectively may represent a family group—gather together in the lower left corner of the engraving. In addition to the family group at far left, there are two other figures in the foreground who are not part of the main procession of pilgrims. The leftmost of these (below and to the right of Chaucer and his horse) walks right and faces away, looking up toward the pilgrims; the rightmost figure (below the Franklin) stands facing left in a contrapposto stance and carries a pitcher and keg or barrel. The largest architectural component of the composition is the Tabard Inn at far left. The pilgrims emerge from a wide portal door topped with a pointed arch supported with columns presumably on both sides, though only the leftmost is visible. The gable and both spandrels above the portal contain legible text identifying both the building and the subject of the overall engraving. The facade is decorated with many elements characteristic of Gothic cathedrals as well as sculpted figures. A portion of the Tabard Inn's interior is visible through the open portal and is decorated with wide arched windows separated by columns, with the central column being topped with a sculpted figure with folded arms. In addition to the large Tabard Inn at left, several other structures are visible throughout the background of the composition. Many buildings, many of which have spires and arches, are visible behind a hedge and to the right of the portal through which the pilgrims walk at left. A crenelated wall stands in front of the city, which may represent London, the pilgrims' city of origin. Additional structures that may be houses, barns, and distant cities are visible throughout the background landscape. Four black birds and two white birds fly in the sky near the upper left corner of the composition while three additional white birds, possibly doves, sit on the right side of the roof of the Tabard Inn. Several groups of tiny figures populate the landscape that extends behind the main riders. The ground beneath the pilgrims along the lower edge of the composition may be a road or path and appears to be composed of packed earth with many small stones.  The horse's hoofs kick up columns of dust. Behind the procession of pilgrims, rolling hills covered in grass extend to the horizon. A row of leafy trees or hedges is visible in the middleground while additional areas of leafy, though indeterminate, vegetation can be seen throughout the composition. Clouds and one star are visible in the left part of the sky. Diagonal beams of light or radiance extend from the lower right corner of the sky, perhaps suggesting a rising sun in the east as the pilgrims depart in the morning.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>smile</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>saddle</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Reeve</characteristic>
+                        <illusobjdesc>The last rider in the procession at the far left, the Reeve, has short hair and closed lips that may be turned slightly into a smile (though the expression is somewhat ambiguous). He looks forward following the procession of pilgrims to the right. He wears a vertically striped garment with a prominent cylindrical collar, which may alternatively be a hood. His right arm is at his side, bent, and rests on his lap. He is framed by the architectural portal in a Gothic style. His saddle is visible, though most of his horse's body is obscured.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>veil</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>stockings</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm on lap</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>glove</characteristic>
+                        <characteristic>rein</characteristic>
+                        <characteristic>beads</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>blanket</characteristic>
+                        <characteristic>saddle</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Chaucer</characteristic>
+                        <characteristic>spur</characteristic>
+                        <illusobjdesc>The second pilgrim from the left, Chaucer, faces forward and right. He wears a head covering and has a beard. He wears a gown with lace detailing on the collar, bottom hem, and edges of the sleeves. He wears stockings and shoes with a low, flat heel and prominent spurs. He rides a dark horse who holds its left front leg up at a right angle with the ground. In his left hand, which is gloved and bent upward, Chaucer holds the horse’s reins and perhaps the glove missing from his right hand. His right arm is bent and rests in his lap; in his right hand, he holds a string of beads, perhaps rosary beads. A circular pillow or blanket is rolled up behind his back and a saddle is visible beneath him.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AC">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <illusobjdesc>The second pilgrim from the left, Chaucer, rides a dark horse who stands or walks to the right. Its left front leg is drawn up and its mouth is open.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Clerk of Oxenford</characteristic>
+                        <illusobjdesc>The third pilgrim from the left, the Clerk of Oxenford, has long hair visible beneath a square hat similar to a mortarboard. Wide-eyed, he stares directly forward and to the right. He has sparse dark facial hair in a mustache and small goatee. His garment has lace detail around the collar. The majority of his lower body is obscured by the horse that Chaucer rides. The Clerk’s horse is lighter in color and appears more haggard, though it also raises its right forward leg prominently.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AC">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>rein</characteristic>
+                        <illusobjdesc>The third pilgrim from the left, the Clerk of Oxenford, rides a light-colored horse who faces right and draws its front leg upward. The horse's reins are visible to the right of its neck.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>drinking</characteristic>
+                        <characteristic>foam</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>cup</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Cook</characteristic>
+                        <illusobjdesc>The fourth pilgrim from the left, the Cook, rides in the background so that only his upper torso, head, and raised hands are visible. Facing right in profile, the cook tilts back his head to drink from the frothy beverage, perhaps a beer, that he raises to his lips with his left hand. His right hand is raised to support the glass. He wears a white cloth head covering that is tied with a dark ribbon above his forehead, and no hair is visible beneath the hat. His mouth is open. Although most of his attire is obscured by the other pilgrims, he wears a garment with a moderately tall collar and the ends of his sleeves are ruffled, perhaps with lace.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>dark-skinned</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>pipe</characteristic>
+                        <characteristic>bagpipe</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Miller</characteristic>
+                        <illusobjdesc>The fifth pilgrim from the left, the Miller, is one of the few pilgrims shown with noticeably dark skin. He turns to face forward. His hair is short and curly, and he has a beard and mustache. With his raised right hand, he holds a pipe or horn to his lips, and the shaft appears to extend both downward in front of him and rises again into a horn behind his left shoulder.  This may be a bagpipe. He wears a collared shirt or coat clasped below his neck with a single button.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>jewelry</characteristic>
+                        <characteristic>necklace</characteristic>
+                        <characteristic>pearl</characteristic>
+                        <characteristic>earring</characteristic>
+                        <characteristic>cross</characteristic>
+                        <characteristic>smiling</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>teeth</characteristic>
+                        <characteristic>glove</characteristic>
+                        <characteristic>stockings</characteristic>
+                        <characteristic>breast</characteristic>
+                        <characteristic>blanket</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>glass</characteristic>
+                        <characteristic>wine</characteristic>
+                        <characteristic>rein</characteristic>
+                        <characteristic>bell</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>bird</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Wife of Bath</characteristic>
+                        <characteristic>spur</characteristic>
+                        <illusobjdesc>The sixth pilgrim from the left, the Wife of Bath, rides sidesaddle with her whole body facing forward with knees bent and spread. She turns to look slightly right. She wears several layers of coverings and hats, including a knitted bonnet that covers her hair (although some curls may escape at the sides) and two elaborate hoods, one of which bends forward to touch the crown of her forehead. A pointed triangle stands erect on the outermost collar or hat and may indicate a hood. She smiles with an open mouth and her teeth are visible. She wears earrings and three strands of pearls; the middle strand supports a cross and the longest strand has a heart-shaped ornament in the middle. Her breasts, with visible nipples, swell out of her gown. The garment also includes a spiky collar. She wears gloves and stockings cover her legs. A heavily patterned blanket with fringe is visible over her lap. She wears heels, and her right shoe includes a prominent spiked spur. Her right arm is bent at a right angle and in her right hand, she holds a stemmed glass filled with a dark liquid, perhaps wine. The horse’s reins, which are decorated with small bells, dangle over her left hand, which may also hold another long cylindrical object, maybe a riding crop, that is decorated with an animal head, perhaps that of a bird.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AC">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>bell</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>bow</characteristic>
+                        <characteristic>rein</characteristic>
+                        <illusobjdesc>The sixth pilgrim from the left, the Wife of Bath, rides a horse sidesaddle. The horse, who faces right, is largely obscured by other figures and animals. The horse's mane and its reins are decorated with bells and ribbon bows.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Merchant</characteristic>
+                        <illusobjdesc>The seventh rider from the left, the Merchant, faces forward and turns his head slightly left, as if to look toward the Wife of Bath. He wears a hat and appears to have short hair with a beard. Only his upper torso is visible, but his overcoat appears to have a stiff collar and covers a shirt. Part of his horse’s head, which is also facing forward, may be visible to the right of the parson.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AC">
+                        <characteristic>horse</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>Only part of the head of the Merchant's horse may be visible to the right of the parson, the eighth pilgrim from the left. The horse faces right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>reins</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Parson</characteristic>
+                        <illusobjdesc>The eighth pilgrim from the left, the Parson, faces right and rides forward. His hair and beard are long, and he wears a hat, gown, and laced shoes. His right arm is at his side and bent to rest on his right leg. He holds the reins of his horse with his right hand.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AC">
+                        <characteristic>horse</characteristic>
+                        <characteristic>saddle</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>walking</characteristic>
+                        <illusobjdesc>Geared in a simple saddle and bridle, the Parson’s horse is light in color with shaggy hair and a short tail; it lifts its back left hoof and front right hoof, both of which have distinct metal shoes. The horse’s ears are turned back and its eyes heavily lidded.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>tassel</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Man of Law</characteristic>
+                        <illusobjdesc>The ninth pilgrim from the left, the Man of Law, sits facing right but tilts his shoulders and head to face the viewer in three-quarter view. He has short hair, a mustache, and a beard and wears a triangular hat with two distinct layers. Two tassels dangle from his hat behind his head. He appears to wear several layers of clothes, including an overcoat with split sleeves, a shirt, and what may be a short collar. Although the Parson’s horse obscures the majority of his lower body, the Man of Law’s bent right knee and leg are visible by his horse’s side.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AC">
+                        <characteristic>horse</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>rein</characteristic>
+                        <illusobjdesc>The Man of Law's horse has dark, open eyes and a dark coat with perky ears; its mouth is open. The animal’s bit and reins are simple and unadorned.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>veins</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Plowman</characteristic>
+                        <characteristic>Blake, William</characteristic>
+                        <illusobjdesc>The tenth pilgrim from the left, the Plowman, rides to and faces to the right. His skin appears to be tanned. He wears a woven hat with a wide, loose brim over medium-length hair. He wears a simple shirt with a single button in the center. Two veins protrude prominently on the right side of his neck.  This figure may be a modified self-portrait of Blake, for he too "plows" (in copper, as an engraver).</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AC">
+                        <characteristic>horse</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>The Plowman rides a light-colored horse that appears haggard from overwork—the animal’s ears fall to the side, its mouth is slackly open, and it has heavily lidded eyes. The horse turns its head limply to the right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>fur</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Physician</characteristic>
+                        <illusobjdesc>The eleventh rider from the left, the Physician, faces right and forward. He is the leftmost figure in a closely spaced group of four pilgrims. He has a mustache and beard. He wears a fur-trimmed cylindrical hat that covers his ears. His overcoat also has fur trim and his shirt underneath has a collar.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AC">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>rein</characteristic>
+                        <illusobjdesc>The Physician rides a darkish horse that turns its head to the right in the direction of the horses at left. The horse’s reigns appear to be decorated, which aligns with the opulence of the Physician’s attire.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>jewelry</characteristic>
+                        <characteristic>feather</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>glove</characteristic>
+                        <characteristic>rein</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Franklin</characteristic>
+                        <illusobjdesc>The twelfth rider from the left, the Franklin, is also the second figure from the left in a closely spaced group of four pilgrims. Though his horse is not visible, he rides immediately behind the Physician; thus, only his head and left side torso can be seen. The Franklin’s hair appears to be short and he has a large beard and a mustache. His head is up and his eyes are raised. He wears a hat with a dark, rounded top with a large jewel in the front topped by two white curved feathers. His left arm is bent upward, and he holds the reins in a gloved hand in front of his chest. His garment, perhaps a shirt or coat, appears to be decorated with an intricate pattern.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>teeth</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>citizen</characteristic>
+                        <illusobjdesc>The thirteenth and fourteenth riders from the left, who are also the pair composing the rightmost figures in the small group of four pilgrims, are the two citizens. They ride in the background of the composition, and only their heads and very upper torsos are visible. Both citizens wear identical hats that have rounded tops and upturned brims with a large semi-circular opening in the front middle. They both have beards and mustaches. The citizen on the left looks in front of him to the right. His mouth is open and his teeth may be visible. The collar of his shirt is prominent.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>citizen</characteristic>
+                        <illusobjdesc>The thirteenth and fourteenth riders from the left, who are also the pair composing the rightmost figures in the small group of four pilgrims, are the two citizens. They ride in the background of the composition, and only their heads and very upper torsos are visible. Both citizens wear identical hats that have rounded tops and upturned brims with a large semi-circular opening in the front middle. They both have beards and mustaches. At right, the second citizen wears a coat with a similarly high collar that has two buttons on the left side. Unlike his companion, this citizen turns to look to his right, staring past the other pilgrims directly out toward the viewer.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>dark-skinned</characteristic>
+                        <characteristic>frowning</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>fur</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>hand resting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Shipman</characteristic>
+                        <illusobjdesc>The fifteenth figure from the left, the Shipman, is one of the only figures who twists his body nearly 180 degrees to look behind him, to the left. The Shipman’s complexion is dark, perhaps deeply tanned from outdoor labor, and he appears to frown. He wears a fur-trimmed hat and a long-sleeved shirt with three buttons visible near his left wrist. He rests his left hand on the rump of his horse and leans to the left. His right arm is extended to the right, perhaps holding the reins, which are out of view.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="AC">
+                        <characteristic>horse</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <illusobjdesc>Three of four legs of the Shipman's horse are visible below the belly of the Host’s horse. One of its front hoofs is lifted as the horse walks forward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>palms facing viewer</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>jewelry</characteristic>
+                        <characteristic>feather</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>ruff</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>belt</characteristic>
+                        <characteristic>sword</characteristic>
+                        <characteristic>dagger</characteristic>
+                        <characteristic>blanket</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>whip</characteristic>
+                        <characteristic>rein</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Host</characteristic>
+                        <characteristic>Bailey, Harry</characteristic>
+                        <characteristic>spur</characteristic>
+                        <illusobjdesc>The sixteenth pilgrim from the left, the Host (named Harry Bailey in the poem), commands attention due to his central placement, hefty size, and grandiose gesture. He twists his torso to face forward and raises his arms horizontally with slightly bent elbows in a cruciform posture. His palms face forward. He wears a hat similar to the Franklin’s that is round with a large central jewel with two tall feathers. His hair, visible beneath his hat, is short and curly. His long-sleeved garment is incredibly tight, highlighting his portliness, especially in his midsection. He wears a wide ruffled collar. At least four clasps and a belt, from which a sword or dagger hangs, hold the garment together as he reclines against a rolled blanket or cylindrical pillow similar to the one used by Chaucer. A riding boot with a prominent spur rises up to his right knee. In his right hand, the Host brandishes a lengthy whip or riding crop; in his left, he grasps his horse’s reins between his thumb and palm.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="E">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>saddle</characteristic>
+                        <characteristic>rein</characteristic>
+                        <illusobjdesc>The Host rides a dark horse, and the equestrian equipment he uses is simple. The horse's mouth may be open and it lifts only its rear left foot slightly off the ground.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>dark-skinned</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>garland</characteristic>
+                        <characteristic>necklace</characteristic>
+                        <characteristic>fur</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Summoner</characteristic>
+                        <characteristic>Sompnour</characteristic>
+                        <characteristic>shepherd's crook</characteristic>
+                        <illusobjdesc>The seventeenth pilgrim from the left, the Summoner or "Sompnour," turns his torso to face the viewer (and look toward the Pardoner) in three-quarter view. His complexion is dark and he has a thin beard. He wears what appears to be a floral wreath or garland on his head, which obscures his hair. A similar garland-like accoutrement hangs low around his neck, although this may also be fur trim on his coat. His right arm is bent in a right angle at the elbow and he reaches toward the body of the Pardoner. His fingers extend and disappear behind the Pardoner’s waist. In this hand, he may also hold a shepherd's crook.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>horse</characteristic>
+                        <illusobjdesc>Only the rump of the Summoner's horse is visible immediately behind the rider's back.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>shoulders</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>feather</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Manciple</characteristic>
+                        <illusobjdesc>Only visible above the shoulders, the Manciple, is the eighteenth pilgrim from the left, and he rides in the background of the composition. He turns his neck sharply to look to the right and slightly behind him, and he tilts his chin and gazes up. His hair is short and he has a beard. He wears a small, circular hat with vertical stripes; at least two feathers rise from the back of the hat. The collar of the Manciple's shirt is barely visible behind the Summoner.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>earring</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cross</characteristic>
+                        <characteristic>glove</characteristic>
+                        <characteristic>hand resting</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>bag</characteristic>
+                        <characteristic>belt</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Pardoner</characteristic>
+                        <illusobjdesc>The nineteenth figure from the left, the Pardoner, rides to the right in the foreground but twists his torso to the left so that his face is rendered in a left profile. He may look toward the Host behind him. He has long hair and wears a hat with a dark band around the base and a long trailing hood that falls over his right shoulder. He wears an earring in his left ear. His gown is unadorned except for the large decorative cross that covers the entire backside of the garment. He also wears intricately patterned gloves, placing his left hand on his horse’s haunches and holding a large jeweled crucifix out with his right hand. A loose bag also decorated with a cross is worn over his left shoulder, and a belt circles his waist. His gown falls in folds above his right foot, on which he wears a shoe with an upward curving pointed toe, small heel, and prominent spur. His right leg is bent.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>horse</characteristic>
+                        <characteristic>cross</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>flame-like hair</characteristic>
+                        <characteristic>mane</characteristic>
+                        <illusobjdesc>The Pardoner rides a dark horse that is also adorned with a cross on its bridle. Twisting to the right in the opposite direction of its rider, the horse bends its head forward and down, perhaps trying to grasp the bit, which has become slack as the Pardoner does not hold the reins as the other pilgrims do. The horse’s mane is flame-like, and it is the only animal to be shown with all four hoofs on the ground, completely stopped.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>rein</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Monk</characteristic>
+                        <illusobjdesc>The eleventh pilgrim from the right side of the composition, the Monk stares directly ahead to the right. The majority of his body is obscured by the Pardoner’s horse, but his head, with tonsured curly hair, is visible. His eyes are raised. Like the Friar beside him, the Monk wears a dark habit with a circular hood that stands stiff against his back. He bends his left arm upward to his chest and holds his horse’s reins in his left hand.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>horse</characteristic>
+                        <characteristic>mane</characteristic>
+                        <characteristic>bell</characteristic>
+                        <illusobjdesc>The Monk's horse is obscured all except for a small portion of its dark mane, which may have bells braided in it.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Friar</characteristic>
+                        <illusobjdesc>The tenth pilgrim from the right, the Friar, turns to his right to face forward, looking slightly behind him in the direction of the Monk beside him. Only his shoulders and head are visible behind the neck of the Monk’s horse. Like the Monk, his hair is tonsured and he wears a circular hood that stands stiffly behind his head and neck. His left hand is visible directly above the mane of the Monk’s horse, and the Friar points toward the monk at left with his index finger.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>shoulders</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>citizen</characteristic>
+                        <illusobjdesc>The ninth rider from the right, a male citizen, rides facing right behind the monk and friar. Only his head and shoulders are visible. He wears a hat with upturned side brims and has medium-length, shaggy hair as well as a beard and mustache. His garment, similar to the attire of the other two citizens at left, has a tall collar.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>cross</characteristic>
+                        <characteristic>veil</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>glove</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>rein</characteristic>
+                        <characteristic>whip</characteristic>
+                        <characteristic>beads</characteristic>
+                        <characteristic>jewelry</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>bow</characteristic>
+                        <characteristic>medal</characteristic>
+                        <characteristic>inscription</characteristic>
+                        <characteristic>text</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Lady Abbess</characteristic>
+                        <illusobjdesc>The eighth pilgrim from the right, the Lady Abbess, faces forward and right while riding sidesaddle with her legs on the left side of her horse. She has long hair and wears a cross on the crown of her head, which is covered by the black veil. She wears a gown or habit that is light-colored at top and dark below. Her arms are bent and at her sides, and she wears minimally decorated gloves. In her left hand she holds her horse’s reins and with her right grasps the shaft of a long, thin riding crop, which dangles to the right of her horse. Rosary beads fastened with a ribbon tied into two bows, a circular medallion with the words, “Amor Vincit Omnia,” and another cross dangle from her right wrist.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>flame-like hair</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>saddle</characteristic>
+                        <characteristic>blanket</characteristic>
+                        <characteristic>net</characteristic>
+                        <characteristic>rein</characteristic>
+                        <characteristic>jewelry</characteristic>
+                        <illusobjdesc>Like the Pardoner’s horse behind it, the Lady Abbess’ horse has a vibrantly flowing, flame-like mane over a thick neck twisted slightly to the right in a serpentine curve. Echoing the femininity of its rider, the horse has wide, glistening eyes and noticeable thick eyelashes. Its mouth appears to be open and it picks up its left front and back right hoofs. The Lady Abbess rides in a dark saddle over at least two decorated pads or blankets. Her horse’s body is draped with a net or veil-like covering, and its reins are also draped with additional material. The top of the bridle forms an embellished triangle or diamond shape around the animal’s two upright ears.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="D">
+                        <characteristic>dog</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>jumping</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Beneath the Lady Abbess's horse, two greyhounds are visible. The closer dog strides forward, and the second jumps upward, pawing at the belly of the horse and looking with head up toward the Lady Abbess. Present in Chaucer’s original texts, these dogs also link the Lady Abbess with the mythological Diana.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>veil</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>glove</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>palm out</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Nun</characteristic>
+                        <illusobjdesc>The seventh pilgrim from the right, the Nun, rides to the left of the Lady Abbess and turns her head to the right to look directly out at the viewer. Appearing much older than her female companion, the Nun has a round face with thick curly hair. Her neck is completely covered by a white wimple that is also slightly visible near the crown of her head. Like the Lady Abbess, she wears a black veil, which also covers her shoulders and clasps with a button in the middle of her chest. The portion of her torso that is visible is clothed in a light-colored garment, and a long, decorated glove covers her right hand, with which she gestures in the direction of the three priests riding to her left.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>ear</characteristic>
+                        <illusobjdesc>The head of the Nun's horse is visible immediately in front of the Lady Abbess’ horse. Like its rider, the horse turns its head to the right to look out with wide eyes at the viewer; its ears are pressed back against its head, and its nostrils are flared.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>priest</characteristic>
+                        <illusobjdesc>The group of three priests constitute the fourth, fifth, and sixth riders from the right side of the composition. The leftmost figure in the group of three, the priest closest to the viewer rides immediately to the left of the Nun, who gestures toward him with her right hand. He is shown in three-quarter view and looks up and slightly to the right. His head is round with short, curly hair. The habit he wears appears to be woven and has at least four buttons in the middle of his chest. His hood is raised.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>priest</characteristic>
+                        <illusobjdesc>The group of three priests constitute the fourth, fifth, and sixth riders from the right side of the composition. The middle priest faces right and forward. A tuft of dark hair appears from beneath his hood, which is raised. He has a dark beard that tapers to two small points below his chin. Like his hood, his garment is dark with a light-colored edge. He may look in the direction of the Squire’s Yeoman riding in front of him.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>bald</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>priest</characteristic>
+                        <illusobjdesc>The group of three priests constitute the fourth, fifth, and sixth riders from the right side of the composition. The rightmost priest, riding furthest away, is shown in right profile with his head and eyes tilted downward. His face is long, and no hair is visible beneath his raised hood. His beard is white and bushy, suggesting his old age. The majority of his body is obscured by the other pilgrims, but his garment is clasped with a button below his chin.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>ear</characteristic>
+                        <illusobjdesc>The rightmost priest's horse may be visible in the space between the Squire’s Yeoman and the Knight. The animal's ears are upright though twisted backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>dark-skinned</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <characteristic>brooch</characteristic>
+                        <characteristic>gem</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>glove</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>bow</characteristic>
+                        <characteristic>feather</characteristic>
+                        <characteristic>arrow</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Yeoman</characteristic>
+                        <illusobjdesc>The third pilgrim from the right, the Squire’s Yeoman, faces right but turns his head to look out at the viewer, tilting his head slightly back. His complexion is darker than the majority of the pilgrims. Thick, curly, dark hair is visible beneath his raised hood, and he also has a mustache and perhaps some beard stubble on his cheeks, though it may be a shadow. His hood appears to attach to his long-sleeved garment with a large brooch or gem in the front. His right arm is at his side and bent upward. He wears an elaborate glove, which may be made of chain mail, on his right hand with which he holds a large bow that extends upward in a serpentine curve far above his head. The feathered tail of at least one arrow is visible in the crook of his right arm.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>glove</characteristic>
+                        <characteristic>palm out</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>rein</characteristic>
+                        <characteristic>scarf</characteristic>
+                        <characteristic>cross</characteristic>
+                        <characteristic>sword</characteristic>
+                        <characteristic>necklace</characteristic>
+                        <characteristic>jewelry</characteristic>
+                        <characteristic>horse</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Knight</characteristic>
+                        <illusobjdesc>The second pilgrim from the right, the Knight, rides in the foreground and twists his torso to the right so that his chest faces the viewer. He turns his head even further right to look behind him at left. He wears chain mail on his head but his hair and beard are still partially visible. The chain mail encircling his head and neck connects to a breastplate that comes to a point below his sternum below which another layer of chain mail extends over his hips and down his arms. Both hands are gloved; with palm open and turned to face the viewer, the Knight gestures to the left with his right hand, and with his left, he grasps his horse’s reins. A scarf is draped around his shoulders, and the right end flutters to the left. A necklace or sash adorned with a cross is visible in front of his upper chest; another decorated sash crosses his torso diagonally down to his left hip. Beside his left hand and below the cross, a design of a horse and rider is visible, which may be another decoration or possibly the hilt of a sword that is tucked in his armor. His right leg is bent and covered in plated armor with intricate designs on the knee and shin plates, and he wears a flat, pointed-toe shoe with a sizable spur.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>mane</characteristic>
+                        <characteristic>tail</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>saddle</characteristic>
+                        <characteristic>gem</characteristic>
+                        <characteristic>blanket</characteristic>
+                        <characteristic>net</characteristic>
+                        <characteristic>veil</characteristic>
+                        <illusobjdesc>The Knight, the second pilgrim from the right, rides a horse that is extremely active: its tail and mane billow wildly, its mouth is open, and it lifts its front right leg as it walks right. A large gem accents the horse’s bridle below its right ear, which is raised and forward. The harness and saddle are minimally adorned (though there is some patterning on the blanket and billet or girth strap. Like the Lady Abbess’ horse, the Knight’s horse also wears a netted or veil-like decoration over its rear haunches.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="D">
+                        <characteristic>dog</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Directly beneath and behind the front legs of the Knight’s horse treads a fierce looking black mastiff, with mangy hair, thick collar, and a perfectly spherical right eye, which stares directly at the path before the pilgrims.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>riding</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>feather</characteristic>
+                        <characteristic>plume</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>pilgrim</characteristic>
+                        <characteristic>Squire</characteristic>
+                        <illusobjdesc>The first pilgrim leading the party forward on the right side of the composition, the Squire, sits taller than his companions (with the added height of his hat’s plumes) and turns his shoulders to the right to face the viewer. He has short curly hair and a small mustache. He wears a collar, perhaps made of lace, and a decorated overcoat that clasps in the middle of his chest with a single button. Neither of his hands or the majority of his body are visible.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="BD">
+                        <characteristic>horse</characteristic>
+                        <characteristic>running</characteristic>
+                        <characteristic>legs drawn up</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>flame-like hair</characteristic>
+                        <characteristic>mane</characteristic>
+                        <characteristic>rein</characteristic>
+                        <characteristic>tassel</characteristic>
+                        <characteristic>tail</characteristic>
+                        <illusobjdesc>The Squire's horse is the most active of the animals in the procession, raising both of its front legs off the ground in a dramatic gallop forward. The animal turns its head to the right to look directly at the viewer with wide, dark eyes and dramatically flared nostrils. The curve formed by the horse’s raised front legs (and echoed by the raised leg of the Knight’s horse immediately behind it) creates a kind of a parenthesis that demarcates the beginning of the procession behind it. Its flame-like mane blows backward, and it wears a scalloped bridle and chest ornamentation decorated with loops and tassels. The horse’s back hoofs and flowing tail are visible beneath the belly of the Knight’s horse behind the mastiff.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>family</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>old</characteristic>
+                        <illusobjdesc>A group of six figures—one adult male, one adult female holding an infant, and three standing children that collectively may represent a family group—gather together in the lower left corner of the engraving. The adult man stands behind the other figures at far left and appears to wear a long gown. He faces forward but looks down at the infant in the arms of the adult woman in front of him. He raises his right hand above the child's head and points his index finger toward the group of pilgrims at right, as if directing the child's attention to the riders. The man's hair and beard are long and white; his forehead is lined with horizontal wrinkles, suggesting his old age.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>family</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>mother</characteristic>
+                        <illusobjdesc>A group of six figures—one adult male, one adult female holding an infant, and three standing children that collectively may represent a family group—gather together in the lower left corner of the engraving. Standing to the right of the old man, the adult female faces forward but turns her head to look right toward the pilgrims. Her long, wavy hair is partially pinned back in a bun while some strands fall over her left shoulder and right ear. She wears a gown. Her arms are bent at the elbows and wrapped in front of her torso to support the nude infant whom she holds on her right side. The closeness of the children around her suggests she may be their mother.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>infant</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>family</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>rattle</characteristic>
+                        <illusobjdesc>A group of six figures—one adult male, one adult female holding an infant, and three standing children that collectively may represent a family group—gather together in the lower left corner of the engraving. The nude, curly-haired infant in the adult female's arms appears to be male and faces away from the viewer. Both arms are extended. He raises his right and perhaps points toward the pilgrims (echoing the hand gesture of the old man above him), and with his left, he holds a long thin object with round projections on both sides that may be a toy (perhaps a rattle?). He looks up toward this object, which is also in the direction of the old man.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>child</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>family</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>button</characteristic>
+                        <characteristic>belt</characteristic>
+                        <characteristic>pants</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>palm facing viewer</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>hand resting</characteristic>
+                        <illusobjdesc>A group of six figures—one adult male, one adult female holding an infant, and three standing children that collectively may represent a family group—gather together in the lower left corner of the engraving. The tallest standing child appears to be male, as he wears a long-sleeved shirt with three buttons and a prominent collar, breeches or pants, a belt, and at least one shoe, visible on his right foot. His hair is short and curly. He faces forward and looks slightly left over the heads of the other two children though he gestures with his raised left hand toward the pilgrims at right.  In this fourth state of the plate, Blake has added this figure's right hand touching the right shoulder of the smaller child below to the left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>child</characteristic>
+                        <characteristic>family</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>stick</characteristic>
+                        <characteristic>rattle</characteristic>
+                        <illusobjdesc>A group of six figures—one adult male, one adult female holding an infant, and three standing children that collectively may represent a family group—gather together in the lower left corner of the engraving. The second smallest standing child of indeterminate gender wears a gown and has long wavy hair. This child faces forward but looks right at the pilgrims. The child's right leg is bent beneath its gown, and in its right hand, it holds an object that is likely a stick used in the popular children's game of rolling a hoop or a type of rattle.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>child</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>family</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>doll</characteristic>
+                        <illusobjdesc>A group of six figures—one adult male, one adult female holding an infant, and three standing children that collectively may represent a family group—gather together in the lower left corner of the engraving. The shortest standing child, who appears to be female, stands with her back to the viewer and looks up and to the right with mouth open at the pilgrims. Her hair is long and curly, and she wears a sleeveless gown that ties with a sash or ribbon in the back. Her right arm is bent at her side, and, in her right hand, she clutches a doll that also appears to wear a gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>standing</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>comb</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>carrying</characteristic>
+                        <characteristic>purse</characteristic>
+                        <characteristic>bottle</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>In addition to the family group at far left, there are two other figures in the foreground who are not part of the main procession of pilgrims. Near the middle of the left half of the design below the Wife of Bath is a young figure who walks to the right but turns left to look up at the pilgrims (and thus away from the viewer). The gender of this figure is probably female since the figure appears to have curly hair pulled back with a comb or accessory. The figure wears a long, simple gown and in her right hand holds a pouch of some kind, perhaps a bladder of water, bottle, or a shepherd's purse. The figure's left leg is extended as she walks with bare feet to the right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>contrapposto</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>collar</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>carrying</characteristic>
+                        <characteristic>pitcher</characteristic>
+                        <characteristic>barrel</characteristic>
+                        <characteristic>cask</characteristic>
+                        <illusobjdesc>In addition to the family group at far left, there are two other figures in the foreground who are not part of the main procession of pilgrims. Standing below the muzzles of the three horses ridden by the Parson, the Man of Law, and the Plowman, a second youth stands in contrapposto facing left. This figure is male and wears a particularly detailed outfit that includes a shirt with a plunging neckline, long sleeves ruffed at the shoulders, a prominent stiff collar, and what appears to be fringe or ties of some kind at the shirt's base. He also wears knee-length breeches that are tight around the knee but loose and creased around his thighs. His hair is short and very curly. He stands in contrapposto with his weight on his right hip and leg and the left bent at the knee with only the bare toes of his left foot on the ground. He holds a small pitcher by the handle in his right hand and, in his left, the strap of a wooden barrel, cask, or keg with a visible spout facing up.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="AC">
+                        <characteristic>building</characteristic>
+                        <characteristic>arch</characteristic>
+                        <characteristic>pillar</characteristic>
+                        <characteristic>Gothic art</characteristic>
+                        <characteristic>window</characteristic>
+                        <characteristic>tracery</characteristic>
+                        <characteristic>facade</characteristic>
+                        <characteristic>door</characteristic>
+                        <characteristic>wood</characteristic>
+                        <characteristic>beam</characteristic>
+                        <characteristic>Tabard Inn</characteristic>
+                        <characteristic>inscription</characteristic>
+                        <characteristic>text</characteristic>
+                        <illusobjdesc>The largest architectural component of the composition is the Tabard Inn at far left. The pilgrims emerge from a wide portal door topped with a pointed arch supported with columns presumably on both sides, though only the leftmost is visible. The gable and both spandrels above the portal contain legible text identifying both the building and the subject of the overall engraving: "THE TABARDE INNE BY HENRY BAILLY" on the left spandrel; "THE LODGYNGE HOUSE FOR PILGRIMS" on the right side of the gable; and "WHO JOURNEY TO SAINT THOMASS SHINE AT CANTERBURY" on the right spandrel. The facade is decorated with many elements characteristic of Gothic cathedrals, though their placement and order is somewhat unusual. Two wooden beams come together to form the apex of the structure, and these are decorated with scalloped eaves on both sides. Below and to the left of the building's central peak are rectangular blocks containing various architectural elements, including four windows that may contain stained glass panes and tracery, a tabernacle pinnacle containing the sculptural figures, and lancet windows (or perhaps buttresses or niches depending on if the forms are convex, concave, or flat). A portion of the Tabard Inn's interior is visible through the open portal. Like the exterior facade, the inner right wall is decorated with wide arched windows separated by columns, with the central column being topped with a sculpted figure with folded arms. The three clearly visible arches precisely frame the heads of the last three pilgrims in the procession—the Reeve, Chaucer, and the Clerk of Oxenford.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>bishop</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>crosier</characteristic>
+                        <characteristic>blessing</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>statue</characteristic>
+                        <illusobjdesc>In addition to the pilgrims and surrounding figures, the engraving also includes figures as part of the architectural design of the structure on the left side of the plate. The largest of these figures stands inside what appears to be a hexagonal niche of a tabernacle pinnacle on the left side of the main arched portal of the building representing the Tabard Inn. In this engraving, the figure is a Catholic bishop, identified clearly by his mitre, ornately decorated robes, and crosier in his right hand. The bishop's right hand and crosier appear to project out from the architectural niche. The figure's left hand is raised with finger extended, likely in a sign of blessing for the pilgrims below him who are beginning their religious journey.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hood</characteristic>
+                        <characteristic>praying</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>statue</characteristic>
+                        <illusobjdesc>In addition to the pilgrims and surrounding figures, the engraving also includes figures as part of the architectural design of the structure on the left side of the plate. Visible to the left of the bishop is a portion of a rectangular sculptural decoration in which two additional figures kneel facing each other. These figures appear to be gowned with either wings or hoods visible on their backs. Both of their arms are bent up in a gesture of prayer.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>arms crossed</characteristic>
+                        <characteristic>statue</characteristic>
+                        <illusobjdesc>In addition to the pilgrims and surrounding figures, the engraving also includes figures as part of the architectural design of the structure on the left side of the plate. The inner right wall of the Tabard Inn includes a central column topped with a sculpted figure with folded arms who faces forward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>pants</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>family</characteristic>
+                        <illusobjdesc>Several groups of tiny figures populate the landscape that extends behind the main riders. At far right in the distance to the right of the Squire stand five figures—four adults and one child—on the crest of a hill between two clumps of vegetation. Compositionally, these figures are very simple, made only of a few lines. They appear to face away(?) from the procession of pilgrims and instead look out over the vast landscape. The child at left may extend an arm to touch the adult beside him. The figures appear to wear gowns with the possible exception of the middle figure, who may wear pants and perhaps also a broad-rimmed hat. Like the group of six figures in the lower left corner of the engraving, these figures may also represent a family group or community of some kind.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <illusobjdesc>Several groups of tiny figures populate the landscape that extends behind the main riders. In the distance above the Host's raised left arm, at least one pair of figures stands to the left of a small cottage or house. This pair appears to consist of an adult on the right and a child at left; both may be gowned. The adult figure's arm appears to be raised at left. Above and to the left of this group may stand or walk a second pair of figures on the downward slope of a hill. Their smaller size emphasizes their increased distance from the pilgrims processing in the foreground. The figure on the right in this group may have one arm raised at 45 degrees.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>city</characteristic>
+                        <characteristic>spire</characteristic>
+                        <characteristic>arch</characteristic>
+                        <characteristic>building</characteristic>
+                        <characteristic>wall</characteristic>
+                        <characteristic>arch</characteristic>
+                        <characteristic>London</characteristic>
+                        <characteristic>house</characteristic>
+                        <characteristic>barn</characteristic>
+                        <characteristic>chimney</characteristic>
+                        <characteristic>smoke</characteristic>
+                        <illusobjdesc>In addition to the large Tabard Inn at left, several other structures are visible throughout the background of the composition. Many buildings, many of which have spires and arches, are visible behind a hedge and to the right of the portal through which the pilgrims walk at left. A crenelated wall stands in front of the city, which may represent London, the pilgrims' city of origin. Several other structures that appear to be houses, barns(?), and distant cities with tall spires, are visible throughout the background landscape. At least one home, near the middle of the scene, has a smoking chimney.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="A">
+                        <characteristic>bird</characteristic>
+                        <characteristic>dove</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>feeding</characteristic>
+                        <characteristic>Four black birds and two white birds fly in the sky near the upper left corner of the composition while three additional white birds, possibly doves, sit on the right side of the roof of the Tabard Inn.  The middle sitting bird may be feeding the lowest bird.</characteristic>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>earth</characteristic>
+                        <characteristic>path</characteristic>
+                        <characteristic>road</characteristic>
+                        <characteristic>stone</characteristic>
+                        <characteristic>dust</characteristic>
+                        <illusobjdesc>The ground beneath the pilgrims along the lower edge of the composition may be a road or path and appears to be composed of packed earth with many small stones.  The horse's hoofs kick up columns of dust.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>grass</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>tree</characteristic>
+                        <characteristic>hedge</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>Behind the procession of pilgrims, rolling hills covered in grass extend to the horizon. A row of leafy trees or hedges is visible in the middleground while additional areas of leafy, though indeterminate, vegetation can be seen throughout the composition.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>hill</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <characteristic>star</characteristic>
+                        <characteristic>sky</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>radiance</characteristic>
+                        <characteristic>sun</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <illusobjdesc>Behind the procession of pilgrims, rolling hills covered in grass extend to the horizon. Clouds and one star are visible in the left part of the sky. Diagonal beams of light or radiance extend from the lower right corner of the sky, perhaps suggesting a rising sun in the east as the pilgrims depart in the morning.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="2"/>
+                <lg justify="left">
+                    <l n="esxvi.4-4dd.spb.01.01" justify="left" indent="20">THE</l>
+                    <l n="esxvi.4-4dd.spb.01.02" justify="left" indent="20"><choice type="split word"><orig>LODG</orig><reg>LODGYNGE</reg><reg>LODGING</reg></choice></l>
+                    <l n="esxvi.4-4dd.spb.01.03" justify="left" indent="20"><orig>YNGE</orig></l>
+                    <l n="esxvi.4-4dd.spb.01.04" justify="left" indent="20">HOUSE FOR</l>
+                    <l n="esxvi.4-4dd.spb.01.05" justify="left" indent="28">PILGRIMS</l>
+                    <l n="esxvi.4-4dd.spb.01.06" justify="left">THE TABARDE<space extent="5"/>WHO JOURNEY TO SAINT</l>
+                    <l n="esxvi.4-4dd.spb.01.07" justify="left" indent="1"><choice><orig>INNE</orig><reg>INN</reg></choice> BY<space extent="15"/>THOMASS SHRINE</l>
+                    <l n="esxvi.4-4dd.spb.01.08" justify="left">HENRY<space extent="22"/>AT <choice><orig>CANTER</orig><reg type="split_word">CANTERBURY</reg></choice></l>
+                    <l n="esxvi.4-4dd.spb.01.09" justify="left">BAILLY<space extent="26"/><orig>BURY</orig></l>
+                </lg>
+                <vspace extent="3"/>
+                <lg justify="left">
+                    <l n="esxvi.4-4dd.spb.01.10" justify="left" indent="185">AMOR<note>The phrase on the medallion hanging from the right wrist of the Lady Abbess "AMOR VINCIT OMNIA" translates from Latin as "Love Conquers All."</note></l>
+                    <l n="esxvi.4-4dd.spb.01.11" justify="left" indent="185">VINCIT</l>
+                    <l n="esxvi.4-4dd.spb.01.12" justify="left" indent="185">OMNIA<note>Only the left diagonal of the final letter appears to have been engraved.</note></l>
+                </lg>
+                <vspace extent="10"/>
+                <lg justify="left">
+                    <l n="esxvi.4-4dd.spb.01.13" indent="7"><hi rend="i">Reeve. Chaucer. Clerk of Oxenford. Cook. Miller. Wife of Bath. Merchant. Parson. Man of Law. Plowman. Physician. Franklin. 2 Citizens. Shipman. The Host.<space extent="7"/>Sompnour. Manciple. Pardoner. Monk. Friar. a Citizen. Lady Abbess. Nun. 3 Priests. Squires Yeoman.<space extent="5"/>Knight.<space extent="5"/>Squire</hi></l>
+                </lg>
+                <vspace extent="1"/>
+                <columns>
+                    <column>
+                        <lg justify="left">
+                            <l n="esxvi.4-4dd.spb.01.14" justify="left" indent="8"><hi rend="i">A morrow when the day began to spring</hi></l>
+                            <l n="esxvi.4-4dd.spb.01.15" justify="left" indent="8"><hi rend="i">Up rose our Host and was our alder cocke</hi></l>
+                        </lg>
+                    </column>
+                    <column>
+                        <lg justify="left">
+                            <l n="esxvi.4-4dd.spb.01.16" justify="left"><hi rend="i">The Use of Money</hi></l>
+                            <l n="esxvi.4-4dd.spb.01.17" justify="left"><hi rend="i">&#38; its Wars</hi></l>
+                        </lg>
+                    </column>
+                    <column>
+                        <lg justify="left">
+                            <l n="esxvi.4-4dd.spb.01.18" justify="left">CHAUCERS CANTERBURY PILGRIMS</l>
+                        </lg>
+                    </column>
+                    <column>
+                        <lg justify="left">
+                            <l n="esxvi.4-4dd.spb.01.19" justify="left">An Allegory of</l>
+                            <l n="esxvi.4-4dd.spb.01.20" justify="left">Idolatry or Politics</l>
+                        </lg>
+                    </column>
+                    <column>
+                        <lg justify="left">
+                            <l n="esxvi.4-4dd.spb.01.21" justify="left"><hi rend="i">And gadrid us together on a flock&#8212;</hi><note>A few very lightly scratched lines following the dash may be fragments of a further inscription, but this is illegible.</note></l>
+                            <l n="esxvi.4-4dd.spb.01.22" justify="left"><hi rend="i">Let see now: Who shall tell the First Tale</hi></l>
+                        </lg>
+                    </column>
+                </columns>
+                <lg justify="left">
+                    <l n="esxvi.4-4dd.spb.01.23" justify="left" indent="75"><hi rend="i">Painted in Fresco by William Blake &#38; by him Engraved &#38; Published October 8. 1810,<space extent="2"/>Ye gon to Canterbury God mote you spede,</hi></l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
