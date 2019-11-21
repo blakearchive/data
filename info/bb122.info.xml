@@ -84,6 +84,12 @@
         <br/>Untraced
         <br/>Related to Object 29.
     </relationship>
+    <relationship><link type="object" ptr="copy/esii.1?descId=esii.1.spb.01">*Charity*</link>
+        <br/>Etching/engraving, c. 1788. Essick II.
+        <br/>British Museum
+        <br/>London
+        <br/>Related to Object 18.
+    </relationship>
      <relationship><link type="object" ptr="copy/aro.a?descId=aro.a.illbk.07">*All Religions are One*, Plate 7</link>
         <br/>Relief and white-line etching, c. 1788. Bentley 3.
         <br/>Multiple owners
@@ -867,7 +873,7 @@
         <br/>Multiple owners
         <br/>Related to Objects 58, 119, 120, and 121.
     </relationship>
-    <relationship>*Chaucers Canterbury Pilgrims*
+    <relationship><link type="work" ptr="esxvi">*Chaucers Canterbury Pilgrims*</link>
         <br/>Etching/engraving, 1810. Essick XVI.
         <br/>Multiple owners
         <br/>Related to Objects 58, 67, 119, 120, and 121.

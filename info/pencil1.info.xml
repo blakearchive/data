@@ -227,10 +227,16 @@
             Related to Objects 21 and 22.   
         </relationship>
         <relationship>
-            *Albion Rose*<br/>
+            <link type="object" ptr="copy/esvii.2-2d?descId=esvii.2-2d.spb.01">*Albion rose*</link><br/>
             Etching/engraving, c. 1793.  Essick VII.<br/>
             Multiple owners<br/>
             Related to Object 6.   
+        </relationship>
+         <relationship>
+            <link type="work" ptr="esv">*Job*</link><br/>
+            Etching/engraving, c. 1793, 2nd state c. 1820-26. Essick V.<br/>
+            Multiple owners<br/>
+            Related to Object 31.   
         </relationship>
          <relationship>
             <link type="object" ptr="copy/gates-child.d?descId=gates-child.d.illbk.14">*For Children: The Gates of Paradise*, Plate 14</link><br/>
@@ -272,7 +278,7 @@
             Related to Objects 21 and 22.   
         </relationship>
         <relationship>
-            *Albion Rose*<br/>
+            <link type="object" ptr="copy/esvii.1-1b?descId=esvii.1-1b.spb.01">*Albion rose*</link><br/>
             Etching/engraving, color printed, 1796.  Butlin 284, Essick VII.1B.<br/>
             Huntington Library, Art Collections, and Botanical Gardens<br/>
             San Marino, California<br/>
