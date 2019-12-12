@@ -1,38 +1,388 @@
-<bad id="BB206.1" type="te" work="To the Public: Prospectus" copy="1" copyid="1" institution="huntington" catalog="bentley" catid="206" hidden="false"><header><filedesc><titlestmt><title reg="To the Public: Prospectus"><main>To the Public: Prospectus</main><copy> 1</copy>: electronic edition </title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert
-                    Essick,</name>University of California, Riverside; and <name>Joseph
-                        Viscomi,</name>University of North Carolina at Chapel Hill</principal><respstmt/><sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
-                    and the University of Rochester</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>1 XML file approx. ???KB; ?? JPEG (ISO/IEC 10918) files ranging in size from
-                ??KB to ??KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>2012</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt></filedesc><userestrict>Copyright © <date>2011</date> by Morris Eaves, Robert N. Essick, and Joseph
+<bad id="bb206.1" type="illbk" work="[Prospectus] To the Public" copy="1" copyid="1" institution="davis" catalog="bentley" catid="206" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="[Prospectus] To the Public">
+                    <main>[Prospectus] To the Public</main>: electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; 
+                    <name>Robert Essick,</name>University of California, Riverside; and 
+                    <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+                </principal>
+                <respstmt/>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 22.5KB; 4 JPEG (ISO/IEC 10918) files ranging in size from 115KB to 1.5MB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>January 2020</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>
+                <!-- insert update blurb -->
+            </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright ©<date>2020</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This image copyright © 2011 The Huntington.<lb/><lb/></userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>XML BAD created</change><date>February 2014</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+            only.<lb/><lb/>This image copyright © 2014 Davis Library.<lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2019 - January 2020</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects:</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Josh Romphf,</name>
+                    <name>Helen Davies,</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Katherine Calvin</name>
+                    <name>Kendall DeBoer,</name>
+                    <name>Dan Gorman</name>
+                    <name>Ani Govjian,</name>
+                    <name>Meaghan Green,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Mary Learner,</name>
+                    <name>Rob Rich,</name>
+                    <name>Madeline Rose</name>
+                    <name>Jake Ruta</name>
+                    <name>Anneke Schwob,</name>
+                    <name>Oishani Sengupta,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Jewell Thomas</name>
+                    <name>Marcie Woehl,</name>     
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>XML BAD created</change>
+                <date>February 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
                     </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Project Manager:</resp><name>Andrea Dickens</name><resp>Technical Editor: </resp><name>Andrea Laue</name><resp>Project Assistants: </resp><name>Sarah H. Ficke, </name><name>Christopher N. Jackson, </name><name>Gerald Miller, </name><name>Sarah Trippensee, </name><name>Justin Van Kleeck</name></respstmt></changestmt><changestmt><change>Images acquired, scanned and catalogued</change><date>November 1998---This information is for another work</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Consultant on Special Projects:</resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Amber Bertin, </name>
+                    <name>Abby Brengle, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kirilloff, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images acquired, scanned and catalogued</change>
+                <date>October 2010</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
                     </name>University of California, Riverside; and <name>Joseph Viscomi,
                     </name>University of North Carolina at Chapel Hill <resp>Project Manager and
-                        Technical Editor: </resp><name>Matthew Kirschenbaum</name><resp>Project Assistants: </resp><name>Jessica Kem, </name><name>Greg Murray</name></respstmt></changestmt></revisiondesc></header><objdesc>
-        <!-- Edit below here --><source><objdescid><objtitle><title type="transcribed"><hi rend="i">XXX</hi>, XXX </title></objtitle><origination>William Blake <role>author, </role><role>inventor</role></origination><origination>John Nichols<note>Michael Phillips argues that the printer was John
-                        Nichols ("William Blake and the 'Unincreasable Club': The Printing of <hi rend="i">Poetical Sketches</hi>, <hi rend="i">Bulliten of the New York
-                            Public Library</hi> 80 (1976): 6-18). According to Peter Ackroyd, the
-                        printer could have been John Flaxman's aunt, who had a small print shop
-                        where the first copies were produced (Ackroyd, <hi rend="i">Blake</hi>, 94).
-                        The print run was funded by Flaxman, the Reverend Anthony Stephen Mathew and
-                        his wife, Harriet. (<hi rend="i">Writings</hi> volume 2, 749)</note><role>delineator, </role><role>printer</role></origination><compdate value="1793">c. 1784-85</compdate></objdescid><objinfo><printdate value="1793"/><note>Mrs. Mathew may have persuaded her husband, the Rev. A. S. Mathew, to help her
-                    pay for the printing. He may have then written the advertisement (J.T. Smith,
-                        <hi rend="i">Nollekens and His Times</hi>, 1828, quoted in Bentley, <hi rend="i">Blake Records</hi>, 2nd ed. page 605).</note><numberobj>70</numberobj><objorder>1-70</objorder><objsize>13.9 x 22.3 cm</objsize><numberleaves>38<note>There are 38 leaves and 76 pages total. Blank pages are not
-                        reproduced here.</note></numberleaves><leafsize>13.9 x 22.3 cm</leafsize><medium>Typed with handwritten corrections in pen and ink.</medium><printingstyle>letterpress</printingstyle><inkcolor>black</inkcolor><support>laid paper</support><watermark>Chain lines, 2.8 cm apart. Bentley notes that the paper is defective and
-                    possibly from an odd lot (<hi rend="i">Writings</hi> volume 2, 1685). </watermark><pennednumbers>2-70<note>Page numbers are at the outside corners of pages with
-                        running heads or, in the case of pages where the first line on a page is the
-                        title line, in the middle of the top margin in square brackets, except for
-                        pages 15 and 16, which are in round brackets.</note></pennednumbers><framelines>none</framelines><binding>Originally bound in light blue cloth boards with a red leather label on the
-                    spine. Rebound for Robert Hoe in Citron levant morocco, inside front cover is
-                    stamped with "THE CLUB BINDERY 1908". Page edges, frames on the covers, and
-                    title on the spine ("BLAKE/ - / POETICAL SKETCHES/ LOND./ 1783.") are
-                    gilt.</binding><stabholes>none</stabholes></objinfo><provenance n="1"><name>Huntington Library</name><date>1911</date><dealer>Anderson Auction Company</dealer><price>$725</price><note>Given by Blake to Charles Tulk in 1810. From there it was sold by Edward
-                    Duperner at Sotheby's on 20 June 1906 in lot 937. Acquired by Robert Hoe, who
-                    rebound it in 1908. Sold posthumously by Hoe to Anderson Auction Company in
-                    1911, lot 389, to the Huntington Library.</note></provenance><repository><institution>Henry E. Huntington Library and Art Gallery</institution><addressline>1151 Oxford Road</addressline><addressline>San Marino, California 91108</addressline><addressline>United States</addressline><addressline>Telephone: 626-405-2100</addressline><addressline>Telephone (Reader Services): 626-405-2191</addressline><addressline>Fax: 626-405-0225</addressline><addressline>URL: http://www.huntington.org/</addressline><department>Huntington Library</department><collection>Rare Books</collection><repositoryid label="Accession number">57432</repositoryid><lb/><lb/></repository></source><desc id="BB206.1.typ.01" dbi="BB206.1.1.TYP"><objtitle><title type="supplied">Title Page</title><title type="transcribed">XXX</title><objid><objnumber code="A1">Object 1 </objnumber></objid></objtitle><physdesc><objsize>XXX</objsize><windowsize width="500" height="615"/></physdesc><phystext><lg type="prose" justify="left"><l n="BB206.1.typ.01.01" justify="left"/></lg></phystext></desc><desc id="BB206.1.typ.02" dbi="BB206.1.2.TYP"><objtitle><title type="transcribed">XXX</title><objid><objnumber code="A2">Object 2 </objnumber></objid></objtitle><physdesc><objsize>XXX</objsize><windowsize width="500" height="615"/></physdesc><phystext><lg type="verse" justify="left"><l n="BB206.1.typ.02.01" justify="left"/></lg></phystext></desc></objdesc></bad>
+                        Technical Editor: </resp>
+                    <name>Matthew Kirschenbaum</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Jessica Kem, </name>
+                    <name>Greg Murray</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>[Prospectus] *To the Public*</title>
+                </objtitle>
+                <origination>
+                    William Blake 
+                    <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>etcher, </role>
+                    <role>printer</role>
+                </origination>
+                <imprint>
+                    <publisher>William Blake</publisher>
+                    <pubplace>London</pubplace>
+                    <date>10 October 1793</date>
+                    <note>According to Bentley, the "Prospectus was probably composed 'engraved', printed, and distributed rapidly in the autumn of 1793. No copy is known today, and the only information about it derives from Gilchrist" (*Blake Books*, page 450). The copy text presented here is from Alexander Gilchrist's *Life of William Blake, 'Pictor Ignotus'* volume 2 (1863); see note in Provenance.</note>
+                </imprint>
+                <compdate value="1793">1793</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1793">1793
+                <note>Gilchrist's *Life of William Blake* volume 2 was published in 1863.</note>
+                </printdate>
+                <numberobj>2</numberobj>
+                <objorder>1-2</objorder>
+                <objsize>full page 20.1 x 11.9 cm.
+                    <note>Given dimensions refer to the photographed pages of Gilchrist's *Life of William Blake* volume 2.</note>
+                </objsize>
+                <numberleaves>1
+                    <note>The transcription in Gilchrist is prefaced with an editorial note that claims the original Prospectus was "printed in blue on a single leaf". Bentley speculates that for the original "there were two plates, printed on recto and verso of one leaf, the second plate beginning with [paragraph] 5" (*Blake Books*, page 450) Objects 1-2 here are printed on the recto and verso of a single leaf in the Gilchrist copy.</note>
+                </numberleaves>
+                <leafsize>11 x 7.5 in.
+                    <note>The editorial note from *Life of William Blake* volume 2 indicates that Blake's original leaf was "about 11 x 7.5 inches". Leaf dimensions for the Gilchrist copy are 20.1 x 11.9 cm.</note>
+                </leafsize>
+                <medium>relief etching
+                    <note>*Life of William Blake* volume 2 is a letterpress book.</note></medium>
+                <inkcolor>blue
+                    <note>The editorial note from *Life of William Blake* volume 2 indicates that the original relief etching was printed in blue ink. The Gilchrist book is printed in black ink.</note>
+                </inkcolor>
+                <support>unknown
+                    <note>*Life of William Blake* volume 2 is printed on wove paper</note>
+                </support>
+                <watermark>unknown
+                    <note>No watermark present in Gilchrist leaf.</note>
+                </watermark>
+                <binding>presumably loosely bound 
+                    <note>*Life of William Blake* volume 2 is rebound in red boards, with spine reading "THE LIFE OF WILLIAM BLAKE / GILCHRIST / 2" in gilded letters.</note>
+                </binding>
+            </objinfo>
+            <provenance n="1">
+                <name>Davis Library, University of North Carolina at Chapel Hill</name>
+                <date>1940</date>
+                <price>£1.8</price>
+                <note>
+                    There is no extant copy of Blake's etched Prospectus of 1793. According to Bentley, 
+                    it was "probably composed, engraved, printed, and distributed rapidly in the autumn of 
+                    1793" (*Blake Books*, page 450). Alexander Gilchrist acquired a copy of the Prospectus through 
+                    "Mr. Frost" and transcribed it in *Life of William Blake, 'Pictor Ignotus'* (London: Macmillan, 1863). 
+                    In Gilchrist's editorial note for the Prospectus (page 263, see Object View Page), Mr. Frost is identified by Bentley
+                    as William Edward Frost of 8 Southampton Street, Fitzroy Square.
+                </note>
+                <note>
+                    Blake's posthumous biographer Alexander Gilchrist died in 1861 before completing
+                    his biography of Blake, which was finished by his wife, Anne Gilchrist, with
+                    assistance from Dante Gabriel Rossetti and others (see also Bentley, *Blake Books*, pages 24-27).The title page of the 1863 volume containing
+                    the Prospectus reads: "LIFE / OF / WILLIAM BLAKE, / 'PICTOR IGNOTUS' / WITH
+                    SELECTIONS FROM HIS POEMS AND OTHER WRITINGS / BY THE LATE / ALEXANDER
+                    GILCHRIST, / OF THE MIDDLE TEMPLE, BARRISTER-AT-LAW; / AUTHOR OF "THE LIFE OF
+                    WILLIAM ETTY, R.A." // ILLUSTRATED FROM BLAKE'S OWN WORKS, / IN FACSIMILÉ BY
+                    W.J. LINTON / AND IN PHOTOLITHOGRAPHY; / WITH A FEW OF BLAKE'S ORIGINAL PLATES.
+                    // IN TWO VOLUMES. / VOL. II. // LONDON AND CAMBRIDGE / MACMILLIAN AND CO. 1863
+                    // [The Right of Translation is reserved.]" Facing the title page is a
+                    frontispiece with two engravings. The first is from Blake's Chaucer, Canterbury
+                    Pilgrims; the caption reads: "Painted in Fresco by William Blake &amp; by Him
+                    Engraved &amp; Published October 8 1810 at Nº28 Corner of Broad Street Golden
+                    Square". The second is an 1861 engraving by Charles Simms.
+                </note>
+                <note>
+                    The book was printed by R. Clay, Son, and Taylor, Bread Street Hill, London. Images presented here are from a copy in the Davis Library at the University
+                    of North Carolina at Chapel Hill. The Davis Library purchased this copy from the vendor Harding in 1940 for £1.8.
+                </note>
+            </provenance>
+            <repository>
+                <institution>Davis Library</institution>
+                <addressline>University of North Carolina at Chapel Hill</addressline>
+                <addressline>208 Raleigh Street CB#3916</addressline>
+                <addressline>Chapel Hill, NC 27599</addressline>
+                <addressline>United States</addressline>
+                <addressline>Telephone (Reference): 919-962-1151</addressline>
+                <addressline>Telphone (Circulation): 919-962-1053</addressline>
+                <addressline>URL: http://library.unc.edu/davis/</addressline>
+                <repositoryid label="Accession number">ND497.B6 G5 v.2</repositoryid>
+                <lb/>
+                <lb/>
+            </repository>
+        </source>
+        <desc id="bb206.1.illbk.01" dbi="BB206.1.1.illbk">
+            <objtitle>
+                <title type="transcribed">
+                    To the Public
+                </title>
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>20.1 x 11.9 cm.</objsize>
+                <objnote>
+                    <p>Original etching untraced; Blake's Prospectus is printed on one leaf,
+                        recto page 263 (Object 1) and verso page 264 (Object 2), in Gilchrist's 1863
+                        edition of *Life of William Blake* volume 2, described in
+                        the note on Provenance in Copy Information.</p>
+                    <p>The transcription includes only the text attributed to Blake, which
+                        is prefaced with a note written by Gilchrist and his posthumous editors, possibly
+                        including the hands of Anne Gilchrist, Dante Gabriel Rossetti, and others
+                        (see also Bentley,*Blake Books*, pages 24-27).The text not attributed to Blake can be viewed directly on the Object View Page.</p>
+                </objnote>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="9"/>
+                <lg type="prose" justify="left">
+                    <l n="bb206.1.illbk.01.01" justify="left" indent="48">October 10, 1793.</l>
+                    <l n="bb206.1.illbk.01.02" justify="left" indent="26"><hi rend="i">To the
+                            Public.</hi></l>
+                    <l n="bb206.1.illbk.01.03" justify="left"/>
+                    <l n="bb206.1.illbk.01.04" justify="left" indent="3">The Labours of the Artist,
+                        the Poet, the Musician, have been <choice>
+                            <orig>pro-</orig>
+                            <reg type="split_word">proverbially</reg>
+                        </choice></l>
+                    <l n="bb206.1.illbk.01.05" justify="left"><choice><orig>verbially</orig><reg type="split_word">proverbially</reg></choice> attended by poverty and
+                        obscurity; this was never the fault of the</l>
+                    <l n="bb206.1.illbk.01.06" justify="left">Public, but was owing to a neglect of
+                        means to propagate such works as</l>
+                    <l n="bb206.1.illbk.01.07" justify="left">have wholly absorbed the Man of Genius.
+                        Even Milton and Shakespeare</l>
+                    <l n="bb206.1.illbk.01.08" justify="left">could not publish their own works.</l>
+                    <l n="bb206.1.illbk.01.09" justify="left" indent="3">This difficulty has been
+                        obviated by the Author of the following</l>
+                    <l n="bb206.1.illbk.01.11" justify="left">productions now presented to the Public;
+                        who has invented a method of</l>
+                    <l n="bb206.1.illbk.01.12" justify="left">Printing both <choice><orig>Letter-press</orig><reg>Letterpress</reg></choice> and Engraving
+                        in a style more ornamental,</l>
+                    <l n="bb206.1.illbk.01.13" justify="left">uniform, and grand, than any before
+                        discovered, while it produces works at</l>
+                    <l n="bb206.1.illbk.01.14" justify="left">less than one fourth of the expense.</l>
+                    <l n="bb206.1.illbk.01.15" justify="left" indent="3">If a method of Printing which
+                        combines the Painter and the Poet is a</l>
+                    <l n="bb206.1.illbk.01.16" justify="left">phenomenon worthy of public attention,
+                        provided that it exceeds in elegance</l>
+                    <l n="bb206.1.illbk.01.17" justify="left">all former methods, the Author is sure
+                        of his reward.</l>
+                    <l n="bb206.1.illbk.01.18" justify="left" indent="3">Mr. Blake’s powers of
+                        invention very early engaged the attention of</l>
+                    <l n="bb206.1.illbk.01.19" justify="left">many persons of eminence and fortune; by
+                        whose means he has been</l>
+                    <l n="bb206.1.illbk.01.20" justify="left">regularly enabled to bring before the
+                        Public works (he is not afraid to say)</l>
+                    <l n="bb206.1.illbk.01.21" justify="left">of equal magnitude and consequence with
+                        the productions of any age or</l>
+                    <l n="bb206.1.illbk.01.22" justify="left">country: among which are two large
+                        highly finished engravings (and two</l>
+                    <l n="bb206.1.illbk.01.23" justify="left">more are nearly ready) which will
+                        commence a Series of subjects from the</l>
+                    <l n="bb206.1.illbk.01.24" justify="left">Bible, and another from the History of
+                        England.</l>
+                    <l n="bb206.1.illbk.01.25" justify="left" indent="3">The following are the
+                        Subjects of the several Works not published and </l>
+                    <l n="bb206.1.illbk.01.26" justify="left">on Sale at Mr. Blake’s, No. 13, Hercules
+                        Buildings, Lambeth.</l>
+                    <l n="bb206.1.illbk.01.27" justify="left"/>
+                    <l n="bb206.1.illbk.01.28" justify="left" indent="1">1. Job, a Historical
+                        Engraving. Size 1 ft. 7½ in. by 1 ft. 2 in.: price 12<hi rend="i"
+                        >s.</hi></l>
+                    <l n="bb206.1.illbk.01.29" justify="left" indent="1">2. Edward and Elinor, a
+                        Historical Engraving. Size 1 ft. 6½ in. by 1 ft.</l>
+                    <l n="bb206.1.illbk.01.30" justify="left" indent="3">price 10<hi rend="i">s.</hi>
+                            6<hi rend="i">d.</hi></l>
+                    <l n="bb206.1.illbk.01.31" justify="left" indent="1">3. America, a Prophecy, in
+                        Illuminated Printing. Folio, with 18 designs. </l>
+                    <l n="bb206.1.illbk.01.32" justify="left" indent="3">price 10<hi rend="i">s.</hi>
+                            6<hi rend="i">d.</hi></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb206.1.illbk.02" dbi="BB206.1.2.illbk">
+            <objtitle>
+                <title type="editorial">cont.</title>
+                ,
+                <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>20.1 x 11.9 cm.</objsize>
+                <objnote>
+                    <p>Original etching untraced; Blake's Prospectus is printed on one leaf,
+                        recto page 263 (Object 1) and verso page 264 (Object 2), in Gilchrist's 1863
+                        edition of *Life of William Blake* volume 2, described in
+                        the note on Provenance in Copy Information.</p>
+                    <p>The transcription includes only the text attributed to Blake.</p>
+                </objnote>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <lg type="prose" justify="left">
+                    <l n="bb206.1.illbk.02.01" justify="left" indent="1">4. Visions of the Daughters
+                        of Albion, in Illuminated Printing. Folio,</l>
+                    <l n="bb206.1.illbk.02.02" justify="left" indent="3">with 8 designs, price 7<hi
+                            rend="i">s.</hi> 6<hi rend="i">d.</hi></l>
+                    <l n="bb206.1.illbk.02.03" justify="left" indent="1">5. The Book of Thel, a Poem
+                        in Illuminated Printing. Quarto, with</l>
+                    <l n="bb206.1.illbk.02.04" justify="left" indent="3">6 designs, price 3<hi
+                            rend="i">s.</hi></l>
+                    <l n="bb206.1.illbk.02.05" justify="left" indent="1">6. The Marriage of Heaven and
+                        Hell, in Illuminated Printing. Quarto,</l>
+                    <l n="bb206.1.illbk.02.06" justify="left" indent="3">with 14 designs, price 7<hi
+                            rend="i">s.</hi> 6<hi rend="i">d.</hi></l>
+                    <l n="bb206.1.illbk.02.07" justify="left" indent="1">7. Songs of Innocence, in
+                        Illuminated Printing. Octavo, with 25 designs,</l>
+                    <l n="bb206.1.illbk.02.08" justify="left" indent="3">price 5<hi rend="i"
+                        >s.</hi></l>
+                    <l n="bb206.1.illbk.02.09" justify="left" indent="1">8. Songs of Experience, in
+                        Illuminated Printing. Octavo, with 25 designs,</l>
+                    <l n="bb206.1.illbk.02.10" justify="left" indent="3">price 5<hi rend="i"
+                        >s.</hi></l>
+                    <l n="bb206.1.illbk.02.11" justify="left" indent="1">9. The History of England, a
+                        small book of Engravings. Price 3<hi rend="i">s.</hi></l>
+                    <l n="bb206.1.illbk.02.12" justify="left">10. The Gates of Paradise, a
+                        small book of Engravings. Price 3<hi rend="i">s.</hi></l>
+                    <l n="bb206.1.illbk.02.13" justify="left" indent="3">The Illuminated Books are
+                        Printed in Colours, and on the most beautiful</l>
+                    <l n="bb206.1.illbk.02.14" justify="left">wove paper that could be procured.</l>
+                    <l n="bb206.1.illbk.02.15" justify="left" indent="3">No Subscriptions for the
+                        numerous great works now in hand are asked,</l>
+                    <l n="bb206.1.illbk.02.16" justify="left">for none are wanted; but the Author will
+                        produce his works, and offer them</l>
+                    <l n="bb206.1.illbk.02.17" justify="left">to sale at a fair price.</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
