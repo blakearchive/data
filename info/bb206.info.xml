@@ -1,31 +1,67 @@
-<info id="bb206"><worktitle><div id="bb206.title"><h1><i>[Prospectus:] To the Public</i></h1></div></worktitle><remarks><div id="bb206.top"><p>XXXXX </p></div></remarks><related><relationship><i>Job</i><br/>
-            Engraving, 1793<br/> 
-            Multiple owners and locations
-        </relationship><relationship><i>Edward and Elenor</i><br/>
-            Engraving<br/>
-            Multiple owners and locations 
-        </relationship><relationship><link type="work" ptr="america"><i>America a Prophecy</i></link><br/>
-                Relief etchings, 1793<br/>
-                Multiple owners and locations
-        </relationship><relationship><link type="work" ptr="vda"><i>Visions of the Daughters of Albion</i></link><br/>
-                Illuminated book, 1793<br/>
-                Multiple owners and locations
-        </relationship><relationship><link type="work" ptr="thel"><i>The Book of Thel</i></link><br/>
-                Illuminated book, 1789<br/>
-                Multiple owners and locations
-        </relationship><relationship><link type="work" ptr="mhh"><i>The Marriage of Heaven and Hell</i></link><br/>
-                Illuminated book, 1793<br/>
-                Multiple owners and locations
-        </relationship><relationship><link type="work" ptr="s-inn"><i>Songs of Innocence</i></link><br/>
-                Illuminated book, 1789<br/>
-                Multiple owners and locations
-        </relationship><relationship><link type="work" ptr="s-exp"><i>Songs of Experience</i></link><br/>
-                Illuminated book, 1794<br/>
-                Multiple owners and locations
-        </relationship><relationship><i>The History of England</i><br/>
-            Engravings<br/>
-            No known copies 
-        </relationship><relationship><link type="work" ptr="gates-child"><i>For Children: The Gates of Paradise</i></link><br/>
-                Intaglio engraving, 1793<br/>
-                Multiple owners and locations
-        </relationship></related></info>
+<info id="bb206">
+        <worktitle>
+                <div id="bb206.title">
+                        <h1><i>[Prospectus:] To the Public</i></h1>
+                </div>
+        </worktitle>
+        
+        <related>
+                <relHeader>All Known Copies</relHeader>
+                <subheader> There are no traced copies of the original.<br/> The work is known only
+                        from a transcription in Alexander Gilchrist, <i>Life of William Blake</i>,
+                        1863.</subheader>
+        </related>
+        <related>
+                <relHeader>All Known Related Items</relHeader>
+                <relationship><link type="work" ptr="s-inn">*Songs of Innocence*</link><br/>
+                        Illuminated book, 1789. Bentley 139.<br/> 
+                        Multiple owners<br/>
+                        Related to Object 2.</relationship>
+                 <relationship><link type="work" ptr="thel">*The Book of Thel*</link><br/>
+                        Illuminated book, 1789. Bentley 18.<br/> 
+                         Multiple owners<br/>
+                        Related to Object 2.</relationship>  
+                <relationship><link type="work" ptr="mhh">*The Marriage of Heaven and Hell*</link><br/> 
+                        Illuminated book, 1790. Bentey 98.<br/> 
+                        Multiple owners<br/>
+                        Related to Object 2.</relationship>
+                <relationship><link type="work" ptr="vda">*Visions of the Daughters of Albion*</link><br/> 
+                        Illuminated book, 1793. Bentley 213.<br/> 
+                        Multiple owners<br/>
+                        Related to Object 2.</relationship>
+                <relationship><link type="work" ptr="gates-child">*For Children: The Gates of Paradise*</link><br/> 
+                        Illuminated book, 1793. Bentley 43.<br/> 
+                        Multiple owners<br/>
+                        Related to Object 2.</relationship>
+                <relationship><link type="work" ptr="america">*America a Prophecy*</link><br/>
+                        Illuminated book, 1793. Bentley 6.<br/> 
+                        Multiple owners<br/>
+                        Related to Object 2.</relationship>
+                <relationship><link type="work" ptr="esiv">*Edward &amp; Elenor*</link><br/>
+                        Etching/Engraving, 1793. Essick IV.<br/> 
+                        British Library and British Museum<br/>
+                        London<br/>
+                        Related to Object 1.</relationship>
+                <relationship><link type="work" ptr="esv">*Job*</link><br/> 
+                        Etching/Engraving, 1793. Essick V.<br/> 
+                        Multiple owners<br/>
+                        Related to Object 1.</relationship>
+                 <relationship>*Series of Subjects from the Bible*<br/> 
+                        Etchings/Engravings, c. 1793<br/> 
+                        Untraced, but including the *Job* and *Ezekiel* seperate prints.<br/>
+                        Related to Object 1.</relationship>
+                <relationship>*The History of England, a Small Book of Engravings*<br/>
+                        Etchings/Engravings, c. 1793<br/> 
+                        Untraced<br/>
+                        Related to Objects 1 and 2.</relationship>                                                        
+                <relationship><link type="work" ptr="esvi">*Ezekiel*</link><br/>
+                        Etching/Engraving, 1794. Essick VI.<br/> 
+                        Fitzwilliam Museum<br/>
+                        Cambridge, UK<br/>
+                        Related to Object 1.</relationship>
+                <relationship><link type="work" ptr="songsie">*Songs of Experience*</link><br/>
+                        Illuminated book, 1794. Bentley 139.<br/> 
+                        Multiple owners<br/>
+                        Related to Object 2.</relationship>           
+        </related>
+</info>
