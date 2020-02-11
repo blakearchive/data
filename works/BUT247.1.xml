@@ -1,43 +1,36 @@
-<bad id="but247.1" type="wc" work="The Vision of Queen Katharine" copy="1" copyid="1" institution="fitzwilliam" catalog="butlin" catid="247" hidden="false">
+<bad id="but247.1" type="wc" work="The Vision of Queen Katharine" copy="1" copyid="1"
+    institution="fitzwilliam" catalog="butlin" catid="247">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="The Vision of Queen Katharine">
-                    <main>The Vision of Queen Katharine</main>
-: electronic edition
-</title>
+                    <main>The Vision of Queen Katharine</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of
-Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                 
-                </respstmt>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
                 <sponsor/>
                 <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC
-10918)
-files ranging in size from 92KB to 1100KB</extent>
-            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>March 2020</date>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>March
+                    2020</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2020</date> by Morris Eaves, Robert N. Essick,
-and Joseph Viscomi, all rights reserved.  Items in the Archive may be
-shared in accordance with the Fair Use provisions of U.S. copyright law.
-Redistribution or republication on other terms, in any medium, requires
-express written consent from the editors and advance notification of the
-publisher.
-Permission to reproduce the graphic images in this archive has been
-granted by the owners of the originals for this publication only.<lb/>
-         This image copyright © 2020 Fitzwilliam Museum
-      </userestrict>
+        <userestrict>Copyright © <date>2020</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2020 Fitzwilliam Museum </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -46,10 +39,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>April-May 2014</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -91,10 +83,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2012</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editor: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Project Manager: </resp>
                     <name>Ashley Reed</name>
@@ -126,10 +117,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-                    <name>Robert Essick, </name>University of California, Riverside; and
-                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-                    <resp>Technical Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
                     <name>Matthew Kirschenbaum</name>
                     <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
@@ -147,18 +137,21 @@ granted by the owners of the originals for this publication only.<lb/>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        *The Vision of Queen Katharine*
-                    </title>
+                    <title> *The Vision of Queen Katharine* </title>
                 </objtitle>
                 <origination>William Blake <role>inventor, </role>
                     <role>delineator, </role>
                     <role>colorist</role>
                 </origination>
-                <origination>anonymous<role>delineator.  The "WB" inscription lower right is probably not by Blake.</role>
+                <origination>anonymous<role>delineator. The "WB" inscription lower right is probably
+                        not by Blake.</role>
                     <role>delineator</role>
                 </origination>
-                <compdate value="1783">c. 1783-90<note>The date is based on stylistic considerations.  Butlin 247 dates the work to c. 1790-93; the date given here is taken from David Bindman, <hi rend="i">William Blake: Catalogue of the Collection in the Fitzwilliam Museum Cambridge</hi> (Cambridge: W. Heffer and Sons for the Fitzwilliam Museum, 1970) 6.</note>
+                <compdate value="1783">c. 1783-90<note>The date is based on stylistic
+                        considerations. Butlin 247 dates the work to c. 1790-93; the date given here
+                        is taken from David Bindman, <hi rend="i">William Blake: Catalogue of the
+                            Collection in the Fitzwilliam Museum Cambridge</hi> (Cambridge: W.
+                        Heffer and Sons for the Fitzwilliam Museum, 1970) 6.</note>
                 </compdate>
             </objdescid>
             <objinfo>
@@ -166,7 +159,9 @@ granted by the owners of the originals for this publication only.<lb/>
                 <objsize>20.3 x 16.1 cm.</objsize>
                 <numberleaves>1</numberleaves>
                 <leafsize>20.3 x 16.1 cm.</leafsize>
-                <medium>pen and ink and water color over some pencil<note>The inscribed initials, lower right, are in pen and ink.  This inscription was probably written by someone other than Blake.</note>
+                <medium>pen and ink and water color over some pencil<note>The inscribed initials,
+                        lower right, are in pen and ink. This inscription was probably written by
+                        someone other than Blake.</note>
                 </medium>
                 <support>wove paper</support>
                 <watermark>none</watermark>
@@ -179,8 +174,16 @@ granted by the owners of the originals for this publication only.<lb/>
                 <date>1935</date>
                 <dealer>Maggs Bros.</dealer>
                 <price>&#163;120</price>
-                <note>Possibly acquired from Blake by Thomas Butts; possibly the work inherited by Thomas Butts, Jr., in 1845 and sold Foster and Son auction, London, 29 June 1853, lot 137 (&#163;2.17s.6d. to the dealer Henry G. Bohn); possibly James H. Chance (John Linnell's nephew) by 1863; possibly the work sold from the collection of Samuel Prince, 11 Dec. 1865, lot 276, titled "The Dream" (&#163;4 to "Halstead," probably a dealer); Stopford A. Brooke by 1876 and sold from his collection, Sotheby's, 11 Dec. 1935, lot 621 (&#163;110 to the dealer Maggs Bros., possibly acting for the Fitzwilliam Museum); acquired by the Fitzwilliam Museum in Dec. 1935 for &#163;120.  The association of this work with the collection formed by Thomas Butts is speculative.
-                </note>
+                <note>Possibly acquired from Blake by Thomas Butts; possibly the work inherited by
+                    Thomas Butts, Jr., in 1845 and sold Foster and Son auction, London, 29 June
+                    1853, lot 137 (&#163;2.17s.6d. to the dealer Henry G. Bohn); possibly James H.
+                    Chance (John Linnell's nephew) by 1863; possibly the work sold from the
+                    collection of Samuel Prince, 11 Dec. 1865, lot 276, titled "The Dream" (&#163;4
+                    to "Halstead," probably a dealer); Stopford A. Brooke by 1876 and sold from his
+                    collection, Sotheby's, 11 Dec. 1935, lot 621 (&#163;110 to the dealer Maggs
+                    Bros., possibly acting for the Fitzwilliam Museum); acquired by the Fitzwilliam
+                    Museum in Dec. 1935 for &#163;120. The association of this work with the
+                    collection formed by Thomas Butts is speculative. </note>
             </provenance>
             <repository>
                 <institution>Fitzwilliam Museum</institution>
@@ -190,20 +193,23 @@ granted by the owners of the originals for this publication only.<lb/>
                 <addressline>Telephone: +44 (0)1223 332900</addressline>
                 <addressline>Fax: +44 (0)1223 332923</addressline>
                 <addressline>URL: http://www.fitzmuseum.cam.ac.uk/index.html</addressline>
-                <addressline>Email, Department of Paintings, Drawings, and Prints: fitzmuseum-pdp@lists.cam.ac.uk</addressline>
-                <addressline>URL, Department of Paintings, Drawings, and Prints: http://www.fitzmuseum.cam.ac.uk/dept/pdp</addressline>
+                <addressline>Email, Department of Paintings, Drawings, and Prints:
+                    fitzmuseum-pdp@lists.cam.ac.uk</addressline>
+                <addressline>URL, Department of Paintings, Drawings, and Prints:
+                    http://www.fitzmuseum.cam.ac.uk/dept/pdp</addressline>
                 <addressline>Telephone, Image Library: +44 (0)1223 332927</addressline>
                 <addressline>Fax, Image Library: +44 (0)1223 768591</addressline>
-                <addressline>Email, Image Library: fitzmuseum-photography@lists.cam.ac.uk</addressline>
-                <addressline>URL, Photographic Service: http://www.fitzmuseum.cam.ac.uk/dept/photography</addressline>
+                <addressline>Email, Image Library:
+                    fitzmuseum-photography@lists.cam.ac.uk</addressline>
+                <addressline>URL, Photographic Service:
+                    http://www.fitzmuseum.cam.ac.uk/dept/photography</addressline>
                 <department>Paintings, Drawings, and Prints</department>
                 <repositoryid label="Accession number">1935-1771</repositoryid>
             </repository>
         </source>
         <desc id="but247.1.wc.01" dbi="BUT247.1.1.WC">
             <objtitle>
-                <title type="transcribed">The Vision of Queen Katharine</title>,
-<objid>
+                <title type="transcribed">The Vision of Queen Katharine</title>, <objid>
                     <objnumber code="A1">Object 1 </objnumber>
                     <objcode code="UI">(Butlin 247)</objcode>
                 </objid>
@@ -214,7 +220,57 @@ granted by the owners of the originals for this publication only.<lb/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>Ten figures hover or fly above a recumbent female figure in this image, which illustrates The Vision of Queen Katharine in Act 4, Scene 2 of Shakespeare's play <hi rend="i">Henry VIII</hi>. In the lower third of the scene, a female figure lies supine with her head at right on a heavily draped couch or bed. She has long hair and wears a gown. She may rest her head on a pillow(?) and her eyes are closed, suggesting sleep.  Dark round forms, probably clouds, are visible near her feet lower left.  This figure, Queen Katharine, is the wife of King Henry VIII who wishes to divorce her (as she has not born a male heir) and marry Anne Boleyn. Katharine becomes ill, and it is during her sickness in which The Vision occurs. The Vision itself constitutes the upper part of the image and includes ten figures (although only six figures appear in The Vision in the play).  Near the left margin, a pair of female figures face each other and appear to hover.  Facing forward, the gowned figure has long hair and bends both arms upward to hold an object (perhaps a wicker basket or bowl?) on her head. Immediately in front of her, a nude figure with long hair that may be braided faces away. This figure bends both arms at right angles and in her right hand holds one of the garlands mentioned in the play's text. A second pair of figures occupy the upper center of the design.  The higher figure appears to be nude and female with long, flame-like hair that extends outward in spiky tendrils. She faces forward but looks down and only the upper half of her body is visible, as if she is emerging from the colorful cloud behind her.  Both arms are extended horizontally, palms facing down.  Below her left arm, a second figure, who appears to be a nude male figure with short hair, mimics her posture with his left arm extended horizontally.  His body, however, may be twisted: though he faces forward and down, his left leg is extended to the left and his right arm is by his side (perhaps touching the female figure above him). A third pair of figures hover or float against the right margin. The gender of neither figure is distinct.  The closer figure has short hair and likely wears a transparent gown. She(?) faces forward and slightly left with his legs crossed at the ankle.  With bent arms, she plays a lyre; her open mouth suggests she may also sing.  The second figure has short hair and wears a gown.  Facing forward, this figure bends its left arm to hold a bowl or (wicker?) basket on its head, echoing the pose and accoutrement of the long-haired figure at far left. Four additional figures are visible in the center of the image. The two uppermost of these who are both nude hold a circular garland or wreath between them with one extended arm each.  The body of the figure at right is horizontal with head at right though its head is turned to look left, perhaps back toward its companion, who faces forward but extends its legs left.  Below this pair, a single male figure with short hair and a blue shirt rides a horse facing forward and slightly right.  He bends his right arm to hold the horse's neck and leans forward. Both horse and rider may look toward the final figure in The Vision scene who hovers horizontally facing forward and right.  This male figure, who is nude but for a single swath of drapery covering his genitals, has short hair and wears a quiver on his back with a bow and the end of at least one arrow visible. He extends both arms horizontally, palms facing up, and may hold or touch an object (perhaps another garland or branch?) visible near his left hand and just above the sleeping figure's head.  Blue sky is visible along the upper edge of the image with colorful clouds and beams of light below.</illusobjdesc>
+                    <illusobjdesc>Ten figures hover or fly above a recumbent female figure in this
+                        image, which illustrates The Vision of Queen Katharine in Act 4, Scene 2 of
+                        Shakespeare's play <hi rend="i">Henry VIII</hi>. In the lower third of the
+                        scene, a female figure lies supine with her head at right on a heavily
+                        draped couch or bed. She has long hair and wears a gown. She may rest her
+                        head on a pillow(?) and her eyes are closed, suggesting sleep. Dark round
+                        forms, probably clouds, are visible near her feet lower left. This figure,
+                        Queen Katharine, is the wife of King Henry VIII who wishes to divorce her
+                        (as she has not born a male heir) and marry Anne Boleyn. Katharine becomes
+                        ill, and it is during her sickness in which The Vision occurs. The Vision
+                        itself constitutes the upper part of the image and includes ten figures
+                        (although only six figures appear in The Vision in the play). Near the left
+                        margin, a pair of female figures face each other and appear to hover. Facing
+                        forward, the gowned figure has long hair and bends both arms upward to hold
+                        an object (perhaps a wicker basket or bowl?) on her head. Immediately in
+                        front of her, a nude figure with long hair that may be braided faces away.
+                        This figure bends both arms at right angles and in her right hand holds one
+                        of the garlands mentioned in the play's text. A second pair of figures
+                        occupy the upper center of the design. The higher figure appears to be nude
+                        and female with long, flame-like hair that extends outward in spiky
+                        tendrils. She faces forward but looks down and only the upper half of her
+                        body is visible, as if she is emerging from the colorful cloud behind her.
+                        Both arms are extended horizontally, palms facing down. Below her left arm,
+                        a second figure, who appears to be a nude male figure with short hair,
+                        mimics her posture with his left arm extended horizontally. His body,
+                        however, may be twisted: though he faces forward and down, his left leg is
+                        extended to the left and his right arm is by his side (perhaps touching the
+                        female figure above him). A third pair of figures hover or float against the
+                        right margin. The gender of neither figure is distinct. The closer figure
+                        has short hair and likely wears a transparent gown. She(?) faces forward and
+                        slightly left with his legs crossed at the ankle. With bent arms, she plays
+                        a lyre; her open mouth suggests she may also sing. The second figure has
+                        short hair and wears a gown. Facing forward, this figure bends its left arm
+                        to hold a bowl or (wicker?) basket on its head, echoing the pose and
+                        accoutrement of the long-haired figure at far left. Four additional figures
+                        are visible in the center of the image. The two uppermost of these who are
+                        both nude hold a circular garland or wreath between them with one extended
+                        arm each. The body of the figure at right is horizontal with head at right
+                        though its head is turned to look left, perhaps back toward its companion,
+                        who faces forward but extends its legs left. Below this pair, a single male
+                        figure with short hair and a blue shirt rides a horse facing forward and
+                        slightly right. He bends his right arm to hold the horse's neck and leans
+                        forward. Both horse and rider may look toward the final figure in The Vision
+                        scene who hovers horizontally facing forward and right. This male figure,
+                        who is nude but for a single swath of drapery covering his genitals, has
+                        short hair and wears a quiver on his back with a bow and the end of at least
+                        one arrow visible. He extends both arms horizontally, palms facing up, and
+                        may hold or touch an object (perhaps another garland or branch?) visible
+                        near his left hand and just above the sleeping figure's head. Blue sky is
+                        visible along the upper edge of the image with colorful clouds and beams of
+                        light below.</illusobjdesc>
                     <component type="figure" location="CD">
                         <characteristic>female</characteristic>
                         <characteristic>lying</characteristic>
@@ -228,7 +284,17 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>dreaming</characteristic>
                         <characteristic>queen</characteristic>
                         <characteristic>Katharine</characteristic>
-                        <illusobjdesc>Ten figures hover or fly above a recumbent female figure in this image, which illustrates The Vision of Queen Katharine in Act 4, Scene 2 of Shakespeare's play <hi rend="i">Henry VIII</hi>. In the lower third of the scene, a female figure lies supine with her head at right on a heavily draped couch or bed. She has long hair and wears a gown. She may rest her head on a pillow(?) and her eyes are closed, suggesting sleep.  Dark round forms (perhaps clouds or stones?) are visible near her feet lower left.  This figure, Queen Katharine, is the wife of King Henry VIII who wishes to divorce her (as she has not born a male heir) and marry Anne Boleyn. Katharine becomes ill, and it is during her sickness in which The Vision occurs.</illusobjdesc>
+                        <illusobjdesc>Ten figures hover or fly above a recumbent female figure in
+                            this image, which illustrates The Vision of Queen Katharine in Act 4,
+                            Scene 2 of Shakespeare's play <hi rend="i">Henry VIII</hi>. In the lower
+                            third of the scene, a female figure lies supine with her head at right
+                            on a heavily draped couch or bed. She has long hair and wears a gown.
+                            She may rest her head on a pillow(?) and her eyes are closed, suggesting
+                            sleep. Dark round forms (perhaps clouds or stones?) are visible near her
+                            feet lower left. This figure, Queen Katharine, is the wife of King Henry
+                            VIII who wishes to divorce her (as she has not born a male heir) and
+                            marry Anne Boleyn. Katharine becomes ill, and it is during her sickness
+                            in which The Vision occurs.</illusobjdesc>
                     </component>
                     <component type="object" location="CD">
                         <characteristic>bed</characteristic>
@@ -236,12 +302,18 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>sheet</characteristic>
                         <characteristic>drapery</characteristic>
                         <characteristic>pillow</characteristic>
-                        <illusobjdesc>Above the bottom edge of the image, a female figure representing the Shakespearean character Queen Katharine lies supine on a bed or couch covered in sheets or drapery. She may rest her head on a pillow at right.</illusobjdesc>
+                        <illusobjdesc>Above the bottom edge of the image, a female figure
+                            representing the Shakespearean character Queen Katharine lies supine on
+                            a bed or couch covered in sheets or drapery. She may rest her head on a
+                            pillow at right.</illusobjdesc>
                     </component>
                     <component type="object" location="C">
                         <characteristic>cloud</characteristic>
                         <characteristic>dark</characteristic>
-                        <illusobjdesc>Above the bottom edge of the image, a female figure representing the Shakespearean character Queen Katharine lies supine on a bed or couch. Dark round forms, probably clouds, are visible near her feet lower left.</illusobjdesc>
+                        <illusobjdesc>Above the bottom edge of the image, a female figure
+                            representing the Shakespearean character Queen Katharine lies supine on
+                            a bed or couch. Dark round forms, probably clouds, are visible near her
+                            feet lower left.</illusobjdesc>
                     </component>
                     <component type="figure" location="A">
                         <characteristic>female</characteristic>
@@ -254,7 +326,12 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arms bent upward</characteristic>
                         <characteristic>holding</characteristic>
                         <characteristic>carrying</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures.  Near the left margin, a pair of female figures look toward each other and appear to hover or float.  Facing forward, the gowned figure on the left has long hair and bends both arms upward to hold an object (perhaps a basket or bowl?) on her head.</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            Near the left margin, a pair of female figures look toward each other
+                            and appear to hover or float. Facing forward, the gowned figure on the
+                            left has long hair and bends both arms upward to hold an object (perhaps
+                            a basket or bowl?) on her head.</illusobjdesc>
                     </component>
                     <component type="object" location="A">
                         <characteristic>basket</characteristic>
@@ -263,7 +340,10 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>vine</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>flower</characteristic>
-                        <illusobjdesc>The leftmost figure in the upper portion of the image representing The Vision holds an object on her head that appears to be a (wicker?) basket or bowl decorated with vines, leaves, and perhaps flowers.</illusobjdesc>
+                        <illusobjdesc>The leftmost figure in the upper portion of the image
+                            representing The Vision holds an object on her head that appears to be a
+                            (wicker?) basket or bowl decorated with vines, leaves, and perhaps
+                            flowers.</illusobjdesc>
                     </component>
                     <component type="figure" location="A">
                         <characteristic>female</characteristic>
@@ -276,14 +356,24 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arms bent</characteristic>
                         <characteristic>holding</characteristic>
                         <characteristic>leg bent</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures.  Near the left margin, a pair of female figures look toward each other and appear to hover or float.  At right, a nude figure with long hair that may be braided faces away. This figure bends both arms at right angles and in her right hand holds one of the garlands mentioned in the play's text.  The figure's left leg is slightly bent.</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            Near the left margin, a pair of female figures look toward each other
+                            and appear to hover or float. At right, a nude figure with long hair
+                            that may be braided faces away. This figure bends both arms at right
+                            angles and in her right hand holds one of the garlands mentioned in the
+                            play's text. The figure's left leg is slightly bent.</illusobjdesc>
                     </component>
                     <component type="vegetation" location="A">
                         <characteristic>garland</characteristic>
                         <characteristic>flower</characteristic>
                         <characteristic>vine</characteristic>
                         <characteristic>leaf</characteristic>
-                        <illusobjdesc>The second figure from the left in the upper part of the image illustrating The Vision holds a long garland in her right hand that may contain flowers, vines, and leaves.  The play describes the figures in The Vision both wearing and holding garlands in Act 4, Scene 2.</illusobjdesc>
+                        <illusobjdesc>The second figure from the left in the upper part of the image
+                            illustrating The Vision holds a long garland in her right hand that may
+                            contain flowers, vines, and leaves. The play describes the figures in
+                            The Vision both wearing and holding garlands in Act 4, Scene
+                            2.</illusobjdesc>
                     </component>
                     <component type="figure" location="AB">
                         <characteristic>female</characteristic>
@@ -302,7 +392,15 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arms extended</characteristic>
                         <characteristic>arms raised horizontally</characteristic>
                         <characteristic>palms down</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures.  A pair of figures who may fly, float, or hover occupies the upper middle of the design.  The higher figure appears to be nude and female with long, flame-like hair that extends outward in spiky tendrils. She faces forward but looks down; her mouth may be open. Only the upper half of her body is visible, as if she is emerging from the colorful cloud behind her.  Both arms are extended horizontally, palms facing down.</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            A pair of figures who may fly, float, or hover occupies the upper middle
+                            of the design. The higher figure appears to be nude and female with
+                            long, flame-like hair that extends outward in spiky tendrils. She faces
+                            forward but looks down; her mouth may be open. Only the upper half of
+                            her body is visible, as if she is emerging from the colorful cloud
+                            behind her. Both arms are extended horizontally, palms facing
+                            down.</illusobjdesc>
                     </component>
                     <component type="figure" location="AB">
                         <characteristic>nude</characteristic>
@@ -319,7 +417,15 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>leg extended</characteristic>
                         <characteristic>arm at side</characteristic>
                         <characteristic>touching</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures.  A pair of figures who may fly, float, or hover occupies the upper middle of the design. Below the upper figure's left arm, a second figure, who appears to be a nude male figure with short hair, mimics her posture with his left arm extended horizontally, palm facing down.  His body, however, may be twisted: though he faces forward and down, his left leg is extended to the left and his right arm is by his side (perhaps touching the female figure above him).</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            A pair of figures who may fly, float, or hover occupies the upper middle
+                            of the design. Below the upper figure's left arm, a second figure, who
+                            appears to be a nude male figure with short hair, mimics her posture
+                            with his left arm extended horizontally, palm facing down. His body,
+                            however, may be twisted: though he faces forward and down, his left leg
+                            is extended to the left and his right arm is by his side (perhaps
+                            touching the female figure above him).</illusobjdesc>
                     </component>
                     <component type="figure" location="B">
                         <characteristic>female</characteristic>
@@ -335,11 +441,19 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>playing</characteristic>
                         <characteristic>mouth open</characteristic>
                         <characteristic>singing</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures. A third pair of figures hover or float against the right margin. The gender of neither figure is distinct.  The closer figure has short hair and likely wears a transparent gown. She(?) faces forward and slightly left with her legs crossed at the ankle.  With bent arms, she plays a lyre; her open mouth suggests he may also sing.</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            A third pair of figures hover or float against the right margin. The
+                            gender of neither figure is distinct. The closer figure has short hair
+                            and likely wears a transparent gown. She(?) faces forward and slightly
+                            left with her legs crossed at the ankle. With bent arms, she plays a
+                            lyre; her open mouth suggests he may also sing.</illusobjdesc>
                     </component>
                     <component type="object" location="B">
                         <characteristic>lyre</characteristic>
-                        <illusobjdesc>The second figure from the right in the upper part of the image representing The Vision holds a lyre that she(?) appears to play.</illusobjdesc>
+                        <illusobjdesc>The second figure from the right in the upper part of the
+                            image representing The Vision holds a lyre that she(?) appears to
+                            play.</illusobjdesc>
                     </component>
                     <component type="figure" location="B">
                         <characteristic>hovering</characteristic>
@@ -350,14 +464,23 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arm bent upward</characteristic>
                         <characteristic>holding</characteristic>
                         <characteristic>carrying</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures. A third pair of figures hover or float against the right margin. The gender of neither figure is distinct.  The rightmost figure has short hair and wears a gown.  Facing forward, this figure bends its left arm to hold a bowl or (wicker?) basket on its head, echoing the pose and accoutrement of the long-haired figure at far left.</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            A third pair of figures hover or float against the right margin. The
+                            gender of neither figure is distinct. The rightmost figure has short
+                            hair and wears a gown. Facing forward, this figure bends its left arm to
+                            hold a bowl or (wicker?) basket on its head, echoing the pose and
+                            accoutrement of the long-haired figure at far left.</illusobjdesc>
                     </component>
                     <component type="object" location="B">
                         <characteristic>basket</characteristic>
                         <characteristic>wicker</characteristic>
                         <characteristic>bowl</characteristic>
                         <characteristic>leaf</characteristic>
-                        <illusobjdesc>Echoing the pose and accoutrement of the leftmost figure in the composition, the rightmost figure in the upper portion of the image representing The Vision holds a bowl or (wicker?) basket on its head.  A few leaves appear on and above this basket or bowl.</illusobjdesc>
+                        <illusobjdesc>Echoing the pose and accoutrement of the leftmost figure in
+                            the composition, the rightmost figure in the upper portion of the image
+                            representing The Vision holds a bowl or (wicker?) basket on its head. A
+                            few leaves appear on and above this basket or bowl.</illusobjdesc>
                     </component>
                     <component type="figure" location="E">
                         <characteristic>hovering</characteristic>
@@ -372,7 +495,14 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>body horizontal</characteristic>
                         <characteristic>looking</characteristic>
                         <characteristic>long hair</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures. Four figures who may hover, float, or fly are visible in the center of the image. The two uppermost of these who are both nude hold a circular garland or wreath between them with one extended arm each.  The body of the figure at right is horizontal with head at right though its head is turned to look left, perhaps back toward its companion. This figure has long hair.</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            Four figures who may hover, float, or fly are visible in the center of
+                            the image. The two uppermost of these who are both nude hold a circular
+                            garland or wreath between them with one extended arm each. The body of
+                            the figure at right is horizontal with head at right though its head is
+                            turned to look left, perhaps back toward its companion. This figure has
+                            long hair.</illusobjdesc>
                     </component>
                     <component type="figure" location="E">
                         <characteristic>hovering</characteristic>
@@ -386,14 +516,23 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>arm extended</characteristic>
                         <characteristic>short hair</characteristic>
                         <characteristic>legs extended</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures. Four figures who may hover, float, or fly are visible in the center of the image. The two uppermost of these, who are both nude and positioned horizontally, hold a circular garland or wreath between them with one extended arm each. The short-haired figure at left faces forward but extends its legs left.</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            Four figures who may hover, float, or fly are visible in the center of
+                            the image. The two uppermost of these, who are both nude and positioned
+                            horizontally, hold a circular garland or wreath between them with one
+                            extended arm each. The short-haired figure at left faces forward but
+                            extends its legs left.</illusobjdesc>
                     </component>
                     <component type="vegetation" location="E">
                         <characteristic>laurel</characteristic>
                         <characteristic>wreath</characteristic>
                         <characteristic>garland</characteristic>
                         <characteristic>crown</characteristic>
-                        <illusobjdesc>In the center of the image, two nude figures hover, float, or fly above the sleeping Queen Katharine and hold a garland, perhaps of laurels, between them. This object may represent one of the garlands mentioned in the play's text.</illusobjdesc>
+                        <illusobjdesc>In the center of the image, two nude figures hover, float, or
+                            fly above the sleeping Queen Katharine and hold a garland, perhaps of
+                            laurels, between them. This object may represent one of the garlands
+                            mentioned in the play's text.</illusobjdesc>
                     </component>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
@@ -408,7 +547,14 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>touching</characteristic>
                         <characteristic>arm bent</characteristic>
                         <characteristic>looking</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures. Four figures are visible in the center of the image, one of whom rides a horse.  The rider appears to be male, with short hair and an open mouth.  He wears a shirt and breeches(?). Facing forward and slightly right, he bends forward and touches the horse's neck with his bent right arm, perhaps encouraging his horse toward the figure in front of them. Both horse and rider may look toward this figure.</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            Four figures are visible in the center of the image, one of whom rides a
+                            horse. The rider appears to be male, with short hair and an open mouth.
+                            He wears a shirt and breeches(?). Facing forward and slightly right, he
+                            bends forward and touches the horse's neck with his bent right arm,
+                            perhaps encouraging his horse toward the figure in front of them. Both
+                            horse and rider may look toward this figure.</illusobjdesc>
                     </component>
                     <component type="animal" location="E">
                         <characteristic>horse</characteristic>
@@ -416,7 +562,11 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>facing right</characteristic>
                         <characteristic>tail</characteristic>
                         <characteristic>looking</characteristic>
-                        <illusobjdesc>In the center of the upper part of the image representing The Vision, a male figure rides a horse forward and to the right. Clouds obscure most of the animal's lower body, but its tail swishes prominently. Both horse and rider may look toward the male figure in front of them at right.</illusobjdesc>
+                        <illusobjdesc>In the center of the upper part of the image representing The
+                            Vision, a male figure rides a horse forward and to the right. Clouds
+                            obscure most of the animal's lower body, but its tail swishes
+                            prominently. Both horse and rider may look toward the male figure in
+                            front of them at right.</illusobjdesc>
                     </component>
                     <component type="figure" location="E">
                         <characteristic>male</characteristic>
@@ -437,30 +587,50 @@ granted by the owners of the originals for this publication only.<lb/>
                         <characteristic>holding</characteristic>
                         <characteristic>touching</characteristic>
                         <characteristic>throwing</characteristic>
-                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision itself constitutes the upper part of the image and includes ten figures. Four figures who may hover, float, or fly are visible in the center of the image.  The lowest of these is a male figure, who is nude but for a single swath of drapery covering his genitals, has short hair, and wears a quiver on his back with a bow and the end of at least one arrow visible. His mouth may be open. He extends both arms horizontally, palms facing up, and may hold or touch an object (perhaps another garland or leaves) visible near his left hand and just above the sleeping figure's head.  He may be throwing the leaves downward.</illusobjdesc>
+                        <illusobjdesc>Above the sleeping figure of Queen Katharine, The Vision
+                            itself constitutes the upper part of the image and includes ten figures.
+                            Four figures who may hover, float, or fly are visible in the center of
+                            the image. The lowest of these is a male figure, who is nude but for a
+                            single swath of drapery covering his genitals, has short hair, and wears
+                            a quiver on his back with a bow and the end of at least one arrow
+                            visible. His mouth may be open. He extends both arms horizontally, palms
+                            facing up, and may hold or touch an object (perhaps another garland or
+                            leaves) visible near his left hand and just above the sleeping figure's
+                            head. He may be throwing the leaves downward.</illusobjdesc>
                     </component>
                     <component type="object" location="BD">
                         <characteristic>arrow</characteristic>
                         <characteristic>quiver</characteristic>
                         <characteristic>bow</characteristic>
-                        <illusobjdesc>The lowest figure in the upper part of the image representing The Vision of Queen Katharine wears a quiver on his back that appears to hold at least one arrow, visible behind his right shoulder. The ends of his bow are visible behind his right shoulder and below his left hip.</illusobjdesc>
+                        <illusobjdesc>The lowest figure in the upper part of the image representing
+                            The Vision of Queen Katharine wears a quiver on his back that appears to
+                            hold at least one arrow, visible behind his right shoulder. The ends of
+                            his bow are visible behind his right shoulder and below his left
+                            hip.</illusobjdesc>
                     </component>
                     <component type="vegetation" location="D">
                         <characteristic>leaf</characteristic>
                         <characteristic>garland</characteristic>
-                        <illusobjdesc>Above and behind the Queen Katharine's head and just below the extended left arm of the lowest visionary figure, an indeterminate object composed of several small circles appears to hover. This object may represent another garland or branch such as those mentioned in the play's text.</illusobjdesc>
+                        <illusobjdesc>Above and behind the Queen Katharine's head and just below the
+                            extended left arm of the lowest visionary figure, an indeterminate
+                            object composed of several small circles appears to hover. This object
+                            may represent another garland or branch such as those mentioned in the
+                            play's text.</illusobjdesc>
                     </component>
                     <component type="object" location="E">
                         <characteristic>sky</characteristic>
                         <characteristic>cloud</characteristic>
                         <characteristic>beams of light</characteristic>
-                        <illusobjdesc>Blue sky is visible along the upper edge of the image with colorful clouds(?) and beams of light below.</illusobjdesc>
+                        <illusobjdesc>Blue sky is visible along the upper edge of the image with
+                            colorful clouds(?) and beams of light below.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
             <phystext>
                 <lg justify="left">
-                    <l n="but247.1.penandink.01.01" justify="left" indent="49">WB<note>This pen and ink inscription is probably not by Blake. It was partly cut off at the bottom when the edge of the paper was trimmed.</note></l>
+                    <l n="but247.1.penandink.01.01" justify="left" indent="49">WB<note>This pen and
+                            ink inscription is probably not by Blake. It was partly cut off at the
+                            bottom when the edge of the paper was trimmed.</note></l>
                 </lg>
             </phystext>
         </desc>
