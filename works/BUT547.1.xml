@@ -1,0 +1,2052 @@
+<bad id="but547.1" type="wc" work="Six Extra-Illustrations to a Second Folio Edition of Shakespeare"
+    copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="547">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Six Extra-Illustrations to a Second Folio Edition of Shakespeare">
+                    <main>Six Extra-Illustrations to a Second Folio Edition of Shakespeare</main> :
+                    electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor/>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>March
+                    2020</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2020</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2020 British Museum </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>April-May 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created</change>
+                <date>September 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquired and catalogued</change>
+                <date>September 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum</name>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Gerald Miller, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title> *Six Extra-Illustrations to a Second Folio Edition of Shakespeare*
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                </origination>
+
+                <compdate value="1806">1806 and 1809<note>Objects 1 (<hi rend="i">Jacques and the
+                            Wounded Stag</hi>), 4 (<hi rend="i">Brutus and Caesar's Ghost</hi>), and
+                        5 (<hi rend="i">Hamlet and His Father's Ghost</hi>) are inscribed by Blake
+                        with the date "1806." Objects 3 (<hi rend="i">Queen Katharine's Dream</hi>)
+                        and 6 (<hi rend="i">As If an Angel Dropped Down from the Clouds</hi>) are
+                        inscribed "1809" by Blake. Object 2 (<hi rend="i">Richard III and the
+                            Ghosts</hi>) can be dated to c. 1806 because of its stylistic
+                        similarities to the works with that inscribed date.</note>
+                </compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>6</numberobj>
+                <objsize>each approximately 23.0 x 16.5 cm.</objsize>
+                <numberleaves>6</numberleaves>
+                <leafsize>approximately 24.5 x 18.0 cm. (objects 1, 2, 4, 5), 30.8 x 19.4 cm.
+                    (object 3), 38.0 x 19.1 cm. (object 6)</leafsize>
+                <medium>pen and ink and water color<note>Blake's inscriptions are in pen and
+                        ink.</note>
+                </medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>Single framing lines extend around objects 3 and 6.</framelines>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1954</date>
+                <dealer>none</dealer>
+                <price>bequest</price>
+                <note>In part commissioned from Blake by Joseph Thomas in 1801 (see the postscript
+                    addressed to Blake in John Flaxman's letter of 31 July 1801 to William Hayley,
+                    quoted in Butlin 547) but apparently not delivered until 1806-09 when inserted
+                    into a 1632 second folio of Shakespeare's plays; by inheritance to Thomas's
+                    widow in 1811; their daughter, Mrs. John Woodford Chase; her son, Drummond Percy
+                    Chase, in 1876, probably by inheritance; sold 1880 to Alexander Macmillan; W. E.
+                    F. Macmillan; given by the executors of his estate to the British Museum in
+                    1954.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <addressline>Great Russell Street</addressline>
+                <addressline>London WC1B 3DG</addressline>
+                <addressline>United Kingdom</addressline>
+                <addressline>Telephone: 44-(0)20-7323 8408</addressline>
+                <addressline>Fax: 44-(0)20-7323 8408</addressline>
+                <addressline>URL: http://www.britishmuseum.org</addressline>
+                <addressline>British Museum</addressline>
+                <department>Department of Prints and Drawings</department>
+                <addressline>Email, Department of Prints and Drawings:
+                    prints@britishmuseum.org</addressline>
+                <repositoryid label="Registration numbers">1954,1113.1.11, 21, 22, 26, 27,
+                    37</repositoryid>
+            </repository>
+        </source>
+        <desc id="but547.1.wc.01" dbi="BUT547.1.1.WC">
+            <objtitle>
+                <title type="transcribed">Jacques and the Wounded Stag</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="UI">(Butlin 547.1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.0 x 15.8 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>In this illustration of Shakespeare's <hi rend="i">As You Like
+                            It</hi>, a male figure sits on the bank of a body of water and turns his
+                        head to look up with an open mouth. His left arm is bent upward with palm
+                        facing up. He extends his right arm to point toward a deer at left, which
+                        appears to be wounded and dripping blood from its left side. The animal
+                        bends down, perhaps to drink from the water. At least eight other deer are
+                        visible in the forested background. The man is Jacques, one of the noblemen
+                        attending Duke Senior who lives in exile in the forest. In Act II, Scene I,
+                        of the play, the First Lord narrates a story about observing "melancholy
+                        Jacques" as he followed a wounded stag to the edge of a stream and, while
+                        overcome with emotion, compared the animal's isolation and death to the ills
+                        of human society: "'Poor deer,' quoth he, 'thou mak'st a testament/ As
+                        worldlings do, giving thy sum of more/ To that which had too much.'"
+                        (49-51).</illusobjdesc>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>open mouth</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>bald</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>pants</characteristic>
+                        <characteristic>sandal</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>hand raised palm up</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>speaking</characteristic>
+                        <characteristic>melancholy</characteristic>
+                        <characteristic>Jacques</characteristic>
+                        <illusobjdesc>In this illustration of Shakespeare's <hi rend="i">As You Like
+                                It</hi>, a male figure sits on the bank of a body of water and turns
+                            his head to look up with an open mouth. He has short hair (perhaps
+                            partially bald?) and a mustache and wears a collared shirt, pants, and
+                            perhaps sandals. His left arm is bent upward with palm facing up. He
+                            extends his right arm and may point toward a deer at left, which appears
+                            to be wounded. The male figure represents Jacques, one of the noblemen
+                            attending Duke Senior who lives in exile in the forest. In Act II, Scene
+                            I, of the play, the First Lord narrates a story about observing
+                            "melancholy Jacques" as he followed a wounded stag to the edge of a
+                            stream and, while overcome with emotion, compared the animal's isolation
+                            and death to the ills of human society.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="C">
+                        <characteristic>deer</characteristic>
+                        <characteristic>stag</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>drinking</characteristic>
+                        <characteristic>tears</characteristic>
+                        <characteristic>crying</characteristic>
+                        <characteristic>blood</characteristic>
+                        <characteristic>wound</characteristic>
+                        <characteristic>dying</characteristic>
+                        <illusobjdesc>A stag with prominent antlers bends forward, possibly to drink
+                            from a body of water on the left side of this illustration of
+                            Shakespeare's <hi rend="i">As You Like It</hi>. The animal faces
+                            forward, and tears stream down from its eyes. A wound is visible on its
+                            left side from which blood drips and to which the male figure, Jacques,
+                            points. The scene references Jacques' interaction with a wounded, crying
+                            stag in Act II, Scene I of the play in which he compares the isolation
+                            and eventual death of the animal to the ills of human society. "The
+                            wretched animal heaved forth such groans/ That their discharge did
+                            stretch his leathern coat/ Almost to bursting, and the big round tears/
+                            Coursed one another down his innocent nose/ In piteous chase."
+                            (37-41).</illusobjdesc>
+                    </component>
+                    <component type="animal" location="E">
+                        <characteristic>deer</characteristic>
+                        <characteristic>stag</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>running</characteristic>
+                        <illusobjdesc>In this illustration of Shakespeare's <hi rend="i">As You Like
+                                It</hi>, at least eight deer are visible in the forested background:
+                            a group of three stand facing forward between two trees at left while a
+                            cluster of five appear to run to the right or away near the center of
+                            the image. All of these animals have antlers and are thus stags. These
+                            deer likely represent the "careless herd,/ Full of pasture, [who] jumps
+                            along by him [the wounded deer]/ And never stays to greet him."
+                            (55-57).</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>water</characteristic>
+                        <characteristic>stream</characteristic>
+                        <characteristic>river</characteristic>
+                        <characteristic>bank</characteristic>
+                        <illusobjdesc>A body of water and a grassy bank (on which the male figure
+                            sits) are visible along the bottom edge of the image from which the stag
+                            prepares to drink. The water is likely the "brook that brawls along this
+                            wood;/ To the which place a poor sequestered stag/ That from the
+                            hunter's aim had ta'en a hurt/ Did come to languish."
+                            (33-35).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>tree</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>grass</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>oak</characteristic>
+                        <characteristic>ivy</characteristic>
+                        <illusobjdesc>This illustration likely represents the forest in which Duke
+                            Senior and his noblemen attendants, including Jacques, live in exile in
+                            Shakespeare's play <hi rend="i">As You Like It</hi>. Four tree trunks
+                            with leafy foliage dominate the grassy, hilly landscape. Branches are
+                            visible on the two middle trees, and a leafy vine (perhaps ivy) grows up
+                            the leftmost tree, which is likely the oak "whose antique root peeps
+                            out" mentioned in the play (32).</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>hill</characteristic>
+                        <characteristic>sky</characteristic>
+                        <illusobjdesc>Below an area of blue sky upper left, hills are visible in the
+                            background forested landscape, with one particularly large hill behind
+                            the group of deer at left.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="but547.1.penandink.01.01" justify="left" indent="46">
+                        <hi rend="superscript">inv</hi>
+                    </l>
+                    <l n="but547.1.penandink.01.02" justify="left" indent="46">WB 1806</l>
+                    <note>Butlin 547.1 records additional inscriptions, but we have not been able to
+                        locate these on the work as it presently exists.</note>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="but547.1.wc.02" dbi="BUT547.1.2.WC">
+            <objtitle>
+                <title type="transcribed">Richard III and The Ghosts</title>, <objid>
+                    <objnumber code="A2">Object 2 </objnumber>
+                    <objcode code="U2">(Butlin 547.2)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>20.5 x 15.5 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>A central figure in armor raises a sword above his head while at
+                        least nine other figures, who are translucent and thus likely ghosts, hover
+                        around him. The illustration likely represents the scene from Shakespeare's
+                        play <hi rend="i">Richard III</hi>, Act 5, Scene 3, in which King Richard
+                        III is visited in his tent by the ghosts of all those he has killed,
+                        including his brother, nephews, and wife. Only nine of the play's eleven
+                        ghosts, however, are depicted here. Facing forward in the center of the
+                        composition with sword raised, Richard leans or steps to the left with legs
+                        spread wide. He looks up with a fearful expression, and his mouth is open.
+                        Directly below him, two small translucent figures hover or fly with heads at
+                        left, facing up. They both have short hair and appear to wear gowns; both
+                        point upward toward Richard. They are likely the ghosts of Prince Edward and
+                        Richard, Duke of York, the sons of late King Edward IV. Four additional
+                        ghostly figures hover near the right margin. Facing away but turned to look
+                        left, a female figure with a long gown and veil extends her left arm to
+                        touch Richard on the shoulder. Her mouth is open, suggesting she is
+                        speaking. This figure is likely the Ghost of Lady Anne, Richard's wife whom
+                        he murdered in order to court his niece, Elizabeth of York. Immediately
+                        behind and to the left of Lady Anne, an older male figure with a mustache
+                        and long beard faces forward and looks down to the left toward Richard. He
+                        bends his right arm to point toward Anne. The heads of two additional
+                        ghostly figures appear alternatively to the left of the bearded male figure
+                        and to the right of the female figure, Anne. On the left side of the image,
+                        three additional ghostly male figures appear, all facing right. The
+                        rightmost of these is bearded and wears a crown and a long gown. His mouth
+                        is open and his brow furrowed as he points accusingly toward bloody wounds
+                        in his chest with both bent arms. This is likely King Henry VI, who in the
+                        play tells Richard III, "When I was mortal, my annointed body/ By thee was
+                        punched full of deadly holes./ Think on the Tower and me. Despair and die!"
+                        (132-134). The middle male figure at left has short curly hair and appears
+                        to look down in horror at the wounds of the male figure in front of him,
+                        King Henry VI. Only the head of the leftmost figure, whose mouth is open, is
+                        visible. Behind the figures, the top of a tent is visible; in the play, the
+                        ghosts visit Richard in his battlefield tent on the eve of war. There is a
+                        bed with sheets and a tubular pillow (?) in the lower part of the
+                        composition's background along with a table on which two lighted candles and
+                        an open book rest. Areas of dark shadow appear all around the composition,
+                        and the areas of darkness in the upper corners of the composition may
+                        suggest the time is night.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>leg exended</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>fear</characteristic>
+                        <characteristic>king</characteristic>
+                        <characteristic>Richard the Third</characteristic>
+                        <illusobjdesc>Facing forward in the center of the composition with sword
+                            raised above his head with his bent right arm, a male figure leans or
+                            steps to the left with legs spread wide and left leg extended. He has
+                            short curly hair and a beard and also wears armor. His left arm is bent
+                            and by his side where he holds a scabbard. He looks up with a fearful
+                            expression, and his mouth is open. At least nine other figures, who are
+                            translucent and thus likely ghosts, hover around him. The illustration
+                            likely represents the scene from Shakespeare's play <hi rend="i">Richard
+                                III</hi>, Act 5, Scene 3, in which King Richard III is visited in
+                            his tent by the ghosts of all those he has killed, including his
+                            brother, nephews, and wife.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>sword</characteristic>
+                        <characteristic>scabbard</characteristic>
+                        <illusobjdesc>The central figure, Richard III, holds a sword in his right
+                            hand, which is raised above his head. In his left hand, which is by his
+                            side, he holds a scabbard.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>open mouth</characteristic>
+                        <characteristic>speaking</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>prince</characteristic>
+                        <characteristic>Edward</characteristic>
+                        <characteristic>Richard</characteristic>
+                        <characteristic>York</characteristic>
+                        <illusobjdesc>In this depiction of Act 5, Scene 3 in Shakespeare's play <hi
+                                rend="i">Richard III</hi>, at least nine ghosts hover around the
+                            central figure of Richard III, their murderer. Directly below Richard,
+                            two small translucent figures hover or fly with heads at left, facing
+                            up, and bodies horizontal. They both have short, curly hair and appear
+                            to wear gowns; both point and look upward toward Richard and have open
+                            mouths. They are likely the ghosts of Prince Edward and Richard, Duke of
+                            York, the young sons of late King Edward IV, who in the play tell
+                            Richard: "Dream on thy cousins smothered in the Tower./ Let us be lead
+                            within thy bosom, Richard, And weigh thee down to ruin, shame, and
+                            death./ Thy nephews' souls bid thee despair and die." (155-158). Seen
+                            from behind and facing left, the foregrounded figure (who has curly
+                            hair) raises his left arm vertically and extends his right arm backward
+                            to touch his extended left leg.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>open mouth</characteristic>
+                        <characteristic>speaking</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>prince</characteristic>
+                        <characteristic>Edward</characteristic>
+                        <characteristic>Richard</characteristic>
+                        <characteristic>York</characteristic>
+                        <illusobjdesc>In this depiction of Act 5, Scene 3 in Shakespeare's play <hi
+                                rend="i">Richard III</hi>, at least nine ghosts hover around the
+                            central figure of Richard III, their murderer. Directly below Richard,
+                            two small translucent figures hover or fly with heads at left, facing
+                            up, and bodies horizontal. They both have short hair and appear to wear
+                            gowns; both point and look upward toward Richard and have open mouths.
+                            They are likely the ghosts of Prince Edward and Richard, Duke of York,
+                            the young sons of late King Edward IV, who in the play tell Richard:
+                            "Dream on thy cousins smothered in the Tower./ Let us be lead within thy
+                            bosom, Richard, And weigh thee down to ruin, shame, and death./ Thy
+                            nephews' souls bid thee despair and die." (155-158). The prince behind
+                            his companion faces forward and raises his right arm vertically while
+                            his left is visible at his side.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>ghost</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>veil</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>speaking</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>Anne</characteristic>
+                        <illusobjdesc>In this depiction of Act 5, Scene 3 in Shakespeare's play <hi
+                                rend="i">Richard III</hi>, at least nine ghosts hover around the
+                            central figure of Richard III, their murderer. Four ghostly figures
+                            hover near the right margin. Facing away but turned to look left, a
+                            female figure with a long gown and veil extends her left arm to touch
+                            Richard on the shoulder. Her mouth is open, suggesting she is speaking.
+                            Her right leg is slightly bent and extended behind her with the right
+                            foot visible. This figure is likely the Ghost of Lady Anne, Richard's
+                            wife whom he murdered in order to court his niece, Elizabeth of York. In
+                            the play, she tells Richard: "Richard, thy wife, that wretched Anne thy
+                            wife,/ That never slept a quiet hour with thee,/ Now fills thy sleep
+                            with perturbations./ Tomorrow, in the battle, think on me,/ And fall thy
+                            edgeless sword. Despair and die!" (169-173).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <illusobjdesc>In this depiction of Act 5, Scene 3 in Shakespeare's play <hi
+                                rend="i">Richard III</hi>, at least nine ghosts hover around the
+                            central figure of Richard III, their murderer. Four ghostly figures
+                            hover near the right margin. Immediately behind and to the left of Lady
+                            Anne, the female figure, an older male figure with a mustache and long
+                            beard who may wear a gown faces forward and looks down to the left
+                            toward the central figure, Richard. He bends his right arm to point
+                            toward Anne.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>In this depiction of Act 5, Scene 3 in Shakespeare's play <hi
+                                rend="i">Richard III</hi>, at least nine ghosts hover around the
+                            central figure of Richard III, their murderer. Four ghostly figures
+                            hover near the right margin. The heads of two of these ghostly figures
+                            appear alternatively to the left of the bearded male figure and to the
+                            right of the female figure, Anne. The head at left faces forward and
+                            left to look toward the central figure, Richard.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>head</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>In this depiction of Act 5, Scene 3 in Shakespeare's play <hi
+                                rend="i">Richard III</hi>, at least nine ghosts hover around the
+                            central figure of Richard III, their murderer. Four ghostly figures
+                            hover near the right margin. The heads of two of these ghostly figures
+                            appear alternatively to the left of the bearded male figure and to the
+                            right of the female figure, Anne. The gender of the head at right is
+                            unclear, but this figure faces directly forward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>anger</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>blood</characteristic>
+                        <characteristic>wound</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>king</characteristic>
+                        <characteristic>Henry the Sixth</characteristic>
+                        <illusobjdesc>In this depiction of Act 5, Scene 3 in Shakespeare's play <hi
+                                rend="i">Richard III</hi>, at least nine ghosts hover around the
+                            central figure of Richard III, their murderer. On the left side of the
+                            image, three additional ghostly male figures appear to hover, all facing
+                            right and leaning forward to look toward the central figure, Richard.
+                            The rightmost of these is bearded and wears a crown and a long gown. His
+                            mouth is open, perhaps to suggest he is speaking, and his brow furrowed
+                            in anger as he points accusingly toward bloody wounds in his chest with
+                            both bent arms. His left foot is visible below his gown. This is likely
+                            King Henry VI, who in the play tells Richard III, "When I was mortal, my
+                            annointed body/ By thee was punched full of deadly holes./Think on the
+                            Tower and me. Despair and die!" (132-134).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <illusobjdesc>In this depiction of Act 5, Scene 3 in Shakespeare's play <hi
+                                rend="i">Richard III</hi>, at least nine ghosts hover around the
+                            central figure of Richard III, their murderer. On the left side of the
+                            image, three additional ghostly male figures appear to hover, all facing
+                            right and leaning forward to look toward the central figure, Richard.
+                            The middle male figure at left has short curly hair and appears to look
+                            down in horror at the wounds of the male figure in front of him, King
+                            Henry VI. He raises his bent right arm to his chest (where he appears to
+                            point) and may wear a gown. His mouth appears to be open.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <illusobjdesc>In this depiction of Act 5, Scene 3 in Shakespeare's play <hi
+                                rend="i">Richard III</hi>, at least nine ghosts hover around the
+                            central figure of Richard III, their murderer. On the left side of the
+                            image, three additional ghostly male figures appear to hover, all facing
+                            right and leaning forward to look toward the central figure, Richard.
+                            Only the short-haired head of the leftmost figure, whose mouth is open,
+                            is visible.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="AB">
+                        <characteristic>tent</characteristic>
+                        <illusobjdesc>Behind the figures in the upper half of the composition, the
+                            top of a tent is visible. In the play, the ghosts visit Richard in his
+                            battlefield tent on the eve of war.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>bed</characteristic>
+                        <characteristic>sheet</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>table</characteristic>
+                        <characteristic>candle</characteristic>
+                        <characteristic>candle holder</characteristic>
+                        <characteristic>candlestick</characteristic>
+                        <characteristic>light</characteristic>
+                        <characteristic>open</characteristic>
+                        <characteristic>book</characteristic>
+                        <illusobjdesc>In the lower half of the composition, in the background, there
+                            is a bed with sheets and a tubular pillow along with a table at left on
+                            which two lighted candles and what appears to be an open book rest. The
+                            light from the candles emphasizes the translucency of the ghosts at
+                            left.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>darkness</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <characteristic>dark</characteristic>
+                        <characteristic>night</characteristic>
+                        <illusobjdesc>Areas of dark shadow appear all around the composition,
+                            particularly in the corners. The darkness in the upper corners may
+                            suggest the time is night, which correlates with the nighttime setting
+                            of the scene in the play.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="but547.1.penandink.02.01" justify="left" indent="6">WB inv</l>
+                    <note>Butlin 547.2 records additional inscriptions, but we have not been able to
+                        locate these on the work as it presently exists.</note>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="but547.1.wc.03" dbi="BUT547.1.3.WC">
+            <objtitle>
+                <title type="transcribed">Queen Katharine's Dream</title>, <objid>
+                    <objnumber code="A3">Object 3 </objnumber>
+                    <objcode code="U3">(Butlin 547.3)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.2 x 16.9 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Three large figures, two female and one male, and twenty-four
+                        smaller female figures occupy the space of this composition, which
+                        represents The Vision of Queen Katharine in Act 4, Scene 2 of Shakespeare's
+                        play <hi rend="i">Henry VIII</hi>. The central female figure of Queen
+                        Katharine lies supine with legs together on a bed or couch with her head at
+                        right near the lower third of the scene. She has long hair and wears a gown
+                        and veil (perhaps also with a crown?). Both arms are bent by her sides but
+                        extended upward from the elbow with fingers spread. She appears to raise her
+                        head and shoulders away from the pillow below her, perhaps to better see the
+                        visionary activity above her. Queen Katharine is the wife of King Henry VIII
+                        who wishes to divorce her (as she has not born a male heir) and marry Anne
+                        Boleyn. Katharine becomes ill, and it is during her sickness in which The
+                        Vision occurs. The bed or couch on which she lies contains a serpentine arm
+                        at right as well as a pillow and heavy drapery on the left side. In front of
+                        the bed in both lower corners of the composition, the other two large
+                        figures sit facing each other on sizable pillows. Both have their eyes
+                        closed and appear to sleep with their heads supported on one bent arm. The
+                        figure in the right corner is a gowned female with long hair who rests her
+                        elbow on the open book atop the small table behind her. She is probably
+                        Patience, servant to the queen. The male figure at left has white hair and a
+                        long beard; he is also gowned. This is probably Griffith, the queen's usher.
+                        He rests his elbow on a similar table behind him and turns his head to face
+                        forward. The twenty-four other smaller figures in the scene, who all appear
+                        to be gowned and female, fly upward and around the supine figure of Queen
+                        Katharine in serpentine formations. Nine of these figures circle the body of
+                        Queen Katharine in the lower half of the image. In the center along the
+                        bottom margin, the lowest of these figures face forward but lean and face
+                        away from one another as they touch extended hands and perhaps also feet to
+                        form a sort of diamond shape between them. Both wear laurel crowns and wispy
+                        clouds are visible around them, as if arising from the same origin. The
+                        figure at right raises her left arm to hold the hand of a third figure who
+                        flies upward facing away. Both legs are bent and her long hair is visible.
+                        She raises her right hand to touch the foot of a fourth figure who flies or
+                        hovers directly to the right of Queen Katharine's head. This figure faces
+                        away but looks left. She wears a laurel crown and holds another such crown
+                        in her bent left arm. A fifth figure also holds this crown with her bent
+                        left arm while she hovers with body horizontal at left, just above the torso
+                        of Queen Katharine. Together, these small figures may be preparing to crown
+                        the supine queen, and both point upward with their other free hand. This
+                        moment is referenced directly in the play's text: "the first two
+                        [Personages] hold a spare garland over her head" (Act 4, Scene 2). Returning
+                        to the pair of figures at the bottom of the image, the left figure raises
+                        her right arm to hold the hand of a long-haired sixth figure at left who
+                        faces forward and raises both arms horizontally. This figure, with her right
+                        arm, touches (or almost touches) the foot of a seventh figure who faces away
+                        and twists her body to the right in a sort of half-circle around Queen
+                        Katharine's feet. This figure holds an object in each raised hand, which may
+                        be cymbals. Small clouds are visible beneath this figures at left. To the
+                        right of the leftmost figure's torso, two additional figures hover with
+                        bodies horizontal and complete the circle of figures around Queen Katharine.
+                        The leftmost of these faces forward and plays a harp or lyre. Her companion
+                        at right, who appears to wear a laurel crown, faces away and may also play a
+                        musical instrument. In the upper half of the image, fifteen figures fly
+                        upward or float on small, wispy clouds in a serpentine formation of three
+                        approximate tiers. The lowest tier contains four figures with bodies
+                        horizontal flying left and two furthest left whose bodies are slightly
+                        higher and twisted to the right. The rightmost figure faces forward with
+                        arms extended horizontally; in each hand, she holds circular objects that
+                        may be cymbals. Behind and slightly to the left of her, a second figure
+                        echoes her posture with arms raised horizontally, palms facing forward. The
+                        third figure from the right, who has long hair, faces to the left but turns
+                        to look back toward her companions. She plays a harp or lyre with her left
+                        hand. The fourth figure from the right faces away and holds a similar harp
+                        or lyre with bent arms. The two leftmost figures in this tier face away and
+                        bend sharply to the right with arms extended vertically; they both appear to
+                        hold and play cymbals. Four right-facing figures constitute the second and
+                        middle tier of figures. The leftmost figure, just to the right of the
+                        cymbal-playing pair below, has long hair and holds a harp or lyre with bent
+                        arms. To her right, a long-haired figure faces right and plays two horns,
+                        which she holds with extended arms. The rightmost figures in this tier fly
+                        upward side-by-side and play horns pointed upward. The figure at left faces
+                        away, and it is unclear which direction the figure at right faces. The third
+                        and highest tier contains five figures. The rightmost of these faces away
+                        and twists her body in a serpentine position to the left. To the left, a
+                        figure plays two horns, which she holds up with raised arms. The third
+                        figure from the right faces away but appears to turn her head to look right;
+                        she raises both arms vertically. The two leftmost figures are very close
+                        together and somewhat indistinguishable except for their heads, but they
+                        both appear to have their arms upward. Most of the scene's background sky
+                        contains colorful beams of light that appear to stream down from the upper
+                        margin of the image.</illusobjdesc>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>supine</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>veil</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>queen</characteristic>
+                        <characteristic>Katharine</characteristic>
+                        <illusobjdesc>Three large figures, two female and one male, and twenty-four
+                            smaller female figures occupy the space of this composition, which
+                            represents The Vision of Queen Katharine in Act 4, Scene 2 of
+                            Shakespeare's play <hi rend="i">Henry VIII</hi>. The central female
+                            figure of Queen Katharine lies supine with legs together on a bed or
+                            couch with her head at right near the lower third of the scene. She has
+                            long hair and wears a gown and veil (perhaps also with a crown?). Both
+                            arms are bent by her sides but extended upward from the elbow with
+                            fingers spread. She appears to raise her head and shoulders away from
+                            the pillow below her, perhaps to better see the visionary activity above
+                            her. Her mouth may be open. This figure, Queen Katharine, is the wife of
+                            King Henry VIII who wishes to divorce her (as she has not born a male
+                            heir) and marry Anne Boleyn. Katharine becomes ill, and it is during her
+                            sickness in which The Vision occurs.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>bed</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>sheet</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <illusobjdesc>The bed or couch on which the central figure of Queen
+                            Katharine lies contains a serpentine arm or headboard at right as well
+                            as a pillow and heavy drapery on the left side.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>Patience</characteristic>
+                        <characteristic>servant</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>sleeping</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>head on hand</characteristic>
+                        <characteristic>hand on head</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>arms crossed</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <illusobjdesc>In front of the bed in both lower corners of the composition,
+                            two large figures sit facing each other on sizable pillows. Both have
+                            their eyes closed and appear to sleep with their heads supported on one
+                            bent arm. The figure in the right corner is a gowned female with long
+                            hair who rests her right elbow on the open book atop the small table
+                            behind her. This is probably Patience, a servant to the queen. Her left
+                            arm is bent and crossed beneath her right. Her mouth may be open.
+                            Although her body faces left, her upper body is twisted to face forward.
+                            Her legs are extended and both feet (which are clad in shoes) are
+                            visible.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>Griffith</characteristic>
+                        <characteristic>servant</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>sleeping</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>head on hand</characteristic>
+                        <characteristic>hand on head</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <illusobjdesc>In front of the bed in both lower corners of the composition,
+                            two large figures sit facing each other on sizable pillows. Both have
+                            their eyes closed and appear to sleep with their heads supported on one
+                            bent arm. The male figure at left has white hair and a long beard; he is
+                            also gowned. This is probably Griffith, the queen's usher. He rests his
+                            left elbow on a table behind him and turns his head to face forward. His
+                            right arm is bent and by his side with his hand resting on his lap. His
+                            legs are bent and extended with one shoe-clad foot visible beneath his
+                            gown.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>table</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>book</characteristic>
+                        <illusobjdesc>Two figures sit on large pillows in both lower corners of the
+                            image. These pillows each have a single tassel on one corner. A table is
+                            also visible in each corner, and both figures rest one arm on it. An
+                            open book rests on the table at right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>arms raised at 135 degrees</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>feet touching</characteristic>
+                        <illusobjdesc>Twenty-four small, gowned female figures fly or hover in the
+                            scene. Nine of these figures form a circle around the body of Queen
+                            Katharine in the lower half of the image. In the center along the bottom
+                            margin, the two lowest of these figures face forward but lean and face
+                            away from one another as they touch extended hands and perhaps also feet
+                            to form a sort of diamond shape between them. Wispy clouds are visible
+                            around them, as if arising from the same origin. The figure at right
+                            (who may wear a crown or laurels?) raises her left arm to hold the hand
+                            of the figure above and right of her toward whom she also
+                            looks.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>arms raised at 135 degrees</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>feet touching</characteristic>
+                        <illusobjdesc>Twenty-four small, gowned female figures fly or hover in the
+                            scene. Nine of these figures form a circle around the body of Queen
+                            Katharine in the lower half of the image. In the center along the bottom
+                            margin, the two lowest of these figures face forward but lean and face
+                            away from one another as they touch extended hands and perhaps also feet
+                            to form a sort of diamond shape between them. Wispy clouds are visible
+                            around them, as if arising from the same origin. The figure at left who
+                            wears a crown of laurels raises her right arm to hold the hand of the
+                            figure above and left of her toward whom she also looks with her head
+                            up.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <illusobjdesc>Twenty-four small, gowned female figures fly or hover in the
+                            scene. Nine of these figures form a circle around the body of Queen
+                            Katharine in the lower half of the image. Directly above and to the left
+                            of the sleeping female figure in the lower right corner, a female
+                            figure, who faces away and is thus seen from behind, flies up and to the
+                            right. She has long hair and may wear a laurel crown. Her left arm is at
+                            her side, and she holds the hand of the figure below her. Her right arm
+                            is extended upward, and she may touch the foot of the figure above her
+                            at right. The figure's legs are bent with the right extended backward
+                            and the bottom of her foot visible.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>hand raised palm up</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>Twenty-four small, gowned female figures fly or hover in the
+                            scene. Nine of these figures form a circle around the body of Queen
+                            Katharine in the lower half of the image. Directly to the right of Queen
+                            Katharine's head, a fourth figure who flies or hovers directly to the
+                            right of Queen Katharine's head. Seen from behind, this figure faces
+                            away but looks left with right leg extended backward. She has long hair
+                            and wears a laurel crown; she holds another such crown in her bent left
+                            arm. A fifth figure also holds this crown and flies just above the torso
+                            of Queen Katharine. Together, these small figures may be preparing to
+                            crown the supine queen, and both point upward with their other free
+                            hand. This moment is referenced directly in the play's text: "the first
+                            two [Personages] hold a spare garland over her head" (Act 4, Scene
+                            2).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>crown</characteristic>
+                        <illusobjdesc>Twenty-four small, gowned female figures fly or hover in the
+                            scene. Nine of these figures form a circle around the body of Queen
+                            Katharine in the lower half of the image. A fifth figure who flies or
+                            hovers directly above the torso of Queen Katharine bends both arms
+                            upward and points upward with her right hand. She faces forward but
+                            turns her head to the right, perhaps to look toward her companion at
+                            right. She appears to have short hair and may wear a laurel crown. Her
+                            legs are together and extended to the left horizontally. She holds a
+                            laurel crown with her bent left arm. The figure to her right also holds
+                            this crown. Together, these small figures may be preparing to crown the
+                            supine queen, and both point upward with their other free hand. This
+                            moment is referenced directly in the play's text: "the first two
+                            [Personages] hold a spare garland over her head" (Act 4, Scene
+                            2).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <illusobjdesc>Twenty-four small, gowned female figures fly or hover in the
+                            scene. Nine of these figures form a circle around the body of Queen
+                            Katharine in the lower half of the image. Returning to the central pair
+                            of figures at the bottom of the image, the left figure raises her right
+                            arm to hold the hand of the sixth figure above and at left. This figure
+                            faces forward and leans to the left with her head bent sharply to the
+                            right, perhaps to look down toward her companion. She has long hair. She
+                            raises her left arm horizontally and her right arm at 135 degrees. She
+                            appears to reach for and perhaps touch the foot of the figure above her
+                            at left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>floating</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>Twenty-four small, gowned female figures fly or hover in the
+                            scene. Nine of these figures form a circle around the body of Queen
+                            Katharine in the lower half of the image. Directly left of Queen
+                            Katharine's feet, a seventh figure who faces away and is thus seen from
+                            behind bends her body to the right with both arms raised vertically and
+                            legs extended backward (with the left bent upward). She appears to have
+                            short hair. In each hand, she holds an object, perhaps a cymbal, which
+                            she may play. Small clouds are visible beneath this figures at left, and
+                            she may float on these.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <illusobjdesc>Twenty-four small, gowned female figures fly or hover in the
+                            scene. Nine of these figures form a circle around the body of Queen
+                            Katharine in the lower half of the image. Two figures hover with bodies
+                            horizontal over the legs of Queen Katharine to complete the circle of
+                            figures around her. The leftmost of these faces forward and plays a harp
+                            or lyre, which she holds with bent arms. She has short hair. Both legs
+                            are extended to the left and together.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Twenty-four small, gowned female figures fly or hover in the
+                            scene. Nine of these figures form a circle around the body of Queen
+                            Katharine in the lower half of the image. Two figures hover with bodies
+                            horizontal over the legs of Queen Katharine to complete the circle of
+                            figures around her. The figure at right faces away and is thus seen from
+                            behind. She appears to have long hair (perhaps in a braid?) and wears
+                            some sort of crown or laurel wreath. Her legs are extended to the left
+                            and together. Her right arm is bent, and she appears to hold (and likely
+                            play) a harp or lyre visible to the right of her torso. Her head is
+                            turned to the left, perhaps to look back toward her
+                            companion.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>cymbal</characteristic>
+                        <characteristic>harp</characteristic>
+                        <characteristic>lyre</characteristic>
+                        <illusobjdesc>Three figures in the lower group of figures that form a circle
+                            around the supine Queen Katharine play musical instruments: the leftmost
+                            figure near the queen's feet holds circular objects that may be cymbals
+                            and the two figures to her right hold and play a harp or (to the right)
+                            a harp or lyre.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>Wispy clouds are visible near the smaller female figures in
+                            the lower half of the margin, where they appear to originate at the same
+                            central point where the two figures hover back to back. The clouds
+                            extend a short distance diagonally at right but at left rise near the
+                            middle of the left margin, terminating just above the feet of Queen
+                            Katharine.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <illusobjdesc>In the upper half of the image, fifteen gowned female figures
+                            fly upward or float on small, wispy clouds in a serpentine formation of
+                            three approximate tiers. The lowest tier contains four figures with
+                            bodies horizontal flying left and two additional figures at left whose
+                            bodies are slightly higher and twisted to the right. The rightmost
+                            figure faces forward with arms extended horizontally; in each hand, she
+                            holds circular objects that may be cymbals, which she may play. She has
+                            long hair and her mouth may be open. Her head is turned slightly to the
+                            right and her legs may be crossed at the ankles.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>hands raised palms up</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>frowning</characteristic>
+                        <illusobjdesc>In the upper half of the image, fifteen gowned female figures
+                            fly upward or float on small, wispy clouds in a serpentine formation of
+                            three approximate tiers. The lowest tier contains four figures with
+                            bodies horizontal flying left and two additional figures at left whose
+                            bodies are slightly higher and twisted to the right. Behind and slightly
+                            to the left of the rightmost figure, a second figure echoes her posture
+                            with arms raised horizontally, palms facing up. She has long hair and
+                            leans her head slightly to the left. She appears to
+                            frown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>In the upper half of the image, fifteen gowned female
+                            figures fly upward or float on small, wispy clouds in a serpentine
+                            formation of three approximate tiers. The lowest tier contains four
+                            figures with bodies horizontal flying left and two additional figures at
+                            left whose bodies are slightly higher and twisted to the right. The
+                            third figure from the right, who has long hair, faces to the left but
+                            turns to look back toward her companions. She plays a harp or lyre with
+                            her left hand; both arms are bent upward to hold the instrument. Her
+                            legs are extended and appear to be together.</characteristic>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>semi-transparent</characteristic>
+                        <illusobjdesc>In the upper half of the image, fifteen gowned female figures
+                            fly upward or float on small, wispy clouds in a serpentine formation of
+                            three approximate tiers. The lowest tier contains four figures with
+                            bodies horizontal flying left and two additional figures at left whose
+                            bodies are slightly higher and twisted to the right. The fourth figure
+                            from the right faces away but turns her head to look right; she and
+                            holds a similar harp or lyre with bent arms. She appears to have short
+                            hair. Her gown, which is quite transparent, is only apparent by the
+                            serpentine fold of drapery below her left foot.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <illusobjdesc>In the upper half of the image, fifteen gowned female figures
+                            fly upward or float on small, wispy clouds in a serpentine formation of
+                            three approximate tiers. The lowest tier contains four figures with
+                            bodies horizontal flying left and two additional figures at left whose
+                            bodies are slightly higher and twisted to the right. The two leftmost
+                            figures in this tier face away and bend sharply to the right with arms
+                            extended vertically; they both appear to hold and play tambourines.
+                            Their legs are extended and together.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>lyre</characteristic>
+                        <characteristic>cymbal</characteristic>
+                        <characteristic>tambourine</characteristic>
+                        <illusobjdesc>Four of the five figures in the lowest tier of gowned female
+                            figures who fly or hover in the upper half of the composition hold
+                            musical instruments. The rightmost figure holds what appear to be
+                            cymbals; the third and fourth figures from the right holds and perhaps
+                            play lyres; and the two leftmost figures whose bodies are twisted to the
+                            right both hold and play tambourines.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <illusobjdesc>Four right-facing female figures constitute the second and
+                            middle tier of gowned female figures who fly or hover in the upper half
+                            of the composition. The leftmost figure, just to the right of the
+                            cymbal-playing pair below, has long hair and holds or perhaps plays a
+                            harp or lyre with bent arms. With body horizontal, she turns her head to
+                            look forward and her long hair streams behind her. Her right leg is
+                            visibly extended behind her.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>transparent</characteristic>
+                        <characteristic>trumpeter</characteristic>
+                        <illusobjdesc>Four right-facing female figures constitute the second and
+                            middle tier of figures, who fly or hover in the upper half of the
+                            composition. The third figure from the right, whose body is horizontal,
+                            has long hair and faces right. She plays two horns or trumpets, which
+                            she holds with extended arms. Both legs are extended behind her and
+                            together. She may be nude or wear a transparent gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>transparent</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>trumpeter</characteristic>
+                        <illusobjdesc>Four right-facing female figures constitute the second and
+                            middle tier of figures, who fly or hover in the upper half of the
+                            composition. The two rightmost figures in this tier fly upward
+                            side-by-side with bodies twisted to the left. They play horns or
+                            trumpets pointed upward that they hold with bent arms raised vertically.
+                            Both may be nude or wear transparent gowns. The figure at left has short
+                            hair and turns her head to look up and right. Her legs are extended and
+                            together, though her right leg may be bent.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>transparent</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>trumpeter</characteristic>
+                        <illusobjdesc>Four right-facing female figures constitute the second and
+                            middle tier of figures, who fly or hover in the upper half of the
+                            composition. The two rightmost figures in this tier fly upward
+                            side-by-side with bodies twisted to the left. They play horns or
+                            trumpets pointed upward that they hold with bent arms raised vertically.
+                            Both may be nude or wear transparent gowns. The rightmost figure appears
+                            to face forward with head bent back to face up, but this is not
+                            clear.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>lyre</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>trumpet</characteristic>
+                        <illusobjdesc>In the second, middle tier of figures who fly or hover in the
+                            upper half of the composition, all four hold, and likely play, musical
+                            instruments. The leftmost figure holds a lyre; the second figure from
+                            the left plays two horns or trumpets; and the two rightmost figures
+                            whose bodies are twisted up and to the left both play single horns or
+                            trumpets.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>serpentine</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>transparent</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <illusobjdesc>The third and highest tier of figures in the upper half of the
+                            composition contains five female(?) figures who fly or hover. The
+                            rightmost figure faces away and bends her body in a serpentine position
+                            to the left. She may be nude or wear a transparent gown. Her arms are
+                            extended vertically and her legs, which are together, are extended
+                            backward, perhaps with knees bent. She may hold an indistinguishable
+                            object, likely a musical instrument.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>trumpeter</characteristic>
+                        <illusobjdesc>The third and highest tier of figures in the upper half of the
+                            composition contains five female(?) figures who fly or hover. The second
+                            figure from the right, who is gowned, faces away and slightly left. She
+                            plays two horns or trumpets, which she holds up with raised arms (the
+                            left arm is bent). Her legs are together and extended backward (and
+                            horizontally) at right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <illusobjdesc>The third and highest tier of figures in the upper half of the
+                            composition contains five female(?) figures who fly or hover. The third
+                            figure from the right, who is gowned, faces away but appears to turn her
+                            head to look right; she raises both arms vertically. Her legs are
+                            together and extended backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>The third and highest tier of figures in the upper half of the
+                            composition contains five female(?) figures who fly or hover. The two
+                            leftmost figures who are both gowned are very close together and
+                            somewhat indistinguishable except for their heads, but they both appear
+                            to have their arms raised upward. The figure at right may face
+                            left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>The third and highest tier of figures in the upper half of the
+                            composition contains five female(?) figures who fly or hover. The two
+                            leftmost figures who are both gowned are very close together and
+                            somewhat indistinguishable except for their heads, but they both appear
+                            to have their arms raised upward. The figure at left faces away and
+                            extends at least one leg behind her at right.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>horn</characteristic>
+                        <characteristic>trumpet</characteristic>
+                        <illusobjdesc>The second figure from the right in the highest tier of
+                            figures in the upper half of the composition holds and plays two horns
+                            or trumpets. The other figures in this tier may hold instruments as
+                            well, but these are less distinct.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>sky</characteristic>
+                        <illusobjdesc>Most of the scene's background sky contains colorful beams of
+                            light that appear to stream down from the upper margin of the
+                            image.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="but547.1.penandink.03.01" justify="left" indent="6">WBlake 1809</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="but547.1.wc.04" dbi="BUT547.1.4.WC">
+            <objtitle>
+                <title type="transcribed">Brutus and Caesar's Ghost</title>, <objid>
+                    <objnumber code="A4">Object 4 </objnumber>
+                    <objcode code="U4">(Butlin 547.4)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>25.3 x 16.9 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Standing on tiptoe at right, a male figure surrounded by a
+                        whitish-blue cloud looks down at a second male figure at left who sits at a
+                        table and holds an open book but turns to look toward the first figure. An
+                        illustration of Shakespeare's play <hi rend="i">Julius Caesar</hi>, this
+                        scene represents Act 4, Scene 3, in which the Ghost of Caesar visits Brutus
+                        in his tent to tell him they will meet again at Philippi as an omen of
+                        Brutus' impending death. The Ghost of Caesar at right wears a long gown and
+                        laurel crown above short hair. His face is turned down and his mouth is
+                        open. His right arm is raised vertically and he holds a sword pointing up.
+                        His left arm is raised at 135 degrees with fingers spread in a gesture of
+                        pointing to the left. His left leg is extended backward, though with his
+                        foot still on the ground. The cloud enveloping him attests to his ghostly
+                        state. The figure of Brutus at left sits on a low chair in front of a table
+                        on which two lit candles stand. He holds an open book with his bent right
+                        arm, which rests on the table. His left arm is raised at 135 degrees; he
+                        points to the left with his left index finger. His upper body faces away but
+                        he turns his head and lower body to face right, with his left leg extended
+                        and right leg bent beside the chair. He wears a shirt, tights or pants(?),
+                        and sandals. His mouth is open and his short curly hair appears to stand on
+                        end. Two additional tiny forms appear in the space between the main figures'
+                        feet lower right. Although the details of these are indistinguishable, these
+                        may be human figures. The one at right who may face left wears a dark gown
+                        and a large headdress and perhaps holds a linear object in its left hand.
+                        The figure at left who may face right wears a lighter gown. Alternatively,
+                        the figure at right could be the shadow of the figure at left. The spine of
+                        a second book and the serpentine flourish of a bed's scroll are visible
+                        against the left margin. Dark pockets of shadow appear throughout the lower
+                        left quadrant.</illusobjdesc>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>tiptoe</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>speaking</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <characteristic>Caesar</characteristic>
+                        <illusobjdesc>Standing on tiptoe at right, a male figure surrounded by a
+                            whitish-blue cloud looks down at a second male figure at left who sits
+                            at a table. An illustration of Shakespeare's play <hi rend="i">Julius
+                                Caesar</hi>, this scene represents Act 4, Scene 3, in which the
+                            Ghost of Caesar visits Brutus in his tent to tell him they will meet
+                            again at Philippi as an omen of Brutus' impending death. The Ghost of
+                            Caesar at right wears a long gown and laurel crown above short hair. His
+                            face is turned down and his mouth is open; he may be speaking. His right
+                            arm is raised vertically and he holds a sword pointing up. His left arm
+                            is raised at 135 degrees with fingers spread in a gesture of pointing to
+                            the left. His left leg is extended backward, though with his foot still
+                            on the ground. He may wear a shoe on his left foot.</illusobjdesc>
+                    </component>
+                    <component type="object" location="BD">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>The cloud enveloping the figure at right, the Ghost of Caesar,
+                            attests to his ghostly state and perhaps also his sudden
+                            apparition.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>reading</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>hair standing on end</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>speaking</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>pants</characteristic>
+                        <characteristic>sandal</characteristic>
+                        <characteristic>Brutus</characteristic>
+                        <illusobjdesc>Standing on tiptoe at right, a male figure surrounded by a
+                            whitish-blue cloud looks down at a second male figure at left who sits
+                            at a table. An illustration of Shakespeare's play <hi rend="i">Julius
+                                Caesar</hi>, this scene represents Act 4, Scene 3, in which the
+                            Ghost of Caesar visits Brutus in his tent to tell him they will meet
+                            again at Philippi as an omen of Brutus' impending death. The figure of
+                            Brutus at left sits on a low chair in front of a table. He holds an open
+                            book with his bent right arm, which rests on the table. His left arm is
+                            raised at 135 degrees; he points to the left with his left index finger.
+                            His upper body faces away but he turns his head and lower body to face
+                            right, with his left leg extended and right leg bent beside the chair.
+                            He wears a shirt, tights or pants(?), and sandals. His mouth is open (he
+                            may be speaking) and his short curly hair appears to stand on
+                            end.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>chair</characteristic>
+                        <characteristic>plinth</characteristic>
+                        <characteristic>table</characteristic>
+                        <characteristic>candle</characteristic>
+                        <characteristic>candle holder</characteristic>
+                        <characteristic>candlestick</characteristic>
+                        <characteristic>book</characteristic>
+                        <characteristic>scroll</characteristic>
+                        <illusobjdesc>The figure at left, Brutus, sits on a low chair, which is set
+                            atop a low rectangular plinth or platform. A table is visible in front
+                            of him on which two lit candles in candlesticks sit. Brutus hold an open
+                            book, which rests on the table. Near the left margin, the spine of a
+                            second book is visible below the serpentine flourish of a
+                            scroll(?).</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>facing left</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>holding</characteristic>
+                        <illusobjdesc>Two additional tiny forms, possibly human figures, appear in
+                            the space between the main figures' feet lower right. Although the
+                            details of these are indistinguishable, the figure at right who may face
+                            left wears a dark gown and a large hat/headdress and perhaps holds a
+                            linear object in its left hand. The figure at left who may face right
+                            wears a lighter gown. Alternatively, the figure at right could be the
+                            shadow of the figure at left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>facing right</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>hat</characteristic>
+                        <illusobjdesc>Two additional tiny forms, possibly human figures, appear in
+                            the space between the main figures' feet lower right. Although the
+                            details of these are indistinguishable, the figure at left who may face
+                            right wears a light-colored gown and perhaps also a hat.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>Two additional tiny figures appear in the space between the
+                            main figures' feet lower right. The figure at right could be the shadow
+                            of the figure at left, as suggested by its dark form.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>Dark pockets of shadow appear throughout the lower left
+                            quadrant.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="but547.1.penandink.04.01" justify="left" indent="43">inv</l>
+                    <l n="but547.1.penandink.04.02" justify="left" indent="43">WB 1806</l>
+                    <note>Butlin 547.4 records additional inscriptions, but we have not been able to
+                        locate these on the work as it presently exists.</note>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="but547.1.wc.05" dbi="BUT547.1.5.WC">
+            <objtitle>
+                <title type="transcribed">Hamlet and His Father's Ghost</title>, <objid>
+                    <objnumber code="A5">Object 5 </objnumber>
+                    <objcode code="U5">(Butlin 547.5)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>21.5 x 15.0 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Two figures, one standing at left and one kneeling at right, face
+                        each other in a barren, cloudy landscape. This scene represents the
+                        encounter in Shakespeare's play <hi rend="i">Hamlet</hi>, Act 1, Scene 5, of
+                        Hamlet with the Ghost of his father, the previous king of Denmark, who
+                        describes his murder at the hands of Claudius, Hamlet's uncle and new king,
+                        and demands that Hamlet avenge the killing. Hamlet, the figure at right,
+                        kneels facing left with head up to look at the Ghost. His mouth is open in
+                        surprise or fear and his short hair is standing on end. He wears a shirt,
+                        breeches or tights, shoes, and a fur-lined cloak. His sword is visible by
+                        his left hip. He bends both arms and his hands are raised with palms facing
+                        out and left. He bends forward slightly. The Ghost of his father stands
+                        facing forward and right with head down at left. He bends slightly to the
+                        right. He wears a full suit of armor and a helmet. His eyes are opened
+                        widely, and he has a mustache and long beard. His arms are straight and by
+                        his sides with fingers extended downward. Blue beams of light, or perhaps
+                        fire, emerge from his feet or the ground on which he stands. These, coupled
+                        with the barren landscape, may represent the daily existence of the Ghost,
+                        which he describes: "I am thy father's spirit/ Doomed for a certain term to
+                        walk the night/ And for the day confined to fast in fires/ Till the foul
+                        crimes done in my days of nature/ Are burnt and purged away" (14-18).
+                        Indeed, the darkness of the background sky and clouds, parted only slightly
+                        to make the moon visible at right, suggest the time in night.</illusobjdesc>
+                    <component type="figure" location="D">
+                        <characteristic>male</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>hair standing on end</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>shoes</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>fur</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>hands raised, palms out</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>Hamlet</characteristic>
+                        <characteristic>surprise</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>Two figures, one standing at left and one kneeling at right,
+                            face each other in a barren, cloudy landscape. This scene represents the
+                            encounter in Shakespeare's play <hi rend="i">Hamlet</hi>, Act 1, Scene
+                            5, of Hamlet with the Ghost of his father, the previous king of Denmark,
+                            who describes his murder at the hands of Claudius, Hamlet's uncle and
+                            new king, and demands that Hamlet avenge the killing. Hamlet, the figure
+                            at right, kneels facing left with head up to look at the Ghost. His
+                            mouth is open in surprise or fear and his short hair is standing on end.
+                            He wears a shirt, breeches or tights, shoes, and a fur-lined cloak. His
+                            sword is visible by his left hip. He bends both arms and his hands are
+                            raised with palms facing out and left. He bends forward
+                            slightly.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>sword</characteristic>
+                        <characteristic>scabbard</characteristic>
+                        <illusobjdesc>A sword in its scabbard is visible pointing down and to the
+                            right beside the left hip of the kneeling figure at right,
+                            Hamlet.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>arms down</characteristic>
+                        <characteristic>father</characteristic>
+                        <illusobjdesc>Two figures, one standing at left and one kneeling at right,
+                            face each other in a barren, cloudy landscape. This scene represents the
+                            encounter in Shakespeare's play <hi rend="i">Hamlet</hi>, Act 1, Scene
+                            5, of Hamlet with the Ghost of his father, the previous king of Denmark,
+                            who describes his murder at the hands of Claudius, Hamlet's uncle and
+                            new king, and demands that Hamlet avenge the killing. The Ghost of his
+                            father stands facing forward and right with head down at left, perhaps
+                            to look toward Hamlet at right. He bends slightly to the right. He wears
+                            a full suit of armor and a helmet. His eyes are opened widely, and he
+                            has a mustache and long beard. His arms are straight and by his sides
+                            with fingers extended downward.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>fire</characteristic>
+                        <illusobjdesc>Blue beams of light, or perhaps fire, emerge from the feet of
+                            the figure at left, the Ghost of Hamlet's father, or the ground on which
+                            he stands. These, coupled with the barren landscape, may represent the
+                            daily existence of the Ghost, which he describes: "I am thy father's
+                            spirit/ Doomed for a certain term to walk the night/ And for the day
+                            confined to fast in fires/ Till the foul crimes done in my days of
+                            nature/ Are burnt and purged away" (Act 1, Scene 5,
+                            14-18).</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>barren</characteristic>
+                        <illusobjdesc>Two figures, one standing at left and one kneeling at right,
+                            face each other in a barren, cloudy landscape.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>cloud</characteristic>
+                        <characteristic>darkness</characteristic>
+                        <characteristic>sky</characteristic>
+                        <characteristic>night</characteristic>
+                        <characteristic>moon</characteristic>
+                        <illusobjdesc>The darkness of the background sky and clouds, parted only
+                            slightly to make the moon visible at right, suggest the time is night.
+                            This corresponds to the Ghost's explanation that he is "doomed for a
+                            certain term to walk the night" (Act 1, Scene 5, 15).</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="but547.1.penandink.05.01" justify="left" indent="2">inv</l>
+                    <l n="but547.1.penandink.05.02" justify="left" indent="2">WB 1806</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="but547.1.wc.06" dbi="BUT547.1.6.WC">
+            <objtitle>
+                <title type="transcribed">As If An Angel Dropped Down From The Clouds</title>, <objid>
+                    <objnumber code="A6">Object 6 </objnumber>
+                    <objcode code="U6">(Butlin 547.6)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>23.1 x 17.3 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>A nude female figure reclines while reading on a cloud above a
+                        nude male figure who faces down while hovering in midair. He raises his arms
+                        vertically and holds a length of rope in his right hand. Directly below the
+                        male figure, a horse rears its front legs while its back legs stand on a
+                        portion of rock or cliff visible lower right. Beams of light extend outward
+                        from a sun in the lower left corner. This scene illustrates Shakespeare's
+                        simile in Act 4, Scene 1 of <hi rend="i">Henry IV, Part I</hi>, in which
+                        Vernon describes the young Prince Henry (Harry) before battle: "I saw young
+                        Harry with his beaver on,/ His cuisses on this thighs, gallantly armed,/
+                        Rise from the ground like feathered Mercury/ And vaulted with such ease into
+                        his seat/ As if an angel [dropped] down from the clouds,/ To turn and wind a
+                        fiery Pegasus/ And witch the world with noble horsemanship." (110-116). Thus
+                        the central figure represents this angel and the horse,
+                        Pegasus.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>reading</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms resting</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>A nude female figure reclines while reading on a cloud above a
+                            nude male figure who faces down while hovering in midair above a rearing
+                            horse. Lying on her right side facing forward, she crosses her left leg
+                            over her right and bends both arms in front of her chest where they rest
+                            on the open book in front of her. She has long hair and turns her head
+                            down, perhaps to look toward the male figure and horse below or at her
+                            book.</illusobjdesc>
+                    </component>
+                    <component type="object" location="A">
+                        <characteristic>book</characteristic>
+                        <illusobjdesc>A nude female figure reclines on a cloud while reading (and
+                            resting her arms on) an open book.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>A nude female figure reclines on a cloud in the upper middle
+                            of the composition.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>genitals</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>angel</characteristic>
+                        <illusobjdesc>In the center of the illustration, a nude male figure who
+                            faces down while hovering or flying in midair looks toward the horse
+                            rearing beneath him. He has short hair and extends both legs, which are
+                            spread, backward, with his lower body twisted to face forward. His
+                            genitals are prominent. He raises his arms vertically and holds a length
+                            of rope in his right hand. The image literally illustrates a simile in
+                            Act 4, Scene 1 of Shakespeare's <hi rend="i">Henry IV, Part I</hi>, in
+                            which Vernon describes the young Prince Henry (Harry) before battle: "I
+                            saw young Harry with his beaver on,/ His cuisses on this thighs,
+                            gallantly armed,/ Rise from the ground like feathered Mercury/ And
+                            vaulted with such ease into his seat/ As if an angel [dropped] down from
+                            the clouds,/ To turn and wind a fiery Pegasus/ And witch the world with
+                            noble horsemanship." (110-116). Thus the male figure represents this
+                            angel.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>rope</characteristic>
+                        <illusobjdesc>The nude male figure in this image holds a length of rope in
+                            his right hand that forms a circle beneath his extended body. It is
+                            likely the tool Prince Henry would use in the illustrated simile in
+                            order "To turn and wind a fiery Pegasus" in Act 4, Scene 1 of
+                            Shakespeare's <hi rend="i">Henry IV, Part I</hi> (115).</illusobjdesc>
+                    </component>
+                    <component type="animal" location="E">
+                        <characteristic>horse</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>mane</characteristic>
+                        <characteristic>tail</characteristic>
+                        <characteristic>rearing</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>Pegasus</characteristic>
+                        <characteristic>fire</characteristic>
+                        <illusobjdesc>In the lower half of the image, a horse rears its extended
+                            front legs while its back legs stand on a portion of rock or land
+                            visible lower right. Although the horse faces left, its head is raised
+                            to look up. Its mane and tail flow animatedly. The animal is likely the
+                            "fiery Pegasus" mentioned in the simile in Act 4, Scene 1 of
+                            Shakespeare's <hi rend="i">Henry IV, Part I</hi> (115).</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>cliff</characteristic>
+                        <characteristic>stone</characteristic>
+                        <illusobjdesc>An outcropping of stone or a rocky cliff on which the rear
+                            legs of the horse balance is visible in the lower right corner of the
+                            scene.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>sun</characteristic>
+                        <illusobjdesc>A circular sun is visible in the lower left corner of the
+                            illustration.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>sky</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <illusobjdesc>The sun visible in the lower left corner radiates beams of
+                            light across the lower two thirds of the composition, in which the
+                            coloring of the background sky suggests sunrise or
+                            sunset.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="but547.1.penandink.06.01" justify="left" indent="46">WBlake 1809</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

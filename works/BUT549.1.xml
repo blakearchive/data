@@ -1,0 +1,1302 @@
+<bad id="but549.1" type="wc" work="The Vision of Queen Katharine" copy="1" copyid="1"
+    institution="ngadc" catalog="butlin" catid="549">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Vision of Queen Katharine">
+                    <main>The Vision of Queen Katharine</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi</name>,
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt> </respstmt>
+                <sponsor/>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 92KB
+                to 1100KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>March
+                    2020</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2020</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.<lb/>
+            This image copyright © 2020 National Gallery of Art, Washington, DC </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>April-May 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created</change>
+                <date>September 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquired and catalogued</change>
+                <date>September 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+                    </name>University of California, Riverside; and <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum</name>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Gerald Miller, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>*The Vision of Queen Katharine*</title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                </origination>
+
+                <compdate value="1825">c. 1825-26<note>This is one of two water colors commissioned
+                        by Sir Thomas Lawrence near the end of Blake's life (see the Note on
+                        Provenance). The other water color commissioned by Lawrence is <hi rend="i"
+                            >The Wise and Foolish Virgins</hi>, Butlin 481. According to Alexander
+                        Gilchrist, <hi rend="i">Life of William Blake</hi> (London and Cambridge:
+                        Macmillan and Co., 1863) 1:357, these were among "the last drawings
+                        executed, or at least finished by Blake. ...Sir Thomas gave fifteen guineas
+                        apiece for these designs of Blake's."</note>
+                </compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>41.0 x 34.6 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>41.1 x 34.6 cm.</leafsize>
+                <medium>water color, Chinese white, and shell gold<note>The inscription, lower
+                        right, is scratched into the water color.</note>
+                </medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>National Gallery of Art, Washington, D. C.</name>
+                <date>1943</date>
+                <dealer>none</dealer>
+                <price>gift</price>
+                <note>Commissioned from Blake by Thomas Lawrence c. 1825-26 for &#163;15.15s. (see
+                    the Note on Composition Date, above); sold from Lawrence's collection,
+                    Christie's, 21 May 1830, lot 235 (&#163;4.6s. to "Kennedy," probably a dealer);
+                    John Clark Strange by 1863; Edward Burnett Tylor; his niece, Mrs. Sydney Morse,
+                    probably by inheritance in 1917; sold Christie's, 26 July 1929, lot 16
+                    (&#163;1942.10s. to the dealer P. &#38; D. Colnaghi); sold 18 March 1930 to
+                    Lessing J. Rosenwald; given by Rosenwald to the National Gallery of Art,
+                    Washington, D. C., in 1943.</note>
+            </provenance>
+            <repository>
+                <institution>National Gallery of Art, Washington</institution>
+                <addressline>Constitution Avenue NW, between 3rd and 9th Streets</addressline>
+                <addressline>Washington, DC 20565</addressline>
+                <addressline>USA</addressline>
+                <addressline>Mailing Address: 2000B South Club Drive, Landover, Maryland
+                    20785</addressline>
+                <addressline>Telephone: 1-202-737-4215</addressline>
+                <addressline>URL: http://www.nga.gov</addressline>
+                <addressline>Telephone, Print Study Rooms: 1-202-842-6380</addressline>
+                <addressline>Telephone, Visual Services: 1-202-842-6126</addressline>
+                <addressline>URL, Visual Services:
+                    http://www.nga.gov/resources/divsdesc.shtm</addressline>
+                <repositoryid label="Accession number">1943.3.9129</repositoryid>
+            </repository>
+        </source>
+        <desc id="but549.1.wc.01" dbi="BUT549.1.1.WC">
+            <objtitle>
+                <title type="transcribed">The Vision of Queen Katharine</title>, <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="U3">(Butlin 549.1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>The verso is inscribed by John Clark Strange, "Bought at the T Lawrence Sale
+                        Lot 137 5/5/0 JCS." This note is wrong about the lot number in the Thomas
+                        Lawrence sale in 1830 (see the Note on Provenance). Butlin 549 comments that
+                        "the increase in the price ... suggests that [the dealer] Kennedy may have
+                        bought [the work] on his own account, not on commission for Strange, who
+                        otherwise does not seem to have been active as a purchaser of Blakes until
+                        1853." This work is a more highly-finished replica, with several variations,
+                        of Butlin 548, <hi rend="i">The Vision of Queen Katharine</hi>, in the
+                        Fitzwilliam Museum, Cambridge.</p>
+                </objnote>
+                <objsize>41.0 x 34.6 cm.</objsize>
+                <windowsize height="1100" width="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Three large figures, two female and one male, and at least
+                        twenty-six smaller figures occupy the space of the composition, which
+                        represents The Vision of Queen Katharine in Act 4, Scene 2 of Shakespeare's
+                        play <hi rend="i">Henry VIII</hi>. The central female figure of Queen
+                        Katharine reclines on a bed or couch with legs together at left but with her
+                        torso raised and facing forward. She has long hair and wears a gown and
+                        veil. Both arms are bent and raised just above the horizontal with palms
+                        facing up. Her head and eyes are also raised, perhaps to better see the
+                        visionary activity above her. Queen Katharine is the wife of King Henry VIII
+                        who wishes to divorce her (as she has not born a male heir) and marry Anne
+                        Boleyn. Katharine becomes ill, and it is during her sickness in which The
+                        Vision occurs. The bed or couch on which she sits has arms on both sides and
+                        is covered in what appears to be a patterned fabric decorated with Gothic
+                        arches forming niches with human figures vaguely suggested within them. A
+                        pillow is partially visible at right and drapery or sheets cover the seat
+                        and closest edge of the piece of furniture. In front of the bed in both
+                        lower corners of the composition, the other two large figures sit facing
+                        each other on straight-backed chairs that are embellished with patterns
+                        similar to the bed or couch. Both figures have their eyes closed and appear
+                        to sleep with their heads supported on one bent arm. The figure in the right
+                        corner is a gowned female with long hair who rests her elbow on a soft
+                        object of some sort (perhaps a pillow?) on the table at her right. This is
+                        probably Patience, a servant to the queen. The male figure at left has white
+                        hair and a long beard; he is also gowned. This is probably Griffith, the
+                        queen's usher. He rests his elbow on a similar table behind him and turns
+                        his head to face forward. In his right hand, which is by his side, he holds
+                        a scroll and pen or quill. The floor, which may be a carpet or rug, between
+                        these two figures is decorated with arch-like patterns evocative of Gothic
+                        art similar to that of the couch or bed as well as the chairs on either
+                        side. The twenty-six other smaller figures in the scene fly around the
+                        seated figure of Queen Katharine in serpentine formations. Seven of these
+                        figures form a semi-circle around the right side of Queen Katharine's body
+                        in the lower half of the image. They fly atop a plume of wispy clouds. Just
+                        above the center of the lower margin, the lowest of these figures faces
+                        forward and right and appears to stand on tiptoe on the floor or hover just
+                        above it. She is gowned and female with short (or perhaps coiffed) hair. Her
+                        left leg is bent and her right is extended backward. With her right hand,
+                        she holds (and perhaps plays) a lyre and with her left arm, which is
+                        extended, she holds the hand of the figure above her at right, who flies
+                        upward and faces away and to the right. This figure is also a gowned female
+                        who holds a trumpet or horn in her raised right hand. Above and to the right
+                        of this figure, a third gowned female figure, who has a circle of light
+                        around her head and may wear a crown or garland, flies facing forward and
+                        slightly right as an infant or putto flies beside her at left facing away.
+                        The female figure plays a harp with both hands. Above and to the left of
+                        this pair, a second pair of figures flies upward and to the left. The figure
+                        at right is a gowned female figure who faces away and turns her head to the
+                        left. She raises both arms vertically and holds one or more circular objects
+                        in her hand (perhaps flower blossoms?). The lower figure at right, who has
+                        long hair and thus may be a female(?) child, raises one arm upward and may
+                        hold a similar round object. Immediately to the left of this figure, the
+                        seventh figure in this group, who has coiffed hair, a crown/garland, and a
+                        gown, faces away but bends to the left with arms extended and spread. In her
+                        raised right hand, she holds a serpentine object (perhaps a horn or shell?)
+                        and with her lowered left, the right side of a garland or crown. Together
+                        with another figure at left who holds the other side of the crown, she may
+                        be preparing to crown Queen Katharine below. This moment is referenced
+                        directly in the play's text: "the first two [Personages] hold a spare
+                        garland over her head" (Act 4, Scene 2). A second group of small figures
+                        above and to the left of Queen Katharine forms a complete circle of eight
+                        figures who fly atop a circle of clouds. The first of these figures near the
+                        lower right portion of the circle flies right and extends her left arm to
+                        hold the other side of the laurel crown over the head of Queen Katharine. In
+                        her right hand, she holds and perhaps plays a lyre. She wears a crown and a
+                        gown that exposes her breasts and her long hair streams behind her at left.
+                        Directly below her right arm, a small nude infant or putto faces away and
+                        flies up and to the right. Directly above this pair at right, two small nude
+                        figures face forward and fly upward with arms raised overhead and may hold
+                        similar small round objects, perhaps blossoms(?). A fifth figure, whose body
+                        is twisted to the left, flies to the left directly above this pair, and she
+                        wears a long gown and extends both arms forward to hold and play a lyre. The
+                        figure flying at her left wears a gown that exposes her breasts. Her body is
+                        horizontal, and she faces forward but turns her head slightly right. Her
+                        mouth may be open. She raises both arms horizontally and may wear a
+                        necklace. Below the extended left arm of this figure, a seventh figure who
+                        is upside down and twisted to the right flies downward and right. With both
+                        arms bent and raised, she plays two trumpets or horns. Directly below this
+                        figure, the final figure in this circle flies to the right with her left arm
+                        raised horizontally and her right extended upward near the above figure. She
+                        wears a gown and a crown or garland above short hair. Above the two figures
+                        holding the laurel crown above Queen Katharine, a cluster of five figures
+                        fly or hover at right. The two lower figures face forward and turn their
+                        head to look up in opposite directions, and both hold harps or lyres. A
+                        third figure above this pair faces forward and leans to the left. She wears
+                        a gown and a crown over long hair. In her left arm she holds and plays a
+                        lute; she raised her bent right arm at 135 degrees, perhaps to reach for one
+                        of the small round objects floating to her left. To the right of this
+                        figure, a gowned figure who bends forward and faces left holds a (wicker?)
+                        basket atop her head with both arms. A second gowned figure flying above her
+                        at left faces forward but bends left to reach into the basket with her right
+                        arm. Her left arm is raised vertically. Above this cluster of figures at
+                        left, two gowned figures who face away fly or hover near the upper margin of
+                        the design. They bend sharply to the left and extend their arms vertically
+                        and hold (and play) instruments, a lyre at right and a tambourine at left.
+                        Above the heads of these figures, traces of the gowns of three additional
+                        figures are visible emerging from the upper margin, suggesting additional
+                        figures who have flown upward out of the scene. A final group of four
+                        figures forms a circle in the upper left portion of the composition.
+                        Directly below and left of the tambourine player at top, a gowned female
+                        figure flies or hovers facing forward and left with both arms extended
+                        horizontally, palms facing up. She has long hair and may wear a crown or
+                        garland. Her mouth may be open. Forming the left side of the circle, a
+                        gowned female figure who faces forward flies upside down with her body
+                        twisted to the right. Both of her arm are raised overhead to hold or take
+                        flowers(?) from the (wicker?) basket carried on the head of the gowned
+                        female figure to her right who also flies to the right and wears a gown.
+                        This figure holds her basket with both arms bent overhead and her mouth may
+                        be open. To her right, the fourth figure flies right, facing away, with arms
+                        extended horizontally. With her right hand, she appears to reach for or drop
+                        small objects, perhaps fruit or blossoms(?). Visible against each side
+                        margin near the top of the composition, two piers or pillars with vaguely
+                        Corinthian capitals support (what is likely) a pointed arch, though the arch
+                        itself is obscured. Beams of light extend outward from the upper middle of
+                        the composition, often terminating in dark, spiky points that form
+                        concentric bands, particularly on the left side of the
+                        design.</illusobjdesc>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>veil</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>hands raised palms up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>queen</characteristic>
+                        <characteristic>Queen Katharine</characteristic>
+                        <illusobjdesc>Three large figures and at least twenty-six smaller figures
+                            occupy the space of the composition, which represents The Vision of
+                            Queen Katharine in Act 4, Scene 2 of Shakespeare's play <hi rend="i"
+                                >Henry VIII</hi>. The central female figure of Queen Katharine
+                            reclines or sits on a bed or couch with legs together (and right leg
+                            bent) at left but with her torso raised and facing forward. She has long
+                            hair and wears a gown and veil. Both arms are bent and raised just above
+                            the horizontal with palms facing up. Her head and eyes are also raised,
+                            perhaps to better see the visionary activity above her. Queen Katharine
+                            is the wife of King Henry VIII who wishes to divorce her (as she has not
+                            born a male heir) and marry Anne Boleyn. Katharine becomes ill, and it
+                            is during her sickness in which The Vision occurs.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>bed</characteristic>
+                        <characteristic>Gothic art</characteristic>
+                        <characteristic>arch</characteristic>
+                        <characteristic>couch</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>sheet</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>niche</characteristic>
+                        <illusobjdesc>The bed or couch on which Queen Katharine, the central figure,
+                            sits has large arms on either side. Its fabric is patterned with Gothic
+                            arches that resemble the arch in the upper part of the scene. The arches
+                            above the queen's legs and on the arms of the couch form niches
+                            containing the outlines of standing human figures, facing forward. A
+                            pillow is visible at right and drapery or sheets cover the seat and fall
+                            over the front edge of the furniture.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>picture</characteristic>
+                        <illusobjdesc>The arches above the queen's legs on the decorated cloth
+                            covering her couch form niches containing pictures of standing human
+                            figures, facing forward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>Patience</characteristic>
+                        <characteristic>servant</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>hand on face</characteristic>
+                        <characteristic>head on hand</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>sleeping</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>hand on knee</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <illusobjdesc>In front of the bed in both lower corners of the composition,
+                            the other two large figures sit facing each other on straight-backed
+                            chairs. Both figures have their eyes closed and appear to sleep with
+                            their heads supported on one bent arm. The figure in the right corner is
+                            a gowned female with long hair who rests her right elbow on a pillow
+                            with a tassel lower left on the table at her right, and she bends her
+                            right arm upward to rest her head on her hand. This is probably
+                            Patience, a servant to the queen. Her left arm is at her side with her
+                            left hand near her knee. Her left foot on which she wears a shoe is
+                            visible beneath the hem of her gown.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>chair</characteristic>
+                        <characteristic>table</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>tassel</characteristic>
+                        <characteristic>arch</characteristic>
+                        <characteristic>Gothic art</characteristic>
+                        <illusobjdesc>In the lower right corner, a gowned female figure sits in a
+                            straight-backed chair that is embellished with arch-like patterns
+                            evocative of Gothic art similar to the bed or couch. Facing left, she
+                            rests her right elbow on a pillow with a tassel lower left on a table at
+                            her right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>Griffith</characteristic>
+                        <characteristic>servant</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>hand on face</characteristic>
+                        <characteristic>head on hand</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>sleeping</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>shoe</characteristic>
+                        <illusobjdesc>In front of the bed in both lower corners of the composition,
+                            the other two large figures sit facing each other on straight-backed
+                            chairs. Both figures have their eyes closed and appear to sleep with
+                            their heads supported on one bent arm. The male figure at left has white
+                            hair, a mustache, and a long beard; he is also gowned. Bending forward,
+                            he rests his left elbow on a table behind him and turns his head to face
+                            forward with his head on his hand. This is probably Griffith, the
+                            queen's usher. In his right hand, which is by his side, he holds a
+                            scroll and pen or quill. His right leg is extended forward, and his
+                            right foot on which he wears a shoe is visible beneath the hem of his
+                            gown.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>table</characteristic>
+                        <characteristic>chair</characteristic>
+                        <characteristic>scroll</characteristic>
+                        <characteristic>quill</characteristic>
+                        <characteristic>pen</characteristic>
+                        <characteristic>arch</characteristic>
+                        <characteristic>Gothic art</characteristic>
+                        <illusobjdesc>In the lower left corner, a gowned male figure sits in a
+                            straight-backed chair that is embellished with arch-like patterns
+                            evocative of Gothic art similar to the bed or couch and floor below. He
+                            faces right and rests his right elbow on a table at his left. In his
+                            right hand he holds a scroll and a quill or pen by his
+                            side.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>floor</characteristic>
+                        <characteristic>carpet</characteristic>
+                        <characteristic>arch</characteristic>
+                        <characteristic>Gothic art</characteristic>
+                        <illusobjdesc>The floor, which may be a carpet or rug, between these two
+                            figures is decorated with arch-like patterns evocative of Gothic art
+                            similar to that of the couch or bed as well as the chairs on either
+                            side.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>tiptoe</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head up</characteristic>
+                        <illusobjdesc>Twenty-six other smaller figures in the scene fly around the
+                            seated figure of Queen Katharine in serpentine formations. Seven of
+                            these figures form a semi-circle around the right side of Queen
+                            Katharine's body atop of plume of clouds in the lower half of the image.
+                            Just above the center of the lower margin, the lowest of these figures
+                            faces forward and right and appears to stand on tiptoe on the floor or
+                            hover just above it. She is gowned and female with short (or perhaps
+                            coiffed) hair. Her left leg is bent and her right is extended backward.
+                            With her right hand, she holds (and perhaps plays) a lyre and with her
+                            left arm, which is extended, she holds the hand of the figure above her
+                            at right, toward whom she may also look with head up.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Twenty-six smaller figures fly or hover around the seated
+                            figure of Queen Katharine in serpentine formations. Seven of these
+                            figures form a semi-circle around the right side of Queen Katharine's
+                            body in the lower half of the image and fly atop a plume of wispy
+                            clouds. The second figure right of center flies upward and to the right
+                            with her legs together and extended backward. She has hair coiffed in a
+                            bun and wears a gown. Her right arm is raised at 135 degrees and she
+                            holds a horn or trumpet; her left is at her side and with her left hand
+                            holds the hand of the figure below her. She faces away but turns her
+                            head up and to the right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <illusobjdesc>Twenty-six smaller figures fly or hover around the seated
+                            figure of Queen Katharine in serpentine formations. Seven of these
+                            figures form a semi-circle around the right side of Queen Katharine's
+                            body in the lower half of the image and fly atop a plume of wispy
+                            clouds. Near the right margin, a third gowned female figure, who has a
+                            circle with beams of light around her head and may wear a crown or have
+                            short hair, flies facing forward and slightly right as an infant or
+                            putto flies beside her at left. The female figure plays a harp with both
+                            hands. Her legs are extended together and slightly bent.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>infant</characteristic>
+                        <characteristic>putto</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <illusobjdesc>Twenty-six smaller figures fly or hover around the seated
+                            figure of Queen Katharine in serpentine formations. Seven of these
+                            figures form a semi-circle around the right side of Queen Katharine's
+                            body in the lower half of the image and fly atop a plume of wispy
+                            clouds. Directly right of Queen Katharine's left hand, a third gowned
+                            female figure flies facing forward and slightly left as a nude infant or
+                            putto flies beside her at left. The child faces away and is seen from
+                            behind. Its hair is short, its leg are bent, and both bent arms are
+                            raised vertically.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <illusobjdesc>Twenty-six smaller figures fly or hover around the seated
+                            figure of Queen Katharine in serpentine formations. Seven of these
+                            figures form a semi-circle around the right side of Queen Katharine's
+                            body in the lower half of the image and fly atop a plume of wispy
+                            clouds. Above the harp-playing figure near the right margin, another
+                            pair of figures flies upward and to the left. The figure at right is a
+                            gowned female figure who faces away and turns her head up and to the
+                            left. She has coiffed hair. She raises both arms vertically and holds
+                            one or more circular objects in her hand (perhaps blossoms?). Her legs
+                            are together and extended downward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>child</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <illusobjdesc>Twenty-six smaller figures fly or hover around the seated
+                            figure of Queen Katharine in serpentine formations. Seven of these
+                            figures form a semi-circle around the right side of Queen Katharine's
+                            body in the lower half of the image and fly atop a plume of wispy
+                            clouds. Above the harp-playing figure near the right margin, another
+                            pair of figures fly up and to the left. The child at left faces forward
+                            but turns her head to look right, perhaps at the figure above her at
+                            right. She has long hair and wears a gown. Her right arm is extended
+                            vertically and her left is at her side. With both hands, she may reach
+                            for small circular objects, perhaps blossoms(?). Her legs are extended
+                            and together, knees bent slightly.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <illusobjdesc>Twenty-six smaller figures fly or hover around the seated
+                            figure of Queen Katharine in serpentine formations. Seven of these
+                            figures form a semi-circle around the right side of Queen Katharine's
+                            body in the lower half of the image and fly atop a plume of wispy
+                            clouds. Immediately to the left of the top pair of figures, the seventh
+                            figure in this group, who has short hair, a crown/garland, and a gown,
+                            faces away but bends to the left with arms extended and spread. Her head
+                            is twisted to face forward and down, perhaps to look toward Queen
+                            Katharine below. In her raised right hand, she holds a serpentine object
+                            (perhaps a horn or shell?) and with her lowered left, the right side of
+                            a garland or crown. Together with another figure at left who holds the
+                            other side of the crown, she may be preparing to crown Queen Katharine
+                            below. This moment is referenced directly in the play's text: "the first
+                            two [Personages] hold a spare garland over her head" (Act 4, Scene 2).
+                            Her legs are extended downward with her left leg bent at the
+                            knee.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>harp</characteristic>
+                        <characteristic>lyre</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>trumpet</characteristic>
+                        <characteristic>shell</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>serpentine</characteristic>
+                        <characteristic>crown</characteristic>
+                        <illusobjdesc>The seven smaller figures who form a semi-circle around the
+                            right side of Queen Katharine's body hold and/or play a variety of
+                            objects and instruments. The lowest figure holds a lyre in her right
+                            hand. The figure above her at right holds a trumpet or horn, and the
+                            rightmost figure above her holds and plays a harp. The highest figure in
+                            this group holds a serpentine object (perhaps a horn or shell?) in her
+                            raised right hand and a laurel crown in her lowered left
+                            hand.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>blossom</characteristic>
+                        <characteristic>flower</characteristic>
+                        <illusobjdesc>Several figures in the lowest group of smaller figures reach
+                            for or hold small circular objects that may be flower
+                            blossoms(?).</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>The seven small figures who form a semi-circle around the
+                            right side of Queen Katharine's body fly atop a single plume of clouds
+                            that appears to rise from the ground below the lowest figure or,
+                            alternatively, originate with this figure herself.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>breasts</characteristic>
+                        <characteristic>arms extended horizontally</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <illusobjdesc>A second group of small figures above and to the left of Queen
+                            Katharine forms a complete circle of eight figures who fly atop a circle
+                            of clouds. The first of these figures near the lower right portion of
+                            the circle flies right and extends her left arm to hold the other side
+                            of the laurel crown over the head of Queen Katharine. This moment is
+                            referenced directly in the play's text: "the first two [Personages] hold
+                            a spare garland over her head" (Act 4, Scene 2). In her right hand, she
+                            holds and perhaps plays a lyre. She wears a crown and a gown that
+                            exposes her breasts and her long hair streams behind her at
+                            left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>child</characteristic>
+                        <characteristic>infant</characteristic>
+                        <characteristic>putto</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <illusobjdesc>A second group of small figures above and to the left of Queen
+                            Katharine forms a complete circle of eight figures who fly atop a circle
+                            of clouds. Directly below the right arm of the first figure, a small
+                            nude infant or putto faces away and flies up and to the right. He has
+                            short hair and extends his right arm vertically. His legs are extended
+                            backward with the left leg bent.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>child</characteristic>
+                        <characteristic>putto</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <illusobjdesc>A second group of small figures above and to the left of Queen
+                            Katharine forms a complete circle of eight figures who fly atop a circle
+                            of clouds. Directly above the first female figure holding the laurel
+                            crown, two small nude figures with short hair face forward and fly
+                            upward with arms raised overhead and may hold similar small round
+                            objects, perhaps blossoms(?). The figure at right faces slightly right,
+                            but twists to look left, and bends backward with legs extended backward
+                            and together.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>child</characteristic>
+                        <characteristic>putto</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <illusobjdesc>A second group of small figures above and to the left of Queen
+                            Katharine forms a complete circle of eight figures who fly atop a circle
+                            of clouds. Directly above the first female figure holding the laurel
+                            crown, two small nude figures with short hair face forward and fly
+                            upward with arms raised overhead and may hold similar small round
+                            objects, perhaps blossoms(?). The figure at left extends its legs
+                            backward, and his mouth may be open.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>A second group of small figures above and to the left of Queen
+                            Katharine forms a complete circle of eight figures who fly atop a circle
+                            of clouds. Above the pair of children, a fifth figure, whose body is
+                            twisted to the left, flies to the left. She wears a long gown and
+                            extends both arms forward to hold and play a lyre. She appears to look
+                            toward the figure flying at her left. Both legs are extended downward
+                            with her right leg bent backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>breasts</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>necklace</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <illusobjdesc>A second group of small figures above and to the left of Queen
+                            Katharine forms a complete circle of eight figures who fly atop a circle
+                            of clouds. The sixth figure who flies at the top of the circle facing
+                            left and forward wears a gown that exposes her breasts. Her body is
+                            horizontal, but she turns her head slightly right. Her hair is long and
+                            her mouth may be open. She raises both arms horizontally and may reach
+                            for or hold a small circular object, perhaps a blossom(?), with her left
+                            hand. She may wear a necklace. Her legs are together and extended to the
+                            right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>upside down</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <illusobjdesc>A second group of small figures above and to the left of Queen
+                            Katharine forms a complete circle of eight figures who fly atop a circle
+                            of clouds. Forming the left upper curve of the circle, a seventh figure
+                            who is upside down and twisted to the right flies downward and right.
+                            She has coiffed hair and wears a gown. With both arms bent and raised,
+                            she plays two trumpets or horns.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>breasts</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <illusobjdesc>A second group of small figures above and to the left of Queen
+                            Katharine forms a complete circle of eight figures who fly atop a circle
+                            of clouds. Forming the lower left bend in the circle, the final figure
+                            flies to the right with her left arm raised horizontally and her right
+                            extended upward near the above figure where she may reach for a small
+                            circular object, perhaps a blossom(?). She wears a gown (which may
+                            expose her breasts) and a crown or garland above short hair. Her head is
+                            turned to face slightly left and her mouth may be open. Her legs are
+                            together and extended behind and above her.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>lyre</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>trumpet</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>crown</characteristic>
+                        <illusobjdesc>The eight smaller figures who form a complete circle above and
+                            to the left of Queen Katharine hold and/or play a variety of objects and
+                            instruments. The lowest figure at right holds a lyre in her right hand
+                            and, in her left hand, a laurel crown, also held by the figure at her
+                            right. The fourth figure near the upper right bend in the circle holds a
+                            lyre, while the seventh figure on the upper left side holds and plays
+                            two horns or trumpets.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AC">
+                        <characteristic>blossom</characteristic>
+                        <characteristic>flower</characteristic>
+                        <illusobjdesc>Four of the eight smaller figures who form a complete circle
+                            above and to the left Queen Katharine may hold and/or reach for small
+                            circular objects that resemble flower blossoms. The pair of children at
+                            right may hold them above their heads, the top central figure may reach
+                            for them with her extended left arm, and the figure lower left may reach
+                            for these with her right arm.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>The eight smaller figures who form a complete circle above and
+                            to the left of Queen Katharine fly atop a ring of clouds that connects
+                            with the larger plume of clouds on the right side of the
+                            picture.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <illusobjdesc>Above the two figures holding the laurel crown above Queen
+                            Katharine, a cluster of five figures fly or hover at right. The two
+                            lower figures, visible only from the waist up, face forward and turn
+                            their head to look up in opposite directions, and both hold harps or
+                            lyres. They appear to be nude. The figure at right looks up and right;
+                            she(?) may have long hair and appears to extend her bent left arm to the
+                            left, likely to hold or play the harp.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <illusobjdesc>Above the two figures holding the laurel crown above Queen
+                            Katharine, a cluster of five figures fly or hover at right. The two
+                            lower figures, visible only from the waist up, face forward and turn
+                            their head to look up in opposite directions, and both hold harps or
+                            lyres. They appear to be nude. The figure at left looks up and left
+                            (perhaps toward the figure above her); she may have long (or coiffed)
+                            hair. With both arms bent upward, she holds and plays a lyre at
+                            left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <illusobjdesc>Above the two figures holding the laurel crown above Queen
+                            Katharine, a cluster of five figures fly or hover at right. A third
+                            figure above this pair faces forward and leans to the left with her head
+                            up. She wears a gown and a crown over long hair. In her left arm she
+                            holds and plays a lute; she raised her bent right arm at 135 degrees,
+                            perhaps to reach for one of the small round objects floating to her left
+                            (which may be blossoms?). Her legs are extended downward and
+                            together.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>carrying</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <illusobjdesc>Above the two figures holding the laurel crown above Queen
+                            Katharine, a cluster of five figures fly or hover at right. To the right
+                            of the lute-playing figure, a gowned figure who faces away but twists to
+                            the left holds a (wicker?) basket atop her head with both arms. She
+                            turns her head down and may have coiffed hair. Her legs are extended
+                            backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <illusobjdesc>>Above the two figures holding the laurel crown above Queen
+                            Katharine, a cluster of five figures fly or hover at right. The
+                            rightmost figure in the group is a gowned female figure with long hair
+                            who faces forward but bends left to reach with her right arm into the
+                            basket carried on the head of the figure below her at left. Her left arm
+                            is raised vertically, and she may reach for a small circular object
+                            above, perhaps a blossom(?).</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>harp</characteristic>
+                        <characteristic>lute</characteristic>
+                        <illusobjdesc>Three figures in the group of five figures flying or hovering
+                            between and to the right of the two circular groups of figures hold
+                            instruments. The two lowest figures hold harps or lyres and the figure
+                            immediately above them holds a lute in her bent left arm.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>The group of five figures near the right side of the
+                            composition fly atop clouds that extend from the larger plume of clouds
+                            originating in the lower center of the picture.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Just below the upper margin of the design on the right, two
+                            gowned figures who face away fly or hover. They bend sharply to the left
+                            and extend their arms vertically and hold (and play) instruments. The
+                            figure at right holds a harp with her left hand and plays with her
+                            right. Her hair appears to be in a bun, and she turns her head to face
+                            left, perhaps to look toward her companion at left. Her right leg is
+                            bent backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>playing</characteristic>
+                        <characteristic>tambourine</characteristic>
+                        <illusobjdesc>Just below the upper margin of the design on the right, two
+                            gowned figures who face away fly or hover. They bend sharply to the left
+                            and extend their arms vertically and hold (and play) instruments. The
+                            figure at left has short hair or wears it coiffed. She twists her head
+                            up to face up and holds a tambourine in her right hand and plays the
+                            instruments with her left. One of her legs is extended downward and the
+                            other at a right angle backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>gown</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <illusobjdesc>Above the heads of the two figures closest to the top of the
+                            design, traces of the gowns of three additional figures are visible
+                            emerging diagonally rightward from the upper margin. These suggest
+                            additional figures who have flown upward out of the
+                            scene.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>A cloud is visible beneath the figure flying or hovering
+                            closest to the top right corner of the composition. This cloud connects
+                            with the larger plume of clouds extending upward from the lower center
+                            of the picture.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>hands raised, palms up</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <illusobjdesc>A final group of four figures forms a circle in the upper left
+                            portion of the composition. Directly below and left of the tambourine
+                            player near the top margin, a gowned female figure flies or hovers
+                            facing forward and left with both arms extended horizontally, palms
+                            facing up. She may touch the foot of the figure to her left with her
+                            extended right hand. She has long hair and may wear a crown or garland.
+                            Her mouth may be open. Her legs are together and extended
+                            backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>upside down</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>arms raised vertically</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <illusobjdesc>A final group of four smaller figures forms a circle in the
+                            upper left portion of the composition. Forming the left side of the
+                            circle, a gowned female figure who faces forward flies or hovers upside
+                            down with her body twisted to the right. She appears to have short hair.
+                            Both of her arms are raised overhead (with her left arm bent) to hold or
+                            take flowers(?) from the (wicker?) basket carried on the head of the
+                            gowned female figure to her right. Her legs are extended upward and her
+                            left appears to be bent.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>female</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>carrying</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended backward</characteristic>
+                        <illusobjdesc>A final group of four smaller figures forms a circle in the
+                            upper left portion of the composition. The third figure who flies right
+                            or hovers at the bottom edge of the circle holds a (wicker?) basket full
+                            of fruit or flowers(?) atop her head with both arms bent upward. She
+                            faces forward but turns her head slightly left, perhaps to look toward
+                            the figure flying to her left. Her mouth may be open. She has long hair
+                            and wears a gown. Her body is horizontal and her legs are together and
+                            extended backward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>bending left</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <illusobjdesc>A final group of four smaller figures forms a circle in the
+                            upper left portion of the composition. In the lower right of the circle,
+                            the fourth gowned figure flies right and twists to face away. Her arms
+                            are extended horizontally. With her right hand, she appears to reach for
+                            or drop small objects, perhaps blossoms(?). Her left hand is extended
+                            near the basket carried by the figure at the left.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>basket</characteristic>
+                        <characteristic>wicker</characteristic>
+                        <illusobjdesc>The lowest figure at left in the topmost group of figures
+                            holds a (wicker?) basket, which may contain flowers(?), on top of her
+                            head. A similar basket is held on the head of a small figure further to
+                            the right.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="A">
+                        <characteristic>flowers</characteristic>
+                        <characteristic>blossom</characteristic>
+                        <illusobjdesc>The lowest figure at left in the topmost group of figures
+                            holds a basket, which may contain flowers(?), on top of her head.
+                            Additional small circular objects that may be blossoms(?) are visible in
+                            a horizontal line in the middle of the circle of figures upper
+                            left.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>The final group of four smaller figures who form a circle in
+                            the upper left portion of the composition fly or hover atop a ring of
+                            clouds that connects with the larger plume of clouds on the right side
+                            of the picture.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>pier</characteristic>
+                        <characteristic>pillar</characteristic>
+                        <characteristic>arch</characteristic>
+                        <illusobjdesc>Visible against each side margin near the top of the
+                            composition, two piers with vaguely Corinthian capitals support (what is
+                            likely) a pointed arch, though the arch itself is
+                            obscured.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>light</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <illusobjdesc>Beams of light extend outward from the upper middle of the
+                            composition, often terminating in dark, spiky points that form
+                            concentric bands, particularly on the left side of the
+                            design.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="but549.1.penandink.01.01" justify="left" indent="45">WBlake inv</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
