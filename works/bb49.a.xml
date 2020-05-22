@@ -300,66 +300,62 @@
                 <windowsize width="500" height="615"/>
             </physdesc>
             <phystext>
-                <l n="bb49.a.te.01.01" justify="left">
-                    <add place="inline">
-                        <hi rend="handshift">
-                            John Linnell. Red Hill 1806.
-                        </hi>
-                    </add>
-                    <note>
-                        "John Linnell. Red Hill 1806." is inscribed in pen and ink in the top left corner of the page, possibly by Linnell; see note for line 5. 
-                    </note>   
-                </l>
-                <vspace extent="1"/>
-                <lg justify="left">
-                    <l n="bb49.a.te.01.02" justify="left" indent="28"><choice><orig>T</orig><reg>THE</reg></choice> <choice><orig>H</orig><reg>THE</reg></choice> <choice><orig>E</orig><reg>THE</reg></choice></l>
-                </lg>
-                <vspace extent="1"/>
-                <lg justify="left">
-                    <l n="bb49.a.te.01.03" justify="left" indent="15"><choice><orig>F</orig><reg>FRENCH</reg></choice> <choice><orig>R</orig><reg>FRENCH</reg></choice> <choice><orig>E</orig><reg>FRENCH</reg></choice> <choice><orig>N</orig><reg>FRENCH</reg></choice> <choice><orig>C</orig><reg>FRENCH</reg></choice> <choice><orig>H</orig><reg>FRENCH</reg></choice><space extent="2"/> <choice><orig>R</orig><reg>REVOLUTION</reg></choice> <choice><orig>E</orig><reg>REVOLUTION</reg></choice> <choice><orig>V</orig><reg>REVOLUTION</reg></choice> <choice><orig>O</orig><reg>REVOLUTION</reg></choice> <choice><orig>L</orig><reg>REVOLUTION</reg></choice> <choice><orig>U</orig><reg>REVOLUTION</reg></choice> <choice><orig>T</orig><reg>REVOLUTION</reg></choice> <choice><orig>I</orig><reg>REVOLUTION</reg></choice> <choice><orig>O</orig><reg>REVOLUTION</reg></choice> <choice><orig>N</orig><reg>REVOLUTION</reg></choice>.</l>
-                </lg>
-                <vspace extent="1"/>
-                <lg justify="left">   
-                    <l n="bb49.a.te.01.04" justify="left" indent="21">A <space extent="3"/> <choice><orig>P</orig><reg>POEM</reg></choice><space extent="2"/><choice><orig>O</orig><reg>POEM</reg></choice><space extent="2"/><choice><orig>E</orig><reg>POEM</reg></choice><space extent="2"/><choice><orig>M</orig><reg>POEM</reg></choice>,</l>
-                </lg>
-                <lg justify="left"> 
-                    <l n="bb49.a.te.01.05" justify="left" indent="23"><add place="inline"><hi rend="handshift">BY W<hi rend="superscript">m</hi> BLAKE</hi></add>
-                        <note> 
-                            “BY Wm BLAKE” is inscribed in pen and ink, possibly by Linell. The first description of both interpolations on this page appears in
-                            *The Poetical Works of William Blake*, ed. John Sampson, 2nd ed. (London: Oxford University Press, 1913), page xxxi. Sampson attributes both inscriptions
-                            to "the original owner" (John Linnell). Essick (*Works*, page 179) speculates that the interpolation of line 5 may have been added as “a mock-up for inclusion in a revised setting.” Additional speculations suggest 
-                            that the name may have originally been omitted as a precaution due to the polemical nature of the content.
-                        </note>
-                    </l>
-                </lg>    
-                <vspace extent="1"/>
-                <lg justify="left">  
-                    <l n="bb49.a.te.01.06" justify="left" indent="21"> IN SEVEN BOOKS</l>
-                </lg>
-                <vspace extent="1"/>
-                <lg justify="left">
-                    <l n="bb49.a.te.01.07" justify="left" indent="15"><choice><orig>B</orig><reg>BOOK</reg></choice><space extent="1"/><choice><orig>O</orig><reg>BOOK</reg></choice><space extent="1"/><choice><orig>O</orig><reg>BOOK</reg></choice><space extent="1"/><choice><orig>K</orig><reg>BOOK</reg></choice><space extent="3"/><choice><orig>T</orig><reg>THE</reg></choice><space extent="1"/><choice><orig>H</orig><reg>THE</reg></choice><space extent="1"/><choice><orig>E</orig><reg>THE</reg></choice><space extent="3"/><choice><orig>F</orig><reg>FIRST</reg></choice><space extent="1"/><choice><orig>I</orig><reg>FIRST</reg></choice><space extent="1"/><choice><orig>R</orig><reg>FIRST</reg></choice><space extent="1"/><choice><orig>S</orig><reg>FIRST</reg></choice><space extent="1"/><choice><orig>T.</orig><reg>FIRST</reg></choice></l>
-                </lg>
-                <vspace extent="1"/>
-                <lg justify="left">  
-                    <l n="bb49.a.te.01.08" justify="left" indent="23"><choice><orig>L</orig><reg>LONDON</reg></choice><space extent="1"/><choice><orig>O</orig><reg>LONDON</reg></choice><space extent="1"/><choice><orig>N</orig><reg>LONDON</reg></choice><space extent="1"/><choice><orig>D</orig><reg>LONDON</reg></choice><space extent="1"/><choice><orig>O</orig><reg>LONDON</reg></choice><space extent="1"/><choice><orig>N</orig><reg>LONDON</reg></choice>:</l>
-                </lg>
-                <vspace extent="1"/>
-                <lg justify="left">   
-                    <l n="bb49.a.te.01.09" justify="left" indent="2">PRINTED FOR J. JOHNSON, N<hi rend="superscript">o</hi> 72, ST PAUL'S CHURCH-YARD. </l>
-                </lg>
-                <vspace extent="1"/>
-                <lg justify="left">
-                    <l n="bb49.a.te.01.10" justify="left" indent="25"><choice><orig>M DCC XCI</orig><reg>1791</reg></choice>.</l>
-                </lg>
-                <vspace extent="1"/>
-                <lg justify="left">
-                    <l n="bb49.a.te.01.11" justify="left" indent="19">[PRICE ONE SHILLING.]</l>
-                </lg>
-                <vspace extent="1"/>
-                <lg justify="left">
-                </lg>
-            </phystext>
+    <l n="bb49.a.te.01.01" justify="left">
+        <add place="inline"><hi rend="handshift">John Linnell. Red Hill 1806.</hi></add>
+        <note>
+            "John Linnell. Red Hill 1806." is inscribed in pen and ink in the top left corner of the page, possibly by Linnell; see note for line 5. 
+        </note>   
+    </l>
+    <vspace extent="3"/>
+    <lg justify="left">
+        <l n="bb49.a.te.01.02" justify="left" indent="28">THE</l>
+    </lg>
+    <vspace extent="1"/>
+    <lg justify="left">
+        <l n="bb49.a.te.01.03" justify="left" indent="19">FRENCH REVOLUTION.</l>
+    </lg>
+    <vspace extent="1"/>
+    <lg justify="left">   
+        <l n="bb49.a.te.01.04" justify="left" indent="24">A <space extent="3"/> POEM,</l>
+    </lg>
+    <lg justify="left"> 
+        <l n="bb49.a.te.01.05" justify="left" indent="24"><add place="inline"><hi rend="handshift">BY W<hi rend="superscript">m</hi> BLAKE</hi></add>
+            <note> 
+                “BY Wm BLAKE” is inscribed in pen and ink, possibly by Linell. The first description of both interpolations on this page appears in
+                *The Poetical Works of William Blake*, ed. John Sampson, 2nd ed. (London: Oxford University Press, 1913), page xxxi. Sampson attributes both inscriptions
+                to "the original owner" (John Linnell). Essick (*Works*, page 179) speculates that the interpolation of line 5 may have been added as “a mock-up for inclusion in a revised setting.” Additional speculations suggest 
+                that the name may have originally been omitted as a precaution due to the polemical nature of the content.
+            </note>
+        </l>
+    </lg>    
+    <vspace extent="1"/>
+    <lg justify="left">  
+        <l n="bb49.a.te.01.06" justify="left" indent="21"> IN SEVEN BOOKS.</l>
+    </lg>
+    <vspace extent="1"/>
+    <lg justify="left">
+        <l n="bb49.a.te.01.07" justify="left" indent="22">BOOK THE FIRST.</l>
+    </lg>
+    <vspace extent="1"/>
+    <lg justify="left">  
+        <l n="bb49.a.te.01.08" justify="left" indent="26">LONDON:</l>
+    </lg>
+    <vspace extent="1"/>
+    <lg justify="left">   
+        <l n="bb49.a.te.01.09" justify="left">PRINTED FOR J. JOHNSON, N<hi rend="superscript">o</hi> 72, ST PAUL'S CHURCH-YARD. </l>
+    </lg>
+    <vspace extent="1"/>
+    <lg justify="left">
+        <l n="bb49.a.te.01.10" justify="left" indent="25"><choice><orig>M DCC XCI</orig><reg>1791</reg></choice>.</l>
+    </lg>
+    <vspace extent="1"/>
+    <lg justify="left">
+        <l n="bb49.a.te.01.11" justify="left" indent="19">[PRICE ONE SHILLING.]</l>
+    </lg>
+    <vspace extent="1"/>
+    <lg justify="left">
+    </lg>
+</phystext>
         </desc>
         <desc id="bb49.a.te.02" dbi="BB49.A.adv.TYP">
             <objtitle>
