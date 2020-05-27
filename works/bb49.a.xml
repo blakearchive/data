@@ -11,9 +11,6 @@
                     <name>Robert Essick,</name> University of California, Riverside; and 
                     <name>Joseph Viscomi,</name> University of North Carolina at Chapel Hill 
                 </principal>
-                <respstmt/>
-                <sponsor/>
-                <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 106KB; 36 JPEG (ISO/IEC 10918) files ranging in size from 35KB to 1.1MB</extent>
@@ -62,7 +59,7 @@
             notification of the publisher, the Institute for Advanced Technology in the Humanities.
             Permission to reproduce the graphic images in this archive has been granted by the
             owners of the originals for this publication only.<lb/>
-            <lb/>This image copyright © 2020 British Library.<lb/>
+            <lb/>This image copyright © 2020 Huntington Library.<lb/>
             <lb/>
         </userestrict>
         <encodingdesc/>
@@ -90,11 +87,11 @@
                     <resp>Consultants on Special Projects:</resp>
                     <name>Ashley Reed,</name>
                     <name>Josh Romphf,</name>
-                    <name>Helen Davies,</name>
+                    <name>Helen Davies</name>
                     <resp>Bibliographer:</resp>
                     <name>Chuck Ripley</name>
                     <resp>Project Assistants:</resp>
-                    <name>Katherine Calvin</name>
+                    <name>Katherine Calvin,</name>
                     <name>Kendall DeBoer,</name>
                     <name>Dan Gorman,</name>
                     <name>Ani Govjian,</name>
@@ -108,7 +105,7 @@
                     <name>Oishani Sengupta,</name>
                     <name>Elizabeth Shand,</name>
                     <name>Jewell Thomas,</name> 
-                    <name>Marcie Woehl,</name>
+                    <name>Marcie Woehl</name>
                 </respstmt>
             </changestmt>
             <changestmt>
@@ -133,7 +130,7 @@
                     <resp>Consultants on Special Projects:</resp>
                     <name>Ashley Reed,</name>
                     <name>Josh Romphf,</name>
-                    <name>Helen Davies,</name>
+                    <name>Helen Davies</name>
                     <resp>Bibliographer:</resp>
                     <name>Chuck Ripley</name>
                     <resp>Project Assistants:</resp>
@@ -151,7 +148,7 @@
                     <name>Oishani Sengupta,</name>
                     <name>Elizabeth Shand,</name>
                     <name>Jewell Thomas,</name>
-                    <name>Marcie Woehl,</name>
+                    <name>Marcie Woehl</name>
                 </respstmt>
             </changestmt>
             <changestmt>
@@ -238,7 +235,7 @@
             </objdescid>
             <objinfo>
                 <printdate value="1791">1791
-                    <note>This set of page proofs is the only known copy of the work. Both Bentley (Bentley, *Writings* volume 2, page 1688) and Essick (*Works*, page 179) surmise that the 
+                    <note>This set of page proofs is the only known copy of the work. Both Bentley (*Writings* volume 2, page 1688) and Essick (*Works* page 179) surmise that the 
                         number of typographic errors in this copy indicate that *The French Revolution* never progressed beyond 
                         the proofing stages. Other reasons include the copy’s singularity, the uneven and occasionally very 
                         heavy inking, and the uncentered final lines on both the advertisement and final page. Additionally, 
@@ -264,7 +261,7 @@
                 <date>1918</date>
                 <dealer>George D. Smith</dealer>
                 <price>£131.5s</price>
-                <note>In the collection of John Linnell, owned perhaps as early as 1827 (Bentley, *Records*, page 472); sold posthumously from Linnell's collection
+                <note>In the collection of John Linnell, owned perhaps as early as 1827 (Bentley, *Records* page 472); sold posthumously from Linnell's collection
                     at Christie's, 15 March 1918, lot 191 (£131.5s); acquired by George D. Smith for Henry
                     E. Huntington; now in the Huntington Library.</note>
             </provenance>
@@ -316,14 +313,14 @@
     </lg>
     <vspace extent="1"/>
     <lg justify="left">   
-        <l n="bb49.a.te.01.04" justify="left" indent="24">A <space extent="3"/> POEM,</l>
+        <l n="bb49.a.te.01.04" justify="left" indent="26">A POEM,</l>
     </lg>
     <lg justify="left"> 
         <l n="bb49.a.te.01.05" justify="left" indent="24"><add place="inline"><hi rend="handshift">BY W<hi rend="superscript">m</hi> BLAKE</hi></add>
             <note> 
                 “BY Wm BLAKE” is inscribed in pen and ink, possibly by Linnell. The first description of both interpolations on this page appears in
                 *The Poetical Works of William Blake*, ed. John Sampson (London: Oxford University Press, 1913), page xxxi. Sampson attributes both inscriptions
-                to "the original owner" (John Linnell). Essick (*Works*, page 179) speculates that the interpolation of line 5 may have been added as “a mock-up for inclusion in a revised setting.” Additional speculations suggest 
+                to "the original owner" (John Linnell). Essick (*Works* page 179) speculates that the interpolation of line 5 may have been added as “a mock-up for inclusion in a revised setting.” Additional speculations suggest 
                 that the name may have originally been omitted as a precaution due to the polemical nature of the content.
             </note>
         </l>
@@ -432,14 +429,14 @@
                     <l n="bb49.a.te.03.11" justify="left">Sick the mountains, and all their
                         vineyards weep, in the eyes of the kingly mourner;</l>
                     <l n="bb49.a.te.03.12" justify="left">Pale is the morning cloud in his visage.
-                        Rise, Necker: the ancient dawn calls us.</l>
+                        Rise, Necker: the ancient dawn calls us</l>
                     <l n="bb49.a.te.03.13" justify="left">To awake from the slumbers of five
                         thousand years. I awake, but my soul is in dreams;</l>
                     <l n="bb49.a.te.03.14" justify="left">From my window I see the old mountains of
                         France, like aged men, fading away.</l>
                 </lg>               
                 <textfoot justify="left">                    
-                    <l n="bb49.a.te.03.15" justify="left" indent="35">B<space extent="40"/><catchword>Troubled,</catchword></l>
+                    <l n="bb49.a.te.03.15" justify="left" indent="35">B<space extent="37"/><catchword>Troubled,</catchword></l>
                 </textfoot>
             </phystext>
         </desc>
@@ -466,7 +463,7 @@
                     <l n="bb49.a.te.04.03" justify="left">In fear, utter voices of thunder; the
                         woods of France embosom the sound;
                         <note>
-                            Bentley (*Writings* volume 2, page 801) and Erdman (286) read "In fear," as "In fear."
+                            Bentley (*Writings* volume 2, page 801) and Erdman (286) read "In fear," as "In fear".
                         </note>
                     </l>
                     <l n="bb49.a.te.04.04" justify="left">Clouds of wisdom prophetic reply, and
@@ -474,7 +471,7 @@
                     <l n="bb49.a.te.04.05" justify="left">Forty-men: each conversing with woes in
                         the infinite shadows of his soul,
                         <note>
-                            Bentley (*Writings* volume 2, page 801) and Erdman (286) read "Forty-men:" as "Forty men."
+                            Bentley (*Writings* volume 2, page 801) and Erdman (286) read "Forty-men" as "Forty men".
                         </note>
                     </l>
                     <l n="bb49.a.te.04.06" justify="left">Like our ancient fathers in regions of
@@ -554,7 +551,7 @@
                     <l n="bb49.a.te.05.10" justify="left">And narrow as a grave dug for a child,
                         with spiders webs wove, and with slime
                         <note>
-                            Bentley reads "spiders" as "spiders'" (*Writings* volume 2 page 803).
+                            Bentley reads "spiders" as "spiders'" (*Writings* volume 2, page 803).
                         </note>
                     </l>
                     <l n="bb49.a.te.05.11" justify="left">Of ancient horrors <choice><orig>cover'd</orig><reg>covered</reg></choice>, for snakes
@@ -569,7 +566,7 @@
                     <l n="bb49.a.te.05.16" justify="left"><choice><orig>Eeternally</orig><reg>Eternally</reg></choice> rushing round, like a man on
                         his hands and knees, day and night without rest.
                         <note>
-                            Both Bentley (*Writings* volume 2 page 803) and Erdman (288) read "Eeternally" as "Eternally." 
+                            Both Bentley (*Writings* volume 2, page 803) and Erdman (288) read "Eeternally" as "Eternally". 
                         </note></l>
                     <l n="bb49.a.te.05.17" justify="left">He was friend to the <choice><orig>favourite</orig><reg>favorite</reg></choice>. In the
                         seventh tower, <choice><orig>nam'd</orig><reg>named</reg></choice> the tower of God, was a man</l>
@@ -682,7 +679,7 @@
                         rolling round me, the spirits of ancient Kings
                         <note>
                             Bentley (*Writings* volume 2, page 804) reads "thro' darkness" as "thro'
-                            the darkness."
+                            the darkness".
                         </note>
                     </l>
                     <l n="bb49.a.te.07.03" justify="left">Shivering over their bleached bones;
@@ -690,7 +687,7 @@
                     <l n="bb49.a.te.07.04" justify="left">Crying: Hide from the living! Our bonds
                         and our prisoners shout in the open field,
                         <note>
-                            Erdman (289) reads "bonds" as "b[a]nds."
+                            Erdman (289) reads "bonds" as "b[a]nds".
                         </note>
                     </l>
                     <l n="bb49.a.te.07.05" justify="left">Hide in the nether earth! Hide in the
@@ -698,7 +695,7 @@
                     <l n="bb49.a.te.07.06" justify="left">Our flesh is corrupted, and we were away.
                         We are not numbered among the living. Let us hide
                         <note>
-                            Bentley (*Writings* volume 2, page 805) and Erdman (289) read "were" as "wear" and "[wear]," respectively.
+                            Bentley (*Writings* volume 2, page 805) and Erdman (289) read "were" as "wear" and "[wear]", respectively.
                         </note>
                     </l>
                     <l n="bb49.a.te.07.07" justify="left">In stones, among roots of trees. The
@@ -722,7 +719,7 @@
                     <l n="bb49.a.te.07.13" justify="left">Then the antientest Peer, Duke of
                         Burgundy, rose from the Monarch's right hand, red as wines
                         <note>
-                            Bentley (*Writings* volume 2 page 805) and Erdman (289) both read "antientest" as "ancientest."
+                            Bentley (*Writings* volume 2, page 805) and Erdman (289) both read "antientest" as "ancientest".
                         </note>
                     </l>
                     <l n="bb49.a.te.07.14" justify="left">From his mountains, an odor of war, like
@@ -758,7 +755,8 @@
             <physdesc>
                 <objsize>29.6 x 22.2 cm.</objsize>
                 <objnote>
-                    <p>Bentley (*Writings* volume 2, page 807) and Erdman (816) both suggest that Object 8, lines 20 and 21, and Object 9, lines 2 through 10, may have originally been intended to follow line 14 of Object 8. This argument was first made by W.F. Halloran in the January 1968 *Bulletin of the New York Public Library.*</p>
+                    <p>Both Bentley (*Writings* volume 2, page 807) and Erdman (290) note that a copying error was likely made, as the printed sequence skews the interaction among Burgundy, the King, and Necker.</p>
+                    <p>Bentley (*Writings* volume 2, page 807) and Erdman (816) both suggest that Object 8, lines 20 and 21, and Object 9, lines 2 through 10, may have originally been intended to follow line 14 of Object 8. This argument was first made by W.F. Halloran in the January 1968 *Bulletin of the New York Public Library.* In his edition Erdman rearranges the lines in accordance with this argument.</p>
                 </objnote>
                 <windowsize width="500" height="615"/>
             </physdesc>
@@ -798,7 +796,6 @@
                 <lg justify="left">
                     <l n="bb49.a.te.08.15" justify="left">He <choice><orig>ceas'd</orig><reg>ceased</reg></choice>, and <choice><orig>burn'd</orig><reg>burned</reg></choice> silent, red clouds
                         roll round Necker, a weeping is heard <choice><orig>o'er</orig><reg>over</reg></choice> the palace;</l>
-                    <note> Both Bentley (*Writings* volume 2, page 807) and Erdman (290) note that a copying error was likely made, as the printed sequence skews the interaction among Burgundy, the King, and Necker</note>
                     <l n="bb49.a.te.08.16" justify="left">Like a dark cloud Necker <choice><orig>paus'd</orig><reg>paused</reg></choice>, and like
                         thunder on the just man's burial day he <choice><orig>paus'd</orig><reg>paused</reg></choice>;</l>
                     <l n="bb49.a.te.08.17" justify="left">Silent sit the winds, silent the
@@ -830,7 +827,7 @@
             <physdesc>
                 <objsize>29.6 x 22.2 cm.</objsize>
                 <objnote>
-                    <p>Bentley (*Writings* volume 2, page 807) and Erdman (816) both suggest that Object 8, lines 20 and 21, and Object 9, lines 2 through 10, may have originally been intended to follow line 14 of Object 8. This argument was first made by W.F. Halloran in the January 1968 *Bulletin of the New York Public Library.*</p>
+                    <p>Bentley (*Writings* volume 2, page 807) and Erdman (816) both suggest that Object 8, lines 20 and 21, and Object 9, lines 2 through 10, may have originally been intended to follow line 14 of Object 8. This argument was first made by W.F. Halloran in the January 1968 *Bulletin of the New York Public Library.* In his edition Erdman rearranges the lines in accordance with this argument.</p>
                 </objnote>
                 <windowsize width="500" height="615"/>
             </physdesc>
@@ -847,12 +844,12 @@
                     <l n="bb49.a.te.09.04" justify="left">Written in my bosom. Neckar rise, leave
                         the kingdom, thy life is surrounded with snares;
                         <note>
-                            Bentley (*Writings* volume 2, page 807) and Erdman (291) read "Neckar" as "Necker."
+                            Bentley (*Writings* volume 2, page 807) and Erdman (291) read "Neckar" as "Necker".
                         </note>
                     </l>
                     <l n="bb49.a.te.09.05" justify="left">We have <choice><orig>call'd</orig><reg>called</reg></choice> an Assembly, but not to
                         destroy; we have given gifts, not to the weak;</l>
-                    <l n="bb49.a.te.09.06" justify="left">I hear rushing of muskets, and <choice><orig>bright'ning</orig><reg>brightening</reg></choice> of swords, and visages <choice><orig>redd'ning</orig><reg>reddening</reg></choice> with war,<note>Bentley (*Writings* volume 2, page 807) notes that "rushing of muskets" may be a misprint for "rattling of muskets"</note></l>
+                    <l n="bb49.a.te.09.06" justify="left">I hear rushing of muskets, and <choice><orig>bright'ning</orig><reg>brightening</reg></choice> of swords, and visages <choice><orig>redd'ning</orig><reg>reddening</reg></choice> with war,<note>Bentley (*Writings* volume 2, page 807) notes that "rushing of muskets" may be a misprint for "rattling of muskets".</note></l>
                     <l n="bb49.a.te.09.07" justify="left">Frowning and looking up from brooding
                         villages and every <choice><orig>dark'ning</orig><reg>darkening</reg></choice> city;</l>
                     <l n="bb49.a.te.09.08" justify="left">Ancient wonders frown over the kingdom,
@@ -878,7 +875,7 @@
                     <l n="bb49.a.te.09.15" justify="left">But the Nobles <choice><orig>burn'd</orig><reg>burned</reg></choice> wrathful at
                         Neckar's departure, and <choice><orig>wreath'd</orig><reg>wreathed</reg></choice> their clouds and waters
                         <note>
-                            Bentley (*Writings* volume 2, page 807) and Erdman (291) read "Neckar" as "Necker."
+                            Bentley (*Writings* volume 2, page 807) and Erdman (291) read "Neckar" as "Necker".
                         </note>
                     </l>
                     <l n="bb49.a.te.09.16" justify="left">In dismal volumes; as risen from beneath
@@ -933,9 +930,7 @@
                     <l n="bb49.a.te.10.09" justify="left">Descending to beasts; they look downward
                         and labour and forget my holy law;</l>
                     <l n="bb49.a.te.10.10" justify="left">The sound of prayer fails from lips of
-                        flesh, and the holy hymn from <choice><orig>thicken'd</orig><reg>thickened</reg></choice> tongues;<note> Erdman (page 292) and
-                            Bentley (*Writings* volume 2, page 809) read "sails" as
-                            "fails". </note>
+                        flesh, and the holy hymn from <choice><orig>thicken'd</orig><reg>thickened</reg></choice> tongues;
                     </l>
                     <l n="bb49.a.te.10.11" justify="left">For the bars of Chaos are burst; her
                         millions prepare their fiery way</l>
@@ -998,7 +993,7 @@
                     <l n="bb49.a.te.11.06" justify="left">Swam round them, watching to be
                         delivered; When Aumont, whose chaos-born soul
                         <note>
-                            Bentley (*Writings* volume 2 page 810) reads "When" as "when."
+                            Bentley (*Writings* volume 2, page 810) reads "When" as "when".
                         </note>
                     </l>
                     <l n="bb49.a.te.11.07" justify="left">Eternally <choice><orig>wand'ring</orig><reg>wandering</reg></choice> a Comet and
@@ -1069,7 +1064,7 @@
                     <l n="bb49.a.te.12.03" justify="left">His benevolent hand, looking on the
                         Archbishop, who changed as pale as lead;
                         <note>
-                            Bentley reads "who changed as pale as lead;" as "who, changed as pale as lead," (*Writings* volume 2 page 811).
+                            Bentley reads "who changed as pale as lead;" as "who, changed as pale as lead," (*Writings* volume 2, page 811).
                         </note>
                     </l>
                     <l n="bb49.a.te.12.04" justify="left">Would have risen but could not, his voice
@@ -1152,7 +1147,7 @@
                     <l n="bb49.a.te.13.08" justify="left">The pale fires of Aumont into the
                         chamber, as a father that bows to his son;
                         <note>
-                            Bentley reads "bows to his son;" as "bows to his son," (*Writings* volume 2 page 812).
+                            Bentley reads "bows to his son;" as "bows to his son," (*Writings* volume 2, page 812).
                         </note>
                     </l>
                     <l n="bb49.a.te.13.09" justify="left">Whose rich fields inheriting spread their
@@ -1167,7 +1162,7 @@
                     <l n="bb49.a.te.13.12" justify="left"><choice><orig>O'erclouded</orig><reg>Overclouded</reg></choice> with power. Hear the voice of
                         <choice><orig>vallies</orig><reg>valleys</reg></choice>, the voice of meek cities,
                         <note>
-                            Bentley (*Writings* volume 2 page 812) reads "vallies" as "valleys."
+                            Bentley (*Writings* volume 2, page 812) reads "vallies" as "valleys".
                         </note>
                     </l>
                     <l n="bb49.a.te.13.13" justify="left">Mourning oppressed on village and field,
@@ -1331,7 +1326,7 @@
                 </lg>
                 <vspace extent="1"/>
                 <textfoot>
-                    <l n="bb49.a.te.15.20" justify="left" indent="75"><catchword>A rushing</catchword></l>
+                    <l n="bb49.a.te.15.21" justify="left" indent="75"><catchword>A rushing</catchword></l>
                 </textfoot>
             </phystext>
         </desc>
@@ -1393,7 +1388,7 @@
                     <l n="bb49.a.te.16.16" justify="left">On pestilent <choice><orig>vapours</orig><reg>vapors</reg></choice> around him flow
                         frequent <choice><orig>spectres</orig><reg>specters</reg></choice> of religious men weeping
                         <note>
-                            Bentley reads "religious men weeping" as "religious men weeping;" (*Writings* volume 2 page 816).
+                            Bentley reads "religious men weeping" as "religious men weeping;" (*Writings* volume 2, page 816).
                         </note>
                     </l>
                     <l n="bb49.a.te.16.17" justify="left">In winds driven out of the abbeys, their
@@ -1441,7 +1436,7 @@
                     <l n="bb49.a.te.17.07" justify="left">Unfolded, on souls of war-living terrors
                         silent <choice><orig>list'ning</orig><reg>listening</reg></choice> toward Fayette, 
                         <note> 
-                            Bentley (*Writings* volume 2 page 817) reads "war-living terrors" as "war, living terrors." See also Erdman's note on page 816. 
+                            Bentley (*Writings* volume 2, page 817) reads "war-living terrors" as "war, living terrors". See also Erdman's note on page 816. 
                         </note>
                     </l>
                     <l n="bb49.a.te.17.08" justify="left">His voice loud <choice><orig>inspir'd</orig><reg>inspired</reg></choice> by liberty, and
