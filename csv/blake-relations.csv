@@ -361,7 +361,7 @@ bb122.1.ms.95,BB122.1.95.MS,bb122.1,bb122,,"gates-child.d.illbk.05,gates-sexes.b
 bb122.1.ms.96,BB122.1.96.MS,bb122.1,bb122,,"gates-child.d.illbk.06,gates-sexes.b.illbk.08,gates-sexes.d.illbk.06,gates-sexes.f.illbk.06",bb122.1.ms.100,,,,
 bb122.1.ms.97,BB122.1.97.MS,bb122.1,bb122,,"gates-child.d.illbk.04,gates-sexes.b.illbk.06,gates-sexes.d.illbk.04,gates-sexes.f.illbk.04",,,,,
 bb122.1.ms.98,BB122.1.98.MS,bb122.1,bb122,,"europe.a.illbk.01,europe.b.illbk.01,europe.d.illbk.01,europe.e.illbk.01,europe.g.illbk.01,europe.h.illbk.03,europe.k.illbk.01",,,,,
-bb122.1.ms.99,BB122.1.99.MS,bb122.1,bb122,,,"europe.a.illbk.03,europe.a.illbk.04,europe.b.illbk.03,europe.b.illbk.04,europe.d.illbk.03,europe.d.illbk.04,europe.e.illbk.03,europe.e.illbk.04,europe.g.illbk.03,europe.g.illbk.04,europe.h.illbk.04,europe.h.illbk.05,europe.k.illbk.04,europe.k.illbk.05",,,,
+bb122.1.ms.99,BB122.1.99.MS,bb122.1,bb122,,,"europe.a.illbk.03,europe.a.illbk.04,europe.b.illbk.03,europe.d.illbk.03,europe.e.illbk.03,europe.g.illbk.03,europe.h.illbk.04,europe.k.illbk.04",,,,
 bb122.1.ms.100,BB122.1.100.MS,bb122.1,bb122,,,"bb122.1.ms.96,gates-child.d.illbk.06,gates-sexes.b.illbk.08,gates-sexes.d.illbk.06,gates-sexes.f.illbk.06",,,,
 bb122.1.ms.101,BB122.1.101.MS,bb122.1,bb122,,,,,,,
 bb122.1.ms.102,BB122.1.102.MS,bb122.1,bb122,,,,,,,
@@ -2228,7 +2228,7 @@ europe.a-proof.illbk.11,europe.a-proof.P11,europe.a-proof,europe,,,,,,,
 europe.a.illbk.01,europe.a.P1,europe.a,europe,"europe.b.illbk.01,europe.d.illbk.01,europe.e.illbk.01,europe.g.illbk.01,europe.h.illbk.03,europe.k.illbk.01",bb122.1.ms.98,,,,,
 europe.a.illbk.02,europe.a.P2,europe.a,europe,"europe.b.illbk.02,europe.d.illbk.02,europe.e.illbk.02,europe.g.illbk.02,europe.h.illbk.02,europe.k.illbk.02",,,,,,
 europe.a.illbk.03,europe.a.P3-4,europe.a,europe,"europe.b.illbk.03,europe.d.illbk.03,europe.e.illbk.03,europe.g.illbk.03,europe.h.illbk.04,europe.k.illbk.04",bb122.1.ms.77,bb122.1.ms.99,,,,
-europe.a.illbk.04,europe.a.P4-5,europe.a,europe,"europe.b.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.99,,,,
+europe.a.illbk.04,europe.a.P4-5,europe.a,europe,"europe.b.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.10,,,,
 europe.a.illbk.05,europe.a.P5-6,europe.a,europe,"europe.b.illbk.05,europe.d.illbk.05,europe.e.illbk.05,europe.g.illbk.05,europe.h.illbk.06,europe.k.illbk.08",bb122.1.ms.10,,,,,
 europe.a.illbk.06,europe.a.P6-7,europe.a,europe,"europe.b.illbk.06,europe.d.illbk.06,europe.e.illbk.06,europe.g.illbk.06,europe.h.illbk.07,europe.k.illbk.09",,,,,,
 europe.a.illbk.07,europe.a.P7-8,europe.a,europe,"europe.b.illbk.07,europe.d.illbk.07,europe.e.illbk.07,europe.g.illbk.07,europe.h.illbk.08,europe.k.illbk.10",,,,,,
@@ -2245,7 +2245,7 @@ europe.a.illbk.17,europe.a.P17-18,europe.a,europe,"europe.b.illbk.17,europe.d.il
 europe.b.illbk.01,europe.B.P1,europe.b,europe,"europe.a.illbk.01,europe.d.illbk.01,europe.e.illbk.01,europe.g.illbk.01,europe.h.illbk.03,europe.k.illbk.01",bb122.1.ms.98,,,,,
 europe.b.illbk.02,europe.B.P2,europe.b,europe,"europe.a.illbk.02,europe.d.illbk.02,europe.e.illbk.02,europe.g.illbk.02,europe.h.illbk.02,europe.k.illbk.02",,,,,,
 europe.b.illbk.03,europe.B.P3-4,europe.b,europe,"europe.a.illbk.03,europe.d.illbk.03,europe.e.illbk.03,europe.g.illbk.03,europe.h.illbk.04,europe.k.illbk.04",bb122.1.ms.77,bb122.1.ms.99,,,,
-europe.b.illbk.04,europe.B.P4-5,europe.b,europe,"europe.a.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.99,,,,
+europe.b.illbk.04,europe.B.P4-5,europe.b,europe,"europe.a.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.10,,,,
 europe.b.illbk.05,europe.B.P5-6,europe.b,europe,"europe.a.illbk.05,europe.d.illbk.05,europe.e.illbk.05,europe.g.illbk.05,europe.h.illbk.06,europe.k.illbk.08",bb122.1.ms.10,,,,,
 europe.b.illbk.06,europe.B.P6-7,europe.b,europe,"europe.a.illbk.06,europe.d.illbk.06,europe.e.illbk.06,europe.g.illbk.06,europe.h.illbk.07,europe.k.illbk.09",,,,,,
 europe.b.illbk.07,europe.B.P7-8,europe.b,europe,"europe.a.illbk.07,europe.d.illbk.07,europe.e.illbk.07,europe.g.illbk.07,europe.h.illbk.08,europe.k.illbk.10",,,,,,
@@ -2262,7 +2262,7 @@ europe.b.illbk.17,europe.B.P17-18,europe.b,europe,"europe.a.illbk.17,europe.d.il
 europe.c.illbk.01,europe.C.P1,europe.c,europe,"europe.a.illbk.01,europe.b.illbk.01,europe.d.illbk.01,europe.e.illbk.01,europe.f.illbk.01,europe.g.illbk.01,europe.h.illbk.03,europe.k.illbk.01",bb122.1.ms.98,,,suppeurope.c.rm.01,,suppeurope.c.rm.01
 europe.c.illbk.02,europe.C.P2,europe.c,europe,"europe.a.illbk.02,europe.b.illbk.02,europe.d.illbk.02,europe.e.illbk.02,europe.f.illbk.02,europe.g.illbk.02,europe.h.illbk.02,europe.k.illbk.02",,,,suppeurope.c.rm.02,,suppeurope.c.rm.02
 europe.c.illbk.03,europe.C.P3-4,europe.c,europe,"europe.a.illbk.03,europe.b.illbk.03,europe.d.illbk.03,europe.e.illbk.03,europe.f.illbk.03,europe.g.illbk.03,europe.h.illbk.04,europe.k.illbk.04",bb122.1.ms.77,bb122.1.ms.99,,,,
-europe.c.illbk.04,europe.C.P4-5,europe.c,europe,"europe.a.illbk.04,europe.b.illbk.03,europe.d.illbk.04,europe.e.illbk.04,europe.f.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.99,,suppeurope.c.rm.04,,suppeurope.c.rm.04
+europe.c.illbk.04,europe.C.P4-5,europe.c,europe,"europe.a.illbk.04,europe.b.illbk.03,europe.d.illbk.04,europe.e.illbk.04,europe.f.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.10,,suppeurope.c.rm.04,,suppeurope.c.rm.04
 europe.c.illbk.05,europe.C.P5-6,europe.c,europe,"europe.a.illbk.05,europe.b.illbk.05,europe.d.illbk.05,europe.e.illbk.05,europe.f.illbk.05,europe.g.illbk.05,europe.h.illbk.06,europe.k.illbk.08",bb122.1.ms.10,,,,,
 europe.c.illbk.06,europe.C.P6-7,europe.c,europe,"europe.a.illbk.06,europe.b.illbk.06,europe.d.illbk.06,europe.e.illbk.06,europe.f.illbk.06,europe.g.illbk.06,europe.h.illbk.07,europe.k.illbk.09",,,,,,
 europe.c.illbk.07,europe.C.P7-8,europe.c,europe,"europe.a.illbk.07,europe.b.illbk.07,europe.d.illbk.07,europe.e.illbk.07,europe.f.illbk.07,europe.g.illbk.07,europe.h.illbk.08,europe.k.illbk.10",,,,,,
@@ -2279,7 +2279,7 @@ europe.c.illbk.17,europe.C.P17-18,europe.c,europe,"europe.a.illbk.17,europe.b.il
 europe.f.illbk.01,europe.F.P1,europe.f,europe,"europe.a.illbk.01,europe.b.illbk.01,europe.c.illbk.01,europe.d.illbk.01,europe.e.illbk.01,europe.g.illbk.01,europe.h.illbk.03,europe.k.illbk.01",bb122.1.ms.98,,,suppeurope.f.rm.01,,suppeurope.f.rm.01
 europe.f.illbk.02,europe.F.P2,europe.f,europe,"europe.a.illbk.02,europe.b.illbk.02,europe.c.illbk.02,europe.d.illbk.02,europe.e.illbk.02,europe.g.illbk.02,europe.h.illbk.02,europe.k.illbk.02",,,,suppeurope.f.rm.02,,suppeurope.f.rm.02
 europe.f.illbk.03,europe.F.P3-4,europe.f,europe,"europe.a.illbk.03,europe.b.illbk.03,europe.c.illbk.03,europe.d.illbk.03,europe.e.illbk.03,europe.g.illbk.03,europe.h.illbk.04,europe.k.illbk.04",bb122.1.ms.77,bb122.1.ms.99,,,,
-europe.f.illbk.04,europe.F.P4-5,europe.f,europe,"europe.a.illbk.04,europe.b.illbk.03,europe.c.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.99,,suppeurope.f.rm.04,,suppeurope.f.rm.04
+europe.f.illbk.04,europe.F.P4-5,europe.f,europe,"europe.a.illbk.04,europe.b.illbk.03,europe.c.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.10,,suppeurope.f.rm.04,,suppeurope.f.rm.04
 europe.f.illbk.05,europe.F.P5-6,europe.f,europe,"europe.a.illbk.05,europe.b.illbk.05,europe.c.illbk.05,europe.d.illbk.05,europe.e.illbk.05,europe.g.illbk.05,europe.h.illbk.06,europe.k.illbk.08",bb122.1.ms.10,,,,,
 europe.f.illbk.06,europe.F.P6-7,europe.f,europe,"europe.a.illbk.06,europe.b.illbk.06,europe.c.illbk.06,europe.d.illbk.06,europe.e.illbk.06,europe.g.illbk.06,europe.h.illbk.07,europe.k.illbk.09",,,,,,
 europe.f.illbk.07,europe.F.P7-8,europe.f,europe,"europe.a.illbk.07,europe.b.illbk.07,europe.c.illbk.07,europe.d.illbk.07,europe.e.illbk.07,europe.g.illbk.07,europe.h.illbk.08,europe.k.illbk.10",,,,,,
@@ -2296,7 +2296,7 @@ europe.f.illbk.17,europe.F.P17-18,europe.f,europe,"europe.a.illbk.17,europe.b.il
 europe.d.illbk.01,europe.D.P1,europe.d,europe,"europe.a.illbk.01,europe.b.illbk.01,europe.e.illbk.01,europe.g.illbk.01,europe.h.illbk.03,europe.k.illbk.01",bb122.1.ms.98,,,,,"insceurope.d.rm.01,insceurope.d.rm.02"
 europe.d.illbk.02,europe.D.P2,europe.d,europe,"europe.a.illbk.02,europe.b.illbk.02,europe.e.illbk.02,europe.g.illbk.02,europe.h.illbk.02,europe.k.illbk.02",,,,,,insceurope.d.rm.04
 europe.d.illbk.03,europe.D.P3-4,europe.d,europe,"europe.a.illbk.03,europe.b.illbk.03,europe.e.illbk.03,europe.g.illbk.03,europe.h.illbk.04,europe.k.illbk.04",bb122.1.ms.77,bb122.1.ms.99,,,,"insceurope.d.rm.05,insceurope.d.rm.06"
-europe.d.illbk.04,europe.D.P4-5,europe.d,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.99,,,,"insceurope.d.rm.07,insceurope.d.rm.08,insceurope.d.rm.09"
+europe.d.illbk.04,europe.D.P4-5,europe.d,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.10,,,,"insceurope.d.rm.07,insceurope.d.rm.08,insceurope.d.rm.09"
 europe.d.illbk.05,europe.D.P5-6,europe.d,europe,"europe.a.illbk.05,europe.b.illbk.05,europe.e.illbk.05,europe.g.illbk.05,europe.h.illbk.06,europe.k.illbk.08",bb122.1.ms.10,,,,,"insceurope.d.rm.10,insceurope.d.rm.11,insceurope.d.rm.12,insceurope.d.rm.13"
 europe.d.illbk.06,europe.D.P6-7,europe.d,europe,"europe.a.illbk.06,europe.b.illbk.06,europe.e.illbk.06,europe.g.illbk.06,europe.h.illbk.07,europe.k.illbk.09",,,,,,"insceurope.d.rm.14,insceurope.d.rm.15"
 europe.d.illbk.07,europe.D.P7-8,europe.d,europe,"europe.a.illbk.07,europe.b.illbk.07,europe.e.illbk.07,europe.g.illbk.07,europe.h.illbk.08,europe.k.illbk.10",,,,,,"insceurope.d.rm.16,insceurope.d.rm.17,insceurope.d.rm.18"
@@ -2313,7 +2313,7 @@ europe.d.illbk.17,europe.D.P17-18,europe.d,europe,"europe.a.illbk.17,europe.b.il
 europe.e.illbk.01,europe.E.P1,europe.e,europe,"europe.a.illbk.01,europe.b.illbk.01,europe.d.illbk.01,europe.g.illbk.01,europe.h.illbk.03,europe.k.illbk.01",bb122.1.ms.98,,,,,
 europe.e.illbk.02,europe.E.P2,europe.e,europe,"europe.a.illbk.02,europe.b.illbk.02,europe.d.illbk.02,europe.g.illbk.02,europe.h.illbk.02,europe.k.illbk.02",,,,,,
 europe.e.illbk.03,europe.E.P3-4,europe.e,europe,"europe.a.illbk.03,europe.b.illbk.03,europe.d.illbk.03,europe.g.illbk.03,europe.h.illbk.04,europe.k.illbk.04",bb122.1.ms.77,bb122.1.ms.99,,,,
-europe.e.illbk.04,europe.E.P4-5,europe.e,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.d.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.99,,,,
+europe.e.illbk.04,europe.E.P4-5,europe.e,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.d.illbk.04,europe.g.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.10,,,,
 europe.e.illbk.05,europe.E.P5-6,europe.e,europe,"europe.a.illbk.05,europe.b.illbk.05,europe.d.illbk.05,europe.g.illbk.05,europe.h.illbk.06,europe.k.illbk.08",bb122.1.ms.10,,,,,
 europe.e.illbk.06,europe.E.P6-7,europe.e,europe,"europe.a.illbk.06,europe.b.illbk.06,europe.d.illbk.06,europe.g.illbk.06,europe.h.illbk.07,europe.k.illbk.09",,,,,,
 europe.e.illbk.07,europe.E.P7-8,europe.e,europe,"europe.a.illbk.07,europe.b.illbk.07,europe.d.illbk.07,europe.g.illbk.07,europe.h.illbk.08,europe.k.illbk.10",,,,,,
@@ -2330,7 +2330,7 @@ europe.e.illbk.17,europe.E.P17-18,europe.e,europe,"europe.a.illbk.17,europe.b.il
 europe.g.illbk.01,europe.g.P1,europe.g,europe,"europe.a.illbk.01,europe.b.illbk.01,europe.d.illbk.01,europe.e.illbk.01,europe.h.illbk.03,europe.k.illbk.01",bb122.1.ms.98,,,,,
 europe.g.illbk.02,europe.g.P2,europe.g,europe,"europe.a.illbk.02,europe.b.illbk.02,europe.d.illbk.02,europe.e.illbk.02,europe.h.illbk.02,europe.k.illbk.02",,,,,,
 europe.g.illbk.03,europe.g.P3-4,europe.g,europe,"europe.a.illbk.03,europe.b.illbk.03,europe.d.illbk.03,europe.e.illbk.03,europe.h.illbk.04,europe.k.illbk.04",bb122.1.ms.77,bb122.1.ms.99,,,,
-europe.g.illbk.04,europe.g.P4-5,europe.g,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.99,,,,
+europe.g.illbk.04,europe.g.P4-5,europe.g,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.h.illbk.05,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.10,,,,
 europe.g.illbk.05,europe.g.P5-6,europe.g,europe,"europe.a.illbk.05,europe.b.illbk.05,europe.d.illbk.05,europe.e.illbk.05,europe.h.illbk.06,europe.k.illbk.08",bb122.1.ms.10,,,,,
 europe.g.illbk.06,europe.g.P6-7,europe.g,europe,"europe.a.illbk.06,europe.b.illbk.06,europe.d.illbk.06,europe.e.illbk.06,europe.h.illbk.07,europe.k.illbk.09",,,,,,
 europe.g.illbk.07,europe.g.P7-8,europe.g,europe,"europe.a.illbk.07,europe.b.illbk.07,europe.d.illbk.07,europe.e.illbk.07,europe.h.illbk.08,europe.k.illbk.10",,,,,,
@@ -2348,7 +2348,7 @@ europe.h.illbk.01,europe.H.P1-3,europe.h,europe,europe.k.illbk.03,,,,,,
 europe.h.illbk.02,europe.H.P2,europe.h,europe,"europe.a.illbk.02,europe.b.illbk.02,europe.d.illbk.02,europe.e.illbk.02,europe.g.illbk.02,europe.k.illbk.02",,,,,,
 europe.h.illbk.03,europe.H.P3-1,europe.h,europe,"europe.a.illbk.01,europe.b.illbk.01,europe.d.illbk.01,europe.e.illbk.01,europe.g.illbk.01,europe.k.illbk.01",bb122.1.ms.98,,,,,
 europe.h.illbk.04,europe.H.P4,europe.h,europe,"europe.a.illbk.03,europe.b.illbk.03,europe.d.illbk.03,europe.e.illbk.03,europe.g.illbk.03,europe.k.illbk.04",bb122.1.ms.77,bb122.1.ms.99,,,,
-europe.h.illbk.05,europe.H.P5,europe.h,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.99,,,,
+europe.h.illbk.05,europe.H.P5,europe.h,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.k.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.10,,,,
 europe.h.illbk.06,europe.H.P6,europe.h,europe,"europe.a.illbk.05,europe.b.illbk.05,europe.d.illbk.05,europe.e.illbk.05,europe.g.illbk.05,europe.k.illbk.08",bb122.1.ms.10,,,,,
 europe.h.illbk.07,europe.H.P7,europe.h,europe,"europe.a.illbk.06,europe.b.illbk.06,europe.d.illbk.06,europe.e.illbk.06,europe.g.illbk.06,europe.k.illbk.09",,,,,,
 europe.h.illbk.08,europe.H.P8,europe.h,europe,"europe.a.illbk.07,europe.b.illbk.07,europe.d.illbk.07,europe.e.illbk.07,europe.g.illbk.07,europe.k.illbk.10",,,,,,
@@ -2366,7 +2366,7 @@ europe.k.illbk.01,europe.K.P1,europe.k,europe,"europe.a.illbk.01,europe.b.illbk.
 europe.k.illbk.02,europe.K.P2,europe.k,europe,"europe.a.illbk.02,europe.b.illbk.02,europe.d.illbk.02,europe.e.illbk.02,europe.g.illbk.02,europe.h.illbk.02",,,,,,
 europe.k.illbk.03,europe.K.P3,europe.k,europe,europe.h.illbk.01,,,,,,
 europe.k.illbk.04,europe.K.P4,europe.k,europe,"europe.a.illbk.03,europe.b.illbk.03,europe.d.illbk.03,europe.e.illbk.03,europe.g.illbk.03,europe.h.illbk.04",bb122.1.ms.77,bb122.1.ms.99,,,,
-europe.k.illbk.05,europe.K.P5,europe.k,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.99,,,,
+europe.k.illbk.05,europe.K.P5,europe.k,europe,"europe.a.illbk.04,europe.b.illbk.04,europe.d.illbk.04,europe.e.illbk.04,europe.g.illbk.04,europe.h.illbk.05","bb122.1.ms.76,bb122.1.ms.77",bb122.1.ms.10,,,,
 europe.k.illbk.06,europe.K.P6-10,europe.k,europe,"europe.a.illbk.13,europe.b.illbk.13,europe.d.illbk.09,europe.e.illbk.09,europe.g.illbk.09,europe.h.illbk.14",,,,,,
 europe.k.illbk.07,europe.K.P7-9,europe.k,europe,"europe.a.illbk.08,europe.b.illbk.08,europe.d.illbk.08,europe.e.illbk.08,europe.g.illbk.08,europe.h.illbk.09",,,,,,
 europe.k.illbk.08,europe.K.P8-6,europe.k,europe,"europe.a.illbk.05,europe.b.illbk.05,europe.d.illbk.05,europe.e.illbk.05,europe.g.illbk.05,europe.h.illbk.06",bb122.1.ms.10,,,,,
