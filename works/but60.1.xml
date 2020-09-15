@@ -1,0 +1,551 @@
+<bad id="but60.1" type="wc" work="" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="60">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Death of Earl Goodwin">
+                    <main>
+                        The Death of Earl Goodwin</main>
+                    <copy> Copy 1</copy>: electronic edition
+
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of 
+
+Rochester;
+
+<name>Robert Essick, </name>University of California, Riverside; and
+
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+
+            </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+
+           and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 44KB; 2 JPEG (ISO/IEC
+
+10918) files ranging in size from 177KB to 3600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October 2020</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2020</date> by Morris Eaves, Robert N. Essick,
+
+and Joseph Viscomi, all rights reserved. Items in the Archive may be
+
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+
+Redistribution or republication on other terms, in any medium, requires
+
+express written consent from the editors and advance notification of the
+
+publisher.
+
+Permission to reproduce the graphic images in this archive has been
+
+granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+
+         This image copyright © 2020 British Museum.
+
+         <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Michael Fox,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Morgan Lessley,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson,</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and image color correction</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Kit Curtin,</name>
+                    <name>Christopher N. Jackson,</name>
+                    <name>Sarah Jones,</name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Wayne C. Ripley,</name>
+                    <name>Adair Rispoli, and</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date/>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor: </resp>
+                    <name>Andrea Laue </name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed,</name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        *The Death of Earl Goodwin*
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                </origination>
+                
+                <compdate value="1779.C">c. 1779<note>The date is based on stylistic considerations and the relationship between this work and Blake's other water colors illustrating English history.</note>
+                </compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>12.7 x 18.1 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>12.7 x 18.1 cm.</leafsize>
+                <medium>pen and ink and water color</medium>
+                <support>paper, probably laid</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1961</date>
+                <dealer>none</dealer>
+                <price>gift</price>
+                <note>Probably inherited by William Blake's wife Catherine upon his death in 1827; probably acquired by Frederick Tatham upon Catherine Blake's death in 1831; sold anonymously, Sotheby's, 29 April 1862, lot 172 with eight other works by Blake (19s.); Colonel Gould Weston; Alexander Anderdon Weston by 1876, probably by inheritance; his widow; sold anonymously, Christie's, 28 June 1904, lot 9 with Blake's water colors *The Making of Magna Charta*, Butlin 62, and *The Keys of Calais*, Butlin 64 (&#163;7.17s.6d. to the dealer E. Parsons); sold 1904 to W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949, lot 51 with the same two water colors in the 1904 auction, lot 9 (&#163;241.10s. to the Fine Art Society); sold 1957 to George Goyder; given by Goyder to the British Museum in 1961.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <repositoryid label="Registration number">1964,1212.13</repositoryid>
+            </repository>
+        </source>
+        <desc id="but60.1.wc.01" dbi="BUT60.1.1.WC">
+            <objtitle>
+                <title type="transcribed">The Death of Earl Goodwin</title>,
+<objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="B1">(BUT60.1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objnote><p>This work is part of a series of water colors Blake executed c. 1779 illustrating major events in the history of England.  Eight of these works are extant.  These designs may be related to "The History of England, a small book of Engravings" Blake listed in his advertisement "To the Public" of 10 Oct. 1793 (Erdman page 693).  No copy of that "book" has ever been recorded.  See also the list of subjects from the history of England Blake wrote in his Notebook c. 1793 (Erdman page 672).</p></objnote>
+                <objsize>12.7 x 18.1 cm.</objsize>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The design represents the death of Earl Goodwin (sometimes "Godwin") at a dinner party in 1053. According to legend, the Earl denied involvement in his brother's death, saying that God could cause the next bite of food to choke him if he were responsible. Blake represents Earl Goodwin falling backward from his seat on a long bench at the table as a crowd of other diners and guests react. His head and shoulders are on the ground, and his face is obscured by his hair. His left arm extends along his side toward his hip with his hand clenched into a fist to grasp his garment. His left leg is bent upward, his knee rising into the air as he falls. The other figures are described in clockwise fashion, moving around the table from Earl Goodwin to King Edward the Confessor, who sits at Goodwin's right and heads the table. The Earl shares the bench with three men, all with short hair and beards, and all wearing gowns partly covered by cloaks. All three face away and turn over their right shoulders to look at the falling Goodwin. The first at right raises his bent right arm overhead, the second extends his slightly curved right arm behind the man to his right, and the third turns his body partly to the right and holds his hands together in front of his chest. To the left of these men sits another male figure, presumably at the end of the table, facing right. Only his clothing (perhaps a cloak or gown) and head are visible. He may be bearded. Immediately behind him and depicted as nearer to the viewer, a man in a short gown stands with spread legs, leaning over the shoulder of the man at the table, or he may stride forward toward the table. His shoulders are hunched, and his right arm bends upward, perhaps so that his hand can rest on the shoulder of the man in front of him. Next around the table from this man is a group of at least six figures that are less clearly defined than those in front of the table. The nearest figure, whose stature suggests he may be male, leans to the right but faces away from the viewer to look at the rest of the crowd at the left end of the table. His right arm extends to the right and bends upward, and his hand may be closed in a fist or pointing upward. He wears a long gown; the figures behind him appear to be similarly clothed. The next figure, possibly female, stands facing forward and to the right with her arms bent and her hands raised in front of her face. Behind her is the suggestion of another figure of uncertain gender. Next, clockwise from these figures, is a man with short hair and a cross expression who holds his muscular left arm vertically and points upward. A shorter, bearded man stands to his left and holds his right arm upward in similar fashion. Next stands another man, bald with a long beard, who stares at the scene of Goodwin's fall with an open mouth. The next six figures are seated at the other sides of the table or are rising from their seats there. First, a man sits leaning toward the table with arms bent upward and hands raised. To his left, a short-haired man rises from the table, supporting himself with his braced left arm and holding his bent right arm across his chest with his hand turned upward and his palm facing the figures to his left. The next figure also appears to be male. He turns his body to the left, perhaps recoiling away from the scene before him, but his head turns to the right as he looks on with mouth open. His arms are bent such that his elbows protrude from his sides and his hands meet at his chest. To his left, a woman sits with her torso and shoulders twisted toward the left but her head turned to the right to look at Earl Goodwin. Her mouth his open, and she bends her arm(s) upward in front of her chest. At the head of the table sit the king and queen. She hunches her shoulders forward and raises both hands to cover her face. King Edward, who wears a robe and crown, also leans forward to watch the Earl's fall. His mouth may be open. His right arm is bent and raised slightly off the table; his left hand may rest on the table in front of him or may hover over it as well. His bent legs are visible beneath the table. The last figure, whose gender is uncertain but whose short gown and short hair suggests a young man, stands to the right of the table and appears to lean away from Goodwin as he strides toward Edward with left arm raised. He could be a servant. The banquet hall is furnished with a large, long table covered in by a cloth and set with plates and utensils. The dinner guests on the nearest side of the table sit on a long bench. In the background, the wall appears to be sectioned by pillars, and at least one window appears, partially covered by a curtain. Heavier curtains or drapery appear behind the king and queen with a shadow between them. Other shadows appear on the floor beneath the bench in front of the table, and on the floor to the right of Earl Goodwin.</illusobjdesc>
+                    <component type="figure" location="D">
+                        <characteristic>male</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>falling backward</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>dying</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>fist</characteristic>
+                        <characteristic>Goodwin</characteristic>
+                        <illusobjdesc>Earl Goodwin falls backward from his seat on a long bench at the table as a crowd of other diners and guests react. His lower body remains on the bench, but his head and shoulders are on the ground, and his face is obscured by his curly hair. He wears a long-sleeved gown, partly covered by a robe or cloak. His left arm extends along his side toward his hip with his hand clenched into a fist as he grasps part of his garment. His left leg is bent upward toward his torso, his knee rising into the air as he falls. He appears to be dying or may be dead already.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <illusobjdesc>Blake represents Earl Goodwin falling backward from his seat on a long bench at the table as a crowd of other diners and guests react. These figures include men and women, and all appear to wear gowns or similar garments. They are described in clockwise fashion, moving around the table from Earl Goodwin to King Edward the Confessor, who sits at Goodwin's right and heads the table.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>surprise</characteristic>
+                        <illusobjdesc>The Earl shares the bench with three men, all with short hair and beards, and all wearing gowns partly covered by cloaks. All three face away and turn over their right shoulders to look at the falling Goodwin. The first twists his body to the right and raises his bent right arm vertically. The upper part of his left arm is visible at his side.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>palm up</characteristic>
+                        <characteristic>surprise</characteristic>
+                        <illusobjdesc>The Earl shares the bench with three men, all with short hair and beards, and all wearing gowns partly covered by cloaks. All three face away and turn over their right shoulders to look at the falling Goodwin. The second man twists to his right and extends his slightly curved right arm horizontally behind the man to his right. He may turn his palm upward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>surprise</characteristic>
+                        <illusobjdesc>The Earl shares the bench with three men, all with short hair and beards, and all wearing gowns partly covered by cloaks. All three face away and turn over their right shoulders to look at the falling Goodwin. The third turns his body partly to the right, bends his arms upward, and holds his hands together in front of his chest. His mouth may be open.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>man</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>To the left of the men on the bench sits another, presumably at the end of the table, facing right. Only his clothing (perhaps a cloak or gown) and head are visible. He may be bearded.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>striding</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>hunched over</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Immediately behind the seated men, nearer to the viewer, stands a man in a short gown. His legs are spread, and he may stride forward toward the table or lean forward over the shoulder of the man in front of him for a better view of the scene. He faces right with hunched shoulders, and his right arm bends upward, perhaps so that his hand can rest on the shoulder of the man in front of him. He may have a short beard.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>arm extended horizontally</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>fist</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>feet</characteristic>
+                        <illusobjdesc>Next around the table from the man in the short gown, at least six figures stand in a crowd. They are less clearly defined than those in front of the table. The nearest figure, whose stature suggests he may be male, leans his body to the right but faces away from the viewer to look at the rest of the crowd at the left end of the table. His right arm extends outward to the right and bends upward, and his hand may be closed in a fist or pointing upward. He wears a long gown and has short hair. His feet are visible below the gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>hands raised</characteristic>
+                        <illusobjdesc>Next around the table from the man in the short gown, at least six figures stand in a crowd. They are less clearly defined than those in front of the table. Behind the man with the raised fist stands a figure who may be female. She stands facing forward and to the right with her arms bent and her hands raised in front but held apart with palms facing toward one another.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Next around the table from the man in the short gown, at least six figures stand in a crowd. They are less clearly defined than those in front of the table. Behind the woman with raised hands is the suggestion of another figure of uncertain gender, facing right along with the rest of the crowd to watch Earl Goodwin's fall.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>hand raised</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>anger</characteristic>
+                        <illusobjdesc>Next around the table from the man in the short gown, at least six figures stand in a crowd. They are less clearly defined than those in front of the table. Farthest back stands a man with short hair and a cross expression. He faces forward and to the right, holds his muscular left arm vertically, and points upward. He may wear a shirt or gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>bald</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <characteristic>hand raised</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <illusobjdesc>Next around the table from the man in the short gown, at least six figures stand in a crowd. They are less clearly defined than those in front of the table. Next to the man with his left arm raised stands a shorter, bald, bearded man with his right arm raised vertically in similar fashion. He may also be pointing upward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>bald</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>surprise</characteristic>
+                        <illusobjdesc>Next around the table from the man in the short gown, at least six figures stand in a crowd. They are less clearly defined than those in front of the table. To the right of the two men with raised arms stands another man, bald with a long beard, who faces forward and stares at the scene of Goodwin's fall with an open mouth as if surprised.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>shirt</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>arm resting</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>hands raised</characteristic>
+                        <characteristic>palms vertical</characteristic>
+                        <characteristic>palms out</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>surprise</characteristic>
+                        <illusobjdesc>The next six figures are seated at the other sides of the table or are rising from their seats there. First, a man sits leaning toward the table with arms bent upward, hands raised, and left palm facing outward. His mouth may be open. He wears a shirt or gown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>rising</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arm braced</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm horizontal</characteristic>
+                        <characteristic>hand raised</characteristic>
+                        <characteristic>palm vertical</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>The next six figures are seated at the other sides of the table or are rising from their seats there. To the right of the seated man, a short-haired, bearded man rises from the table, supporting himself with his braced left arm and holding his bent right arm across his chest with his hand turned upward and his palm facing the figures to his left. He may wear a gown and robe.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>rising</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>terror</characteristic>
+                        <characteristic>surprise</characteristic>
+                        <illusobjdesc>The next six figures are seated at the other sides of the table or are rising from their seats there. To the right of the man with braced arm, another male figure also appears to be rising from the table. As he does so, he turns his body to the left, away from the scene before him, but his head turns to the right as he looks on with mouth open. His arms are bent such that his elbows protrude from his sides and his hands meet at his chest. He wears a gown. His face suggests horror or surprise.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>hands together</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>surprise</characteristic>
+                        <characteristic>terror</characteristic>
+                        <illusobjdesc>The next six figures are seated at the other sides of the table or are rising from their seats there. At the right rear corner of the table a woman sits with her torso and shoulders twisted toward the left but her head turned to the right to look at Earl Goodwin. Her mouth his open in surprise or terror, and she bends her arm(s) upward to clasp her hands in front of her chest. She appears to wear a gown, and her hair may be pulled into a bun.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>queen</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>hunched over</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>head on hands</characteristic>
+                        <characteristic>hands clutching head</characteristic>
+                        <illusobjdesc>The next six figures are seated at the other sides of the table or are rising from their seats there. At the head of the table sit the queen and king. The queen wears a long-sleeved gown and has short, curly hair. She hunches her shoulders forward, bends both arms upward, and raises her hands to cover her face, which is bent down.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>king</characteristic>
+                        <characteristic>Edward</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>rising</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>palms down</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>surprise</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <illusobjdesc>The next six figures are seated at the other sides of the table or are rising from their seats there. At the head of the table sit the king and queen. King Edward is bearded, and he wears a long-sleeved gown, a robe, and a crown. Edward may be sitting at the table or rising from his seat. He leans forward to watch the Earl's fall, extending both arms out in front of him. Both hands hover over the table with palms down. His right arm is slightly bent, and the fingers of his left hand are spread. His open mouth and facial expressions suggest surprise. His bent legs are visible beneath the table.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>servant</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>striding</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>The last figure stands to the right of the table and the falling Earl Goodwin. The gender of this figure is uncertain, but the short gown and short hair suggest a boy or young man.  He could be a servant. He stands to the right of the table and appears to lean away from Goodwin as he strides away from the viewer toward Edward with right leg forward and left arm raised. He twists to the left and looks down at the earl.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>table</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>seat</characteristic>
+                        <characteristic>plate</characteristic>
+                        <illusobjdesc>The banquet hall is furnished with a large, long table covered in by a cloth and set with plates and utensils. The dinner guests nearest the viewer sit on a long bench.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>wall</characteristic>
+                        <characteristic>pillar</characteristic>
+                        <illusobjdesc>In the background of the design, the wall appears to be sectioned by pillars.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>window</characteristic>
+                        <characteristic>curtain</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <illusobjdesc>At least one window appears on the wall in the background of the design. This window is partially covered by a curtain. Heavier curtains or drapery appear behind the king and queen.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>A shadow appears between the two heavy curtains behind the king and queen. Other shadows appear on the floor beneath the bench in front of the table and on the floor to the right of Earl Goodwin.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+        </desc>
+    </objdesc>
+</bad>
