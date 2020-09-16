@@ -1,0 +1,528 @@
+<bad id="but64.1" type="wc" work="" copy="1" copyid="1" institution="beinecke" catalog="butlin" catid="64">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Keys of Calais">
+                    <main>
+                        The Keys of Calais</main>
+                    <copy> Copy 1</copy>: electronic edition
+
+</title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of 
+
+Rochester;
+
+<name>Robert Essick, </name>University of California, Riverside; and
+
+<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+
+            </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+
+           and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <extent>1 XML file approx. 42KB; 2 JPEG (ISO/IEC
+
+10918) files ranging in size from 177KB to 3600KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>October 2020</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2020</date> by Morris Eaves, Robert N. Essick,
+
+and Joseph Viscomi, all rights reserved. Items in the Archive may be
+
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+
+Redistribution or republication on other terms, in any medium, requires
+
+express written consent from the editors and advance notification of the
+
+publisher.
+
+Permission to reproduce the graphic images in this archive has been
+
+granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+
+         This image copyright © 2020 Beinecke Library, Yale University.
+
+         <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Joseph Fletcher,</name>
+                    <name>Michael Fox,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Morgan Lessley,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson,</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and image color correction</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Kit Curtin,</name>
+                    <name>Christopher N. Jackson,</name>
+                    <name>Sarah Jones,</name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Wayne C. Ripley,</name>
+                    <name>Adair Rispoli, and</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date/>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>University of Rochester;
+
+               <name>Robert Essick,</name>University of California, Riverside; and
+
+               <name>Joseph Viscomi,</name>University of North Carolina at Chapel Hill
+
+               <resp>Technical Editor: </resp>
+                    <name>Andrea Laue </name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed,</name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        *The Keys of Calais*
+                    </title>
+                </objtitle>
+                <origination>William Blake<role>inventor, </role><role>delineator, </role><role>colorist</role>
+                </origination>
+                <compdate value="1779.E">c. 1779<note>The date is based on stylistic considerations and the relationship between this work and Blake's other water colors illustrating English history.</note></compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>12.7 x 18.2 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>12.7 x 18.2 cm.</leafsize>
+                <medium>pen and ink and water color with rubbing out</medium>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>Beinecke Library, Yale University</name>
+                <date>1957</date>
+                <dealer>none</dealer>
+                <price>gift</price>
+                <note>Probably inherited by William Blake's wife Catherine upon his death in 1827; probably acquired by Frederick Tatham upon Catherine Blake's death in 1831; sold anonymously, Sotheby's, 29 April 1862, lot 172 with eight other works by Blake (19s.); Colonel Gould Weston; Alexander Anderdon Weston by 1876, probably by inheritance; his widow; sold anonymously, Christie's, 28 June 1904, lot 9 with Blake's water colors *The Death of Earl Goodwin*, Butlin 60, and *The Making of Magna Charta*, Butlin 62 (&#163;7.17s.6d. to the dealer E. Parsons); sold 1904 to W. Graham Robertson; sold from Robertson's collection, Christie's, 22 July 1949, lot 51 with the same two water colors in the 1904 auction, lot 9 (&#163;241.10s. to the Fine Art Society); the dealer C. A. Stonehill; Robert J. Barry; presented by Barry in 1957 to the Beinecke Library, Yale University.</note>
+            </provenance>
+            <repository>
+                <institution>Beinecke Library, Yale University</institution>
+                <repositoryid label="Call number">GEN MSS 914</repositoryid>
+            </repository>
+        </source>
+        <desc id="but64.1.wc.01" dbi="BUT64.1.1.WC">
+            <objtitle>
+                <title type="transcribed">The Keys of Calais</title>,
+<objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="B1">(BUT64.1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objnote><p>This work is part of a series of water colors Blake executed c. 1779 illustrating major events in the history of England.  Eight of these works are extant.  These designs may be related to "The History of England, a small book of Engravings" Blake listed in his advertisement "To the Public" of 10 Oct. 1793 (Erdman page 693).  No copy of that "book" has ever been recorded.  See also the list of subjects from the history of England Blake wrote in his Notebook c. 1793 (Erdman page 672).</p></objnote>
+                <objsize>12.7 x 18.2 cm.</objsize>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The design shows the surrender of the keys of Calais to King Edward III, who conquered the city by siege in August 1347. Edward sits on a throne-like chair on an elevated platform or stage in the design's center, wearing gold armor, a crown, and a cloak that covers his shoulders and thighs. He faces forward but leans to the right, his left foot propped on a low stool. His arms are raised at forty-five degrees from his sides, and he gestures with his palms out and fingers spread as he looks downward at Queen Philippa. The queen kneels on the ground, below and to the right of King Edward, with her right leg bent forward and her left extended behind her. She looks at the king but points toward the deputation of townsmen at her left, for whom she appears to make intercession. Three groups of men flank these central figures. To the right of the queen stand four men who appear to be part of her entourage. Two stand in the foreground, facing left, and two heads appear behind them, facing forward. Leftmost, just behind the queen, is a man in full armor who steps up onto the edge of the platform with his right leg and points at the townsmen with his slightly raised left hand. A bearded, unarmored man, wearing only a long robe and cloak, stands behind him, his left arm also raised but with his fingers spread. The two background faces are of bearded men wearing helmets. Across from the queen, in the lower left portion of the design, is the deputation of townsmen whose fate is being decided. There are at least five, and perhaps six, men, two of which kneel before King Edward. Moving from right to left, they are as follows: a bearded man who kneels with his left leg forward and holds out his right hand to drop or gesture toward the keys of Calais at Edward's feet; an older man behind him who likewise kneels; a man with short, curly hair who stands erect and faces away from the viewer with his right hand on his right hip and his left arm over the shoulder of the man to his left; a bearded man whose shoulders and waist are encircled by the arms of the men on either side of him, and a bearded man who faces right and wraps his arm around the waist of the man on his right. Behind them may be the curly hair of another man. A shadow is visible on the ground right of this group below the keys of Calais. The final group is composed of five soldiers who stand partially hidden by a curtain to the left of King Edward. The two soldiers in front are clad in full armor. They stand facing forward and to the left, each holding a shield at his left side. Behind them stand three(?) more soldiers, less clearly defined. The soldier farthest left holds his bent arm upward with his fingers spread. The curtains that partially cover this group of soldiers also extend behind them to the left, and across most of the design's background from the platform upward. A canopy with a scalloped edge is visible directly above King Edward III. In the background space open at the design's left side a landscape vaguely appears with hills, mountains, a tree, and perhaps a building or other structure.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>Edward the Third</characteristic>
+                        <characteristic>king</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>arms raised at 45 degrees</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>palms facing viewer</characteristic>
+                        <characteristic>palms out</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <illusobjdesc>Edward the Third appears on an elevated platform or stage in the design's center, wearing gold armor from neck to feet and a cloak or drapery that covers his shoulders and thighs. He has long hair and a beard, and he wears a short crown atop his head. Edward sits on a throne-like chair facing forward but leans to the right, his left foot propped on a low stool. His mouth may be open. His arms are raised forty-five degrees from his sides, and he gestures with his palms out and fingers spread as he looks downward at Queen Philippa.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>queen</characteristic>
+                        <characteristic>Philippa</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>speaking</characteristic>
+                        <illusobjdesc>Queen Philippa wears a long-sleeved gown, a cloak or other drapery over her shoulders, and a crown on her head. She may have short hair, or she may have long hair pulled into a bun at the base of her crown. She kneels on the ground, below and to the right of King Edward, with her right leg bent forward and her left extended behind her. She looks up at the king but raises her left arm at forty-five degrees to point toward the deputation of townsmen at her left, for whom she appears to make intercession. Her mouth may be open, suggesting that she is speaking.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <illusobjdesc>To the right of the queen stand four men who appear to be part of her entourage. Some wear armor and helmets, suggesting that they are soldiers.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>plume</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>stepping</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>To the right of the queen stand four men who appear to be part of her entourage. Leftmost, just behind the queen, is a man who wears armor from head to foot (except for his hands, which are bare) and a plumed helmet on his head. He appears to step up onto the edge of the platform with his right leg, and he raises his left arm at forty-five degrees to join the queen in pointing at the townsmen. Like her, he looks at King Edward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>To the right of the queen stand four men who appear to be part of her entourage. Standing in the lower right corner is an unarmored man who wears only a long robe and cloak. This man has long hair and a long beard, and his mouth appears to be open. He faces left to look at the king and raises his left arm at forty-five degrees. The fingers of his left hand are spread.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>frowning</characteristic>
+                        <illusobjdesc>To the right of the queen stand four men who appear to be part of her entourage. The two in the background appear to be soldiers. The man on the left has a short beard and wears a plain helmet. Most of his body is hidden by the man in front of him, but he may wear armor. He faces forward and slightly to the left. He appears to frown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>plume</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>To the right of the queen stand four men who appear to be part of her entourage. The two in the background appear to be soldiers. The man on the right has a long beard and wears a plumed helmet. Most of his body is hidden by the man in front of him, but he may wear armor. He faces forward and slightly to the left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <illusobjdesc>Across from the queen, in the lower left portion of the design, stand the deputation of townsmen whose fate is being decided. There are at least five, and perhaps six, men, two of which kneel before King Edward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>arm raised at 45 degrees</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>supplicating</characteristic>
+                        <illusobjdesc>Across from the queen, in the lower left portion of the design, stand the deputation of five or six townsmen whose fate is being decided. At right, a curly-haired, bearded man in a long-sleeved gown kneels before King Edward with his left leg forward. He faces right, bending over slightly as he drops or gestures to the keys of Calais from his right hand. His arm is raised at forty-five degrees as he does so. His head is down, and his eyes follow the keys or look down at the ground.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>supplicating</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Across from the queen, in the lower left portion of the design, stand the deputation of five or six townsmen whose fate is being decided. Behind the rightmost man kneels an older man with long hair and a beard. He faces right and bends slightly in that direction. He may look toward the kneeling man at his right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>contrapposto</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>arm wrapped around body</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>embracing</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>Across from the queen, in the lower left portion of the design, stand the deputation of five or six townsmen whose fate is being decided. Behind the two men kneeling, three stand and embrace one another. Rightmost of the group is a man with short, curly hair in a sleeveless gown or tunic that reaches his knees. He stands contrapposto, facing away from the viewer with his left foot slightly forward. His right arm is bent, and his hand rests on his hip or buttocks. His left arm is raised and reaches over the shoulders of the man at his left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm wrapped around body</characteristic>
+                        <characteristic>embracing</characteristic>
+                        <characteristic>touching</characteristic>
+                        <illusobjdesc>Across from the queen, in the lower left portion of the design, stand the deputation of townsmen whose fate is being decided. Behind the two men kneeling, three stand and embrace one another. In the middle is an older man with long hair and a long white beard. He wears a knee-length gown and stands facing right, toward King Edward. His right arm is raised and extends under the arm of his colleague on the right, wrapping around this other man's right shoulder.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm wrapped around body</characteristic>
+                        <characteristic>embracing</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Across from the queen, in the lower left portion of the design, stand the deputation of townsmen whose fate is being decided. Behind the two men kneeling, three stand and embrace one another. The leftmost man has long, curly hair and a beard. He wears a knee-length gown and faces toward the right with his right foot turned slightly toward the viewer. His bent right arm is lowered to wrap around the waist of the older man on his right. He may be looking toward the king or watching his companion turn over the keys of Calais.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <illusobjdesc>Across from the queen, in the lower left portion of the design, stand the deputation of townsmen whose fate is being decided. Between the heads of the middle and rightmost standing men, there is suggestion of another man. Only his curly hair is visible.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>A shadow is visible on the ground right of this leftmost group below the keys of Calais.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>standing</characteristic>
+                        <illusobjdesc>The final group is composed of five soldiers who stand partially hidden by a curtain at left of King Edward. Each wears full armor and a helmet. The two soldiers in front stand facing forward and to the left, each holding a shield at his left side. Behind them stand three(?) more soldiers, less clearly defined. The soldier farthest left holds his bent arm upward with his fingers spread.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <illusobjdesc>The final group of figures is composed of five soldiers who all wear armor and stand at left of King Edward.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>plume</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>shield</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>The final group is composed of five soldiers who stand at left of King Edward. The soldier nearest the king is partially hidden by a curtain and the left side of the king's throne-like chair. He is clad in full armor and a plumed helmet with a cloak or other drapery around his right hip. His right arm bends upward across his body to hold a shield at his left side. He faces forward and to the left with his head down, perhaps to look toward the group of men lower left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>plume</characteristic>
+                        <characteristic>shield</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>frowning</characteristic>
+                        <illusobjdesc>The final group is composed of five soldiers who stand partially hidden by a curtain at left of King Edward. The second soldier from right also appears to be clad in full armor, and he likewise wears a plumed helmet. He stands facing left, away from the scene, and holds a shield at his left side. His head and eyes are down, and he appears to frown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>The final group is composed of five soldiers who stand partially hidden by a curtain at left of King Edward. Behind the two prominent soldiers with shields stand three(?) more soldiers, less clearly defined, but who also appear to wear armor and helmets. The soldier farthest left holds at least one bent arm upward with his fingers spread and may face left.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <illusobjdesc>The final group is composed of five soldiers who stand partially hidden by a curtain at left of King Edward. Behind the two prominent soldiers with shields stand three(?) more soldiers, less clearly defined, but who also appear to wear armor and helmets. Between the heads of the two shield-bearing soldiers appears to be the head of another. His facial expression is unclear.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>The final group is composed of five soldiers who stand partially hidden by a curtain at left of King Edward. Behind the two prominent soldiers with shields stand three(?) more soldiers, less clearly defined, but who also appear to wear armor and helmets. At right of the soldier nearest King Edward, behind his shield, is the head of another soldier who faces forward.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>floor</characteristic>
+                        <characteristic>chair</characteristic>
+                        <characteristic>throne</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>stool</characteristic>
+                        <illusobjdesc>King Edward III sits on a throne-like chair that may be covered in drapery. The chair rests on a raised floor of some sort, perhaps a platform or stage. Edward's left foot rests on a low footstool with four legs and a cushioned top.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>key</characteristic>
+                        <characteristic>Calais</characteristic>
+                        <illusobjdesc>The rightmost townsman kneels before King Edward and drops a set of keys before his feet. Given the design's title, these are likely the keys of Calais.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>curtains</characteristic>
+                        <illusobjdesc>The curtains that partially cover the group of soldiers at upper left also extend behind them to the left. More curtains extend across most of the design's background from the platform upward. A canopy with a scalloped edge is visible directly above King Edward III.</illusobjdesc>
+                    </component>
+                    <component type="object" location="A">
+                        <characteristic>hill</characteristic>
+                        <characteristic>mountain</characteristic>
+                        <illusobjdesc>In the background space left open at the design's left vaguely appears a landscape with hills, mountains, and indeterminate vegetation.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="A">
+                        <characteristic>indeterminate</characteristic>
+                        <characteristic>tree</characteristic>
+                        <illusobjdesc>In the background space left open at the design's left vaguely appears some indeterminate vegetation, perhaps a tree or bush.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="A">
+                        <characteristic>building</characteristic>
+                        <characteristic>wall</characteristic>
+                        <illusobjdesc>A building or other structure (perhaps the walls of a castle, fortress, or city?) may appear in the background space left open at the design's upper lefthand corner.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+        </desc>
+    </objdesc>
+</bad>
