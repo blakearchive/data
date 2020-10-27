@@ -35,13 +35,13 @@
             London</relationship>
         <relationship><link type="copy" ptr="europe.b">Copy B, 1794</link><br/> Glasgow University
             Library<br/> Glasgow, Scotland</relationship>
-        <relationship>Copy C, 1794<br/> Houghton Library<br/> Harvard University, Cambridge,
+        <relationship><link type="copy" ptr="europe.c">Copy C, 1794</link><br/> Houghton Library<br/> Harvard University, Cambridge,
             Massachusetts</relationship>
         <relationship><link type="copy" ptr="europe.d">Copy D, 1794</link><br/> British Museum,
             Dept. of Prints and Drawings<br/> London</relationship>
         <relationship><link type="copy" ptr="europe.e">Copy E, 1794</link><br/> Rosenwald
             Collection, Library of Congress<br/> Washington D.C.</relationship>
-        <relationship>Copy F, 1794<br/> Berg Collection, New York Public Library<br/> New York
+        <relationship><link type="copy" ptr="europe.f">Copy F, 1794</link><br/> Berg Collection, New York Public Library<br/> New York
             City</relationship>
         <relationship><link type="copy" ptr="europe.g">Copy G, 1794</link><br/> Morgan Library and
             Museum<br/> New York City</relationship>
