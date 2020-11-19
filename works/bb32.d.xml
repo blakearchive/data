@@ -309,7 +309,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.01.21" justify="left" indent="1">for <choice><orig>J.</orig><reg type="abv_name">James</reg></choice>
                         BLAKE, 28, Broad-Street, Golden-Square.</l>
                 </lg>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.01.22" justify="left">
                         <hr width="3" align="left" indent="7.5"/>
                     </l>
@@ -334,15 +334,15 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.02.01" justify="left" indent="7">CONDITIONS OF SALE.</l>
                 </texthead>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.02.02" justify="left">
                         <hr width="4" align="left" indent="6.5"/>
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.02.03" justify="left" indent="2">
-                        <hi rend="italic">I. One third of the price to be paid at the</hi>
+                        <hi rend="italic"><choice><orig>I</orig><reg>1</reg></choice>. One third of the price to be paid at the</hi>
                     </l>
                     <l n="bb32.d.te.02.04" justify="left">
                         <hi rend="italic">time of Purchase, and the remainder on
@@ -356,9 +356,9 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.02.06" justify="left" indent="2">
-                        <hi rend="italic">II. The Pictures and Drawings to remain</hi>
+                        <hi rend="italic"><choice><orig>II</orig><reg>2</reg></choice>. The Pictures and Drawings to remain</hi>
                     </l>
                     <l n="bb32.d.te.02.07" justify="left">
                         <hi rend="italic">in the Exhibition till its close, which will be</hi>
@@ -402,13 +402,13 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.03.01" justify="left" indent="13">PREFACE.</l>
                 </texthead>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.03.02" justify="left">
                         <hr width="3" align="left" indent="7"/>
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.03.03" justify="left">THE eye that can prefer the <choice><orig>Colouring</orig><reg>Coloring</reg></choice>
                         of</l>
                     <l n="bb32.d.te.03.04" justify="left">Titian and Rubens to that of <choice><orig>Michael Angelo</orig><reg>Michelangelo</reg></choice></l>
@@ -458,7 +458,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         </desc>
         <desc id="bb32.d.te.04" dbi="bb32.d.4.TYP">
             <objtitle>
-                <title type="transcribed">Page iv</title>, <objid>
+                <title type="transcribed">Page <choice><orig>iv</orig><reg>4</reg></choice></title>, <objid>
                     <objnumber code="A4">Object 4 </objnumber>
                     <objcode code="B1">(Bentley iv)</objcode>
                 </objid>
@@ -470,10 +470,10 @@ The William Blake Archive is pleased to announce the publication of a digital ed
             <phystext>
                 <texthead type="title" justify="left">
                     <l n="bb32.d.te.04.01" justify="left" indent="1"
-                            ><physnumber>iv</physnumber><space extent="13"/>PREFACE.</l>
+                        ><physnumber><choice><orig>iv</orig><reg>4</reg></choice></physnumber><space extent="13"/>PREFACE.</l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.04.02" justify="left">pleased with the work any more than with
                         the</l>
                     <l n="bb32.d.te.04.03" justify="left">look of self-devoting genius. The quarrel
@@ -516,7 +516,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.05" dbi="bb32.d.5.TYP">
             <objtitle>
                 <title type="transcribed">Descriptive Catalogue</title>, <title type="transcribed"
-                    >Number I</title>,<objid>
+                    >Number <choice><orig>I</orig><reg>1</reg></choice></title>,<objid>
                     <objnumber code="A5">Object 5 </objnumber>
                     <objcode code="B1">(Bentley 1)</objcode>
                 </objid>
@@ -534,17 +534,17 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.05.02" justify="left" indent="14">&#38;c. &#38;c.</l>
                 </texthead>
                 <vspace extent="1.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.05.03" justify="left">
                         <hr width="3" align="left" indent="7"/>
                     </l>
                 </lg>
                 <vspace extent="1.5"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.05.04" justify="left" indent="13">NUMBER I.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.05.04" justify="left" indent="13">NUMBER <choice><orig>I</orig><reg>1</reg></choice>.</l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.05.05" justify="left">
                         <hi rend="i">The spiritual form of Nelson guiding Leviathan,</hi>
                     </l>
@@ -556,7 +556,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.05.08" justify="left">CLEARNESS and precision have been the
                         chief</l>
                     <l n="bb32.d.te.05.09" justify="left">objects in painting these Pictures.
@@ -580,7 +580,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         </desc>
         <desc id="bb32.d.te.06" dbi="bb32.d.6.TYP">
             <objtitle>
-                <title type="transcribed">Page 2</title>, <title type="transcribed">Number II, Its
+                <title type="transcribed">Page 2</title>, <title type="transcribed">Number <choice><orig>II</orig><reg>2</reg></choice>, Its
                     Companion</title>, <objid>
                     <objnumber code="A6">Object 6 </objnumber>
                     <objcode code="B2">(Bentley 2)</objcode>
@@ -597,11 +597,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.06.02" justify="left" indent="5">NUMBER II, ITS COMPANION</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.06.02" justify="left" indent="5">NUMBER <choice><orig>II</orig><reg>2</reg></choice>, ITS COMPANION</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.06.03" justify="left">
                         <hi rend="italic">The spiritual form of Pitt, guiding Behemoth;</hi>
                     </l>
@@ -625,7 +625,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.06.10" justify="left">THIS Picture also is a proof of the power
                         of</l>
                     <l n="bb32.d.te.06.11" justify="left"><choice><orig>colours</orig><reg>colors</reg></choice> unsullied with oil or with any
@@ -671,7 +671,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.07.02" justify="left">witness the <choice>
                             <orig>villany</orig>
                             <reg>villainy</reg>
@@ -748,7 +748,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.08.02" justify="left">taken in vision into the ancient
                         republics, <choice>
                             <orig>mo&#8211;</orig>
@@ -822,7 +822,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.09.02" justify="left">believe, that the Greek statues, as they
                         are</l>
                     <l n="bb32.d.te.09.03" justify="left">called, were the invention of Greek
@@ -902,7 +902,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.10.02" justify="left">finished fresco, where the <choice><orig>colours</orig><reg>colors</reg></choice> would
                         be as</l>
                     <l n="bb32.d.te.10.03" justify="left">pure and as permanent as precious
@@ -960,7 +960,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.11" dbi="bb32.d.11.TYP">
             <objtitle>
                 <title type="transcribed">Page 7</title>, <title type="transcribed">Number
-                    III</title>, <objid>
+                    <choice><orig>III</orig><reg>3</reg></choice></title>, <objid>
                     <objnumber code="A11">Object 11 </objnumber>
                     <objcode code="B7">(Bentley 7)</objcode>
                 </objid>
@@ -976,7 +976,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.11.02" justify="left">being lost, oil became a fetter to
                         genius, and a</l>
                     <l n="bb32.d.te.11.03" justify="left">dungeon to art. But one convincing
@@ -993,11 +993,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         </choice>'s frescos.</l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.11.08" justify="left" indent="15">NUMBER III.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.11.08" justify="left" indent="15">NUMBER <choice><orig>III</orig><reg>3</reg></choice>.</l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.11.09" justify="left" indent="3">
                         <hi rend="italic">Sir
                         <choice>
@@ -1013,7 +1013,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.11.11" justify="left">THE time chosen is early morning, before
                                 <choice><orig>sun&#8211;</orig><reg type="split_word"
                             >sunrise</reg></choice></l>
@@ -1039,7 +1039,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.11.19" justify="left">Next follow the Friar and Monk; then
                         the</l>
                     <l n="bb32.d.te.11.20" justify="left">Tapiser, the Pardoner, and the <choice><orig>Somner</orig><reg>Summoner</reg></choice>
@@ -1068,7 +1068,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.12.02" justify="left"><choice><orig>cupies</orig><reg type="split_word">occupies</reg></choice> the center of the
                         cavalcade; directs</l>
                     <l n="bb32.d.te.12.03" justify="left">them to the Knight as the person who
@@ -1096,7 +1096,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.12.13" justify="left">These last are issuing from the gateway
                         of the</l>
                     <l n="bb32.d.te.12.14" justify="left">Inn; the Cook and the Wife of Bath are
@@ -1135,7 +1135,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.13.02" justify="left">Chaucer's time; interspersed with
                         cottages and</l>
                     <l n="bb32.d.te.13.03" justify="left">villages; the first beams of the Sun are
@@ -1199,7 +1199,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.14.02" justify="left"><choice><orig>tical</orig><reg type="split_word">identical</reg></choice> existence; Accident
                         ever varies, <choice><orig>Sub&#8211;</orig><reg type="split_word">Substance</reg></choice></l>
                     <l n="bb32.d.te.14.03" justify="left"><choice><orig>stance</orig><reg type="split_word">Substance</reg></choice> can never suffer change nor
@@ -1262,7 +1262,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.15.02" justify="left">Yeoman lead the procession, as Chaucer
                         has also</l>
                     <l n="bb32.d.te.15.03" justify="left">placed them first in his prologue. The
@@ -1306,7 +1306,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.15.20" justify="left" indent="2">Chaucer describes here a
                         mighty man; one</l>
                     <l n="bb32.d.te.15.21" justify="left">who in war is the worthy attendant on
@@ -1334,7 +1334,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.16.02" justify="left" indent="1">The Prioress follows these
                         with her female</l>
                     <l n="bb32.d.te.16.03" justify="left">chaplain.</l>
@@ -1349,7 +1349,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.16.06" justify="left" indent="2">This Lady is described also as
                         of the first</l>
                     <l n="bb32.d.te.16.07" justify="left">rank; rich and <choice><orig>honoured</orig><reg>honored</reg></choice>. She has
@@ -1399,7 +1399,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.17.02" justify="left" indent="2">The Monk follows these with
                         the Friar.</l>
                     <l n="bb32.d.te.17.03" justify="left">The Painter has also grouped with these,
@@ -1440,7 +1440,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.17.19" justify="left" indent="1">ut in his office he is said to
                         be a "full solemn<note>Bentley inserts a “[B]” in front of the letters “ut”
                             and suggests that “the b dropped out of ‘but’” (*Writings* volume 2 pages 836 and 1694n14).</note>
@@ -1471,7 +1471,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.18.02" justify="left"><choice><orig>cal</orig><reg type="split_word">satirical</reg></choice>; young, handsome, and
                         rich; he is a <choice><orig>com&#8211;</orig><reg type="split_word">complete</reg></choice></l>
                     <l n="bb32.d.te.18.03" justify="left"><choice><orig>plete</orig><reg type="split_word">complete</reg></choice> rogue; with constitutional gaiety
@@ -1490,7 +1490,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         <choice><orig>champioun</orig><reg>champion</reg></choice>."</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.18.08" justify="left" indent="2">It is necessary here to speak
                         of Chaucer's</l>
                     <l n="bb32.d.te.18.09" justify="left">own character, that I may set certain
@@ -1537,7 +1537,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.19.02" justify="left">So much so, that the generous Knight is,
                         in the</l>
                     <l n="bb32.d.te.19.03" justify="left">compassionate dictates of his soul,
@@ -1575,7 +1575,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         <choice><orig>solas</orig><reg>solace</reg></choice>."</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.19.13" justify="left" indent="2">The Monk's definition of
                         tragedy in the</l>
                     <l n="bb32.d.te.19.14" justify="left">proem to his tale is worth repeating:</l>
@@ -1623,7 +1623,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.20.02" justify="left" indent="2">Though a man of luxury, pride
                         and <choice><orig>plea&#8211;</orig><reg type="split_word">pleasure</reg></choice></l>
                     <l n="bb32.d.te.20.03" justify="left"><choice><orig>sure</orig><reg type="split_word">pleasure</reg></choice>, he is a master of art and learning,
@@ -1683,7 +1683,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.21.02" justify="left">them for the stage, consider them as
                         wretched</l>
                     <l n="bb32.d.te.21.03" justify="left">old women, and not as <choice><orig>Shakspeare</orig><reg type="alt_name">Shakespeare</reg></choice>
@@ -1749,7 +1749,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.22.02" justify="left">the destiny. The uses to society are
                         perhaps</l>
                     <l n="bb32.d.te.22.03" justify="left">equal of the Devil and of the Angel,
@@ -1773,7 +1773,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             than "knew well their counsel, &#38;c." (Chaucer, *Works*, Speght 1687 ed. "Author's Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.22.08" justify="left" indent="2">The principal figure in the
                         next <choice><orig>groupe</orig><reg>group</reg></choice>, is</l>
                     <l n="bb32.d.te.22.09" justify="left">the Good Parson; an Apostle, a real
@@ -1821,7 +1821,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.23.02" justify="left">shall the golden age return: But alas!
                         you</l>
                     <l n="bb32.d.te.23.03" justify="left">will not easily distinguish him from the
@@ -1883,7 +1883,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.24.02" justify="left">of these characters; nor can a child be
                         born,</l>
                     <l n="bb32.d.te.24.03" justify="left">who is not one of these characters of
@@ -1952,7 +1952,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             "Author's Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.25.03" justify="left" indent="2">The Plowman is simplicity
                         itself, with <choice><orig>wis&#8211;</orig><reg type="split_word">wisdom</reg></choice></l>
                     <l n="bb32.d.te.25.04" justify="left"><choice><orig>dom</orig><reg type="split_word">wisdom</reg></choice> and strength for its stamina. Chaucer
@@ -1977,7 +1977,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         his might."</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.25.13" justify="left" indent="2">Visions of these eternal
                         principles or <choice><orig>charac&#8211;</orig><reg type="split_word">characters</reg></choice></l>
                     <l n="bb32.d.te.25.14" justify="left"><choice><orig>ters</orig><reg type="split_word">characters</reg></choice> of human life appear to poets, in
@@ -2013,7 +2013,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.26.02" justify="left">erected into gods, become destructive to
                         <choice><orig>hu&#8211;</orig><reg type="split_word">humanity</reg></choice></l>
                     <l n="bb32.d.te.26.03" justify="left"><choice><orig>manity</orig><reg type="split_word">humanity</reg></choice>. They ought to be the servants,
@@ -2077,7 +2077,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.27.02" justify="left">of a class. Chaucer has been somehow
                         made</l>
                     <l n="bb32.d.te.27.03" justify="left">to number four citizens, which would
@@ -2096,7 +2096,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             1687 ed. "Author's Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.27.08" justify="left" indent="2">The Webbe, or Weaver, and the
                         Tapiser,</l>
                     <l n="bb32.d.te.27.09" justify="left">or Tapestry Weaver, appear to me to be
@@ -2117,7 +2117,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.27.15" justify="left" indent="2">The Merchant cannot be one of
                         the Three</l>
                     <l n="bb32.d.te.27.16" justify="left">Citizens, as his dress is different, and
@@ -2153,7 +2153,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.28.03" justify="left" indent="2">The characters of Women
                         Chaucer has <choice><orig>di&#8211;</orig><reg type="split_word">divided</reg></choice></l>
                     <l n="bb32.d.te.28.04" justify="left"><choice><orig>vided</orig><reg type="split_word">divided</reg></choice> into two classes, the Lady Prioress
@@ -2215,7 +2215,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.29.02" justify="left"><choice><orig>self</orig><reg type="split_word">himself</reg></choice> under the tuition of
                         the mature poet. Let</l>
                     <l n="bb32.d.te.29.03" justify="left">the Philosopher always be the servant and
@@ -2282,7 +2282,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.30.02" justify="left">that patronage, cried down as
                         eccentricity and</l>
                     <l n="bb32.d.te.30.03" justify="left">madness; as unfinished and neglected by
@@ -2347,7 +2347,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.31.02" justify="left">light and shadow, or with Rembrandt's, or
                         any</l>
                     <l n="bb32.d.te.31.03" justify="left">thing Venetian or Flemish. The
@@ -2413,7 +2413,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.32.02" justify="left">men, nothing need be done but to examine
                         my</l>
                     <l n="bb32.d.te.32.03" justify="left">rival's prospectus.</l>
@@ -2445,7 +2445,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         litele space."</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.32.14" justify="left">Was this a fop?</l>
                 </lg>
                 <vspace extent="1"/>
@@ -2464,7 +2464,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             ed. "Author's Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.32.18" justify="left">Was this a fop?</l>
                 </lg>
             </phystext>
@@ -2498,11 +2498,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.33.04" justify="left" indent="2">Was this a fop?</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.33.05" justify="left" indent="2">It is the same with all his
                         characters; he has</l>
                     <l n="bb32.d.te.33.06" justify="left">done all by chance, or perhaps his
@@ -2565,7 +2565,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.34.03" justify="left" indent="2">In this manner he has jumbled
                         his dumb</l>
                     <l n="bb32.d.te.34.04" justify="left">dollies together, and is praised by his
@@ -2650,7 +2650,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                             Prologue").</note></l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.35.06" justify="left" indent="2">She has had four husbands, a
                         fit subject for</l>
                     <l n="bb32.d.te.35.07" justify="left">this painter; yet the painter ought to be
@@ -2703,7 +2703,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.36.02" justify="left">he was very devout, and paid respect to
                         true</l>
                     <l n="bb32.d.te.36.03" justify="left">enthusiastic superstition. He has laughed
@@ -2767,7 +2767,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.37.02" justify="left">Dulwich Hills, which was not the way to
                         <choice><orig>Can&#8211;</orig><reg type="split_word">Canterbury</reg></choice></l>
                     <l n="bb32.d.te.37.03" justify="left"><choice><orig>terbury</orig><reg type="split_word">Canterbury</reg></choice>; but, perhaps the painter thought
@@ -2803,7 +2803,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         get fat."</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.37.18" justify="left" indent="2">But the prospectus tells us,
                         that the painter</l>
                     <l n="bb32.d.te.37.19" justify="left">has introduced a Sea Captain; Chaucer has
@@ -2832,7 +2832,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.38.02" justify="left"><choice><orig>sel</orig><reg type="split_word">Vessel</reg></choice>, called by courtesy
                         Captain, as every master</l>
                     <l n="bb32.d.te.38.03" justify="left">of a boat is; but this does not make him
@@ -2877,7 +2877,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.39" dbi="bb32.d.39.TYP">
             <objtitle>
                 <title type="transcribed">Page 35</title>
-                <title type="transcribed">Number IV</title>, <objid>
+                <title type="transcribed">Number <choice><orig>IV</orig><reg>4</reg></choice></title>, <objid>
                     <objnumber code="A39">Object 39 </objnumber>
                     <objcode code="B35">(Bentley 35)</objcode>
                 </objid>
@@ -2893,11 +2893,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.39.02" justify="left" indent="15">NUMBER IV.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.39.02" justify="left" indent="15">NUMBER <choice><orig>IV</orig><reg>4</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.39.03" justify="left" indent="10">
                         <hi rend="i">The Bard, from Gray.</hi>
                     </l>
@@ -2925,7 +2925,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         race.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.39.12" justify="left" indent="2">Weaving the winding sheet of
                         Edward's race</l>
                     <l n="bb32.d.te.39.13" justify="left">by means of sounds of spiritual music and
@@ -2964,7 +2964,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.40.02" justify="left"><choice><orig>presentations</orig><reg type="split_word">representations</reg></choice> of merely
                         mortal and perishing</l>
                     <l n="bb32.d.te.40.03" justify="left">substances, and not be as poetry and
@@ -2997,7 +2997,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         the tissue of thy line.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.40.16" justify="left" indent="2">The connoisseurs and artists
                         who have made</l>
                     <l n="bb32.d.te.40.17" justify="left">objections to Mr.
@@ -3034,7 +3034,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.41.02" justify="left"><choice><orig>tues</orig><reg type="split_word">statues</reg></choice>, are all of them
                         representations of spiritual</l>
                     <l n="bb32.d.te.41.03" justify="left">existences of God's immortal, to the
@@ -3102,7 +3102,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.42.02" justify="left"><choice><orig>rits</orig><reg type="split_word">Spirits</reg></choice> are organized men:
                         Moderns wish to draw </l>
                     <l n="bb32.d.te.42.03" justify="left">figures without lines, and with great and
@@ -3133,7 +3133,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         his long array."</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.42.16" justify="left" indent="1">Mortimer and Gloucester lie
                         spell bound <choice><orig>be&#8211;</orig><reg type="split_word">behind</reg></choice></l>
                     <l n="bb32.d.te.42.17" justify="left"><choice><orig>hind</orig><reg type="split_word">behind</reg></choice> their king.</l>
@@ -3146,7 +3146,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.43" dbi="bb32.d.43.TYP">
             <objtitle>
                 <title type="transcribed">Page 39</title>
-                <title type="transcribed">Number V</title>, <objid>
+                <title type="transcribed">Number <choice><orig>V</orig><reg>5</reg></choice></title>, <objid>
                     <objnumber code="A43">Object 43 </objnumber>
                     <objcode code="B39">(Bentley 39)</objcode>
                 </objid>
@@ -3163,17 +3163,17 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.43.02" justify="left" indent="13">NUMBER V.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.43.02" justify="left" indent="13">NUMBER <choice><orig>V</orig><reg>5</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.43.03" justify="left" indent="10">
                         <hi rend="i">The Ancient Britons.</hi>
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.43.04" justify="left">
                         <hi rend="i">In the last Battle of King Arthur only Three</hi>
                     </l>
@@ -3200,7 +3200,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.43.12" justify="left" indent="2">The three general classes of
                         men who are <choice><orig>re&#8211;</orig><reg type="split_word">represented</reg></choice></l>
                     <l n="bb32.d.te.43.13" justify="left"><choice><orig>presented</orig><reg type="split_word">represented</reg></choice> by the most Beautiful, the most </l>
@@ -3241,7 +3241,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.44.02" justify="left">wiser than after&#8211;ages. They were
                         <choice><orig>over&#8211;</orig><reg type="split_word">overwhelmed</reg></choice></l>
                     <l n="bb32.d.te.44.03" justify="left"><choice><orig>whelmed</orig><reg type="split_word">overwhelmed</reg></choice> by brutal arms all but a small
@@ -3304,7 +3304,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.45.02" justify="left">by us by the general name of Fairies;
                         and</l>
                     <l n="bb32.d.te.45.03" justify="left">of these three who escaped, namely,
@@ -3371,7 +3371,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.46.02" justify="left">his real humanity slain on the stems of
                         generation,</l>
                     <l n="bb32.d.te.46.03" justify="left">and the form of the fourth was like the
@@ -3435,7 +3435,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.47.02" justify="left"><choice><orig>plied</orig><reg type="split_word">applied</reg></choice> to a Prince of the
                         fifth century, who</l>
                     <l n="bb32.d.te.47.03" justify="left">conquered Europe, and held the Empire
@@ -3499,7 +3499,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.48.02" justify="left">and all antiquaries have proved. How
                         other</l>
                     <l n="bb32.d.te.48.03" justify="left">antiquities came to be neglected and
@@ -3563,7 +3563,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.49.02" justify="left">worth reading. Tell me the What; I do
                         not</l>
                     <l n="bb32.d.te.49.03" justify="left">want you to tell me the Why, and the How;
@@ -3625,7 +3625,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.50.02" justify="left">precious remains of antiquity he has done
                         so</l>
                     <l n="bb32.d.te.50.03" justify="left">and the result you behold; his ideas
@@ -3686,7 +3686,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.51.02" justify="left" indent="2">It will be necessary for the
                         Painter to say</l>
                     <l n="bb32.d.te.51.03" justify="left">something concerning his ideas of
@@ -3748,7 +3748,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.52.02" justify="left">approaching to the beast in features and
                         form,</l>
                     <l n="bb32.d.te.52.03" justify="left">his forehead small, without frontals; his
@@ -3812,7 +3812,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.53.02" justify="left"><choice><orig>tions</orig><reg type="split_word">inspirations</reg></choice> of a prophetic mind.
                         The Beautiful</l>
                     <l n="bb32.d.te.53.03" justify="left">Man acts from duty, and anxious
@@ -3878,7 +3878,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.54.02" justify="left" indent="2">Distant among the mountains,
                         are Druid</l>
                     <l n="bb32.d.te.54.03" justify="left">Temples, similar to Stone Henge. The
@@ -3928,7 +3928,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.55" dbi="bb32.d.55.TYP">
             <objtitle>
                 <title type="transcribed">Page 51</title>
-                <title type="transcribed">Number VI</title>, <objid>
+                <title type="transcribed">Number <choice><orig>VI</orig><reg>6</reg></choice></title>, <objid>
                     <objnumber code="A55">Object 55 </objnumber>
                     <objcode code="B51">(Bentley 51)</objcode>
                 </objid>
@@ -3944,7 +3944,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.55.02" justify="left">forms will not admit of grand <choice><orig>colouring</orig><reg>coloring</reg></choice>;
                         in</l>
                     <l n="bb32.d.te.55.03" justify="left">Mr. <choice><orig>B.</orig><reg
@@ -3955,11 +3955,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.55.05" justify="left"><choice><orig>ing</orig><reg type="split_word">coloring</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.55.06" justify="left" indent="12">NUMBER VI.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.55.06" justify="left" indent="12">NUMBER <choice><orig>VI</orig><reg>6</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.55.07" justify="left" indent="2">
                         <hi rend="i">A Spirit vaulting from a cloud to turn and</hi>
                     </l>
@@ -3977,7 +3977,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.55.12" justify="left">THIS Picture was done many years ago,
                         and</l>
                     <l n="bb32.d.te.55.13" justify="left">was one of the first Mr.
@@ -4004,8 +4004,8 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.56" dbi="bb32.d.56.TYP">
             <objtitle>
                 <title type="transcribed">Page 52</title>
-                <title type="transcribed">NUMBER VII</title>
-                <title type="transcribed">Number VIII</title>, <objid>
+                <title type="transcribed">Number <choice><orig>VII</orig><reg>7</reg></choice></title>
+                <title type="transcribed">Number <choice><orig>VIII</orig><reg>8</reg></choice></title>, <objid>
                     <objnumber code="A56">Object 56 </objnumber>
                     <objcode code="B52">(Bentley 52)</objcode>
                 </objid>
@@ -4021,17 +4021,17 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.56.02" justify="left" indent="13">NUMBER VII.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.56.02" justify="left" indent="13">NUMBER <choice><orig>VII</orig><reg>7</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.56.03" justify="left" indent="5">
                         <hi rend="i">The Goats, an experiment Picture.</hi>
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.56.04" justify="left">THE subject is taken from the
                         Missionary</l>
                     <l n="bb32.d.te.56.05" justify="left">Voyage and varied from the literal
@@ -4055,11 +4055,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.56.14" justify="left">Connoisseur for reasons that follow.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.56.15" justify="left" indent="12">NUMBER VIII.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.56.15" justify="left" indent="12">NUMBER <choice><orig>VIII</orig><reg>8</reg></choice>.</l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.56.16" justify="left">
                         <hi rend="i">The spiritual Preceptor, an experiment</hi>
                     </l>
@@ -4068,7 +4068,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.56.18" justify="left">THIS subject is taken from the visions
                         of</l>
                     <l n="bb32.d.te.56.19" justify="left">Emanuel Swedenborg. Universal
@@ -4094,7 +4094,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.57.02" justify="left">No. 623. The Learned, who strive to
                         ascend</l>
                     <l n="bb32.d.te.57.03" justify="left">into Heaven by means of learning, appear
@@ -4145,7 +4145,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.58" dbi="bb32.d.58.TYP">
             <objtitle>
                 <title type="transcribed">Page 54</title>
-                <title type="transcribed">Number IX.</title>, <objid>
+                <title type="transcribed">Number <choice><orig>IX</orig><reg>9</reg></choice>.</title>, <objid>
                     <objnumber code="A58">Object 58 </objnumber>
                     <objcode code="B54">(Bentley 54)</objcode>
                 </objid>
@@ -4162,11 +4162,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.58.02" justify="left" indent="13">NUMBER IX.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.58.02" justify="left" indent="13">NUMBER <choice><orig>IX</orig><reg>9</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.58.03" justify="left">
                         <hi rend="i">Satan calling up his Legions, from Milton's</hi>
                     </l>
@@ -4181,7 +4181,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.58.07" justify="left">THIS Picture was likewise painted at
                         intervals,</l>
                     <l n="bb32.d.te.58.08" justify="left">for experiment on <choice><orig>colours</orig><reg>colors</reg></choice>, without any
@@ -4228,7 +4228,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.59.02" justify="left">temptations and perturbations, <choice><orig>labouring</orig><reg>laboring</reg></choice>
                         to <choice><orig>des&#8211;</orig><reg type="split_word">destroy</reg></choice></l>
                     <l n="bb32.d.te.59.03" justify="left"><choice><orig>troy</orig><reg type="split_word">destroy</reg></choice> Imaginative power, by means of that
@@ -4292,7 +4292,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.60.02" justify="left">of the various Schools possessed his
                         mind, <choice><orig>in&#8211;</orig><reg type="split_word">instead</reg></choice></l>
                     <l n="bb32.d.te.60.03" justify="left"><choice><orig>stead</orig><reg type="split_word">instead</reg></choice> of appropriate execution, resulting
@@ -4357,7 +4357,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.61.02" justify="left">hellish brownness, and blocks up all its
                         gates</l>
                     <l n="bb32.d.te.61.03" justify="left">of light, except one, and that one he
@@ -4421,7 +4421,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.62.02" justify="left">Correggio was not poor, he will make
                         any</l>
                     <l n="bb32.d.te.62.03" justify="left">true artist so, who permits him to enter
@@ -4472,7 +4472,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.63" dbi="bb32.d.63.TYP">
             <objtitle>
                 <title type="transcribed">Page 59</title>, <title type="transcribed">Number
-                    X.</title>, <objid>
+                    <choice><orig>X</orig><reg>10</reg></choice>.</title>, <objid>
                     <objnumber code="A63">Object 63 </objnumber>
                     <objcode code="B59">(Bentley 59)</objcode>
                 </objid>
@@ -4488,7 +4488,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.63.02" justify="left"><choice><orig>lieve</orig><reg type="split_word">disbelieve</reg></choice> all this, but it shall
                         be at your own</l>
                     <l n="bb32.d.te.63.03" justify="left">peril.</l>
@@ -4499,17 +4499,17 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.63.06" justify="left">mercy, to try all experiments.</l>
                 </lg>
                 <vspace extent="1.5"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.63.07" justify="left" indent="13">NUMBER X.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.63.07" justify="left" indent="13">NUMBER <choice><orig>X</orig><reg>10</reg></choice>.</l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.63.08" justify="left" indent="7">
                         <hi rend="i">The <choice><orig>Bramins</orig><reg>Brahmins</reg></choice>.&#8212;A Drawing.</hi>
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.63.09" justify="left">The subject is, <choice><orig>Mr. Wilkin</orig><reg type="abv_name">Charles Wilkins</reg></choice>, translating
                         the <note>Bentley (*Writings* volume 2 page 859n101) identifies Mr. Wilkin as Charles Wilkins.</note></l>
                     <l n="bb32.d.te.63.10" justify="left"><choice><orig>Geeta</orig><reg>Bhagavad Gita</reg></choice>; an ideal design, suggested by
@@ -4535,9 +4535,9 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.64" dbi="bb32.d.64.TYP">
             <objtitle>
                 <title type="transcribed">Page 60</title>, <title type="transcribed">Number
-                    XI.</title>, <title type="transcribed">Number XII.</title>, <title
-                    type="transcribed">Number XIII.</title>, <title type="transcribed">Number
-                    XIV.</title>, <objid>
+                    <choice><orig>XI</orig><reg>11</reg></choice>.</title>, <title type="transcribed">Number <choice><orig>XII</orig><reg>12</reg></choice>.</title>, <title
+                        type="transcribed">Number <choice><orig>XIII</orig><reg>13</reg></choice>.</title>, <title type="transcribed">Number
+                            <choice><orig>XIV</orig><reg>14</reg></choice>.</title>, <objid>
                     <objnumber code="A64">Object 64 </objnumber>
                     <objcode code="B60">(Bentley 60)</objcode>
                 </objid>
@@ -4553,11 +4553,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.64.02" justify="left" indent="13">NUMBER XI.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.64.02" justify="left" indent="13">NUMBER <choice><orig>XI</orig><reg>11</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.64.03" justify="left">
                         <hi rend="i">The body of Abel found by Adam and Eve;</hi>
                     </l>
@@ -4569,11 +4569,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.64.06" justify="left" indent="13">NUMBER XII.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.64.06" justify="left" indent="13">NUMBER <choice><orig>XII</orig><reg>12</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.64.07" justify="left">
                         <hi rend="i">The Soldiers casting lots for Christ's Garment.</hi>
                     </l>
@@ -4582,21 +4582,21 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.64.09" justify="left" indent="13">NUMBER XIII.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.64.09" justify="left" indent="13">NUMBER <choice><orig>XIII</orig><reg>13</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.64.10" justify="left">
                         <hi rend="i">Jacob's Ladder.&#8212;A Drawing.</hi>
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.64.11" justify="left" indent="13">NUMBER XIV.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.64.11" justify="left" indent="13">NUMBER <choice><orig>XIV</orig><reg>14</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.64.12" justify="left">
                         <hi rend="i">The Angels hovering over the Body of Jesus</hi>
                     </l>
@@ -4605,7 +4605,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.64.14" justify="left" indent="2">The above four drawings the
                         Artist wishes</l>
                     <l n="bb32.d.te.64.15" justify="left">were in Fresco, on an enlarged scale to
@@ -4617,7 +4617,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.65" dbi="bb32.d.65.TYP">
             <objtitle>
                 <title type="transcribed">Page 61</title>, <title type="transcribed">Number
-                    XV.</title>, <objid>
+                    <choice><orig>XV</orig><reg>15</reg></choice>.</title>, <objid>
                     <objnumber code="A65">Object 65 </objnumber>
                     <objcode code="B61">(Bentley 61)</objcode>
                 </objid>
@@ -4633,7 +4633,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.65.02" justify="left"><choice><orig>ment</orig><reg type="split_word">ornament</reg></choice> the altars of churches,
                         and to make</l>
                     <l n="bb32.d.te.65.03" justify="left">England like Italy, respected by
@@ -4658,17 +4658,17 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                         Senate.</l>
                 </lg>
                 <vspace extent="1.5"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.65.13" justify="left" indent="14">NUMBER XV.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.65.13" justify="left" indent="14">NUMBER <choice><orig>XV</orig><reg>15</reg></choice>.</l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.65.14" justify="left" indent="12">
                         <hi rend="i">Ruth.&#8212;A Drawing.</hi>
                     </l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.65.15" justify="left">THIS Design is taken from that most
                         pathetic</l>
                     <l n="bb32.d.te.65.16" justify="left">passage in the Book of Ruth, where
@@ -4703,7 +4703,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.66.02" justify="left">thou goest I will go; and where thou
                         lodgest</l>
                     <l n="bb32.d.te.66.03" justify="left">I will lodge, thy people shall be my
@@ -4766,7 +4766,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.67.02" justify="left">Mr. <choice><orig>B.</orig><reg
                                 type="abbrev">Blake</reg></choice> thought this the greatest of
                         compliments,</l>
@@ -4832,7 +4832,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.68.02" justify="left">and wirey the bounding line, the more
                         perfect</l>
                     <l n="bb32.d.te.68.03" justify="left">the work of art; and the less keen and
@@ -4885,7 +4885,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
         <desc id="bb32.d.te.69" dbi="bb32.d.69.TYP">
             <objtitle>
                 <title type="transcribed">Page 65</title>, <title type="transcribed">Number
-                    XVI.</title>, <objid>
+                    <choice><orig>XVI</orig><reg>16</reg></choice>.</title>, <objid>
                     <objnumber code="A69">Object 69 </objnumber>
                     <objcode code="B65">(Bentley 65)</objcode>
                 </objid>
@@ -4901,7 +4901,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.69.02" justify="left">in the actions and intentions. Leave out
                         this</l>
                     <l n="bb32.d.te.69.03" justify="left"><choice><orig>ln e</orig><reg>line</reg></choice> and you leave out life itself; all
@@ -4925,11 +4925,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.69.12" justify="left"><choice><orig>dering</orig><reg type="split_word">blundering</reg></choice> misapplied copies.</l>
                 </lg>
                 <vspace extent="1.75"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.69.13" justify="left" indent="12">NUMBER XVI.</l>
+                <lg justify="left">
+                    <l n="bb32.d.te.69.13" justify="left" indent="12">NUMBER <choice><orig>XVI</orig><reg>16</reg></choice>.</l>
                 </lg>
                 <vspace extent="1"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.69.14" justify="left">
                         <hi rend="i">The Penance of Jane Shore in Saint Paul's</hi>
                     </l>
@@ -4938,7 +4938,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.69.16" justify="left" indent="2">THIS Drawing was done above
                         Thirty Years</l>
                     <l n="bb32.d.te.69.17" justify="left">ago, and proves to the Author, and he
@@ -4968,7 +4968,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </texthead>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.70.02" justify="left">are equal in all essential points. If a
                         man is</l>
                     <l n="bb32.d.te.70.03" justify="left">master of his profession, he cannot be
@@ -4994,7 +4994,7 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.70.13" justify="left">give.</l>
                 </lg>
                 <vspace extent="3"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.70.14" justify="left" indent="17">FINIS.</l>
                 </lg>
                 <vspace extent="4"/>
@@ -5027,11 +5027,11 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.71.01" justify="left" indent="18">INDEX</l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.71.02" justify="left" indent="18">TO THE</l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     <l n="bb32.d.te.71.03" justify="left" indent="15">CATALOGUE.</l>
                 </lg>
                 <vspace extent="0.5"/>
@@ -5041,35 +5041,35 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     </l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
+                <lg justify="left">
                     
                     <l n="bb32.d.te.71.05" justify="left">NUMBER.</l>
-                    <l n="bb32.d.te.71.06" justify="left" indent="2"> I. The Spiritual Form of
+                    <l n="bb32.d.te.71.06" justify="left" indent="2"><choice><orig>I</orig><reg>1</reg></choice>. The Spiritual Form of
                         Nelson <choice><orig>guid&#8211;</orig><reg type="split_word">guiding</reg></choice></l>
                     <l n="bb32.d.te.71.07" justify="left"><choice><orig>ing</orig><reg type="split_word">guiding</reg></choice> Leviathan <space
                         extent="5"/>&#8211; <space extent="5"/> &#8211; <space extent="6"/>PAGE
                         1</l>
-                    <l n="bb32.d.te.71.08" justify="left" indent="2">II. The Spiritual Form of Pitt
+                    <l n="bb32.d.te.71.08" justify="left" indent="2"><choice><orig>II</orig><reg>2</reg></choice>. The Spiritual Form of Pitt
                         guiding</l>
                     <l n="bb32.d.te.71.09" justify="left">Behemoth <space extent="4"/> &#8211;
                         <space extent="6"/> &#8211; <space extent="8"/> &#8211; <space
                             extent="4"/> 2</l>
-                    <l n="bb32.d.te.71.10" justify="left" indent="2">III. The Canterbury Pilgrims,
+                    <l n="bb32.d.te.71.10" justify="left" indent="2"><choice><orig>III</orig><reg>3</reg></choice>. The Canterbury Pilgrims,
                         from</l>
                     <l n="bb32.d.te.71.11" justify="left">Chaucer <space extent="4"/>&#8211; <space
                         extent="4"/>&#8211; <space extent="5"/>&#8211; <space extent="6"
                         />&#8211; <space extent="5"/>7</l>
-                    <l n="bb32.d.te.71.12" justify="left" indent="2">IV. The Bard, from Gray <space
+                    <l n="bb32.d.te.71.12" justify="left" indent="2"><choice><orig>IV</orig><reg>4</reg></choice>. The Bard, from Gray <space
                         extent="8"/> &#8211; <space extent="4"/>35</l>
-                    <l n="bb32.d.te.71.13" justify="left" indent="2">V. The Ancient Britons <space
+                    <l n="bb32.d.te.71.13" justify="left" indent="2"><choice><orig>V</orig><reg>5</reg></choice>. The Ancient Britons <space
                         extent="3"/> &#8211; <space extent="4"/> &#8211; <space extent="4"
                         />30</l>
-                    <l n="bb32.d.te.71.14" justify="left" indent="2">VI. A Subject from Shakespeare
+                    <l n="bb32.d.te.71.14" justify="left" indent="2"><choice><orig>VI</orig><reg>6</reg></choice>. A Subject from Shakespeare
                         <space extent=".5"/> &#8211; <space extent="3.6"/>51</l>
-                    <l n="bb32.d.te.71.15" justify="left" indent="2">VII. The Goats <space
+                    <l n="bb32.d.te.71.15" justify="left" indent="2"><choice><orig>VII</orig><reg>7</reg></choice>. The Goats <space
                         extent="8"/>&#8211; <space extent="7"/> &#8211; <space extent="4.2"
                         />52</l>
-                    <l n="bb32.d.te.71.16" justify="left" indent="2">VIII. The Spiritual Preceptor
+                    <l n="bb32.d.te.71.16" justify="left" indent="2"><choice><orig>VIII</orig><reg>8</reg></choice>. The Spiritual Preceptor
                         <space extent="4"/> &#8211;<space extent="5.2"/>ib.</l>
                 </lg>
             </phystext>
@@ -5090,32 +5090,32 @@ The William Blake Archive is pleased to announce the publication of a digital ed
                     <l n="bb32.d.te.72.01" justify="left" indent="19">INDEX.</l>
                 </lg>
                 <vspace extent="0.5"/>
-                <lg type="prose">
-                    <l n="bb32.d.te.72.02" justify="left" indent="2">IX. Satan calling up his
+                <lg justify="left">
+                    <l n="bb32.d.te.72.02" justify="left" indent="2"><choice><orig>IX</orig><reg>9</reg></choice>. Satan calling up his
                         Legions, from</l>
                     <l n="bb32.d.te.72.03" justify="left">Milton <space extent="6"/> &#8211; <space
                         extent="6"/> &#8211; <space extent="6"/> &#8211; <space extent="1"/>
                         PAGE 54</l>
-                    <l n="bb32.d.te.72.04" justify="left" indent="2">X. The <choice><orig>Bramins</orig><reg>Brahmins</reg></choice>&#8212;A Drawing
+                    <l n="bb32.d.te.72.04" justify="left" indent="2"><choice><orig>X</orig><reg>10</reg></choice>. The <choice><orig>Bramins</orig><reg>Brahmins</reg></choice>&#8212;A Drawing
                         <space extent="1.5"/>&#8211; <space extent="7"/> 59</l>
-                    <l n="bb32.d.te.72.05" justify="left" indent="2">XI. The Body of Abel found by
+                    <l n="bb32.d.te.72.05" justify="left" indent="2"><choice><orig>XI</orig><reg>11</reg></choice>. The Body of Abel found by
                         Adam</l>
                     <l n="bb32.d.te.72.06" justify="left">and Eve, Cain fleeing away&#8212;A
                         Drawing <space extent="1.5"/> 60</l>
-                    <l n="bb32.d.te.72.07" justify="left" indent="2">XII. Soldiers casting Lots for
+                    <l n="bb32.d.te.72.07" justify="left" indent="2"><choice><orig>XII</orig><reg>12</reg></choice>. Soldiers casting Lots for
                         Christ's</l>
                     <l n="bb32.d.te.72.08" justify="left">Garment&#8212;A Drawing <space
                         extent="2"/> &#8211; <space extent="6"/> &#8211; <space extent="5.5"/>
                         ib.</l>
-                    <l n="bb32.d.te.72.09" justify="left" indent="2">XIII. Jacob's Ladder&#8212;A
+                    <l n="bb32.d.te.72.09" justify="left" indent="2"><choice><orig>XIII</orig><reg>13</reg></choice>. Jacob's Ladder&#8212;A
                         Drawing <space extent="7"/>ib.</l>
-                    <l n="bb32.d.te.72.10" justify="left" indent="2">XIV. Angels hovering over the
+                    <l n="bb32.d.te.72.10" justify="left" indent="2"><choice><orig>XIV</orig><reg>14</reg></choice>. Angels hovering over the
                         Body</l>
                     <l n="bb32.d.te.72.11" justify="left">of Jesus in the <choice><orig>Sepulchre</orig><reg>Sepulcher</reg></choice>&#8212;A Drawing
                         <space extent="4"/>ib.</l>
-                    <l n="bb32.d.te.72.12" justify="left" indent="2">XV. Ruth&#8212;A Drawing
+                    <l n="bb32.d.te.72.12" justify="left" indent="2"><choice><orig>XV</orig><reg>15</reg></choice>. Ruth&#8212;A Drawing
                         <space extent="8"/> &#8211; <space extent="7"/>61</l>
-                    <l n="bb32.d.te.72.13" justify="left" indent="2">XVI. The Penance of Jane
+                    <l n="bb32.d.te.72.13" justify="left" indent="2"><choice><orig>XVI</orig><reg>16</reg></choice>. The Penance of Jane
                         Shore&#8212;A</l>
                     <l n="bb32.d.te.72.14" justify="left">Drawing <space extent="6.5"/>&#8211;
                         <space extent="6"/> &#8211; <space extent="6"/> &#8211; <space
