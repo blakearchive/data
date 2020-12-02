@@ -198,13 +198,17 @@
                     <role>author</role>
                 </origination>
                 <imprint>
-                <publisher>John Nichols<note>Michael Phillips argues that the printer was John
-                        Nichols ("William Blake and the 'Unincreasable Club': The Printing of *Poetical Sketches*," *Bulletin of the New York Public Library* 80 (1976): 6-18). 
-                        Peter Ackroyd suggests the printer could have been John Flaxman's aunt, who had a small print shop
-                        where the first copies were produced (*Blake* page 94).
+                <publisher>John Nichols(?)
+                    <note>The work was printed but never formally published; see Print Date note.</note>
+                    <note>Michael Phillips supposes that the printer was John
+                        Nichols ("William Blake and the 'Unincreasable Club': The Printing of *Poetical Sketches*," *Bulletin of the New York Public Library* 80 [1976]: 6-18). 
+                        Peter Ackroyd claims the work was printed "by a friend of [Blake's] old master Basire, and was stocked by Flaxman's aunt [Jane Matthews], who owned a print shop
+                        in the Strand," (*Blake* [New York: Knopf, 1996], page 86).
                         According to John Thomas Smith, the print run was funded by Flaxman and the Rev. Anthony Stephen Mathew, 
-                        the latter having been persuaded by his wife to join Flaxman in the endeavor (*Nollekens and His Times*, 1828, quoted in Bentley, *Blake Records* 2nd ed. page 605).
-                        Smith also claims Rev. Mathew may have then written the advertisement.</note>
+                        the latter having been persuaded by his wife to join Flaxman in the endeavor (*Nollekens and His Times*, 1828, quoted in Bentley, *Records*, page 605).
+                        Smith also claims Rev. Mathew may have then written the advertisement.
+                        <!-- we are likely deleting the Ackroyd citation and adding Bentley via NYPL Bulletin and Erdman via Prophet Against Empire -->
+                    </note>
                     <role>delineator, </role>
                     <role>printer</role>
                 </publisher>
@@ -230,7 +234,7 @@
                 <printingstyle>letterpress</printingstyle>
                 <inkcolor>black</inkcolor>
                 <support>laid paper</support>
-                <watermark>Chain lines, 2.8 cm apart. <note>Bentley notes that the paper is
+                <watermark>none <note>Laid paper with chain lines 2.8 cm. apart. Bentley notes that the paper is
                         defective and possibly from an odd lot (*Writings* volume 2, page 1685).</note>
                 </watermark>
                 <pennednumbers>2-70<note>Page numbers are at the outside corners of pages with
@@ -253,8 +257,8 @@
                 <price>$725</price>
                 <note>Given by Blake to Charles Tulk c. 1810; sold by Edward Duperner, Sotheby's, 20
                     June 1906, lot 937, £109 to B. F. Stevens; acquired by Robert Hoe, who rebound
-                    it in 1908; sold posthumously by Hoe to Anderson Auction Company, 25 April 1911, lot 389,
-                    to George D. Smith for the Huntington Library.</note>
+                    it in 1908; auctioned from Hoe's estate by Anderson Auction Company, 25 April 1911, lot 389,
+                    to George D. Smith for Henry Huntington; now in the Huntington Library.</note>
             </provenance>
             <repository>
                 <institution>The Huntington Library, Art Museum, and Botanical Gardens</institution>
