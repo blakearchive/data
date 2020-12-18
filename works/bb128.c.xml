@@ -17,7 +17,7 @@
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
             <extent>1 XML file approx. 389KB; 144 JPEG (ISO/IEC 10918) files ranging in size from
-                ???KB to ???KB</extent><!-- complete after CC jpegs are added -->
+                approx. 500KB to 2.5MB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
                     Archives
                 <date>December 2020</date>
@@ -309,7 +309,10 @@ with Nichols (pages 13-17).
                 </objid>
             </objtitle>
             <physdesc>
-                <objsize>21.3 x 12.9 cm.</objsize>
+                <objsize>21.3 x 25.8 cm.</objsize>
+                <objnote>
+                    <p>In the first two objects, two-page spreads are given to provide a sense of materiality of the printed book. Remaining objects revert to the Archive's standard of single-page cropped images.</p>
+                </objnote>
                 <windowsize width="500" height="615"/>
             </physdesc>
             <phystext>
@@ -367,6 +370,9 @@ with Nichols (pages 13-17).
             </objtitle>
             <physdesc>
                 <objsize>21.3 x 12.9 cm.</objsize>
+                <objnote>
+                    <p>In the first two objects, two-page spreads are given to provide a sense of materiality of the printed book. Remaining objects revert to the Archive's standard of single-page cropped images.</p>
+                </objnote>
                 <windowsize width="500" height="615"/>
                 <objnote>
                     <p>Bentley notes that, according to J. T. Smith, Rev. Mathew wrote the advertisement (*Nollekens and His Times*, 1828, qtd. in Bentley, *Records* page
@@ -433,7 +439,7 @@ with Nichols (pages 13-17).
                 </objid>
             </objtitle>
             <physdesc>
-                <objsize>21.3 x 12.9 cm.</objsize>
+                <objsize>21.3 x 25.8 cm.</objsize>
                 <windowsize width="500" height="615"/>
             </physdesc>
             <phystext>
@@ -3071,10 +3077,7 @@ with Nichols (pages 13-17).
                         ><catchword>With</catchword></l>
                 </textfoot>
             </phystext>
-        </desc>
-        
-        <!-- RESUME PROOFING HERE -->
-        
+        </desc>        
         <desc id="bb128.c.te.34" dbi="BB128.C.32.TYP">
             <objtitle>
                 <objid>
@@ -5635,9 +5638,6 @@ with Nichols (pages 13-17).
                 </textfoot>
             </phystext>
         </desc>
-        
-        <!-- RESUME PROOFING HERE -->
-        
         <desc id="bb128.c.te.60" dbi="BB128.C.58.TYP">
             <objtitle>
                 <title type="transcribed">A War Song to Englishmen</title>
@@ -5832,7 +5832,7 @@ with Nichols (pages 13-17).
                     <l n="bb128.c.te.62.09" justify="left">when Nature takes her repose.&#8212;In former
                         times,</l>
                     <l n="bb128.c.te.62.10" justify="left">on such on evening, when the cold clay
-                        breathed</l>
+                        breathed<note>"On" is apparently an error for "an". Bentley (*Writings* volume 2, page 793n) and Erdman (441) note the error and make the correction in their transcriptions.</note></l>
                     <l n="bb128.c.te.62.11" justify="left">with life, and our ancestors, who now
                         sleep in</l>
                     <l n="bb128.c.te.62.12" justify="left">their graves, walked on the 
@@ -5886,7 +5886,7 @@ with Nichols (pages 13-17).
         <desc id="bb128.c.te.63" dbi="BB128.C.61.TYP">
             <objtitle>
                 <objid>
-                    <objnumber code="A63">object 63</objnumber>
+                    <objnumber code="A63">Object 63</objnumber>
                     <objcode code="B1">(Bentley 61)</objcode>
                 </objid>
             </objtitle>
@@ -5978,7 +5978,7 @@ with Nichols (pages 13-17).
             </physdesc>
             <phystext>
                 <texthead justify="left">
-                    <l n="bb128.c.te.64.01" justify="left"><physnumber>62</physnumber><space extent="6"/>THE COUCH DEATH.</l>
+                    <l n="bb128.c.te.64.01" justify="left"><physnumber>62</physnumber><space extent="6"/>THE COUCH OF DEATH.</l>
                 </texthead>
                 <lg  justify="left">
                     <l n="bb128.c.te.64.02" justify="left">cry, and said, "O Voice, that <choice>
@@ -6021,7 +6021,7 @@ with Nichols (pages 13-17).
                     <l n="bb128.c.te.64.19" justify="left">the face of the youth! a visionary hand
                         wiped</l>
                     <l n="bb128.c.te.64.20" justify="left">away his tears, and a ray of light
-                        beamed ar<unclear resp="MG">o</unclear>und<note>The "o" in "around" is unclear; Bentley (*Writings* volume 2, page 794) and Erdman (441) read "around".</note></l>
+                        beamed ar<unclear resp="MG">o</unclear>und<note>The "o" in "around" is unclear. Bentley (*Writings* volume 2, page 794) and Erdman (442) read "around".</note></l>
                     <l n="bb128.c.te.64.21" justify="left">his head! All was
                         still. The moon hung</l>
                     <l n="bb128.c.te.64.22" justify="left">not out her lamp, and the stars faintly <choice>
@@ -6198,7 +6198,7 @@ with Nichols (pages 13-17).
                     <l n="bb128.c.te.66.14" justify="left">"house when I grew up; he was my <choice>
                         <orig>school-</orig>
                         <reg type="split_word">schoolfellow</reg>
-                    </choice><note>Bentley notes that in Copies T and V, the semicolon after "grew up" is deleted and in Copy V, 
+                    </choice><note>Bentley notes that in Copies T and V, the semicolon after "grew up" is deleted, and, in Copy V, 
                         a semicolon is added after "house" (*Writings* volume 2, page 795n). Additionally, Bentley reads "house when I grew up;" as "house, when I grew up" (*Writings* volume 2, page 795n).</note>
                     </l>
                     <l n="bb128.c.te.66.15" justify="left">"<choice><orig>fellow</orig><reg type="split_word">schoolfellow</reg></choice>: thus he was in my steps and in my</l>
@@ -6333,7 +6333,6 @@ with Nichols (pages 13-17).
                             <orig>Dalila</orig><reg type="alt_name">Delilah</reg></choice>! O weak woman! it
                         is death</l>
                 </lg>
-                
                 <textfoot justify="left">
                     <l n="bb128.c.te.67.32" justify="left" indent="16">K<space extent="17"/>"<catchword><choice><orig>cloathed</orig><reg>clothed</reg></choice></catchword>
                     </l>
@@ -6398,9 +6397,8 @@ with Nichols (pages 13-17).
                     <l n="bb128.c.te.68.19" justify="left">"Alas, I am wedded to your enemy! I will go</l>
                     <l n="bb128.c.te.68.20" justify="left">"mad, and tear my crisped hair; I'll
                         run about<gap reason="illegible_inkblot" extent="1" unit="character"
-                        /><note><illus filename="bb128.c.68.20.note.jpg"/>A large blot
-                            covers a comma here (see other facsimiles, including Robin Hamlyn's, of
-                            Copy Q).</note></l>
+                        /><note><illus filename="bb128.c.68.20.note.jpg"/>In this copy, a large blot
+                            covers a comma at the end of the line.</note></l>
                     <l n="bb128.c.te.68.21" justify="left">"and pierce the ears <choice>
                         <orig>o'th'</orig>
                         <reg>of the</reg>
@@ -6478,7 +6476,7 @@ with Nichols (pages 13-17).
                         <orig>Didst</orig>
                         <reg>Did</reg>
                     </choice> thou not tell me with green <choice><orig>withs</orig><reg>withes</reg></choice></l>
-                    <l n="bb128.c.te.69.13" justify="left">"to bing thy nervous arms, and after
+                    <l n="bb128.c.te.69.13" justify="left">"to bind thy nervous arms, and after
                         that, when</l>
                     <l n="bb128.c.te.69.14" justify="left">"I had found thy <choice>
                         <orig>falshood</orig><reg>falsehood</reg></choice>, with new ropes to</l>
@@ -6594,10 +6592,10 @@ with Nichols (pages 13-17).
                     <l n="bb128.c.te.70.09" justify="left">"<choice><orig>lila</orig><reg type="split_word">Dalila</reg></choice>! doubt no more of Samson's love; for that</l>
                     <l n="bb128.c.te.70.10" justify="left">"fair breast was made the ivory palace
                         of my <choice>
-                            <orig>in-</orig>
+                            <orig>in<hi rend="subscript">-</hi></orig>
                             <reg type="split_word">inmost</reg>
                         </choice>
-                    </l>
+                    <note>The hyphen at the end of the line is apparently misplaced.</note></l>
                     <l n="bb128.c.te.70.11" justify="left">"<choice><orig>most</orig><reg type="split_word">inmost</reg></choice> heart, where it shall lie at rest; for sorrow</l>
                     <l n="bb128.c.te.70.12" justify="left">"is the lot of all of woman born: for
                         care was I</l>
@@ -6608,7 +6606,7 @@ with Nichols (pages 13-17).
                         <orig>match-</orig>
                         <reg type="split_word">matchless</reg>
                     </choice>
-                    </l>
+                    <note>Erdman reads "not" for "nor" (444).</note></l>
                     <l n="bb128.c.te.70.14" justify="left">"<choice><orig>less</orig><reg type="split_word">matchless</reg></choice> might, nor wisdom, nor every gift enjoyed,</l>
                     <l n="bb128.c.te.70.15" justify="left">"can from the heart of man hide
                         sorrow.&#8212;Twice</l>
@@ -6676,7 +6674,7 @@ with Nichols (pages 13-17).
                     <l n="bb128.c.te.71.02" justify="left">"play, and blessed their innocent mirth; she</l>
                     <l n="bb128.c.te.71.03" justify="left">"blessed each new-joined pair; but
                         from her</l>
-                    <l n="bb128.c.te.71.04" justify="left">"he long-wished deliverer shall
+                    <l n="bb128.c.te.71.04" justify="left">"the long-wished deliverer shall
                         spring. <choice>
                             <orig>Pen-</orig>
                             <reg type="split_word">Pensive</reg>
@@ -6765,7 +6763,10 @@ with Nichols (pages 13-17).
             </objtitle>
             <physdesc>
                 <objsize>21.3 x 12.9 cm.</objsize>
-                <windowsize width="500" height="615"/>
+                <objnote>
+                    <p>At the bottom of the page, "end 5006" is inscribed in pencil in an unknown hand.</p>
+                </objnote>
+                <windowsize width="500" height="615"/>  
             </physdesc>
             <phystext>
                 <texthead justify="left">
@@ -6817,7 +6818,7 @@ with Nichols (pages 13-17).
                     <l n="bb128.c.te.72.19" justify="left">"<choice><orig>mayest</orig><reg>may</reg>
                     </choice> sit and eat, and tell us of thy name and</l>
                     <l n="bb128.c.te.72.20" justify="left">"warfare; that when thy sayings come
-                        to pass,</l>
+                        to pass,<note>Both Erdman (848) and Bentley (*Writings* volume 2, page 799n) quote Keynes's view (*Blake: Complete Writings with Variant Readings* [Oxford: Oxford University Press, 1966], page 40) that "warfare" is probably a misprint for "wayfare".</note></l>
                     <l n="bb128.c.te.72.21" justify="left">"we may <choice>
                         <orig>honour</orig>
                         <reg>honor</reg>
