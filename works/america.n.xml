@@ -1,5 +1,4 @@
-<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="america.n" type="illbk" work="America a Prophecy" copy="N" copyid="N" institution="fitzwilliam" catalog="bentley" catid="N" hidden="false">
+<bad id="america.n" type="illbk" work="America a Prophecy" copy="N" copyid="N" institution="auckland" catalog="bentley" catid="N" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
@@ -41,22 +40,10 @@ grants from Sun Microsystems</sponsor>
             <publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH<date>March 2001</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            <updatestmt>
-            The William Blake Archive www.blakearchive.org is pleased to announce the publication of new electronic editions of <hi rend="i">America a Prophecy</hi> copy O and <hi rend="i">Europe a Prophecy</hi> copy K.<lb/>
-                <lb/>
-                <hi rend="i">America</hi> copy O and <hi rend="i">Europe</hi> copy K are both in the Fitzwilliam Museum, Cambridge, England. They join copies of <hi rend="i">America</hi> and <hi rend="i">Europe</hi> in the Archive from other printings: <hi rend="i">America</hi> copies E (1793) and A (1795), and <hi rend="i">Europe</hi> copies B (1794) and E (1794). Copy M of <hi rend="i">America</hi>, from a c. 1807 printing, and copy H of <hi rend="i">Europe</hi> (a unique monochrome copy) from a 1795 printing, are forthcoming.<lb/>
-                <lb/>
-            The electronic editions have newly edited SGML-encoded texts and new images scanned and color-corrected from first-generation 4x5" transparencies; text and images are each fully searchable and supported by the Inote and ImageSizer applications described in our previous updates.<lb/>
-                <lb/>
-            With the publication of these two titles, the Archive now contains fully searchable and scalable electronic editions of 43 copies of 18 of Blake's 19 illuminated books in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies. They also join our searchable SGML-encoded electronic edition of David V. Erdman's <hi rend="i">Complete Poetry and Prose of William Blake</hi>. With the forthcoming publication of <hi rend="i">Jerusalem</hi> copy E, the Archive will contain at least one copy of each of Blake's works in illuminated printing and multiple copies of most.<lb/>
-                <lb/>
-                <hi rend="i">America</hi> copy O is one of fourteen extant copies of <hi rend="i">America</hi> printed by Blake, one of four colored copies, one of two with the full text of plate 4, one of four without plate e ["Preludium"], and the only copy printed after c. 1807. <hi rend="i">Europe</hi> copy K is one of nine extant copies printed by Blake, one of only two copies with plate 3 ["Five windows light the cavern'd Man"], and the only copy printed after 1795. They are extraordinarily beautiful copies, with each impression bordered by one thin line drawn in red ink a few centimeters outside the edge of the image, setting off each page like a miniature painting.<lb/>
-                <lb/>
-            Produced together in 1821 for the painter John Linnell, Blake's young patron, they were printed in orangish-red ink on one side of J. Whatman paper dated 1818, 1819, and 1820, numbered 1-18, and finished in gold, watercolors, and pen and ink in the same style Blake used in c. 1818 and 1821-22, and 1825-27. Works from these sessions include <hi rend="i">The Book of Thel</hi> copy O, <hi rend="i">Urizen</hi> copy G, <hi rend="i">Songs of Innocence and of Experience</hi> copies Z and AA, and <hi rend="i">The Marriage of Heaven and Hell</hi> copy I, which are in the Archive, and <hi rend="i">Jerusalem</hi> copy E, <hi rend="i">Visions of the Daughters of Albion</hi> copy P, <hi rend="i">Milton</hi> copy D, and <hi rend="i">The Marriage of Heaven and Hell</hi> copy G, each of which will soon enter the Archive.
-         </updatestmt>
+            
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2003</date> by Morris Eaves, Robert N. Essick,
+        <userestrict>Copyright © <date>2021</date> by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved. Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
@@ -65,7 +52,7 @@ publisher.
 Permission to reproduce the graphic images in this archive has been
 granted by the owners of the originals for this publication only.<lb/>
             <lb/>
-This image copyright © 2003 Fitzwilliam Museum.</userestrict>
+This image copyright © 2021 Auckland Public Library.</userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -100,18 +87,22 @@ This image copyright © 2003 Fitzwilliam Museum.</userestrict>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        <hi rend="i">America a Prophecy</hi>
-                    </title>
+                    <title>*America a Prophecy*</title>
                 </objtitle>
-                <origination>William Blake <role>author, </role>
-                    <role>inventor, </role>
-                    <role>delineator, </role>
-                    <role>etcher, </role>
-                    <role>printer, </role>
-                    <role>colorist</role>
+                <origination>
+                    William Blake
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator,</role>
+                    <role>etcher</role>     
                 </origination>
-                <origination>Catherine Blake <role>printer</role>
+                <origination>
+                    Catherine Blake
+                    <role>printer.  This copy of *America* was printed after Blake's death by his wife Catherine c. 1829.</role>
+                </origination>
+                <origination>
+                    Catherine Blake
+                    <role>colorist.  Blake's wife Catherine added light gray washes to many of the Objects in this copy.  She also darkened some printed areas with black washes.</role>
                 </origination>
                 <imprint>
                     <publisher>William Blake</publisher>
@@ -122,51 +113,40 @@ This image copyright © 2003 Fitzwilliam Museum.</userestrict>
                 <note/>
             </objdescid>
             <objinfo>
-                <printdate value="1821.A">1821</printdate>
-                <numberobj>18
+                <printdate value="1829.A">c. 1829</printdate>
+                <numberobj>18<note>In Copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed above Bentley Plate 3 from a small, separate copperplate, Plate e, 2.4 x 8.0 cm. In copies A, B, and N-Q, the word "Preludium" is omitted.  In Copy M, "PRELUDIUM" (all capitals) is written by hand.  In this copy Object 10 is in the second of two states, with additional white line work in the lower left margin just above the bottom edge of the plate.  The first state is found only in Copy L.  Object 13 is in the second (final) state, with one tail on the snake, lower left.</note>
                 </numberobj>
-                <objorder>1-18</objorder>
-                <objsize>ranging between 23.8 x 17.4 cm. and 23.1 x 16.3 cm.<note>In copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed from a small, separate copperplate, plate e, 2.4 x 8.0 cm. In copies A, B, and O, the word "Preludium" is omitted.  In copy M, "PRELUDIUM" (all capitals) is written by hand.  Plate 11 is in the second of two states, with additional white line work in the lower left margin and just above the bottom edge of the plate.  The first state is found only in copy L.  Plate 13 is in the second state, with one tail on the snake, lower left.</note>
+                <objorder>Bentley Plates 1-9, 11, 12, 10, 13-18</objorder>
+                <objsize>ranging between 23.8 x 17.4 cm. and 23.1 x 16.3 cm.
                 </objsize>
                 <numberleaves>18</numberleaves>
-                <leafsize>30.3 x 24.3 cm.</leafsize>
-                <medium>Relief etching, with extensive white-line etching on plates 1, 8, 10, 11, and 15 and rich hand coloring on all plates.  Most plates bear at least
-touches of white-line etching/engraving.</medium>
+                <leafsize>32.6 x 23.6 cm.</leafsize>
+                <medium>Relief etching, with extensive white-line etching on Objects 1, 8, 10, 12, and 15, and with light gray and/or black washes added to many Objects.  Most plates bear at least touches of white-line etching/engraving.</medium>
                 <printingstyle>relief</printingstyle>
-                <inkcolor>orange</inkcolor>
-                <support>wove paper</support>
-                <watermark>J Whatman / 1818 and J Whatman / 1820<note>The 1818 watermark appears on plate 7, the 1820 watermark on plates 4, 5, and 8.</note>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>R &#38; T and RUSE &#38; TURNERS 1812<note>The R &#38; T watermark appears on Objects 1, 2, 7, 10, 11, 13, 16, and 17.  The dated watermark appears on Objects 3-6, 8, 9, 12, 14, 15, and 18.</note>
                 </watermark>
                 <etchednumbers>none</etchednumbers>
-                <pennednumbers>1-18<note>The numbers appear upper right within the framing line on each plate.</note>
+                <pennednumbers>1-18<note>The numbers appear upper right above each Object.  These numbers were probably written by Catherine Blake.</note>
                 </pennednumbers>
-                <framelines>one</framelines>
-                <binding>disbound<note>Formerly bound in vellum with <hi rend="i">Europe</hi> copy K.</note>
-                </binding>
+                <framelines>none</framelines>
+                <binding>Bound in maroon embossed cloth with *Europe* Copy I.</binding>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>Fitzwilliam Museum</name>
-                <date>1950</date>
+                <name>Auckland Public Library</name>
+                <date>1882</date>
                 <dealer>none</dealer>
-                <price>gift</price>
-                <note>Purchased from Blake by John Linnell, with <hi rend="i">Europe</hi> copy K, for 1 on 8 August 1821; 
-               at Linnell's death in 1882 the book became the property of the Linnell Trust; 
-               sold by the Linnell Trustees at Christie's, 15 March 1918, lot 172, with <hi rend="i">Europe</hi> copy K (£787.10s. to the Carfax Gallery, acting to T. H. Riches); 
-               bequeathed by Riches to the Fitzwilliam Museum in 1935 and received by the Fitzwilliam in 1950.</note>
+                <price>gift or bequest</price>
+                <note>Acquired by the artist James Ferguson (1791-1871) from Catherine Blake, probably in 1829, along with *Europe* copy I and *Visions of the Daughters of Albion* Copy N; acquired c. 1871 with *Europe* Copy I by George Grey (1799-1882) "at the sale of the effects of a deceased artist" (according to a pencil note by Grey written in *America* Copy N, bound with Copy I of *Europe*); the volume given or bequeathed by Grey to the Auckland Public Library in 1882.</note>
             </provenance>
             <repository>
-                <institution>Fitzwilliam Museum</institution>
-                <addressline>Trumpington Street</addressline>
-                <addressline>Cambridge CB2 1RB</addressline>
-                <addressline>United Kingdom</addressline>
-                <addressline>Telephone: 44-1223-332900</addressline>
-                <addressline>Fax: 44-1223-332923</addressline>
-                <addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline>
-                <department>Department of Paintings, Drawings, and Prints</department>
-                <collection>Fitzwilliam Museum</collection>
-                <repositoryid label="Accession number">P.127-1950</repositoryid>
+                <institution>Auckland Public Library</institution>
+                <department>Sir George Grey Special Collections</department>
+                <repositoryid label="Call number">1794 BLAK</repositoryid>
             </repository>
+            
         </source>
         <desc id="america.n.illbk.01" dbi="america.N.P1">
             <objtitle>
@@ -656,7 +636,7 @@ indicates a wind blowing from left to right.</illusobjdesc>
             </objtitle>
             <physdesc desclevel="full">
                 <objnote>
-                    <p>In copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed from a small, separate copperplate, plate e, 2.4 x 8.0 cm. In copies A, B, N, and O, the word "Preludium" is omitted.  In copy M, "PRELUDIUM" (all capitals) is written by hand.</p>
+                    <p>In Copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed above this plate from a small, separate copperplate, Plate e, 2.4 x 8.0 cm. In copies A, B, and N-Q, the word "Preludium" is omitted.  In Copy M, "PRELUDIUM" (all capitals) is written by hand.</p>
                 </objnote>
                 <objsize>23.1 x 16.3 cm.</objsize>
                 <windowsize height="1201" width="848"/>
@@ -900,7 +880,7 @@ right of lines 2 and 6 form loops.  A vine above the middle of line 16 may sugge
                 <vspace extent="1"/>
                 <lg justify="left">
                     <l n="america.n.illbk.03.XX" justify="left">
-                        <note>In copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed from a small, separate copperplate, plate e, 2.4 x 8.0 cm. In copies A, B, N, and O, the word "Preludium" is omitted.  In copy M, "PRELUDIUM" (all capitals) is written by hand.</note>
+                        <note>In Copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed from a small, separate copperplate, Plate e, 2.4 x 8.0 cm. In Copies A, B, N-Q, the word "Preludium" is omitted.  In Copy M, "PRELUDIUM" (all capitals) is written by hand.</note>
                     </l>
                 </lg>
                 <vspace extent="6"/>
@@ -1187,7 +1167,7 @@ la-</l>
             <illusdesc>
                 <illustration type="plate" location="AB">
                     <illusobjdesc>The area above the text bearing the heading ("A /
-PROPHECY," lines 2-3) apparently represents the sky.  Six birds fly on
+PROPHECY," lines 2-3) apparently represents the sky with cloud outlines added in grey wash.  Six birds fly on
 extended wings; three of these seem to be soaring upwards.  Upper
 left, a nude, muscular male also seems to be ascending.  He has
 apparently broken free of the chains that still dangle from his
@@ -1231,6 +1211,11 @@ revolution.</illusobjdesc>
                         <characteristic>chain</characteristic>
                         <illusobjdesc>Chains dangle from the wrists of the ascending figure.</illusobjdesc>
                     </component>
+                    <component type="object" location="A">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>Cloud outlines have been added in gray wash.</illusobjdesc>
+                    </component>
+                    
                     <component type="animal" location="A">
                         <characteristic>bird</characteristic>
                         <characteristic>flying</characteristic>
@@ -2419,7 +2404,7 @@ form?</l>
             </objtitle>
             <physdesc desclevel="brief">
                 <objnote>
-                    <p>Plate 10 is in the second of two states, with additional white line work in the lower left margin and just above the bottom edge of the plate.  The first state is found only in copy L.</p>
+                    <p>Object 10 is in the second of two states, with additional white line work in the lower left margin just above the bottom edge of the plate.  The first state is found only in copy L.</p>
                 </objnote>
                 <objsize>23.4 x 16.9 cm.</objsize>
                 <windowsize height="1217" width="879"/>
@@ -2829,7 +2814,7 @@ head like gold.</l>
             </objtitle>
             <physdesc desclevel="full">
                 <objnote>
-                    <p>The plate is in the second state of two, with one tail on the snake,
+                    <p>Object 13 is in the second state of two, with one tail on the snake,
 lower left.</p>
                 </objnote>
                 <objsize>23.7 x 17.2 cm.</objsize>
@@ -4591,7 +4576,6 @@ appears</l>
                 </objid>
             </objtitle>
             <physdesc desclevel="full">
-                <objnote/>
                 <objsize>23.8 x 17.1 cm.</objsize>
                 <windowsize height="1238" width="889"/>
             </physdesc>
