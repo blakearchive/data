@@ -1,11 +1,10 @@
-<!DOCTYPE bad PUBLIC "-//University of North Carolina at Chapel Hill::Carolina Digital Library and Archives//DTD bad.dtd (Blake Archive Description) 2005//EN//XML" "http://www.blakearchive.org/blake/bad.dtd">
-<bad id="america.n" type="illbk" work="America a Prophecy" copy="N" copyid="N" institution="fitzwilliam" catalog="bentley" catid="N" hidden="false">
+<bad id="america.n" type="illbk" work="America a Prophecy" copy="N" copyid="N" institution="auckland" catalog="bentley" catid="N" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
                 <title reg="America a Prophecy">
                     <main>America a Prophecy</main>
-                    <copy> copy N</copy>
+                    <copy> Copy N</copy>
 : electronic edition
 </title>
                 <principal>
@@ -13,50 +12,35 @@
                     <name>Morris Eaves, </name>University of Rochester;
 <name>Robert Essick, </name>University of California, Riverside; and
 <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill</principal>
-                <respstmt>
-                    <resp>Technical Editor: </resp>
-                    <name>Andrea Laue</name>
-                    <resp>Programmer/Analysts: </resp>
-                    <name>Robert Bingler</name>
-                    <resp>Project Manager: </resp>
-                    <name>Justin Van Kleeck</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Christopher N. Jackson, </name>
-                    <name>Kari Kraus, </name>
-                    <name>Gerald Miller, </name>
-                    <name>Wayne C. Ripley, </name>
-                    <name>Sarah Trippensee</name>
-                </respstmt>
-                <sponsor>The Institute for Advanced Technology in the Humanities, the
-Library of Congress, and the University of North Carolina at Chapel Hill
-with a software grant from Inso Corporation and hardware and software
-grants from Sun Microsystems</sponsor>
-                <funder>National Endowment for the Humanities, 2000-02</funder>
-                <funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder>
-                <funder>Getty Grant Program, 1995-98</funder>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill,
+                    and the University of Rochester</sponsor>
+                <funder/>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
             <extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 240KB; 36 JPEG (ISO/IEC
 10918) files ranging in size from 247KB to 2109KB</extent>
-            <publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH<date>March 2001</date>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>August 2021</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            <updatestmt>
-            The William Blake Archive www.blakearchive.org is pleased to announce the publication of new electronic editions of <hi rend="i">America a Prophecy</hi> copy O and <hi rend="i">Europe a Prophecy</hi> copy K.<lb/>
+<updatestmt> 
+The William Blake Archive is pleased to announce the publication of digital editions of three posthumous copies of <hi rend="i">America a Prophecy</hi>. Copies N and Q were printed by Catherine Blake, c. 1829, and are in the Auckland Public Library and Princeton University Library respectively. Copy P, in the Fitzwilliam Museum, was printed c. 1832 by Frederick Tatham, one of a group of young artists who befriended Blake at the end of his life, calling him the “Interpreter” and themselves the “Ancients.” Tatham cared for Catherine Blake after Blake died in August 1827 and obtained all of Blake’s effects, including the copperplates of Blake's illuminated books, after Catherine died in October 1831. The posthumous copies join <hi rend="i">America</hi> Copies A, B, E, F, M, and O, already in the Archive, and <hi rend="i">Jerusalem</hi> Copy I, a posthumous copy printed by Tatham c. 1832.<lb/>
                 <lb/>
-                <hi rend="i">America</hi> copy O and <hi rend="i">Europe</hi> copy K are both in the Fitzwilliam Museum, Cambridge, England. They join copies of <hi rend="i">America</hi> and <hi rend="i">Europe</hi> in the Archive from other printings: <hi rend="i">America</hi> copies E (1793) and A (1795), and <hi rend="i">Europe</hi> copies B (1794) and E (1794). Copy M of <hi rend="i">America</hi>, from a c. 1807 printing, and copy H of <hi rend="i">Europe</hi> (a unique monochrome copy) from a 1795 printing, are forthcoming.<lb/>
+Posthumous copies of illuminated books (of <hi rend="i">Songs</hi>, <hi rend="i">America</hi>, <hi rend="i">Europe</hi>, and <hi rend="i">Jerusalem</hi>) are part of Blake's reception history in the nineteenth century. They are also important bibliographically because they accurately reveal the copperplate designs and texts, usually more so than lifetime impressions, which were often printed without plate borders and finished in watercolors, with texts touched up and even altered in pen and ink.<lb/>
                 <lb/>
-            The electronic editions have newly edited SGML-encoded texts and new images scanned and color-corrected from first-generation 4x5" transparencies; text and images are each fully searchable and supported by the Inote and ImageSizer applications described in our previous updates.<lb/>
+<hi rend="i">America a Prophecy</hi>, dated 1793, was the first of Blake's "Continental Prophecies," followed by <hi rend="i">Europe a Prophecy</hi> in 1794, executed in the same style and size but usually colored, and, in 1795, "Africa" and "Asia," two sections making up <hi rend="i">The Song of Los</hi>. Fine and important examples of all three books are in the Archive.<lb/>
                 <lb/>
-            With the publication of these two titles, the Archive now contains fully searchable and scalable electronic editions of 43 copies of 18 of Blake's 19 illuminated books in the context of full bibliographic information about each work, careful diplomatic transcriptions of all texts, detailed descriptions of all images, and extensive bibliographies. They also join our searchable SGML-encoded electronic edition of David V. Erdman's <hi rend="i">Complete Poetry and Prose of William Blake</hi>. With the forthcoming publication of <hi rend="i">Jerusalem</hi> copy E, the Archive will contain at least one copy of each of Blake's works in illuminated printing and multiple copies of most.<lb/>
+Blake described <hi rend="i">America</hi> as folio in the 1793 Prospectus and, along with <hi rend="i">Europe</hi>, in his 1818 letter to Dawson Turner. All lifetime copies were folio in size—approximately 37 x 27 cm., which are quarters of Imperial sheets—except <hi rend="i">America</hi> Copy O and <hi rend="i">Europe</hi> Copy K, the last copies that Blake printed, in 1821 for John Linnell, which are quarto in size, at 30 x 24 cm. Catherine Blake appears to have used these late copies as her model, printing <hi rend="i">America</hi> Copy Q and <hi rend="i">Europe</hi> Copy L as matching quartos, at 29.5 x 22.1 cm., on Ruse and Turner laid paper dated 1812. She printed <hi rend="i">America</hi> Copy N and <hi rend="i">Europe</hi> Copy I as matching quartos, at 32.6 x 23.6 cm., on T. Stains wove paper dated 1813. Tatham also paired the two books, printing <hi rend="i">America</hi> Copy P with <hi rend="i">Europe</hi> Copy M as quartos, at 28 x 22.8 cm., on J. Whatman 1832 wove paper.<lb/>
                 <lb/>
-                <hi rend="i">America</hi> copy O is one of fourteen extant copies of <hi rend="i">America</hi> printed by Blake, one of four colored copies, one of two with the full text of plate 4, one of four without plate e ["Preludium"], and the only copy printed after c. 1807. <hi rend="i">Europe</hi> copy K is one of nine extant copies printed by Blake, one of only two copies with plate 3 ["Five windows light the cavern'd Man"], and the only copy printed after 1795. They are extraordinarily beautiful copies, with each impression bordered by one thin line drawn in red ink a few centimeters outside the edge of the image, setting off each page like a miniature painting.<lb/>
+<hi rend="i">America</hi> comprises eighteen major text and design plates and a small plate (e) bearing the word "Preludium" and printed above the design on Plate 3. Ten of the fourteen lifetime extant copies of <hi rend="i">America</hi> were printed in 1793 on both sides of leaves in bluish and greenish black inks and left uncolored. The last five lines of Plate 4 were masked and did not print, and Plate 13 was printed in its first of two states. She and Tatham printed Plate 4 unmasked, Plates 11 and 13 in their second (final) states, and did not print Plate e. They both printed on one side of the leaf and left the impressions uncolored, but the similarities end there.<lb/>
                 <lb/>
-            Produced together in 1821 for the painter John Linnell, Blake's young patron, they were printed in orangish-red ink on one side of J. Whatman paper dated 1818, 1819, and 1820, numbered 1-18, and finished in gold, watercolors, and pen and ink in the same style Blake used in c. 1818 and 1821-22, and 1825-27. Works from these sessions include <hi rend="i">The Book of Thel</hi> copy O, <hi rend="i">Urizen</hi> copy G, <hi rend="i">Songs of Innocence and of Experience</hi> copies Z and AA, and <hi rend="i">The Marriage of Heaven and Hell</hi> copy I, which are in the Archive, and <hi rend="i">Jerusalem</hi> copy E, <hi rend="i">Visions of the Daughters of Albion</hi> copy P, <hi rend="i">Milton</hi> copy D, and <hi rend="i">The Marriage of Heaven and Hell</hi> copy G, each of which will soon enter the Archive.
-         </updatestmt>
+Catherine Blake’s impressions are closer in appearance and feel to Blake’s impressions than Tatham’s. She printed in black intaglio ink on dampened paper, resulting in reticulated surfaces and designs shrinking slightly smaller than the plates upon drying. Moreover, she touched up impressions in light washes and numbered them in the top right corner. These features are characteristic of Blake’s practice and differentiate her books from <hi rend="i">Jerusalem</hi> Copies H, I, and J; <hi rend="i">America</hi> Copy P; <hi rend="i">Europe</hi> Copy M; <hi rend="i">Songs</hi> Copies a, b, c, d, e, g, h, i, j, and p, and loose impressions; and <hi rend="i">Innocence</hi> Copy T—that is, from all the books printed on J. Whatman 1831 and 1832 papers by Tatham. He printed on dry paper in relief ink, usually sepia (a brownish red), a hue never used by Blake, and occasionally black, which transferred without reticulating. He did not touch up impressions or number them. Catherine Blake no doubt knew how Blake printed illuminated books from having assisted him in their production.<lb/>
+                <lb/>
+<hi rend="i">America</hi> Copy Q, though initially uncolored, is now colored because Walter T. Spencer, who acquired it and <hi rend="i">Europe</hi> Copy L between 1913 and 1918, had them colored before selling them as Blake’s printing and coloring. <hi rend="i">America</hi> Copy Q’s coloring was modeled on William Muir’s 1887 lithographic facsimile of <hi rend="i">America</hi> Copy A and went undetected as posthumous until it was exhibited in Philadelphia in 1939. The status of the coloring was confirmed by Geoffrey Keynes and Edwin Wolf in their 1953 <hi rend="i">Census</hi>. They also confirmed that <hi rend="i">Europe</hi> Copy L was posthumously colored, but they did not report posthumous printing for either book. That possibility was first suggested by G. E. Bentley, Jr., in his 1977 <hi rend="i">Blake Books</hi> and, for <hi rend="i">Europe</hi> Copy L, confirmed by Robert N. Essick in his 1985 catalogue of the Huntington collection. The identity of Catherine Blake as printer of <hi rend="i">America</hi> Copy Q as well as <hi rend="i">Europe</hi> Copy L is demonstrated in Joseph Viscomi’s “Posthumous Blake: The Roles of Catherine Blake, C. H. Tatham, and Frederick Tatham in Blake’s Afterlife” (<hi rend="i">Blake/An Illustrated Quarterly</hi>, vol. 53. no. 3, Fall 2019).<lb/>
+                <lb/>
+As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.</updatestmt>            
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2003</date> by Morris Eaves, Robert N. Essick,
+        <userestrict>Copyright © <date>2021</date> by Morris Eaves, Robert N. Essick,
 and Joseph Viscomi, all rights reserved. Items in the Archive may be
 shared in accordance with the Fair Use provisions of U.S. copyright law.
 Redistribution or republication on other terms, in any medium, requires
@@ -65,33 +49,127 @@ publisher.
 Permission to reproduce the graphic images in this archive has been
 granted by the owners of the originals for this publication only.<lb/>
             <lb/>
-This image copyright © 2003 Fitzwilliam Museum.</userestrict>
+This image copyright © 2021 Auckland Public Library.</userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
             <changestmt>
-                <change>This work has been revised in order to meet the Archive's more rigorous standards (established summer 2002) for textual transcriptions and illustration descriptions.</change>
+                <change>Final proofing and publication</change>
+                <date>August 2021</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name> University of Rochester; <name>Robert Essick,</name>
+                    University of California, Riverside; and <name>Joseph Viscomi,</name> University
+                    of North Carolina at Chapel Hill    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Oishani Sengupta</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf, </name>
+                    <name>Alex Zawacki</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Ben Ami, </name>
+		    <name>Bailey Fernandez, </name>
+                    <name>Ani Govjian, </name>
+                    <name>Meaghan Green, </name>
+                    <name>Mary Learner, </name>
+		    <name>Anna Merz, </name>
+		    <name>Jared Powell, </name>
+                    <name>Rob Rich, </name>
+                    <name>Madeline Rose, </name>
+		    <name>Jake Ruta, </name>
+		    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Marcie Woehl </name>
+		    <name>Ada Wofford, </name>
+                </respstmt>
             </changestmt>
             <changestmt>
-                <change>Conversion to XML and Blake Archive Description DTD 2004</change>
-                <date>2004</date>
+                <change>BAD created</change>
+                <date>January 2018</date>
                 <respstmt>
+                         <resp>Editors:</resp>
+                         <name>Morris Eaves,</name> University of Rochester; <name>Robert
+                              Essick,</name> University of California, Riverside; and <name>Joseph
+                              Viscomi,</name> University of North Carolina at Chapel Hill
+                              <resp>Assistant Editor:</resp>
+                         <name>Michael Fox</name>
+                         <resp>Managing Editor:</resp>
+                         <name>Joseph Fletcher</name>
+                         <resp>Assistant Project Manager:</resp>
+                         <name>Grant Glass</name>
+                         <resp>Project Coordinator, University of Rochester:</resp>
+                         <name>Eric Loy</name>
+                         <resp>Consultants on Special Projects:</resp>
+                         <name>Ashley Reed,</name>
+                         <name>Nikolaus Wasmoen,</name>
+                         <name>Laura Whitebell</name>
+                         <resp>Bibliographer:</resp>
+                         <name>Mark Crosby</name>
+                         <resp>Project Assistants:</resp>
+                         <name>Katherine Calvin,</name>
+                         <name>Erin Francisco,</name>
+                         <name>Ani Govjian,</name>
+                         <name>Alison Harper,</name>
+                         <name>Rachael Isom,</name>
+                         <name>Joey Kingsley,</name>
+                         <name>Mary Learner,</name>
+                         <name>Rob Rich,</name>
+                         <name>Anneke Schwob,</name>
+                         <name>Oishani Sengupta,</name>
+                         <name>Elizabeth Shand,</name>
+                         <name>Matthew Skwiat,</name>
+                         <name>Jewell Thomas,</name>
+                         <name>Emily Tronson,</name>
+                         <name>Lisa Vandenbossche,</name>
+                         <name>Alex Zawacki</name>
+                    </respstmt>
+            </changestmt>
+	        <changestmt>
+                <change>Images acquired</change>
+                <date>August 2015</date>
+               <respstmt>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-<resp>Technical Editor: </resp>
-                    <name>Andrea Laue</name>
-                    <resp>Conversion: </resp>
-                    <name>Aziza Technology Associates</name>
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
-                    <name>Justin Van Kleeck</name>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Rachel Lee,</name>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
                     <resp>Project Assistants: </resp>
-                    <name>Christopher N. Jackson, </name>
-                    <name>Kari Kraus, </name>
-                    <name>Wesley N. Raabe, </name>
-                    <name>Wayne C. Ripley, </name>
-                    <name>William Shaw</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Jarrod Ingles,</name>
+                    <name>Rachael Isom,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Mary Learner,</name>
+                    <name>Eric Loy,</name>
+                    <name>Adam McCune,</name>
+                    <name>Scott Robinson,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
                 </respstmt>
             </changestmt>
         </revisiondesc>
@@ -100,18 +178,22 @@ This image copyright © 2003 Fitzwilliam Museum.</userestrict>
         <source>
             <objdescid>
                 <objtitle>
-                    <title>
-                        <hi rend="i">America a Prophecy</hi>
-                    </title>
+                    <title>*America a Prophecy*</title>
                 </objtitle>
-                <origination>William Blake <role>author, </role>
-                    <role>inventor, </role>
-                    <role>delineator, </role>
-                    <role>etcher, </role>
-                    <role>printer, </role>
-                    <role>colorist</role>
+                <origination>
+                    William Blake
+                    <role>author,</role>
+                    <role>inventor,</role>
+                    <role>delineator,</role>
+                    <role>etcher</role>     
                 </origination>
-                <origination>Catherine Blake <role>printer</role>
+                <origination>
+                    Catherine Blake
+                    <role>printer.  This copy of *America* was printed after Blake's death by his wife Catherine c. 1829.</role>
+                </origination>
+                <origination>
+                    Catherine Blake
+                    <role>colorist.  Blake's wife Catherine added light gray washes to many of the Objects in this copy.  She also darkened some printed areas with black washes.</role>
                 </origination>
                 <imprint>
                     <publisher>William Blake</publisher>
@@ -122,57 +204,46 @@ This image copyright © 2003 Fitzwilliam Museum.</userestrict>
                 <note/>
             </objdescid>
             <objinfo>
-                <printdate value="1821.A">1821</printdate>
-                <numberobj>18
+                <printdate value="1829.A">c. 1829</printdate>
+                <numberobj>18<note>In Copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed above Bentley Plate 3 from a small, separate copperplate, Plate e, 2.4 x 8.0 cm. In Copies A, B, and N-Q, the word "Preludium" is omitted.  In Copy M, "PRELUDIUM" (all capitals) is written by hand.  In this copy Object 10 is in the second of two states, with additional white line work in the lower left margin just above the bottom edge of the plate.  The first state is found only in Copy L.  Object 13 is in the second (final) state, with one tail on the snake, lower left.</note>
                 </numberobj>
-                <objorder>1-18</objorder>
-                <objsize>ranging between 23.8 x 17.4 cm. and 23.1 x 16.3 cm.<note>In copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed from a small, separate copperplate, plate e, 2.4 x 8.0 cm. In copies A, B, and O, the word "Preludium" is omitted.  In copy M, "PRELUDIUM" (all capitals) is written by hand.  Plate 11 is in the second of two states, with additional white line work in the lower left margin and just above the bottom edge of the plate.  The first state is found only in copy L.  Plate 13 is in the second state, with one tail on the snake, lower left.</note>
+                <objorder>Bentley Plates 1-9, 11, 12, 10, 13-18</objorder>
+                <objsize>ranging between 23.8 x 17.4 cm. and 23.1 x 16.3 cm.
                 </objsize>
                 <numberleaves>18</numberleaves>
-                <leafsize>30.3 x 24.3 cm.</leafsize>
-                <medium>Relief etching, with extensive white-line etching on plates 1, 8, 10, 11, and 15 and rich hand coloring on all plates.  Most plates bear at least
-touches of white-line etching/engraving.</medium>
+                <leafsize>32.6 x 23.6 cm.</leafsize>
+                <medium>Relief etching, with extensive white-line etching on Objects 1, 8, 10, 12, and 15, and with light gray and/or black washes added to many Objects.  Most plates bear at least touches of white-line etching/engraving.</medium>
                 <printingstyle>relief</printingstyle>
-                <inkcolor>orange</inkcolor>
-                <support>wove paper</support>
-                <watermark>J Whatman / 1818 and J Whatman / 1820<note>The 1818 watermark appears on plate 7, the 1820 watermark on plates 4, 5, and 8.</note>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>R &#38; T and RUSE &#38; TURNERS 1812<note>The R &#38; T watermark appears on Objects 1, 2, 7, 10, 11, 13, 16, and 17.  The dated watermark appears on Objects 3-6, 8, 9, 12, 14, 15, and 18.</note>
                 </watermark>
                 <etchednumbers>none</etchednumbers>
-                <pennednumbers>1-18<note>The numbers appear upper right within the framing line on each plate.</note>
+                <pennednumbers>1-18<note>The numbers appear upper right above each Object.  These numbers were probably written by Catherine Blake.</note>
                 </pennednumbers>
-                <framelines>one</framelines>
-                <binding>disbound<note>Formerly bound in vellum with <hi rend="i">Europe</hi> copy K.</note>
-                </binding>
+                <framelines>none</framelines>
+                <binding>Bound in maroon embossed cloth with *Europe* Copy I.</binding>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>Fitzwilliam Museum</name>
-                <date>1950</date>
+                <name>Auckland Public Library</name>
+                <date>1882</date>
                 <dealer>none</dealer>
-                <price>gift</price>
-                <note>Purchased from Blake by John Linnell, with <hi rend="i">Europe</hi> copy K, for 1 on 8 August 1821; 
-               at Linnell's death in 1882 the book became the property of the Linnell Trust; 
-               sold by the Linnell Trustees at Christie's, 15 March 1918, lot 172, with <hi rend="i">Europe</hi> copy K (£787.10s. to the Carfax Gallery, acting to T. H. Riches); 
-               bequeathed by Riches to the Fitzwilliam Museum in 1935 and received by the Fitzwilliam in 1950.</note>
+                <price>gift or bequest</price>
+                <note>Acquired by the artist James Ferguson (1791-1871) from Catherine Blake, probably in 1829, along with *Europe* Copy I and *Visions of the Daughters of Albion* Copy N; acquired c. 1871 with *Europe* Copy I by George Grey (1799-1882) "at the sale of the effects of a deceased artist" (according to a pencil note by Grey written in *America* Copy N, bound with Copy I of *Europe*); the volume given or bequeathed by Grey to the Auckland Public Library in 1882.</note>
             </provenance>
             <repository>
-                <institution>Fitzwilliam Museum</institution>
-                <addressline>Trumpington Street</addressline>
-                <addressline>Cambridge CB2 1RB</addressline>
-                <addressline>United Kingdom</addressline>
-                <addressline>Telephone: 44-1223-332900</addressline>
-                <addressline>Fax: 44-1223-332923</addressline>
-                <addressline>URL: http://www.fitzmuseum.cam.ac.uk/</addressline>
-                <department>Department of Paintings, Drawings, and Prints</department>
-                <collection>Fitzwilliam Museum</collection>
-                <repositoryid label="Accession number">P.127-1950</repositoryid>
+                <institution>Auckland Public Library</institution>
+                <department>Sir George Grey Special Collections</department>
+                <repositoryid label="Call number">1794 BLAK</repositoryid>
             </repository>
+            
         </source>
         <desc id="america.n.illbk.01" dbi="america.N.P1">
             <objtitle>
                 <title type="transcribed">America a Prophecy</title>,
 <objid>
-                    <objnumber code="A1">object 1 </objnumber>
+                    <objnumber code="A1">Object 1 </objnumber>
                     <objcode code="B1">(Bentley 1, </objcode>
                     <objcode code="Ei">Erdman i, </objcode>
                     <objcode code="Ki">Keynes i)</objcode>
@@ -648,16 +719,14 @@ indicates a wind blowing from left to right.</illusobjdesc>
         <desc id="america.n.illbk.03" dbi="america.N.P3">
             <objtitle>,
 <objid>
-                    <objnumber code="A3">object 3 </objnumber>
+                    <objnumber code="A3">Object 3 </objnumber>
                     <objcode code="B3">(Bentley 3, </objcode>
                     <objcode code="E1">Erdman 1, </objcode>
                     <objcode code="K1">Keynes 1)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="full">
-                <objnote>
-                    <p>In copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed from a small, separate copperplate, plate e, 2.4 x 8.0 cm. In copies A, B, N, and O, the word "Preludium" is omitted.  In copy M, "PRELUDIUM" (all capitals) is written by hand.</p>
-                </objnote>
+                
                 <objsize>23.1 x 16.3 cm.</objsize>
                 <windowsize height="1201" width="848"/>
             </physdesc>
@@ -900,7 +969,7 @@ right of lines 2 and 6 form loops.  A vine above the middle of line 16 may sugge
                 <vspace extent="1"/>
                 <lg justify="left">
                     <l n="america.n.illbk.03.XX" justify="left">
-                        <note>In copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed from a small, separate copperplate, plate e, 2.4 x 8.0 cm. In copies A, B, N, and O, the word "Preludium" is omitted.  In copy M, "PRELUDIUM" (all capitals) is written by hand.</note>
+                        <note>In Copies C-I, K, L, and R, the word "Preludium" (not "PRELUDIUM," pace Bentley page 91 and Erdman page 802) is printed from a small, separate copperplate, Plate e, 2.4 x 8.0 cm. In Copies A, B, N-Q, the word "Preludium" is omitted.  In Copy M, "PRELUDIUM" (all capitals) is written by hand.</note>
                     </l>
                 </lg>
                 <vspace extent="6"/>
@@ -953,7 +1022,7 @@ my sight.</l>
         <desc id="america.n.illbk.04" dbi="america.N.P4">
             <objtitle>,
 <objid>
-                    <objnumber code="A4">object 4 </objnumber>
+                    <objnumber code="A4">Object 4 </objnumber>
                     <objcode code="B4">(Bentley 4, </objcode>
                     <objcode code="E2">Erdman 2, </objcode>
                     <objcode code="K2">Keynes 2)</objcode>
@@ -961,7 +1030,7 @@ my sight.</l>
             </objtitle>
             <physdesc desclevel="full">
                 <objnote>
-                    <p>Lines 19-23 appear only in copies A, N-Q.  In copies B-F, H-M, R, and a, these five lines were deleted by being masked during printing; in copy G, they were erased after printing (Bentley page 94).</p>
+                    <p>Lines 19-23 appear only in Copies A, N-Q.  In Copies B-F, H-M, R, and a, these five lines were deleted by being masked during printing; in Copy G, they were erased after printing (Bentley page 94).</p>
                 </objnote>
                 <objsize>23.8 x 16.6 cm.</objsize>
                 <windowsize height="1238" width="863"/>
@@ -1158,7 +1227,7 @@ foretold.</l>
                 </lg>
                 <vspace extent="6"/>
                 <lg type="verse" justify="left">
-                    <l n="america.n.illbk.04.19" justify="left" indent="10">The stern Bard ceas'd, asham'd of his own song; enrag'd he swung<note>Lines 19-23 appear only in copies A, N-Q.  In copies F-F, H-M, R, and a, these five lines were deleted by being masked during printing; in copy G, the were erased after printing (Bentley page 94).</note>
+                    <l n="america.n.illbk.04.19" justify="left" indent="10">The stern Bard ceas'd, asham'd of his own song; enrag'd he swung<note>Lines 19-23 appear only in Copies A, N-Q.  In Copies F-F, H-M, R, and a, these five lines were deleted by being masked during printing; in Copy G, they were erased after printing (Bentley page 94).</note>
                     </l>
                     <l n="america.n.illbk.04.20" justify="left" indent="10">His harp aloft sounding, then dash'd its shining frame
 against</l>
@@ -1174,7 +1243,7 @@ la-</l>
         <desc id="america.n.illbk.05" dbi="america.N.P5">
             <objtitle>,
 <objid>
-                    <objnumber code="A5">object 5 </objnumber>
+                    <objnumber code="A5">Object 5 </objnumber>
                     <objcode code="B5">(Bentley 5, </objcode>
                     <objcode code="E3">Erdman 3, </objcode>
                     <objcode code="K3">Keynes 3)</objcode>
@@ -1187,7 +1256,7 @@ la-</l>
             <illusdesc>
                 <illustration type="plate" location="AB">
                     <illusobjdesc>The area above the text bearing the heading ("A /
-PROPHECY," lines 2-3) apparently represents the sky.  Six birds fly on
+PROPHECY," lines 2-3) apparently represents the sky with cloud outlines added in grey wash.  Six birds fly on
 extended wings; three of these seem to be soaring upwards.  Upper
 left, a nude, muscular male also seems to be ascending.  He has
 apparently broken free of the chains that still dangle from his
@@ -1231,6 +1300,11 @@ revolution.</illusobjdesc>
                         <characteristic>chain</characteristic>
                         <illusobjdesc>Chains dangle from the wrists of the ascending figure.</illusobjdesc>
                     </component>
+                    <component type="object" location="A">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>Cloud outlines have been added in gray wash.</illusobjdesc>
+                    </component>
+                    
                     <component type="animal" location="A">
                         <characteristic>bird</characteristic>
                         <characteristic>flying</characteristic>
@@ -1517,7 +1591,7 @@ glowing eyes,</l>
         <desc id="america.n.illbk.06" dbi="america.N.P6">
             <objtitle>,
 <objid>
-                    <objnumber code="A6">object 6 </objnumber>
+                    <objnumber code="A6">Object 6 </objnumber>
                     <objcode code="B6">(Bentley 6, </objcode>
                     <objcode code="E4">Erdman 4, </objcode>
                     <objcode code="K4">Keynes 4)</objcode>
@@ -1753,7 +1827,7 @@ at the__</l>
         <desc id="america.n.illbk.07" dbi="america.N.P7">
             <objtitle>,
 <objid>
-                    <objnumber code="A7">object 7 </objnumber>
+                    <objnumber code="A7">Object 7 </objnumber>
                     <objcode code="B7">(Bentley 7, </objcode>
                     <objcode code="E5">Erdman 5, </objcode>
                     <objcode code="K5">Keynes 5)</objcode>
@@ -2025,7 +2099,7 @@ forth, and shook the</l>
         <desc id="america.n.illbk.08" dbi="america.N.P8">
             <objtitle>,
 <objid>
-                    <objnumber code="A8">object 8 </objnumber>
+                    <objnumber code="A8">Object 8 </objnumber>
                     <objcode code="B8">(Bentley 8, </objcode>
                     <objcode code="E6">Erdman 6, </objcode>
                     <objcode code="K6">Keynes 6)</objcode>
@@ -2241,7 +2315,7 @@ cease.</l>
         <desc id="america.n.illbk.09" dbi="america.N.P9">
             <objtitle>,
 <objid>
-                    <objnumber code="A9">object 9 </objnumber>
+                    <objnumber code="A9">Object 9 </objnumber>
                     <objcode code="B9">(Bentley 9, </objcode>
                     <objcode code="E7">Erdman 7, </objcode>
                     <objcode code="K7">Keynes 7)</objcode>
@@ -2411,7 +2485,7 @@ form?</l>
         <desc id="america.n.illbk.10" dbi="america.N.P10-11">
             <objtitle>,
 <objid>
-                    <objnumber code="A10">object 10 </objnumber>
+                    <objnumber code="A10">Object 10 </objnumber>
                     <objcode code="B11">(Bentley 11, </objcode>
                     <objcode code="E9">Erdman 9, </objcode>
                     <objcode code="K9">Keynes 9)</objcode>
@@ -2419,7 +2493,7 @@ form?</l>
             </objtitle>
             <physdesc desclevel="brief">
                 <objnote>
-                    <p>Plate 10 is in the second of two states, with additional white line work in the lower left margin and just above the bottom edge of the plate.  The first state is found only in copy L.</p>
+                    <p>Object 10 is in the second of two states, with additional white line work in the lower left margin just above the bottom edge of the plate.  The first state is found only in Copy L.</p>
                 </objnote>
                 <objsize>23.4 x 16.9 cm.</objsize>
                 <windowsize height="1217" width="879"/>
@@ -2574,7 +2648,7 @@ his tail!</l>
         <desc id="america.n.illbk.11" dbi="america.N.P11-12">
             <objtitle>,
 <objid>
-                    <objnumber code="A11">object 11 </objnumber>
+                    <objnumber code="A11">Object 11 </objnumber>
                     <objcode code="B12">(Bentley 12, </objcode>
                     <objcode code="E10">Erdman 10, </objcode>
                     <objcode code="K10">Keynes 10)</objcode>
@@ -2692,7 +2766,7 @@ roof.</l>
                <desc id="america.n.illbk.12" dbi="america.N.P12-10">
             <objtitle>,
 <objid>
-                    <objnumber code="A12">object 12 </objnumber>
+                    <objnumber code="A12">Object 12 </objnumber>
                     <objcode code="B10">(Bentley 10, </objcode>
                     <objcode code="E8">Erdman 8, </objcode>
                     <objcode code="K8">Keynes 8)</objcode>
@@ -2821,7 +2895,7 @@ head like gold.</l>
         <desc id="america.n.illbk.13" dbi="america.N.P13">
             <objtitle>,
 <objid>
-                    <objnumber code="A13">object 13 </objnumber>
+                    <objnumber code="A13">Object 13 </objnumber>
                     <objcode code="B13">(Bentley 13, </objcode>
                     <objcode code="E11">Erdman 11, </objcode>
                     <objcode code="K11">Keynes 11)</objcode>
@@ -2829,7 +2903,7 @@ head like gold.</l>
             </objtitle>
             <physdesc desclevel="full">
                 <objnote>
-                    <p>The plate is in the second state of two, with one tail on the snake,
+                    <p>Object 13 is in the second state of two, with one tail on the snake,
 lower left.</p>
                 </objnote>
                 <objsize>23.7 x 17.2 cm.</objsize>
@@ -3136,7 +3210,7 @@ pay.</l>
         <desc id="america.n.illbk.14" dbi="america.N.P14">
             <objtitle>,
 <objid>
-                    <objnumber code="A14">object 14 </objnumber>
+                    <objnumber code="A14">Object 14 </objnumber>
                     <objcode code="B14">(Bentley 14, </objcode>
                     <objcode code="E12">Erdman 12, </objcode>
                     <objcode code="K12">Keynes 12)</objcode>
@@ -3298,7 +3372,7 @@ South</l>
         <desc id="america.n.illbk.15" dbi="america.N.P15">
             <objtitle>,
 <objid>
-                    <objnumber code="A15">object 15 </objnumber>
+                    <objnumber code="A15">Object 15 </objnumber>
                     <objcode code="B15">(Bentley 15, </objcode>
                     <objcode code="E13">Erdman 13, </objcode>
                     <objcode code="K13">Keynes 13)</objcode>
@@ -3568,7 +3642,7 @@ eastern sky.</l>
         <desc id="america.n.illbk.16" dbi="america.N.P16">
             <objtitle>,
 <objid>
-                    <objnumber code="A16">object 16 </objnumber>
+                    <objnumber code="A16">Object 16 </objnumber>
                     <objcode code="B16">(Bentley 16, </objcode>
                     <objcode code="E14">Erdman 14, </objcode>
                     <objcode code="K14">Keynes 14)</objcode>
@@ -3874,7 +3948,7 @@ then rolld they back </l>
         <desc id="america.n.illbk.17" dbi="america.N.P17">
             <objtitle>,
 <objid>
-                    <objnumber code="A17">object 17 </objnumber>
+                    <objnumber code="A17">Object 17 </objnumber>
                     <objcode code="B17">(Bentley 17, </objcode>
                     <objcode code="E15">Erdman 15, </objcode>
                     <objcode code="K15">Keynes 15)</objcode>
@@ -4584,14 +4658,13 @@ appears</l>
         <desc id="america.n.illbk.18" dbi="america.N.P18">
             <objtitle>,
 <objid>
-                    <objnumber code="A18">object 18 </objnumber>
+                    <objnumber code="A18">Object 18 </objnumber>
                     <objcode code="B18">(Bentley 18, </objcode>
                     <objcode code="E16">Erdman 16, </objcode>
                     <objcode code="K16">Keynes 16)</objcode>
                 </objid>
             </objtitle>
             <physdesc desclevel="full">
-                <objnote/>
                 <objsize>23.8 x 17.1 cm.</objsize>
                 <windowsize height="1238" width="889"/>
             </physdesc>
@@ -4953,7 +5026,7 @@ hinges melted</l>
                     <l n="america.n.illbk.18.24" justify="left" indent="5">And the fierce flames burnt round the
 heavens, &amp; round the abodes of</l>
                     <l n="america.n.illbk.18.25" justify="left" indent="62">men</l>
-                    <l n="america.e.illbk.18.25" justify="left" indent="27">FINIS
+                    <l n="america.n.illbk.18.26" justify="left" indent="27">FINIS
 					<note>The word "FINIS" was etched in white line in the tail of the serpent at the bottom of the plate. In some other copies of *America*, such as Copies O and M, the word has been obscured by color.</note>
 					</l>
                 </lg>
