@@ -1,17 +1,394 @@
-<bad id="bb208.1" type="ms" work="Blake's Autograph in the Album of William Upcott" copy="1" copyid="1" institution="nypl" catalog="bentley" catid="203" hidden="false"><header><filedesc><titlestmt><title reg="Blake's Autograph in the Album of William Upcott"><main>Blake's Autograph in the Album of William Upcott</main> : electronic edition </title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-               </name>University of California, Riverside; and <name>Joseph Viscomi,
-               </name>University of North Carolina at Chapel Hill</principal><respstmt> </respstmt><sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and
-               the University of Rochester</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent/><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-               Archives<date>2013</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><notesstmt/></filedesc><userestrict>Copyright © <date>2013</date> by Morris Eaves, Robert N. Essick, and Joseph
+
+<bad id="bb208.1" type="ms" work="Blake's Autograph in the Album of William Upcott" copy="1" copyid="1" institution="nypl" catalog="bentley" catid="203" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Blake's Autograph in the Album of William Upcott">
+                    <main>Blake's Autograph in the Album of William Upcott</main>
+                    : electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester; 
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and 
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                </principal>
+                <respstmt> </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and
+               the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 33 KB; 2 JPEG (ISO/IEC 10918) files approx. 1.0MB and 1.7MB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>February 2022</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>
+                The William Blake Archive is pleased to announce the publication of a digital edition of the manuscript of 
+                <hi rend="i">Blake’s Autograph in the Album of William Upcott</hi> on 16 January 1826.
+                <lb/>
+                <lb/>
+                Upcott (1779-1845) was the illegitimate son of Blake’s friend and patron the miniaturist Ozias Humphry (1742-1810), who bequeathed to Upcott a number of Blake’s works. 
+                Upcott was a bookseller, librarian, bibliographer, editor, and inveterate collector, but he was perhaps best known for what he called his “autographic mania” (qtd. in Freeman, “Upcott, William (1779–1845),” <hi rend ="i">ODNB</hi> [http://www.oxforddnb.com, accessed 18 Jan 2014]), which he exercised in his “autograph cottage” in Islington—where he was living when Blake left his autograph in Upcott’s album either during a visit just a few months before Blake died, or, more probably, off the premises as the album circulated among the authors and artists whose signatures Upcott sought to acquire.
+                The album may have been at Samuel Leigh’s bookshop in the Strand, where Blake (and others) may have signed it: “On 16 Jan. 1826 he inscribed William Upcott’s autograph album ‘by the desire of Mr Leigh’” (Bentley, <hi rend ="i">Records</hi>, 369n).
+                <lb/>
+                <lb/>
+                Upcott seems to have been a colorful character who earned the title Emperor of Autographs—he owned at least 40,000 according to his obituary. 
+                And he owned illuminated works that his father bought directly from Blake: 
+                <hi rend="i">Songs of Innocence and of Experience</hi> Copy H (containing only <hi rend="i">Experience</hi>), 
+                <hi rend="i">America a Prophecy</hi> Copy H, 
+                <hi rend="i">Europe a Prophecy</hi> Copy D, 
+                <hi rend="i">A Small Book of Designs</hi> Copy A, 
+                and <hi rend="i">A Large Book of Designs</hi>.  
+                Upcott’s copy of <hi rend="i">Europe</hi> and both books of <hi rend="i">Designs</hi> are in the Archive.
+                <lb/>
+                <lb/>
+                Blake, perhaps “very much delighted with being in good Company” (Object 1, lines 1-2), inscribed a striking, elaborate signature with a characteristically Blakean note “Writ helter skelter like a hog upon a rope” (Object 1, lines 10-11) incorporating an equally characteristic sketch of a floating male, nude, with arms outstretched.  
+                Blake’s signature appears just under that of the painter Benjamin Haydon.
+                <lb/>
+                <lb/>
+                As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. 
+                The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.
+            </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2022</date> by Morris Eaves, Robert N. Essick, and Joseph
          Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
          Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
          in any medium, requires express written consent from the editors and advance notification
          of the publisher. Permission to reproduce the graphic images in this archive has been
-         granted by the owners of the originals for this publication only.<lb/><lb/>This work copyright © 2013 New York Public Library.<lb/><lb/></userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Final proofing and publication prep</change><date/><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp><name>Michael Fox</name><resp>Project Manager: </resp><name>Joseph Fletcher</name><resp>Project Coordinator, University of Rochester:</resp><name>Laura Whitebell</name><resp>Bibliographer: </resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name>Amber Bertin, </name><name>Abby Brengle, </name><name>Katherine Calvin, </name><name>Adam Engel, </name><name>Andrea Everett, </name><name>Shannon Jaime, </name><name>Gabrielle Kirilloff, </name><name>Eric Loy, </name><name>Kate Massie, </name><name>Adam McCune, </name><name>Kylie Regan, </name><name>Hardeep Sidhu, </name><name>Margaret Speer, </name><name>Lisa Vandenbossche, </name><name>Nikolaus Wasmoen, </name><name>Alia Wegner, </name><name>Megan Wilson</name></respstmt></changestmt><changestmt><change>BAD created, manuscript transcribed and color coded, editorial notes composed</change><date>June 2013-August 2013</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+         granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>This image copyright © 2022 New York Public Library.<lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Proofing, revisions, and publication</change>
+                <date>August 2021 - February 2022</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Oishani Sengupta</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Ben Ami, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Ani Govjian, </name>
+                    <name>Meaghan Green, </name>
+                    <name>Rachael Isom, </name>
+                    <name>Mary Learner, </name>
+                    <name>Ania Michas, </name>
+                    <name>Angie (Quynh-Anh) Pham, </name>
+                    <name>Rob Rich, </name>
+                    <name>Anneke Schwob, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Iftekhar Uddin, </name>
+                    <name>Marcie Woehl</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created, manuscript transcribed and color coded, editorial notes composed</change>
+                <date>June 2013 - August 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
                </name>University of California, Riverside; and <name>Joseph Viscomi,
-               </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Project Coordinator, University of Rochester:</resp><name>Rachel Lee</name><resp>Bibliographer: </resp><name>Mark Crosby</name><resp>Technical Consultant:</resp><name>Joseph Ryan</name><resp>Project Assistants: </resp><name>Esther Arnold, </name><name>Kate Attkisson, </name><name>Laura Bell, </name><name>Lauren Cameron, </name><name>Katherine Carlson, </name><name>Cassandra Etter-Wenzel, </name><name>Andrea Everett, </name><name>Joseph Fletcher, </name><name>Duncan Graham, </name><name>Gabrielle Kiriloff, </name><name>Adam McCune, </name><name>Ali McGhee, </name><name>Jennifer Park, </name><name>Adair Rispoli, </name><name>Ted Scheinman, </name><name>Sarah Shaw, </name><name>Hardeep Sidhu</name><name>Sarah Tolf, </name><name>Lisa Vandenbossche, </name><name>Nikolaus Wasmoen, </name><name>Alia Wegner, </name><name>Bihan Zhang</name></respstmt></changestmt><changestmt><change>Images acquired, scanned and catalogued</change><date/><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+               </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Technical Consultant:</resp>
+                    <name>Joseph Ryan</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Ted Scheinman, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu</name>
+                    <name>Sarah Tolf, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquired, scanned, and catalogued</change>
+                <date>June 2012 - July 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
                </name>University of California, Riverside; and <name>Joseph Viscomi,
                </name>University of North Carolina at Chapel Hill
-                </respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title><hi rend="i">Blake's Autograph in the Album of William Upcott</hi></title></objtitle><origination>William Blake <role>author, </role><role>inventor, </role><role>delineator</role></origination><compdate value="1826">1826</compdate></objdescid><objinfo><numberobj>1</numberobj><objsize>27.0 x 21.0 cm.</objsize><numberleaves>1</numberleaves><leafsize>27.0 x 21.0 cm.</leafsize><medium>pen and ink and pencil</medium><support>paper</support><watermark>none</watermark><pennednumbers>none<note>The number 19 appears in ink in the top right corner of the object. However, this number (corresponding to the number of the page in volume II of William Upcott's <hi rend="i">Reliques of My Contemporaries</hi> on which Blake's autograph appears) is written in a hand other than Blake’s and is therefore not included in this transcription.</note></pennednumbers><framelines>none</framelines><binding>bound in dark green morocco <note>The present binding was created in 1833 "by Hering".</note></binding><stabholes>none</stabholes></objinfo><provenance n="1"><name>New York Public Library</name><date>1941</date><dealer>none</dealer><price>gift</price><note>The collection of autographs in which Blake's inscription appears was probably once bound in one book or notebook.  Upcott had the collection rebound in two volumes in 1833.  These volumes were later aquired by Owen D. Young who, along with Dr. Albert A. Berg, presented them to the New York Public Library on 5 May 1941.</note></provenance><repository><institution>New York Public Library</institution><addressline>5th Avenue and 42nd Street</addressline><addressline>New York, New York 10018-2788</addressline><addressline>Telephone: 1 212 930 0802</addressline><addressline>URL: http://www.nypl.org/locations/schwarzman/berg-collection-english-and-american-literature</addressline><collection>Henry W. and Albert A. Berg Collection of English and American Literature</collection><repositoryid label="Accession number">none</repositoryid><lb/><lb/></repository></source><desc id="bb208.1.ms.01" dbi="BB208.1.1.MS"><objtitle><title type="transcribed">Blake's Autograph in the Album of William Upcott</title><objid><objnumber code="A1">Object 1 </objnumber><objcode code="B1">(Bentley 208.1)</objcode></objid></objtitle><physdesc desclevel="brief"><objsize>27.0 cm. x 21.0 cm.</objsize><windowsize width="500" height="615"/><objnote><p>The number 19, indicating that this object is the nineteenth leaf of the second volume of this particular collection, is written in ink and in a hand other than Blake's at the top right corner of the object.</p><p>The top third of the object contains the autographs of various individuals who signed Upcott's original album.  These signatures are not replicated here.  Blake's signature appears immediately below that of B. R. Haydon.</p><p>Lines 1-4, which surround Blake's drawing of a male figure, were first sketched out in pencil before being inked over in order to plot out their position relative to the drawing.  These faint pencil lines, still visible in some areas (and traced in red in the sample below), were either imperfectly erased after the lines were rewritten in ink or have simply faded over time.<illus filename="bb208.1a.note.jpg"/><illus filename="bb208.1b.note.jpg"/></p><p>A number of letters appearing in words from lines 15 to 17 contain additional strokes.  See, for example, the "h" in "Autograph" (line 15) and the "d" in "Comfield" (line 16).  Blake's pen may have needed mending.</p><p>Lines 18-21 are taken from Wordsworth's <hi rend="i">Poems</hi> (1815), which was loaned to Blake by Crabb Robinson in December of 1825 (Bentley, <hi rend="i">Writings</hi> volume 2, page 1322n).  They appear in one of a series of sonnets that were originally published by Wordsworth in 1807.  The first is entitled "From the Italian of Michael Angelo," while all subsequent sonnets in the series (including that cited by Blake) are entitled "From the Same."  In Wordsworth's <hi rend="i">Poems</hi> (1815), the lines, which Blake either copied or remembered imperfectly, are as follows: "Heaven-born, the Soul a heaven-ward course must hold; / Beyond the visible world She soars to seek, / (For what delights the sense is false and weak) / Ideal Form, the universal mould" (volume 2, page 179).  Blake also refers to this particular sonnet in his annotations to Wordsworth's <hi rend="i">Poems</hi> (1815) (volume 1, page 44).</p></objnote></physdesc><phystext><lg type="prose" justify="left"><l n="bb208.1.ms.01.01" justify="left" indent="4">William Blake<space extent="3"/>one who is very much delighted with</l><l n="bb208.1.ms.01.02" justify="left" indent="2">being in good Company</l></lg><vspace extent="3"/><lg type="prose" justify="left"><l n="bb208.1.ms.01.03" justify="left" indent="59">Born 28 <choice><orig>Nov<hi rend="superscript">r</hi></orig><reg>November</reg></choice> 1757 in London</l><l n="bb208.1.ms.01.04" justify="left" indent="59">&amp; has died Several times Since<note>Erdman reads "Since" as "since" (page 698).</note></l><l n="bb208.1.ms.01.05" justify="left">January 16</l><l n="bb208.1.ms.01.06" justify="left" indent="3">1826</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb208.1.ms.01.07" justify="left" indent="8">The above was written &amp; the drawing annexed by the desire of M<hi rend="superscript">r</hi> Leigh how far it is an</l><l n="bb208.1.ms.01.08" justify="left">Autograph is a Question I do not think an Artist can write an Autograph especially one</l><l n="bb208.1.ms.01.09" justify="left">who has Studied in the Florentine &amp; Roman Schools as such <subst><del type="overwrite">a one</del><add type="overwrite" place="inline">an one</add></subst> will Consider what</l><l n="bb208.1.ms.01.10" justify="left">he is doing but an Autograph as I understand it, is Writ helter skelter like<gap reason="cancellation" extent="1" unit="character"/> a hog upon<note>Bentley reads "Writ" as "writ" (<hi rend="i">Writings</hi> volume 2, page 1321).</note></l><l n="bb208.1.ms.01.11" justify="left">a r<subst><del type="overwrite">i</del><add type="overwrite" place="inline">o</add></subst>pe or a Man who walks without Considering whether he shall r<subst><gap reason="overwrite" extent="2" unit="character"/><add type="overwrite" place="inline">un</add></subst> against a Post or a</l><l n="bb208.1.ms.01.12" justify="left">House or a Horse or a Man &amp; I am apt to believe that what is done without meaning is very</l><l n="bb208.1.ms.01.13" justify="left">different from that which a Man does with his Thought &amp; Mind &amp; <choice><orig>ought</orig><reg>aught</reg></choice> not to be <choice><orig>Calld</orig><reg>called</reg></choice> by<note>Erdman reads "does" as "Does" (page 698).</note></l><l n="bb208.1.ms.01.14" justify="left">the Same Name.</l><l n="bb208.1.ms.01.15" justify="left" indent="7">I consider the Autograph of M<hi rend="superscript">r</hi> Cruikshank which very justly Stands first in the Book<note>Bentley reads "Stands" as "stands" (<hi rend="i">Writings</hi> volume 2, page 1321).</note></l><l n="bb208.1.ms.01.16" justify="left">&amp; that Beautiful Specimen of Writing by M<hi rend="superscript">r</hi> Comfield &amp; my own; as Standing the sam<subst><gap reason="overwrite" extent="1" unit="character"/><add type="overwrite" place="inline">e</add></subst><choice><orig> Predi-</orig><reg>predicament</reg></choice><note>Bentley (<hi rend="i">Writings</hi> volume 2, page 1321) and Erdman (page 698) read "Standing" as "standing".</note></l><l n="bb208.1.ms.01.17" justify="left">c<subst><del type="overwrite">e</del><add type="overwrite" place="inline">a</add></subst>ment they are in some measure Works of Art &amp; not of Nature or Chance<note>The "c" appearing at the beginning of this line is partially obscured by the verso of the album's previous leaf.  This is as a result of the album's tight binding, in which the bottom left margin of this object and part of the letter "c" are bound into the spine.</note></l><l n="bb208.1.ms.01.18" justify="left" indent="22">Heaven born the Soul a Heavenward Course must hold</l><l n="bb208.1.ms.01.19" justify="left" indent="18"><subst><gap reason="erasure" extent="3" unit="character"/><del type="erasure"><unclear resp="AE">y</unclear></del><add type="overwrite" place="inline">For</add></subst> what delights the Sense is False &amp; Weak<note>Bentley reads "is" as "if" (<hi rend="i">Writings</hi> volume 2, page 1322).</note></l><l n="bb208.1.ms.01.20" justify="left" indent="18">Beyond the Vis<unclear resp="AE">i</unclear>bl<unclear resp="AE">e</unclear> World she soars to Seek<note>Bentley (<hi rend="i">Writings</hi> volume 2, page 1322) and Erdman (page 698) read the conjectural "Visible" with certainty.</note></l><l n="bb208.1.ms.01.21" justify="left" indent="18">Ideal Form, The Universal Mold</l><l n="bb208.1.ms.01.22" justify="left" indent="52"><choice><orig>Michael Angelo</orig><reg>Michelangelo</reg></choice>. Sonnet as Translated by M<hi rend="superscript">r</hi> Wordsworth</l></lg></phystext></desc></objdesc></bad>
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Technical Consultant:</resp>
+                    <name>Joseph Ryan</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Ted Scheinman, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        *Blake's Autograph in the Album of William Upcott*
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1826">1826</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>27.0 x 21.0 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>27.0 x 21.0 cm.</leafsize>
+                <medium>pen and ink and pencil</medium>
+                <support>paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none<note>The number 19 appears in ink in the top right corner of the object. However, this number (corresponding to the number of the page in volume II of William Upcott's *Reliques of My Contemporaries* on which Blake's autograph appears) is written in a hand other than Blake’s and is therefore not included in this transcription.</note>
+                </pennednumbers>
+                <framelines>none</framelines>
+                <binding>bound in dark green morocco <note>The present binding was created in 1833 "by Hering".</note>
+                </binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>New York Public Library</name>
+                <date>1941</date>
+                <dealer>none</dealer>
+                <price>gift</price>
+                <note>The collection of autographs in which Blake's inscription appears was probably once bound in one book or notebook. Upcott had the collection rebound in two volumes in 1833. These volumes were later aquired by Owen D. Young who, along with Dr. Albert A. Berg, presented them to the New York Public Library on 5 May 1941.</note>
+            </provenance>
+            <repository>
+                <institution>New York Public Library</institution>
+                <addressline>Stephen A. Schwarzman Building</addressline>
+                <addressline>5th Avenue and 42nd Street</addressline>
+                <addressline>New York, New York 10018-2788</addressline>
+                <addressline>Telephone: 1 212 930 0803</addressline>
+                <addressline>URL: http://www.nypl.org/locations/schwarzman/berg-collection-english-and-american-literature</addressline>
+                <department>Henry W. and Albert A. Berg Collection of English and American Literature</department>
+                <collection>Reliques of My Contemporaries: [Album of Autographs and Portraits]</collection>
+                <repositoryid label="Accession number">4048301, Berg Coll. +Upcott</repositoryid>
+                <lb/>
+                <lb/>
+            </repository>
+        </source>
+        <desc id="bb208.1.ms.01" dbi="BB208.1.1.MS">
+            <objtitle>
+                <title type="transcribed">Blake's Autograph in the Album of William Upcott</title>
+                <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="B1">(Bentley 208.1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>27.0 cm. x 21.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote>
+                    <p>The number 19, indicating that this object is the nineteenth leaf of the second volume of this particular collection, is written in ink and in a hand other than Blake's at the top right corner of the object.</p>
+                     <p>Blake's autograph appears below three others recorded on the page. As these are in hands other than Blake's, we have not included them in the diplomatic transcription and have instead transcribed them here.</p>
+                   <p>LeS amis architecte du gouvernement Francais le 27 aoust 1824.</p>
+                   <p>T. Croften Croker &#45; Author of Researches in the South of Ireland.</p>
+                   <p>B. R. Haydon.</p>
+                </objnote>
+                <objnote>    
+                    <p>The lines that surround Blake's drawing of a male figure were first sketched out in pencil before being inked over in order to plot out their position relative to the drawing. These faint pencil lines, still visible in some areas, were either imperfectly erased after the lines were rewritten in ink or have simply faded over time.</p>
+                   <p>Blake also appears to have written, and then erased, text in the space slightly below the inked lines and beneath the figure's head. They are not legible.</p>
+                   <p>The images in this note have been color-enhanced to better reveal the pencil strokes and erased lines.
+                   <illus filename="enhancedimage_a.jpg"/>
+                       <illus filename="enhancedimage_b.jpg"/></p>
+                </objnote>     
+                <objnote>    
+                    <p>Bentley speculates that the Mr. Leigh Blake refers to (line 7) may have been James Matthews Leigh, a painter and son of a bookseller. He further suggests that
+                    as Blake provided the autograph by Leigh's desire, "the circumstances rather indicate Blake was not an acquaintence of Upcott's but could be trusted to respond to Leigh" 
+                    ("Reliques of the Contemporaries of William Upcott, 'Emperor of Autographs,'" *Bulletin of the New York Public Library* 64 [1960]: 581-87).</p>
+               </objnote>
+                <objnote>    
+                    <p><illus filename="doublestroke_a.jpg"/>
+                    <illus filename="doublestroke_b.jpg"/>
+                    A number of letters appearing in words from lines 15 to 17 contain strokes that appear with a double line. See, for example, the "h" in "Autograph" (line 15) and the "d" in "Comfield" (line 16).  Blake's pen seems to have run low on ink and may have needed mending.</p>
+                </objnote>
+                <objnote>
+                <p>Lines 18-21 are taken from Wordsworth's *Poems* (1815), which was loaned to Blake by Crabb Robinson in December of 1825 (Bentley, *Writings* volume 2, page 1322n).  They appear in one of a series of sonnets that were originally published by Wordsworth in 1807.  The first is entitled "From the Italian of <choice><orig>Michael Angelo</orig><reg>Michelangelo</reg></choice>," while all subsequent sonnets in the series (including that cited by Blake) are entitled "From the Same."  In Wordsworth's *Poems* (1815), the lines, which Blake either copied or remembered imperfectly, are as follows: "Heaven-born, the Soul a heaven-ward course must hold; / Beyond the visible world She soars to seek, / (For what delights the sense is false and weak) / Ideal Form, the universal mould" (volume 2, page 179).  Blake also refers to this particular sonnet in his annotations to Wordsworth's *Poems* (1815) (*Writings* volume 1, page 44).</p>
+                </objnote>
+            </physdesc>
+            <illusdesc>
+                <illustration type="autograph album" location="E">
+                    <illusobjdesc>
+                        A nude male figure with short curly hair floats or hovers horizontally with outstretched limbs. He twists his body at the torso to face forward, and turns his head slightly to the right. His left leg extends to the left, and his right leg bends backward at the knee. Both arms are raised at 135 degrees. The palm of the right hand is turned downward and holds the scroll-shaped ending of a line; the palm of the left hand is turned upward and supports the same line as it extends down the right side of the image. The single line forms a text panel that extends over the figure, forms serpentine twists to the right of the figure, and terminates above the figure's left knee.        
+                    </illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>  
+                        <characteristic>nude</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>floating</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>arms raised at 135 degrees</characteristic>
+                        <characteristic>hand raised, palm down</characteristic>
+                        <characteristic>hand raised, palm up</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>supporting</characteristic>
+                        <illusobjdesc> A nude male figure with short curly hair floats or hovers horizontally with outstretched limbs. He twists his body at the torso to face forward, and turns his head slightly to the right. His left leg extends to the left, and his right leg bends backward at the knee. Both arms are raised 135 degrees. The palm of the right hand is turned downward and holds the scroll-shaped ending of a line; the palm of the left hand is turned upward and supports the line as it extends down the right side of the image.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>line</characteristic>
+                        <characteristic>text</characteristic>
+                        <characteristic>serpentine</characteristic>
+                        <characteristic>scroll</characteristic>
+                        <illusobjdesc>A single line forms a text panel that extends from a scroll in the figure's right hand, curves over the figure, winds down the right of the figure with serpentine twists, and terminates above the figure's left knee.</illusobjdesc>
+                    </component> 
+                </illustration>
+            </illusdesc>          
+            <phystext>
+               
+                <lg justify="left">
+                    <l n="bb208.1.ms.01.01" justify="left" indent="4">William Blake<space extent="2"/>one who is very much delighted with</l>
+                    <l n="bb208.1.ms.01.02" justify="left" indent="1.5">being in good Company</l>
+                </lg>
+                <vspace extent="3"/>
+                <lg type="prose" justify="left">
+                    <l n="bb208.1.ms.01.03" justify="left" indent="62">Born 28 <choice>
+                        <orig>Nov<hi rend="superscript">r</hi>
+                        </orig>
+                        <reg>November</reg>
+                    </choice> 1757 in London</l>
+                    <l n="bb208.1.ms.01.04" justify="left" indent="62">&amp; has died Several times Since<note>Erdman reads "Several" as "several" and "Since" as "since" (page 698).</note></l>
+                </lg>
+                <lg>
+                    <l n="bb208.1.ms.01.05" justify="left">January 16</l>
+                    <l n="bb208.1.ms.01.06" justify="left" indent="2">1826</l>
+                </lg>                
+                <vspace extent="1"/>
+                <lg type="prose" justify="left">
+                    <l n="bb208.1.ms.01.07" justify="left" indent="9">The above was written &amp; the drawing annexed by the desire of M<hi rend="superscript">r</hi> Leigh how far it is an</l>
+                    <l n="bb208.1.ms.01.08" justify="left">Autograph is a Question I do not think an Artist can write an Autograph especially one</l>
+                    <l n="bb208.1.ms.01.09" justify="left">who has Studied in the Florentine &amp; Roman Schools as such <subst>
+                        <del type="overwrite">a one</del>
+                        <add type="overwrite" place="inline">an one</add>
+                    </subst>will Consider what</l>
+                    <l n="bb208.1.ms.01.10" justify="left">he is doing but an Autograph as I understand it, is Writ helter skelter like<del type="overstrike">s</del> a hog upon<note>Bentley reads "Writ" as "writ" (*Writings* volume 2, page 1321).</note></l>
+                    <l n="bb208.1.ms.01.11" justify="left">a rope or a Man who wal<unclear resp="MG">ks</unclear> witho<unclear resp="MG">ut</unclear> Consider<unclear resp="MG">ing</unclear> whether he shall r<subst>
+                        <gap reason="overwrite" extent="2" unit="character"/>
+                        <add type="overwrite" place="inline">un</add>
+                    </subst> against a Post or a<note>The "ks" in "walks", the "ut" in "without", the "ing" in "Considering", and "run" are marked as unclear.</note></l>
+                    <l n="bb208.1.ms.01.12" justify="left">House or a Horse or a Man &amp; I am apt to believe that what is done without meaning is very</l>
+                    <l n="bb208.1.ms.01.13" justify="left">different from that which a Man does with his Thought &amp; Mind &amp; <choice>
+                        <orig>ought</orig>
+                        <reg>aught</reg>
+                    </choice> not to be <choice>
+                        <orig>Calld</orig>
+                        <reg>called</reg>
+                    </choice> by<note>Erdman reads "does" as "Does" (page 698).</note></l>
+                    <l n="bb208.1.ms.01.14" justify="left">the Same Name.</l>
+                    <l n="bb208.1.ms.01.15" justify="left" indent="9">I consider the Autograph of M<hi rend="superscript">r</hi> Cruikshank which very justly Stands first in the Book<note>Bentley (*Writings* volume 2, page 1321) and Erdman (page 698) read "Stands" as "stands".</note></l>
+                    <l n="bb208.1.ms.01.16" justify="left">&amp; that Beautiful Specimen of Writing by M<hi rend="superscript">r</hi> Comfield &amp; my own; as Standing the sam<subst>
+                        <gap reason="overwrite" extent="1" unit="character"/>
+                        <add type="overwrite" place="inline">e</add>
+                    </subst>
+                        <choice>
+                            <orig> Predi<unclear resp="MG">-</unclear></orig>
+                            <reg>predicament</reg>
+                        </choice><note>Bentley (*Writings* volume 2, page 1321) and Erdman (page 698) read "Standing" as "standing [in]".</note><note>Bentley (*Writings* volume 2, page 1321) suggests the potential hyphen after "Predi" is a semi-colon. We have transcribed the mark as a hyphen.</note>
+                    </l>
+                    <l n="bb208.1.ms.01.17" justify="left">c<subst>
+                        <del type="overwrite">e</del>
+                        <add type="overwrite" place="inline">a</add>
+                    </subst>ment they are in some measure Works of Art &amp; not of Nature or Chance<note>The "c" appearing at the beginning of this line is partially obscured by the verso of the album's previous leaf.  This is as a result of the album's tight binding, in which the bottom left margin of this object and part of the letter "c" are bound into the spine.</note></l>
+                    <l n="bb208.1.ms.01.18" justify="left" indent="22">Heaven born the Soul a Heavenward Course must hold</l>
+                    <l n="bb208.1.ms.01.19" justify="left" indent="17">
+                        <subst>
+                            <gap reason="erasure" extent="3" unit="character"/>
+                            <del type="erasure">
+                            </del>
+                            <add type="overwrite" place="inline">For</add>
+                        </subst> what delights the Sense is False &amp; Weak<note>Bentley reads "is" as "if" (*Writings* volume 2, page 1322).</note></l>
+                    <l n="bb208.1.ms.01.20" justify="left" indent="18">Beyond the Visible World she soars to Seek</l>
+                    <l n="bb208.1.ms.01.21" justify="left" indent="18">Ideal Form, The Universal Mold</l>
+                    <l n="bb208.1.ms.01.22" justify="left" indent="40"><choice><orig>Michael Angelo</orig><reg>Michelangelo</reg></choice>. Sonnet as Translated by M<hi rend="superscript">r</hi> Wordsworth</l>
+          </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
