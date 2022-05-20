@@ -594,7 +594,7 @@
                     
                     <objtitle>
                         <title type="transcribed">SONGS of INNOCENCE and Of EXPERIENCE</title>, <objid>
-                            <objnumber code="A1">Object 1 </objnumber>
+                            <objnumber code="A1">Object 1, full view </objnumber>
                             <objcode code="B1">(Bentley 1, </objcode>
                             <objcode code="E1">Erdman 1, </objcode>
                             <objcode code="K1">Keynes 1)</objcode>
@@ -1301,6 +1301,287 @@
                         WBlake</l>
                 </lg>
             </phystext>
+            
+            <supplemental>
+                <desc dbi="songsie.w.p3-full" id="suppsongie.w.rm.03">
+                    <objtitle>
+                        <title type="transcribed">SONGS of Innocence</title>, <objid>
+                            <objnumber code="A3">Object 3, full view </objnumber>
+                            <objcode code="B3">(Bentley 3, </objcode>
+                            <objcode code="E3">Erdman 3, </objcode>
+                            <objcode code="K3">Keynes 3)</objcode>
+                        </objid>
+                    </objtitle>
+                    <physdesc desclevel="brief">
+                        <objsize>12 x 7.4 cm.</objsize>
+                        <windowsize height="624" width="385"/>
+                    </physdesc>
+                    <illusdesc>
+                        <illustration type="plate" location="E">
+                            <illusobjdesc>Seen in profile facing right, a nurse or mother in a cap and long
+                                dress sits erect in a chair. In her lap she holds an open book that two
+                                children read, standing. The child on the left may be a boy with short,
+                                curly hair; the gowned child on the right, with long hair, is probably a
+                                girl. To the right of the group is a large apple(?) tree bearing fruit;
+                                around the trunk loosely spirals a vine. The upper leaves of the tree are
+                                integrated with the letters of "SONGS" (line 2). A second tree appears on
+                                the horizon in the background just to the right of the tree in the
+                                foreground. In the middle distance a river or stream winds across the
+                                landscape. The light above the horizon and sky above suggests sunrise or
+                                sunset. Various small figures can be seen among the letters of the title.
+                                Birds fly in the sky beneath and to the left of the "S" and above the "N" in
+                                "SONGS." Another bird flies upward above the first "n" of "Innocence" (line
+                                4).</illusobjdesc>
+                            <component type="object" location="E">
+                                <characteristic>sky</characteristic>
+                                <characteristic>cloud</characteristic>
+                                <characteristic>sunrise</characteristic>
+                                <characteristic>sunset</characteristic>
+                                <illusobjdesc>The background is colored to suggest the sky. Rosy tinting (of
+                                    clouds?) in the top quarter of the plate, and yellow tinting lower
+                                    right, suggest a sunrise or sunset.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="C">
+                                <characteristic>female</characteristic>
+                                <characteristic>gown</characteristic>
+                                <characteristic>hat</characteristic>
+                                <characteristic>nurse</characteristic>
+                                <characteristic>mother</characteristic>
+                                <characteristic>sitting</characteristic>
+                                <characteristic>facing right</characteristic>
+                                <characteristic>looking</characteristic>
+                                <characteristic>holding</characteristic>
+                                <characteristic>head down</characteristic>
+                                <characteristic>arm on lap</characteristic>
+                                <illusobjdesc>Seen in profile facing right, a nurse or mother in a cap and
+                                    long dress sits erect in a chair. In her lap she holds a book that two
+                                    children read.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="C">
+                                <characteristic>child</characteristic>
+                                <characteristic>male</characteristic>
+                                <characteristic>short hair</characteristic>
+                                <characteristic>curly hair</characteristic>
+                                <characteristic>gown</characteristic>
+                                <characteristic>shirt</characteristic>
+                                <characteristic>looking</characteristic>
+                                <characteristic>facing forward</characteristic>
+                                <characteristic>reading</characteristic>
+                                <characteristic>standing</characteristic>
+                                <illusobjdesc>In her lap a nurse or mother holds an open book that two
+                                    children read, standing. The child on the left may be a male with short,
+                                    curly hair; he is probably wearing at least a shirt, or perhaps a
+                                    gown.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="C">
+                                <characteristic>child</characteristic>
+                                <characteristic>female</characteristic>
+                                <characteristic>looking</characteristic>
+                                <characteristic>facing left</characteristic>
+                                <characteristic>reading</characteristic>
+                                <characteristic>standing</characteristic>
+                                <characteristic>long hair</characteristic>
+                                <characteristic>arm bent</characteristic>
+                                <characteristic>pointing</characteristic>
+                                <characteristic>gown</characteristic>
+                                <illusobjdesc> In her lap a nurse(?) holds an open book that two children
+                                    read, standing. The gowned child on the right, with long hair, is
+                                    probably a girl. Her left arm is bent at the elbow, with the forearm
+                                    raised horizontally. Her left hand may be pointing to a passage in the
+                                    book.</illusobjdesc>
+                            </component>
+                            <component type="object" location="C">
+                                <characteristic>book</characteristic>
+                                <characteristic>open</characteristic>
+                                <illusobjdesc>In her lap a nurse(?) holds an open book that two children
+                                    read or at least look at.</illusobjdesc>
+                            </component>
+                            <component type="object" location="C">
+                                <characteristic>chair</characteristic>
+                                <illusobjdesc>A nurse or mother sits in a chair that faces
+                                    right.</illusobjdesc>
+                            </component>
+                            <component type="vegetation" location="E">
+                                <characteristic>tree</characteristic>
+                                <characteristic>apple</characteristic>
+                                <characteristic>fruit</characteristic>
+                                <characteristic>leaf</characteristic>
+                                <characteristic>branch</characteristic>
+                                <characteristic>flame-like</characteristic>
+                                <characteristic>vine</characteristic>
+                                <characteristic>spiral</characteristic>
+                                <characteristic>intertwined</characteristic>
+                                <illusobjdesc>To the right of the nurse or mother and two children is a
+                                    large apple(?) tree, bearing fruit (around "of" in the title [line 3]);
+                                    around its trunk loosely spirals a vine. The flame-like upper leaves of
+                                    the tree are integrated with the letters of "SONGS" (leafy extensions of
+                                    the initial "S," the "N," and the terminal "S" are particularly
+                                    extravagant [line 2]). A second tree is on the horizon in the
+                                    background, just to the right of the tree in the
+                                    foreground.</illusobjdesc>
+                            </component>
+                            <component type="object" location="D">
+                                <characteristic>hill</characteristic>
+                                <characteristic>mound</characteristic>
+                                <illusobjdesc>There are small hills or mounds in the distant landscape on
+                                    the horizon, on either side of the tree.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="A">
+                                <characteristic>sitting</characteristic>
+                                <characteristic>legs dangling</characteristic>
+                                <illusobjdesc>There may be a figure sitting on the middle portion of the
+                                    first "S" of "SONGS" (line 2) with its legs dangling. Alternatively,
+                                    this might be only a calligraphic element of the letter or a bit of
+                                    vegetation.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="A">
+                                <characteristic>kneeling</characteristic>
+                                <characteristic>arms raised horizontally</characteristic>
+                                <characteristic>seen from behind</characteristic>
+                                <characteristic>facing away</characteristic>
+                                <illusobjdesc>In the "O" of "SONGS" (line 2) is a kneeling figure with arms
+                                    raised horizontally. We probably see this figure from
+                                    behind.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="A">
+                                <characteristic>standing</characteristic>
+                                <characteristic>arms at side</characteristic>
+                                <characteristic>arms bent</characteristic>
+                                <illusobjdesc>There may be a figure standing on the "N" of "SONGS" (line 2)
+                                    with arms bent at its sides; alternatively, it could be a piece of
+                                    vegetation.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="AB">
+                                <characteristic>standing</characteristic>
+                                <characteristic>leaning</characteristic>
+                                <characteristic>angel</characteristic>
+                                <characteristic>wing</characteristic>
+                                <characteristic>facing down</characteristic>
+                                <characteristic>facing right</characteristic>
+                                <characteristic>head down</characteristic>
+                                <characteristic>arm bent</characteristic>
+                                <characteristic>holding</characteristic>
+                                <characteristic>reading</characteristic>
+                                <characteristic>writing</characteristic>
+                                <illusobjdesc>A standing figure, apparently winged and thus possibly an
+                                    angel, leans against the middle stroke of the "N" of "SONGS" (line 2).
+                                    The figure may be looking down at and holding a book, reading or
+                                    writing.</illusobjdesc>
+                            </component>
+                            <component type="object" location="B">
+                                <characteristic>book</characteristic>
+                                <illusobjdesc>The figure leaning against the middle stroke of the "N" of
+                                    "SONGS" (line 2) may be holding a book.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="B">
+                                <characteristic>female</characteristic>
+                                <characteristic>gown</characteristic>
+                                <characteristic>standing</characteristic>
+                                <characteristic>arms raised vertically</characteristic>
+                                <characteristic>facing left</characteristic>
+                                <illusobjdesc>A gowned(?) female(?) figure with both arms raised vertically
+                                    stands in the "G" of "SONGS" (line 2). Her body faces to the
+                                    left.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="B">
+                                <characteristic>sitting</characteristic>
+                                <characteristic>facing right</characteristic>
+                                <characteristic>hunched over</characteristic>
+                                <illusobjdesc>There may be a tiny seated figure, hunched over and facing
+                                    right, in the lower curve of the final "S" of "SONGS" (line
+                                    2).</illusobjdesc>
+                            </component>
+                            <component type="figure" location="AC">
+                                <characteristic>male</characteristic>
+                                <characteristic>piper</characteristic>
+                                <characteristic>pipe</characteristic>
+                                <characteristic>hat</characteristic>
+                                <characteristic>standing</characteristic>
+                                <characteristic>leaning</characteristic>
+                                <characteristic>facing left</characteristic>
+                                <characteristic>playing</characteristic>
+                                <illusobjdesc>A male piper(?) with a broad-brimmed hat, holding a pipe,
+                                    stands facing left and leaning against the "I" of "Innocence" (line
+                                    4).</illusobjdesc>
+                            </component>
+                            <component type="animal" location="A">
+                                <characteristic>bird</characteristic>
+                                <characteristic>flying</characteristic>
+                                <characteristic>rising</characteristic>
+                                <illusobjdesc>A bird flies upward in the sky beneath and to the left of the
+                                    initial "S" in "SONGS" (line 2).</illusobjdesc>
+                            </component>
+                            <component type="animal" location="AB">
+                                <characteristic>bird</characteristic>
+                                <characteristic>flying</characteristic>
+                                <characteristic>rising</characteristic>
+                                <illusobjdesc>A bird flies upward on extended wings above the "N" of "SONGS"
+                                    (line 2).</illusobjdesc>
+                            </component>
+                            <component type="animal" location="AC">
+                                <characteristic>bird</characteristic>
+                                <characteristic>flying</characteristic>
+                                <characteristic>rising</characteristic>
+                                <illusobjdesc>A bird flies upward above the first "n" of "Innocence" (line
+                                    4).</illusobjdesc>
+                            </component>
+                            <component type="object" location="CD">
+                                <characteristic>river</characteristic>
+                                <illusobjdesc>A river or stream winds horizontally across the landscape in
+                                    the middle distance.</illusobjdesc>
+                            </component>
+                        </illustration>
+                        <illustration type="borderdesign" location="E">
+                            <illusobjdesc>From the center of the top margin, two serpentine vines spring
+                                forth to curve around the top corners and dangle halfway down the side
+                                margins. Each has one thorn-like projection, lower left and right, and a
+                                loop at the bottom corners. These motifs seem to reflect the vegetation in
+                                the plate design.</illusobjdesc>
+                            <component type="vegetation" location="E">
+                                <characteristic>vine</characteristic>
+                                <characteristic>loop</characteristic>
+                                <characteristic>thorn</characteristic>
+                                <characteristic>spiky</characteristic>
+                                <illusobjdesc>From the center of the top margin, two serpentine vines spring
+                                    forth to curve around the top corners and dangle halfway down the side
+                                    margins. Each has one thorn-like projection, lower left and right, and a
+                                    loop at the bottom corners. These motifs seem to reflect the vegetation
+                                    in the plate design.</illusobjdesc>
+                            </component>
+                            
+                        </illustration>
+                    </illusdesc>
+                    <phystext>
+                        <texthead justify="left">
+                            <l n="songsie.w.illbk.03.01" justify="left" indent="55">
+                                <physnumber type="pen-and-ink">3</physnumber>
+                            </l>
+                        </texthead>
+                        <vspace extent="4"/>
+                        <lg type="prose" justify="left">
+                            <l n="songsie.w.illbk.03.02" justify="center">SONGS</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="left">
+                            <l n="songsie.w.illbk.03.03" justify="center">of</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="left">
+                            <l n="songsie.w.illbk.03.04" justify="center">Innocence</l>
+                        </lg>
+                        <vspace extent="2"/>
+                        <lg type="prose" justify="left">
+                            <l n="songsie.w.illbk.03.05" justify="left" indent="50">1789</l>
+                        </lg>
+                        <vspace extent="4"/>
+                        <lg type="prose" justify="left">
+                            <l n="songsie.w.illbk.03.06" justify="center">The Author &amp; Printer
+                                WBlake</l>
+                        </lg>
+                    </phystext>
+                </desc>
+            </supplemental>
+            
         </desc>
         <desc id="songsie.w.illbk.04" dbi="songsie.w.P4">
             <objtitle>
@@ -10443,6 +10724,395 @@
                     <l n="songsie.w.illbk.42.26" justify="left">Dare frame thy fearful symmetry?</l>
                 </lg>
             </phystext>
+            
+            <supplemental>
+                <desc dbi="songsie.w.p42-full" id="suppsongie.w.rm.42">
+                        <objtitle>
+                <title type="transcribed">The Angel</title>, <objid>
+                    <objnumber code="A41">Object 41, full view </objnumber>
+                    <objcode code="B41">(Bentley 41, </objcode>
+                    <objcode code="E41">Erdman 41, </objcode>
+                    <objcode code="K41">Keynes 41)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11.1 x 6.8 cm.</objsize>
+                <windowsize height="577" width="354"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="AB">
+                    <illusobjdesc>On the grass under the arching branches of a tree with a large
+                        trunk rooted at left are two forward-facing figures. The "maiden Queen"
+                        (line 4) of the poem reclines, resting her head on her right hand as she
+                        reaches up and back with her left, pushing (perhaps also holding) the face
+                        of the male "Angel mild" (line 5) as she apparently fends off his advances
+                        ("I was arm'd, he came in vain," line 16). His right arm lies along her left
+                        as his left hand reaches across his body to touch her left arm. He is nude,
+                        with the suggestion of genitals, and has short, curly hair and large wings;
+                        she is gowned and has prominent breasts, very long hair, and a crown. From
+                        the tree above, the loops of a leafless vine rise between the two figures.
+                        There is a grassy hill behind them. The sky is rosy with a spot of dark blue
+                        at top right, suggesting sunrise or—perhaps more likely in the context of
+                        the poem—sunset.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>queen</characteristic>
+                        <characteristic>virgin</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>head on hand</characteristic>
+                        <characteristic>melancholy</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>pushing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>legs together</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>breasts</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>spike</characteristic>
+                        <illusobjdesc>The "maiden Queen" (line 4) of the poem reclines on her right
+                            side, resting her head on her right hand as she reaches up and back with
+                            her raised left arm to push away (perhaps hold) the face of the male
+                            "Angel mild" (line 5) as she apparently fends off his advances ("I was
+                            arm'd, he came in vain," line 16). Her posture suggests melancholy. She
+                            is gowned and has prominent breasts, very long hair, and a crown. With
+                            her head at the left at the base of the tree, she faces forward and
+                            looks out toward the left— away from the Angel. Her left foot is
+                            visible.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>cherub</characteristic>
+                        <characteristic>putto</characteristic>
+                        <characteristic>Cupid</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>genitals</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>contrapposto</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <illusobjdesc>The "maiden Queen" (line 4) of the poem apparently fends off
+                            the advances of a cupid-like "Angel mild" (line 5) ("I was arm'd, he
+                            came in vain," line 16). The angel stands behind her so that his
+                            contrapposto stance is visible only from the thighs up. He faces forward
+                            and looks diagonally down toward the maiden. His right arm lies along
+                            her left as his left hand reaches across his body to touch her left arm.
+                            He is nude, with the suggestion of genitals, and has short, curly hair
+                            and large wings.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>willow</characteristic>
+                        <characteristic>leafless</characteristic>
+                        <characteristic>grass</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>spiral</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>hill</characteristic>
+                        <illusobjdesc>On the grass under the arching branches of a tree with a large
+                            trunk rooted at left are two forward-facing figures. From the tree
+                            above, the loops of a leafless vine spiral upward between the two
+                            figures. There is a grassy hill behind them.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>sky</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <illusobjdesc>The sky is rosy with a spot of dark blue at top right,
+                            suggesting sunrise or—perhaps more likely in the context of the
+                            poem—sunset.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="E">
+                    <illusobjdesc>The area of vegetation beneath the elbow of the maiden appears to
+                        be the leafy top of a tree that grows up the left margin. It joins an
+                        extension of the initial letter of the title to create a vine-like column of
+                        vegetation in the left margin, across the bottom, and up the right edge. One
+                        of these tendrils in the bottom margin curve around the end of the last
+                        stanza with a loopy flourish. Another vine, probably independent, decorates
+                        spaces to the right of the first three stanzas. It has several loops and a
+                        leaf right of stanzas 1-2. A vine with spiky leaves (perhaps ivy) follows
+                        the title. Background coloring vaguely suggests the sky at sunrise or
+                        sunset.</illusobjdesc>
+                    <component type="object" location="E">
+                        <characteristic>sky</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <illusobjdesc>Background coloring vaguely suggests the sky at sunrise or
+                            sunset.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>ivy</characteristic>
+                        <characteristic>grape</characteristic>
+                        <illusobjdesc>The area of vegetation beneath the elbow of the maiden appears
+                            to be the leafy top of a tree that grows up the left margin. It joins an
+                            extension of the initial letter of the title to create a column of
+                            vegetation in the left margin, across the bottom, and up the right edge.
+                            One of these tendrils in the bottom margin curve around the end of the
+                            last stanza with a loopy flourish. Another vine, probably independent,
+                            decorates spaces to the right of the first three stanzas. It has several
+                            loops and a grape(?) leaf right of stanzas 1-2. A vine with spiky leaves
+                            (perhaps ivy) follows the title.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc>A horizontal strip of green wash running beneath the text area
+                            suggests grassy ground.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="borderdesign" location="E">
+                    <illusobjdesc>A loopy vine of indeterminate origin runs across the top of the
+                        plate, descends down the side margins. Diagonal lines suggest spiky
+                        vegetation left and right of the text area.</illusobjdesc>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>spiky</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>A loopy vine of indeterminate origin runs across the top of
+                            the plate, descends down the side margins. Diagonal lines suggest spiky
+                            vegetation left and right of the text area.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <texthead justify="left">
+                    <l n="songsie.w.illbk.41.01" justify="left" indent="30">
+                        <physnumber type="pen-and-ink">41</physnumber>
+                    </l>
+                </texthead>
+                <vspace extent="6"/>
+                <texthead justify="left">
+                    <l n="songsie.w.illbk.41.02" justify="left" indent="10">The Angel</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.41.03" justify="left">I Dreamt a Dream! what can it
+                        mean?</l>
+                    <l n="songsie.w.illbk.41.04" justify="left">And that I was a maiden Queen:</l>
+                    <l n="songsie.w.illbk.41.05" justify="left">Guarded by an Angel mild:</l>
+                    <l n="songsie.w.illbk.41.06" justify="left">Witless woe, was ne'er beguil'd!</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.41.07" justify="left">And I wept both night and day</l>
+                    <l n="songsie.w.illbk.41.08" justify="left">And he wip'd my tears away</l>
+                    <l n="songsie.w.illbk.41.09" justify="left">And I wept both day and night</l>
+                    <l n="songsie.w.illbk.41.10" justify="left">And hid from him my hearts
+                        delight</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.41.11" justify="left">So he took his wings and fled:</l>
+                    <l n="songsie.w.illbk.41.12" justify="left">Then the morn blush'd rosy red:</l>
+                    <l n="songsie.w.illbk.41.13" justify="left">I dried my tears &amp; arm'd my
+                        fears.</l>
+                    <l n="songsie.w.illbk.41.14" justify="left">With ten thousand shields and
+                        spears.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.41.15" justify="left">Soon my Angel came again;</l>
+                    <l n="songsie.w.illbk.41.16" justify="left">I was arm'd, he came in vain:</l>
+                    <l n="songsie.w.illbk.41.17" justify="left">For the time of youth was fled</l>
+                    <l n="songsie.w.illbk.41.18" justify="left">And grey hairs were on my head</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="songsie.w.illbk.42" dbi="songsie.w.P42">
+            <objtitle>
+                <title type="transcribed">The Tyger.</title>
+                <title type="alt">The Tiger</title>, <objid>
+                    <objnumber code="A42">Object 42 </objnumber>
+                    <objcode code="B42">(Bentley 42, </objcode>
+                    <objcode code="E42">Erdman 42, </objcode>
+                    <objcode code="K42">Keynes 42)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>11 x 6.3 cm.</objsize>
+                <windowsize height="572" width="328"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>On the grass under barren limbs of the tree in the right margin
+                        stands a tiger facing left, perhaps walking. The cat has a prominent open
+                        eye, and stripes are visible on its back and, to a lesser extent, its neck
+                        and face. Vine-like tendrils from a tuft of grass-like vegetation at lower
+                        left occupy the left margin. The "forests of the night" (line 4) are
+                        mentioned in the text, but the colors surround the text at the top suggest
+                        sunrise or sunset.</illusobjdesc>
+                    <component type="animal" location="CD">
+                        <characteristic>tiger</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <illusobjdesc>A left-facing tiger with a prominent open eye and stripes on
+                            its back (and, to a lesser extent, its neck and face) stands or perhaps
+                            walks on the grass beneath a barren tree. The cat's left rear leg is
+                            extended backward.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>tree</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>leafless</characteristic>
+                        <characteristic>grass</characteristic>
+                        <characteristic>plant</characteristic>
+                        <illusobjdesc>A tiger stands on the grass under the barren limbs of a tree
+                            with a wide base in the right margin. Vine-like tendrils—without loops,
+                            leaves, or fruit—from a tuft of a grass-like plant at lower left occupy
+                            the left margin. The "forests of the night" (line 4) are mentioned in
+                            the text, but only the one tree is visible.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>sky</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <illusobjdesc>The "forests of the night" (line 4) are mentioned in the text,
+                            but the colors surrounding the text at the top suggest sunrise or
+                            sunset.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="E">
+                    <illusobjdesc>The barren limbs of the tree in the right margin fork around the
+                        right end of the title and mark divisions between the title and stanza 1,
+                        stanzas 1 and 2, 3 and 4 (there joining the straight vine-like tendrils on
+                        the left), and 5 and 6. There is a single loop in the extension from the
+                        initial "T" of the title (line 2), which then joins otherwise loopless
+                        tendrils in the left margin. There is a decorative extension on the "y" in
+                        the title and on three "y's" in the final line of the poem (line 26). A bird
+                        flies above "Tyger Tyger" in line 3.</illusobjdesc>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>tree</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>leafless</characteristic>
+                        <illusobjdesc>The barren limbs of the tree in the right margin fork around
+                            the right end of the title and mark divisions between the title and
+                            stanza 1, stanzas 1 and 2, 3 and 4 (there joining the straight vine-like
+                            tendrils of vegetation on the left), and 5 and 6. There is a single loop
+                            in the extension from the initial "T" of the title (line 2), which then
+                            joins otherwise loopless tendrils in the left margin. There is a
+                            decorative extension on the "y" in the title and on three "y's" in the
+                            final line of the poem (line 26).</illusobjdesc>
+                    </component>
+                    <component type="animal" location="A">
+                        <characteristic>bird</characteristic>
+                        <characteristic>flying</characteristic>
+                        <illusobjdesc>A bird flies above "Tyger Tyger" in line 3.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="borderdesign" location="E">
+                    <illusobjdesc>Vines of indeterminate origin and termination surround the plate
+                        on all sides. At top, the vines rise diagonally away from the center, and
+                        there are also two loopy tendrils above the title. The vines turn sharply
+                        around the top corners and descend the side margins in a lattice pattern,
+                        perhaps suggesting the Tree of Jesse motif and sprouting leaves along the
+                        way. Left and right of the tiger, other vines are wavy, turn sharply around
+                        the bottom corners, and continue across the bottom margin, forming two
+                        curves below the tiger to complete the border.</illusobjdesc>
+                    <component type="vegetation" location="E">
+                        <characteristic>vine</characteristic>
+                        <characteristic>loop</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>Tree of Jesse</characteristic>
+                        <illusobjdesc>Vines of indeterminate origin and termination surround the
+                            plate on all sides. At top, the vines rise diagonally away from the
+                            center, and there are also two loopy tendrils above the title. The vines
+                            turn sharply around the top corners and descend the side margins in a
+                            lattice pattern, perhaps suggesting the Tree of Jesse motif and
+                            sprouting leaves along the way. Left and right of the tiger, other vines
+                            are wavy, turn sharply around the bottom corners, and continue across
+                            the bottom margin, forming two curves below the tiger to complete the
+                            border.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <texthead justify="left">
+                    <l n="songsie.w.illbk.42.01" justify="left" indent="38">
+                        <physnumber type="pen-and-ink">42</physnumber>
+                    </l>
+                </texthead>
+                <vspace extent="2"/>
+                <texthead justify="left">
+                    <l n="songsie.w.illbk.42.02" justify="left" indent="5">The Tyger.</l>
+                </texthead>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.42.03" justify="left">Tyger Tyger. burning bright,</l>
+                    <l n="songsie.w.illbk.42.04" justify="left">In the forests of the night;</l>
+                    <l n="songsie.w.illbk.42.05" justify="left">What immortal hand or eye.</l>
+                    <l n="songsie.w.illbk.42.06" justify="left">Could frame thy fearful
+                        symmetry?</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.42.07" justify="left">In what distant deeps or skies.</l>
+                    <l n="songsie.w.illbk.42.08" justify="left">Burnt the fire of thine eyes?</l>
+                    <l n="songsie.w.illbk.42.09" justify="left">On what wings dare he aspire?</l>
+                    <l n="songsie.w.illbk.42.10" justify="left">What the hand, dare sieze the
+                        fire?</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.42.11" justify="left">And what shoulder, &amp; what
+                        art.</l>
+                    <l n="songsie.w.illbk.42.12" justify="left">Could twist the sinews of thy
+                        heart?</l>
+                    <l n="songsie.w.illbk.42.13" justify="left">And when thy heart began to
+                        beat.</l>
+                    <l n="songsie.w.illbk.42.14" justify="left">What dread hand? &amp; what dread
+                        feet?</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.42.15" justify="left">What the hammer? what the chain,</l>
+                    <l n="songsie.w.illbk.42.16" justify="left">In what furnace was thy brain?</l>
+                    <l n="songsie.w.illbk.42.17" justify="left">What the anvil? what dread
+                        grasp.</l>
+                    <l n="songsie.w.illbk.42.18" justify="left">Dare its deadly terrors clasp!</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.42.19" justify="left">When the stars threw down their
+                        spears</l>
+                    <l n="songsie.w.illbk.42.20" justify="left">And water'd heaven with their
+                        tears:</l>
+                    <l n="songsie.w.illbk.42.21" justify="left">Did he smile his work to see?</l>
+                    <l n="songsie.w.illbk.42.22" justify="left">Did he who made the Lamb make
+                        thee?</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="songsie.w.illbk.42.23" justify="left">Tyger Tyger burning bright,</l>
+                    <l n="songsie.w.illbk.42.24" justify="left">In the forests of the night:</l>
+                    <l n="songsie.w.illbk.42.25" justify="left">What immortal hand or eye.</l>
+                    <l n="songsie.w.illbk.42.26" justify="left">Dare frame thy fearful symmetry?</l>
+                </lg>
+            </phystext>
+        </desc>
+            </supplemental>
+            
         </desc>
         <desc id="songsie.w.illbk.43" dbi="songsie.w.P43">
             <objtitle>
