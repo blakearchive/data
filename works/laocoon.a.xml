@@ -1,0 +1,622 @@
+<bad id="laocoon.a" type="illbk" work="Laocoön" copy="A" copyid="A" institution="essick"
+   catalog="bentley" catid="A">
+   <header>
+      <filedesc>
+         <titlestmt>
+            <title reg="Laocoön"><main>Laocoön</main><copy> Copy A</copy> : electronic edition </title>
+            <principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+                  <name>Robert Essick, </name>University of California, Riverside; and <name>Joseph
+                  Viscomi</name>, University of North Carolina at Chapel Hill</principal>
+            <respstmt><resp>Programmer/Analysts: </resp><name>David Cosca </name>and <name>Robert
+                  Bingler</name><resp>Project Manager: </resp><name>Matthew
+                  Kirschenbaum</name><resp>Project Assistant: </resp><name>Greg
+               Murray</name></respstmt>
+            <sponsor>The Institute for Advanced Technology in the Humanities, the Library of
+               Congress, and the University of North Carolina at Chapel Hill with a software grant
+               from Inso Corporation and hardware and software grants from Sun
+               Microsystems</sponsor>
+            <funder>National Endowment for the Humanities, 2000-02</funder>
+            <funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder>
+            <funder>Getty Grant Program, 1995-98</funder>
+         </titlestmt>
+         <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
+         <extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 20KB; 2 JPEG (ISO/IEC
+            10918) files approx. 440KB and 2825KB</extent>
+         <publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH <date>October
+            1998</date></publicationstmt>
+         <seriesstmt>The William Blake Archive</seriesstmt>
+         <notesstmt/>
+      </filedesc>
+      <userestrict>Copyright © <date>1998</date> by Morris Eaves, Robert N. Essick, and Joseph
+         Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+         Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
+         in any medium, requires express written consent from the editors and advance notification
+         of the publisher. Permission to reproduce the graphic images in this archive has been
+         granted by the owners of the originals for this publication only.<lb/><lb/> This image
+         copyright © 1998 William Blake Archive.</userestrict>
+      <encodingdesc/>
+      <profiledesc/>
+      <revisiondesc>
+         <changestmt>
+            <change>Conversion to Blake Archive Description DTD 2.1; Styles 2.0</change>
+            <date>Summer 2000</date>
+            <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+                  <name>Robert Essick, </name>University of California, Riverside; and <name>Joseph
+                  Viscomi, </name>University of North Carolina at Chapel Hill <resp>Technical
+                  Editor: </resp><name>Matthew Kirschenbaum</name><resp>Programmer/Analysts:
+                  </resp><name>Robert Bingler, </name><name>David Cosca, </name><name>Kirk V.
+                  Hastings</name><resp>Project Manager: </resp><name>Andrea Laue</name><resp>Project
+                  Assistants: </resp><name>Christopher N. Jackson, </name><name>Kari Kraus,
+                  </name><name>Wayne C. Ripley</name></respstmt>
+         </changestmt>
+         <changestmt>
+            <change>Conversion to XML and Blake Archive Description DTD 2004</change>
+            <date>2004</date>
+            <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+                  <name>Robert Essick, </name>University of California, Riverside; and <name>Joseph
+                  Viscomi, </name>University of North Carolina at Chapel Hill <resp>Technical
+                  Editor: </resp><name>Andrea Laue</name><resp>Conversion: </resp><name>Aziza
+                  Technology Associates</name><resp>Project Manager: </resp><name>Justin Van
+                  Kleeck</name><resp>Project Assistants: </resp><name>Christopher N. Jackson,
+                  </name><name>Kari Kraus, </name><name>Wesley N. Raabe, </name><name>Wayne C.
+                  Ripley, </name><name>William Shaw</name></respstmt>
+         </changestmt>
+      </revisiondesc>
+   </header>
+   <objdesc>
+      <source>
+         <objdescid>
+            <objtitle>
+               <title>*Laocoön*</title>
+            </objtitle>
+            <origination>William Blake <role>author, </role><role>inventor,</role><role>delineator,
+                  </role><role>etcher, </role><role>printer,
+               </role><role>colorist</role></origination>
+            <origination>Catherine Blake <role>printer</role></origination>
+            <imprint>
+               <publisher>William Blake <note>No publisher is recorded on the plate. However, if
+                     published at all, this work was "published" by Blake.</note></publisher>
+               <pubplace>London <note>No place of publication is recorded on the plate, but Blake
+                     lived in London during the designing, engraving, and printing of the
+                     work.</note></pubplace>
+            </imprint>
+            <compdate value="1826">c. 1815, c. 1826-27<note>The central image of the statue may have
+                  been executed as early as c. 1815 in connection with Blake's work on illustrations
+                  for Abraham Rees, *The Cyclopaedia; or, Universal Dictionary of Arts, Sciences,
+                  and Literature*. The inscribed texts surrounding the statue were almost certainly
+                  added at a much later date, c. 1826-27.</note></compdate>
+         </objdescid>
+         <objinfo>
+            <printdate value="1826">c. 1826-27</printdate>
+            <numberobj>1</numberobj>
+            <objorder>1</objorder>
+            <objsize>image 26.6 x 21.6 cm.; platemark 27.6 x 22.9 cm.</objsize>
+            <numberleaves>1</numberleaves>
+            <leafsize>approx. 28.1 x 24.4 cm.<note>The edges of the leaf are
+               uneven.</note></leafsize>
+            <medium>intaglio etching/engraving with drypoint lettering and hand coloring<note>Some
+                  of the letters were probably gone over with an engraving tool. The hand coloring
+                  consists only of a few touches of black wash, particularly just below and to the
+                  left of the top right corner of the base of the plinth.</note></medium>
+            <printingstyle>intaglio</printingstyle>
+            <inkcolor>black</inkcolor>
+            <support>wove paper</support>
+            <watermark>J Whatman 1826</watermark>
+            <etchednumbers>none</etchednumbers>
+            <pennednumbers>none</pennednumbers>
+            <framelines>A single framing line extends around the image, including the
+               inscriptions.</framelines>
+            <binding>loose</binding>
+            <stabholes>none</stabholes>
+         </objinfo>
+         <provenance n="1">
+            <name>Robert N. Essick</name>
+            <date>1986</date>
+            <dealer>none</dealer>
+            <price>$28,000</price>
+            <note> Possibly the impression given by Blake to Samuel Palmer and shown by Palmer to
+               John Clark Strange in May 1859 (See Bentley, *Records*, page 726); acquired at an
+               unknown time by Emma W. Bucknell; sold at auction from her collection, American Art
+               Association, New York, 2 April 1928, lot 76 ($610); acquired no later than 1930 by
+               Paul Hyde Bonner; the New York book dealer Duttons, 1931 catalogue of the Bonner
+               collection, item 31 ($1750); George C. Smith, sold from his collection at auction,
+               Parke-Bernet, New York, 2 Nov. 1938, lot 57 ($475 to the dealer Charles Sessler
+               acting for Charles J. Rosenbloom); inherited by Rosenbloom's wife, Lucile Rosenbloom,
+               upon his death in 1973; sold by her to Robert N. Essick, Jan. 1986 ($28,000).</note>
+         </provenance>
+         <repository>
+            <institution>Collection of Robert N. Essick</institution>
+            <addressline>Altadena</addressline>
+            <addressline>California</addressline>
+         </repository>
+      </source>
+      <desc id="laocoon.a.illbk.01" dbi="laocoon.A.P1">
+         <objtitle>, <objid><objnumber code="A1">Object 1 </objnumber><objcode code="B1">(Bentley 1,
+                  </objcode><objcode code="E1">Erdman 1, </objcode><objcode code="K1">Keynes
+                  1)</objcode></objid></objtitle>
+         <physdesc desclevel="full">
+            <objsize>26.6 x 21.6 cm</objsize>
+            <windowsize width="925" height="1150"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>This single, separate plate is a careful reproduction of the famous
+                  Hellenistic sculptural group, the Laocoön, very probably copied by Blake after the
+                  plaster copy in the Royal Academy, London. The three figures are raised on a
+                  plinth, with two steps above it and a wall or pedestal behind the lower bodies of
+                  the figures. While the original statue represents the Trojan priest, Laocoön, and
+                  his two sons, Blake has reinterpreted it as a work of Hebraic art representing
+                  Jehovah and his two sons, Adam and Satan, struggling with two serpents, labeled on
+                  the plate "Evil" (line 5) and "Good" (line 31). Both serpents coil around all
+                  three figures; both have their mouths open and are biting Laocoön and the son on
+                  the left. The central nude figure of Laocoön/God is bearded and his hair is long.
+                  His mouth is slightly open and his visage expresses great pain. His genitals are
+                  clearly pictured. He faces forward, with his right leg bent at the knee and his
+                  left leg extended to the right. His legs are spread apart; we see between them a
+                  cascade of drapery or a robe falling from the man's body. His neck is twisted so
+                  that he faces up and to the left. His right arm is raised at 135 degrees; his left
+                  is bent at the elbow and reaches downward. He holds the serpent of "Good" in both
+                  hands. The nude, youthful son on the left struggles with the serpent of "Evil." He
+                  has been identified as Adam by some scholars, but he is probably Satan (see the
+                  evidence below that the other son is Adam). His hair is long; his face suggests
+                  pain. His body faces forward, but his neck is twisted so that his head is bent
+                  back and facing to the right. Both legs are bent at the knees. His right arm is
+                  bent upward, with the fingers of his right hand spread apart above his head. His
+                  left arm is bent over his body; his left hand grasps the head of the snake. A bit
+                  of drapery appears below his right thigh. The youthful, muscular nude son on the
+                  right has been identified as Satan by some scholars, but he is more probably Adam
+                  (given the inscription of the name Lilith, Adam's legendary first wife, in Hebrew
+                  under the figure's right arm and the central figure's fist). His body faces
+                  forward, with his neck twisted so that his face is seen in profile to the left.
+                  His mouth is slightly open and his hair is curly. He stands on his right leg; his
+                  left leg is bent sharply at the knee and drawn up toward his torso. His right arm
+                  is bent upward, with his raised right hand palm out and fingers spread. His left
+                  arm reaches downward, with the left hand holding the serpent wrapped around his
+                  left ankle. Drapery cascades over his left shoulder and reaches to the plinth near
+                  his right foot (which touches the left foot of the central figure). The imprint is
+                  placed so that it seems to be an inscription cut into the stone
+                  plinth.</illusobjdesc>
+               <component type="object" location="E">
+                  <characteristic>group of figures</characteristic>
+                  <characteristic>statue</characteristic>
+                  <characteristic>plinth</characteristic>
+                  <characteristic>step</characteristic>
+                  <characteristic>wall</characteristic>
+                  <characteristic>pedestal</characteristic>
+                  <characteristic>stone</characteristic>
+                  <characteristic>classical art</characteristic>
+                  <illusobjdesc>This single, separate plate is a careful reproduction of the famous
+                     Hellenistic sculptural group, the Laocoön, very probably copied by Blake after
+                     the plaster copy in the Royal Academy, London. The three figures are raised on
+                     a plinth, with two steps above it and a wall or pedestal behind the lower
+                     bodies of the figures.</illusobjdesc>
+               </component>
+               <component type="animal" location="E">
+                  <characteristic>serpent</characteristic>
+                  <characteristic>snake</characteristic>
+                  <characteristic>mouth open</characteristic>
+                  <characteristic>coiled</characteristic>
+                  <characteristic>intertwined</characteristic>
+                  <illusobjdesc>Two serpents, labeled "Evil" (left [line 5]) and "Good" (right [line
+                     31]) coil around all three figures; both snakes have their mouths open and are
+                     biting Laocoön and the son on the left.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>muscular</characteristic>
+                  <characteristic>genitals</characteristic>
+                  <characteristic>God</characteristic>
+                  <characteristic>Laocoön</characteristic>
+                  <characteristic>father</characteristic>
+                  <characteristic>old</characteristic>
+                  <characteristic>standing</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>beard</characteristic>
+                  <characteristic>twisted</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>facing up</characteristic>
+                  <characteristic>fighting</characteristic>
+                  <characteristic>wrestler</characteristic>
+                  <characteristic>priest</characteristic>
+                  <characteristic>pain</characteristic>
+                  <characteristic>drapery</characteristic>
+                  <characteristic>robe</characteristic>
+                  <characteristic>legs bent</characteristic>
+                  <characteristic>legs spread</characteristic>
+                  <characteristic>leg extended</characteristic>
+                  <characteristic>arm raised at 135 degrees</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <characteristic>arm reaching downward</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>serpent-coiled</characteristic>
+                  <illusobjdesc>The central nude figure of Laocoön/God is bearded and has long hair.
+                     His mouth is slightly open and his visage expresses great pain. His genitals
+                     are clearly pictured. He faces forward, with his right leg bent at the knee and
+                     his left leg extended to the right. His legs are spread apart; we see between
+                     them a cascade of drapery or a robe falling from the man's body. His neck is
+                     twisted so that he faces up and to the left. His right arm is raised at 135
+                     degrees; his left is bent at the elbow and reaches downward. He holds the
+                     serpent of "Good" (line 31) in both hands and struggles with the beast as he is
+                     coiled by it.</illusobjdesc>
+               </component>
+               <component type="figure" location="AC">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>standing</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>Satan</characteristic>
+                  <characteristic>Adam</characteristic>
+                  <characteristic>legs bent</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>fighting</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>drapery</characteristic>
+                  <characteristic>pain</characteristic>
+                  <characteristic>twisted</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>head bent back</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>arm bent upward</characteristic>
+                  <characteristic>fingers spread</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <characteristic>arm wrapped around body</characteristic>
+                  <characteristic>serpent-coiled</characteristic>
+                  <illusobjdesc>The nude, youthful male on the left struggles with the serpent of
+                     "Evil" (line 5). He has been identified as Adam by some scholars, but he is
+                     probably Satan (see the evidence that the other youth is Adam). His hair is
+                     long; his face suggests pain. His body faces forward, but his neck is twisted
+                     so that his head is bent back and facing to the right. Both legs are bent at
+                     the knees. His right arm is bent upward, with the fingers of his right hand
+                     spread apart above his head. His left arm is bent over his body; his left hand
+                     grasps the head of the snake as the beast coils around his legs. A bit of
+                     drapery appears below his right thigh.</illusobjdesc>
+               </component>
+               <component type="figure" location="BD">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>standing</characteristic>
+                  <characteristic>leg bent at knee</characteristic>
+                  <characteristic>leg drawn up</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>muscular</characteristic>
+                  <characteristic>Adam</characteristic>
+                  <characteristic>Satan</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>fingers spread</characteristic>
+                  <characteristic>hand raised, palm out</characteristic>
+                  <characteristic>twisted</characteristic>
+                  <characteristic>facing left</characteristic>
+                  <characteristic>mouth open</characteristic>
+                  <characteristic>arm bent upward</characteristic>
+                  <characteristic>arm reaching downward</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>drapery</characteristic>
+                  <characteristic>feet touching</characteristic>
+                  <characteristic>serpent-coiled</characteristic>
+                  <illusobjdesc>The youthful, muscular nude male on the right has been identified as
+                     Satan by some scholars, but he is more probably Adam (given the inscription of
+                     the name Lilith, Adam's legendary first wife, in Hebrew under the figure's
+                     right arm and the central figure's fist). His body faces forward, with his neck
+                     twisted so that his face is seen in profile to the left. His mouth is slightly
+                     open and his hair is curly. He stands on his right leg; his left leg is bent
+                     sharply at the knee and drawn up toward his torso. His right arm is bent
+                     upward, with his raised right hand palm out and fingers spread. His left arm
+                     reaches downward, with the left hand holding the serpent wrapped around his
+                     left ankle as it begins to coil around him. Drapery cascades over his left
+                     shoulder and reaches to the plinth near his right foot (which touches the left
+                     foot of the central figure).</illusobjdesc>
+               </component>
+               <component type="text" location="CD">
+                  <characteristic>inscription</characteristic>
+                  <transcription>
+                     <lg type="prose" justify="left">
+                        <l justify="left">Drawn &amp; Engraved by William Blake.</l>
+                     </lg>
+                  </transcription>
+                  <illusobjdesc>The imprint is placed so that it seems to be an inscription cut into
+                     the stone plinth.</illusobjdesc>
+               </component>
+            </illustration>
+            <illustration type="interlinear" location="D">
+               <illusobjdesc>Lower right in the vertical inscriptions on the plate, between "What we
+                  call Antique Gems" and "Christianity is Art" (109), are some wavy lines that may
+                  represent flames.</illusobjdesc>
+               <component type="object" location="D">
+                  <characteristic>fire</characteristic>
+                  <illusobjdesc>Lower right in the vertical inscriptions on the plate, between "What
+                     we call Antique Gems" and "Christianity is Art" (line 109), are some wavy lines
+                     that may represent flames.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.01" justify="left" indent="10">If Morality was Christianity
+                  Socrates was the Saviour<note>below the plinth</note></l>
+               <l n="laocoon.a.illbk.01.02" justify="left">יה<space extent="2"/>&amp; his two Sons
+                  Satan &amp; Adam as they were copied from the Cherubim<note><foreign lang="hebrew"
+                        > The Hebrew letters at the beginning of the line are a Yod and a He
+                        (reading from right to left). Together, these characters spell the word
+                        "Yah," one of God's divine names, a shortened form of "Yahweh." If your
+                        browser does not display these characters, you can find instructions for how
+                        to display them in the "Help" documentation.</foreign></note></l>
+               <l n="laocoon.a.illbk.01.03" justify="left">of Solomons Temple by three Rhodians
+                  &amp; applied to Natural Fact. or History of Ilium</l>
+               <l n="laocoon.a.illbk.01.04" justify="left" indent="8">Art Degraded Imagination
+                  Denied War Governed the Nations</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.05" justify="left">
+                  <hi rend="angled text">Evil</hi>
+                  <note>above the serpent's head on the left</note>
+               </l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.06" justify="left" indent="10">Good &amp; Evil
+                     are<note>angled around the right arm of the left figure</note></l>
+               <l n="laocoon.a.illbk.01.07" justify="left">Riches &amp; Poverty a Tree of</l>
+               <l n="laocoon.a.illbk.01.08" justify="left" indent="23">Misery</l>
+               <l n="laocoon.a.illbk.01.09" justify="left" indent="10">propagating</l>
+               <l n="laocoon.a.illbk.01.10" justify="left" indent="10">Generation &amp; Death</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.11" justify="left">The Gods of Priam are the Cherubim of
+                  Moses &amp; Solomon: The Hosts<note>curved around the right arm of the central
+                     figure</note></l>
+               <l n="laocoon.a.illbk.01.12" justify="left" indent="53">of Heaven</l>
+               <l n="laocoon.a.illbk.01.13" justify="left" indent="2">Without Unceasing Practise
+                  nothing can be done Practise is Art</l>
+               <l n="laocoon.a.illbk.01.14" justify="left" indent="3">If you leave off you are
+                  Lost</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.15" justify="left">The Angel of the Divine
+                     Presence<note>above the central figure</note></l>
+               <l n="laocoon.a.illbk.01.16" justify="left"><space extent="25"/> מלאך<space
+                     extent="4"/>יהוה<note><foreign lang="hebrew">The Hebrew words (reading from
+                        right to left) mean "messenger" [often translated as "angel"] "of Jehovah."
+                        The Aleph (third letter from the right in the word on the right) was printed
+                        backwards. If your browser does not display these characters, you can find
+                        instructions for how to display them in the "Help"
+                     documentation.</foreign></note></l>
+               <l n="laocoon.a.illbk.01.17" justify="left">ΟΦΙουΧος<note><hi rend="angled text"
+                           ><foreign lang="greek">The Greek letters spell "Ophiucus," meaning
+                           "serpent holder." Ophiucus is a constellation in the northern sky. In
+                           Blake's inscription, the fifth letter, a lower-case upsilon, is written
+                           above the fourth letter, a lower-case omicron; the final two letters, a
+                           lower-case omicron and a lower-case sigma, are intertwined. If your
+                           browser does not display these characters, you can find instructions for
+                           how to display them in the "Help"
+                  documentation.</foreign></hi></note></l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.18" justify="left" indent="26">Hebrew Art is<note>in an arc
+                     above and to the right of the central figure</note></l>
+               <l n="laocoon.a.illbk.01.19" justify="left" indent="22">called Sin by the Deist
+                  Science</l>
+               <l n="laocoon.a.illbk.01.20" justify="left" indent="16">All that we See is Vision</l>
+               <l n="laocoon.a.illbk.01.21" justify="left">from Generated Organs gone as soon as
+                  come</l>
+               <l n="laocoon.a.illbk.01.22" justify="left" indent="12">Permanent in The Imagination;
+                  Considerd</l>
+               <l n="laocoon.a.illbk.01.23" justify="left" indent="19">as Nothing by the</l>
+               <l n="laocoon.a.illbk.01.24" justify="left" indent="22">Natural Man</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.25" justify="left">What can be Created<note>vertically above
+                     the preceding lines</note></l>
+               <l n="laocoon.a.illbk.01.26" justify="left">Can be Destroyed</l>
+               <l n="laocoon.a.illbk.01.27" justify="left" indent="2">Adam is only</l>
+               <l n="laocoon.a.illbk.01.28" justify="left">The Natural Man</l>
+               <l n="laocoon.a.illbk.01.29" justify="left">&amp; not the Soul</l>
+               <l n="laocoon.a.illbk.01.30" justify="left">or Imagination</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.31" justify="left">Good<note>above the head of the serpent
+                     biting the central figure's left hip</note></l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.32" justify="left"><space extent="22"/>לילית<note><foreign
+                        lang="hebrew">The Hebrew word is "Lilith," Adam's first wife according to
+                        cabbalistic Judaism. The name in Hebrew also means "night bird" or
+                        "screeching owl." The Hebrew characters appear (on the plate) below the
+                        central figure's left hand. If your browser does not display these
+                        characters, you can find instructions for how to display them in the "Help"
+                        documentation.</foreign></note></l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.33" justify="left">Satans Wife The Goddess Nature is War
+                  &amp; Misery &amp; Heroism a Miser<note>around the head and left side of the right
+                     figure</note></l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.34" justify="left" indent="2">Spiritual War<note>vertically
+                     in the left margin, bottom to top</note></l>
+               <l n="laocoon.a.illbk.01.35" justify="left">Israel deliverd from Egypt</l>
+               <l n="laocoon.a.illbk.01.36" justify="left" indent="2">is Art deliverd from</l>
+               <l n="laocoon.a.illbk.01.37" justify="left" indent="4">Nature &amp; Imitation</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.38" justify="left" indent="5">A Poet a Painter a Musician an
+                  Architect : the Man</l>
+               <l n="laocoon.a.illbk.01.39" justify="left" indent="5">Or Woman who is not one of
+                  these is not a Christian</l>
+               <l n="laocoon.a.illbk.01.40" justify="left">You must leave Fathers &amp; Mothers
+                  &amp; Houses &amp; Lands if they stand in the way of Art</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.41" justify="left">The Eternal Body of Man is The
+                  Imagination, that is God himself</l>
+               <l n="laocoon.a.illbk.01.42" justify="left" indent="20">The Divine Body }<space
+                     extent="2"/>ישע<space extent="2"/> Jesus <space extent="1"/>we are
+                        his<note><foreign lang="hebrew">The Hebrew characters are (from right to
+                        left) the first, second, and fourth letters of "Jeshua," a form of "Joshua,"
+                        translated in Greek as "Jesus," meaning "savior" or "salvation." If your
+                        browser does not display these characters, you can find instructions for how
+                        to display them in the "Help" documentation.</foreign></note></l>
+               <l n="laocoon.a.illbk.01.43" justify="left" indent="53">Members</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.44" justify="left" indent="12">It manifests itself in his
+                  Works of Art (In Eternity All is Vision)</l>
+               <l n="laocoon.a.illbk.01.45" justify="left">The True Christian Charity not dependent
+                  on Money (the lifes blood of Poor Families)</l>
+               <l n="laocoon.a.illbk.01.46" justify="left" indent="5">that is on Caesar or Empire or
+                  Natural Religion</l>
+               <l n="laocoon.a.illbk.01.47" justify="left">Money, which is The Great Satan or
+                  Reason</l>
+               <l n="laocoon.a.illbk.01.48" justify="left" indent="8">the Root of Good &amp;
+                  Evil</l>
+               <l n="laocoon.a.illbk.01.49" justify="left" indent="10">In The Accusation of Sin</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.50" justify="left">Prayer is the Study of Art <space
+                     extent="20"/>Fasting &amp;<hi rend="sup">c</hi>. all relate to Art</l>
+               <l n="laocoon.a.illbk.01.51" justify="left">Praise is the Practise of Art <space
+                     extent="19"/>The outward Ceremony is Antichrist</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.52" justify="left" indent="4">Where any view of Money exists
+                  Art cannot be carried on, but War only Read Matthew C X. 9 &amp;
+                     10v<note>horizontally in the top margin</note></l>
+               <l n="laocoon.a.illbk.01.53" justify="left">by pretences to the Two Impossibilities
+                  Chastity &amp; Abstinence Gods of the Heathen</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.54" justify="left">He repented that he had made Adam</l>
+               <l n="laocoon.a.illbk.01.55" justify="left" indent="7">(of the Female, the
+                  Adamah)</l>
+               <l n="laocoon.a.illbk.01.56" justify="left" indent="22">&amp; it grieved him at his
+                  heart</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.57" justify="left">Art can never exist
+                     without<note>horizontally in the right margin</note></l>
+               <l n="laocoon.a.illbk.01.58" justify="left" indent="5">Naked Beauty displayed</l>
+               <l n="laocoon.a.illbk.01.59" justify="left">The Gods of Greece &amp; Egypt were
+                  Mathematical</l>
+               <l n="laocoon.a.illbk.01.60" justify="left" indent="32">Diagrams</l>
+               <l n="laocoon.a.illbk.01.61" justify="left" indent="34">See Plato's</l>
+               <l n="laocoon.a.illbk.01.62" justify="left" indent="38">Works</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.63" justify="left" indent="4">Divine Union</l>
+               <l n="laocoon.a.illbk.01.64" justify="left" indent="2">Deriding</l>
+               <l n="laocoon.a.illbk.01.65" justify="left">And Denying Immediate</l>
+               <l n="laocoon.a.illbk.01.66" justify="left">Communion with God</l>
+               <l n="laocoon.a.illbk.01.67" justify="left">The Spoilers say</l>
+               <l n="laocoon.a.illbk.01.68" justify="left">Where are his Works</l>
+               <l n="laocoon.a.illbk.01.69" justify="left">That he did in the Wilderness</l>
+            </lg>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.70" justify="left" indent="6">Lo what are these</l>
+               <l n="laocoon.a.illbk.01.71" justify="left">Whence came they</l>
+               <l n="laocoon.a.illbk.01.72" justify="left">These are not the Works</l>
+               <l n="laocoon.a.illbk.01.73" justify="left">Of Egypt nor Babylon</l>
+               <l n="laocoon.a.illbk.01.74" justify="left">Whose Gods are the Powers</l>
+               <l n="laocoon.a.illbk.01.75" justify="left">Of this World. Goddess, Nature.</l>
+               <l n="laocoon.a.illbk.01.76" justify="left">Who first spoil &amp; then destroy</l>
+               <l n="laocoon.a.illbk.01.77" justify="left">Imaginative Art</l>
+               <l n="laocoon.a.illbk.01.78" justify="left">For their Glory is</l>
+               <l n="laocoon.a.illbk.01.79" justify="left">War and Dominion</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.80" justify="left">Empire against Art<space extent="5"/> See
+                  Virgils Eneid.</l>
+               <l n="laocoon.a.illbk.01.81" justify="left" indent="27">Lib. VI.v 848</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.82" justify="left">For every</l>
+               <l n="laocoon.a.illbk.01.83" justify="left">Pleasure</l>
+               <l n="laocoon.a.illbk.01.84" justify="left">Money</l>
+               <l n="laocoon.a.illbk.01.85" justify="left">Is Useless</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.86" justify="left" indent="3">There are States</l>
+               <l n="laocoon.a.illbk.01.87" justify="left" indent="5">in which. all</l>
+               <l n="laocoon.a.illbk.01.88" justify="left" indent="3">Visionary Men</l>
+               <l n="laocoon.a.illbk.01.89" justify="left" indent="3">are accounted</l>
+               <l n="laocoon.a.illbk.01.90" justify="left" indent="6">Mad Men</l>
+               <l n="laocoon.a.illbk.01.91" justify="left" indent="5">such are</l>
+               <l n="laocoon.a.illbk.01.92" justify="left" indent="3">Greece &amp; Rome</l>
+               <l n="laocoon.a.illbk.01.93" justify="left" indent="3">Such is</l>
+               <l n="laocoon.a.illbk.01.94" justify="left" indent="3">Empire</l>
+               <l n="laocoon.a.illbk.01.95" justify="left" indent="3">or Tax</l>
+               <l n="laocoon.a.illbk.01.96" justify="left">See Luke Ch 2 v l</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.97" justify="left">Jesus &amp; his Apostles &amp; Disciples
+                  were all Artists Their Works were destroyd by the Seven Angels of the Seven
+                  Churches in Asia <space extent="1"/> Antichrist <space extent="2"/>
+                     Science<note>vertically in the right margin, top to bottom</note></l>
+               <l n="laocoon.a.illbk.01.98" justify="left" indent="16">The unproductive Man is not a
+                  Christian much less the Destroyer</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.99" justify="left">The Old &amp; New Testaments are<space
+                     extent="8"/>Science is the</l>
+               <l n="laocoon.a.illbk.01.100" justify="left" indent="2">the Great Code of Art<space
+                     extent="4"/>Art is the<space extent="6"/>Tree of Death</l>
+               <l n="laocoon.a.illbk.01.101" justify="left" indent="29">Tree</l>
+               <l n="laocoon.a.illbk.01.102" justify="left" indent="27">of Life</l>
+               <l n="laocoon.a.illbk.01.103" justify="left" indent="29">GOD</l>
+               <l n="laocoon.a.illbk.01.104" justify="left" indent="27">is Jesus</l>
+            </lg>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.105" justify="left">The Whole Business of Man Is</l>
+               <l n="laocoon.a.illbk.01.106" justify="left">The Arts &amp; All Things <space
+                     extent="2"/>Common</l>
+               <l n="laocoon.a.illbk.01.107" justify="left" indent="14">No Secre</l>
+               <l n="laocoon.a.illbk.01.108" justify="left" indent="14">sy in Art</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.109" justify="left">What we call Antique Gems <space
+                     extent="25"/>Christianity is Art</l>
+               <l n="laocoon.a.illbk.01.110" justify="left" indent="9">are the Gems of Aarons Breast
+                  Plate <space extent="11"/>&amp; not Money</l>
+               <l n="laocoon.a.illbk.01.111" justify="left" indent="48">Money is its Curse</l>
+            </lg>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.112" justify="left" indent="4">Is not every Vice possible to
+                  Man</l>
+               <l n="laocoon.a.illbk.01.113" justify="left" indent="9">described in the Bible
+                  openly</l>
+               <l n="laocoon.a.illbk.01.114" justify="left" indent="4">All is not Sin that Satan
+                  calls so</l>
+               <l n="laocoon.a.illbk.01.115" justify="left" indent="10">all the Loves &amp; Graces
+                  of Eternity</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="laocoon.a.illbk.01.116" justify="left">Drawn &amp; Engraved by William
+                     Blake.<note>signature on the plinth</note></l>
+            </lg>
+         </phystext>
+      </desc>
+   </objdesc>
+</bad>
