@@ -1,52 +1,347 @@
-<bad id="bb12.a" type="te" work="Blake's Chaucer, The Canterbury Pilgrims" copy="d" copyid="1" institution="british museum" catalog="bentley" catid="12" hidden="false"><header><filedesc><titlestmt><title reg="Blake's Chaucer, The Canterbury Pilgrims, A"><main>Blake's Chaucer, The Canterbury Pilgrims</main><copy>copy A</copy> : electronic edition </title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill </principal><respstmt><resp>Technical Editor: </resp><name>William Shaw</name><resp>Project Manager: </resp><name>Ashley Reed</name><resp>Bibliographer: </resp><name>Mark Crosby</name><resp>Project Assistants: </resp><name/><name/><name/><name/><name/><name/></respstmt><sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
-                    and the University of Rochester</sponsor><funder>The National Endowment for the Humanities, 2010-2013</funder><funder>Institute for Advanced Technology in the Humanities, University of Virginia,
-                    1995-2007</funder><funder>The National Endowment for the Humanities, 2000-02</funder><funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder><funder>Inso Corporation (now Enigma Corporation), software grant,
-                    1996-2006</funder><funder>Sun Microsystems, hardware and software grants, 1996-2006</funder><funder>The Getty Grant Program, 1995-98</funder></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 475KB; 108 JPEG
-                (ISO/IEC 10918) files ranging in size from 55KB to 820KB</extent><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                Archives<date/></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt><notesstmt/></filedesc><userestrict>Copyright © <date>2010</date> by Morris Eaves, Robert N. Essick, and Joseph
+<bad id="bb12.a" type="te" work="Blake's Chaucer, The Canterbury Pilgrims" copy="A" copyid="1" institution="britishmuseum" catalog="bentley" catid="12" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Blake's Chaucer, The Canterbury Pilgrims">
+                    <main>Blake's Chaucer, The Canterbury Pilgrims</main>
+                    <copy>copy A</copy> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves</name>, University of Rochester;
+                    <name>Robert Essick</name>, University of California, Riverside; and 
+                    <name>Joseph Viscomi</name>, University of North Carolina at Chapel Hill
+                </principal>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file derived from 1 SGML (ISO 8879) encoded file approx. 19.5KB; 2 JPEG
+                (ISO/IEC 10918) files ranging in size from  to 1.6MB</extent><!--I know grant suggested that the 100dpi was about 1.9 but since the 300dpi is 1.6 this doesn't make sense to me. Tried to look for comps of typical differnces btwn 100 and 300; but all are different ranges.-->
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and Archives
+                <date>April 2023</date>
+            </publicationstmt>
+            <seriesstmt>William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+        </filedesc>
+        <userestrict>Copyright © <date>2023</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher, the Institute for Advanced Technology in the Humanities.
             Permission to reproduce the graphic images in this archive has been granted by the
-            owners of the originals for this publication only.<lb/><lb/>This work copyright © 2010 British Library.<lb/><lb/></userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>Conversion to XML and Blake Archive Description DTD 2005</change><date>2006</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
+            owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2023 British Library.<lb/>
+            <lb/>
+        </userestrict>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing, revisions, and publication</change>
+                <date>September 2022-April 2023</date>
+                <respstmt>
+                <resp>Editors: </resp>
+                <name>Morris Eaves, </name>
+                University of Rochester;
+                <name>Robert Essick, </name>
+                University of California, Riverside; and
+                <name>Joseph Viscomi, </name>
+                University of North Carolina at Chapel Hill
+                <resp>Assistant Editor: </resp>
+                <name>Michael Fox</name>
+                <resp>Managing Editor: </resp>
+                <name>Joseph Fletcher</name>
+                <resp>Assistant Project Manager: </resp>
+                <name>Grant Glass</name>
+                <resp>Project Coordinator, University of Rochester: </resp>
+                <name>Marcie Woehl</name>
+                <resp>Consultants on Special Projects: </resp>
+                <name>Ashley Reed, </name>
+                <name>Josh Romphf</name>
+                <resp>Bibliographer: </resp>
+                <name>Chuck Ripley</name>
+                <resp>Project Consultant: </resp>
+                <name>Meaghan Green</name>
+                <resp>Project Assistants: </resp>
+                <name>Christopher Catanese, </name>
+                <name>Dani Garcia, </name>
+                <name>Mary Geisert, </name>
+                <name>HaiLee Hearburg, </name>
+                <name>Liam Kusmierek, </name>
+                <name>Mary Learner, </name>
+                <name>Anna Mertz, </name>
+                <name>Celeste Seifert, </name>
+                <name>Elizabeth Shand, </name>
+                <name>Kate Soules, </name>
+                <name>Dominique Townsend</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Revisions to transcription and editorial notes composed</change>
+                <date>September-November 2020</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Rober Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor:</resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor:</resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager:</resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects</resp>
+                    <name>Ashley Reed,</name>
+                    <name>Josh Romphf,</name>
+                    <name>Helen Davies</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants:</resp>
+                    <name>Natasha Bharucha, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Kendall DeBoer, </name>
+                    <name>Ani Govjian, </name>
+                    <name>Meaghan Green, </name>
+                    <name>Rachael Isom, </name>
+                    <name>Mary Learner, </name>
+                    <name>Rob Rich, </name>
+                    <name>Madeline Rose, </name>
+                    <name>Oishani Sengupta, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Jewell Thomas, </name>
+                    <name>Marcie Woehl </name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Conversion to XML and Blake Archive Description DTD 2005</change>
+                <date>2006</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
                     </name>University of California, Riverside; and <name>Joseph Viscomi,
                     </name>University of North Carolina at Chapel Hill <resp>Project Manager and
-                        Technical Editor: </resp><name>William Shaw</name><resp>Conversion: </resp><name>Aziza Technology Associates</name><name>Wesley N. Raabe</name><resp>Project Assistants: </resp><name>Christopher N. Jackson, </name><name>Sarah E. Jones, </name><name>Kari Kraus, </name><name>Ashley Reed, </name><name>Wayne C. Ripley </name></respstmt></changestmt><changestmt><change>SGML BAD created</change><date>February 2003</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Project Manager:</resp><name>Andrea Dickens</name><resp>Technical Editor: </resp><name>Andrea Laue</name><resp>Project Assistants: </resp><name>Sarah H. Ficke, </name><name>Christopher N. Jackson, </name><name>Gerald Miller, </name><name>Sarah Trippensee, </name><name>Justin Van Kleeck</name></respstmt></changestmt><changestmt><change>Images acquired, scanned and catalogued</change><date>November 1998</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Project Manager and
-                        Technical Editor: </resp><name>Matthew Kirschenbaum</name><resp>Project Assistants: </resp><name>Jessica Kem, </name><name>Greg Murray</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title type="transcribed"><hi rend="i">Blake's Chaucer, The Canterbury Pilgrims</hi></title></objtitle><origination>William Blake <role>author</role>. </origination><origination>Watts &amp; Bridgewater<role>printer</role>. </origination><imprint><publisher>Watts &amp; Bridgewater</publisher><pubplace>London</pubplace><date>1809</date></imprint><compdate value="1809">1809</compdate></objdescid><objinfo><printdate value="1809">1809</printdate><numberobj>1</numberobj><objorder>1</objorder><objsize>18.7 x 22.8 cm.</objsize><numberleaves>1</numberleaves><leafsize>18.7 x 22.8 cm.</leafsize><medium>??</medium><printingstyle>letterpress</printingstyle><inkcolor>black</inkcolor><support>paper</support><watermark>"1807"</watermark><binding>???</binding></objinfo><provenance n="1"><name>British Museum</name><date>??</date><dealer>??</dealer><price>??</price><note>??</note></provenance><repository><institution>British Museum</institution><addressline>Great Russell Street</addressline><addressline>London WC1B 3DG</addressline><addressline>United Kingdom</addressline><lb/><addressline>Telephone: +44 (0)20 7323 8408</addressline><addressline>Fax: +44 (0)20 7323 8999</addressline><addressline>URL: http://www.thebritishmuseum.ac.uk</addressline><lb/><department>???</department><collection>???</collection><repositoryid label="Accession number">???</repositoryid><lb/><lb/></repository></source><desc id="bb12.a.te.01" dbi="BB12.a.1.TYP"><objtitle><title type="transcribed">Blake's Chaucer, The Canterbury Pilgrims</title>, <objid><objnumber code="A1">Object 1 </objnumber></objid></objtitle><physdesc><objsize>18.7 x 22.8 cm.</objsize><windowsize width="500" height="615"/></physdesc><phystext><texthead type="title" justify="left"><!-- texthead allows type -->
-                    <!-- lg not allowed inside texthead  --><l n="bb12.a.te.01.01" justify="left" indent="23">BLAKE's CHAUCER,</l><l n="bb12.a.te.01.02" justify="left" indent="19"><hi rend="italic">THE
-                            CANTERBURY PILGRIMS</hi>.</l><l n="bb12.a.te.01.03" justify="left"><hr width="13" align="left" indent="10"/></l><l n="bb12.a.te.01.04" justify="left" indent="22">THE FRESCO PICTURE,</l><l n="bb12.a.te.01.05" justify="left" indent="13">Representing CHAUCER's
-                        Characters, painted by</l></texthead><vspace extent="1"/><!-- vspace not allowed in texthead --><texthead type="title" justify="left"><l n="bb12.a.te.01.06" justify="left" indent="24">WILLIAM BLAKE,</l></texthead><vspace extent="1"/><texthead type="title" justify="left"><l n="bb12.a.te.01.07" justify="left" indent="18"><hi rend="italic">As it is
-                            now submitted to the Public,</hi></l></texthead><vspace extent="1"/><lg type="prose" justify="left"><l n="bb12.a.te.01.08" justify="left" indent="2">THE Designer proposes to
-                        Engrave, in a correct and finished Line manner of</l><l n="bb12.a.te.01.09" justify="left">Engraving, similar to those original
-                        Copper Plates of
-                        <choice><orig>ALBERT </orig><reg type="alt_name">Albrecht</reg></choice><choice><orig>DURER</orig><reg type="alt_name">Dürer</reg><reg type="alt_name">Duerer</reg></choice>, 
-                        <choice><orig>LUCAS</orig><reg type="alt_name">Lucas van Leyden</reg><reg type="alt_name">Lucas Hugensz</reg><reg type="alt_name">Lucas Jacobsz</reg></choice>, 
-                        <choice><orig>HISBEN</orig><reg type="alt_name">Hans Sebald Beham</reg></choice>,</l><l n="bb12.a.te.01.10" justify="left"><choice><orig>ALDEGRAVE</orig><reg type="alt_name">Heinrich Aldegrever</reg><reg type="alt_name">Heinrich Aldegraf</reg></choice> and the old original Engravers, who were great Masters in Painting
-                        and</l><l n="bb12.a.te.01.11" justify="left">Designing, whose method, alone, can
-                        delineate Character as it is in this Picture,</l><l n="bb12.a.te.01.12" justify="left">where all the Lineaments are
-                        distinct.</l></lg><!-- testing lg by visual and conceptual grouping --><vspace extent="1"/><lg type="prose" justify="left"><l n="bb12.a.te.01.13" justify="left" indent="2">It is hoped that the Painter
-                        will be allowed by the Public (notwithstanding artfully</l><l n="bb12.a.te.01.14" justify="left">dissemminated insinuations to the
-                        contrary) to be better able than any other to keep</l><l n="bb12.a.te.01.15" justify="left">his own Characters and Expressions;
-                        having had sufficient evidence in the Works of</l><l n="bb12.a.te.01.16" justify="left">our own 
-                        <choice><orig>HOGARTH</orig><reg type="alt_name">William Hogarth</reg></choice>, that no other Artist can
-                        reach the original Spirit so well as the</l><l n="bb12.a.te.01.17" justify="left">Painter himself, especially as Mr. B. is
-                        an old well-known and acknowledged Engraver.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb12.a.te.01.18" justify="left" indent="2">The size of the Engraving will
-                        be 3-feet 1-inch long, by 1-foot high.—The Artist</l><l n="bb12.a.te.01.19" justify="left">engages to deliver it, finished, in One
-                        Year from September next.—No Work of Art,</l><l n="bb12.a.te.01.20" justify="left">can take longer than a Year: it may be
-                        worked backwards and forwards without end,</l><l n="bb12.a.te.01.21" justify="left">and last a Man's whole Life; but he will,
-                        at length, only be forced to bring it back to</l><l n="bb12.a.te.01.22" justify="left">what it was, and it will be worse than it
-                        was at the end of the first Twelve Months.</l><l n="bb12.a.te.01.23" justify="left">The Value of this Artist's Year is the
-                        Criterion of Society: and as it is valued, so does</l><l n="bb12.a.te.01.24" justify="left">Society flourish or decay.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb12.a.te.01.25" justify="left" indent="2">The Price to
-                        Subscribers—FOUR GUINEAS, Two to be paid at the time of</l><l n="bb12.a.te.01.26" justify="left">Subscribing, the other Two, on delivery
-                        of the Print.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb12.a.te.01.27" justify="left" indent="2">Subscriptions received at No.
-                        28, Corner of BROAD-STREET, GOLDEN-SQUARE;</l><l n="bb12.a.te.01.28" justify="left">where the Picture is now Exhibiting,
-                        among other Works, by the same Artist.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb12.a.te.01.29" justify="left" indent="10">The Price will be
-                        considerably raised to Non-subscribers.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb12.a.te.01.30" justify="left">M<hi rend="italic">ay</hi> 15<hi rend="italic">th</hi>, 1809.</l><l n="bb12.a.te.01.31" justify="left"><hr width="20" align="left" indent="8"/></l></lg><textfoot justify="left"><!-- textfoot does not allow type --><l n="bb12.a.te.01.32" justify="left" indent="15">Printed by Watts &amp;
-                    Bridgewater, Southmolton-Street.</l></textfoot></phystext></desc></objdesc></bad>
+                        Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Conversion: </resp>
+                    <name>Aziza Technology Associates</name>
+                    <name>Wesley N. Raabe</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah E. Jones, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Ashley Reed, </name>
+                    <name>Wayne C. Ripley </name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images acquired, scanned and catalogued</change>
+                <date>September 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester;
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum, </name>
+                    <name>Andrea Laue</name>
+                    <resp>Programmer/Analyst: </resp>
+                    <name>Robert Bingler</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Scott Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title type="transcribed">*Blake's Chaucer, The Canterbury Pilgrims*</title>
+                </objtitle>
+                <origination>William Blake <role>author</role></origination>
+                <origination>Watts &#38; Bridgewater<role>printer</role> </origination>
+                <imprint>
+                    <publisher>Watts &#38; Bridgewater</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1809</date>
+                </imprint>
+                <compdate value="1809">1809</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1809">1809</printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objnote><p>Regarding distribution, Bentley notes that this prospectus was most likely sent by Blake to his friends in   
+                    May 1809 (*Writings* volume 2, page 1692). J.B. Mertz identified a previously unrecorded copy found pasted alongside another prospectus for a print by Robert Hartley Cromek in Francis Douce's edition of Chaucer.<!--specify edition; the disovered copy--> 
+                    This copy is now held at the Bodleian Library as part of Douce's estate (Mertz, "An Unrecorded Copy of Blake's 1809 Chaucer Prospectus," *Blake/An Illustrated Quarterly* 32.3 (Winter:1998-99), page 74). 
+                 </p></objnote>
+                <objsize>22.8 x 18.7 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>22.8 x 18.7 cm.</leafsize>
+                <medium>type</medium>
+                <printingstyle>letterpress</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <note>Printed on one side of a leaf of broadsheet with the verso left blank.</note>
+                <watermark>"1807"</watermark>
+                <binding>bound in card</binding>
+                <note>According to materials from the British Museum, this prospectus is bound with Copy A of the other prospectus for the Chaucer engraving (BB11) in a card cover.</note>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1894</date>
+                <dealer>None</dealer>
+                <price>&#163;150</price>
+                <note>Probably acquired by Anne (Mrs. Alexander) Gilchrist at an unknown time; likely bequeath by inheritance in 1885 to her son, Herbert H. Gilchrist; sold by H. H. Gilchrist 
+                    with thirteen other works by Blake and his brother Robert, including Robert Blake's drawing of the *Approach of Doom*, to the British Museum for £150 in June 1894.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <addressline>Great Russell Street</addressline>
+                <addressline>London WC1B 3DG</addressline>
+                <addressline>United Kingdom</addressline>
+                <lb/>
+                <addressline>Telephone: +44 (0)20 7323 8000</addressline>
+                <addressline>Fax: +44 (0)20 7323 8999</addressline>
+                <addressline>URL: http://www.thebritishmuseum.ac.uk</addressline>
+                <lb/>
+                <department>Prints and Drawings</department>
+                <collection></collection>
+                <repositoryid label="Accession number">1894,0612.37-38</repositoryid>
+                <lb/>
+                <lb/>
+            </repository>
+        </source>
+     </objdesc>
+   </header>        
+    <desc id="BB12.a.TYP.01" dbi="BB12.a.1.1.TYP">
+            <objtitle>
+                <title type="transcribed">Blake's Chaucer, The Canterbury Pilgrims</title>
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="B1">(Bentley 1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>22.8 x 18.7 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+        <phystext>
+            <lg type="prose" justify="left">
+                <l n="BB12.a.TYP.01.01" justify="left" indent="28">BLAKE's CHAUCER,</l>
+                <l n="BB12.a.TYP.01.02" justify="left" indent="22"><hi rend="italic">THE CANTERBURY PILGRIMS</hi>.</l>
+                <l n="BB12.a.TYP.01.03" justify="left"><hr width="8" align="left" indent="14"/><note>In the printed text, this is a decorative line.</note></l>
+                <l n="BB12.a.TYP.01.04" justify="left" indent="25">THE FRESCO PICTURE,</l>
+                <l n="BB12.a.TYP.01.05" justify="left" indent="14">Representing CHAUCER'S Characters, painted by</l>
+            </lg>
+            <lg type="prose" justify="left">
+                <l n="BB12.a.TYP.01.06" justify="left" indent="30">WILLIAM BLAKE,</l>
+            </lg>  
+            <lg type="prose" justify="left">
+                <l n="BB12.a.TYP.01.07" justify="left" indent="19"><hi rend="italic">As it is now submitted to the Public,</hi></l>
+                <l n="BB12.a.TYP.01.08" justify="left" indent="2">THE Designer proposes to Engrave, in a correct and finished Line manner of</l>
+                <l n="BB12.a.TYP.01.09" justify="left">Engraving, similar to those original Copper Plates of
+                    <choice>
+                        <orig>ALBERT </orig> 
+                        <reg type="alt_name">Albrecht</reg>
+                    </choice>
+                    <choice>
+                        <orig>DURER</orig><reg type="alt_name">D&#252;rer</reg><reg type="alt_name">Duerer</reg></choice>,
+                    
+                    <choice>
+                        <orig>LUCAS</orig><reg type="alt_name">Lucas van Leyden</reg><reg type="alt_name">Lucas Hugensz</reg><reg type="alt_name">Lucas Jacobsz</reg></choice>, 
+                    
+                    <choice>
+                        <orig>HISBEN</orig><reg type="alt_name">Hans Sebald Beham</reg></choice>,
+                    
+                </l>
+                <l n="BB12.a.TYP.01.10" justify="left">
+                    <choice>
+                        <orig>ALDEGRAVE</orig>
+                        <reg type="alt_name">Heinrich Aldegrever</reg>
+                        <reg type="alt_name">Heinrich Aldegraf</reg>
+                    </choice>
+                    
+                    and the old original Engravers, who were great Masters in Painting
+                    and</l>
+                <l n="BB12.a.TYP.01.11" justify="left">Designing, whose method, alone, can 
+                    delineate Character as it is in this Picture,</l>
+                <l n="BB12.a.TYP.01.12" justify="left">where all the Lineaments are
+                    distinct.</l>
+            </lg>
+            
+            <lg type="prose" justify="left">
+                <l n="BB12.a.TYP.01.13" justify="left" indent="2">It is hoped that the Painter
+                    will be allowed by the Public (notwithstanding artfully</l>
+                <l n="BB12.a.TYP.01.14" justify="left">
+                    <choice>
+                        <orig>dissemminated</orig>
+                        <reg>diseminated</reg>
+                    </choice>
+                    <note>Bentley notes that the 1809 version uses 'dissemminated' instead of 'disseminated' (*Writings* volume 2, page 824).</note>
+                    insinuations to the
+                    contrary) to be better able than any other to keep</l>
+                <l n="BB12.a.TYP.01.15" justify="left">his own Characters and Expressions;
+                    having had sufficient evidence in the Works of</l>
+                <l n="BB12.a.TYP.01.16" justify="left">our own 
+                    <choice>
+                        <orig>HOGARTH</orig><reg type="alt_name">William Hogarth</reg></choice>, that no other Artist can reach the original Spirit so well as the</l>
+                <l n="BB12.a.TYP.01.17" justify="left">Painter himself, especially as Mr. B. is
+                    an old well-known and acknowledged Engraver.</l>
+            </lg>
+            
+            <lg type="prose" justify="left">
+                <l n="BB12.a.TYP.01.18" justify="left" indent="2">The size of the Engraving will
+                    be 3-feet 1-inch long, by 1-foot high.&#8212;The Artist</l>
+                <l n="BB12.a.TYP.01.19" justify="left">engages to deliver it, finished, in One
+                    Year from September next.&#8212;<note>Bentley notes that the date is Oct. 8, 1810 (*Writings* volume 2, page 824).</note>No Work of Art,</l>
+                <l n="BB12.a.TYP.01.20" justify="left">can take longer than a Year: it may be
+                    worked backwards and forwards without end,</l>
+                <l n="BB12.a.TYP.01.21" justify="left">and last a Man's whole Life; but he will,
+                    at length, only be forced to bring it back to</l>
+                <l n="BB12.a.TYP.01.22" justify="left">what it was, and it will be worse than it
+                    was at the end of the first Twelve Months.</l>
+                <l n="BB12.a.TYP.01.23" justify="left">The Value of this Artist's Year is the
+                    Criterion of Society: and as it is valued, so does</l>
+                <l n="BB12.a.TYP.01.24" justify="left">Society flourish or decay.</l>
+            </lg>
+            <lg type="prose" justify="left">
+                <l n="BB12.a.TYP.01.25" justify="left" indent="4">The Price to
+                    Subscribers&#8212;FOUR GUINEAS,
+                    <note>Bentely notes that the new price in 1810 was three guineas (*Writings* volume 2, page 824).</note>
+                    Two to be paid at the time of</l>
+                <l n="BB12.a.TYP.01.26" justify="left" indent="1">Subscribing, the other Two, on delivery
+                    of the Print.</l>
+            </lg>
+            <lg type="prose" justify="left">
+                <l n="BB12.a.TYP.01.27" justify="left" indent="2">Subscriptions received at No.
+                    28, Corner of BROAD-STREET, GOLDEN-SQUARE;</l>
+                <l n="BB12.a.TYP.01.28" justify="left">where the Picture is now Exhibiting,
+                    among other Works, by the same Artist.</l>
+            </lg>
+            <lg type="prose" justify="left">
+                <l n="BB12.a.TYP.01.29" justify="left" indent="11">The Price will be
+                    considerably raised to Non-subscribers.</l>
+            </lg>
+            <lg type="prose" justify="left">
+                <l n="BB12.a.TYP.01.30" justify="left" indent="5">M<hi rend="italic">ay</hi> 15<hi
+                    rend="italic">th</hi>, 1809.</l>
+            </lg>
+            <textfoot justify="left">
+                <l  n="BB12.a.TYP.01.31" justify="left"><hr width="22" align="left" indent="7.5"/><note>In the printed edition, this line is a double rule.</note></l>
+                <l n="BB12.a.TYP.01.32" justify="left" indent="15">Printed by Watts &#38;
+                    Bridgewater, Southmolton-Street.</l>
+            </textfoot>    
+        </phystext>
+        </desc>
+</bad>

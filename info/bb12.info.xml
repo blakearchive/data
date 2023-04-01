@@ -1,3 +1,25 @@
-<info id="bb12"><worktitle><div id="bb12.title"><h1><i>Blake's Chaucer: The Canterbury Pilgrims</i></h1></div></worktitle><remarks><div id="bb12.top"><p>
-            </p></div></remarks><related>
-    </related></info>
+<?xml version="1.0" encoding="UTF-8"?>
+<info id="bb12">
+        <worktitle>
+                <div id="bb12.title">
+                        <h1>
+                                <i>Blake's Chaucer: The Canterbury Pilgrims</i>
+                        </h1>
+                </div>
+        </worktitle>
+        <remarks>
+                <div id="bb12.top">
+                        <p> </p>
+                </div>
+        </remarks>
+        <related> 
+                <relationship><link type="object" ptr="copy/bb122.1?descId=bb122.1.ms.58">*Blake's Notebook*,
+                        Object 58</link><br/> Manuscript, c. 1790-93. Bentley 122.<br/> British Library<br/> London </relationship>
+                <relationship><link type="object" ptr="preview/but653?descId=but653.1.pt.01">*Sir Jeffery Chaucer
+                        and the Nine and Twenty Pilgrims on Their Journey to Canterbury*</link><br/> Tempera painting,
+                        c. 1808. Butlin 653.<br/> Pollock House<br/> Glasgow, Scotland </relationship>
+                <relationship><link type="work" ptr="esxvi">*Chaucers Canterbury Pilgrims*</link><br/>
+                        Etching/engraving, 1810. Essick XVI.<br/> Multiple owners </relationship>
+        
+        </related>
+</info>
