@@ -1,88 +1,536 @@
-<bad id="bb36.a" type="te" work="Exhibitions of Paintings in Fresco" copy="a" copyid="a" institution="huntington" catalog="bentley" catid="36" hidden="false"><header><filedesc><titlestmt><title reg="Exhibitions of Paintings in Fresco"><main>Exhibitions of Paintings in Fresco</main><copy>, copy a</copy>: electronic edition </title><principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert
-                    Essick,</name>University of California, Riverside; and <name>Joseph
-                        Viscomi,</name>University of North Carolina at Chapel Hill</principal><respstmt/><sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
-                    and the University of Rochester</sponsor><funder/></titlestmt><editionstmt>Blake Archive Description DTD Version 2005</editionstmt><extent/><publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; Carolina Digital Library and
-                    Archives<date>2014</date></publicationstmt><seriesstmt>The William Blake Archive</seriesstmt></filedesc><userestrict>Copyright © <date>2014</date> by Morris Eaves, Robert N. Essick, and Joseph
+<bad id="bb36.a" type="te" work="Exhibition of Paintings in Fresco" copy="a" copyid="1" institution="huntington" catalog="bentley" catid="36" hidden="false"> 
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Exhibition of Paintings in Fresco">
+                    <main>Exhibition of Paintings in Fresco</main>
+                    <copy>Copy A</copy>
+                    : electronic edition 
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves,</name>
+                    University of Rochester; 
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and 
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                </principal>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 33KB; 6 JPEG files ranging in size from approx.  to 3MB</extent><!--need to figure out 100dpi sizes--> 
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>April 2023</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+        </filedesc>
+        <userestrict>Copyright © <date>2023</date> by Morris Eaves, Robert N. Essick, and Joseph
             Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
             Fair Use provisions of U.S. copyright law. Redistribution or republication on other
             terms, in any medium, requires express written consent from the editors and advance
             notification of the publisher. Permission to reproduce the graphic images in this
             archive has been granted by the owners of the originals for this publication
-            only.<lb/><lb/>This work copyright © 2014 Davis Library.<lb/><lb/></userestrict><encodingdesc/><profiledesc/><revisiondesc><changestmt><change>XML BAD created</change><date>February 2014</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Technical Editor: </resp><name>Michael Fox</name><resp>Project Manager: </resp><name>Joseph Fletcher</name><resp>Project Coordinator, University of Rochester:</resp><name>Laura Whitebell</name><resp>Bibliographer: </resp><name>Mark Crosby</name><resp>Consultant on Special Projects:</resp><name>Ashley Reed</name><resp>Project Assistants: </resp><name>Esther Arnold, </name><name>Amber Bertin, </name><name>Abby Brengle, </name><name>Katherine Calvin, </name><name>Adam Engel, </name><name>Andrea Everett, </name><name>Duncan Graham, </name><name>Shannon Jaime, </name><name>Gabrielle Kirilloff, </name><name>Eric Loy, </name><name>Kate Massie, </name><name>Adam McCune, </name><name>Ali McGhee, </name><name>Hardeep Sidhu, </name><name>Margaret Speer, </name><name>Danny Tsegai, </name><name>Lisa Vandenbossche, </name><name>Nikolaus Wasmoen, </name><name>Alia Wegner, </name><name>Megan Wilson</name></respstmt></changestmt><changestmt><change>Images acquired, scanned and catalogued</change><date>October 2010</date><respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
-                    </name>University of California, Riverside; and <name>Joseph Viscomi,
-                    </name>University of North Carolina at Chapel Hill <resp>Project Manager and
-                        Technical Editor: </resp><name>Matthew Kirschenbaum</name><resp>Project Assistants: </resp><name>Jessica Kem, </name><name>Greg Murray</name></respstmt></changestmt></revisiondesc></header><objdesc><source><objdescid><objtitle><title type="transcribed"><hi rend="i">Exhibitions of Paintings in Fresco</hi></title></objtitle><origination>William Blake <role>author, </role><role>inventor, </role><!--Watts & Co. Printers, Southmolton St. are the printers. Where do I put that information? Do they become the publisher in this framework?--><role>delineator</role></origination><compdate value="1809">1809</compdate></objdescid><objinfo><printdate value="18090515">1809</printdate><numberobj>4</numberobj><objorder>1-4</objorder>
-                <!-- Do we count the blank page as an object? --><objsize>full page 11.9 x 20.1 cm.</objsize>
-                <!-- Same as leafsize? Or is this the full size of the work? --><note>Given dimensions refer to the photographed pages of Gilchrist's <hi rend="i">Life of William Blake</hi> volume 2; see note on Provenance in the Work
-                    Information.</note><numberleaves>2</numberleaves><leafsize>18.0 x 23.8 cm.</leafsize><medium>typographical</medium><inkcolor>black</inkcolor><support>laid paper</support><watermark>N HENDON[?] /1802 (copy A).</watermark><binding>loose</binding><sealDesc>red wax</sealDesc><addressee>Mr. Ozias Humphrey</addressee></objinfo><provenance n="1"><name>Henry E. Huntington Library and Art Gallery</name><note>[...Alexander Gilchrist's <hi rend="i">Life of William Blake</hi> (1863)
-                    "Pictor Ignotus" (London: Macmillan, 1863).] Blake's posthumous biographer
-                    Alexander Gilchrist died in 1861 before completing his biography of Blake, which
-                    was finished by his wife, Anne Gilchrist, with assistance from Dante Gabriel
-                    Rossetti and others (see also Bentley, <hi rend="i">Blake Books</hi>, pages
-                    24-27).</note></provenance><repository><institution>Henry E. Huntington Library and Art Gallery</institution><addressline>1151 Oxford Road</addressline><addressline>San Marino, California 91108</addressline><addressline>United States</addressline><addressline>Telephone: 626-405-2100</addressline><addressline>Telephone (Reader Services): 626-405-2191</addressline><addressline>Fax (Reader Services): 626-405-3477</addressline><addressline>URL: http://www.huntington.org/</addressline><addressline>email: readerregistration@huntington.org</addressline><repositoryid label="Accession number">ND497.B6 G5 v.2</repositoryid><!-- NEEDS UPDATING, COPIED OVER FROM OLD BAD --><lb/><lb/></repository></source><desc id="bb36.a.te.01" dbi="BB36.A.1.TYP"><objtitle><title type="transcribed">Exhibitions of Paintings in Fresco</title><objid><objnumber code="A1">Object 1</objnumber><objcode code="B36">(Bentley 36)</objcode></objid></objtitle><physdesc><objsize>11.9 x 20.1 cm.</objsize><windowsize width="500" height="615"/></physdesc><phystext><vspace extent="5"/><lg type="prose" justify="left"><l n="bb36.a.te.01.01" justify="left"><handShift medium="pencil"/>W<hi rend="underline">.Blake</hi>. </l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb36.a.te.01.02" justify="left" indent="25"><handShift medium="ink"/>EXHIBITION</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb36.a.te.01.03" justify="left" indent="30">of</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb36.a.te.01.04" justify="left" indent="23"><hi rend="bold">Paintings in
-                            Fresco,</hi></l><l n="bb36.a.te.01.05" justify="left" indent="17">Poetical and Historical
-                        Inventions,</l></lg><vspace extent=".5"/><lg type="prose" justify="left"><l n="bb36.a.te.01.06" justify="left" indent="23.5"><hi rend="underline"/>By.
-                    Wm. BLAKE.</l><l n="bb36.a.te.01.07" justify="left"><hr width="7" align="left" indent="10.3"/></l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb36.a.te.01.08" justify="left" indent="1">THE ANCIENT BRITONS—Three
-                        Ancient Britons overthrowing the</l><l n="bb36.a.te.01.09" justify="left" indent="1">Army of armed Romans; the
-                        Figures full as large as Life—</l><l n="bb36.a.te.01.10" justify="left" indent="18">From the Welch Triades.</l></lg><vspace extent="1"/><lg type="verse" justify="left"><l n="bb36.a.te.01.11" justify="left" indent="5">In the last Battle that Arthur
-                        fought, the most Beautiful was one</l><l n="bb36.a.te.01.12" justify="left" indent="5">That return'd and the most
-                        Strong another: with them also return'd</l><l n="bb36.a.te.01.13" justify="left" indent="5">The most Ugly, and no other
-                        beside return'd from the bloody Field.</l><l n="bb36.a.te.01.14" justify="left" indent="5">The most Beautiful, the Roman
-                        Warriors trembled before and worshipped:</l><l n="bb36.a.te.01.15" justify="left" indent="5">The most Strong, they melted
-                        before him and dissolved in his presence:</l><l n="bb36.a.te.01.16" justify="left" indent="5">The most Ugly they fled with
-                        outcries and contortion of their Limbs.</l><l n="bb36.a.te.01.17" justify="left" indent="1">THE CANTERBURY PILGRIMS from
-                            <hi rend="italic">Chaucer</hi>—a cabinet Picture in</l><l n="bb36.a.te.01.18" justify="left" indent="0">Fresco—Thirty Figures on
-                        Horse–back, in a brilliant Morning Scene.</l><l n="bb36.a.te.01.19" justify="left" indent=".5">Two Pictures, representing
-                        grand Apotheoses of NELSON and PITT,</l><l n="bb36.a.te.01.20" justify="left" indent="0">with variety of cabinet
-                        Pictures, unchangeable and permanent in</l><l n="bb36.a.te.01.21" justify="left" indent="0">Fresco, and Drawings for Public
-                        Inspection and for Sale by Private</l><l n="bb36.a.te.01.22" justify="left" indent="26">Contract, at</l><l n="bb36.a.te.01.23" justify="left" indent="8"><hi rend="italic">No.</hi> 28,
-                            <hi rend="italic">Corner of BROAD STREET, Golden-Square.</hi></l><l n="bb36.a.te.01.24" justify="left"><hr width="11" align="left" indent="8.5"/></l><l n="bb36.a.te.01.25" justify="left" indent="14"><hi rend="italic">"Fit
-                            Audience find tho' few"</hi> MILTON.</l><l n="bb36.a.te.01.26" justify="left"><hr width="7" align="left" indent="10"/></l><l n="bb36.a.te.01.27" justify="left" indent="5">Admittance 2s. 6d. each Persona
-                        discriptive Catalogue included, <space/><hi rend="italic">Containing</hi></l><!-- Still need to show that Containing ample illustrations of art is a handwritten addition. --><l n="bb36.a.te.01.28" justify="left"><hr width="4.5" align="left" indent="12"/><note>In the printed edition, this line is a decorative double line.</note></l><l n="bb36.a.te.01.29" justify="left" indent="60"><hi rend="italic">Ample Illustrations</hi></l><l n="bb36.a.te.01.30" justify="left" indent="15">Watts &amp; Co. Printers,
-                        Southmolton St.</l><l n="bb36.a.te.01.31" justify="left" indent="70"><hi rend="italic">on Art</hi></l></lg></phystext></desc><desc id="bb36.a.te.02" dbi="BB36.A.2.TYP"><objtitle><title type="transcribed"/><objid><objnumber code="A2">Object 2</objnumber></objid></objtitle><physdesc><objsize>11.9 x 20.1 cm.</objsize><objnote><note>Original manuscript untraced; Blake's Prospectus was printed on two
-                        leaves, recto page 263 (object 1) and verso page 264 (object 2) of
-                        Gilchrist's 1863 edition of <hi rend="i">Life of William Blake</hi> volume
-                        2.</note></objnote><windowsize width="500" height="615"/></physdesc><phystext><lg type="prose" justify="left"><l n="bb36.a.te.02.01" justify="left" indent="22">The Invention of a portable
-                        Fresco.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb36.a.te.02.02" justify="left">A Wall on Canvas or Wood, or any other
-                        portable thing, of dimensions ever so large,</l><l n="bb36.a.te.02.03" justify="left">or ever so small, which may be removed
-                        with the same convenience as so many easel</l><l n="bb36.a.te.02.04" justify="left">Pictures; is worthy the consideration of
-                        the Rich and those who have the direction</l><l n="bb36.a.te.02.05" justify="left">of public Works. If the Frescos of
-                        APELLES, of PROTOGENES, of RAPHAEL, or</l><l n="bb36.a.te.02.06" justify="left">MICHAEL ANGELO could have been removed, we
-                        might, perhaps, have them now</l><l n="bb36.a.te.02.07" justify="left">in England. I could divide Westminster
-                        Hall, or the walls of any other great</l><l n="bb36.a.te.02.08" justify="left">Building, into compartments and ornament
-                        them with Frescos, which would be</l><l n="bb36.a.te.02.09" justify="left">removable at pleasure.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb36.a.te.02.10" justify="left" indent="2">Oil will not drink or absorb
-                        Colour enough to stand the test of very little Time and</l><l n="bb36.a.te.02.11" justify="left">of the Air; it grows yellow, and at length
-                        brown. It was never generally used till</l><l n="bb36.a.te.02.12" justify="left">after VANDYKE'S time. All the little old
-                        Pictures, called cabinet Pictures, are in</l><l n="bb36.a.te.02.13" justify="left">Fresco, and not in Oil.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb36.a.te.02.14" justify="left" indent="2">Fresco Painting is properly
-                        Miniature, or Enamel Painting; every thing in Fresco</l><l n="bb36.a.te.02.15" justify="left">is as high finished as Miniature or
-                        Enamel, although in Works larger than Life.</l><l n="bb36.a.te.02.16" justify="left">The Art has been lost: I have recovered
-                        it. How this was done, will be told, to–</l><l n="bb36.a.te.02.17" justify="left">gether with the whole Process, in a Work
-                        on Art, now in the Press. The ignorant</l><l n="bb36.a.te.02.18" justify="left">Insults of Individuals will not hinder me
-                        from doing my duty to my Art. Fresco</l><l n="bb36.a.te.02.19" justify="left">Painting, as it is now practised, is like
-                        most other things, the contrary of what it</l><l n="bb36.a.te.02.20" justify="left">pretends to be.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb36.a.te.02.21" justify="left" indent="2">The execution of my Designs,
-                        being all in Water–colours, (that is in Fresco) are</l>
-                    <!-- Don't forget to notate the wax residue and pencil markings --><l n="bb36.a.te.02.22" justify="left">regularly refused to be exhibited by the
+            only.<lb/><lb/>This image copyright © 2023 The Huntington.<lb/> 
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing, revisions, and publication</change>
+                <date>August 2022-April 2023</date> 
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Geisert, </name>
+                    <name>HaiLee Hearburg, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                    </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Manuscript transcribed and editorial notes composed</change>
+                <date>August 2021-December 2021</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick,
+                    </name>University of California, Riverside; and 
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Oishani Sengupta</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf, </name>
+                    <name>Alex Zawacki,</name>
+                    <name>Helen Davies</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Katherine Calvin, </name>
+                    <name>Ani Govjian, </name>
+                    <name>Meaghan Green, </name>
+                    <name>Rachael Isom, </name>
+                    <name>Mary Learner, </name>
+                    <name>Madeline Rose, </name>
+                    <name>Anneke Schwob, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Iftekhar Uddin, </name>
+                    <name>Marcie Woehl, </name>
+                    <name>Anna Michas, </name>
+                    <name>William Kusmierek</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created</change>
+                <date>February 2014</date>      
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester; 
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and 
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Consultant on Special Projects:</resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Amber Bertin, </name>
+                    <name>Abby Brengle, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kirilloff, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images acquired, scanned and catalogued</change>
+                <date>October 2010</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor:</resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager:</resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Elizabeth King, </name>
+                    <name>Joseph Lamperez, </name>
+                    <name>Rachel Lee, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title type="transcribed">*Exhibition of Paintings in Fresco*</title>
+                </objtitle>
+                <origination>William Blake
+                    <role>author, </role>
+                    <role>inventor</role>
+                </origination>
+                <imprint>
+                    <publisher>Watts &#38; Co. Printers</publisher>
+                    <note>Bentley states that this flyer was sent out by Blake in May of 1809 to his friends.
+                        The only surviving copies of the flyer were folded into envelopes 
+                        and sealed with a wafer. Copy A is addressed to Ozias Humphrey. (*Writings* volume 2, page 1692).</note>
+                    <pubplace>London</pubplace>
+                </imprint>
+                <compdate value="1809">1809</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1809">1809</printdate>
+                <numberobj>3</numberobj>
+                <objorder>1-3</objorder>
+                <numberleaves>2
+                    <note>The full sheet was folded to form two leaves. The prospectus is printed on the first recto and first verso 
+                        (Object 1 and 2, respectively), both of which include handwritten additions by Blake. This folded sheet was 
+                        folded again to form a packet. The address appears on the second verso (Object 3) and the blank second 
+                        recto is not pictured.</note>
+                </numberleaves> 
+                <leafsize>23.8 x 18.0 cm.</leafsize>
+                <medium>type with handwritten additions in pen and ink</medium>
+                <printingstyle>letterpress</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>N HENDON[?] / 1802</watermark><!--specifiy objects?-->
+                <binding>none</binding>
+                <sealDesc>red wafer</sealDesc>
+                <addressee>Ozias Humphrey Esquire</addressee>
+            </objinfo>
+            <provenance n="1">
+                <name>The Huntington Library, Art Museum, and Botanical Gardens</name>
+                <note>Sent by Blake to Ozias Humphry in 1809; Alexander C. Weston by no later than 1876; Mrs. Anderdon Weston, probably by inheritance; 
+                    sold Sotheby’s, 4 June 1907, lot 385 (£10.15s. to the dealer B. F. Stevens, possibly acting for Henry D. Hughes); 
+                    sold from the Hughes collection, American Art Association, New York, 16 April 1923, lot 128 ($125 to the dealer E. Weyhe); 
+                    acquired by the Huntington Library no later than April 1926.</note>
+            </provenance>
+            <repository>
+                <institution>The Huntington Library, Art Museum, and Botanical Gardens</institution>
+                <addressline>1151 Oxford Road</addressline>
+                <addressline>San Marino, California 91108</addressline>
+                <addressline>United States</addressline>
+                <lb/>
+                <addressline>Telephone: 626-405-2100</addressline>
+                <addressline>Telephone, Reader Services: 626-405-2191</addressline>
+                <addressline>Fax, Reader Services: 626-405-3477</addressline>
+                <addressline>Email, Reader Services: readerregistration@huntington.org</addressline>
+                <addressline>URL: http://www.huntington.org/</addressline>
+                <lb/>
+                <department>Library Division</department>
+                <collection>Rare Books</collection>
+                <repositoryid label="Accession number">78637</repositoryid>
+                <lb/>
+                <lb/>
+            </repository>
+        </source>
+        <desc id="bb36.a.te.01" dbi="BB36.A.1.1.TYP">
+            <objtitle>
+                <title type="transcribed">Exhibition of Paintings in Fresco</title>
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="B1">(Bentley 1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>23.8 x 18.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="3"/>
+                <lg type="prose" justify="left">
+                    <l n="bb36.a.te.01.01" justify="left" indent="25.5">EXHIBITION</l>
+                </lg>
+                <lg type="prose" justify="left">
+                    <l n="bb36.a.te.01.02" justify="left" indent="30">OF</l>
+                </lg>
+                <lg type="prose" justify="left">
+                    <l n="bb36.a.te.01.03" justify="left" indent="23"><hi rend="bold">Paintings in
+                        Fresco,</hi></l>
+                    <l n="bb36.a.te.01.04" justify="left" indent="17">Poetical and Historical
+                        Inventions,</l>
+                </lg>
+                <lg type="prose" justify="left">
+                    <l n="bb36.a.te.01.05" justify="left" indent="23.5">BY. <choice><orig>WM.</orig><reg type ="alt_name">William Blake</reg></choice> BLAKE.</l>
+                    <l n="bb36.a.te.01.06" justify="left">
+                        <hr width="7" align="left" indent="11.5"/>
+                    </l>
+                </lg>
+                <lg type="prose" justify="left">
+                    <l n="bb36.a.te.01.07" justify="left" indent="1">THE ANCIENT BRITONS&#8212;Three
+                        Ancient Britons overthrowing the</l>
+                    <l n="bb36.a.te.01.08" justify="left" indent="3">Army of armed Romans; the
+                        Figures full as large as Life&#8212;</l>
+                    <l n="bb36.a.te.01.09" justify="left" indent="18">From the Welch Triades.</l>
+                </lg>
+                <lg type="prose" justify="left">
+                    <l n="bb36.a.te.01.10" justify="left" indent="5">In the last Battle that Arthur
+                        fought, the most Beautiful was one</l>
+                    <l n="bb36.a.te.01.11" justify="left" indent="5">That <choice><orig>return'd</orig><reg>returned</reg></choice>, and the most
+                        Strong another: with them also <choice><orig>return'd</orig><reg>returned</reg></choice></l>
+                    <l n="bb36.a.te.01.12" justify="left" indent="5">The most Ugly, and no other
+                        beside <choice><orig>return'd</orig><reg>returned</reg></choice> from the bloody Field.</l>
+                </lg>
+                <lg type="prose" justify="center">
+                    <l n="bb36.a.te.01.13" justify="left" indent="5">The most Beautiful, the Roman
+                        Warriors trembled before and worshipped:</l>
+                    <l n="bb36.a.te.01.14" justify="left" indent="5">The most Strong, they melted
+                        before him and dissolved in his presence:</l>
+                    <l n="bb36.a.te.01.15" justify="left" indent="5">The most Ugly they fled with
+                        outcries and contortion of their Limbs.</l>
+                </lg>
+                <lg type="prose" justify="left">
+                    <l n="bb36.a.te.01.16" justify="left" indent="1">THE CANTERBURY PILGRIMS from
+                        <hi rend="italic">Chaucer</hi>&#8212;a cabinet Picture in</l>
+                    <l n="bb36.a.te.01.17" justify="left" indent="0">Fresco&#8212;Thirty Figures on
+                        <choice><orig>Horse&#45;back</orig><reg>Horseback</reg></choice>, in a brilliant Morning Scene.</l>
+                </lg>
+                <lg type="prose" justify="left">
+                    <note>Bentley notes that in the *Descriptive Catalogue* the picture in question is described as 
+                        having twenty-nine figures (*Writings* volume 2, page 821).</note>
+                    <l n="bb36.a.te.01.18" justify="left" indent=".5">Two Pictures, representing
+                        grand Apotheoses of NELSON and PITT,</l>
+                    <l n="bb36.a.te.01.19" justify="left" indent="0">with variety of cabinet
+                        Pictures, unchangeable and permanent in</l>
+                    <l n="bb36.a.te.01.20" justify="left" indent="0">Fresco, and Drawings for Public
+                        Inspection and for Sale by Private</l>
+                    <l n="bb36.a.te.01.21" justify="left" indent="26">Contract, at</l>
+                </lg>
+                <lg type="verse" justify="left">
+                    <l n="bb36.a.te.01.22" justify="left" indent="8"><hi rend="italic">No.</hi> 28,
+                        <hi rend="italic">Corner of BROAD STREET, Golden&#45;Square.</hi></l>
+                    <l n="bb36.a.te.01.23" justify="left">
+                        <hr width="16" align="left" indent="7"/></l>
+                    <l n="bb36.a.te.01.24" justify="left" indent="14">
+                        <hi rend="italic">"Fit Audience find <choice><orig>tho'</orig><reg>though</reg></choice> few"</hi> MILTON.</l>
+                    <l n="bb36.a.te.01.25" justify="left">
+                        <hr width="12" align="left" indent="8.5"/></l>
+                    <l n="bb36.a.te.01.26" justify="left" indent="5">Admittance 2s. 6d. each Person, a <choice><orig>discriptive</orig><reg>descriptive</reg></choice>
+                        Catalogue included, 
+                        <hi rend="handshift" medium="pen">Containing</hi><note>Bentley corrects "discriptive" to "descriptive" (*Writings* volumes 2, page 821).</note></l>
+                    <l n="bb36.a.te.01.27" justify="left" indent="25">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<space extent="20" unit="character"/><hi rend="handshift" medium="pen">Ample Illustrations</hi>
+                        <note>This line is a double rule in the original text.</note></l>
+                    <l n="bb36.a.te.01.28" justify="left" indent="15">Watts &amp; Co. Printers,
+                        Southmolton <unclear resp="MW">St.</unclear><note>The abbreviation "St." at the end of this line is smeared. Bentley (*Writings* volume 2, page 821) and Erdman (527) transcribe it as "St."</note></l>
+                    <l n="bb36.a.te.01.29" justify="left" indent="69"><hi rend="handshift" medium="pen">on Art</hi><note>Bentley notes that Blake added the words "Containing Ample Illustrations on Art" at the bottom of page in both surviving copies of the flyer. (*Writings* volume 2, page 821).</note></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb36.a.te.02" dbi="BB36.A.1.2.TYP">
+            <objtitle>
+                <title type="transcribed"/>
+                <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                    <objcode code="B2">(Bentley 2)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>23.8 x 18.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                    <texthead type="title" justify="left">
+                        <l n="bb36.a.te.02.01" justify="left" indent="22"><hi rend="italic">The Invention of a portable
+                            Fresco.</hi></l>
+                    </texthead>
+                    <lg type="prose" justify="left">
+                        <l n="bb36.a.te.02.02" justify="left">A Wall on Canvas or Wood, or any other
+                            portable thing, of dimensions ever so large,</l>
+                        <l n="bb36.a.te.02.03" justify="left">or ever so small, which may be removed
+                            with the same convenience as so many easel</l>
+                        <l n="bb36.a.te.02.04" justify="left">Pictures; is worthy the consideration of
+                            the Rich and those who have the direction</l>
+                        <l n="bb36.a.te.02.05" justify="left">of public Works. If the Frescos of
+                            APELLES, of PROTOGENES, of RAPHAEL, or</l>
+                        <l n="bb36.a.te.02.06" justify="left">
+                            <choice>
+                                <orig>MICHAEL ANGELO</orig>
+                                <reg type="alt_name">Michelangelo</reg>
+                            </choice>
+                            could have been removed, we might, perhaps, have them now</l>
+                        <l n="bb36.a.te.02.07" justify="left">in England. I could divide Westminster
+                            Hall, or the walls of any other great</l>
+                        <l n="bb36.a.te.02.08" justify="left">Building, into compartments and ornament
+                            them with Frescos, which would be</l>
+                        <l n="bb36.a.te.02.09" justify="left">removable at pleasure.</l>
+                    </lg>
+                    <vspace extent="1"/>
+                    <lg type="prose" justify="left">
+                        <l n="bb36.a.te.02.10" justify="left" indent="2">Oil will not drink or absorb 
+                            <choice>
+                                <orig>Colour</orig>
+                                <reg>color</reg>
+                            </choice>enough to stand the test of very little Time and</l>
+                        <l n="bb36.a.te.02.11" justify="left">of the Air; it grows yellow, and at length
+                            brown. It was never generally used till</l>
+                        <l n="bb36.a.te.02.12" justify="left">after <choice><orig>VANDYKE</orig><reg type="alt_name">Van Dyke</reg></choice>'S time. All the little old
+                            Pictures, called cabinet Pictures, are in</l>
+                        <l n="bb36.a.te.02.13" justify="left">Fresco, and not in Oil.</l>
+                    </lg>
+                    <vspace extent="1"/>
+                    <lg type="prose" justify="left">
+                        <l n="bb36.a.te.02.14" justify="left" indent="2">Fresco Painting is properly
+                            Miniature, or Enamel Painting; every thing in Fresco</l>
+                        <l n="bb36.a.te.02.15" justify="left">is as high finished as Miniature or
+                            Enamel, although in Works larger than Life.</l>
+                        <l n="bb36.a.te.02.16" justify="left">The Art has been lost: I have recovered
+                            it. How this was done, will be told, 
+                            <choice>
+                                <orig>to&#45;</orig>
+                                <reg type="split_word">together</reg>
+                            </choice></l>
+                        <l n="bb36.a.te.02.17" justify="left">
+                            <choice>
+                                <orig>gether</orig>
+                                <reg type="split_word">together</reg>
+                            </choice>
+                            with the whole Process, in a Work on Art, now in the Press. The ignorant</l>
+                        <l n="bb36.a.te.02.18" justify="left">Insults of Individuals will not hinder me
+                            from doing my duty to my Art. Fresco</l>
+                        <l n="bb36.a.te.02.19" justify="left">Painting, as it is now <choice><orig>practised</orig><reg>practiced</reg></choice>,
+                            is like most other things, the contrary of what it</l>
+                        <l n="bb36.a.te.02.20" justify="left">pretends to be.</l>
+                    </lg>
+                    <vspace extent="1"/>
+                    <lg type="prose" justify="left">
+                        <l n="bb36.a.te.02.21" justify="left" indent="2">The execution of my Designs,
+                            being all in Water&#45;<choice><orig>colours</orig><reg>colors</reg></choice>,
+                            (that is in Fresco) are</l>
+                        <l n="bb36.a.te.02.22" justify="left">regularly refused to be exhibited by the
                             <hi rend="italic">Royal Academy</hi>, and the <hi rend="italic">British
-                            Institution</hi></l><l n="bb36.a.te.02.23" justify="left">has, this year, followed its example, and
-                        has effectually excluded me by this Reso–</l><l n="bb36.a.te.02.24" justify="left">lution; I therefore invite those Noblemen
-                        and Gentleman, who are its Subscribers, to</l><l n="bb36.a.te.02.25" justify="left">inspect what they have excluded: and those
-                        who have been told that my Works</l><l n="bb36.a.te.02.26" justify="left">are but an unscientific and irregular
-                        Eccentricity, a Madman's Scrawls, I demand of</l><l n="bb36.a.te.02.27" justify="left">them to do me the justice to examine
-                        before they decide.</l></lg><vspace extent="1"/><lg type="prose" justify="left"><l n="bb36.a.te.02.28" justify="left" indent="2">There cannot be more than two
-                        or three great Painters or Poets in any Age or</l><l n="bb36.a.te.02.29" justify="left">Country; and these, in a corrupt state of
-                        Society, are easily excluded, but not so</l><l n="bb36.a.te.02.30" justify="left">easily obstructed. They have exluded
-                        Water–colours; it is therefore become neces-</l><l n="bb36.a.te.02.31" justify="left">sary that I should exhibit to the Public,
-                        in an Exhibition of my own, my Designs,</l><l n="bb36.a.te.02.32" justify="left">Painted in Water–colours. If Italy
-                        is enriched and made great by RAPHAEL, if MICHAEL</l><l n="bb36.a.te.02.33" justify="left">ANGELO is its supreme glory, if Art is the
-                        glory of a Nation, if Genius and Inspira-</l><l n="bb36.a.te.02.34" justify="left">tion are the great Origin and Bond of
-                        Society, the distinction my Works have ob-</l><l n="bb36.a.te.02.35" justify="left">tained from those who best understand such
-                        things, calls for my Exbibition as the</l><l n="bb36.a.te.02.36" justify="left">greatest of Duties to my Country.</l><l n="bb36.a.te.02.37" justify="left"><handShift medium="black pen"/><hi rend="italic">May 15. 1809</hi><space extent="45"/>WILLIAM BLAKE.</l></lg></phystext></desc><desc id="bb36.a.te.03" dbi="BB36.A.3.TYP"><objtitle><title type="transcribed"/><objid><objnumber code="A2">Object 2</objnumber></objid></objtitle><physdesc><objsize>11.9 x 20.1 cm.</objsize><objnote><note>Original manuscript untraced; Blake's Prospectus was printed on two
-                        leaves, recto page 263 (object 1) and verso page 264 (object 2) of
-                        Gilchrist's 1863 edition of <hi rend="i">Life of William Blake</hi> volume<!-- CHECK THIS, CARRIED OVER FROM OLD BAD -->
-                        2.</note></objnote><windowsize width="500" height="615"/></physdesc><phystext><lg type="prose" justify="left"><l n="bb36.a.te.03.01" justify="left" indent="1"/><note>This page is blank except for some residue from the wax seal.</note></lg></phystext></desc><desc id="bb36.a.te.04" dbi="BB36.A.4.TYP"><objtitle><title type="transcribed"/><objid><objnumber code="A2">Object 2</objnumber></objid></objtitle><physdesc><objsize>11.9 x 20.1 cm.</objsize><objnote><note>Original manuscript untraced; Blake's Prospectus was printed on two
-                        leaves, recto page 263 (object 1) and verso page 264 (object 2) of
-                        Gilchrist's 1863 edition of <hi rend="i">Life of William Blake</hi> volume
-                        2.</note></objnote><windowsize width="500" height="615"/></physdesc><phystext><lg type="prose" justify="left"><l n="bb36.a.te.04.01" justify="left" indent="10">Ozias Humphrey Esq<hi rend="superscript">re</hi></l>
-                    <!-- Do I need a handShift? Or can we assume this is still black pen? --><l n="bb36.a.te.04.02" justify="left" indent="15">Sloane Street</l></lg></phystext></desc></objdesc></bad>
+                                Institution</hi></l>
+                        <l n="bb36.a.te.02.23" justify="left">has, this year, followed its example, and
+                            has effectually excluded me by this 
+                            <choice>
+                                <orig>Reso&#45;</orig>
+                                <reg type="split_word">Resolution</reg>
+                            </choice>
+                        </l><l n="bb36.a.te.02.24" justify="left"><choice><orig>lution</orig><reg type="split_word">Resolution</reg></choice>; I therefore invite those Noblemen and Gentleman, who are its Subscribers, to<note>Bentley corrects "Gentleman" to "Gentlemen" (*Writings* volume 2, page 822). Erdman corrects this error to "Gentlem[e]n" (527).</note></l>
+                        <l n="bb36.a.te.02.25" justify="left">inspect what they have excluded: and those
+                            who have been told that my Works</l>
+                        <l n="bb36.a.te.02.26" justify="left">are but an unscientific and irregular
+                            Eccentricity, a Madman's Scrawls, I demand of</l>
+                        <l n="bb36.a.te.02.27" justify="left">them to do me the justice to examine
+                            before they decide.</l>
+                    </lg>
+                    <vspace extent="1"/>
+                    <lg type="prose" justify="left">
+                        <l n="bb36.a.te.02.28" justify="left" indent="2">There cannot be more than two
+                            or three great Painters or Poets in any Age or</l>
+                        <l n="bb36.a.te.02.29" justify="left">Country; and these, in a corrupt state of
+                            Society, are easily excluded, but not so</l>
+                        <l n="bb36.a.te.02.30" justify="left">easily obstructed. They have <choice><orig>exluded</orig><reg>excluded</reg></choice>
+                            Water&#45;<choice><orig>colours</orig><reg>colors</reg></choice>; it is therefore become <choice>
+                                <orig>neces&#45;</orig>
+                                <reg type="split_word">necessary</reg>
+                            </choice>
+                            <note>Bentley (*Writings* volume 2, page 822) and Erdman (528) correct "exluded" to "ex[c]luded".</note></l>
+                        <l n="bb36.a.te.02.31" justify="left">
+                            <choice>
+                                <orig>sary</orig>
+                                <reg type="split_word">necessary</reg>
+                            </choice>
+                            that I should exhibit to the Public, in an Exhibition of my own, my Designs,</l>
+                        <l n="bb36.a.te.02.32" justify="left">Painted in Water&#45;<choice><orig>colours</orig><reg>colors</reg></choice>. If Italy is enriched and made great by RAPHAEL, if <choice>
+                            <orig>MICHAEL</orig>
+                            <reg type="alt_name">Michelangelo</reg>
+                        </choice></l>
+                        <l n="bb36.a.te.02.33" justify="left">
+                            <choice>
+                                <orig>ANGELO</orig>
+                                <reg type="alt_name">Michelangelo</reg>
+                            </choice>
+                            is its supreme glory, if Art is the glory of a Nation, if Genius and 
+                            <choice>
+                                <orig>Inspira&#45;</orig>
+                                <reg type="split_word">Inspiration</reg>
+                            </choice>
+                        </l>
+                        <l n="bb36.a.te.02.34" justify="left">
+                            <choice>
+                                <orig>tion</orig>
+                                <reg type="split_word">Inspiration</reg>
+                            </choice>
+                            are the great Origin and Bond of Society, the distinction my Works have 
+                            <choice>
+                                <orig>ob&#45;</orig>
+                                <reg type="split_word">obtained</reg>
+                            </choice>
+                        </l>
+                        <l n="bb36.a.te.02.35" justify="left">
+                            <choice>
+                                <orig>tained</orig>
+                                <reg type="split_word">obtained</reg>
+                            </choice>
+                            from those who best understand such things, calls for my 
+                            <choice>
+                                <orig>Exbibition</orig>
+                                <reg>Exhibition</reg>
+                            </choice>as the<note>Bentley (*Writings* volume 2, page 822) and Erdman (528) correct "Exbibition" to "Exhibition".</note></l>
+                        <l n="bb36.a.te.02.36" justify="left">greatest of Duties to my Country.</l>
+                        <l n="bb36.a.te.02.37" justify="left"><hi rend="handshift" medium="pen">May 15. 1809</hi><space extent="45"/>WILLIAM BLAKE.</l>
+                    </lg>
+                
+            </phystext>
+        </desc>
+        <desc id="bb36.a.te.03" dbi="BB36.A.1.3.TYP">
+            <objtitle>
+                <title type="transcribed"/>
+                <objid>
+                    <objnumber code="A3">Object 3</objnumber>
+                    <objcode code="B4">(Bentley 4)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>23.8 x 18.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote><p>The address appears on the second verso (Object 3), which would have been the exterior of the folded packet. The blank first recto is not pictured.</p></objnote>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb36.a.te.03.01" justify="left" indent="10"><hi rend="handshift" medium="pen">Ozias Humphrey <choice>
+                        <orig>
+                            Esq<hi rend="superscript">re</hi></orig><reg>Esquire</reg></choice></hi></l>
+                    <l n="bb36.a.te.03.02" justify="left" indent="16"><hi rend="handshift" medium="pen"> Sloane Stre<unclear resp="MW">et</unclear></hi></l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
