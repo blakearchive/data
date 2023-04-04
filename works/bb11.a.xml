@@ -1,4 +1,4 @@
-<bad id="bb11.a" type="te" work="Blake's Chaucer: An Original Engraving" copy="A" copyid="1"
+<bad id="bb11.a" type="te" work="Blake's Chaucer: An Original Engraving" copy="A" copyid="A"
     institution="british museum" catalog="bentley" catid="11" hidden="false">
     <header>
         <filedesc>
@@ -14,13 +14,13 @@
                     University of Rochester; 
                     <name>Robert Essick, </name>
                     University of California, Riverside; and 
-                    <name>Joseph Viscomi, </name> 
-                    University of North Carolina at Chapel Hill 
+                    <name>Joseph Viscomi</name> 
+                    , University of North Carolina at Chapel Hill 
                 </principal>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
-            <extent>1 XML file approx. 32KB; 6 JPEG
-                (ISO/IEC 10918) files ranging in size from 705KB to 840KB</extent>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 31KB; 6 JPEG
+                (ISO/IEC 10918) files ranging in size from __KB to 840KB</extent><!--need lowest size of 100dpi added-->
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
                 <date>April 2023</date>
             </publicationstmt>
@@ -85,7 +85,7 @@
         </revisiondesc>
         <revisiondesc>
             <changestmt>
-                <change>Proofing and evisions</change>
+                <change>Proofing and revisions</change>
                 <date>September 2020-December 2020</date>
                 <respstmt>
                     <resp>Editors:</resp>
@@ -196,7 +196,14 @@
                     <role>author</role> 
                 </origination>
                 <origination>G. Smeeton
-                <role>printer</role>
+                <role>printer
+                    <note>This printed prospectus is a compilation of material from two sources, between which exist several differences. 
+                        One source is the *Descriptive Catalogue* of 1809, paragraphs 14, 15, and 17; 
+                        the other is the *Notebook*, pages 117-119, which is also derived from the *Catalogue* (*Writings* volume 2, page 863-864).
+                        Bentley notes that the differences between this prospectus and the source texts suggest the printer
+                        worked from a manuscript which contained material from both the *Notebook* and the *Descriptive Catalogue* (*Writings* volume 2, page 864).
+                    </note>
+                </role>
                 </origination>
                 <imprint>
                     <publisher>William Blake
@@ -205,13 +212,6 @@
                     </publisher>
                     <pubplace>London</pubplace>
                     <date>1810</date>
-                    <note>This printed prospectus is a compilation of material from two sources, between which exist several differences. 
-                        One source is the *Descriptive Catalogue* of 1809, paragraphs 14,15, and 17; 
-                        the other is the *Notebook*, pages 117-119, which is also derived from the *Catalogue* (*Writings* volume 2, page 863-864).
-                         Bentley notes that the differences between this prospectus and the source texts suggest the printer
-                         worked from a manuscript which contained material from both the *Notebook* and the *Descriptive Catalogue* (*Writings* volume 2, page 864).
-                         There are multiple differences in the spelling, capitalization, punctuation, and font style between Bentley and Erdman's transcriptions
-                         (see *Writings* volume 2, page 863-866; Erdman 567-570). Our notes from Erdman are taken from the composite draft.</note>
                 </imprint>
             </objdescid>
             <objinfo>
@@ -225,16 +225,22 @@
                 <printingstyle>letterpress</printingstyle>
                 <inkcolor>black</inkcolor>
                 <support>wove paper</support>
-                <watermark>none</watermark><note>Copies B and C have an "H WILLMOTT / 1810" watermark.</note>
-                <binding>bound in card</binding>
+                <watermark>none
+                <note>Though no watermark appears on this Copy, the watermark "H WILLMOT / 1810" appears on Copies B and C, 
+                    establishing an initial terminus for this work.</note></watermark>
+                <binding>bound in card
+                    <note>This work is bound in a card cover with Copy A of *Blake's Chaucer: The Canterbury Pilgrims*.</note>
+                </binding>
             </objinfo>
             <provenance n="1">
                 <name>British Museum</name>
                 <date>1894</date>
                 <dealer>none</dealer>
-                <price>&#163;150</price>
-                <note>Probably acquired by Anne (Mrs. Alexander) Gilchrist at an unknown time; likely bequeath by inheritance in 1885 to her son, Herbert H. Gilchrist;
-                    sold by H. H. Gilchrist with thirteen other works by Blake and his brother Robert, including Robert Blake's drawing of the *Approach of Doom*, to the British Museum for £150 in June 1894.</note>
+                <price>£150</price>
+                <note>Probably acquired by Anne (Mrs. Alexander) Gilchrist at an unknown time; likely bequeathed by inheritance 
+                    in 1885 to her son, Herbert H. Gilchrist;
+                    sold by H. H. Gilchrist with thirteen other works by Blake and his brother Robert, 
+                    including Robert Blake's drawing of the *Approach of Doom*, to the British Museum for £150 in June 1894.</note>
             </provenance>
             <repository>
                 <institution>British Museum</institution>
@@ -247,17 +253,16 @@
                 <addressline>URL: http://www.thebritishmuseum.ac.uk</addressline>
                 <lb/>
                 <department>Prints and Drawings</department>
-                <collection></collection>
                 <repositoryid label="Accession number">1894,0612.37-38</repositoryid>
                 <lb/>
                 <lb/>
             </repository>
         </source>
-        <desc id="bb11.a.TYP.01" dbi="bb11.a.1.1.TYP">
+        <desc id="bb11.a.te.01" dbi="bb11.a.1.TYP">
             <objtitle>
                 <title type="transcribed">Blake's Chaucer: An Original Engraving</title>, 
                 <objid>
-                    <objnumber code="A1">Object 1</objnumber>
+                    <objnumber code="A1">Object 1 </objnumber>
                     <objcode code="B1">(Bentley 1)</objcode>
                 </objid>
             </objtitle>
@@ -267,15 +272,15 @@
             </physdesc>
             <phystext> 
                 <lg justify="left">             
-                    <l n="bb11.a.TYP.01.01" justify="left" indent="16">Blake's Chaucer:</l></lg>
+                    <l n="bb11.a.te.01.01" justify="left" indent="16">Blake's Chaucer:</l></lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.01.02" justify="left">An Original Engraving by him from his Fresco 
+                    <l n="bb11.a.te.01.02" justify="left">An Original Engraving by him from his Fresco 
                         <choice>
                             <orig>Paint-</orig>
                             <reg type="split_word">painting</reg>
                         </choice>
                     </l>
-                    <l n="bb11.a.TYP.01.03" justify="left">
+                    <l n="bb11.a.te.01.03" justify="left">
                         <choice>
                             <orig>ing</orig>
                             <reg type="split_word">painting</reg>
@@ -286,57 +291,54 @@
                             <reg type="alt_name">Geoffrey</reg>
                         </choice>
                         Chaucer and his Nine and Twenty</l>
-                    <l n="bb11.a.TYP.01.04" justify="left">Pilgrims setting forth from Southwark on their Journey</l>
-                    <l n="bb11.a.TYP.01.05" justify="left" indent="17">to Canterbury.</l></lg>
+                    <l n="bb11.a.te.01.04" justify="left">Pilgrims setting forth from Southwark on their Journey</l>
+                    <l n="bb11.a.te.01.05" justify="left" indent="17">to Canterbury.</l></lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.01.06" justify="left" indent="5">Three Feet 1 Inch long, and 1 Foot high;</l>
-                    <l n="bb11.a.TYP.01.07" justify="left" indent="14">Price Three Guineas.</l></lg> 
+                    <l n="bb11.a.te.01.06" justify="left" indent="5">Three Feet 1 Inch long, and 1 Foot high;</l>
+                    <l n="bb11.a.te.01.07" justify="left" indent="14">Price Three Guineas.</l></lg> 
                 <lg justify="left">
-                    <l n="bb11.a.TYP.01.08" justify="left" indent="16">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</l></lg> 
+                    <l n="bb11.a.te.01.08" justify="left" indent="16">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</l></lg> 
                 <lg justify="left">
-                    <l n="bb11.a.TYP.01.09" justify="left">The time chosen is early morning before sun-rise when the</l>
-                    <l n="bb11.a.TYP.01.10" justify="left">Jolly Company are just quitting the Tabarde Inn. The</l>
-                    <l n="bb11.a.TYP.01.11" justify="left">Knight and Squire with the Squires and Yeoman 
-                        <note>Bentley remarks that this is an "erroneous reading" and notes that it should be "Squire's" (*Writings* volume 2, page 864; 1695).</note> 
-                        lead the</l>
-                    <l n="bb11.a.TYP.01.12" justify="left">Procession; then the youthful Abbess, her Nun and three</l>
-                    <l n="bb11.a.TYP.01.13" justify="left">Priests: her Grey-hounds attend her</l>
+                    <l n="bb11.a.te.01.09" justify="left">The time chosen is early morning before sun-rise when the</l>
+                    <l n="bb11.a.te.01.10" justify="left">Jolly Company are just quitting the Tabarde Inn. The</l>
+                    <l n="bb11.a.te.01.11" justify="left">Knight and Squire with the Squires and Yeoman lead the</l>
+                    <l n="bb11.a.te.01.12" justify="left">Procession; then the youthful Abbess, her Nun and three</l>
+                    <l n="bb11.a.te.01.13" justify="left">Priests: her Grey-hounds attend her</l>
                 </lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.01.14" justify="left" indent="8">"Of small hounds had she, that she fed</l>
-                    <l n="bb11.a.TYP.01.15" justify="left" indent="9">With roast flesh, milk and wastel bread."</l>
+                    <l n="bb11.a.te.01.14" justify="left" indent="8">"Of small hounds had she, that she fed</l>
+                    <l n="bb11.a.te.01.15" justify="left" indent="9">With roast flesh, milk and wastel bread."</l>
                 </lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.01.16" justify="left" indent="4">Next follow the Friar and Monk, then the Tapster,
-                        <note> Bentley notes that 'Tapster' should be 'Tapiser', the former meaning one who draws beer or wine and the latter meaning weaver (*Writings* volume 2, page 864; 1695). 
-                            The correct word appears in the Notebook and the Descriptive Catalogue.</note></l>
-                    <l n="bb11.a.TYP.01.17" justify="left">the Pardoner, the Sompnour<note>Bentley writes Somner</note> and the Manciple. After</l>
-                    <l n="bb11.a.TYP.01.18" justify="left">these "Our Host," who occupies the Center of the 
+                    <l n="bb11.a.te.01.16" justify="left" indent="4">Next follow the Friar and Monk, then the Tapster,
+                        <note>Bentley notes that 'Tapster' is a misprint for 'Tapiser', the former meaning one who draws beer or wine and the latter meaning weaver (*Writings* volume 2, page 864; 1695).</note></l>
+                    <l n="bb11.a.te.01.17" justify="left">the Pardoner, the Sompnour and the Manciple. After</l>
+                    <l n="bb11.a.te.01.18" justify="left">these "Our Host," who occupies the Center of the 
                         <choice>
-                            <orig>C<note>Bentley uses a lower case c</note>aval-</orig>
+                            <orig>Caval-</orig>
                             <reg type="split_word">Cavalcade</reg>
                         </choice></l>
-                    <l n="bb11.a.TYP.01.19" justify="left">
+                    <l n="bb11.a.te.01.19" justify="left">
                         <choice>
                             <orig>cade,</orig>
                             <reg type="split_word">Cavalcade</reg>
                         </choice>
                         directs them to the Knight as the person who will be</l>
-                    <l n="bb11.a.TYP.01.20" justify="left">likely to commence their Task of each telling a Tale in their</l>
-                    <l n="bb11.a.TYP.01.21" justify="left">order. After the Host follow the Shipman, the Haberdasher,</l>
-                    <l n="bb11.a.TYP.01.22" justify="left">the Dyer, the Franklin, the Physician, the Plowman, the</l>
-                    <l n="bb11.a.TYP.01.23" justify="left">Lawyer, the<note>Bentley inserts the word poor</note> Parson, the Merchant, the Wife of Bath,<note>Bentley inserts the Miller</note> the</l>
+                    <l n="bb11.a.te.01.20" justify="left">likely to commence their Task of each telling a Tale in their</l>
+                    <l n="bb11.a.te.01.21" justify="left">order. After the Host follow the Shipman, the Haberdasher,</l>
+                    <l n="bb11.a.te.01.22" justify="left">the Dyer, the Franklin, the Physician, the Plowman, the</l>
+                    <l n="bb11.a.te.01.23" justify="left">Lawyer, the Parson, the Merchant, the Wife of Bath, the</l>
                 </lg>
                 <textfoot justify="left">
-                    <l n="bb11.a.TYP.01.24" justify="left" indent="49"><catchword>ing's</catchword></l>
+                    <l n="bb11.a.te.01.24" justify="left" indent="49"><catchword>ing's</catchword></l>
                 </textfoot>
             </phystext>
         </desc>
-        <desc id="bb11.a.TYP.02" dbi="bb11.a.1.2.TYP">
+        <desc id="bb11.a.te.02" dbi="bb11.a.2.TYP">
             <objtitle>
                 <title type="editorial">Page 2</title>, <objid>
-                    <objnumber code="A1">Object 2</objnumber>
-                    <objcode code="B1">(Bentley 2)</objcode>
+                    <objnumber code="A2">Object 2 </objnumber>
+                    <objcode code="B2">(Bentley 2)</objcode>
                 </objid>
             </objtitle>
             <physdesc>
@@ -345,47 +347,47 @@
             </physdesc>
             <phystext>
                 <texthead>
-                    <l n="bb11.a.TYP.02.01" justify="left" indent="23">(<space extent="2"/><physnumber>2</physnumber><space extent="2"/>)
+                    <l n="bb11.a.te.02.01" justify="left" indent="23">(<space extent="2"/><physnumber>2</physnumber><space extent="2"/>)
                     </l>
                 </texthead>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.02.02" justify="left">Cook, the Oxford Scholar, Chaucer himself, and the Reeve</l>
-                    <l n="bb11.a.TYP.02.03" justify="left">comes as Chaucer has described:</l>
+                    <l n="bb11.a.te.02.02" justify="left">Cook, the Oxford Scholar, Chaucer himself, and the Reeve</l>
+                    <l n="bb11.a.te.02.03" justify="left">comes as Chaucer has described:</l>
                 </lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.02.04" justify="left" indent="8">"And ever he rode hinderest of the rout."</l>
+                    <l n="bb11.a.te.02.04" justify="left" indent="8">"And ever he rode hinderest of the rout."</l>
                 </lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.02.05" justify="left" indent="4">These last are issuing from the Gateway of the Inn.<note>Bentley uses a semicolon instead of a period (*Writings* volume 2, page 865).</note></l>
-                    <l n="bb11.a.TYP.02.06" justify="left">The Cook and the Wife of Bath are both taking their 
+                    <l n="bb11.a.te.02.05" justify="left" indent="4">These last are issuing from the Gateway of the Inn.</l>
+                    <l n="bb11.a.te.02.06" justify="left">The Cook and the Wife of Bath are both taking their 
                         <choice>
                             <orig>morn-</orig>
                             <reg type="split_word">morning's</reg>
                         </choice></l>
-                    <l n="bb11.a.TYP.02.07" justify="left">
+                    <l n="bb11.a.te.02.07" justify="left">
                         <choice>
                             <orig>ing's</orig>
                             <reg type="split_word">morning's</reg>
                         </choice>
                         draught of comfort. Spectators stand at the Gateway</l>
-                    <l n="bb11.a.TYP.02.08" justify="left">of the Inn, and are composed of an Old Man, a Woman</l>
-                    <l n="bb11.a.TYP.02.09" justify="left">and Children.</l>
+                    <l n="bb11.a.te.02.08" justify="left">of the Inn, and are composed of an Old Man, a Woman</l>
+                    <l n="bb11.a.te.02.09" justify="left">and Children.</l>
                 </lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.02.10" justify="left" indent="4">This Inn is yet extant under the name of the Talbot;</l>
-                    <l n="bb11.a.TYP.02.11" justify="left">and the Landlord, Robert Bristow, 
+                    <l n="bb11.a.te.02.10" justify="left" indent="4">This Inn is yet extant under the name of the Talbot;</l>
+                    <l n="bb11.a.te.02.11" justify="left">and the Landlord, Robert Bristow, 
                         <choice>
                             <orig>Esq.</orig>
                             <reg type="abbrev">Esquire</reg>
                         </choice>
                         of Broxmore near</l>
-                    <l n="bb11.a.TYP.02.12" justify="left">Rumsey, has continued a board over the Gateway, 
+                    <l n="bb11.a.te.02.12" justify="left">Rumsey, has continued a board over the Gateway, 
                         <choice>
                             <orig>inscri-</orig>
                             <reg type="split_word">inscribed</reg>
                         </choice>
                     </l>
-                    <l n="bb11.a.TYP.02.13" justify="left">
+                    <l n="bb11.a.te.02.13" justify="left">
                         <choice>
                             <orig>bed</orig>
                             <reg type="split_word">inscribed</reg>
@@ -396,20 +398,20 @@
                             <reg type="alt_name">Geoffrey</reg>
                         </choice> Chaucer and
                     </l>
-                    <l n="bb11.a.TYP.02.14" justify="left">his Pilgrims set out for Canterbury."</l>
+                    <l n="bb11.a.te.02.14" justify="left">his Pilgrims set out for Canterbury."</l>
                 </lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.02.15" justify="left" indent="3">
+                    <l n="bb11.a.te.02.15" justify="left" indent="3">
                         <choice>
                             <orig>St.</orig>
                             <reg type="abbrev">Saint</reg>
                         </choice> Thomas's Hospital which is situated near to it,
                     </l>
-                    <l n="bb11.a.TYP.02.16" justify="left">is one of the most amiable features of the Christian Church,</l>
-                    <l n="bb11.a.TYP.02.17" justify="left">it belonged to the Monastery 
+                    <l n="bb11.a.te.02.16" justify="left">is one of the most amiable features of the Christian Church,</l>
+                    <l n="bb11.a.te.02.17" justify="left">it belonged to the Monastery 
                         <choice>
-                            <orig>ef</orig><note>The “ef” is likely a printing error for “of”. Bentley 
-                                (*Writings* volume 2, page 865) and Erdman (569) make the correction in their transcription.</note>
+                            <orig>ef</orig><note>The word “ef” is likely a printing error for “of”. Bentley 
+                                (*Writings* volume 2, page 865fn) and Erdman (569) make the correction in their transcription.</note>
                             <reg>of</reg>
                         </choice> 
                         <choice>
@@ -417,46 +419,46 @@
                             <reg type="abbrev">Saint</reg>
                         </choice> 
                         Mary Overies and was</l>
-                    <l n="bb11.a.TYP.02.18" justify="left">dedicated to Thomas a Becket. The Pilgrims, if sick or</l>
-                    <l n="bb11.a.TYP.02.19" justify="left">lame, on their Journey to and from his Shrine, were 
+                    <l n="bb11.a.te.02.18" justify="left">dedicated to Thomas a Becket. The Pilgrims, if sick or</l>
+                    <l n="bb11.a.te.02.19" justify="left">lame, on their Journey to and from his Shrine, were 
                         <choice>
                             <orig>recei-</orig>
                             <reg type="split_word">received</reg>
                         </choice>
                     </l>
-                    <l n="bb11.a.TYP.02.20" justify="left">
+                    <l n="bb11.a.te.02.20" justify="left">
                         <choice>
                             <orig>ved</orig>
                             <reg>received</reg>
                         </choice> 
                         at this House. Even at this day every friendless wretch</l>
-                    <l n="bb11.a.TYP.02.21" justify="left">who wants the <choice>
+                    <l n="bb11.a.te.02.21" justify="left">who wants the <choice>
                         <orig>succour</orig>
                         <reg>succor</reg>
                     </choice>of it, is considered as a Pilgrim</l>
-                    <l n="bb11.a.TYP.02.22" justify="left"><choice><orig>travelling</orig>
+                    <l n="bb11.a.te.02.22" justify="left"><choice><orig>travelling</orig>
                         <reg>traveling</reg>
                     </choice> through this Journey of Life.</l>
                 </lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.02.23" justify="left" indent="4">The Landscape is an eastward view of the Country from</l>
-                    <l n="bb11.a.TYP.02.24" justify="left">the Tabarde Inn in Southwark as it may be supposed to</l>
-                    <l n="bb11.a.TYP.02.25" justify="left">have appeared in Chaucer's time; interspersed with 
+                    <l n="bb11.a.te.02.23" justify="left" indent="4">The Landscape is an eastward view of the Country from</l>
+                    <l n="bb11.a.te.02.24" justify="left">the Tabarde Inn in Southwark as it may be supposed to</l>
+                    <l n="bb11.a.te.02.25" justify="left">have appeared in Chaucer's time; interspersed with 
                         <choice>
                             <orig>Cot-</orig>
                             <reg type="split_word">Cottages</reg>
                         </choice>
                     </l>
-                    <l n="bb11.a.TYP.02.26" justify="left">
+                    <l n="bb11.a.te.02.26" justify="left">
                         <choice>
                             <orig>tages</orig>
                             <reg type="split_word">Cottages</reg>
                         </choice> 
                         and Villages. The first beams of the sun are seen</l>
-                    <l n="bb11.a.TYP.02.27" justify="left">above the<choice>
+                    <l n="bb11.a.te.02.27" justify="left">above the<choice>
                         <orig>horrizon</orig><reg>horizon</reg></choice>: some Buildings and Spires indicate the</l>
-                    <l n="bb11.a.TYP.02.28" justify="left">situation of the Great City.  The Inn is a Gothic Building</l>
-                    <l n="bb11.a.TYP.02.29" justify="left">which 
+                    <l n="bb11.a.te.02.28" justify="left">situation of the Great City.  The Inn is a Gothic Building</l>
+                    <l n="bb11.a.te.02.29" justify="left">which 
                         <choice>
                             <orig>Thynne</orig>
                             <reg type="alt_name">Francis Thynne</reg>
@@ -464,15 +466,15 @@
                         in his Glossary says was the Lodging of the</l>
                 </lg>
                 <textfoot justify="left">
-                    <l n="bb11.a.TYP.02.30" justify="left" indent="48"><catchword>Abbot</catchword></l>
+                    <l n="bb11.a.te.02.30" justify="left" indent="48"><catchword>Abbot</catchword></l>
                 </textfoot>
             </phystext>
         </desc>
-        <desc id="bb11.a.TYP.03" dbi="bb11.a.1.3.TYP">
+        <desc id="bb11.a.te.03" dbi="bb11.a.3.TYP">
             <objtitle>
                 <title type="editorial">Page 3</title>, <objid>
-                    <objnumber code="A1">Object 3 </objnumber>
-                    <objcode code="B1">(Bentley 3)</objcode>
+                    <objnumber code="A3">Object 3 </objnumber>
+                    <objcode code="B3">(Bentley 3)</objcode>
                 </objid>
             </objtitle>
             <physdesc>
@@ -481,31 +483,31 @@
             </physdesc>
             <phystext>
                 <texthead>
-                    <l n="bb11.a.TYP.03.01" justify="left" indent="22">(<space extent="2"/><physnumber>3</physnumber><space extent="2"/>)</l>
+                    <l n="bb11.a.te.03.01" justify="left" indent="22">(<space extent="2"/><physnumber>3</physnumber><space extent="2"/>)</l>
                 </texthead>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.03.02" justify="left">Abbot of Hyde by Winchester. On the Inn is inscribed its</l>
-                    <l n="bb11.a.TYP.03.03" justify="left">Title, and a proper advantage is taken of this circumstance</l>
-                    <l n="bb11.a.TYP.03.04" justify="left">to describe the subject of the Picture. The words written</l>
-                    <l n="bb11.a.TYP.03.05" justify="left">in Gothic Letters over the Gateway of the Inn are as follow:</l>
-                    <l n="bb11.a.TYP.03.06" justify="left">"The Tarbade Inn by Henry Bailly. The Lodging House</l>
-                    <l n="bb11.a.TYP.03.07" justify="left">for Pilgrims who Journey to St. Thomas's Shrine at 
+                    <l n="bb11.a.te.03.02" justify="left">Abbot of Hyde by Winchester. On the Inn is inscribed its</l>
+                    <l n="bb11.a.te.03.03" justify="left">Title, and a proper advantage is taken of this circumstance</l>
+                    <l n="bb11.a.te.03.04" justify="left">to describe the subject of the Picture. The words written</l>
+                    <l n="bb11.a.te.03.05" justify="left">in Gothic Letters over the Gateway of the Inn are as follow:</l>
+                    <l n="bb11.a.te.03.06" justify="left">"The Tarbade Inn by Henry Bailly. The Lodging House</l>
+                    <l n="bb11.a.te.03.07" justify="left">for Pilgrims who Journey to St. Thomas's Shrine at 
                         <choice>
                             <orig>Canter-</orig>
                             <reg type="split_word">Canterbury</reg>
                         </choice>
                     </l>
-                    <l n="bb11.a.TYP.03.08" justify="left">
+                    <l n="bb11.a.te.03.08" justify="left">
                         <choice>
                             <orig>bury</orig><reg type="split_word">Canterbury</reg></choice>."</l>
                 </lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.03.09" justify="left" indent="4">Of Chaucer's Characters as described in his Canterbury</l>
-                    <l n="bb11.a.TYP.03.10" justify="left">Tales, some of the Names are altered by Time, but the</l>
-                    <l n="bb11.a.TYP.03.11" justify="left">Characters themselves for ever remain unaltered 
+                    <l n="bb11.a.te.03.09" justify="left" indent="4">Of Chaucer's Characters as described in his Canterbury</l>
+                    <l n="bb11.a.te.03.10" justify="left">Tales, some of the Names are altered by Time, but the</l>
+                    <l n="bb11.a.te.03.11" justify="left">Characters themselves for ever remain unaltered 
                         <choice>
                             <orig>end</orig><note>The word “end” is likely a printing error for “and”. Bentley 
-                                (*Writings* volume 2, page 865) and Erdman (570) make the correction in their transcription.</note>
+                                (*Writings* volume 2, page 865fn) and Erdman (570) make the correction in their transcription.</note>
                             <reg>and</reg>
                         </choice>
                         <choice>
@@ -513,7 +515,7 @@
                             <reg type="split_word">consequently</reg>
                         </choice>
                     </l>
-                    <l n="bb11.a.TYP.03.12" justify="left">
+                    <l n="bb11.a.te.03.12" justify="left">
                         <choice>
                             <orig>quently</orig>
                             <reg type="split_word">consequently</reg>
@@ -524,16 +526,16 @@
                             <reg>Lineaments</reg>
                         </choice>
                         of</l>
-                    <l n="bb11.a.TYP.03.13" justify="left">Universal Human Life beyond which Nature never steps.</l>
-                    <l n="bb11.a.TYP.03.14" justify="left">The Painter has consequently varied the heads and forms</l>
-                    <l n="bb11.a.TYP.03.15" justify="left">of his Personages into all Nature's varieties. the Horses he</l>
-                    <l n="bb11.a.TYP.03.16" justify="left">has varied to accord to their riders, the Costume is 
+                    <l n="bb11.a.te.03.13" justify="left">Universal Human Life beyond which Nature never steps.</l>
+                    <l n="bb11.a.te.03.14" justify="left">The Painter has consequently varied the heads and forms</l>
+                    <l n="bb11.a.te.03.15" justify="left">of his Personages into all Nature's varieties. the Horses he</l>
+                    <l n="bb11.a.te.03.16" justify="left">has varied to accord to their riders, the Costume is 
                         <choice>
                             <orig>cor-</orig>
                             <reg type="split_word">correct</reg>
                         </choice>
                     </l>
-                    <l n="bb11.a.TYP.03.17" justify="left">
+                    <l n="bb11.a.te.03.17" justify="left">
                         <choice>
                             <orig>rect</orig>
                             <reg type="split_word">correct</reg>
@@ -541,13 +543,13 @@
                         according to authentic Monuments.</l>
                 </lg>
                 <lg justify="left">
-                    <l n="bb11.a.TYP.03.18" justify="left" indent="4">Subscriptions received at No. 28, Corner of Broad</l>
-                    <l n="bb11.a.TYP.03.19" justify="left">Street, Golden Square.</l>
+                    <l n="bb11.a.te.03.18" justify="left" indent="4">Subscriptions received at No. 28, Corner of Broad</l>
+                    <l n="bb11.a.te.03.19" justify="left">Street, Golden Square.</l>
                 </lg>
                 <vspace extent="11"/>
                 <textfoot justify="left">
-                    <l n="bb11.a.TYP.03.20" justify="left" indent="2"> &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#45;</l>
-                    <l n="bb11.a.TYP.03.21" justify="left" indent="3">G. Smeeton, Printer, 17, St. Martin's Lane, London.</l>
+                    <l n="bb11.a.te.03.20" justify="left" indent="2"> &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#45;</l>
+                    <l n="bb11.a.te.03.21" justify="left" indent="3">G. Smeeton, Printer, 17, St. Martin's Lane, London.</l>
                 </textfoot>
             </phystext>
         </desc>
