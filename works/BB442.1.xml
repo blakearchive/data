@@ -1,49 +1,99 @@
-<bad id="bb442.1" type="te" work="Bell's Edition" copy="1" copyid="1" institution="huntington"
-    value="recto" catalog="bentley" catid="442.1" hidden="false">
+<bad id="bb442.1" type="comeng" work="The Poetical Works of Geoffrey Chaucer, 1783" copy="1" 
+    copyid="1" institution="essick" catalog="bentley" catid="442" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="Bell's Edition">
-                    <main>Bell's Edition</main> : electronic edition </title>
+                <title reg="Poetical Works of Geoffrey Chaucer, 1783, The">
+                    <main>The Poetical Works of Geoffrey Chaucer, 1783</main>                
+                    : electronic edition
+                </title>
                 <principal>
-                    <resp>Editors:</resp>
-                    <name>Morris Eaves,</name> University of Rochester; <name>Robert Essick,</name>
-                    University of California, Riverside; and <name>Joseph Viscomi,</name> University
-                    of North Carolina at Chapel Hill </principal>
-                <respstmt> </respstmt>
-                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
-                    and the University of Rochester</sponsor>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill, and the University of Rochester</sponsor>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
-            <extent>1 XML file approx. 14KB; 1 JPEG (ISO/IEC 10918) files approx. 1.0MB and
-                1.7MB</extent>
-            <publicationstmt> Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>December
-                    2022</date>
+            <extent>1 XML file approx. 13KB; 2 JPEG (ISO/IEC 10918) files ranging in size from __ to 410KB</extent><!--Grant, please add lowest 100dpi file size-->
+            <publicationstmt>
+                Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>April 2023</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             <updatestmt> </updatestmt>
             <notesstmt/>
         </filedesc>
-        <userestrict> Copyright © <date>2022</date> by Morris Eaves, Robert N. Essick, and Joseph
-            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
-            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
-            terms, in any medium, requires express written consent from the editors and advance
-            notification of the publisher. Permission to reproduce the graphic images in this
-            archive has been granted by the owners of the originals for this publication only. <lb/>
-            <lb/> This image copyright © 2022 The Huntington. <lb/>
+        <userestrict>
+            Copyright ©
+            <date>2023</date>
+            by Morris Eaves, Robert N. Essick, and Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law.
+            Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher. 
+            Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.
             <lb/>
+            <lb/>
+            This work copyright © 2023 William Blake Archive.
         </userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
             <changestmt>
-                <change>Proofing, revisions, and publication</change>
-                <date>September 2021 - TBD 2022</date>
+                <change>Final proofing, revisions, and publication</change>
+                <date>September 2022-April 2023</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
-                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
-                    University of North Carolina at Chapel Hill <resp>Assistant Editor: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Geisert, </name>
+                    <name>HaiLee Hearburg, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created, engraving transcribed, editorial notes composed</change>
+                <date>September 2021-May 2022</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Managing Editor: </resp>
                     <name>Joseph Fletcher</name>
@@ -74,74 +124,26 @@
                 </respstmt>
             </changestmt>
             <changestmt>
-                <change>BAD created, engraving transcribed, editorial notes composed</change>
-                <date>TBD</date>
+                <change>Image acquired and catalogued</change>
+                <date>September 2002</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
-                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
-                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
-                    <name>William Shaw</name>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum, </name>
+                    <name>Andrea Laue</name>
                     <resp>Project Manager: </resp>
-                    <name>Ashley Reed</name>
-                    <resp>Project Coordinator, University of Rochester:</resp>
-                    <name>Rachel Lee</name>
-                    <resp>Bibliographer: </resp>
-                    <name>Mark Crosby</name>
-                    <resp>Technical Consultant:</resp>
-                    <name>Joseph Ryan</name>
+                    <name>Andrea Dickens</name>
                     <resp>Project Assistants: </resp>
-                    <name>Esther Arnold, </name>
-                    <name>Kate Attkisson, </name>
-                    <name>Laura Bell, </name>
-                    <name>Lauren Cameron, </name>
-                    <name>Katherine Carlson, </name>
-                    <name>Cassandra Etter-Wenzel, </name>
-                    <name>Andrea Everett, </name>
-                    <name>Joseph Fletcher, </name>
-                    <name>Duncan Graham, </name>
-                    <name>Gabrielle Kiriloff, </name>
-                    <name>Adam McCune, </name>
-                    <name>Ali McGhee, </name>
-                    <name>Jennifer Park, </name>
-                    <name>Adair Rispoli, </name>
-                    <name>Ted Scheinman, </name>
-                    <name>Sarah Shaw, </name>
-                    <name>Hardeep Sidhu, </name>
-                    <name>Sarah Tolf, </name>
-                    <name>Lisa Vandenbossche, </name>
-                    <name>Nikolaus Wasmoen, </name>
-                    <name>Alia Wegner, </name>
-                    <name>Bihan Zhang</name>
-                </respstmt>
-            </changestmt>
-            <changestmt>
-                <change>Image acquired, scanned, and catalogued</change>
-                <date>TBD</date>
-                <respstmt>
-                    <resp>Editors: </resp>
-                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
-                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
-                    University of North Carolina at Chapel Hill <resp>Technical Editor:</resp>
-                    <name>William Shaw</name>
-                    <resp>Project Manager:</resp>
-                    <name>Ashley Reed</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Esther Arnold, </name>
-                    <name>Kate Attkisson, </name>
-                    <name>Laura Bell, </name>
-                    <name>Lauren Cameron, </name>
-                    <name>Andrea Everett, </name>
-                    <name>Elizabeth King, </name>
-                    <name>Joseph Lamperez, </name>
-                    <name>Rachel Lee, </name>
-                    <name>Ali McGhee, </name>
-                    <name>Jennifer Park, </name>
-                    <name>Adair Rispoli, </name>
-                    <name>Sarah Shaw, </name>
-                    <name>Sarah Tolf, </name>
-                    <name>Nikolaus Wasmoen, </name>
-                    <name>Bihan Zhang</name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Gerald Miller, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Van Kleeck</name>
                 </respstmt>
             </changestmt>
         </revisiondesc>
@@ -150,75 +152,78 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title> *Bell's Edition* </title>
+                    <title>*The Poetical Works of Geoffrey Chaucer, 1783*</title>
                 </objtitle>
-                <origination> William Blake <role>author, </role>
-                    <role>inventor, </role>
-                    <role>engraver</role>
+                <origination>
+                    William Blake
+                    <role>etcher, </role>
+                    <role>engraver, </role>
+                    <role>delineator</role>
                 </origination>
-                <compdate value="1783">1783</compdate>
+                <origination>
+                    Thomas Stothard
+                    <role>inventor, </role>
+                    <role>designer</role>
+                </origination>
+                <origination>
+                    Apollo Press
+                    <role>printer</role>
+                </origination>
                 <imprint>
-                    <publisher>
-                        <note>The work was printed but never formally published.</note>
+                    <publisher>   
+                        John Bell
                     </publisher>
-                    <pubplace>Edinburg</pubplace>
+                    <pubplace>
+                        London
+                        <note>Printed in Edinburg by Apollo Press for John Bell's bookshop, the British Library, in London.</note>
+                    </pubplace>
                     <date>1783</date>
-                </imprint>
+                </imprint>    
+                <compdate value="1783">1783</compdate>
             </objdescid>
             <objinfo>
-                <printdate value="1783"> 1783 </printdate>
+                <printdate value="1783">1783               
+                    <note>The title-page of Volume XIII is dated 1782, but the table of contents is dated 22 March 1783
+                        and Blake's frontispiece is dated 24 May 1783, thus the real date is 1783.</note>
+                </printdate>
                 <numberobj>1</numberobj>
                 <objorder>1</objorder>
-                <objsize> 6.7 x 10.6 cm.</objsize>
+                <objsize>10.7 x 6.5 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize> 6.7 x 10.6 cm.</leafsize>
-                <medium>Type with engraved images</medium>
-                <printingstyle>letterpress</printingstyle>
+                <leafsize>10.7 x 6.5 cm.</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
                 <inkcolor>black</inkcolor>
-                <support>laid paper</support>
-                <watermark>none</watermark>
+                <support>wove paper</support>
+                <watermark>none</watermark> 
                 <pennednumbers>none</pennednumbers>
-                <framelines>none</framelines>
-                <binding>murble paper covers</binding>
+                <framelines>A single framing line extends around the image, excluding the colophon.</framelines>
+                <binding>full calf binding
+                    <note>This page is bound as the first leaf in the volume before the title-pages.</note>
+                </binding>
                 <stabholes>none</stabholes>
             </objinfo>
             <provenance n="1">
-                <name>The Huntington Library, Art Museum, and Botanical Gardens</name>
-                <date>1911</date>
-                <dealer>Anderson Auction Company</dealer>
-                <price>$725</price>
-                <note>Given by Blake to Charles Tulk c. 1810; sold by Edward Duperner, Sotheby's, 20
-                    June 1906, lot 937, £109 to B. F. Stevens; acquired by Robert Hoe, who rebound
-                    it in 1908; auctioned from Hoe's estate by Anderson Auction Company, 25 April
-                    1911, lot 389, to George D. Smith for $725 for Henry Huntington; now in the
-                    Huntington Library.</note>
+                <name>Robert N. Essick</name>
+                <date>1972</date>
+                <dealer>Zeitlin and Ver Brugge Books</dealer>
+                <price>$623.74</price>
+                <note>Early history unknown; acquired in 1972 by Robert N. Essick from the Los Angeles dealer Zeitlin and Ver Brugge 
+                    Books as part of 102 volumes of *Bell's Edition [of] The Poets of Great Britain*, $623.74 for the set.</note>
+                <note>The set acquired by Essick is incomplete, as it contains only 102 volumes of the 109 volume set.</note>
             </provenance>
             <repository>
-                <institution>The Huntington Library, Art Museum, and Botanical Gardens</institution>
-                <addressline>1151 Oxford Road</addressline>
-                <addressline>San Marino, California 91108</addressline>
-                <addressline>United States</addressline>
-                <lb/>
-                <addressline>Telephone: 626-405-2100</addressline>
-                <addressline>Telephone, Reader Services: 626-405-2191</addressline>
-                <addressline>Fax, Reader Services: 626-405-3477</addressline>
-                <addressline>Email, Reader Services: readerregistration@huntington.org</addressline>
-                <addressline>URL: http://www.huntington.org/</addressline>
-                <lb/>
-                <department>Library Division</department>
-                <collection>Rare Books</collection>
-                <repositoryid label="Accession number">57432</repositoryid>
-                <lb/>
-                <lb/>
+                <institution>Robert N. Essick</institution>
+                <addressline>Altadena, California</addressline>
             </repository>
         </source>
-        <desc id="bb442.1.te.01" dbi="BB442.1.1.COM">
+        <desc id="bb442.1.comeng.01" dbi="BB442.1.1.COM">
             <objtitle>
-                <title type="sbp">Title Page</title>
-                <title type="transcribed">The Poets of Great Britain</title>
+                <title type="editorial">Frontispiece to Volume VIII</title>
+                ,
                 <objid>
                     <objnumber code="A1">Object 1</objnumber>
-                    <objcode code="B1">(Bentley Title Page)</objcode>
+                    <objcode code="B1">(Bentley 1)</objcode>
                 </objid>
             </objtitle>
             <physdesc>
@@ -435,60 +440,24 @@
             </illusdesc>
             <phystext>
                 <lg justify="left">
-                    <l n="bb442.1.1.COM.01" justify="left" indent="21">
-                        <hi rend="i"> BELL’S EDITION </hi>
-                        <note>
-                            <p>small caps</p>
-                        </note>
-                    </l>
-                    <l n="bb442.1.1.COM.02" justify="left" indent="15"> The POET <space/> S of GREAT
-                        BRITAIN <note><p>small caps</p></note></l>
-                    <l n="bb442.1.1.COM.03" justify="left" indent="21">
-                        <hi rend="i"> COMPLETE FROM </hi>
-                        <note>
-                            <p>small caps</p>
-                        </note>
-                    </l>
-                    <l n="bb442.1.1.COM.04" justify="left" indent="19">
-                        <hi> CHAUCER <choice><unclear>lo</unclear><reg>to</reg></choice> to
-                            <space/>CHURCHILL. </hi>
-                        <note>
-                            <p>small caps</p>
-                        </note>
-                    </l>
+                    <l n="bb442.1.comeng.01.01" justify="left" indent="19"><hi rend="i"> BELL’S EDITION </hi></l>
+                    <l n="bb442.1.comeng.01.02" justify="left" indent="14"> The POETS of GREAT BRITAIN</l>
+                    <l n="bb442.1.comeng.01.03" justify="left" indent="19"><hi rend="i"> COMPLETE FROM </hi></l>
+                    <l n="bb442.1.comeng.01.04" justify="left" indent="16"><hi> CHAUCER to CHURCHILL. 
+                    </hi></l>
                 </lg>
-                <vspace extent="6"/>
+                <vspace extent="18"/>
                 <lg>
-                    <l n="bb442.1.1.COM.05" justify="left" indent="22"> CHAUCER VOL XIII.
-                                <note><p>small caps</p></note></l>
-                    <l n="bb442.1.1.COM.06" justify="left" indent="17"> Sampf<unclear resp="MG"
-                            >b</unclear>n<choice><reg> Sampson </reg></choice>
-                        <note> Erdman (Sampson), page 443)</note>
-                        <space extent="0.5"/> yhad <space extent="0.5"/> experience <note><p>small
-                                caps</p></note></l>
-                    <l n="bb442.1.1.COM.07" justify="left" indent="17"><choice><orig> That
-                                Womenwerefultrew </orig><reg> That Women were ful trew </reg>
-                            <note>Bentley (*Annotated Catalogues*, page 539)</note></choice><space
-                            extent="0.5"/> ifound <note><p>small caps</p></note></l>
-                </lg>
+                    <l n="bb442.1.comeng.01.05" justify="left" indent="17"> CHAUCER VOL <choice><orig>XIII</orig><reg>8</reg></choice>.</l>
+                    <l n="bb442.1.comeng.01.06" justify="left" indent="14"> Sampson <choice><orig>yhad</orig><reg>had</reg></choice> experience</l>
+                    <l n="bb442.1.comeng.01.07" justify="left" indent="14"><choice><orig> That Womenwerefultrew </orig><reg> That Women were full true </reg>
+                    </choice> <choice><orig>ifound</orig><reg>I found</reg></choice></l>
+                    <l n="bb442.1.comeng.01.08" justify="left" indent="27"><hi rend="i">In praise of Women L 81,82.</hi></l><vspace extent="0.5"/>
+                </lg>  
+                <vspace extent="2"/>
                 <lg>
-                    <l n="bb442.1.1.COM.08" justify="left" indent="30">
-                        <hi rend="i"><orig>In prai<unclear resp="MG">f</unclear>e </orig><reg>In
-                                praise of women</reg> of Women L81,82.</hi>
-                    </l>
-                    <vspace extent="0.5"/>
-                </lg>
-                <lg>
-                    <l n="bb442.1.1.COM.09" justify="left"><hi rend="i">Stodhard del</hi>
-                        <space extent="44"/><hi rend="i"><orig>Blake fcul<unclear resp="MG"
-                                    >n</unclear>.</orig></hi>hi><reg>Blake Fculp</reg>
-                        <hi rend="superscript">t</hi></l>
-                    <l n="bb442.1.1.COM.10" justify="left"> London <space extent="0.3"/> Printed
-                            <space extent="0.3"/> for <space extent="0.3"/> John Bell <space
-                            extent="0.3"/> Briti<unclear resp="MG">f</unclear>h <space extent="0.3"
-                        /> Library <space extent="0.3"/> Strand <space extent="0.3"/>May <space
-                            extent="0.3"/> 24,<hi rend="superscript">th</hi><space extent="0.4"/>
-                        1783.</l>
+                    <l n="bb442.1.comeng.01.09" justify="left"><choice><orig><hi rend="i">Stodhard</hi></orig><reg type="alt_name">Stothard</reg></choice> <hi rend="i">del</hi> <space extent="37"/><hi rend="i">Blake sculp.</hi><hi rend="superscript">t</hi></l>
+                    <l n="bb442.1.comeng.01.10" justify="left"> London Printed for John Bell British Library Strand May 24,<hi rend="superscript">th</hi> 1783.</l>        
                 </lg>
             </phystext>
         </desc>
