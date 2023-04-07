@@ -1,0 +1,683 @@
+<bad id="bb443.2" type="comb" work="The Prologue and Characters of Chaucer's Pilgrims" copy="1" copyid="1" 
+    institution="huntington" catalog="bentley" catid="443.2.1." hidden="false">   
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Prologue and Characters of Chaucer's Pilgrims, The">
+                    <main>The Prologue and Characters of Chaucer's Pilgrims</main>
+                    <copy> Copy 1</copy>
+                    : electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi</name>
+                    , University of North Carolina at Chapel Hill
+                </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill, and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>XML file approx. 17KB; 4 JPEG (ISO/IEC 10918) files ranging in size from __ to 1.9MB</extent><!--Grant, please add 100dpi file size-->
+            <publicationstmt>
+                Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>April 2023</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+        <notesstmt/>
+        </filedesc>
+        <userestrict>
+            Copyright ©
+            <date>2023</date>
+            by Morris Eaves, Robert N. Essick, and Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. 
+            Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This work copyright © 2023 The Huntington.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing, revisions, and publication</change>
+                <date>August 2022-April 2023</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Geisert, </name>
+                    <name>HaiLee Hearburg, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Proofing and revisions</change>
+                <date>August 2021-February 2022</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Oishani Sengupta</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Ben Ami, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Ani Govjian, </name>
+                    <name>Meaghan Green, </name>
+                    <name>Rachael Isom, </name>
+                    <name>Mary Learner, </name>
+                    <name>Ania Michas, </name>
+                    <name>Angie (Quynh-Anh) Pham, </name>
+                    <name>Rob Rich, </name>
+                    <name>Anneke Schwob, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Iftekhar Uddin, </name>
+                    <name>Marcie Woehl</name>
+                </respstmt>
+           </changestmt>
+            <changestmt>
+                <change>BAD created, manuscript transcribed and color coded, editorial notes composed</change>
+                <date>June 2013-August 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Technical Consultant:</resp>
+                    <name>Joseph Ryan</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Ted Scheinman, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images acquired, scanned, and catalogued</change>
+                <date>October 2001</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Conversion: </resp>
+                    <name>Aziza Technology Associates</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Wesley N. Raabe, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source> 
+            <objdescid>
+                <objtitle>
+                    <title>*The Prologue and Characters of Chaucer's Pilgrims*
+                        <note>The title page (not pictured) reads:
+                        "The Prologue and Characters of Chaucer's Pilgrims, Selected from His Canterbury
+                        Tales; Intended to Illustrate a Particular Design of Mr. William Blake".</note>
+                    </title>
+                </objtitle>
+                <origination>William Blake
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>etcher, </role>
+                    <role>engraver</role>
+                </origination>
+                <imprint>
+                    <publisher>Newberry
+                        <note>On the first plate, Blake inscribes "Publish'd Dec. 26 1811 by Newberry St Pauls Ch:Yard".
+                            Bentley notes that according to the volume's title page (not pictured), Mr. Harris, a partner of Newberry, was the publisher (*Records*, page 821-22n).</note> 
+                        <note>Bentley speculates that Malkin or Butts 
+                            may have financed the printing of this work (*Records*, pages 310-311).</note> 
+                    </publisher>
+                    <pubplace>London
+                    <note>The first plate specifies that the work was published in St Paul's Churchyard.</note>
+                    </pubplace>
+                    <date>1812
+                        <note>The plate is dated December 26, 1811, but the title page of *The Prologue* is dated 1812.</note>
+                    </date>
+                </imprint>
+                <compdate value="1811">1811</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1812">1812</printdate>
+                <numberobj>2</numberobj>
+                <objorder>1-2</objorder>
+                <objsize>13.2 x 7.9 cm.</objsize>
+                <numberleaves>2</numberleaves>
+                <leafsize>13.2 x 7.9 cm.</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>Two framing lines, one black and one red, extend around the text and image on the second object.</framelines>
+                <binding>calf extra</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Huntington Library, Art Museum, and Botanical Gardens</name>
+                <date>1915</date>
+                <dealer>none specified</dealer>
+                <price>none given</price>
+                <note>Acquired at an Edleheim sale by the American Art Assoication, March 7-10, 1900; acquired by Frederic R. Halsey; 
+                    acquired by Henry E. Huntington in December, 1915 as part of the Halsey Collection. 
+                    Now in the Huntington Library.</note>
+            </provenance>
+            <repository>
+                <repository>
+                    <institution>The Huntington Library, Art Museum, and Botanical Gardens</institution>
+                    <addressline>1151 Oxford Road</addressline>
+                    <addressline>San Marino, California 91108</addressline>
+                    <addressline>United States</addressline>
+                    <lb/>
+                    <addressline>Telephone: 626-405-2100</addressline>
+                    <addressline>Telephone, Reader Services: 626-405-2191</addressline>
+                    <addressline>Fax, Reader Services: 626-405-3477</addressline>
+                    <addressline>Email, Reader Services: readerregistration@huntington.org</addressline>
+                    <addressline>URL: http://www.huntington.org/</addressline>
+                    <lb/>
+                    <department>Library Division</department>
+                    <collection>Rare Books</collection>
+                    <repositoryid label="Accession number">57453</repositoryid>
+                    <lb/>
+                    <lb/>
+                </repository>
+            </repository>
+        </source>
+        <desc id="bb443.2.comb.01" dbi ="BB443.2.1.COM">
+            <objtitle>
+                <title type="editorial">Frontispiece</title>
+                ,
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="B1">(Bentley 1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>13.2 x 7.9 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <illustration type="plate" location="E">
+                <illusobjdesc>The engraving, after Blake's painting <hi rend="i">Sir Jeffery Chaucer and the nine and twenty Pilgrims on their journey to Canterbury</hi> (Butlin 653), 
+                    depicts seven of the thirty pilgrims departing Canterbury on horseback and one bystander. All of the riders are identified by name in the
+                    inscription below the composition. The last rider in the procession at the far left, the Reeve, has short hair and may smile. His right arm appears to be bent and resting on his lap. The second pilgrim from the left, Chaucer, faces forward and right. He wears a head covering that falls just past his
+                    shoulders and appears to be made of a light textile. He wears a gown with lace detailing and shoes with a low, flat heel and a sharp, pointed spur. He rides
+                    a dark horse who holds its left front leg up at a right angle with the ground. In his left hand, which may be gloved, Chaucer holds the horse’s reins and 
+                    perhaps a handkerchief or a glove (possibly missing from his right hand) against his chest. In his right hand, Chaucer holds a string of beads, perhaps rosary beads. A circular pillow or blanket is rolled up
+                    behind his back. The third pilgrim from the left, the Clerk of Oxenford, has long hair visible beneath a square hat similar to a mortarboard. 
+                    He appears young and clean-shaven, and stares directly forward and to the right. He rides a light horse which walks parallel to and behind Chaucer’s dark horse. The fourth pilgrim from the left, the Cook,
+                    rides in the background so that only his upper torso, head, and raised hands are visible. He tilts back his head to drink from the frothy beverage,
+                    perhaps a beer, that he raises to his lips with his left hand. He wears a white cloth head covering that is tied with a band above his forehead, 
+                    and no hair is visible beneath the hat. His mouth is open. The fifth pilgrim from the left, the Miller, turns to face forward and gazes toward the viewer. His hair is short and curly, and he has a beard and mustache. With his raised right hand, he holds a pipe
+                    from a set of bagpipes to his lips; the shaft appears to extend both downward in front of him and rises again into a horn behind his left shoulder. 
+                    He wears a collared shirt or coat. The sixth pilgrim from the left, the Wife of Bath, rides sidesaddle with
+                    her whole body facing forward with knees bent and spread. She turns to look slightly right. She wears several layers of coverings and hats, including a
+                    knitted bonnet that covers her hair (although some curls may escape at the sides) and a flowing hood that drapes over the bonnet. A pointed triangle stands erect on the outermost collar or hat and may indicate a hood. She smiles with an open mouth. Her breasts, with visible nipples, swell out of her gown. The garment also includes a spiky collar. She wears gloves and her gown clings to her legs. A heavily patterned blanket with fringe is visible over her lap. She wears heels, and her right shoe may include a spiked spur.
+                    Her right arm is bent at a right angle and in her right hand, she holds a stemmed glass. The horse’s reins,
+                    which are decorated with small, round bells, are held in her left hand. The seventh rider from the left, the Merchant, faces forward and turns his head slightly left, 
+                    as if to look toward the Wife of Bath. He wears a hat and appears to have short hair with a two-pointed beard. One bystander, below and to the
+                    right of Chaucer and the horse, walks right and faces away, looking up towards the pilgrims. The largest architectural component of 
+                    the composition is the Tabarde Inn at far left. The pilgrims emerge from a wide portal door topped with a pointed arch. The gable and both spandrels above the portal 
+                    contain legible text identifying both the building and the subject of the overall engraving. The facade is decorated with elements characteristic of Gothic cathedrals.
+                    A portion of the Tabarde Inn's interior is visible through the open portal and is decorated with wide arched windows separated by columns, with the 
+                    central column being topped with a sculpted figure. Buildings, which include spires, are visible behind a hedge to the right of the portal through which the pilgrims walk at left. A crenelated wall stands in front of the city, which may represent London, 
+                    the pilgrims' city of origin. One white bird flies in the upper right corner of the composition, while two additional white birds, possibly doves, 
+                    sit on the right side of the roof of the Tabarde Inn.
+                    Behind the city, there are rolling hills covered in grass. Diagonal beams of light or radiance extend from the lower right corner of the sky in the background, 
+                    perhaps suggesting a rising sun in the east as the pilgrims depart in the morning.</illusobjdesc>
+                <component type="figure" location="AC">
+                    <characteristic>male</characteristic>
+                    <characteristic>sitting</characteristic>
+                    <characteristic>riding</characteristic>
+                    <characteristic>facing right</characteristic>
+                    <characteristic>short hair</characteristic>
+                    <characteristic>smile</characteristic>
+                    <characteristic>looking</characteristic>
+                    <characteristic>shirt</characteristic>
+                    <characteristic>hood</characteristic>
+                    <characteristic>collar</characteristic>
+                    <characteristic>arm bent</characteristic>
+                    <characteristic>arm on lap</characteristic>
+                    <characteristic>saddle</characteristic>
+                    <characteristic>pilgrim</characteristic>
+                    <characteristic>Reeve</characteristic>
+                    <illusobjdesc>The last rider in the procession at the far left, the Reeve, has short hair and closed lips that may be turned 
+                        slightly into a smile (though the expression is somewhat ambiguous). He looks forward following the procession of pilgrims 
+                        to the right. He wears a vertically striped garment with a prominent cylindrical collar, which may alternatively be a hood.
+                        His right arm appears to be bent and resting on his lap. He is framed by the architectural portal in a Gothic style. </illusobjdesc>
+                </component>
+                <component type="figure" location="AC">
+                    <characteristic>male</characteristic>
+                    <characteristic>sitting</characteristic>
+                    <characteristic>riding</characteristic>
+                    <characteristic>facing right</characteristic>
+                    <characteristic>facing forward</characteristic>
+                    <characteristic>beard</characteristic>
+                    <characteristic>veil</characteristic>
+                    <characteristic>gown</characteristic>
+                    <characteristic>collar</characteristic>
+                    <characteristic>stockings</characteristic>
+                    <characteristic>shoe</characteristic>
+                    <characteristic>arm bent upward</characteristic>
+                    <characteristic>arm at side</characteristic>
+                    <characteristic>arm on lap</characteristic>
+                    <characteristic>holding</characteristic>
+                    <characteristic>glove</characteristic>
+                    <characteristic>rein</characteristic>
+                    <characteristic>beads</characteristic>
+                    <characteristic>pillow</characteristic>
+                    <characteristic>blanket</characteristic>
+                    <characteristic>saddle</characteristic>
+                    <characteristic>pilgrim</characteristic>
+                    <characteristic>Chaucer</characteristic>
+                    <characteristic>spur</characteristic>
+                    <illusobjdesc>The second pilgrim from the left, Chaucer, faces forward and right. He wears a head covering and has a beard. He wears a gown with lace detailing on the collar and bottom hem. He wears stockings and shoes with a low, flat heel and a sharp, pointed spur. He rides a dark horse who holds its left front leg up at a right angle with the ground. In his left hand, which may be gloved, Chaucer holds the horse’s reins and a handkerchief or a glove (possibly missing from his right hand) against his chest. His right arm is bent and rests in his lap; in his right hand, he holds a string of beads, perhaps rosary beads. A circular pillow or blanket is rolled up behind his back and a saddle is visible beneath him.</illusobjdesc>
+                </component>
+                <component type="animal" location="AC">
+                    <characteristic>horse</characteristic>
+                    <characteristic>facing right</characteristic>
+                    <characteristic>leg drawn up</characteristic>
+                    <characteristic>standing</characteristic>
+                    <characteristic>walking</characteristic>
+                    <characteristic>mouth open</characteristic>
+                    <illusobjdesc>The second pilgrim from the left, Chaucer, rides a dark horse who stands or walks to the right. Its left front leg is drawn up and its mouth is open.</illusobjdesc>
+                </component>
+                <component type="figure" location="AC">
+                    <characteristic>male</characteristic>
+                    <characteristic>sitting</characteristic>
+                    <characteristic>riding</characteristic>
+                    <characteristic>facing right</characteristic>
+                    <characteristic>facing forward</characteristic>
+                    <characteristic>hat</characteristic>
+                    <characteristic>long hair</characteristic>
+                    <characteristic>collar</characteristic>
+                    <characteristic>shirt</characteristic>
+                    <characteristic>pilgrim</characteristic>
+                    <characteristic>Clerk of Oxenford</characteristic>
+                    <illusobjdesc>The third pilgrim from the left, the Clerk of Oxenford, has long hair visible beneath a square hat similar to a mortarboard. He appears young and clean-shaven, and stares directly forward and to the right. His garment has some detail—perhaps lace—around the collar. The majority of his lower body is obscured by the horse that Chaucer rides. The Clerk’s horse is lighter in color; it also raises its right forward leg prominently in parallel with Chaucer’s horse.</illusobjdesc>
+                </component>
+                <component type="animal" location="AC">
+                    <characteristic>horse</characteristic>
+                    <characteristic>facing right</characteristic>
+                    <characteristic>leg drawn up</characteristic>
+                    <characteristic>standing</characteristic>
+                    <characteristic>walking</characteristic>
+                    <characteristic>rein</characteristic>
+                    <illusobjdesc>The third pilgrim from the left, the Clerk of Oxenford, rides a light-colored horse who faces right and draws its front leg upward. The horse's reins are faintly visible to the right of its neck.</illusobjdesc>
+                </component>
+                <component type="figure" location="AC">
+                    <characteristic>male</characteristic>
+                    <characteristic>sitting</characteristic>
+                    <characteristic>riding</characteristic>
+                    <characteristic>facing right</characteristic>
+                    <characteristic>head bent back</characteristic>
+                    <characteristic>drinking</characteristic>
+                    <characteristic>foam</characteristic>
+                    <characteristic>arm bent upward</characteristic>
+                    <characteristic>arm raised</characteristic>
+                    <characteristic>holding</characteristic>
+                    <characteristic>hat</characteristic>
+                    <characteristic>band</characteristic>
+                    <characteristic>mouth open</characteristic>
+                    <characteristic>cup</characteristic>
+                    <characteristic>collar</characteristic>
+                    <characteristic>shirt</characteristic>
+                    <characteristic>pilgrim</characteristic>
+                    <characteristic>Cook</characteristic>
+                    <illusobjdesc>The fourth pilgrim from the left, the Cook, rides in the background so that only his upper torso, head, and raised hands are visible. Facing right in profile, the cook tilts back his head to drink from the frothy beverage, perhaps a beer, that he raises to his lips with his left hand. His right hand is raised to support the glass. He wears a white cloth head covering that is tied with a band above his forehead, and no hair is visible beneath the hat. His mouth is open. Although most of his attire is obscured by the other pilgrims, he wears a garment with a moderately tall collar and the ends of his sleeves are ruffled, perhaps with lace.</illusobjdesc>
+                </component>
+                <component type="figure" location="BD">
+                    <characteristic>male</characteristic>
+                    <characteristic>sitting</characteristic>
+                    <characteristic>riding</characteristic>
+                    <characteristic>facing right</characteristic>
+                    <characteristic>facing forward</characteristic>
+                    <characteristic>looking</characteristic>
+                    <characteristic>curly hair</characteristic>
+                    <characteristic>short hair</characteristic>
+                    <characteristic>beard</characteristic>
+                    <characteristic>mustache</characteristic>
+                    <characteristic>arm at side</characteristic>
+                    <characteristic>arm bent upward</characteristic>
+                    <characteristic>holding</characteristic>
+                    <characteristic>playing</characteristic>
+                    <characteristic>horn</characteristic>
+                    <characteristic>pipe</characteristic>
+                    <characteristic>bagpipe</characteristic>
+                    <characteristic>collar</characteristic>
+                    <characteristic>shirt</characteristic>
+                    <characteristic>coat</characteristic>
+                    <characteristic>button</characteristic>
+                    <characteristic>pilgrim</characteristic>
+                    <characteristic>Miller</characteristic>
+                    <illusobjdesc>The fifth pilgrim from the left, the Miller, turns to face forward and gazes toward the viewer. His hair is short and curly, and he has a beard and mustache. With his raised right hand, he holds a pipe to his lips, from a set of bagpipes and the shaft appears to extend both downward in front of him and rises again into a horn behind his left shoulder. He wears a collared shirt or coat.</illusobjdesc>
+                </component>
+                <component type="figure" location="BD">
+                    <characteristic>female</characteristic>
+                    <characteristic>riding</characteristic>
+                    <characteristic>sitting</characteristic>
+                    <characteristic>facing forward</characteristic>
+                    <characteristic>facing right</characteristic>
+                    <characteristic>hat</characteristic>
+                    <characteristic>hood</characteristic>
+                    <characteristic>curly hair</characteristic>
+                    <characteristic>collar</characteristic>
+                    <characteristic>spiky</characteristic>
+                    <characteristic>gown</characteristic>
+                    <characteristic>cross</characteristic>
+                    <characteristic>smiling</characteristic>
+                    <characteristic>mouth open</characteristic>
+                    <characteristic>glove</characteristic>
+                    <characteristic>stockings</characteristic>
+                    <characteristic>breast</characteristic>
+                    <characteristic>blanket</characteristic>
+                    <characteristic>shoe</characteristic>
+                    <characteristic>arm bent</characteristic>
+                    <characteristic>arm at side</characteristic>
+                    <characteristic>holding</characteristic>
+                    <characteristic>glass</characteristic>
+                    <characteristic>rein</characteristic>
+                    <characteristic>bell</characteristic>
+                    <characteristic>head</characteristic>
+                    <characteristic>pilgrim</characteristic>
+                    <characteristic>Wife of Bath</characteristic>
+                    <characteristic>spur</characteristic>
+                    <illusobjdesc>The sixth pilgrim from the left, the Wife of Bath, rides sidesaddle with her whole body facing forward with knees bent and spread. She turns to look slightly right. She wears several layers of coverings and hats, including a knitted bonnet that covers her hair (although some curls may escape at the sides) and a flowing hood that drapes over the bonnet. A pointed triangle stands erect on the outermost collar or hat and may indicate a hood. She smiles with an open mouth. Her breasts, with visible nipples, swell out of her gown. The garment also includes a spiky collar. She wears gloves and her gown clings to her legs. A heavily patterned blanket with fringe is visible over her lap. She wears heels, and her right shoe may include a spiked spur. Her right arm is bent at a right angle and in her right hand, she holds a stemmed glass. The horse’s reins, which are decorated with small, round bells, are held in her left hand.</illusobjdesc>
+                </component>
+                <component type="animal" location="BD">
+                    <characteristic>horse</characteristic>
+                    <characteristic>mane</characteristic>
+                    <characteristic>facing right</characteristic>
+                    <characteristic>bell</characteristic>
+                    <characteristic>rein</characteristic>
+                    <illusobjdesc>The sixth pilgrim from the left, the Wife of Bath, rides a horse sidesaddle. The horse, who faces right, is only visible up to the neck. The horse's mane and its reins are decorated with small, round bells.</illusobjdesc>
+                </component>
+                <component type="figure" location="BD">
+                    <characteristic>male</characteristic>
+                    <characteristic>sitting</characteristic>
+                    <characteristic>riding</characteristic>
+                    <characteristic>facing forward</characteristic>
+                    <characteristic>facing left</characteristic>
+                    <characteristic>looking</characteristic>
+                    <characteristic>hat</characteristic>
+                    <characteristic>short hair</characteristic>
+                    <characteristic>beard</characteristic>
+                    <characteristic>coat</characteristic>
+                    <characteristic>shirt</characteristic>
+                    <characteristic>collar</characteristic>
+                    <characteristic>pilgrim</characteristic>
+                    <characteristic>Merchant</characteristic>
+                    <illusobjdesc>The seventh rider from the left, the Merchant, faces forward and turns his head slightly left, as if to look toward the Wife of Bath. He wears a hat and appears to have short hair with a two-pointed beard. Only his upper torso is visible, but his overcoat appears to have a stiff collar and covers a shirt.</illusobjdesc>
+                </component>
+                <component type="figure" location="D">
+                    <characteristic>standing</characteristic>
+                    <characteristic>walking</characteristic>
+                    <characteristic>female</characteristic>
+                    <characteristic>facing away</characteristic>
+                    <characteristic>facing up</characteristic>
+                    <characteristic>head up</characteristic>
+                    <characteristic>looking</characteristic>
+                    <characteristic>child</characteristic>
+                    <characteristic>curly hair</characteristic>
+                    <characteristic>comb</characteristic>
+                    <characteristic>gown</characteristic>
+                    <characteristic>arms at side</characteristic>
+                    <characteristic>holding</characteristic>
+                    <characteristic>carrying</characteristic>
+                    <characteristic>purse</characteristic>
+                    <characteristic>bottle</characteristic>
+                    <characteristic>leg extended backward</characteristic>
+                    <illusobjdesc> In the center of the design below the Wife of Bath is a young figure who walks to the right but turns left to look up at the pilgrims (and thus away from the viewer). The gender of this figure is probably female since she appears to have curly hair pulled back with a comb or accessory. The figure wears a long, simple gown and in her right hand holds a pouch of some kind, perhaps a bladder of water, bottle, or a shepherd's purse. The figure's left leg is extended as she walks with bare feet to the right.</illusobjdesc>
+                </component>
+                <component type="structure" location="A">
+                    <characteristic>building</characteristic>
+                    <characteristic>arch</characteristic>
+                    <characteristic>Gothic art</characteristic>
+                    <characteristic>window</characteristic>
+                    <characteristic>tracery</characteristic>
+                    <characteristic>facade</characteristic>
+                    <characteristic>door</characteristic>
+                    <characteristic>wood</characteristic>
+                    <characteristic>beam</characteristic>
+                    <characteristic>statue</characteristic>
+                    <characteristic>Tabarde Inn</characteristic>
+                    <characteristic>inscription</characteristic>
+                    <characteristic>text</characteristic>
+                    <illusobjdesc>The largest architectural component of the composition is the Tabarde Inn at far left. The pilgrims emerge from a wide portal door topped with a pointed arch. Both spandrels and the bar lying above them and below the gable contain legible text identifying both the building and the subject of the overall engraving: "THE TABARDE INNE" on the bar above the spandrels, "HENRY BAILLY" on the left spandrel, and "The Lodgynge House for Canterbury Pilgrims" on the right spandrel. The facade is decorated with many elements characteristic of Gothic cathedrals, though their placement and order is somewhat unusual. In this engraving, we can see one of two wooden beams which come together to form the apex of the structure. The visible side is decorated with scalloped eaves. Below the building's central peak, which is not visible, are two windows that may contain stained glass panes and tracery. A portion of the Tabarde Inn's interior is visible through the open portal. The inner right wall is decorated with wide arched windows separated by columns, with the central column being topped with a sculpted figure. The statue faces forward and looks toward the pilgrims. The three clearly visible arches frame the heads of the last three pilgrims in the procession—the Reeve, Chaucer, and the Clerk of Oxenford.</illusobjdesc>
+                </component>
+                <component type="figure" location="A">
+                    <characteristic>facing forward</characteristic>
+                    <characteristic>standing</characteristic>
+                    <characteristic>statue</characteristic>
+                    <illusobjdesc>The inner right wall of the Tabarde Inn includes a central column topped with a sculpted figure that faces forward and looks toward the pilgrims.</illusobjdesc>
+                </component>
+                <component type="structure" location="C">
+                    <characteristic>city</characteristic>
+                    <characteristic>spire</characteristic>
+                    <characteristic>building</characteristic>
+                    <characteristic>wall</characteristic>
+                    <characteristic>London</characteristic>
+                    <characteristic>house</characteristic>
+                    <illusobjdesc>In addition to the large Tabarde Inn at left, several other structures are visible throughout the background of the composition. The buildings, which include spires, are visible behind a hedge and to the right of the portal through which the pilgrims walk at left. A crenelated wall stands in front of the city, which may represent London, the pilgrims' city of origin.</illusobjdesc>
+                </component>
+                <component type="animal" location="A">
+                    <characteristic>bird</characteristic>
+                    <characteristic>dove</characteristic>
+                    <characteristic>flying</characteristic>
+                    <characteristic>sitting</characteristic>
+                    <characteristic>A white bird flies in the sky near the upper left corner of the composition while two additional white birds, possibly doves, sit on the right side of the roof of the Tabard Inn.</characteristic>
+                </component>
+                <component type="object" location="CD">
+                    <characteristic>earth</characteristic>
+                    <characteristic>path</characteristic>
+                    <characteristic>road</characteristic>
+                    <characteristic>stone</characteristic>
+                    <characteristic>dust</characteristic>
+                    <illusobjdesc>The ground beneath the pilgrims along the lower edge of the composition may be a road or path and appears to be composed of packed earth with many small stones. The horse's hoofs kick up columns of dust.</illusobjdesc>
+                </component>
+                <component type="vegetation" location="B">
+                    <characteristic>leaf</characteristic>
+                    <characteristic>hedge</characteristic>
+                    <characteristic>indeterminate</characteristic>
+                    <illusobjdesc>Behind the procession of pilgrims, leafy, indeterminate vegetation—perhaps a hedge—grows in front of the city.</illusobjdesc>
+                </component>
+                <component type="object" location="B">
+                    <characteristic>hill</characteristic>
+                    <characteristic>cloud</characteristic>
+                    <characteristic>sky</characteristic>
+                    <characteristic>beams of light</characteristic>
+                    <characteristic>radiance</characteristic>
+                    <characteristic>sun</characteristic>
+                    <characteristic>sunrise</characteristic>
+                    <illusobjdesc>Behind the city, rolling hills extend to the horizon. Clouds are visible in the left part of the sky. Diagonal beams of light or radiance extend from the lower right corner of the sky, perhaps suggesting a rising sun in the east as the pilgrims depart in the morning.</illusobjdesc>
+                </component>
+            </illustration>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb443.2.comb.01.01" justify="left" indent="6"> THE TABARDE<space extent="0.5"/><choice><orig> INNE </orig><reg> inn </reg></choice></l>
+                </lg>
+                <lg justify="left">
+                    <l n="bb443.2.comb.01.02" justify="left" indent="24"> The <choice><orig> Lodgynge </orig><reg> Lodging </reg></choice></l>    
+                    <l n="bb443.2.comb.01.03" justify="left" indent="4"> HENRY <space extent="14"/> House for</l>
+                    <l n="bb443.2.comb.01.04" justify="left" indent="2"> BAILLY <space extent="19"/> Canterbury</l>    
+                    <l n="bb443.2.comb.01.05" justify="left" indent="32"> Pilgrims</l>
+                </lg>
+                <vspace extent="20"/>
+                <lg>
+                    <l n="bb443.2.comb.01.06" justify="left" indent="0.5"> Reeve. Chaucer. <space extent="0.5"/> Oxford. <space extent="3"/> Cook. <space extent="4.5"/> Miller. <space extent="0.5"></space> Wife of <space extent="1"/> Merchant. </l>
+                    <l n="bb443.2.comb.01.07" justify="left" indent="17"> Scholar. <space extent="21"/> Bath. </l>
+                    <l n="bb443.2.comb.01.08" justify="left" indent="56.5"> WBlake </l>
+                    <l n="bb443.2.comb.01.09" justify="left" indent="2"><choice><orig> Publish’d </orig><reg> Published</reg></choice> <choice><orig>Dec.</orig><reg>December</reg></choice><hi rend="superscript">r</hi> 26. 1811. by Newberry S<hi rend="superscript">t</hi> Pauls <choice><orig>Ch :Yard</orig><reg>Churchyard</reg></choice> <space extent="1.5"/> inv &#38; sc</l>
+                    <note>The small mark before the word "Newberry" is the beginning of a stray line, or perhaps the remains of an etching.</note>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb443.2.comb.02" dbi ="BB443.2.2.COM">
+            <objtitle>
+                <title type="editorial">Unsigned Vignette</title><!--UNC & Bob, please advise as to title -->
+                ,
+                <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                    <objcode code="B2">(Bentley 2)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>13.2 x 7.9 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc> A cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the portal 
+                        remains visible. On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires
+                        on their sides, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two 
+                        small spires on its sides, and one very large turret in the center. One wall with tightly cross-hatched lines is visible on the side of the castle.
+                        It is lined with a gallery of at least ten spires. Behind the cathedral, a small structure with three spires is visible. A moat separates the cathedral and
+                        vegetation from a nearly empty landscape in the foreground. The vegetation around the cathedral is contrasted with the barren and lifeless
+                        landscape on the other side of the moat. In the middle of the barren landscape is a sapling. The branches of the sapling are drooping downwards, 
+                        which may indicate that the tree is dying. A vine makes two loops around the tree and then rises above it. There is some light stipple on 
+                        some of the branches of the sapling, perhaps indicating leaves. </illusobjdesc>
+                    <component type="structure" location="E">
+                        <characteristic>church</characteristic>
+                        <characteristic>tower</characteristic>
+                        <characteristic>arch</characteristic>
+                        <characteristic>spire</characteristic>
+                        <characteristic>gate</characteristic>
+                        <characteristic>building</characteristic> 
+                        <characteristic>castle</characteristic>
+                        <characteristic>Gothic art</characteristic>
+                        <characteristic>facade</characteristic> 
+                        <characteristic>wall</characteristic>
+                        A cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the arched portal remains visible. 
+                        On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two 
+                        small spires on its sides. One wall with tightly cross-hatch lines is visible on the side of the castle.
+                        It is lined with a gallery of at least ten spires.
+                    </component>
+                    <component type="structure" location="D">
+                        <characteristic>building</characteristic>
+                        <characteristic>wall</characteristic>
+                        <characteristic>spire</characteristic>
+                        <characteristic>Gothic art</characteristic>
+                        One wall with tightly cross-hatched lines is visible on the side of the cathedral. It is lined with a gallery of at least ten spires. Behind and to the right of the cathedral, 
+                        a small structure with three spires is visible.
+                    </component>
+                    <component type="vegetation" location="E">
+                        <characteristic>vegetation</characteristic>
+                        <characteristic>plant</characteristic> 
+                        <characteristic>leaf</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                            A cathedral stands surrounded by leafy, indeterminate vegetation that partially obscures the structure.
+                    </component>
+                    <component type="object" location="E">
+                    <characteristic>water</characteristic>
+                    A moat separates the cathedral, surrounded by vegetation, from an empty and barren landscape containing one sapling wrapped by a vine.
+                    </component>
+                    <component type="vegetation" location="C">
+                        <characteristic>tree</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>plant</characteristic>
+                        On the other side of the moat, in the foreground, is a sapling. The branches of the sapling are drooping downwards, which may indicate
+                        that the tree is dying. A vine makes two loops around the tree and then rises above it. There is some light stipple on some of the branches 
+                        of the sapling, perhaps indicating leaves.
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>barren</characteristic>
+                        <characteristic>stone</characteristic> 
+                        In the foreground, in front of the moat, is a barren and empty landscape.
+                    </component>
+                </illustration>
+            </illusdesc>
+        </desc>
+    </objdesc>
+</bad>
