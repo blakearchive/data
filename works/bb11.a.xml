@@ -5,7 +5,7 @@
             <titlestmt>
                 <title reg="Blake's Chaucer: An Original Engraving">
                     <main>Blake's Chaucer: An Original Engraving</main>
-                    <copy> Copy A</copy>
+                    <copy>Copy A</copy>
                     : electronic edition
                 </title>
                 <principal>
@@ -17,10 +17,11 @@
                     <name>Joseph Viscomi</name> 
                     , University of North Carolina at Chapel Hill 
                 </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill, and the University of Rochester</sponsor>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
-            <extent>1 XML file approx. 31KB; 6 JPEG
-                (ISO/IEC 10918) files ranging in size from __KB to 840KB</extent><!--need lowest size of 100dpi added-->
+            <extent>1 XML file approx. 32KB; 6 JPEG
+                (ISO/IEC 10918) files ranging in size from __KB to 840KB</extent><!--Grant, please add lowest 100dpi file size-->
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
                 <date>April 2023</date>
             </publicationstmt>
@@ -138,7 +139,7 @@
                         Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Conversion: </resp>
-                    <name>Aziza Technology Associates</name>
+                    <name>Aziza Technology Associates, </name>
                     <name>Wesley N. Raabe</name>
                     <resp>Project Assistants: </resp>
                     <name>Christopher N. Jackson, </name>
@@ -199,19 +200,26 @@
                 <role>printer
                     <note>This printed prospectus is a compilation of material from two sources, between which exist several differences. 
                         One source is the *Descriptive Catalogue* of 1809, paragraphs 14, 15, and 17; 
-                        the other is the *Notebook*, pages 117-119, which is also derived from the *Catalogue* (*Writings* volume 2, page 863-864).
+                        the other is the *Notebook*, pages 117-119 (Bentley, *Writings* volume 2, page 863-864).
                         Bentley notes that the differences between this prospectus and the source texts suggest the printer
-                        worked from a manuscript which contained material from both the *Notebook* and the *Descriptive Catalogue* (*Writings* volume 2, page 864).
+                        worked from a manuscript which contained material from both the *Notebook* and the *Descriptive Catalogue* (Bentley, *Writings* volume 2, page 864).
                     </note>
                 </role>
                 </origination>
                 <imprint>
                     <publisher>William Blake
+                        <note>No publisher is recorded on the work. However, given the nature of the document, it is safe to assume
+                            this work was published by Blake.</note>
                         <note>Just as Blake circulated flyers advertising his 1809 exhibition and *Descriptive Catalogue*, 
-                            he probably also sent copies of this leaflet to his friends (Bentley, *Writings* volume 2, page 1695).</note>
+                            he probably sent copies of this leaflet to his friends (Bentley, *Writings* volume 2, page 1695).</note>
                     </publisher>
-                    <pubplace>London</pubplace>
-                    <date>1810</date>
+                    <pubplace>London
+                        <note>No place of publication is recorded on the work. However, Blake lived in London when this
+                            work was designed and printed, and the address of the printer is located in London.</note>
+                    </pubplace>
+                    <date>1810
+                    <note>The watermark on Copies B and C indicate that this work was published in 1810; see the note on Watermark below.</note>
+                    </date>
                 </imprint>
             </objdescid>
             <objinfo>
@@ -227,7 +235,8 @@
                 <support>wove paper</support>
                 <watermark>none
                 <note>Though no watermark appears on this Copy, the watermark "H WILLMOT / 1810" appears on Copies B and C, 
-                    establishing an initial terminus for this work.</note></watermark>
+                    establishing an initial terminus for this work.</note>
+                </watermark>
                 <binding>bound in card
                     <note>This work is bound in a card cover with Copy A of *Blake's Chaucer: The Canterbury Pilgrims*.</note>
                 </binding>
@@ -260,7 +269,8 @@
         </source>
         <desc id="bb11.a.te.01" dbi="bb11.a.1.TYP">
             <objtitle>
-                <title type="transcribed">Blake's Chaucer: An Original Engraving</title>, 
+                <title type="transcribed">Blake's Chaucer: An Original Engraving</title>
+                , 
                 <objid>
                     <objnumber code="A1">Object 1 </objnumber>
                     <objcode code="B1">(Bentley 1)</objcode>
@@ -336,7 +346,9 @@
         </desc>
         <desc id="bb11.a.te.02" dbi="bb11.a.2.TYP">
             <objtitle>
-                <title type="editorial">Page 2</title>, <objid>
+                <title type="editorial">Page 2</title>
+                ,
+                <objid>
                     <objnumber code="A2">Object 2 </objnumber>
                     <objcode code="B2">(Bentley 2)</objcode>
                 </objid>
@@ -411,7 +423,7 @@
                     <l n="bb11.a.te.02.17" justify="left">it belonged to the Monastery 
                         <choice>
                             <orig>ef</orig><note>The word “ef” is likely a printing error for “of”. Bentley 
-                                (*Writings* volume 2, page 865fn) and Erdman (569) make the correction in their transcription.</note>
+                                (*Writings* volume 2, page 865n) and Erdman (569) make the correction in their transcription.</note>
                             <reg>of</reg>
                         </choice> 
                         <choice>
@@ -472,7 +484,9 @@
         </desc>
         <desc id="bb11.a.te.03" dbi="bb11.a.3.TYP">
             <objtitle>
-                <title type="editorial">Page 3</title>, <objid>
+                <title type="editorial">Page 3</title>
+                ,
+                <objid>
                     <objnumber code="A3">Object 3 </objnumber>
                     <objcode code="B3">(Bentley 3)</objcode>
                 </objid>
@@ -507,7 +521,7 @@
                     <l n="bb11.a.te.03.11" justify="left">Characters themselves for ever remain unaltered 
                         <choice>
                             <orig>end</orig><note>The word “end” is likely a printing error for “and”. Bentley 
-                                (*Writings* volume 2, page 865fn) and Erdman (570) make the correction in their transcription.</note>
+                                (*Writings* volume 2, page 865n) and Erdman (570) make the correction in their transcription.</note>
                             <reg>and</reg>
                         </choice>
                         <choice>

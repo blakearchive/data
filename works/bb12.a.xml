@@ -5,7 +5,7 @@
             <titlestmt>
                 <title reg="Blake's Chaucer, The Canterbury Pilgrims">
                     <main>Blake's Chaucer, The Canterbury Pilgrims</main>
-                    <copy> Copy A</copy> : electronic edition </title>
+                    <copy>Copy A</copy> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>
@@ -15,6 +15,7 @@
                     <name>Joseph Viscomi</name>
                     , University of North Carolina at Chapel Hill
                 </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill, and the University of Rochester</sponsor>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
             <extent>1 XML file approx. 20KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 1.6MB to 1.9MB</extent>
@@ -84,7 +85,7 @@
                     <resp>Editors:</resp>
                     <name>Morris Eaves,</name>
                     University of Rochester;
-                    <name>Rober Essick,</name>
+                    <name>Robert Essick,</name>
                     University of California, Riverside; and
                     <name>Joseph Viscomi,</name>
                     University of North Carolina at Chapel Hill
@@ -130,7 +131,7 @@
                         Technical Editor: </resp>
                     <name>William Shaw</name>
                     <resp>Conversion: </resp>
-                    <name>Aziza Technology Associates</name>
+                    <name>Aziza Technology Associates, </name>
                     <name>Wesley N. Raabe</name>
                     <resp>Project Assistants: </resp>
                     <name>Christopher N. Jackson, </name>
@@ -181,8 +182,14 @@
                     <role>printer</role>
                 </origination>
                 <imprint>
-                    <publisher>William Blake</publisher>
-                    <pubplace>London</pubplace>
+                    <publisher>William Blake
+                        <note>No publisher is recorded on the work. However, given the nature of the document, it is safe to assume
+                            this work was published by Blake.</note>
+                    </publisher>
+                    <pubplace>London
+                        <note>No place of publication is recorded on the work. However, Blake lived in London when this
+                        work was designed and printed, and the address of the printer is located in London.</note>
+                    </pubplace>
                     <date>1809</date>
                 </imprint>
                 <compdate value="1809">1809</compdate>
@@ -233,6 +240,7 @@
     <desc id="BB12.a.te.01" dbi="BB12.a.1.TYP">
             <objtitle>
                 <title type="transcribed">Blake's Chaucer, The Canterbury Pilgrims</title>
+                ,
                 <objid>
                     <objnumber code="A1">Object 1</objnumber>
                     <objcode code="B1">(Bentley 1)</objcode>
@@ -241,7 +249,7 @@
             <physdesc>
                 <objsize>22.8 x 18.7 cm.</objsize>
                 <objnote><p>Regarding distribution, Bentley notes that this prospectus was most likely sent by Blake to his friends in   
-                    May 1809 (*Writings* volume 2, page 1692). J.B. Mertz identified a previously unrecorded copy found pasted on the 
+                    May 1809 (Bentley, *Writings* volume 2, page 1692). J.B. Mertz identified a previously unrecorded copy found pasted on the 
                     back cover inside the flyleaf of Francis Douce's first volume of *The Canterbury Tales of Chaucer*. 
                     This discovered copy is now held at the Bodleian Library as part of Douce's estate 
                     (Mertz, "An Unrecorded Copy of Blake's 1809 Chaucer Prospectus," *Blake/An Illustrated Quarterly* 32.3 [Winter:1998-99], 

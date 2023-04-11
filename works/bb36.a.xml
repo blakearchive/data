@@ -5,7 +5,7 @@
             <titlestmt>
                 <title reg="Exhibition of Paintings in Fresco, Poetical and Historical Inventions">
                     <main>Exhibition of Paintings in Fresco, Poetical and Historical Inventions</main>
-                    <copy> Copy A</copy>
+                    <copy>Copy A</copy>
                     : electronic edition 
                 </title>
                 <principal>
@@ -17,9 +17,10 @@
                     <name>Joseph Viscomi</name>
                     , University of North Carolina at Chapel Hill
                 </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill, and the University of Rochester</sponsor>
             </titlestmt>
             <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
-            <extent>1 XML file approx. 33KB; 6 JPEG files ranging in size from approx. __KB to 3MB</extent><!--need lowest size of 100dpi added--> 
+            <extent>1 XML file approx. 34KB; 6 JPEG files ranging in size from approx. __KB to 3MB</extent><!--Grant, please add lowest 100dpi file size--> 
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
                 <date>April 2023</date>
             </publicationstmt>
@@ -34,7 +35,7 @@
             only.
             <lb/>
             <lb/>
-            This work copyright © 2023 The Huntington.
+            This work copyright © 2023 Huntington Library, Art Museum, and Botanical Gardens
         </userestrict>
         <encodingdesc/>
         <profiledesc/>
@@ -89,7 +90,8 @@
                     <name>Robert Essick,
                     </name>University of California, Riverside; and 
                     <name>Joseph Viscomi, </name>
-                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
                     <resp>Project Manager: </resp>
                     <name>Joseph Fletcher</name>
@@ -127,9 +129,9 @@
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>
                     University of Rochester; 
-                    <name>Robert Essick,</name>
+                    <name>Robert Essick, </name>
                     University of California, Riverside; and 
-                    <name>Joseph Viscomi,</name>
+                    <name>Joseph Viscomi, </name>
                     University of North Carolina at Chapel Hill 
                     <resp>Technical Editor: </resp>
                     <name>Michael Fox</name>
@@ -214,12 +216,21 @@
                     <role>printer</role>
                 </origination>
                 <imprint>
-                    <publisher>William Blake</publisher>
+                    <publisher>William Blake
+                    <note>No publisher is recorded on the work. However, given the nature of the document, it is safe to assume
+                    this work was published by Blake.</note>
                     <note>Bentley notes that Blake apparently sent this flyer to his friends in May 1809; the only surviving copies
                         were folded into envelopes and sealed with a wafer. Copy A was addressed to Ozias Humphrey and accompanied
-                        by a letter from Blake (*Writings* volume 2, page 1692).</note>
-                    <pubplace>London</pubplace>
-                    <date>1809</date>
+                        by a letter from Blake (Bentley, *Writings* volume 2, page 1692).</note>
+                    </publisher>
+                    <pubplace>London
+                        <note>No place of publication is recorded on the work. However, London was the location of both Watts and Co. Printers
+                    and Blake's exhibition.</note>
+                    </pubplace>
+                    <date>1809
+                    <note>This work does not contain a date. However, it can be dated to 1809, as that is when Blake's exhibition
+                    took place.</note>
+                    </date>
                 </imprint>
                 <compdate value="1809">1809</compdate>
             </objdescid>
@@ -231,7 +242,7 @@
                 <numberleaves>2
                     <note>The full sheet was folded to form two leaves. The prospectus is printed on the first recto and first verso 
                         (Object 1 and 2, respectively), both of which include handwritten additions by Blake. This folded sheet was 
-                        folded again to form a packet. The address appears on the second verso (Object 3), The blank second 
+                        folded again to form a packet. The address appears on the second verso (Object 3). The blank second 
                         recto is not pictured.</note>
                 </numberleaves> 
                 <leafsize>23.8 x 18.0 cm.</leafsize>
@@ -246,10 +257,10 @@
             </objinfo>
             <provenance n="1">
                 <name>The Huntington Library, Art Museum, and Botanical Gardens</name>
-                <note>Sent by Blake to Ozias Humphry in 1809; 
+                <note>Sent by Blake to Ozias Humphry in 1809; sold with Blake's letter to Humphry, Sotheby's, 4 June 1907, lot 385 (&#163;15.10s. to B. F. Stevens); 
                     acquired by Alexander C. Weston by 1876; 
                     acquired by Mrs. Anderdon Weston, probably by inheritance; 
-                    sold with Blake's letter by a "noted Philadelphia Collector," likely Col. Henry D. Hughes, at American Art Association, April 1923, lot 128;
+                    sold with Blake's letter by a "noted Philadelphia Collector," likely Col. Henry D. Hughes, American Art Association, New York, 16 April 1923, lot 128;
                     acquired by the Huntington Library from an unknown source, April 1926.</note>
             </provenance>
             <repository>
@@ -274,6 +285,7 @@
         <desc id="bb36.a.te.01" dbi="BB36.A.1.TYP">
             <objtitle>
                 <title type="transcribed">Exhibition of Paintings in Fresco, Poetical and Historical Inventions</title>
+                ,
                 <objid>
                     <objnumber code="A1">Object 1</objnumber>
                     <objcode code="B1">(Bentley 1)</objcode>
@@ -371,7 +383,8 @@
         </desc>
         <desc id="bb36.a.te.02" dbi="BB36.A.2.TYP">
             <objtitle>
-                <title type="transcribed"/>
+                <title type="transcribed">Invention of a Portable Fresco</title>
+                ,
                 <objid>
                     <objnumber code="A2">Object 2</objnumber>
                     <objcode code="B2">(Bentley 2)</objcode>
@@ -529,7 +542,8 @@
         </desc>
         <desc id="bb36.a.te.03" dbi="BB36.A.3.TYP">
             <objtitle>
-                <title type="transcribed"/>
+                <title type="editorial">Address</title>
+                ,
                 <objid>
                     <objnumber code="A3">Object 3</objnumber>
                     <objcode code="B4">(Bentley 4)</objcode>
