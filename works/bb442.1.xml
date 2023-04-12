@@ -1,0 +1,470 @@
+<bad id="bb442.1" type="comeng" work="The Poetical Works of Geoffrey Chaucer, 1783" copy="1"
+    copyid="1" institution="essick" catalog="bentley" catid="442.1" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Poetical Works of Geoffrey Chaucer, 1783">
+                    <main>The Poetical Works of Geoffrey Chaucer, 1783</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill,
+                    and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 13KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 150KB to
+                410KB</extent>
+            <publicationstmt> Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>April
+                    2023</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt> </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict> Copyright © <date>2023</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only. <lb/>
+            <lb/> This work copyright © 2023 William Blake Archive. </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing, revisions, and publication</change>
+                <date>September 2022-April 2023</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Geisert, </name>
+                    <name>HaiLee Hearburg, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created, engraving transcribed, editorial notes composed</change>
+                <date>September 2021-May 2022</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Oishani Sengupta</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Ben Ami, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Ani Govjian, </name>
+                    <name>Meaghan Green, </name>
+                    <name>Rachael Isom, </name>
+                    <name>Mary Learner, </name>
+                    <name>Ania Michas, </name>
+                    <name>Angie (Quynh-Anh) Pham, </name>
+                    <name>Rob Rich, </name>
+                    <name>Anneke Schwob, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Iftekhar Uddin, </name>
+                    <name>Marcie Woehl</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquired and catalogued</change>
+                <date>September 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum, </name>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Gerald Miller, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>*The Poetical Works of Geoffrey Chaucer, 1783*</title>
+                </objtitle>
+                <origination> William Blake <role>etcher, </role>
+                    <role>engraver, </role>
+                    <role>delineator</role>
+                </origination>
+                <origination> Thomas Stothard <role>inventor, </role>
+                    <role>designer</role>
+                </origination>
+                <origination> Apollo Press <role>printer</role>
+                </origination>
+                <imprint>
+                    <publisher> John Bell </publisher>
+                    <pubplace> London <note>Printed in Edinburg by Apollo Press for John Bell's
+                            bookshop, the British Library, in London.</note>
+                    </pubplace>
+                    <date>1783</date>
+                </imprint>
+                <compdate value="1783">1783</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1783">1783 <note>The title-page of Volume XIII is dated 1782, but
+                        the table of contents is dated 22 March 1783 and Blake's frontispiece is
+                        dated 24 May 1783, thus the real date is 1783.</note>
+                </printdate>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>10.7 x 6.5 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>10.7 x 6.5 cm.</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>A single framing line extends around the image, excluding the
+                    colophon.</framelines>
+                <binding>full calf binding <note>This page is bound as the first leaf in the volume
+                        before the title-pages.</note>
+                </binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Robert N. Essick</name>
+                <date>1972</date>
+                <dealer>Zeitlin and Ver Brugge Books</dealer>
+                <price>$623.74</price>
+                <note>Early history unknown; acquired in 1972 by Robert N. Essick from the Los
+                    Angeles dealer Zeitlin and Ver Brugge Books as part of 102 volumes of *Bell's
+                    Edition [of] The Poets of Great Britain*, $623.74 for the set.</note>
+                <note>The set acquired by Essick is incomplete, as it contains only 102 volumes of
+                    the 109 volume set.</note>
+            </provenance>
+            <repository>
+                <institution>Robert N. Essick</institution>
+                <addressline>Altadena, California</addressline>
+            </repository>
+        </source>
+        <desc id="bb442.1.comeng.01" dbi="BB442.1.1.COM">
+            <objtitle>
+                <title type="editorial">Frontispiece to Volume VIII</title> , <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="B1">(Bentley 1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>6.7 x 10.6 cm.</objsize>
+                <objnote>none</objnote>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Pictured in an oval frame in the center of the plate, a resting
+                        figure — almost certainly Samson — lies unconscious and limp on the ground.
+                        He is muscular and bare-chested, and wears a cloth or loincloth around his
+                        waist. His body faces left, and his face faces forward and tilts slightly to
+                        the right. His head, with curly hair, rests against his bare left shoulder.
+                        His eyes are closed. His left arm bends ninety degrees at elbow so that his
+                        clenched fist rests on his lap, while his right forearm extends over his
+                        right thigh. One finger of his right hand is pointed, as the hand drapes
+                        over his inner thigh. Samson's upper body is propped upright against the
+                        legs of a woman standing behind him. This woman is most likely Delilah. She
+                        wears a gown with a bodice or vest over her torso and has dark hair that is
+                        pulled into a bun. She bends forward and reaches her left arm downward to
+                        support or hold up the unconscious Samson. Her left hand is held behind his
+                        back. Her head, turned to look behind her, is encircled with a strip of
+                        cloth. She may be blindfolded. A group of three men stand behind her. These
+                        figures may be the “fooman” in “The Monk's Tale,” to whom Delilah sells
+                        Samson. The central figure in the group wears the uniform of a Roman
+                        solider, including a helmet and tunic. His body faces forward and his legs
+                        are spread apart, with the left leg extended to the left and the right leg
+                        bent at the knee (although it is mostly obscured by Delilah's dress). He
+                        twists his upper body to the right, and bends his right arm upward at the
+                        elbow to cross over his chest. His face is turned downward and to the left
+                        to look at the ground or, perhaps, at Samson. A cloak or cape billows from
+                        his back to his left, and it may be worn by him or by the figure to his
+                        right. To the right of the central figure, a man with long white hair looks
+                        downward and to the right. His body faces right, and his left arm extends
+                        outward to grab a curtain, visible at the edge of the frame. Only his upper
+                        body is visible, but he appears to wear a tunic similar to that of the
+                        central figure. To the left of the central figure, a third figure, likely a
+                        male with long dark hair, faces the right. His upper body and face are
+                        obscured by the central figure, so that only his legs are visible. His legs
+                        are spread, with one leg extended backward and the other bent at the knee,
+                        as if he is lunging. He appears to wear a tunic similar to that of the
+                        central figure. A column is visible behind and to the left of the figures,
+                        and they appear to stand or lay on a hard floor. A curtain or drapery
+                        extends from the top of the oval frame to the lower third of both sides. The
+                        oval frame sits within a backdrop that appears to be of bricks. Above the
+                        oval frame, there is a stone or marble plaque. Below the plaque, there is
+                        the statue or sculpture of the head of a figure, perhaps a female. Her long
+                        curly hair extends to either side, and from both sides of hair two pieces of
+                        cloth or drapery extend, draped to the sides and upward, where it hangs over
+                        two hooks on either side of the plaque. The ends of the cloth twist over
+                        itself to form two loops on either side. A second plaque sits below the oval
+                        frame.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>Samson</characteristic>
+                        <characteristic>muscular</characteristic>
+                        <characteristic>limp</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>loincloth</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>fist</characteristic>
+                        <characteristic>arm on lap </characteristic>
+                        <characteristic>arm reaching between legs</characteristic>
+                        <illusobjdesc>Pictured in an oval frame in the center of the plate, a
+                            resting figure — almost certainly Samson — lies unconscious and limp on
+                            the ground. He is muscular and bare-chested, and wears a cloth or
+                            loincloth around his waist. His body faces left, and his face faces
+                            forward and tilts slightly to the right. His head, with curly hair,
+                            rests against his bare left shoulder. His eyes are closed. His left arm
+                            bends ninety degrees at elbow so that his clenched fist rests on his
+                            lap, while his right forearm extends over his right thigh. One finger of
+                            his right hand is pointed, as the hand drapes over his inner thigh.
+                            Samson's upper body is propped upright against the legs of a woman
+                            standing behind him.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>woman</characteristic>
+                        <characteristic>Delilah</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>arm reaching downward</characteristic>
+                        <characteristic>supporting</characteristic>
+                        <characteristic>holding </characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>cloth </characteristic>
+                        <characteristic>blindfolded</characteristic>
+                        <illusobjdesc> A woman, most likely Delilah, stands behind Samson. She wears
+                            a gown with a bodice or vest over her torso and has dark hair that is
+                            pulled into a bun. She bends forward and reaches her left arm downward
+                            to support or hold up the unconscious Samson. Her left hand is held
+                            behind his back. Her head, turned to look behind her and away from the
+                            viewer, is encircled with a strip of cloth. She may be blindfolded.
+                        </illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>Roman</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>tunic</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>leg bent at the knee</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>cloak</characteristic>
+                        <illusobjdesc> A group of three men stand behind Delilah. These figures may
+                            be the “fooman” in “The Monk's Tale,” to whom Delilah sells Samson. The
+                            central figure in the group wears the uniform of a Roman solider,
+                            including a helmet and tunic. His body faces forward and his legs are
+                            spread apart, with the left leg extended to the left and the right leg
+                            bent at the knee (although it is mostly obscured by Delilah's dress). He
+                            twists his upper body to the right, and bends his right arm upward at
+                            the elbow to cross over his chest. His face is turned downward and to
+                            the left to look at the ground or, perhaps, at Samson. A cloak or cape
+                            billows from his back to his left, and it may be worn by him or by the
+                            figure to his right. </illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>upper body</characteristic>
+                        <characteristic>tunic </characteristic>
+                        <illusobjdesc> A group of three men stand behind Delilah. These figures may
+                            be the “fooman” in “The Monk's Tale,” to whom Delilah sells Samson. To
+                            the right of the central figure, a man with long white hair looks
+                            downward and to the right. His body faces right, and his left arm
+                            extends outward to grab a curtain, visible at the edge of the frame.
+                            Only his upper body is visible, but he appears to wear a tunic similar
+                            to that of the central figure. </illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>legs spread</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>lunging</characteristic>
+                        <characteristic>tunic</characteristic>
+                        <illusobjdesc>A group of three men stand behind Delilah. These figures may
+                            be the “fooman” in “The Monk's Tale,” to whom Delilah sells Samson. To
+                            the left of the central figure, a third figure, likely a male with long
+                            dark hair, faces the right. His upper body and face are obscured by the
+                            central figure, so that only his legs are visible. His legs are spread,
+                            with one leg extended backward and the other bent at the knee, as if he
+                            is lunging. He appears to wear a tunic similar to that of the central
+                            figure. </illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>wall</characteristic>
+                        <characteristic>column</characteristic>
+                        <characteristic>floor</characteristic>
+                        <illusobjdesc>The background is scarcely detailed, but there is a visible
+                            column behind and to the left of the figures. They appear to stand or
+                            lay on a hard floor.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>curtain</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <illusobjdesc>A curtain or drapery extends from the top of the oval frame to
+                            the lower third of both sides.</illusobjdesc>
+                    </component>
+
+                    <component type="structure" location="E">
+                        <characteristic>brick</characteristic>
+                        <characteristic>facade</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc> The oval frame over backdrop or façade that appears to be
+                            made of bricks. The oval frame casts a slight shadow over the bricks.
+                        </illusobjdesc>
+                    </component>
+
+                    <component type="object" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>hook</characteristic>
+                        <characteristic>post</characteristic>
+                        <characteristic>loop</characteristic>
+                        <illusobjdesc> Above the oval frame, there is the statue or sculpture of the
+                            head of a figure, perhaps a female. Her long curly hair extends to
+                            either side, and from both sides of hair two pieces of cloth or drapery
+                            extend, draped to the sides and upward, where it hangs over two hooks or
+                            posts on either side of a plaque. The ends of the cloth twist over
+                            itself to form two loops on either side.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>marble</characteristic>
+                        <characteristic>stone</characteristic>
+                        <characteristic>frame</characteristic>
+                        <illusobjdesc>Two plaques, which may be made of marble or stone, are
+                            positioned above and below the oval frame. Each plaque contains a frame,
+                            within which text is engraved.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb442.1.comeng.01.01" justify="left" indent="19">
+                        <hi rend="i"> BELL'S EDITION </hi>
+                    </l>
+                    <l n="bb442.1.comeng.01.02" justify="left" indent="14"> The POETS of GREAT
+                        BRITAIN</l>
+                    <l n="bb442.1.comeng.01.03" justify="left" indent="19">
+                        <hi rend="i"> COMPLETE FROM </hi>
+                    </l>
+                    <l n="bb442.1.comeng.01.04" justify="left" indent="16">
+                        <hi> CHAUCER to CHURCHILL. </hi>
+                    </l>
+                </lg>
+                <vspace extent="18"/>
+                <lg>
+                    <l n="bb442.1.comeng.01.05" justify="left" indent="17"> CHAUCER VOL
+                                <choice><orig>XIII</orig><reg>8</reg></choice>.</l>
+                    <l n="bb442.1.comeng.01.06" justify="left" indent="14"> Sampson
+                                <choice><orig>yhad</orig><reg>had</reg></choice> experience</l>
+                    <l n="bb442.1.comeng.01.07" justify="left" indent="14">
+                        <choice>
+                            <orig> That Womenwerefultrew </orig>
+                            <reg> That Women were full true </reg>
+                        </choice>
+                        <choice>
+                            <orig>ifound</orig>
+                            <reg>I found</reg>
+                        </choice>
+                    </l>
+                    <l n="bb442.1.comeng.01.08" justify="left" indent="27">
+                        <hi rend="i">In praise of Women L 81,82.</hi>
+                    </l>
+                    <vspace extent="0.5"/>
+                </lg>
+                <vspace extent="2"/>
+                <lg>
+                    <l n="bb442.1.comeng.01.09" justify="left">
+                        <choice>
+                            <orig>
+                                <hi rend="i">Stodhard</hi>
+                            </orig>
+                            <reg type="alt_name">Stothard</reg>
+                        </choice>
+                        <hi rend="i">del</hi>
+                        <space extent="37"/>
+                        <hi rend="i">Blake sculp.</hi>
+                        <hi rend="superscript">t</hi>
+                    </l>
+                    <l n="bb442.1.comeng.01.10" justify="left"> London Printed for John Bell British
+                        Library Strand May 24,<hi rend="superscript">th</hi> 1783.</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
+
+
