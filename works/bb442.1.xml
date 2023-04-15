@@ -141,19 +141,18 @@
                 <origination> Thomas Stothard <role>inventor, </role>
                     <role>designer</role>
                 </origination>
-                <origination> Apollo Press <role>printer</role>
+                <origination> Apollo Press <role>printer of the letterpress text</role>
                 </origination>
                 <imprint>
                     <publisher> John Bell </publisher>
-                    <pubplace> London <note>Printed in Edinburg by Apollo Press for John Bell's
-                            bookshop, the British Library, in London.</note>
+                    <pubplace> London 
                     </pubplace>
                     <date>1783</date>
                 </imprint>
                 <compdate value="1783">1783</compdate>
             </objdescid>
             <objinfo>
-                <printdate value="1783">1783 <note>The title-page of Volume XIII is dated 1782, but
+                <printdate value="1783">1783<note>The title-page of Volume XIII is dated 1782, but
                         the table of contents is dated 22 March 1783 and Blake's frontispiece is
                         dated 24 May 1783, thus the real date is 1783.</note>
                 </printdate>
@@ -161,11 +160,11 @@
                 <objorder>1</objorder>
                 <objsize>10.7 x 6.5 cm.</objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>10.7 x 6.5 cm.</leafsize>
+                <leafsize>12.5 x 7.2 cm.</leafsize>
                 <medium>etching and engraving</medium>
                 <printingstyle>intaglio</printingstyle>
                 <inkcolor>black</inkcolor>
-                <support>wove paper</support>
+                <support>laid paper</support>
                 <watermark>none</watermark>
                 <pennednumbers>none</pennednumbers>
                 <framelines>A single framing line extends around the image, excluding the
@@ -427,12 +426,12 @@
                 <vspace extent="18"/>
                 <lg>
                     <l n="bb442.1.comeng.01.05" justify="left" indent="17"> CHAUCER VOL
-                                <choice><orig>XIII</orig><reg>8</reg></choice>.</l>
+                        <choice><orig>XIII</orig><reg>8</reg></choice>.</l>
                     <l n="bb442.1.comeng.01.06" justify="left" indent="14"> Sampson
-                                <choice><orig>yhad</orig><reg>had</reg></choice> experience</l>
+                        <choice><orig>yhad</orig><reg>had</reg></choice> experience</l>
                     <l n="bb442.1.comeng.01.07" justify="left" indent="14">
                         <choice>
-                            <orig> That Womenwerefultrew </orig>
+                            <orig> That Womenwereful trew </orig>
                             <reg> That Women were full true </reg>
                         </choice>
                         <choice>
