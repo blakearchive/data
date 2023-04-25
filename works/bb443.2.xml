@@ -264,7 +264,7 @@
                 <printdate value="1812">1812</printdate>
                 <numberobj>2</numberobj>
                 <objorder>1-2</objorder>
-                <objsize>13.2 x 7.9 cm.</objsize>
+                <objsize>12.3 x 7.2 cm. (Object 1), 3.3 x 5.9 cm. (Object 2)</objsize>
                 <numberleaves>2</numberleaves>
                 <leafsize>13.2 x 7.9 cm.</leafsize>
                 <medium>etching and engraving</medium>
@@ -315,7 +315,7 @@
                 </objid>
             </objtitle>
             <physdesc>
-                <objsize>13.2 x 7.9 cm.</objsize>
+                <objsize>12.3 x 7.2 cm.</objsize>
                 <windowsize width="500" height="615"/>
             </physdesc>
             <illusdesc>
@@ -645,20 +645,12 @@
                 </objid>
             </objtitle>
             <physdesc>
-                <objsize>13.2 x 7.9 cm.</objsize>
+                <objsize>3.3 x 5.9 cm.</objsize>
                 <windowsize width="500" height="615"/>
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc> A cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the portal 
-                        remains visible. On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires
-                        on their sides, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two 
-                        small spires on its sides, and one very large turret in the center. One wall with tightly cross-hatched lines is visible on the side of the castle.
-                        It is lined with a gallery of at least ten spires. Behind the cathedral, a small structure with three spires is visible. A moat separates the cathedral and
-                        vegetation from a nearly empty landscape in the foreground. The vegetation around the cathedral is contrasted with the barren and lifeless
-                        landscape on the other side of the moat. In the middle of the barren landscape is a sapling. The branches of the sapling are drooping downwards, 
-                        which may indicate that the tree is dying. A vine makes two loops around the tree and then rises above it. There is some light stipple on 
-                        some of the branches of the sapling, perhaps indicating leaves. </illusobjdesc>
+                    <illusobjdesc>A cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the portal remains visible. On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires on their sides, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two small spires on its sides, and one very large turret in the center. One wall with tightly cross-hatched lines is visible on the side of the castle. It is lined with a gallery of at least ten spires. Behind the cathedral, a small structure with three spires is visible. A moat separates the cathedral and vegetation from a nearly empty landscape in the foreground. The vegetation around the cathedral is contrasted with the barren and lifeless landscape on the other side of the moat. In the middle of the barren landscape is a sapling. The branches of the sapling are drooping downwards, which may indicate that the tree is dying. A vine makes two loops around the tree and then rises above it. There is some light stipple on some of the branches of the sapling, perhaps indicating leaves.</illusobjdesc>
                     <component type="structure" location="E">
                         <characteristic>church</characteristic>
                         <characteristic>tower</characteristic>
@@ -670,43 +662,37 @@
                         <characteristic>Gothic art</characteristic>
                         <characteristic>facade</characteristic> 
                         <characteristic>wall</characteristic>
-                        A cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the arched portal remains visible. 
-                        On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two 
-                        small spires on its sides. One wall with tightly cross-hatch lines is visible on the side of the castle.
-                        It is lined with a gallery of at least ten spires.
+<illusobjdesc>A cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the arched portal remains visible. On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two small spires on its sides. One wall with tightly cross-hatch lines is visible on the side of the castle. It is lined with a gallery of at least ten spires.</illusobjdesc>
                     </component>
                     <component type="structure" location="D">
                         <characteristic>building</characteristic>
                         <characteristic>wall</characteristic>
                         <characteristic>spire</characteristic>
                         <characteristic>Gothic art</characteristic>
-                        One wall with tightly cross-hatched lines is visible on the side of the cathedral. It is lined with a gallery of at least ten spires. Behind and to the right of the cathedral, 
-                        a small structure with three spires is visible.
+<illusobjdesc>One wall with tightly cross-hatched lines is visible on the side of the cathedral. It is lined with a gallery of at least ten spires. Behind and to the right of the cathedral, a small structure with three spires is visible.</illusobjdesc>
                     </component>
                     <component type="vegetation" location="E">
                         <characteristic>vegetation</characteristic>
                         <characteristic>plant</characteristic> 
                         <characteristic>leaf</characteristic>
                         <characteristic>indeterminate</characteristic>
-                            A cathedral stands surrounded by leafy, indeterminate vegetation that partially obscures the structure.
+<illusobjdesc>A cathedral stands surrounded by leafy, indeterminate vegetation that partially obscures the structure.</illusobjdesc>
                     </component>
                     <component type="object" location="E">
                     <characteristic>water</characteristic>
-                    A moat separates the cathedral, surrounded by vegetation, from an empty and barren landscape containing one sapling wrapped by a vine.
+<illusobjdesc>A moat separates the cathedral, surrounded by vegetation, from an empty and barren landscape containing one sapling wrapped by a vine.</illusobjdesc>
                     </component>
                     <component type="vegetation" location="C">
                         <characteristic>tree</characteristic>
                         <characteristic>vine</characteristic>
                         <characteristic>leaf</characteristic>
                         <characteristic>plant</characteristic>
-                        On the other side of the moat, in the foreground, is a sapling. The branches of the sapling are drooping downwards, which may indicate
-                        that the tree is dying. A vine makes two loops around the tree and then rises above it. There is some light stipple on some of the branches 
-                        of the sapling, perhaps indicating leaves.
+<illusobjdesc>On the other side of the moat, in the foreground, is a sapling. The branches of the sapling are drooping downwards, which may indicate that the tree is dying. A vine makes two loops around the tree and then rises above it. There is some light stipple on some of the branches of the sapling, perhaps indicating leaves.</illusobjdesc>
                     </component>
                     <component type="object" location="C">
                         <characteristic>barren</characteristic>
                         <characteristic>stone</characteristic> 
-                        In the foreground, in front of the moat, is a barren and empty landscape.
+<illusobjdesc>In the foreground, in front of the moat, is a barren and empty landscape.</illusobjdesc>
                     </component>
                 </illustration>
             </illusdesc>
