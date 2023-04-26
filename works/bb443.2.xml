@@ -650,8 +650,9 @@
             </physdesc>
             <illusdesc>
                 <illustration type="plate" location="E">
-                    <illusobjdesc>A cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the portal remains visible. On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires on their sides, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two small spires on its sides, and one very large turret in the center. One wall with tightly cross-hatched lines is visible on the side of the castle. It is lined with a gallery of at least ten spires. Behind the cathedral, a small structure with three spires is visible. A moat separates the cathedral and vegetation from a nearly empty landscape in the foreground. The vegetation around the cathedral is contrasted with the barren and lifeless landscape on the other side of the moat. In the middle of the barren landscape is a sapling. The branches of the sapling are drooping downwards, which may indicate that the tree is dying. A vine makes two loops around the tree and then rises above it. There is some light stipple on some of the branches of the sapling, perhaps indicating leaves.</illusobjdesc>
+                    <illusobjdesc>Canterbury Cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the portal remains visible. On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires on their sides, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two small spires on its sides, and one very large turret in the center. One wall with tightly cross-hatched lines is visible on the side of the castle. It is lined with a gallery of at least ten spires. Behind the cathedral, a small structure with three spires is visible. A moat separates the cathedral and vegetation from a nearly empty landscape in the foreground. The vegetation around the cathedral is contrasted with the barren and lifeless landscape on the other side of the moat. In the middle of the barren landscape is a sapling. The branches of the sapling are drooping downwards, which may indicate that the tree is dying. A vine makes two loops around the tree and then rises above it. There is some light stipple on some of the branches of the sapling, perhaps indicating leaves.</illusobjdesc>
                     <component type="structure" location="E">
+                        <characteristic>Canterbury Cathedral</characteristic>
                         <characteristic>church</characteristic>
                         <characteristic>tower</characteristic>
                         <characteristic>arch</characteristic>
@@ -662,7 +663,7 @@
                         <characteristic>Gothic art</characteristic>
                         <characteristic>facade</characteristic> 
                         <characteristic>wall</characteristic>
-<illusobjdesc>A cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the arched portal remains visible. On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two small spires on its sides. One wall with tightly cross-hatch lines is visible on the side of the castle. It is lined with a gallery of at least ten spires.</illusobjdesc>
+<illusobjdesc>Canterbury Cathedral stands surrounded by vegetation. The building’s façade is partly obscured by this vegetation, but most of the arched portal remains visible. On either side of the portal are two large and dominating bell towers. The tops of each of these towers have four spires, with one spire dominating the center of each tower. Emerging from the inside of the castle is another large spire with two small spires on its sides. One wall with tightly cross-hatch lines is visible on the side of the castle. It is lined with a gallery of at least ten spires.</illusobjdesc>
                     </component>
                     <component type="structure" location="D">
                         <characteristic>building</characteristic>
@@ -676,7 +677,7 @@
                         <characteristic>plant</characteristic> 
                         <characteristic>leaf</characteristic>
                         <characteristic>indeterminate</characteristic>
-<illusobjdesc>A cathedral stands surrounded by leafy, indeterminate vegetation that partially obscures the structure.</illusobjdesc>
+<illusobjdesc>The cathedral stands surrounded by leafy, indeterminate vegetation that partially obscures the structure.</illusobjdesc>
                     </component>
                     <component type="object" location="E">
                     <characteristic>water</characteristic>
