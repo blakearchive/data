@@ -119,9 +119,17 @@
         <br/>Pen and ink. Bentley 86.
         <br/>British Library
         <br/>London, UK
-        </relationship>      
-           <relationship>“Blake’s Chaucer: The Canterbury Pilgrims”
-                      <br/>Typographic Edition, 1809. Bentley 12.
+        </relationship>
+            <relationship>
+           <link type="object" ptr="preview/but653?descId=but653.1.1.pt.01">*Sir Jeffery Chaucer and the Nine and Twenty Pilgrims on Their Journey to Canterbury*</link><br/>
+           Tempera painting, c. 1808. Butlin 653.
+            <br/>Pollok House
+            <br/>Glasgow, Scotland
+           <br/>Related to Objects 2, 11-38.
+        </relationship>
+           <relationship>
+           <link type="work" ptr="bb12">*Blake’s Chaucer, The Canterbury Pilgrims*</link><br/>
+            Typographic edition, 1809. Bentley 12.
             <br/>Multiple owners
              <br/>Related to Objects 11-38.
         </relationship>
@@ -129,6 +137,10 @@
                       <br/>Typographic Edition, 1809. Bentley 30.
             <br/>Glasgow University Library
             <br/>Glasgow, Scotland
+        </relationship>
+           <relationship><link type="work" ptr="bb36">*Exhibition of Paintings in Fresco*</link><br/>
+           <br/>Typographic edition, 1809. Bentley 36.
+            <br/>Multiple owners
         </relationship>
           <relationship>*Sketches for "The Bard"*
             <br/>Pencil sketches, c. 1809? Butlin 656 recto and verso.
@@ -141,10 +153,6 @@
             <br/>Tate Britain
             <br/>London, UK
              <br/>Related to Objects 39-42.
-        </relationship><relationship>*Sir Jeffrey Chaucer and the nine and twenty Pilgrims on their Journey to Canterbury*<br/>Painted in Fresco, c. 1809. Butlin 653.
-            <br/>Pollok House
-            <br/>Glasgow, Scotland
-           <br/>Related to Objects 2, 11-38.
         </relationship>
            <relationship>*The Ancient Britons*
             <br/>Tempera painting, c. 1809. Butlin 657.
@@ -166,14 +174,14 @@
             <br/>Untraced
              <br/>Related to Objects 63.
         </relationship>
-          <relationship>*The Canterbury Pilgrims: Sketch for the Engraving*
+          <relationship><link type="object" ptr="preview/but654r?descId=but654r.1.penc.01">*The Canterbury Pilgrims: Sketch for the Engraving* (recto); *Rough Sketch, Perhaps for the Same* (verso)</link><br/>
            <br/>Pencil sketches, c. 1809-10. Butlin 654 recto and verso.
             <br/>British Museum
              <br/>London, UK
              <br/>Related to Objects 2, 11-38.
         </relationship>
-           <relationship>"Blake’s Chaucer: An Original Engraving"
-           <br/>Typographic Edition, 1810. Bentley 11.
+           <relationship><link type="work" ptr="bb11">*Blake’s Chaucer: An Original Engraving*</link><br/>
+           <br/>Typographic edition, 1810. Bentley 11.
             <br/>Multiple owners
              <br/>Related to Objects 11-38.
         </relationship>
