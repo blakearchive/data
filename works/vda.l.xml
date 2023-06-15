@@ -379,14 +379,14 @@ from the roof of the cave.</illusobjdesc>
                 <desc id="suppvda.l.rm.01" dbi="vda.L.p1-full" compwith="bb85.B5">
                     <objtitle>,                     
                         <objid>
-                            <objnumber code="A1">object 1 </objnumber>
+                            <objnumber code="A1">Object 1, full view </objnumber>
                             <objcode code="B1">(Bentley 1, </objcode>
                             <objcode code="Ei">Erdman i, </objcode>
                             <objcode code="Ki">Keynes i)</objcode>
                         </objid>
                     </objtitle>
                     <physdesc desclevel="brief">
-                        <objsize>17.1 x 11.9 cm.</objsize>
+                        <objsize>36.8 x 25.5 cm.</objsize>
                         <windowsize height="889" width="619"/>
                     </physdesc>
                     <illusdesc>
@@ -505,7 +505,7 @@ from the roof of the cave.</illusobjdesc>
                             </component>
                         </illustration>
                     </illusdesc>
-                    <!--[Full-page design]-->
+                  
                 </desc>
                 
                 
