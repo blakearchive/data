@@ -33,7 +33,7 @@
             of Prints and Drawings<br/> London</relationship>
         <relationship><link type="copy" ptr="vda.c">Copy C, 1793</link><br/> Glasgow University
             Library<br/> Glasgow, Scotland</relationship>
-        <relationship>Copy D, 1793<br/> Houghton Library<br/> Harvard University, Cambridge,
+        <relationship><link type="copy" ptr="vda.d">Copy D, 1793</link><br/> Houghton Library<br/> Harvard University, Cambridge,
             Massachusetts</relationship>
         <relationship><link type="copy" ptr="vda.e">Copy E, 1793</link><br/> Huntington Library and
             Art Gallery<br/> San Marino, California</relationship>
@@ -43,10 +43,10 @@
             Art<br/> Yale University, New Haven, Connecticut</relationship>
         <relationship><link type="copy" ptr="vda.j">Copy J, 1793</link><br/> Rosenwald Collection,
             Library of Congress<br/> Washington D.C.</relationship>
-        <relationship>Copy K, 1793<br/> New York Public Library<br/> New York City</relationship>
-        <relationship>Copy L, 1793<br/> Princeton University Library<br/> Princeton, New
+        <relationship><link type="copy" ptr="vda.k">Copy K, 1793</link><br/> New York Public Library<br/> New York City</relationship>
+        <relationship><link type="copy" ptr="vda.l">Copy L, 1793</link><br/> Princeton University Library<br/> Princeton, New
             Jersey</relationship>
-        <relationship>Copy M, 1793<br/> Houghton Library<br/> Harvard University, Cambridge,
+        <relationship><link type="copy" ptr="vda.m">Copy M, 1793</link><br/> Houghton Library<br/> Harvard University, Cambridge,
             Massachusetts</relationship>
         <relationship><link type="copy" ptr="vda.f">Copy F, 1794</link><br/> Morgan Library and
             Museum<br/> New York City</relationship>
@@ -65,7 +65,7 @@
            New York City</relationship>
     </related>
     <related>
-        <relHeader>All Known Related Drawings</relHeader>
+        <relHeader>All Known Related Items</relHeader>
         <relationship><link type="object" ptr="copy/bb122.1?descId=bb122.1.ms.30">*Blake’s Notebook*, Object 30</link><br/> Pencil sketch, c. 1793. Bentley 122.<br/>
             British Library<br/> London<br/> Related to Plate 3. </relationship>
         <relationship><link type="object" ptr="copy/bb122.1?descId=bb122.1.ms.31">*Blake’s Notebook*, Object 31</link><br/> Pencil sketch, c. 1793. Bentley 122.<br/>
