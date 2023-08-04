@@ -1,0 +1,506 @@
+<bad id="bbwba1.1" type="ms" work="The Phoenix to Mrs Butts" copy="1" copyid="1" institution="bl" catalog="Bentley, *Blake Books Supplement*" 
+    catid="pages 105-106" hidden="false"> 
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Phoenix to Mrs Butts">
+                    <main>The Phoenix to Mrs Butts</main>
+                    : electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill, and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 32KB; 2 JPEG (ISO/IEC 10918) files ranging in size from XXMB to 1.3MB</extent> <!--100dpi file size needed--> 
+            <publicationstmt>
+                Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>August 2023</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>
+            </updatestmt>
+        </filedesc>
+        <userestrict>
+            Copyright ©
+            <date>2023</date>
+            by Morris Eaves, Robert N. Essick, and Joseph Viscomi, all rights reserved. 
+            Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. 
+            Redistribution or republication on other terms, in any medium, requires express written consent from the 
+            editors and advance notification of the publisher. Permission to reproduce the graphic images in this archive 
+            has been granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This image copyright © 2023 British Library.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing, revisions, and publication</change>
+                <date>June-August 2023</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Geisert, </name>
+                    <name>HaiLee Hearburg, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created and text transcribed</change>
+                <date>June 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Amber Bertin, </name>
+                    <name>Abby Brengle, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kirilloff, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Kylie Regan, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images acquired, scanned, and catalogued</change>
+                <date>September 2005</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Andrea Laue </name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>*The Phoenix to Mrs Butts*</title>
+                </objtitle>
+                <origination>
+                    William Blake
+                    <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1794">
+                    sometime between c. 1794 and c. 1803
+                    <note>
+                        Bentley notes that the date is "problematic," as "The Phoenix" is likely to have been 
+                        written during Blake's closest association with his chief patron Thomas Butts, somewhere between 1794-1806 
+                        (*Blake Books Supplement* page 105). 
+                        Essick cites similarities between the poem and early illuminated pages, concluding that the work was 
+                        created c. 1794 (Essick, “William Blake’s 
+                        ‘The Phoenix’: A Problem in Attribution,” *Philological Quarterly* 67 [1988], page 377). 
+                        Viscomi dates the poem as c. 1800–1803, the period when Blake moved from London to Felpham and 
+                        started to write to the Butts’s regularly 
+                        (Viscomi, “William Blakes’s ‘The Phoenix / to Mrs Butts’ Redux,” *Blake/ An Illustrated Quarterly* 
+                        29.1 [summer 1995], page 15). </note> 
+                </compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>22.7 x 15.5 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>22.7 x 15.5 cm.</leafsize>
+                <medium>pen and ink and watercolor</medium>
+                <inkcolor>blue
+                    <note>Bentley notes that the primary ink in this document is an unusual pale blue with touching up in red, brown, and purple.
+                        He further states that the colors have changed as the ink has aged 
+                        (*Blake Books Supplement* page 105). Upon closer inspection, the blue ink appears to have been executed with a pen, 
+                        while the various other hues appear to be watercolor applied with a brush.</note>
+                </inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <framelines>straight lines at the right and bottom of the page; curling lines at the left.</framelines>
+                <binding>none
+                    <note>The manuscript was donated with an accompanying "brownish-Grey mid(?)-nineteenth-century envelope of crude, rough paper" 
+                        (Bentley, *Blake Books Supplement* page 105).</note>
+                </binding>
+            </objinfo>
+            <provenance n="1">
+                <name>British Library</name>
+                <date>1985</date>
+                <dealer>none</dealer>
+                <note>Given by Blake sometime between c. 1794 and c. 1803 to the dedicatee Elizabeth Cooper Butts, first wife of Thomas Butts; 
+                    passed by inheritance to Butts's daughter by her first marriage, Mary Anne Long; 
+                    passed down to Long's grandson, Mr. Owen D. Long; 
+                    deposited in the British Library by Long in 1981; 
+                    sold by Long to the British Library in July 1985 
+                    (Bentley, *Blake Books Supplement* page 106).</note> 
+            </provenance>
+            <repository>
+                <institution>British Library</institution>
+                <collection>Department of Western Manuscripts</collection>
+                <repositoryid label="Inventory number">Add. MS 63583</repositoryid>
+                <lb/>
+                <lb/>
+            </repository>
+        </source>
+        <desc id="bbwba1.1.ms.01" dbi="BBWBA1.1.1.MS">
+            <objtitle>
+                <title type="transcribed">The Phoenix to Mrs Butts</title>
+                ,
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code ="B1">(Bentley, Supplement 1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>22.7 x 15.5 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote>
+                    <p>
+                        The poem is written within a frame consisting of mostly straight lines at the right and bottom, 
+                        curling like a vine at the left. To the right of the 
+                        title is a faint flying figure, comparable to one in *The Book of Thel* Plate 2, 
+                        with a flying bird to the 
+                        right of the figure. There seems to be no 
+                        significance in the colors added to the letters, except that it is often where 
+                        the blue is faint. The format of the manuscript is similar to pages in Blake's 
+                        illuminated books (Bentley, *Blake Books Supplement* pages 105-6).
+                    </p>
+                </objnote>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The pictorial image for this plate frames the text. To the right of the title, a 
+                        human form hovers or flies with arms lifted upwards, outstretched, and bent. The figure faces up 
+                        and right and may be female, perhaps the fairy mentioned in the poem. Its legs are faintly outlined, 
+                        covered by a robe or a gown which trails behind the figure. The figure's legs appear to be bent 
+                        and extend to the left of the figure's upper body, with the right thigh and knee crossed over the
+                        left leg, which appears to be streched out and down, though it is obscured by the figure's gown. 
+                        The human figure appears to be reaching up and towards a golden-colored spot that hangs above it
+                        and to the right. The spot may be a celestial body like the sun or a star. A bird, probably the 
+                        phoenix of the poem, flies to the right of the figure and below the celestial orb. Its outstreached 
+                        wings and tail are visible. It faces away or to the right, though its beak and head are indistinctly 
+                        rendered. Directly below the bird, a plant grows vertically along the right side of the plate. The 
+                        plant may be sapling or a reed with a slim trunk or stem, with a base that is thicker than the trunk, suggesting roots. 
+                        Horizontal growths protrude outwards from the plant's stem or trunk towards the lines of the text. These 
+                        are likely leaves or catkins. The plant branches into two main stems to the right of lines 8 and 9. 
+                        One stem arches delicately towards the human figure and has at least three leaves. The other stem grows 
+                        upwards and tapers off to the right of the celestial orb. There are several indistinct objects pictured 
+                        to the left of the plant. These may be decorative flourishes, insects, or vegetation.
+                        One object is pictured to the right of lines 5 and 6. The object consists of a small cluster of lines 
+                        to the left of the stem with one long, wavy projection trailing towards the text of the poem. This 
+                        object may be a flower with a long stamen or some other vegetative growth. It may also be an animal,
+                        perhaps an insect like a caterpillar or worm. Another decorative object appears as an interlinnear design 
+                        between lines 6 and 7. A dark spot pictured to the right of line 8 may be an insect, perhaps
+                        a fly or beetle. Framing the left side of the poem, vegetation, probably a vine with multiple tendrils, 
+                        grows towards the poem's title. At least two distinct vines are pictured, and intertwine. To the left of line 13,
+                        two curving, arching stems branch from one of the vines. At least two leaves grow upwards from one of these stems. A 
+                        third leaf may grow from the lower stem. The vine terminates above and to the left of line three. 
+                        The layers of color and small spots, indistinctly rendered, along these vines may 
+                        be insects or vegetation. To the left of line 4, four spots apear in a horizontal line. These may be insects.
+                        Along the bottom of the plate, a horizontal line is faintly depicted. This may represent grass or uneven ground.  
+                    </illusobjdesc>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>fairy</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms bent upwards</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>thigh</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>upper body</characteristic>
+                        <illusobjdesc>To the right of the title, a human form hovers or flies with arms lifted upwards,
+                            outstretched, and bent. The figure faces up and right and may be female, perhaps the fairy 
+                            mentioned in the poem. Its legs are faintly outlined, covered by a robe or a gown which trails 
+                            behind the figure. The figure's legs appear to be bent and extend to the left of the figure's upper body,
+                            with the right thigh and knee crossed over the left leg, which appears to be streched out and down, 
+                            though it is obscured by the figure's gown. The human figure appears to be reaching up and towards a 
+                            golden-colored spot that hangs above it and to the right.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>orb</characteristic>
+                        <characteristic>Sun</characteristic> 
+                        <characteristic>star</characteristic>
+                        <illusobjdesc>A a golden-colored spot is pictured above and to the right of the human figure.
+                            The spot may be a celestial body like the sun or a star.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="B">
+                        <characteristic>bird</characteristic>
+                        <characteristic>phoenix</characteristic> 
+                        <characteristic>flying</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>tail</characteristic>
+                        <characteristic>beak</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <illusobjdesc>A bird, probably the 
+                            phoenix of the poem, flies to the right of the figure and below the celestial orb. Its outstreached 
+                            wings and tail are visible. It faces away or to the right, though its beak and head are indistinctly 
+                            rendered.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="BD">
+                        <characteristic>plant</characteristic>
+                        <characteristic>indeterminate</characteristic> 
+                        <characteristic>reed</characteristic>
+                        <characteristic>tree</characteristic>
+                        <characteristic>roots</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>trunk</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>leaf</characteristic> 
+                        <characteristic>catkin</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>flower</characteristic>
+                        <characteristic>stamen</characteristic>
+                        <illusobjdesc>A plant grows vertically along the right side of the plate. The 
+                            plant may be sapling or a reed with a slim trunk or stem. Its base is thicker than its stem, suggesting
+                            roots. Horizontal growths protrude outwards from 
+                            the plant's stem or trunk towards the lines of the text. These are likely leaves or catkins. The plant 
+                            branches into two main stems to the right of lines 8 and 9. 
+                            One stem arches delicately towards the human figure and has at least three leaves. The other stem grows 
+                            upwards and tapers off to the right of the celestial orb. An object is pictured to the right of lines 5 and 6
+                            and may be growing from the plant's trunk or stem. The object consists of a small cluster of lines 
+                            to the left of the stem with one long, wavy projection trailing towards the text of the poem. This 
+                            object may be a flower with a long stamen or some other vegetative growth.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="AC">
+                        <characteristic>plant</characteristic>
+                        <characteristic>vine</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>intertwined</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>Framing the left side of the poem, vegetation, probably a vine with multiple tendrils, 
+                            grows towards the poem's title. At least two distinct vines are pictured, and intertwine. To the left of line 13,
+                            two curving, arching stems branch from one of the vines. At least two leaves grow upwards from one of these stems. A 
+                            third leaf may grow from the lower stem. The vine terminates above and to the left of line three. 
+                            The layers of color and small spots, indistinctly rendered, along these vines may 
+                            indeterminate vegetative growth.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>plant</characteristic>
+                        <characteristic>grass</characteristic>
+                        <illusobjdesc> Along the bottom of the plate, a horizontal line is faintly depicted. This may represent grass 
+                            or uneven ground.</illusobjdesc>
+                    </component>
+                    <component type="animal" location="E">
+                        <characteristic>indeterminate</characteristic>
+                        <characteristic>insect</characteristic> 
+                        <characteristic>flying</characteristic>
+                        <characteristic>worm</characteristic>
+                        <characteristic>caterpillar</characteristic>
+                        <characteristic>fly</characteristic> 
+                        <characteristic>beetle</characteristic>
+                        <illusobjdesc>Several indistinct objects appear clustered in the vegetation to the right and left of the text which
+                            may be insects. One object is pictured to the right of lines 5 and 6. The object consists of a small cluster of lines 
+                            to the left of the stem with one long, wavy projection trailing towards the text of the poem. This 
+                            object may be an insect like a caterpillar or worm. Another decorative object appears as an interlinnear design 
+                            between lines 6 and 7, and may be a caterpillar or worm. A dark spot pictured to the right of line 8 may be an insect, perhaps
+                            a fly or beetle. Along the vines to the left of the text, the layers of color and small spots, 
+                            indistinctly rendered, may be insects. To the left of line 4, four spots apear in a horizontal line. These may be insects.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" location="B">
+                    <illusobjdesc>An indeterminate object appears as an interlinnear design 
+                        between lines 6 and 7. Above the word "gay", a wiggling line may represent an insect like a worm or caterpillar
+                        or may be an extension of the plant pictured to the right of the text.</illusobjdesc>
+                    <component type="indeterminate" location="B">
+                        <characteristic>plant</characteristic>
+                        <characteristic>object</characteristic>
+                        <characteristic>animal</characteristic>
+                        <characteristic>insect</characteristic>
+                        <characteristic>worm</characteristic>
+                        <characteristic>caterpillar</characteristic>
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>An indeterminate object appears as an interlinnear design 
+                            between lines 6 and 7. Above the word "gay", a wiggling line may represent an insect like a worm or caterpillar
+                            or may be an extension of the plant pictured to the right of the text.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bbwba1.1.ms.01.01" justify="left" indent="2">The Phoenix</l>
+                    <l n="bbwba1.1.ms.01.02" justify="left" indent="3">
+                        to <choice><orig>
+                            M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg>
+                        </choice>
+                        Butts
+                    </l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="verse" justify="left">
+                    <l n="bbwba1.1.ms.01.03" justify="left">I saw a Bird rise from the East</l>
+                    <l n="bbwba1.1.ms.01.04" justify="left">As a Bird rises from its Nest</l>
+                    <l n="bbwba1.1.ms.01.05" justify="left">With sweetest Songs I ever heard</l>
+                    <l n="bbwba1.1.ms.01.06" justify="left">
+                        It sang. I am <choice><orig>
+                            M<hi rend="superscript">rs</hi></orig><reg>Mrs</reg>
+                        </choice>
+                        Butts's Bird
+                        <note>Erdman reads "It sang." as "It sang" (517).</note>
+                    </l>
+                    <l n="bbwba1.1.ms.01.07" justify="left">And then I saw a Fairy gay</l>
+                    <l n="bbwba1.1.ms.01.08" justify="left">That with this beauteous Bird would play</l>
+                    <l n="bbwba1.1.ms.01.09" justify="left">From a golden cloud she came</l>
+                    <l n="bbwba1.1.ms.01.10" justify="left">
+                        She
+                        <choice>
+                            <orig>calld</orig>
+                            <reg>called</reg>
+                        </choice>
+                        the sweet Bird by its name
+                    </l>
+                    <l n="bbwba1.1.ms.01.11" justify="left">
+                        She
+                        <choice>
+                            <orig>call'd</orig>
+                            <reg>called</reg>
+                        </choice>
+                        it Phoenix! Heavens Dove!
+                    </l>
+                    <l n="bbwba1.1.ms.01.12" justify="left">
+                        She
+                        <choice>
+                            <orig>call'd</orig>
+                            <reg>called</reg>
+                        </choice>
+                        it all the names of Love
+                    </l>
+                    <l n="bbwba1.1.ms.01.13" justify="left">But the Bird flew fast away</l>
+                    <l n="bbwba1.1.ms.01.14" justify="left">Where little Children sport &#38; play</l>
+                    <l n="bbwba1.1.ms.01.15" justify="left">
+                        And they
+                        <choice>
+                            <orig>strok'd</orig>
+                            <reg>stroked</reg>
+                        </choice>
+                        it with their hands
+                    </l>
+                    <l n="bbwba1.1.ms.01.16" justify="left">
+                        All their
+                        <choice>
+                            <orig>cooe's</orig>
+                            <reg>coos</reg>
+                        </choice>
+                        it understands
+                    </l>
+                    <l n="bbwba1.1.ms.01.17" justify="left">The Fairy to my bosom flew</l>
+                    <l n="bbwba1.1.ms.01.18" justify="left">Weeping tears of morning dew</l>
+                    <l n="bbwba1.1.ms.01.19" justify="left">
+                        I said: Thou foolish
+                        <choice>
+                            <orig>whimpring</orig>
+                            <reg>whimpering</reg>
+                        </choice>
+                        thing
+                    </l>
+                    <l n="bbwba1.1.ms.01.20" justify="left">Is not that thy Fairy Ring</l>
+                    <l n="bbwba1.1.ms.01.21" justify="left">Where those Children sport &#38; play</l>
+                    <l n="bbwba1.1.ms.01.22" justify="left">In Fairy fancies light &#38; gay</l>
+                    <l n="bbwba1.1.ms.01.23" justify="left">Seem a Child &#38; be a Child</l>
+                    <l n="bbwba1.1.ms.01.24" justify="left">
+                        And the Phoenix is
+                        <choice>
+                            <orig>beguild</orig>
+                            <reg>beguiled</reg>
+                        </choice>
+                    </l>
+                    <l n="bbwba1.1.ms.01.25" justify="left">But if thou 
+                        <choice>
+                            <orig>seem'st</orig>
+                            <reg>seemest</reg>
+                        </choice>a Fairy thing</l>
+                    <l n="bbwba1.1.ms.01.26" justify="left">Then it flies on glancing wing</l>
+                    <l n="bbwba1.1.ms.01.27" justify="left" indent="10">William Blake</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
