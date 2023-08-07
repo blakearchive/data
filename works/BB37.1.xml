@@ -1,0 +1,306 @@
+<bad id="bb37.1" type="ms" work="'A Fairy leapt'" copy="1" copyid="1" institution="ngadc" catalog="bentley" catid="37" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="'Fairy leapt, A'">
+                    <main>"A Fairy leapt"</main>
+                    : electronic edition 
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester; 
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and 
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill, and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file encoded file approx. 17KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 208KB to 1.2MB</extent>
+            <publicationstmt>
+                Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>August 2023</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>
+            Copyright © 
+            <date>2023</date> 
+            by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
+            in any medium, requires express written consent from the editors and advance notification
+            of the publisher. Permission to reproduce the graphic images in this archive has been
+            granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+            <lb/>
+            This work copyright © 2023 National Gallery of Art, Washington, D.C.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change> Final proofing, revisions, and publication</change>
+                <date>March 2023-August 2023</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Geisert, </name>
+                    <name>HaiLee Hearburg, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created, transcription and notes composed</change>
+                <date>September 2019-May 2020</date>
+                <respstmt>
+                    <resp>Editors:</resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Eric Loy</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf, </name>
+                    <name>Helen Davies</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Katherine Calvin, </name>
+                    <name>Kendall DeBoer, </name>
+                    <name>Dan Gorman, </name>
+                    <name>Ani Govjian, </name>
+                    <name>Meaghan Green, </name>
+                    <name>Rachael Isom, </name>
+                    <name>Mary Learner, </name>
+                    <name>Rob Rich, </name>
+                    <name>Madeline Rose, </name>
+                    <name>Jake Ruta, </name>
+                    <name>Anneke Schwob, </name>
+                    <name>Oishani Sengupta, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Jewell Thomas, </name>
+                    <name>Marcie Woehl</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images acquired, scanned, and catalogued</change>
+                <date>September 2002</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editors: </resp>
+                    <name>Matthew Kirschenbaum, </name>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Andrea Dickens</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Gerald Miller, </name>
+                    <name>Sarah Trippensee, </name>
+                    <name>Justin Van Kleeck</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        *"A Fairy leapt"*
+                        <note>As the work is untitled, it is referred to by a number of names based on readings of the first line. Such
+                        titles include "A fairy skipd upon my knee" (Erdman 858; Butlin 253) and "A Fairy Stept upon my knee" (Bentley, *Writings* volume 2, page 1797). 
+                        We title the work "A Fairy leapt" in accordance with Bentley's *Blake Books* (165). 
+                        </note>
+                    </title>
+                </objtitle>
+                <origination>William Blake 
+                    <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1793">c. 1793</compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objorder>1</objorder>
+                <objsize>18.9 x 14.1 cm.</objsize>
+                <numberleaves>1
+                    <note>On the verso is a sketch by Blake, commonly known as "The Infant Hercules Throttling the Serpents", c. 1790-93 (Butlin 253).</note>
+                </numberleaves>
+                <leafsize>18.9 x 14.1 cm.</leafsize>
+                <medium>pencil</medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>none</binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>National Gallery of Art, Washington, D.C.</name>
+                <date>1943</date>
+                <dealer>none</dealer>
+                <price>gift</price>
+                <note>The early history of the manuscript is not known.  
+                    Acquired by Dante Gabriel Rossetti by 1868;
+                    acquired by William Michael Rossetti and given to Leonard Erskine Hill sometime before 1919;
+                    his wife, Janet Alexander Hill, acquired the manuscript no later than September 1931;
+                    offered for sale by the dealer James Rimell &#38; Son (catalogue no. 288, item 64) 
+                    along with Blake’s pencil drawing *Queen Katharine, Awakening from Her Dream, after Fuseli* for £225 in 1933;
+                    offered by the dealer A.C. Stonehill with the drawing *Queen Katharine* in July 1937;
+                    acquired by Lessing J. Rosenwald no later than 1939 and given to the National Gallery of 
+                    Art, Washington D.C., in 1943.
+                </note>
+            </provenance>
+            <repository>
+                <institution>National Gallery of Art, Washington D.C.</institution>
+                <collection>Rosenwald Collection</collection>
+                <repositoryid label="Accession number">1943.3.9007</repositoryid>
+                <note>The provenance information regarding location and accession number refers 
+                    to the image on the verso, "The Infant Hercules Throttling the Serpents", as the institution 
+                    does not catalogue "A Fairy leapt".</note>
+                <lb/>
+                <lb/>
+            </repository>
+        </source>
+        <desc id="bb37.1.ms.01" dbi="BB37.1.1.MS">
+            <objtitle>
+                <title type="transcribed">A Fairy leapt</title>
+                <title type="alt">A Fairy skipd upon my knee</title>
+                <title type="alt">A Fairy Stept upon my knee</title>
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="B1">(Bentley 1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>18.9 cm. x 14.1 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote><p>Bentley notes that the text in this manuscript is "quite difficult to read" and 
+                further indicates that his readings of the words "disguser", "paltry", "poisnous", "hides", and "Storm" are
+                "particularly doubtful" (*Writings* volume 2, page 1720).</p>
+                <p>Blake left multiple letters uncrossed on this page. Bentley and Erdman normalize the spelling.</p>
+                </objnote>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb37.1.ms.01.01" justify="left" indent="7">
+                        <add place="margintop"><choice><orig>Skipd</orig><reg>Skipped</reg></choice></add><note>Bentley reads "Skipd" as "Stept" (*Writings* volume 2, page 1070).</note></l>
+                    <l n="bb37.1.ms.01.02" justify="left">
+                        A Fairy leapt 
+                        upon my knee
+                        <note>Erdman reads "Dancing" as "dancing" (481).</note></l>
+                    <l n="bb37.1.ms.01.03" justify="left">
+                        Singing &amp; Danc<unclear resp="MW">in</unclear>g merrily</l>
+                    <l n="bb37.1.ms.01.04" justify="left">
+                        I said Tho<unclear resp="MW">u</unclear> thing of patches rings
+                    </l>
+                    <l n="bb37.1.ms.01.05" justify="left">
+                        Pins Necklaces &#38; Such like thing,
+                        <note>Bentley (*Writings* volume 2, page 1070) and Erdman (481) read "thing" as "things".</note>
+                        <note>Erdman reads "Such" as "such" (481).</note>
+                    </l>
+                    <l n="bb37.1.ms.01.06" justify="left">
+                        <choice><orig>Disgus<subst><gap reason="overwrite" extent="1" unit="character"/><add type="overwrite" place="inline">e</add></subst>r</orig><reg>Disguiser</reg></choice> of the Female Form
+                        <note>Bentley (*Writings* volume 2, page 1070; 1720) reads "Disguser" as "Disgu[i]ser" with uncertainty; Erdman (481) reads "Disguser" as "Disguiser" with certainty.</note></l>
+                    <l n="bb37.1.ms.01.07" justify="left">
+                        Thou <unclear resp="MW">p</unclear>altry gilded <choice><orig>poisn<unclear resp="MW">ous</unclear></orig><reg>poisonous</reg></choice> worm
+                        <note>Bentley (*Writings* volume 2, page 1070) reads "poisnous" with uncertainty.</note></l>
+                    <l n="bb37.1.ms.01.08" justify="left">
+                        Weep<unclear resp="MW">in</unclear>g he fell upon my thigh
+                    </l>
+                    <l n="bb37.1.ms.01.09" justify="left">
+                        And thus in tears did soft reply
+                    </l>
+                    <l n="bb37.1.ms.01.10" justify="left">
+                        Kno<unclear resp="MW">we</unclear>st thou not O Fairi<unclear resp="MW">e</unclear>s Lord</l>
+                    <l n="bb37.1.ms.01.11" justify="left">
+                        How much by us 
+                        <choice>
+                            <orig>Cont<unclear resp="MW">e</unclear>md</orig>
+                            <reg>contemned</reg>
+                        </choice>
+                        <choice>
+                            <orig>Abhorrd</orig>
+                            <reg>abhorred</reg>
+                        </choice>
+                        <note>Bentley (*Writings* volume 2, page 1070) and Erdman (482) read "Contemd" as "Contemnd".</note></l>
+                    <l n="bb37.1.ms.01.12" justify="left">
+                        Whatever hid<unclear resp="MW">es</unclear> the Female form
+                    </l>
+                    <l n="bb37.1.ms.01.13" justify="left">
+                        That cannot bear the Me<unclear resp="MW">n</unclear>tal Storm
+                        <note>Bentley (*Writings* volume 2, page 1070) reads "Storm" with uncertainty; Erdman reads "Storm" as "storm" (482).</note></l>
+                    <l n="bb37.1.ms.01.14" justify="left">
+                        Therefore in Pity still we g<gap extent="1" reason="illegible"/><unclear resp="MW">ve</unclear>
+                        <note>Bentley (*Writings* volume 2, page 1070) and Erdman (482) read the last word in this line as "give" with certainty.</note></l>
+                    <l n="bb37.1.ms.01.15" justify="left">
+                        Our lives to make the Female live<space extent="1.5"/><unclear resp="MW">.</unclear>
+                    </l>
+                    <l n="bb37.1.ms.01.16" justify="left">
+                        And what would turn into disease
+                    </l>
+                    <l n="bb37.1.ms.01.17" justify="left">
+                        We turn to what will joy &amp; Please
+                        <note>Bentley (*Writings* volume 2, page 1070) and Erdman (482) read "Please" as "please".</note></l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
+
+
+

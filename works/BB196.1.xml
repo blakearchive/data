@@ -1,0 +1,1093 @@
+<bad id="bb196.1" type="ms" work="'then She bore Pale desire' and 'Woe cried the muse'" copy="1" copyid="1" institution="nypl" catalog="bentley" catid="196" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="'then She bore Pale desire' and 'Woe cried the muse'">
+                    <main>"then She bore Pale desire" and "Woe cried the muse"</main>
+                    : electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester; 
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and 
+                    <name>Joseph Viscomi,</name>
+                    University of North Carolina at Chapel Hill
+                </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill, and
+               the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 80 KB; 14 JPEG files ranging in size from 182KB to 1.3MB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>August 2023</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © 
+            <date>2023</date> 
+         by Morris Eaves, Robert N. Essick, and Joseph
+         Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+         Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
+         in any medium, requires express written consent from the editors and advance notification
+         of the publisher. Permission to reproduce the graphic images in this archive has been
+         granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This work copyright © 2023 New York Public Library.
+            </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing, revisions, and publication</change>
+                <date>September 2022-August 2023</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Geisert, </name>
+                    <name>HaiLee Hearburg, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Transcription and editorial notes revised</change>
+                <date>November 2015-January 2016</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester; 
+                    <name>Robert Essick,</name>
+                    University of California, Riverside; and 
+                    <name>Joseph Viscomi,
+                    </name>University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Laura Whitebell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Amber Bertin, </name>
+                    <name>Abby Brengle, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kirilloff, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Kylie Regan, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created, manuscript transcribed and color coded, editorial notes composed</change>
+                <date>June 2013-April 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester; 
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and 
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill 
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester:</resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Technical Consultant:</resp>
+                    <name>Joseph Ryan</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Ted Scheinman, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images acquired, scanned and catalogued</change>
+                <date>June 2012</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Rachel Lee</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Laura Bell, </name>
+                    <name>Lauren Cameron, </name>
+                    <name>Katherine Carlson, </name>
+                    <name>Cassandra Etter-Wenzel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Rachel Lee, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Jennifer Park, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Shaw, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Bihan Zhang</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        *"then She bore Pale desire" and "Woe cried the muse"*
+                    </title>
+                </objtitle>
+                <origination>William Blake 
+                    <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                <compdate value="1783">c. 1783</compdate>
+                <note>Due to several characteristics of the manuscript such as the handwriting, mythology, and metrical style, 
+                    there is general agreement that the works were written in the 1770s and the 1780s. The date 1783 is "admittedly very tentative". 
+                    See Bentley, *Writings* volume 2, page 1696.</note>
+            </objdescid>
+            <objinfo>
+                <numberobj>7</numberobj>
+                <objorder>1-7
+                <note>Erdman notes that, despite both having torn left edges, leaves 1 and 4 were likely conjugate with other leaves rather than with each other. 
+                    He further notes that as the strokes of both the “e” in “Shame” and the “l” in “Smoul” continue onto the adjacent leaf (our objects 4 and 5), 
+                    the original conjunction of the second and third leaves is “unmistakable” (Erdman, "A Blake Manuscript in the Berg Collection: ’then She bore Pale desire' and 
+                    ‘Woe cried the muse,’” *Bulletin of the New York Public Library* [1958]: 191-207).</note>
+                    <note>Both Bentley's (*Writings* vol 2, pages 869-874) and Erdman’s (446-448) transcriptions account for the apparent insertions 
+                        indicated by Blake throughout the manuscript. 
+                        We transcribe the manuscript as it appears, and discrepencies in the transcriptions by Erdman and Bentley are not noted here. 
+                        For further reading, consult Erdman's "A Blake Manuscript in the Berg Collection: 'then She bore Pale desire' and 
+                        'Woe cried the muse,'" *Bulletin of the New York Public Library* (1958): 191-207.</note>
+                </objorder>
+                <objsize>19.0 x 12.0 cm.</objsize>
+                <numberleaves>4
+                    <note>The abrupt opening of "then She bore Pale desire" and the fact that the first word in the manuscript is not capitalized suggests 
+                        there was once material preceding Object 1 that is now missing (Erdman, “A Blake Manuscript in the Berg Collection: ‘then She bore Pale desire’ 
+                        and ‘Woe cried the muse,’” 
+                        *Bulletin of the New York Public Library* [1958]: 191-207).
+                    </note>
+                </numberleaves>
+                <leafsize>19.0 x 12.0 cm.</leafsize>
+                <medium>pen and ink, pencil</medium>
+                    <note>
+                        Bentley and Erdman differentiate between the reddish brown ink, black ink, wide strokes, and fine strokes of the pen 
+                        throughout the manuscript. Additionally, both Bentley and Erdman make note of the red ink slash marks and writing made by William Michael Rossetti.
+                    </note>
+                <support>laid paper
+                    <note>Laid paper with vertical chain lines 2.7 cm. apart.</note>
+                </support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>loose
+                    <note>The four leaves of this manuscript are mounted on larger leaves; the last leaf is pasted down and its verso is not visible.</note>
+                </binding>
+                <stabholes>none</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>New York Public Library</name>
+                <date>1941</date>
+                <dealer>none</dealer>
+                <price>gift</price>
+                <note>The early history of the manuscript is not known. W. M. Rossetti acquired it from John Defett Francis in or around 1876. 
+                    In 1898, Rossetti sold the manuscript to Frank William Burgess for &#xA3;12.
+                    However, while Burgess obtained the manuscript, he never paid for it, and after his death in 1899, his widow returned it to Rossetti. 
+                    Rossetti's daughter, Helen Rossetti-Angeli, lent the manuscript to J. Sampson, and sold the work at Sotheby's on 27 March 1929 (lot 529, &#163;440), 
+                    where it was purchased by the dealer Walter T. Spencer. 
+                    It was eventually acquired by Owen D. Young who, along with Dr. Albert A. Berg, presented it to the New York Public Library on 5 May 1941.
+                </note>
+            </provenance>
+            <repository>
+                <institution>New York Public Library</institution> 
+                <department>Henry W. and Albert A. Berg Collection of English and American Literature</department>
+                <repositoryid label="Universal Unique Identifier">501e9970-c552-012f-75dc-58d385a7bc34</repositoryid>
+            </repository>
+        </source>
+        <desc id="bb196.1.ms.01" dbi="BB196.1.1.MS">
+            <objtitle>
+                <title type="transcribed">then She bore Pale desire</title>
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="B1"> (Bentley 1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>19.0 cm. x 12.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote><p>W. M. Rossetti, who acquired the manuscript around 1876, inserted slashes in red ink throughout the manuscript.</p>
+                    <p>Blake left multiple letters uncrossed on this page. Bentley and Erdman normalize the spelling.</p>
+                    <p>Bentley titles this portion of the manuscript (Objects 1-5) "then she bore Pale desire" as opposed to "then She bore Pale desire".</p>
+                </objnote>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb196.1.ms.01.01" justify="left">then She bore Pale desire father of Curiosity
+                        <note>Bentley reads "She" as "she" (*Writings* volume 2, page 869).</note></l>
+                    <l n="bb196.1.ms.01.02" justify="left">a Virgin ever young. And after. Leaden Sloth</l>
+                    <l n="bb196.1.ms.01.03" justify="left">from whom came Ignorance. who brought forth
+                        <note>Bentley reads the period after "Ignorance" as a comma (*Writings* volume 2, page 869).</note></l>
+                    <l n="bb196.1.ms.01.04" justify="left">wonder. These are the Gods which Came from
+                        <note>Bentley reads "Came" as "came" (*Writings* volume 2, page 869).</note></l>
+                    <l n="bb196.1.ms.01.05" justify="left">fear. <unclear resp="MG">S</unclear>he knew them not yet they all war with
+                        <note>There is an additional stroke that crosses the "S" in "She". Bentley (*Writings* volume 2, page 869) 
+                            reads this as corresponding with the "x" preceding line 8, indicating the intended placement of lines 8-10.</note></l>
+                    <l n="bb196.1.ms.01.06" justify="left"><unclear resp="MW">S</unclear>hame and Strengthen her weak arm. <del type="erasure">Now day</del></l>
+                    <l n="bb196.1.ms.01.07" justify="left"><hr width="21" align="left"/></l>
+                    <l n="bb196.1.ms.01.08" justify="left"><unclear resp="ME">x</unclear> for Gods like these. nor male nor female are</l>
+                    <l n="bb196.1.ms.01.09" justify="left">but Single Pregnate or if they list together 
+                        <choice>
+                            <orig>ming</orig>
+                            <reg type="split_word">mingling</reg>
+                        </choice></l>
+                    <l n="bb196.1.ms.01.10" justify="left">
+                        -<choice><orig>ling</orig><reg type="split_word">mingling</reg></choice> 
+                        bring <choice><orig>for</orig><reg>forth</reg></choice> <choice><orig>th</orig><reg>forth</reg></choice> mighty 
+                        <choice>
+                            <orig>powrs</orig>
+                            <reg>powers</reg>
+                        </choice></l>
+                    <l n="bb196.1.ms.01.11" justify="left"><hr width="21" align="left"/></l>
+                    <l n="bb196.1.ms.01.12" justify="left"><del type="erasure">arose. the Golden Sun his mighty Race began</del></l>
+                    <l n="bb196.1.ms.01.13" justify="left"><del type="erasure">Refreshing. the Cold earth with b<gap reason="illegible_inkblot" extent="1" unit="character"/>aming. J</del>oy.
+                        But <note>Erdman reads a period after "earth" (446).</note>
+                        <note>Bentley reads the conjectural "beaming" with certainty and omits the following period (*Writings* volume 2, page 869).</note></l>
+                    
+                    <l n="bb196.1.ms.01.14" justify="left">Pride awoke nor knew that Joy was born. and<note>Bentley reads the period following "born" as a comma (*Writings* volume 2, page 869).</note></l>
+                    <l n="bb196.1.ms.01.15" justify="left">taking 
+                        <choice>
+                            <orig>Poisnous</orig>
+                            <reg>Poisonous</reg>
+                        </choice> 
+                        S<gap reason="illegible_inkblot" extent="1" unit="character"/>ed from her own Bowels. in
+                        <note>Bentley (*Writings* volume 2, page 869) and Erdman (446) read the conjectural "Seed" with certainty.</note></l>
+                    <l n="bb196.1.ms.01.16" justify="left">the Monster Shame 
+                        <choice><orig>infusd</orig><reg>infused</reg></choice>. <choice><orig>for</orig><reg>forth</reg></choice> <choice><orig>th</orig><reg>forth</reg></choice> Came 
+                        <choice>
+                            <orig>Am</orig>
+                            <reg type="split_word">Ambition</reg>
+                        </choice></l>
+                    <l n="bb196.1.ms.01.17" justify="left">
+                        -<choice><orig>bition</orig><reg type="split_word">Ambition</reg></choice> Crawling like a toad Pride Bears it</l>
+                    <l n="bb196.1.ms.01.18" justify="left">in her Bosom and the Gods. all bow to it. So
+                        <note>Bentley omits the period following "Gods" (*Writings* volume 2, page 869).</note></l>
+                    <l n="bb196.1.ms.01.19" justify="left">Great its Pow<gap reason="illegible_inkblot" extent="1" unit="character"/>r. 
+                        that Pride 
+                        <choice>
+                            <orig>inspird</orig>
+                            <reg>inspired</reg>
+                        </choice> by it 
+                        <choice>
+                            <orig>Pro</orig>
+                            <reg type="split_word">Prophetic</reg>
+                        </choice>
+                        <note>Bentley reads the conjectural "Power" with certainty (*Writings* volume 2, page 869).</note>
+                    </l>
+                    <l n="bb196.1.ms.01.20" justify="left">
+                        -<choice><orig>phetic</orig><reg type="split_word">Prophetic</reg></choice> Saw the Kingdoms of the World &#38; all
+                        <note>Bentley reads the capitalized "Saw" as "saw" (*Writings* volume 2, page 869).</note></l>
+                    <l n="bb196.1.ms.01.21" justify="left">their Glory. Giants of Mighty arm before</l>
+                    <l n="bb196.1.ms.01.22" justify="left">the flood. <subst><del type="overwrite">w</del><add type="overwrite" place="inline">C</add></subst>ains City. built with Murder. Then
+                        <note>Bentley omits the period following "City" (*Writings* volume 2, page 869).</note></l>
+                    <l n="bb196.1.ms.01.23" justify="left">Babel mighty 
+                        <choice>
+                            <orig>Reard</orig>
+                            <reg>Reared</reg>
+                        </choice> him to the Skies. Babel</l>
+                    <l n="bb196.1.ms.01.24" justify="left">with thousand tongues Confusion it was <choice><orig>calld</orig><reg>called</reg></choice>.
+                        <note>Bentley omits the period after "calld" (*Writings* volume 2, page 869).</note></l>
+                    <l n="bb196.1.ms.01.25" justify="left">and 
+                        <choice>
+                            <orig>Givn</orig>
+                            <reg>Given</reg>
+                        </choice> 
+                        to Shame, this Pride observ<subst><del type="overwrite">d</del><add type="overwrite" place="inline">ing</add></subst><del type="overstrike">and</del><note>Bentley (*Writings* volume 2, page 869) and Erdman (446) read the comma after "Shame" as a period .</note></l>
+                    <l n="bb196.1.ms.01.26" justify="left">inly 
+                        <choice><orig>Grievd</orig><reg>Grieved</reg></choice>. but knew not that. the rest was</l>
+                    <l n="bb196.1.ms.01.27" justify="left">
+                        <choice>
+                            <orig>Givn</orig>
+                            <reg>Given</reg>
+                        </choice> to Shame as well as this, <subst><del type="erasure">for all</del></subst><gap reason="cancellation" extent="8" unit="character"/>
+                        <note>Bentley (*Writings* volume 2, page 869) and Erdman (446) read the comma after "this" as a period.</note><note>Bentley reads the final word in this line as "the" (*Writings* volume 2, page 869), while Erdman reads it as "who" (848n).</note></l>
+                    <l n="bb196.1.ms.01.28" justify="left"><del type="erasure">S</del><gap reason="cancellation" extent="21" unit="character"/> Then Ninev<gap reason="illegible_handwriting" extent="1" unit="character"/>
+                        <note>Bentley makes no further attempt to read the deleted portion of this line (*Writings* volume 2, page 869).  Erdman reads it as "saw and ?admired feared the ?utmost" (848n). Bentley (*Writings* volume 2, page 869) reads the final word in this line as "Nineve[h]"; Erdman (446) reads the same word as "Nineva".</note></l>
+                    <l n="bb196.1.ms.01.29" justify="left">&#38; Babylon &#38; costly tyre. <unclear resp="MG">A</unclear><unclear resp="MG">n</unclear>d
+                        <choice>
+                            <orig>evn</orig>
+                            <reg>even</reg>
+                        </choice> Jerusalem
+                        <note>Bentley reads the conjectural "And" as "and" with certainty (*Writings* volume 2, page 869), and Erdman (446) reads "costly" as "Costly".</note></l>
+                    <l n="bb196.1.ms.01.30" justify="left">was 
+                        <choice><orig>Shewn</orig><reg>Shown</reg></choice>. the holy city. Then Athens 
+                        <choice>
+                            <orig>Learn</orig>
+                            <reg type="split_word">Learning</reg>
+                        </choice>
+                        <note>Bentley reads "Shewn" as "shewn" (*Writings* volume 2, page 869). Bentley (*Writings* volume 2, page 869) and Erdman (447) read "city" as "City".</note></l>
+                    <l n="bb196.1.ms.01.31" justify="left">
+                        <choice>
+                            <orig>ing</orig>
+                            <reg type="split_word">Learning</reg>
+                        </choice> &#38; the Pride of Greece. and further from</l>
+                </lg>
+            </phystext>        
+        </desc>
+        <desc id="bb196.1.ms.02" dbi="BB196.1.2.MS">
+            <objtitle>
+                <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                    <objcode code="B2">(Bentley 2)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>19.0 cm. x 12.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote><p>W. M. Rossetti, who acquired the manuscript around 1876, inserted slashes in red ink throughout the manuscript.</p>
+                    <p>Blake left multiple letters uncrossed on this page. Bentley and Erdman normalize the spelling.</p></objnote>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb196.1.ms.02.01" justify="left">the Rising Sun. was Rome Seated on Seven</l>
+                    <l n="bb196.1.ms.02.02" justify="left">hills the mistress of the world. Emblem of Pride</l>
+                    <l n="bb196.1.ms.02.03" justify="left">She Saw the Arts their treasures Bring and luxury</l>
+                    <l n="bb196.1.ms.02.04" justify="left">his bounteous table Spread. but now a Cloud</l>
+                    <l n="bb196.1.ms.02.05" justify="left"><choice><orig>oer <unclear resp="KS">c</unclear>asts</orig><reg>overcasts</reg></choice>. and back to th' Ea<unclear resp="LK">s</unclear>t. to Constantines
+                        <note>Erdman reads "oer casts" as "oercasts" (447).</note></l>
+                    <l n="bb196.1.ms.02.06" justify="left">Great City Empire fled,<add type="insertion" place="supralinear"><hi rend="superscript">x</hi></add> So once the Sun his.</l>  
+                    <l n="bb196.1.ms.02.07" justify="left">Chariot drew. back. to prolong a Good kings</l>
+                    <l n="bb196.1.ms.02.08" justify="left">life,<note>Erdman reads the comma after "life" as a period (446).</note><addSpan spanto="A1"/><hi rend="superscript">x</hi>Ere long to bleed &#38; die a Sacrifice done by
+                        <note>Bentley reads "a" as "A" and "Sacrifice" as "sacrifice" (*Writings* volume 2, page 870).</note></l>
+                    <l n="bb196.1.ms.02.09" justify="left" indent="3.5">a Priestly hand<note>Bentley states that the “x” in lines 6 and 8 indicates the intended location of the outlined 
+                        text on lines 8 and 9 (*Writings* volume 2, page 870).</note><anchor xml:id="A1"/></l>
+                    <l n="bb196.1.ms.02.10" justify="left">The Clou<unclear resp="LK">d</unclear>
+                        <choice>
+                            <orig>oer</orig>
+                            <reg>over</reg>
+                        </choice>past &#38; Rome now Shone again
+                        <note>Bentley reads "Shone" as "shone" (*Writings* volume 2, page 870).</note></l>
+                    <l n="bb196.1.ms.02.11" justify="left">
+                        <choice>
+                            <orig>Miterd</orig>
+                            <reg>Mitered</reg>
+                        </choice> &#38; 
+                        <choice>
+                            <orig>Crown'd</orig>
+                            <reg>Crowned</reg>
+                        </choice> with triple crown. Then</l>
+                    <l n="bb196.1.ms.02.12" justify="left">Pride was better 
+                        <choice>
+                            <orig>Pleasd</orig>
+                            <reg>Pleased</reg>
+                        </choice> She Saw the World fall</l>
+                    <l n="bb196.1.ms.02.13" justify="left">down in Adoration <delSpan spanto="D1" rend="strikethrough"/> Nor could Refrain but 
+                        <choice>
+                            <orig>Cry'd</orig>
+                            <reg>Cried</reg>
+                        </choice></l>
+                    <l n="bb196.1.ms.02.14" justify="left">O this is the 
+                        <choice>
+                            <orig>bles't</orig>
+                            <reg>blessed</reg>
+                        </choice> time when Pride shall hold
+                        <note>Bentley omits the "O" in his transcription and reads "bles't" as "blest" (*Writings* volume 2, page 870).</note></l>
+                    <l n="bb196.1.ms.02.15" justify="left">the Sway.<anchor xml:id="D1"/>
+                        <subst><del type="overwrite">N</del><add type="overwrite" place="inline">B</add></subst>ut now full to the Setting Sun a</l>
+                    <l n="bb196.1.ms.02.16" justify="left">Sun arose out of the Sea. it rose &#38; shed</l>
+                    <l n="bb196.1.ms.02.17" justify="left">Sweet Influence 
+                        <choice>
+                            <orig>oer</orig>
+                            <reg>over</reg>
+                        </choice> the Earth Pride feared for</l>
+                    <l n="bb196.1.ms.02.18" justify="left">her City, but not long. for looking
+                        <choice><orig>Stedfastly</orig><reg>Steadfastly</reg></choice>
+                    </l>
+                    <l n="bb196.1.ms.02.19" justify="left">She saw that Pride 
+                        <choice>
+                            <orig>Reignd</orig>
+                            <reg>Reigned</reg>
+                        </choice> here. Now 
+                        <choice>
+                            <orig>Dire</orig>
+                            <reg type="split_word">Direful</reg>
+                        </choice></l>
+                    <l n="bb196.1.ms.02.20" justify="left">
+                        <choice>
+                            <orig>ful</orig>
+                            <reg type="split_word">Direful</reg>
+                        </choice> Pains accost her. and Still pregnant. <gap reason="illegible_handwriting" extent="1" unit="character"/>
+                        <note>Bentley omits the period following "her" (*Writings* volume 2, page 870).</note>                        
+                        <note>Erdman (446) reads the illegible character as "so" with certainty, and Bentley (*Writings* volume 2, page 870) reads the character as "So" with uncertainty.</note></l>
+                    <l n="bb196.1.ms.02.21" justify="left">Envy came &#38; Hate. twin progeny Envy</l>
+                    <l n="bb196.1.ms.02.22" justify="left">hath a Serpents head of fearful bulk<note>Bentley reads "Serpents" as "serpents" (*Writings* volume 2, page 870).</note></l>
+                    <l n="bb196.1.ms.02.23" justify="left">hissing with hundred tongues, her 
+                        <choice>
+                            <orig>poisnous</orig>
+                            <reg>poisonous</reg>
+                        </choice>breat<unclear resp="AE">h</unclear></l>
+                    <l n="bb196.1.ms.02.24" justify="left">breeds Satire foul Contagion from which none</l>
+                    <l n="bb196.1.ms.02.25" justify="left">are free. 
+                        <choice>
+                            <orig>oer whelmd</orig>
+                            <reg>overwhelmed</reg>
+                        </choice> by ever During
+                        Thirst</l>
+                    <l n="bb196.1.ms.02.26" justify="left">She<note>Bentley reads "She" as "she" (*Writings* volume 2, page 870).</note> 
+                        <choice>
+                            <orig>Swalloweth</orig>
+                            <reg>Swallows</reg>
+                        </choice> her own Poison. which</l>
+                    <l n="bb196.1.ms.02.27" justify="left">consumes her nether Parts. from Whence
+                        <note>Bentley reads "consumes" as "Consumes" (*Writings* volume 2, page 870). Erdman reads "Whence" as "whence" (446).</note></l>
+                    <l n="bb196.1.ms.02.28" justify="left">a River Springs,<note>Bentley (*Writings* volume 2, page 870) and Erdman (446) read the comma after "Springs" as a period.</note> Most Black &#38; 
+                        <choice>
+                            <orig>loathsom</orig>
+                            <reg>loathsome</reg>
+                        </choice></l>
+                    <l n="bb196.1.ms.02.29" justify="left">through the land
+                        it
+                        Runs Rolling with furious</l>                
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb196.1.ms.03" dbi="BB196.1.3.MS">
+            <objtitle>
+                <objid>
+                    <objnumber code="A3">Object 3 </objnumber>
+                    <objcode code="B3">(Bentley 3)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>19.0 cm. x 12.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote>
+                    <p>W. M. Rossetti, who acquired the manuscript around 1876, inserted slashes in red ink throughout the manuscript.</p>
+                    <p>Blake uses a different color ink beginning on Object 3, line 25 through the first line of Object 5.</p>
+                </objnote>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb196.1.ms.03.01" justify="left">Noise. but at the last it Settles in a lake</l>
+                    <l n="bb196.1.ms.03.02" justify="left">Called Oblivion. tis at this Rivers fount where
+                        <note>Erdman reads "Called" as "called" (446).</note></l>
+                    <l n="bb196.1.ms.03.03" justify="left">
+                        <choice>
+                            <orig>evry</orig>
+                            <reg>every</reg>
+                        </choice> mortals Cup is 
+                        <choice>
+                            <orig>Mix't</orig>
+                            <reg>Mixed</reg>
+                        </choice> My Cup is 
+                        <choice>
+                            <orig>filld</orig>
+                            <reg>filled</reg>
+                        </choice><note>Erdman reads "filld" as "fill'd" (446).</note></l>
+                    <l n="bb196.1.ms.03.04" justify="left">with En<unclear resp="KS">v</unclear>y's Rankest Draught <del type="erasure">and Death is</del></l>
+                    <l n="bb196.1.ms.03.05" justify="left"><del type="erasure">in the Pot</del> a miracle No 
+                        less can set</l>
+                    <l n="bb196.1.ms.03.06" justify="left">me Right. Desire Still pines but for one</l>
+                    <l n="bb196.1.ms.03.07" justify="left">Cooling Drop and tis 
+                        <choice><orig>Deny'd</orig><reg>Denied</reg></choice>. while others <note>Bentley omits the period after "Deny'd" (*Writings* volume 2, page 870).</note></l>
+                    <l n="bb196.1.ms.03.08" justify="left">in Contentments downy N<unclear resp="AE">e</unclear>st do sleep. it is</l>
+                    <l n="bb196.1.ms.03.09" justify="left">the Cursed thorn 
+                        <choice>
+                            <orig>wound ing</orig>
+                            <reg>wounding</reg>
+                        </choice> 
+                        my bre<unclear resp="AE">a</unclear>st that
+                        <note>Bentley (*Writings* volume 2, page 870) and Erdman (447) read "wound ing" as "wounding".</note></l>
+                    <l n="bb196.1.ms.03.10" justify="left">makes me sing. however sweet tis Envy</l>
+                    <l n="bb196.1.ms.03.11" justify="left">that Inspires my Song. 
+                        <choice><orig>prickt</orig><reg>pricked</reg></choice>. by the fame</l>
+                    <l n="bb196.1.ms.03.12" justify="left">of others how I mourn and my complaints</l>
+                    <l n="bb196.1.ms.03.13" justify="left">are Sweeter than their Joys but O could</l>
+                    <l n="bb196.1.ms.03.14" justify="left">I at Envy Shake my hands. my notes Should</l>
+                    <l n="bb196.1.ms.03.15" justify="left">Rise to meet the New born Day. Hate</l>
+                    <l n="bb196.1.ms.03.16" justify="left">Meager hag Sets Envy on unable to Do ought</l>
+                    <l n="bb196.1.ms.03.17" justify="left">herself, but Worn away a Bloodless Daemon<note>Erdman reads the comma after "herself" as a period (447).</note></l>
+                    <l n="bb196.1.ms.03.18" justify="left">The Gods all Serve her at her will so great</l>
+                    <l n="bb196.1.ms.03.19" justify="left">her Power is like, fabled hecate. She doth
+                        <note>Bentley reads "She" as "she" (*Writings* volume 2, page 871). Erdman reads a period after "like" and omits the period after "hecate" (447).</note></l>
+                    <l n="bb196.1.ms.03.20" justify="left">bind them to her law, Far in a Direful<note>Bentley (*Writings* volume 2, page 871) and Erdman (447) read the comma after "law" as a period.</note></l>
+                    <l n="bb196.1.ms.03.21" justify="left">Cave <subst><del type="erasure">T</del><add type="overwrite" place="inline">S</add></subst>he lives unseen 
+                        <choice>
+                            <orig>Closd</orig>
+                            <reg>Closed</reg>
+                        </choice> from the Eye</l>
+                    <l n="bb196.1.ms.03.22" justify="left">of Day, to the hard Rock 
+                        <choice>
+                            <orig>transfixt</orig>
+                            <reg>transfixed</reg>
+                        </choice>  by
+                        <note>Erdman reads a comma after "Day" (447).</note></l>
+                    <l n="bb196.1.ms.03.23" justify="left">fate and here She works her witcheries</l>
+                    <l n="bb196.1.ms.03.24" justify="left">that when She Groans <subst><gap extent="3" reason="overwrite"/><add place="inline">She</add></subst> Shakes the Solid
+                        <note>Bentley reads "Shakes" as "shakes" (*Writings* volume 2, page 871).</note></l>
+                    <l n="bb196.1.ms.03.25" justify="left">Ground <hi rend="handshift" medium="pen-grey">Now Envy She 
+                        <choice>
+                            <orig>controlls</orig>
+                            <reg>controls</reg>
+                        </choice> with 
+                        <choice>
+                            <orig>numming</orig>
+                            <reg>numbing</reg>
+                        </choice></hi></l>
+                    <l n="bb196.1.ms.03.26" justify="left">trance &#38; Melancholy Sprung from her da<unclear resp="MW">r</unclear>k womb</l>
+                    <l n="bb196.1.ms.03.27" justify="left">There is a Melancholy, O how lovely tis whose heaven is</l>
+                    <l n="bb196.1.ms.03.28" justify="left">in the heavenly Mind <subst><gap extent="29" reason="overwrite"/><add place="inline">for she from heaven came, and</add></subst><note>Bentley omits the comma after "came" (*Writings* volume 2, page 871).</note></l>
+                    <l n="bb196.1.ms.03.29" justify="left"><subst><gap extent="14" reason="overwrite"/><add place="inline">where She goes</add></subst> heaven still doth follow her. She<note>Bentley notes "for she from heaven came and where She goes" is written over an erased passage (*Writings* volume 2, page 871n). The passage appears to span part of line 28 and the first few words of line 29.</note></l>                   
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb196.1.ms.04" dbi="BB196.1.4.MS">
+            <objtitle>
+                <objid>
+                    <objnumber code="A4">Object 4</objnumber>
+                    <objcode code="B4">(Bentley 4)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>19.0 cm. x 12.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote>
+                    <p>W. M. Rossetti, who acquired the manuscript around 1876, inserted slashes in red ink throughout the manuscript.</p>
+                    <p>Blake uses a different color ink beginning on Object 3, line 25 through the first line of Object 5.</p>
+                </objnote>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb196.1.ms.04.01" justify="left">brings true Joy once fled, &#38; Contemplation is her 
+                        <choice>
+                            <orig>Daugh</orig>
+                            <reg type="split_word">Daughter</reg>
+                        </choice>
+                        <note>Erdman reads a period after "fled" (447).</note></l>
+                    <l n="bb196.1.ms.04.02" justify="left">
+                        <choice><orig>ter</orig><reg type="split_word">Daughter</reg></choice>. 
+                        Sweet Contemplation,<add type="insertion" place="supralinear" symbol="asterisk"><hi rend="superscript">x</hi></add><space extent="1"/><del type="overstrike">She teacheth knowledge how</del>
+                        <note>Bentley suggests that the "x" on this line corresponds with the "x" on page 7 (Object 7), indicating that lines 1-7 from Object 7 should follow after "Contemplation," (*Writings* volume 2, page 871n). In addition, Bentley (*Writings* volume 2, page 871) and Erdman (447) read the comma after "Contemplation" as a period.</note></l>
+                    <l n="bb196.1.ms.04.03" justify="left" indent="37"><add type="insertion" place="supralinear">once lost</add></l>
+                    <l n="bb196.1.ms.04.04" justify="left"><del type="overstrike">to know.</del> and Reinstates him on his throne <add type="insertion" place="inline" symbol="caret"><hi rend="subscript">^</hi></add> how lost</l>
+                    <l n="bb196.1.ms.04.05" justify="left">I'll tell. But Stop the motley Song I:ll 
+                        <choice><orig>Shew</orig><reg>Show</reg></choice>. 
+                        how<note>Bentley (*Writings* volume 2, page 871) and Erdman (447) read "I:ll" as "I'll".</note></l>
+                    <l n="bb196.1.ms.04.06" justify="left">Conscience Came from heaven. But O who listens to</l>
+                    <l n="bb196.1.ms.04.07" justify="left">his Voice. 
+                        <choice>
+                            <orig>T'was</orig>
+                            <reg>It was</reg>
+                        </choice> Conscience who brought Melancholy</l>
+                    <l n="bb196.1.ms.04.08" justify="left">down    Conscience was sent a Guard to Reason. Reason once</l>
+                    <l n="bb196.1.ms.04.09" justify="left">fairer than the light till 
+                        <choice>
+                            <orig>fould</orig>
+                            <reg>fouled</reg>
+                        </choice> in Knowledges dark</l>
+                    <l n="bb196.1.ms.04.10" justify="left">Prison house. For knowledge drove sweet Innocence</l>
+                    <l n="bb196.1.ms.04.11" justify="left">away. and Reason would have 
+                        <choice>
+                            <orig>followd</orig>
+                            <reg>followed</reg>
+                        </choice> but fate 
+                        <choice>
+                            <orig>sufferd</orig>
+                            <reg>suffered</reg>
+                        </choice></l>
+                    <l n="bb196.1.ms.04.12" justify="left">not, then down Came Conscience with his lovely band
+                        <note>Bentley (*Writings* volume 2, page 871) and Erdman (447) read "not, then" as "not. Then".</note></l>
+                    <l n="bb196.1.ms.04.13" justify="left">The Eager Song Goes on telling how Pride against her</l>
+                    <l n="bb196.1.ms.04.14" justify="left">father 
+                        <choice>
+                            <orig>Warrd</orig>
+                            <reg>Warred</reg>
+                        </choice> &#38; Overcame. Down his white Beard</l>
+                    <l n="bb196.1.ms.04.15" justify="left">the Silver torrent<unclear resp="HH">s</unclear> Roll, and Swelling Sighs burst forth
+                        <note>Bentley reads "Silver" as "silver" (*Writings* volume 2, page 871), and Erdman reads the comma after "Roll" as a period (447).</note></l>
+                    <l n="bb196.1.ms.04.16" justify="left">his Children all in arms appear to tear him from</l>
+                    <l n="bb196.1.ms.04.17" justify="left">his throne Black was the deed, most Black, 
+                        <choice>
+                            <orig>Sham</orig>
+                            <reg>Shame</reg>
+                        </choice>
+                        <note>Erdman (447) reads "deed, most Black," as "deed. most Black."; Bentley (*Writings* volume 2, page 871) reads the comma after "most Black" as a period.</note><note>The final word in this line is "Shame".  Leaves 2 and 3 were once joined, and the "e" that is missing at the end of this line appears at the beginning of line 15 on Object 5.</note>
+                    </l>
+                    <l n="bb196.1.ms.04.18" justify="left">in a Mist Sat Round his troubled head. &#38; 
+                        <choice>
+                            <orig>filld</orig>
+                            <reg>filled</reg>
+                        </choice> him</l>
+                    <l n="bb196.1.ms.04.19" justify="left">with Confusion, Fear as a torrent wild 
+                        <choice>
+                            <orig>Roard</orig>
+                            <reg>Roared</reg>
+                        </choice> Roun<unclear resp="KS">d</unclear><note>Bentley (*Writings* volume 2, page 871) and Erdman (447) read the comma after "Confusion" as a period.</note></l>
+                    <l n="bb196.1.ms.04.20" justify="left" indent="7.20"><add type="insertion" place="supralinear">the mighty pillars shake</add></l>
+                    <l n="bb196.1.ms.04.21" justify="left">his throne <add type="insertion" place="inline" symbol="caret"><hi rend="subscript">^</hi></add><space extent="1"/><subst><del type="overwrite"><unclear resp="MG">and</unclear></del><add type="overwrite" place="inline">Now</add></subst> all the Gods in 
+                        <choice>
+                            <orig>blackning</orig>
+                            <reg>blackening</reg>
+                        </choice> Ranks</l>
+                    <l n="bb196.1.ms.04.22" justify="left">appear. like a tempestuous thunder Cloud Pride</l>
+                    <l n="bb196.1.ms.04.23" justify="left">leads. them on. Now they Surround the God. and bind</l>
+                    <l n="bb196.1.ms.04.24" justify="left">him fast. Pride bound him, <subst><del type="overwrite">and</del><add type="overwrite" place="inline">then</add></subst>  
+                        <choice>
+                            <orig>usurpd</orig>
+                            <reg>usurped</reg>
+                        </choice> 
+                        <choice>
+                            <orig>oer</orig>
+                            <reg>over</reg>
+                        </choice> all the</l>
+                    <l n="bb196.1.ms.04.25" justify="left">Gods. She Rode upon the Swelling wind and 
+                        <choice>
+                            <orig>Scatterd</orig>
+                            <reg>Scattered</reg>
+                        </choice></l>
+                    <l n="bb196.1.ms.04.26" justify="left">all who 
+                        <choice>
+                            <orig>durst</orig>
+                            <reg>dared</reg>
+                        </choice>
+                        <choice><orig>t'oppose</orig><reg>to oppose</reg></choice>. but Shame opposing fierce</l>
+                    <l n="bb196.1.ms.04.27" justify="left" indent="16.5"><add type="insertion" place="supralinear">in the 
+                        <choice>
+                            <orig>darkning</orig>
+                            <reg>darkening</reg>
+                        </choice> Storm</add><space extent="6.43"/><add type="insertion" place="supralinear"><del type="overstrike">A</del></add></l>
+                    <l n="bb196.1.ms.04.28" justify="left">and hovering. over her. She brought forth Rage Mean<note>Bentley (*Writings* volume 2, page 871n) suggests 
+                        that the "A" in this line corresponds with another on page 7 (Object 7), indicating that lines 16-17 from Object 7 should follow after "Rage".</note>
+                        <note>Bentley (*Writings* volume 2, page 872) and Erdman (447) omit the period after "her".</note></l>
+                    <l n="bb196.1.ms.04.29" justify="left" indent="43"><add type="insertion" place="inline" symbol="caret">^</add></l>
+                    <l n="bb196.1.ms.04.30" justify="left">while Strife Mighty Prince was bo<unclear resp="KS">r</unclear>n Envy in</l>
+                    <l n="bb196.1.ms.04.31" justify="left">direful Pains him bore, then Envy brought forth<note>Erdman reads the comma after "bore" as a period (447).</note></l>
+                    <l n="bb196.1.ms.04.32" justify="left">Care. Care Sitteth in the wrinkled brow. Strife</l>
+                    <l n="bb196.1.ms.04.33" justify="left">Shapeless Sitteth under thrones of king<unclear resp="KS">s</unclear>, like 
+                        <choice>
+                            <orig>Smoul</orig>
+                            <reg type="split_word">Smoldering</reg>
+                        </choice>
+                        <note>Erdman reads a period after "kings" (447).</note>
+                        <note>The top of the final "l" in this line is found in the left-hand margin of Object 5 on line 27. Like the missing "e" from line 17 of this object, this is further evidence that leaves 2 and 3 were once joined.</note></l>
+                    <l n="bb196.1.ms.04.34" justify="left">
+                        <choice>
+                            <orig>dring</orig>
+                            <reg type="split_word">Smoldering</reg>
+                        </choice> fire. <unclear resp="HH">or</unclear> in the Buzz of Cities flies abroad<note>Bentley (*Writings* volume 2, page 872) and Erdman (447) read the uncertain "or" with certainty.</note></l>
+                    <l n="bb196.1.ms.04.35" justify="left">Care brought forth Covet Eyeless &#38; prone <subst><del type="overwrite">d</del><add type="overwrite" place="inline">to</add></subst> 
+                        <choice>
+                            <orig>th'</orig>
+                            <reg>the</reg>
+                        </choice></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb196.1.ms.05" dbi="BB196.1.5.MS">
+            <objtitle>
+                <objid>
+                    <objnumber code="A5">Object 5</objnumber>
+                    <objcode code="B5">(Bentley 5)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>19.0 cm. x 12.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote>
+                    <p>W. M. Rossetti, who acquired the manuscript around 1876, inserted slashes in red ink throughout the manuscript.</p>
+                    <p>Blake uses a different color ink beginning on Object 3, line 25 through the first line of Object 5.</p>
+                </objnote>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb196.1.ms.05.01" justify="left" indent=".5">Earth, and Strife brought forth Revenge. Hate</l>
+                    <l n="bb196.1.ms.05.02" justify="left" indent=".5"><choice><orig>brood ing</orig><reg>brooding</reg></choice> in her Dismal den grew Pregnant &#38;</l>
+                    <l n="bb196.1.ms.05.03" justify="left" indent=".5"><del type="overstrike">brought forth</del> bore Scorn, &#38; Slander. Scorn waits
+                        <note>Bentley omits the comma after "Scorn" (*Writings* volume 2, 872).</note>
+                        <note>Bentley (*Writings* volume 2, page 872) and Erdman (447) read "brood ing" as "brooding".</note></l>
+                    <l n="bb196.1.ms.05.04" justify="left" indent=".5">on Pride. but Slander. flies around the World to</l>
+                    <l n="bb196.1.ms.05.05" justify="left" indent=".5">do the Work of hate her drudge &#38; Elf. but Policy</l>
+                    <l n="bb196.1.ms.05.06" justify="left" indent="11"><add type="insertion" place="supralinear">for hate</add></l>
+                    <l n="bb196.1.ms.05.07" justify="left" indent=".5">doth drudge <add type="insertion" place="inline" symbol="caret"><hi rend="subscript">^</hi></add> 
+                        as well as Slander. &#38; 
+                        <choice>
+                            <orig>oft</orig>
+                            <reg>often</reg>
+                        </choice> makes use</l>
+                    <l n="bb196.1.ms.05.08" justify="left" indent=".5">of her. Policy Son of Shame, Indeed hate 
+                        <choice>
+                            <orig>Controlls</orig>
+                            <reg>Controls</reg>
+                        </choice><note> Bentley (*Writings* volume 2, page 872) and Erdman (447) read the comma after "Shame" as a period.</note></l>
+                    <l n="bb196.1.ms.05.09" justify="left" indent=".5">all the Gods. at will. Policy brought forth Guile</l>
+                    <l n="bb196.1.ms.05.10" justify="left" indent=".5">&#38; fraud. these Gods last 
+                        <choice>
+                            <orig>namd</orig>
+                            <reg>named</reg>
+                        </choice> live in the Smoke</l>
+                    <l n="bb196.1.ms.05.11" justify="left" indent=".5">of Cities, on Dusky wing breathing forth Clamo<unclear resp="AE">u</unclear>r<note>Erdman reads the 
+                        comma after "Cities" as a period (448).</note></l>
+                    <l n="bb196.1.ms.05.12" justify="left" indent=".5">&#38; Destruction, alas in Cities wheres the man whose
+                        <note>Erdman (448) reads the comma after "Destruction" as a period.</note></l>
+                    <l n="bb196.1.ms.05.13" justify="left" indent=".5">face is not a mask unto his heart Pride made</l>
+                    <l n="bb196.1.ms.05.14" justify="left" indent=".5">a Goddess, fair<space extent="3"/>or Image rather 
+                        <choice>
+                            <orig>till</orig>
+                            <reg>until</reg>
+                        </choice> knowledge<note>Erdman reads the comma after "Goddess" as a period (448).</note></l>
+                    <l n="bb196.1.ms.05.15" justify="left"><unclear resp="MW">e</unclear> 
+                        animated it, 
+                        <choice>
+                            <orig>'twas</orig>
+                            <reg>it was</reg>
+                        </choice> 
+                        <choice>
+                            <orig> Calld</orig>
+                            <reg>Called</reg>
+                        </choice> 
+                        <choice>
+                            <orig> Selflove.</orig>
+                            <reg>Self love.</reg>
+                        </choice> The Gods<note>Leaves 2 and 3 were once joined, and the stray "e" that is 
+                            at the beginning of this line belongs to the word "Sham[e]" in Object 4 line 17.</note><note>Bentley reads "Selflove" as "Self-love" (*Writings* volume 2, page 872). Erdman reads the comma after "it" as a period (448).</note></l>
+                    <l n="bb196.1.ms.05.16" justify="left" indent=".5">admiring loaded her with Gifts as once 
+                        <choice>
+                            <orig>Pan</orig>
+                            <reg type="split_word">Pandora</reg>
+                        </choice></l>
+                    <l n="bb196.1.ms.05.17" justify="left" indent=".5">
+                        <choice>
+                            <orig>-dora</orig>
+                            <reg type="split_word">Pandora</reg>
+                        </choice> She 
+                        <choice>
+                            <orig>'mongst</orig>
+                            <reg>amongst</reg>
+                        </choice> men was Sent. and worser</l>
+                    <l n="bb196.1.ms.05.18" justify="left" indent=".5">ills attended her by far. She was a Goddess</l>
+                    <l n="bb196.1.ms.05.19" justify="left" indent="21"><add type="insertion" place="supralinear">&#38; E<hi rend="u">mulation</hi></add>
+                        <del type="overstrike"><hi rend="handshift" medium="pencil">
+                            <choice><orig>Suspition</orig><reg>Suspicion</reg></choice> Mist</hi></del><note>Bentley reads the deleted portion of this line as "&#38; suspition Mixt" (*Writings* volume 2, page 872). 
+                                Erdman, however, reads the final word in the line as "Mist" and suggests that Blake may have intended to write "Mistrust" (848n).</note>
+                        <note>Blake wrote this line in pencil and wrote over "Emulation" in ink. A pencil line extends from the end of "Emulation" to the lines beginning on line 26.</note></l>
+                    <l n="bb196.1.ms.05.20" justify="left" indent=".5">Powerful &#38; bore Conceit.<subst><del type="overwrite">.</del>
+                        <add type="insertion" place="inline" symbol="caret"><hi rend="subscript">^</hi></add></subst> Go See the City
+                        <note>The caret inserted into this line is written in pencil.</note></l>
+                    <l n="bb196.1.ms.05.21" justify="left" indent=".5">friends 
+                        <choice>
+                            <orig>Joind</orig>
+                            <reg>Joined</reg>
+                        </choice> Hand in Hand, Go See. the 
+                        <choice><orig>Natu</orig><reg type="split_word">Natural</reg></choice>-
+                        <note>Bentley reads "Joind" as "Join'd" (*Writings* volume 2, page 873).</note>
+                        <note>Bentley (*Writings* volume 2, page 873) and Erdman (448) read the comma after "in Hand" as a period.</note></l>
+                    <l n="bb196.1.ms.05.22" justify="left" indent=".5">
+                        <choice>
+                            <orig>-ral</orig>
+                            <reg type="split_word">Natural</reg>
+                        </choice> tie of flesh &#38; blood. Go See more strong</l>
+                    <l n="bb196.1.ms.05.23" justify="left" indent=".5">the ties of marriage lov<unclear resp="KS">e</unclear>. thou Scarce Shall</l>
+                    <l n="bb196.1.ms.05.24" justify="left" indent=".5">find but Self love Stands Between</l>
+                    <l n="bb196.1.ms.05.25" justify="left"><hr width="17" align="left" indent=".5"/><note>In the manuscript, this line is a decorative swirl.</note></l>
+                    <l n="bb196.1.ms.05.26" justify="left" indent="17.5"><hi rend="handshift" medium="pencil">&#38; Policy doth dwell with</hi></l>
+                    <l n="bb196.1.ms.05.27" justify="left" indent="17.5"><hi rend="handshift" medium="pencil">her by Whom She had a</hi><note>Erdman (448) reads "Whom She" as "whom she".</note></l>
+                    <l n="bb196.1.ms.05.28" justify="left" indent="1"><hi rend="handshift" medium="pencil"><unclear resp="MW">P</unclear><gap 
+                        reason="illegible_handwriting" extent="1" unit="character"/><unclear resp="MG">a</unclear><gap reason="illegible_handwriting" 
+                            extent="1" unit="character"/><unclear resp="KS">.</unclear><space extent="11.5"/>Son Called 
+                        <choice>
+                            <orig>Suspition</orig>
+                            <reg>Suspicion</reg>
+                        </choice></hi>
+                        <note>Bentley reads "Suspition" as "suspition" (*Writings* volume 2, page 872).</note></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb196.1.ms.06" dbi="BB196.1.6.MS">
+            <objtitle>
+                <title type="transcribed">Woe cried the muse</title>
+                ,
+                <objid>
+                    <objnumber code="A6">Object 6</objnumber>
+                    <objcode code="B6">(Bentley 6)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>19.0 cm. x 12.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote>There are a number of ink marks on the manuscript. Only those that obscure the text are noted.</objnote>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb196.1.ms.06.01" justify="left">Woe cried the muse tears Started at the Sound. Grief 
+                        <choice>
+                            <orig>perch't</orig>
+                            <reg>perched</reg></choice></l>
+                    <l n="bb196.1.ms.06.02" justify="left">upon my brow and thought 
+                        <choice>
+                            <orig>Embracd</orig>
+                            <reg>Embraced</reg>
+                        </choice> Her. What does this</l>
+                    <l n="bb196.1.ms.06.03" justify="left">mean I cried. when all around. Summer hath 
+                        <choice>
+                            <orig>Spre'd</orig>
+                            <reg>Spread</reg>
+                        </choice> her</l>
+                    <l n="bb196.1.ms.06.04" justify="left">Plumes <unclear resp="MG">a</unclear>nd tunes her <gap reason="cancellation" extent="4" unit="character"/><del type="erasure"><unclear resp="AE">ta</unclear>nt</del> Notes. When Buxom Joy
+                        <note>Bentley reads the period after "Notes" as a comma (*Writings* volume 2, page 873).</note>
+                        <note>Bentley (*Writings* volume 2, page 873) and Erdman (848n) read the deletion as “?Chauntant”.</note>
+                        <note>A wide ink wash obscures parts of lines 4 and 5. Blake appears to have retraced the obscured word "and".
+                        </note></l>
+                    <l n="bb196.1.ms.06.05" justify="left">doth. fan his<note>A wide ink wash obscures parts of lines 4 and 5. Blake appears to have retraced the obscured word "his".</note> wings. &#38; Golden Pleasures Beam around my
+                        <note>Bentley omits the period after "doth" and "wings" (*Writings* volume 2, page 873).</note></l>
+                    <l n="bb196.1.ms.06.06" justify="left">head. why. Grief dost thou accost me. The Muse then</l>
+                    <l n="bb196.1.ms.06.07" justify="left" indent="18.5"><add type="insertion" place="interlinear">string</add></l>
+                    <l n="bb196.1.ms.06.08" justify="left">Struck her Deepest <gap reason="cancellation" extent="4" unit="character"/> &#38; Sympathy Came forth,
+                        <note> Bentley (*Writings* volume 2, page 873) and Erdman (849n) read the deleted word as "note".</note>
+                        <note>Bentley (*Writings* volume 2, page 873) and Erdman (448) read the comma after "forth" as a period.</note> She</l>
+                    <l n="bb196.1.ms.06.09" justify="left" indent="14"><add type="insertion" place="interlinear"><hi rend="handshift" medium="pencil">awful</hi></add></l>
+                    <l n="bb196.1.ms.06.10" justify="left">
+                        <choice>
+                            <orig>Spred</orig>
+                            <reg>Spread</reg>
+                        </choice> her <del type="overstrike">Shadowy</del><note>"Shadowy" is struck through in pencil.</note> Wings. &#38; gave me up. my Nerves</l>
+                    <l n="bb196.1.ms.06.11" justify="left">with trembling Curdle all my blood, &#38; 
+                        <choice>
+                            <orig>ev'ry</orig>
+                            <reg>every</reg>
+                        </choice> piece of
+                        <note>Erdman reads a period after "blood" (448).</note></l>
+                    <l n="bb196.1.ms.06.12" justify="left" indent="29"><add type="insertion" place="interlinear" symbol="caret">soon</add></l>
+                    <l n="bb196.1.ms.06.13" justify="left">flesh doth Cry out Woe. <del type="wash"><gap reason="cancellation" extent="4" unit="character"/></del> how
+                        <add type="insertion" place="inline" symbol="caret"><hi rend="subscript">^</hi></add> the Winds Sing round
+                        <note>Bentley (*Writings* volume 2, page 873) reads the deleted word as "?hark" and Erdman (849n) reads the deletion as "hark".</note></l>
+                    <l n="bb196.1.ms.06.14" justify="left">the 
+                        <choice>
+                            <orig>Darkning</orig>
+                            <reg>Darkening</reg>
+                        </choice> Storm 
+                        <choice>
+                            <orig>ere</orig>
+                            <reg>ever</reg>
+                        </choice>
+                        while so fair, and now they
+                        <note>Erdman reads the comma after "fair" as a period (448).</note></l>
+                    <l n="bb196.1.ms.06.15" justify="left">fall &#38; beg the Skies will weep. a Day like this laid Elfrid</l>
+                    <l n="bb196.1.ms.06.16" justify="left">in the Dust.
+                        Sweet Elfrid fairer than the Beaming Sun</l>
+                    <l n="bb196.1.ms.06.17" justify="left">O Soon cut off 
+                        <choice>
+                            <orig>ith</orig>
+                            <reg>in the</reg>
+                        </choice> morning of her days, 
+                        <choice>
+                            <orig>twas</orig>
+                            <reg>it was</reg>
+                        </choice>the
+                        <note>Bentley reads "ith" as "i th" (*Writings* volume 2, page 873). Erdman reads a period after "days" (448).</note></l>
+                    <l n="bb196.1.ms.06.18" justify="left">Rude thunder Stroke that 
+                        <choice>
+                            <orig>Closd</orig>
+                            <reg>Closed</reg>
+                        </choice> her Eyes,<note>Erdman reads the comma after "Eyes" as a period (448).</note> and laid</l>
+                    <l n="bb196.1.ms.06.19" justify="left">her lilied Beauties on the Green, The dance was broke</l>
+                    <l n="bb196.1.ms.06.20" justify="left">the Circle just Begun
+                        the flower was 
+                        <choice>
+                            <orig>Pluckd</orig>
+                            <reg>Plucked</reg>
+                        </choice> &#38;</l>
+                    <l n="bb196.1.ms.06.21" justify="left">yet it was not blown; But What art thou! I
+                        <note>Bentley (*Writings* volume 2, page 874) and Erdman (448) read "What" as "what".</note>
+                        <note>Erdman reads the semicolon after "blown" as a period (448).</note></l>
+                    <l n="bb196.1.ms.06.22" justify="left" indent="40"><add place="supralinear">
+                        <choice>
+                            <orig>listning</orig>
+                            <reg>listening</reg>
+                        </choice></add></l>
+                    <l n="bb196.1.ms.06.23" justify="left">could no more.
+                        <note>Bentley reads the period after "more" as a comma (*Writings* volume 2, page 874).</note> 
+                        till mute attention Struck my 
+                        <del type="erasure">
+                            <choice>
+                                <orig>trem</orig>
+                                <reg type="split_word">trembling</reg>
+                            </choice></del></l>
+                    <l n="bb196.1.ms.06.24" justify="left">
+                        <del type="erasure"><choice><orig>bling</orig><reg type="split_word">trembling</reg></choice></del> 
+                        Ear. It Spoke I come my friend to take my</l>
+                    <l n="bb196.1.ms.06.25" justify="left">last farewell.
+                        
+                        Sunk by. 
+                        the hand of Death in 
+                        <choice>
+                            <orig>Watry</orig>
+                            <reg>Watery</reg>
+                        </choice> tomb<note>Bentley reads a comma after "farewell" and omits the period after "by" (*Writings* volume 2, page 874). Erdman reads "Watry" as "Wat'ry" (448).</note></l>
+                    <l n="bb196.1.ms.06.26" justify="left" indent="10"><subst><del type="erasure"><add type="insertion" place="supralinear">ruffl</add></del><gap reason="cancellation" extent="3" unit="character"/></subst>
+                        <note>Bentley (*Writings* volume 2, page 874) and Erdman (849n) read the deletion as "ruffling".</note></l>
+                    <l n="bb196.1.ms.06.27" justify="left">
+                        <choice>
+                            <orig>Oer</orig>
+                            <reg>Over</reg>
+                        </choice> yonder <add type="insertion" place="inline" symbol="caret"><hi rend="subscript">^</hi></add> lake<del type="erasure"><unclear resp="LK">.</unclear> wh<gap reason="cancellation" extent="3" unit="character"/><del type="erasure"><unclear resp="AE"> li</unclear></del><gap reason="cancellation" extent="18" unit="character"/>Co<unclear resp="LK">r</unclear>se</del>
+                        <note>Erdman reads the deleted portion of this line as "while ?living clay cold corpse Corse" (849n). 
+                            Bentley reads the deletion as "while his... Clay Cold Corpse Corse" (*Writings* volume 2, page 874).</note></l>
+                    <l n="bb196.1.ms.06.28" justify="left">the winds their Sad complainings bear, for. <choice><orig>Conrade</orig><reg>Comrade</reg></choice> lost
+                        <note>Erdman reads "the" as "The" and the comma after "bear" as a period (448).</note></l>
+                    <l n="bb196.1.ms.06.29" justify="left">untimely lost thy <choice><orig>Conrade</orig><reg>Comrade</reg></choice> once. When living thee I</l>
+                    <l n="bb196.1.ms.06.30" justify="left"><choice>
+                        <orig>lovd.</orig>
+                        <reg>loved.</reg>
+                    </choice>
+                        
+                        <choice>
+                            <orig>ev'n</orig>
+                            <reg>even</reg>
+                        </choice> unto Death now Dead.
+                        I'll guard thee from
+                        <note>Bentley omits the period after "lovd" (*Writings* volume 2, page 874). Erdman reads "I'll" as "Ill" (448).</note></l>
+                    <l n="bb196.1.ms.06.31" justify="left">approaching ill.
+                        <note>Bentley reads the period after "ill" as a comma (*Writings* volume 2, page 874).</note>
+                        farewell my time is gone,
+                        it Said</l>
+                    <l n="bb196.1.ms.06.32" justify="left" indent="20.5"><add type="insertion" place="supralinear">ever</add></l>
+                    <l n="bb196.1.ms.06.33" justify="left">no more. but vanished. from my Sight</l>
+                    <l n="bb196.1.ms.06.34" justify="left">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<add type="insertion" place="infralinear"><del type="overstrike">^</del></add>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb196.1.ms.07" dbi="BB196.1.7.MS">
+            <objtitle>
+                <title type="editorial">Appendix</title>
+                ,
+                <objid>
+                    <objnumber code="A7">Object 7 </objnumber>
+                    <objcode code="B7">(Bentley 7)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>19.0 cm. x 12.0 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote>
+                    <p>W. M. Rossetti, who acquired the manuscript around 1876, inserted slashes in red ink throughout the manuscript.</p>
+                    <p>Rossetti makes two notes in red ink at the bottom lefthand corner of this object. The first reads
+                        "N. B. The words at the head of this page shd. come in after the mark X on the 4th. page of the M.S". The second reads "The words 
+                        'And Shame bore Honour' to come in after the mark A on 4th. page."</p>
+                </objnote>
+              </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb196.1.ms.07.01" justify="left" indent="3.5">x She bring<subst><gap reason="cancellation" extent="1" unit="character"/><add type="overwrite" place="inline"><unclear resp="AE">s</unclear></add></subst> humility to man <unclear resp="MG">t</unclear>ake her She
+                        <note>Bentley (*Writings* volume 2, page 871) and Erdman (447) read "brings" with certainty.</note>
+                        <note>Lines 1-7 after the "X" on this Object are marked for insertion after the words "Sweet Contemplation" on Object 4 with a corresponding "X".</note>
+                        <note>There is an ambiguous mark above, and potentially connected to, the "t" of "take". Bentley (*Writings* volume 2, page 871) and Erdman (447) read "take" as "Take".</note></l>
+                    <l n="bb196.1.ms.07.02" justify="left">Says &#38; wear her in thine heart lord of <choice><orig>thy Self</orig><reg>thyself</reg></choice></l>
+                    <l n="bb196.1.ms.07.03" justify="left">thou then art lord of all, <del type="overstrike_pencil">humility, her</del><note>The phrase "humility, her Daughter," in lines 3 and 5 is partially outlined.</note><note>Bentley reads the comma after "all" as a period (*Writings* volume 2, page 871).</note></l>
+                    <l n="bb196.1.ms.07.04" justify="left" indent="23.5"><gap extent="1" reason="illegible" unit="character"/></l>
+                    <l n="bb196.1.ms.07.05" justify="left"><del type="overstrike_pencil">Daughter,</del> 
+                        <choice><orig> Tis</orig><reg>It is</reg></choice>
+                        Contemplation teacheth knowld<note>The last word in this line is presumably an abbreviation of "knowledge". Bentley (*Writings* volume 2, page 871) reads the word as "knowled[ge]" and Erdman (447) reads "knowledge" with certainty.</note></l>
+                    <l n="bb196.1.ms.07.06" justify="left">truly how to know- &#38;<hi rend="superscript">c</hi> &#38;<hi rend="superscript">c</hi></l>
+                    <l n="bb196.1.ms.07.07" justify="left" indent="8.5"><handShift medium="pencil"/><add type="insertion" place="interlinear">&#38; 
+                        Policy doth dwell w<hi rend="superscript">th</hi> her by whom sh<unclear resp="MG">e</unclear></add><note>Bentley (*Writings* volume 2, page 873n) and Erdman (448) read the abbreviated and superscripted "wth" as "with".</note></l>
+                    <l n="bb196.1.ms.07.08" justify="left" indent="2"><subst><gap reason="overwrite" extent="1" unit="character"/><add type="overwrite" place="inline">C</add></subst><hi rend="u">onceit </hi><subst><del type="overwrite">&#38;</del><add type="overwrite" place="inline" symbol="caret"><hi rend="subscript">^</hi></add></subst> Mistrust &#38; Suspition &#124;</l>
+                    <l n="bb196.1.ms.07.09" justify="left"><delSpan spanto="D4" rend="strikethrough"/>by. Shame She had a Son 
+                        <choice><orig>calld</orig><reg>called</reg></choice><note>Bentley omits the period after "by" (*Writings* volume 2, page 873n).</note></l>
+                    <l n="bb196.1.ms.07.10" justify="left"><choice><orig>Honour</orig><reg>Honor</reg></choice>, who bore Revenge,<note>Bentley omits the comma after "Honour" and reads the comma after "Revenge" as a period (*Writings* volume 2, page 873n).</note><anchor xml:id="D4"/> Then</l>
+                    <l n="bb196.1.ms.07.11" justify="left"><del type="overstrike_pencil">Self love,</del> bore a Daughter called<note>The words "Self love" are crossed through three times.</note><note>Bentley reads "called" as "Called" (*Writings* volume 2, page 873n).</note></l>
+                    <l n="bb196.1.ms.07.12" justify="left">Emulation. who. married, honour<note>Bentley omits the comma after "married" (*Writings* volume 2, page 873n).</note></l>
+                    <l n="bb196.1.ms.07.13" justify="left"><subst><gap reason="erasure" extent="5" unit="character"/><del type="erasure"></del><add type="overwrite" place="inline">these</add></subst> follow her around the World</l>
+                    <l n="bb196.1.ms.07.14" justify="left"><gap reason="erasure" extent="5" unit="character"/></l></lg>
+                <lg type="prose" justify="left">                    
+                    <l n="bb196.1.ms.07.15" justify="left" indent="2"><del type="overstrike">A</del><space extent="1"/><subst><del type="overwrite"><unclear resp="AE">then</unclear></del><add type="overwrite" place="inline">And</add></subst> Shame bore <choice><orig>honour</orig><reg>honor</reg></choice> &#38; made
+                        <note>"And" appears to be overwritten in ink.</note>
+                        <note>Lines 16-17 after the "A" on this Object are marked for insertion after the words "She brought forth Rage" with a corresponding "A" on Object 4. Bentley notes an additional possible reading based on the pencil mark connecting lines 9 and 16 (*Writings* volume 2, page 873n).</note></l>
+                    <l n="bb196.1.ms.07.16" justify="left" indent="1">league with Pride</l></lg>
+                <lg type="prose" justify="left">
+                    <l n="bb196.1.ms.07.17" justify="left" indent="4"><unclear resp="AE">s</unclear>wif<unclear resp="AE">t</unclear> as the Nightly Blast that Blights the Infant<note>Bentley (*Writings* volume 2, page 874) and Erdman (448) read the conjectural "swift" with certainty.</note></l>
+                    <l n="bb196.1.ms.07.18" justify="left" indent="40">Bud</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
