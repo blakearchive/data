@@ -885,7 +885,6 @@
         <desc id="bb196.1.ms.06" dbi="BB196.1.6.MS">
             <objtitle>
                 <title type="transcribed">Woe cried the muse</title>
-                ,
                 <objid>
                     <objnumber code="A6">Object 6</objnumber>
                     <objcode code="B6">(Bentley 6)</objcode>
@@ -894,7 +893,9 @@
             <physdesc>
                 <objsize>19.0 cm. x 12.0 cm.</objsize>
                 <windowsize width="500" height="615"/>
-                <objnote>There are a number of ink marks on the manuscript. Only those that obscure the text are noted.</objnote>
+                <objnote>
+                    <p>There are a number of ink marks on the manuscript. Only those that obscure the text are noted.</p>
+                </objnote>
             </physdesc>
             <phystext>
                 <lg type="prose" justify="left">
@@ -1039,7 +1040,6 @@
         <desc id="bb196.1.ms.07" dbi="BB196.1.7.MS">
             <objtitle>
                 <title type="editorial">Appendix</title>
-                ,
                 <objid>
                     <objnumber code="A7">Object 7 </objnumber>
                     <objcode code="B7">(Bentley 7)</objcode>
