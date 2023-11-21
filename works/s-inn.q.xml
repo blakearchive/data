@@ -1,4 +1,3 @@
-
 <bad id="s-inn.q" type="illbk" work="Songs of Innocence" copy="Q" copyid="Q" institution="syracuse" catalog="bentley" catid="Q" hidden="false">
     <header>
         <filedesc>
@@ -14,31 +13,34 @@
 <name>Robert Essick, </name>University of California, Riverside; and 
 <name>Joseph Viscomi</name>, University of North Carolina at Chapel
 Hill</principal>
-                <respstmt>
-                    <resp>Technical Editor: </resp>
-                    <name>Matthew Kirschenbaum</name>
-                    <resp>Programmer/Analysts: </resp>
-                    <name>David Cosca </name>and 
-<name>Robert Bingler</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Jessica Kem, Kari Kraus, Andrea Laue</name>
+                <respstmt>                   
                 </respstmt>
-                <sponsor>The Institute for Advanced Technology in the Humanities, the
-Library of Congress, and the University of North Carolina at Chapel Hill
-with a software grant from Inso Corporation and hardware and software
-grants from Sun Microsystems</sponsor>
-                <funder>The National Endowment for the Humanities, 2000-02</funder>
-                <funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder>
-                <funder>The Getty Grant Program, 1995-98</funder>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+                <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 283KB; 62 JPEG
-(ISO/IEC 10918) 
-files ranging in size from 46KB to 500KB</extent>
-            <publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH<date>August 1999</date>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 283KB; 56 JPEG (ISO/IEC 10918) files ranging in size from 250KB to 1500KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>December 2023</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+<updatestmt>
+The William Blake Archive is pleased to announce the publication of digital editions of Blake's <hi rend="i">Songs of Innocence</hi> Copy D from the Morgan Library and Museum, Copy O from the Harry Ransom Center, University of Texas, Copy Q from Syracuse University Library, and Copy S from the Cincinnati Art Museum. 
+<lb/>
+<lb/>
+Blake first published <hi rend="i">Innocence</hi> with thirty-one plates in 1789, the date on its title page. He appears to have printed twenty-three copies that year; three&#8212;possibly the first copies of Innocence printed&#8212;were in black ink on one side of the leaf, which remained uncolored (Copy U in the Archive is one of the three). Twenty were printed in green, yellow ochre, and raw sienna inks on both sides of octavo size leaves and finished in light watercolor washes. At least four of these were combined with copies of <hi rend="i">Songs of Experience</hi>, printed in 1794, to form <hi rend="i">Songs of Innocence and of Experience</hi> (Copies B-E). For these newly combined copies, Blake moved Plates 34–36 (“The Little Girl Lost” and “The Little Girl Found”) to <hi rend="i">Experience</hi>, leaving <hi rend="i">Innocence</hi> with twenty-eight plates. He moved Plates 53 (“The School Boy”) and 54 (“The Voice of the Ancient Bard”) to <hi rend="i">Experience</hi> after 1818.
+<lb/>
+<lb/>
+<hi rend="i">Innocence</hi> Copy D, printed in 1789 in yellow ochre (with four plates in light brown or raw sienna ink) on both sides of the leaves, has thirty-one plates and is finished in light washes. Copy O, printed c. 1802 in raw sienna ink on one side of the leaves, has twenty-six impressions finished in light washes, pen and ink outlining, and page numbers in the upper right corner of the designs. Plates 6 and 7 (“The Ecchoing Green”), numbered 5 and 6 in this copy, were extracted and are not extant. Copy Q, printed c. 1804 in light orangish yellow ochre ink on one side of the leaves, has twenty-eight plates and is finished in delicate washes, pen and ink outlining, and page numbers in pencil. The texts of Plates 17 and 19 (“A Cradle Song” and “Holy Thursday”) were lightly printed and entirely rewritten in pen and brown watercolor. Copy S, mostly printed c. 1811 in light black ink on one side of the leaves, has twenty-eight plates and is finished in light washes and pen and ink page numbers. Plate 2, the frontispiece printed in green ink, was added to Copy S between 1920 and 1922; Plates 3, 4, 12, and 27, printed in shades of brown ink, are also from earlier printings.
+<lb/>
+<lb/>
+Of these four copies of <hi rend="i">Innocence</hi>, only Copy D has ever been reproduced, by William Muir in a colored lithographic facsimile in 1885; the other copies have never been reproduced. With these copies, the Archive continues to realize its objective of publishing exemplary copies of each illuminated book from each of its printings and expanding the Blake canon by presenting works previously not available for study by the general public. 
+<lb/>
+<lb/>
+The Archive now contains fully searchable and scalable digital editions of 132 copies of Blake's nineteen illuminated books. Users may view color corrected digital images of Blake's works at their true size, and enlarge and rotate these images to examine texts and illustrations in detail. The images are accompanied by diplomatic transcriptions and editors' notes, as well as illustration descriptions that make it possible to search Blake's works for visual motifs. The Archive also provides full bibliographic and provenance information for each digital edition it publishes. 
+<lb/>
+<lb/>
+As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.
+</updatestmt>		
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2023</date> by Morris Eaves, Robert N. Essick, and Joseph
@@ -58,50 +60,129 @@ owners of the originals for this publication only.<lb/>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
-            <changestmt>
-                <change>Conversion to XML and Blake Archive Description DTD 2004</change>
-                <date>2004</date>
-                <respstmt>
-                    <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp>
-                    <name>Andrea Laue</name>
-                    <resp>Conversion: </resp>
-                    <name>Aziza Technology Associates</name>
-                    <resp>Project Manager: </resp>
-                    <name>Justin Van Kleeck</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Christopher N. Jackson, </name>
-                    <name>Kari Kraus, </name>
-                    <name>Wesley N. Raabe, </name>
-                    <name>Wayne C. Ripley, </name>
-                    <name>William Shaw</name>
-                </respstmt>
-            </changestmt>
-            <changestmt>
-                <change>Conversion to Blake Archive Description DTD 2.1; Styles 2.0</change>
-                <date>Summer 2000</date>
-                <respstmt>
-                    <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+<changestmt>
+<change>Final proofing, revisions, and publication</change>
+<date>November-December 2023</date>
+<respstmt>
+<resp>Editors: </resp>
+<name>Morris Eaves, </name>
+University of Rochester;
+<name>Robert Essick, </name>
+University of California, Riverside; and
+<name>Joseph Viscomi, </name>
+University of North Carolina at Chapel Hill
+<resp>Assistant Editor: </resp>
+<name>Michael Fox</name>
+<resp>Managing Editor: </resp>
+<name>Joseph Fletcher</name>
+<resp>Assistant Project Manager: </resp>
+<name>Grant Glass</name>
+<resp>Project Coordinator, University of Rochester: </resp>
+<name>Marcie Woehl</name>
+<resp>Consultants on Special Projects: </resp>
+<name>Ashley Reed, </name>
+<name>Josh Romphf</name>
+<resp>Bibliographer: </resp>
+<name>Chuck Ripley</name>
+<resp>Project Consultant: </resp>
+<name>Meaghan Green</name>
+<resp>Project Assistants: </resp>
+<name>Christopher Catanese, </name>
+<name>Dani Garcia, </name>
+<name>Liam Kusmierek, </name>
+<name>Mary Learner, </name>
+<name>Anna Mertz, </name>
+<name>Celeste Seifert, </name>
+<name>Elizabeth Shand, </name>
+<name>Kate Soules, </name>
+<name>Samantha Steiner, </name>
+<name>Gabby Tapia, </name>
+<name>Dominique Townsend, </name>
+<name>Alice Wynd</name>
+</respstmt>
+</changestmt>
+<changestmt>
+<change>BAD created, transcription established, and illustration markup written</change>
+<date>September 2017</date>
+<respstmt>
+<resp>Editors:</resp>
+<name>Morris Eaves,</name>
+University of Rochester;
+<name>Robert Essick,</name>
+University of California, Riverside; and
+<name>Joseph Viscomi,</name>
+University of North Carolina at Chapel Hill
+<resp>Technical Editor:</resp>
+<name>Michael Fox</name>
+<resp>Managing Editor:</resp>
+<name>Joseph Fletcher</name>
+<resp>Assistant Project Manager:</resp>
+<name>Grant Glass</name>
+<resp>Project Coordinator, University of Rochester:</resp>
+<name>Eric Loy</name>
+<resp>Consultants on Special Projects:</resp>
+<name>Ashley Reed</name>
+<name>Nikolaus Wasmoen</name>
+<name>Laura Whitebell</name>
+<resp>Bibliographer:</resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants:</resp>
+<name>Anna Alden,</name>
+<name>Katherine Calvin,</name>
+<name>Patrick Delehanty,</name>
+<name>Alison Harper,</name>
+<name>Jarrod Ingles,</name>
+<name>Rachael Isom,</name>
+<name>Joel Kingsley,</name>
+<name>Mary Learner,</name>
+<name>Rob Rich,</name>
+<name>Oishani Sengupta,</name>
+<name>Matthew Skwiat,</name>
+<name>Lisa Vandenbossche,</name>
+</respstmt>
+</changestmt>
+<changestmt>
+<change>Images acquired</change>
+<date>July 2015</date>
+<respstmt>
+<resp>Editors: </resp>
+<name>Morris Eaves, </name>
+University of Rochester;
+<name>Robert Essick, </name>
+University of California, Riverside; and
+<name>Joseph Viscomi, </name>
+University of North Carolina at Chapel Hill
 <resp>Technical Editor: </resp>
-                    <name>Matthew Kirschenbaum</name>
-                    <resp>Programmer/Analysts: </resp>
-                    <name>Robert Bingler, </name>
-                    <name>David Cosca, </name>
-                    <name>Kirk V. Hastings</name>
-                    <resp>Project Manager: </resp>
-                    <name>Andrea Laue</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Christopher N. Jackson, </name>
-                    <name>Kari Kraus, </name>
-                    <name>Wayne C. Ripley</name>
-                </respstmt>
-            </changestmt>
+<name>Michael Fox</name>
+<resp>Project Manager: </resp>
+<name>Joseph Fletcher</name>
+<resp>Project Coordinator, University of Rochester: </resp>
+<name>Laura Bell</name>
+<resp>Consultants on Special Projects: </resp>
+<name>Rachel Lee,</name>
+<name>Ashley Reed</name>
+<resp>Bibliographer:</resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants: </resp>
+<name>Katherine Calvin,</name>
+<name>Adam Engel,</name>
+<name>Andrea Everett,</name>
+<name>Jarrod Ingles,</name>
+<name>Rachael Isom,</name>
+<name>Shannon Jaime,</name>
+<name>Gabrielle Kiriloff,</name>
+<name>Mary Learner,</name>
+<name>Eric Loy,</name>
+<name>Adam McCune,</name>
+<name>Scott Robinson,</name>
+<name>Hardeep Sidhu,</name>
+<name>Margaret Speer,</name>
+<name>Lisa Vandenbossche,</name>
+<name>Nikolaus Wasmoen,</name>
+<name>Alia Wegner,</name>
+<name>Megan Wilson</name>
+</respstmt>
+</changestmt>		
         </revisiondesc>
     </header>
     <objdesc>
