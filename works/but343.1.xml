@@ -1,4 +1,4 @@
-<bad id="but343" type="paint" work="Eighteen Heads of Poets" copy="1" copyid="1" institution="manchester" catalog="butlin" catid="343" hidden="false">
+<bad id="but343.1" type="paint" work="Eighteen Heads of Poets" copy="1" copyid="1" institution="manchester" catalog="butlin" catid="343" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
@@ -147,7 +147,7 @@
                 <repositoryid label="Accession numbers">1885.19 (Object 1, Homer), 1885.17 (Object 2, Demosthenes), 1885.18 (Object 3, Cicero), 1885.16 (Object 4, Dante), 1885.4 (Object 5, Chaucer), 1885.14 (Object 6, Camoens), 1885.12 (Object 7, Ercilla),1885.15 (Object 8, Tasso), 1885.5 (Object 9, Spenser), 1885.2 (Object 10, Shakespeare), 1885.3 (Object 11, Milton), 1885.6 (Object 12, Dryden), 1885.7 (Object 13, Otway), 1885.8 (Object 14, Pope), 1885.13 (Object 15, Voltaire), 1885.10 (Object 16, Klopstock), 1885.9 (Object 17, Cowper), 1885.11 (Object 18, Thomas Alphonso Hayley)</repositoryid>
             </repository>
         </source>
-            <desc dbi="BUT343.1.1.PT.300" id="but343.1.1.PT.300">
+            <desc dbi="but343.1.pt.01" id="but343.1.1.PT">
                 <objtitle>
                     <title type="transcribed">Homer</title>
                     <objid>
@@ -422,12 +422,12 @@
             </desc>
     
     
-<desc dbi="BUT343.1.2.PT.300" id="but343.1.2.PT.300">
+<desc dbi="but343.1.pt.02" id="but343.1.2.PT">
     <objtitle>
         <title type="transcribed">Demosthenes</title>
         <objid>
-            <objnumber code="A1">Object 2 </objnumber>
-            <objcode code="U1">(Butlin 343.2)</objcode>
+            <objnumber code="A2">Object 2 </objnumber>
+            <objcode code="U2">(Butlin 343.2)</objcode>
         </objid>
     </objtitle>
     <physdesc desclevel="brief">
@@ -735,12 +735,12 @@
             </illustration>
         </illusdesc>
 </desc>
-<desc dbi="BUT343.1.3.PT.300" id="but343.1.3.PT.300">
+<desc dbi="but343.1.pt.03" id="but343.1.3.PT">
     <objtitle>
         <title type="transcribed">Cicero</title>
         <objid>
-            <objnumber code="A1">Object 3 </objnumber>
-            <objcode code="U1">(Butlin 343.3)</objcode>
+            <objnumber code="A3">Object 3 </objnumber>
+            <objcode code="U3">(Butlin 343.3)</objcode>
         </objid>
     </objtitle>
     <physdesc desclevel="brief">
@@ -1070,12 +1070,12 @@
                 </illustration>
             </illusdesc>
         </desc>
-<desc dbi="BUT343.1.4.PT.300" id="but343.1.4.PT.300">
+<desc dbi="but343.1.pt.04" id="but343.1.4.PT">
     <objtitle>
         <title type="transcribed">Dante</title>
         <objid>
-            <objnumber code="A1">Object 4 </objnumber>
-            <objcode code="U1">(Butlin 343.4)</objcode>
+            <objnumber code="A4">Object 4 </objnumber>
+            <objcode code="U4">(Butlin 343.4)</objcode>
         </objid>
     </objtitle>
     <physdesc desclevel="brief">
@@ -1390,7 +1390,7 @@
                 </illustration>
             </illusdesc>
         </desc>
-<desc id="but343.1.5.pt.300" dbi="BUT343.5.1.PT">
+<desc id="but343.1.pt.05" dbi="BUT343.1.5.PT">
     <objtitle>
         <title type="transcribed">Chaucer</title>
         ,
@@ -1533,12 +1533,12 @@
         </illustration>
     </illusdesc>
 </desc>
-    <desc dbi="BUT343.1.6.PT.300" id="but343.1.6.PT.300">
+    <desc dbi="but343.1.pt.06" id="but343.1.6.PT">
         <objtitle>
             <title type="transcribed">Camoens</title>
             <objid>
-                <objnumber code="A1">Object 6 </objnumber>
-                <objcode code="U1">(Butlin 343.6)</objcode>
+                <objnumber code="A6">Object 6 </objnumber>
+                <objcode code="U6">(Butlin 343.6)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -1675,12 +1675,12 @@
             </illusdesc>
     </desc>
   
-    <desc dbi="BUT343.1.7.PT.300" id="but343.1.7.PT.300">
+    <desc dbi="but343.1.pt.07" id="but343.1.7.PT">
         <objtitle>
             <title type="transcribed">Ercilla</title>
             <objid>
-                <objnumber code="A1">Object 7 </objnumber>
-                <objcode code="U1">(Butlin 343.7)</objcode>
+                <objnumber code="A7">Object 7 </objnumber>
+                <objcode code="U7">(Butlin 343.7)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -1818,12 +1818,12 @@
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="BUT343.1.8.PT.300" id="but343.1.8.PT.300">
+    <desc dbi="but343.1.pt.08" id="but343.1.8.PT">
         <objtitle>
             <title type="transcribed">Tasso</title>
             <objid>
-                <objnumber code="A1">Object 8 </objnumber>
-                <objcode code="U1">(Butlin 343.8)</objcode>
+                <objnumber code="A8">Object 8 </objnumber>
+                <objcode code="U8">(Butlin 343.8)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -2027,12 +2027,12 @@
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="BUT343.1.9.PT.300" id="but343.1.9.PT.300">
+    <desc dbi="but343.1.pt.09" id="but343.1.9.PT">
         <objtitle>
             <title type="transcribed">Spenser</title>
             <objid>
-                <objnumber code="A1">Object 9 </objnumber>
-                <objcode code="U1">(Butlin 343.9)</objcode>
+                <objnumber code="A9">Object 9 </objnumber>
+                <objcode code="U9">(Butlin 343.9)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -2405,12 +2405,12 @@
                 </illustration>
             </illusdesc>
         </desc>
-    <desc dbi="BUT343.1.10.PT.300" id="but343.1.10.PT.300">
+    <desc dbi="but343.1.pt.10" id="but343.1.10.PT">
         <objtitle>
             <title type="transcribed">Shakespeare</title>
             <objid>
-                <objnumber code="A1">Object 10 </objnumber>
-                <objcode code="U1">(Butlin 343.10)</objcode>
+                <objnumber code="A10">Object 10 </objnumber>
+                <objcode code="U10">(Butlin 343.10)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -2652,12 +2652,12 @@
             </illusdesc>
     </desc>
 
- <desc dbi="BUT343.1.11.PT.300" id="but343.1.11.PT.300">
+ <desc dbi="but343.1.pt.11" id="but343.1.11.PT">
         <objtitle>
             <title type="transcribed">Milton</title>
             <objid>
-                <objnumber code="A1">Object 11 </objnumber>
-                <objcode code="U1">(Butlin 343.11)</objcode>
+                <objnumber code="A11">Object 11 </objnumber>
+                <objcode code="U11">(Butlin 343.11)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -2818,12 +2818,12 @@
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="BUT343.1.12.PT.300" id="but343.1.12.PT.300">
+    <desc dbi="but343.1.pt.12" id="but343.1.12.PT">
         <objtitle>
             <title type="transcribed">Dryden</title>
             <objid>
-                <objnumber code="A1">Object 12 </objnumber>
-                <objcode code="U1">(Butlin 343.12)</objcode>
+                <objnumber code="A12">Object 12 </objnumber>
+                <objcode code="U12">(Butlin 343.12)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -3062,12 +3062,12 @@
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="BUT343.1.13.PT.300" id="but343.1.13.PT.300">
+    <desc dbi="but343.1.pt.13" id="but343.1.13.PT">
         <objtitle>
             <title type="transcribed">Otway</title>
             <objid>
-                <objnumber code="A1">Object 13 </objnumber>
-                <objcode code="U1">(Butlin 343.13)</objcode>
+                <objnumber code="A13">Object 13 </objnumber>
+                <objcode code="U13">(Butlin 343.13)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -3329,12 +3329,12 @@
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="BUT343.1.14.PT.300" id="but343.1.14.PT.300">
+    <desc dbi="but343.1.pt.14" id="but343.1.14.PT">
         <objtitle>
             <title type="transcribed">Pope</title>
             <objid>
-                <objnumber code="A1">Object 14 </objnumber>
-                <objcode code="U1">(Butlin 343.14)</objcode>
+                <objnumber code="A14">Object 14 </objnumber>
+                <objcode code="U14">(Butlin 343.14)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -3499,12 +3499,12 @@
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="BUT343.1.15.PT.300" id="but343.1.15.PT.300">
+    <desc dbi="but343.1.pt.15" id="but343.1.15.PT">
         <objtitle>
             <title type="transcribed">Voltaire</title>
             <objid>
-                <objnumber code="A1">Object 15 </objnumber>
-                <objcode code="U1">(Butlin 343.15)</objcode>
+                <objnumber code="A15">Object 15 </objnumber>
+                <objcode code="U15">(Butlin 343.15)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -3717,12 +3717,12 @@
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="BUT343.1.16.PT.300" id="but343.1.16.PT.300">
+    <desc dbi="but343.1.pt.16" id="but343.1.16.PT">
         <objtitle>
             <title type="transcribed">Klopstock</title>
             <objid>
-                <objnumber code="A1">Object 16 </objnumber>
-                <objcode code="U1">(Butlin 343.16)</objcode>
+                <objnumber code="A16">Object 16 </objnumber>
+                <objcode code="U16">(Butlin 343.16)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -3847,12 +3847,12 @@
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="BUT343.1.17.PT.300" id="but343.1.17.PT.300">
+    <desc dbi="but343.1.pt.17" id="but343.1.17.PT">
         <objtitle>
             <title type="transcribed">Cowper</title>
             <objid>
-                <objnumber code="A1">Object 17 </objnumber>
-                <objcode code="U1">(Butlin 343.17)</objcode>
+                <objnumber code="A17">Object 17 </objnumber>
+                <objcode code="U17">(Butlin 343.17)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
@@ -3970,12 +3970,12 @@
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="BUT343.1.18.PT.300" id="but343.1.18.PT.300">
+    <desc dbi="but343.1.pt.18" id="but343.1.18.PT">
         <objtitle>
             <title type="transcribed">Thomas Alphonso Hayley</title>
             <objid>
-                <objnumber code="A1">Object 18 </objnumber>
-                <objcode code="U1">(Butlin 343.18)</objcode>
+                <objnumber code="A18">Object 18 </objnumber>
+                <objcode code="U18">(Butlin 343.18)</objcode>
             </objid>
         </objtitle>
         <physdesc desclevel="brief">
