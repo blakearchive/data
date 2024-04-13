@@ -1,4 +1,4 @@
-<bad id="but343.1" type="paint" work="Eighteen Heads of Poets" copy="1" copyid="1" institution="manchester" catalog="butlin" catid="343" hidden="false">
+<bad dbi="but343.1" type="paint" work="Eighteen Heads of Poets" copy="1" copydbi="1" institution="manchester" catalog="butlin" catdbi="343" hidden="false">
     <header>
         <filedesc>
             <titlestmt>
@@ -179,7 +179,7 @@ University of North Carolina at Chapel Hill
                 <repositoryid label="Accession numbers">1885.19 (Object 1, Homer), 1885.17 (Object 2, Demosthenes), 1885.18 (Object 3, Cicero), 1885.16 (Object 4, Dante), 1885.4 (Object 5, Chaucer), 1885.14 (Object 6, Camoens), 1885.12 (Object 7, Ercilla),1885.15 (Object 8, Tasso), 1885.5 (Object 9, Spenser), 1885.2 (Object 10, Shakespeare), 1885.3 (Object 11, Milton), 1885.6 (Object 12, Dryden), 1885.7 (Object 13, Otway), 1885.8 (Object 14, Pope), 1885.13 (Object 15, Voltaire), 1885.10 (Object 16, Klopstock), 1885.9 (Object 17, Cowper), 1885.11 (Object 18, Thomas Alphonso Hayley)</repositoryid>
             </repository>
         </source>
-            <desc dbi="but343.1.pt.01" id="but343.1.1.PT">
+            <desc id="but343.1.pt.01" dbi="but343.1.1.PT">
                 <objtitle>
                     <title type="transcribed">Homer</title>
                     <objid>
@@ -454,7 +454,7 @@ University of North Carolina at Chapel Hill
             </desc>
     
     
-<desc dbi="but343.1.pt.02" id="but343.1.2.PT">
+<desc id="but343.1.pt.02" dbi="but343.1.2.PT">
     <objtitle>
         <title type="transcribed">Demosthenes</title>
         <objid>
@@ -767,7 +767,7 @@ University of North Carolina at Chapel Hill
             </illustration>
         </illusdesc>
 </desc>
-<desc dbi="but343.1.pt.03" id="but343.1.3.PT">
+<desc id="but343.1.pt.03" dbi="but343.1.3.PT">
     <objtitle>
         <title type="transcribed">Cicero</title>
         <objid>
@@ -1102,7 +1102,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
         </desc>
-<desc dbi="but343.1.pt.04" id="but343.1.4.PT">
+<desc id="but343.1.pt.04" dbi="but343.1.4.PT">
     <objtitle>
         <title type="transcribed">Dante</title>
         <objid>
@@ -1422,7 +1422,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
         </desc>
-<desc id="but343.1.pt.05" dbi="BUT343.1.5.PT">
+<desc dbi="but343.1.pt.05" id="BUT343.1.5.PT">
     <objtitle>
         <title type="transcribed">Chaucer</title>
         ,
@@ -1565,7 +1565,7 @@ University of North Carolina at Chapel Hill
         </illustration>
     </illusdesc>
 </desc>
-    <desc dbi="but343.1.pt.06" id="but343.1.6.PT">
+    <desc id="but343.1.pt.06" dbi="but343.1.6.PT">
         <objtitle>
             <title type="transcribed">Camoens</title>
             <objid>
@@ -1707,7 +1707,7 @@ University of North Carolina at Chapel Hill
             </illusdesc>
     </desc>
   
-    <desc dbi="but343.1.pt.07" id="but343.1.7.PT">
+    <desc id="but343.1.pt.07" dbi="but343.1.7.PT">
         <objtitle>
             <title type="transcribed">Ercilla</title>
             <objid>
@@ -1850,7 +1850,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="but343.1.pt.08" id="but343.1.8.PT">
+    <desc id="but343.1.pt.08" dbi="but343.1.8.PT">
         <objtitle>
             <title type="transcribed">Tasso</title>
             <objid>
@@ -2059,7 +2059,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="but343.1.pt.09" id="but343.1.9.PT">
+    <desc id="but343.1.pt.09" dbi="but343.1.9.PT">
         <objtitle>
             <title type="transcribed">Spenser</title>
             <objid>
@@ -2437,7 +2437,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
         </desc>
-    <desc dbi="but343.1.pt.10" id="but343.1.10.PT">
+    <desc id="but343.1.pt.10" dbi="but343.1.10.PT">
         <objtitle>
             <title type="transcribed">Shakespeare</title>
             <objid>
@@ -2684,7 +2684,7 @@ University of North Carolina at Chapel Hill
             </illusdesc>
     </desc>
 
- <desc dbi="but343.1.pt.11" id="but343.1.11.PT">
+ <desc id="but343.1.pt.11" dbi="but343.1.11.PT">
         <objtitle>
             <title type="transcribed">Milton</title>
             <objid>
@@ -2850,7 +2850,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="but343.1.pt.12" id="but343.1.12.PT">
+    <desc id="but343.1.pt.12" dbi="but343.1.12.PT">
         <objtitle>
             <title type="transcribed">Dryden</title>
             <objid>
@@ -3094,7 +3094,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="but343.1.pt.13" id="but343.1.13.PT">
+    <desc id="but343.1.pt.13" dbi="but343.1.13.PT">
         <objtitle>
             <title type="transcribed">Otway</title>
             <objid>
@@ -3361,7 +3361,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="but343.1.pt.14" id="but343.1.14.PT">
+    <desc id="but343.1.pt.14" dbi="but343.1.14.PT">
         <objtitle>
             <title type="transcribed">Pope</title>
             <objid>
@@ -3531,7 +3531,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="but343.1.pt.15" id="but343.1.15.PT">
+    <desc id="but343.1.pt.15" dbi="but343.1.15.PT">
         <objtitle>
             <title type="transcribed">Voltaire</title>
             <objid>
@@ -3749,7 +3749,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="but343.1.pt.16" id="but343.1.16.PT">
+    <desc id="but343.1.pt.16" dbi="but343.1.16.PT">
         <objtitle>
             <title type="transcribed">Klopstock</title>
             <objid>
@@ -3879,7 +3879,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="but343.1.pt.17" id="but343.1.17.PT">
+    <desc id="but343.1.pt.17" dbi="but343.1.17.PT">
         <objtitle>
             <title type="transcribed">Cowper</title>
             <objid>
@@ -4002,7 +4002,7 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
     </desc>
-    <desc dbi="but343.1.pt.18" id="but343.1.18.PT">
+    <desc id="but343.1.pt.18" dbi="but343.1.18.PT">
         <objtitle>
             <title type="transcribed">Thomas Alphonso Hayley</title>
             <objid>
