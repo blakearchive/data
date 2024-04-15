@@ -2070,7 +2070,7 @@ University of North Carolina at Chapel Hill
         <physdesc desclevel="brief">
             <objnote>
                 <p>
-                    The portrait of the English poet Edmund Spenser (c. 1552-99) is probably based on George Vertue’s engraving of 1727 among his series of “Twelve Celebrated English Poets.”  The medal hanging from Spenser’s collar, inscribed “Eliza[beth],” does not appear in the print and is presumably Blake’s addition.  The designs left and right of the portrait are probably allusions to Spenser’s poem, *The Shepherd’s Calendar*, particularly the April eclogue.  The aged figure holding a staff on the right may be Hobbinol from the poem; the crowned woman sitting far left may be Queen Elizabeth, described in the eclogue as “a mayden Queene” wearing a “cremosin coronet.”
+                    The portrait of the English poet Edmund Spenser (c. 1552-99) is probably based on George Vertue’s engraving of 1727 among his series of “Twelve Celebrated English Poets.”  The medal hanging from Spenser’s collar, inscribed “ELIZA[BETH],” does not appear in the print and is presumably Blake’s addition.  The designs left and right of the portrait are probably allusions to Spenser’s poem, *The Shepherd’s Calendar*, particularly the April eclogue.  The aged figure holding a staff on the right may be Hobbinol from the poem; the crowned woman sitting far left may be Queen Elizabeth, described in the eclogue as “a mayden Queene” wearing a “cremosin coronet.”
                 </p>
             </objnote>
             <objsize>42.0 x 84.0 cm.</objsize>
@@ -2439,7 +2439,10 @@ University of North Carolina at Chapel Hill
         <phystext>
                 <vspace extent="1"/>
                 <lg justify="left" type="prose">
-                    <l justify="center" n="but343.1.pt.09.01">ELIZA</l>
+                    <l justify="center" n="but343.1.pt.09.01"><choice>
+    <orig>ELIZA</orig>
+    <reg type="abbrev">ELIZABETH</reg>
+</choice></l>
                 </lg>
             </phystext>
         </desc>
