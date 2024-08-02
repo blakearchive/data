@@ -1,5 +1,4 @@
-<bad id="gates-child.a" type="illbk" work="For Children: The Gates of Paradise" copy="A" copyid="A"
-   institution="lc" catalog="bentley" catid="A">
+<bad id="gates-child.a" type="illbk" work="For Children: The Gates of Paradise" copy="A" copyid="A" institution="lc" catalog="bentley" catid="A">
    <header>
       <filedesc>
          <titlestmt>
@@ -8,36 +7,29 @@
             <principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
                   <name>Robert Essick, </name>University of California, Riverside; and <name>Joseph
                   Viscomi, </name>University of North Carolina at Chapel Hill</principal>
-            <respstmt><resp>Programmer/Analysts: </resp><name>David Cosca</name> and <name>Robert
-                  Bingler</name><resp>Project Manager: </resp><name>Matthew
-                  Kirschenbaum</name><resp>Project Assistants: </resp><name>Jessica Kem,
-                  </name><name>Kari Kraus, </name><name>Andrea Laue</name></respstmt>
-            <sponsor>The Institute for Advanced Technology in the Humanities, the Library of
-               Congress, and the University of North Carolina at Chapel Hill with a software grant
-               from Inso Corporation and hardware and software grants from Sun
-               Microsystems</sponsor>
-            <funder>National Endowment for the Humanities, 2000-02</funder>
-            <funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder>
-            <funder>Getty Grant Program, 1995-98</funder>
+            <respstmt/>
+            <sponsor>The University of North Carolina at Chapel Hill, the University of
+                    Rochester, and the Library of Congress</sponsor>
+            <funder/>
          </titlestmt>
-         <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-         <extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 105KB; 36 JPEG
-            (ISO/IEC 10918) files ranging in size from 11KB to 434KB.</extent>
-         <publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH. <date>June
-               1999</date><lb/><note>We have observed some optical distortion, including the
-               so-called <hi rend="i">moir</hi> effect, in the display of several images when viewed
-               through either the ImageSizer window or in the Inote Panner. These effects are not
-               present in the non-Java inline displays of the same images, nor in their
-               enlargements, nor in Inote itself. The distortion, we believe, is a product of the
-               geometric compression of the image by the ImageSizer and Panner. We anticipate
-               resolving this issue in the future, but we have elected to publish this edition as is
-               since the integrity of the image data is not at stake only its representation
-               according to some of the Archive's display mechanisms. Users who wish to verify the
-               accuracy of a given impression are advised to examine either its enlargement or the
-               non-Java inline version of the same image.</note></publicationstmt>
+         <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+         <extent>1 XML file approx. 200KB; 36 JPEG
+            (ISO/IEC 10918) files ranging in size from 500KB to 1800KB.</extent>
+         <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>August
+                    2024</date></publicationstmt>
          <seriesstmt>The William Blake Archive</seriesstmt>
-         
-         
+<updatestmt> 
+             The William Blake Archive is pleased to announce the publication of a digital edition of <hi rend="i">For Children: The Gates of Paradise</hi> Copy A, from the Rosenwald Collection, Library of Congress. In 1793, Blake etched and published <hi rend="i">For Children</hi>, an emblem book comprising eighteen small intaglio plates. Through a numbered series of designs with inscriptions ranging from single words to brief aphorisms, Blake puts the course of human life in psychological perspective. Some of the emblems form narrative sequences; others exemplify mental states and their reification in the external world. Though the first of five copies printed in 1793, Copy A is unique in that all of its 18 plates are in their first states, whereas the other copies printed in 1793, including Copy D, which is in the Archive, are in their second states.  
+<lb/>
+<lb/>
+Copy A is a proof copy, that is, it was printed to proof the designs and prepare them for the subsequent copies. It also joins <hi rend="i">For the Sexes: The Gates of Paradise</hi> Copies B, D, F, and K, already in the Archive. <hi rend="i">For the Sexes</hi> is the revised version of <hi rend="i">For Children</hi>, augmented with three new plates, 19, 20, and 21. Copy B was printed c. 1818 with all but one of its first 18 plates in their third state; Copy D was printed c. 1825 with all but two of its first 18 plates in their fourth state; Copy K was printed c. 1826–27 with nearly all the core plates in their fifth and final state; Copy F, with all plates in their final states, was one of four copies posthumously printed by Catherine Blake, c. 1828–29.
+<lb/>
+<lb/>
+With this publication of <hi rend="i">For Children: The Gates of Paradise</hi> Copy A, combined with our earlier publications of Copy D of <hi rend="i">For Children</hi> and four copies of <hi rend="i">For the Sexes</hi>, the Archive now presents all known states of all the plates Blake used for both works. Thus, the Archive enables students of Blake, using our compare feature (Objects from the Same Matrix) located below the image, to trace the evolution of every design from its first and second states in 1793 through Blake’s revisions in c. 1818, 1825, and c. 1826-27. The original plate numbers etched lower left corner below the designs were erased and repositioned in the plate’s second state, which included an imprint, “Publishd by WBlake 17 May 1793” or a variant thereof, sometimes including the name of Blake’s London neighborhood, “Lambeth.” The second state of Plate 2, the title plate, reads “Published by W Blake No 13 Hercules Buildings Lambeth and J. Johnson St. Pauls' Church Yard.” In Copy A the title page is a proof that bears fragments of an erased imprint that may refer to J. Dodsley as the publisher or co-publisher. There is no other evidence that either Johnson (a bookseller for whom Blake executed many engravings) or Dodsley actually participated in the publication of the book. Johnson, however, may have been involved in selling, or at least displaying copies, of the book, for in a letter of 25 Sept. 1794 to Francis Douce, Richard Twiss states that “Blakes Paradise…. You will see” along with “several more of Blakes books” at “Johnsons” (Bentley, <hi rend="i">Records</hi>, page 65).
+<lb/>
+<lb/>
+As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.   
+            </updatestmt>                  
          <notesstmt/>
       </filedesc>
       <userestrict>Copyright © <date>2024</date> by Morris Eaves, Robert N. Essick, and Joseph
@@ -50,29 +42,97 @@
       <encodingdesc/>
       <profiledesc/>
       <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>August 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Geisert, </name>
+                    <name>HaiLee Hearburg, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+                     <changestmt>
+                <change>BAD created</change>
+                <date>May 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Geisert, </name>
+                    <name>HaiLee Hearburg, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
          <changestmt>
-            <change>Conversion to Blake Archive Description DTD 2.1; Styles 2.0</change>
-            <date>Summer 2000</date>
-            <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                  <name>Robert Essick, </name>University of California, Riverside; and <name>Joseph
-                  Viscomi, </name>University of North Carolina at Chapel Hill <resp>Technical
-                  Editor: </resp><name>Matthew Kirschenbaum</name><resp>Programmer/Analysts:
-                  </resp><name>Robert Bingler, </name><name>David Cosca, </name><name>Kirk V.
-                  Hastings</name><resp>Project Manager: </resp><name>Andrea Laue</name><resp>Project
-                  Assistants: </resp><name>Christopher N. Jackson, </name><name>Kari Kraus,
-                  </name><name>Wayne C. Ripley</name></respstmt>
-         </changestmt>
-         <changestmt>
-            <change>Conversion to XML and Blake Archive Description DTD 2004</change>
-            <date>2004</date>
-            <respstmt><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
-                  <name>Robert Essick, </name>University of California, Riverside; and <name>Joseph
-                  Viscomi, </name>University of North Carolina at Chapel Hill <resp>Technical
-                  Editor: </resp><name>Andrea Laue</name><resp>Conversion: </resp><name>Aziza
-                  Technology Associates</name><resp>Project Manager: </resp><name>Justin Van
-                  Kleeck</name><resp>Project Assistants: </resp><name>Christopher N. Jackson,
-                  </name><name>Kari Kraus, </name><name>Wesley N. Raabe, </name><name>Wayne C.
-                  Ripley, </name><name>William Shaw</name></respstmt>
+            <change>Images acquired and catalogued</change>
+            <date>1997</date>
+            <respstmt><resp>Editors: </resp>
+<name>Morris Eaves, </name>
+University of Rochester;
+<name>Robert Essick, </name>
+University of California, Riverside; and
+<name>Joseph Viscomi, </name>
+University of North Carolina at Chapel Hill
+<resp>Programmer/Analysts: </resp>
+<name>David Cosca </name>
+and
+<name>Robert Bingler</name>
+<resp>Project Manager: </resp>
+<name>Matthew Kirschenbaum</name>
+<resp>Project Assistant: </resp>
+<name>Greg Murray</name>
+</respstmt>
          </changestmt>
       </revisiondesc>
    </header>
@@ -197,7 +257,7 @@
                   </objcode><objcode code="Eii">Erdman ii, </objcode><objcode code="Kii">Keynes
                   ii)</objcode></objid></objtitle>
          <physdesc desclevel="brief">
-            <objnote><p>The abraded condition of the paper below "Paradise" and above the ruled line, as well as the ghostly and fragmentary printing of an inscription beginning with the letter "P" and ending with the letters "ey", indicate that text was erased from this impression.  The inscription must have also been removed from the copperplate because no such inscription appears in the next (second) state of the plate.  See Bentley page 188 for further comments on this erasure.</p></objnote>
+            <objnote><p>The abraded condition of the paper below "Paradise" and above the ruled line, as well as the ghostly and fragmentary printing of an inscription beginning with the letter "P" and ending with the letters "ey", indicate that text was erased from this impression. The inscription must have also been removed from the copperplate because no such inscription appears in the next (second) state of the plate. Bentley, *Writings*, volume 1, page 165, suggests that the deleted inscription might be a reference to the publisher James Dodsley: “P[ublishd by J. Dodsl]ey.” There is, however, no other evidence that Dodsley was involved in the publication or sale of *For Children*.</p></objnote>
             <objsize>6.8 x 4.2 cm.</objsize>
             <windowsize width="489" height="328"/>
          </physdesc>
