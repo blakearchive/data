@@ -37,7 +37,7 @@ As always, the William Blake Archive is a free site, imposing no access restrict
          Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
          in any medium, requires express written consent from the editors and advance notification
          of the publisher. Permission to reproduce the graphic images in this archive has been
-         granted by the owners of the originals for this publication only.<lb/><lb/>This work
+         granted by the owners of the originals for this publication only.<lb/><lb/> This work
          copyright © 2024 William Blake Archive.</userestrict>
       <encodingdesc/>
       <profiledesc/>
@@ -47,35 +47,36 @@ As always, the William Blake Archive is a free site, imposing no access restrict
                 <date>August 2024</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Robert Essick, </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
-                    University of North Carolina at Chapel Hill <resp>Assistant Editor: </resp>
-                    <name>Michael Fox</name>
-                    <resp>Managing Editor: </resp>
-                    <name>Joseph Fletcher</name>
-                    <resp>Assistant Project Manager: </resp>
-                    <name>Grant Glass</name>
-                    <resp>Project Coordinator, University of Rochester: </resp>
-                    <name>Marcie Woehl</name>
-                    <resp>Consultants on Special Projects: </resp>
-                    <name>Ashley Reed, </name>
-                    <name>Josh Romphf</name>
-                    <resp>Bibliographer: </resp>
-                    <name>Chuck Ripley</name>
-                    <resp>Project Consultant: </resp>
-                    <name>Meaghan Green</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Christopher Catanese, </name>
-                    <name>Dani Garcia, </name>
-                    <name>Mary Geisert, </name>
-                    <name>HaiLee Hearburg, </name>
-                    <name>Liam Kusmierek, </name>
-                    <name>Mary Learner, </name>
-                    <name>Anna Mertz, </name>
-                    <name>Celeste Seifert, </name>
-                    <name>Elizabeth Shand, </name>
-                    <name>Kate Soules, </name>
-                    <name>Dominique Townsend, </name>
-                    <name>Alice Wynd</name>
+    <name>Robert Essick, </name>
+    University of California, Riverside; and
+    <name>Joseph Viscomi, </name>
+    University of North Carolina at Chapel Hill
+    <resp>Assistant Editor: </resp>
+    <name>Michael Fox</name>
+    <resp>Assistant Editor: </resp>
+    <name>Joseph Fletcher</name>
+    <resp>Project Manager: </resp>
+    <name>Grant Glass</name>
+    <resp>Project Coordinator, University of Rochester: </resp>
+    <name>Marcie Woehl</name>
+    <resp>Consultants on Special Projects: </resp>
+    <name>Josh Romphf</name>
+    <resp>Bibliographer: </resp>
+    <name>Chuck Ripley</name>
+    <resp>Project Consultant: </resp>
+    <name>Meaghan Green</name>
+    <resp>Project Assistants: </resp>
+    <name>Emily English, </name>
+    <name>Tim Gress, </name>
+    <name>Mary Learner, </name>
+    <name>Anna Mertz, </name>
+    <name>Celeste Seifert, </name>
+    <name>Elizabeth Shand, </name>
+    <name>Kate Soules, </name>
+    <name>Samantha Steiner, </name>
+    <name>Gabby Tapia, </name>
+    <name>Dominique Townsend, </name>
+    <name>Alice Wynd</name>
                 </respstmt>
             </changestmt>
                      <changestmt>
@@ -758,7 +759,7 @@ and
                <l n="gates-child.a.illbk.08.02" justify="left" indent="11">he breaks the shell</l>
             </lg>
             <lg type="prose" justify="left">
-               <l n="gates-child.a.illbk.08.03" justify="left">“<physnumber type="etched"
+               <l n="gates-child.a.illbk.08.03" justify="left"><physnumber type="etched"
                   >6</physnumber>
                </l>
             </lg>
@@ -1692,17 +1693,17 @@ and
             </illustration>
          </illusdesc>
          <phystext>
-            <vspace extent="8"/>
-            <lg type="prose" justify="center">
-               <l n="gates-child.a.illbk.16.01" justify="center" indent="3">The Traveller hasteth in
-                  the</l>
-               <l n="gates-child.a.illbk.16.02" justify="center">Evening</l>           
-            </lg>
-            <vspace extent="1"/>
-            <l n="gates-child.a.illbk.16.03" justify="left">
-               <physnumber type="etched">14</physnumber>
-            </l>
-         </phystext>
+    <vspace extent="8"/>
+    <lg type="prose" justify="center">
+        <l n="gates-child.a.illbk.16.01" justify="center" indent="3">The Traveller hasteth in the</l>
+        <l n="gates-child.a.illbk.16.02" justify="center">Evening</l>
+    </lg>
+    <vspace extent="1"/>
+    <lg>
+        <l n="gates-child.a.illbk.16.03" justify="left">
+            <physnumber type="etched">14</physnumber></l>
+    </lg>
+</phystext>
       </desc>
       <desc id="gates-child.a.illbk.17" dbi="gates-child.A.P17">
          <objtitle>, <objid><objnumber code="A17">Object 17 </objnumber><objcode code="B17">(Bentley
