@@ -1,0 +1,1877 @@
+<bad id="gates-child.a" type="illbk" work="For Children: The Gates of Paradise" copy="A" copyid="A" institution="lc" catalog="bentley" catid="A">
+   <header>
+      <filedesc>
+         <titlestmt>
+            <title reg="For Children: The Gates of Paradise"><main>For Children: The Gates of
+                  Paradise</main><copy> Copy A</copy> : electronic edition </title>
+            <principal><resp>Editors: </resp><name>Morris Eaves, </name>University of Rochester;
+                  <name>Robert Essick, </name>University of California, Riverside; and <name>Joseph
+                  Viscomi, </name>University of North Carolina at Chapel Hill</principal>
+            <respstmt/>
+            <sponsor>The University of North Carolina at Chapel Hill, the University of
+                    Rochester, and the Library of Congress</sponsor>
+            <funder/>
+         </titlestmt>
+         <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+         <extent>1 XML file approx. 200KB; 36 JPEG
+            (ISO/IEC 10918) files ranging in size from 500KB to 1800KB.</extent>
+         <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>August
+                    2024</date></publicationstmt>
+         <seriesstmt>The William Blake Archive</seriesstmt>
+<updatestmt> 
+             The William Blake Archive is pleased to announce the publication of a digital edition of <hi rend="i">For Children: The Gates of Paradise</hi> Copy A, from the Rosenwald Collection, Library of Congress. In 1793, Blake etched and published <hi rend="i">For Children</hi>, an emblem book comprising eighteen small intaglio plates. Through a numbered series of designs with inscriptions ranging from single words to brief aphorisms, Blake puts the course of human life in psychological perspective. Some of the emblems form narrative sequences; others exemplify mental states and their reification in the external world. Though the first of five copies printed in 1793, Copy A is unique in that all of its 18 plates are in their first states, whereas the other copies printed in 1793, including Copy D, which is in the Archive, are in their second states.  
+<lb/>
+<lb/>
+Copy A is a proof copy, that is, it was printed to proof the designs and prepare them for the subsequent copies. It also joins <hi rend="i">For the Sexes: The Gates of Paradise</hi> Copies B, D, F, and K, already in the Archive. <hi rend="i">For the Sexes</hi> is the revised version of <hi rend="i">For Children</hi>, augmented with three new plates, 19, 20, and 21. Copy B was printed c. 1818 with all but one of its first 18 plates in their third state; Copy D was printed c. 1825 with all but two of its first 18 plates in their fourth state; Copy K was printed c. 1826–27 with nearly all the core plates in their fifth and final state; Copy F, with all plates in their final states, was one of four copies posthumously printed by Catherine Blake, c. 1828–29.
+<lb/>
+<lb/>
+With this publication of <hi rend="i">For Children: The Gates of Paradise</hi> Copy A, combined with our earlier publications of Copy D of <hi rend="i">For Children</hi> and four copies of <hi rend="i">For the Sexes</hi>, the Archive now presents all known states of all the plates Blake used for both works. Thus, the Archive enables students of Blake, using our compare feature (Objects from the Same Matrix) located below the image, to trace the evolution of every design from its first and second states in 1793 through Blake’s revisions in c. 1818, 1825, and c. 1826-27. The original plate numbers etched lower left corner below the designs were erased and repositioned in the plate’s second state, which included an imprint, “Publishd by WBlake 17 May 1793” or a variant thereof, sometimes including the name of Blake’s London neighborhood, “Lambeth.” The second state of Plate 2, the title plate, reads “Published by W Blake No 13 Hercules Buildings Lambeth and J. Johnson St. Pauls' Church Yard.” In Copy A the title page is a proof that bears fragments of an erased imprint that may refer to J. Dodsley as the publisher or co-publisher. There is no other evidence that either Johnson (a bookseller for whom Blake executed many engravings) or Dodsley actually participated in the publication of the book. Johnson, however, may have been involved in selling, or at least displaying copies, of the book, for in a letter of 25 Sept. 1794 to Francis Douce, Richard Twiss states that “Blakes Paradise…. You will see” along with “several more of Blakes books” at “Johnsons” (Bentley, <hi rend="i">Records</hi>, page 65).
+<lb/>
+<lb/>
+As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.   
+            </updatestmt>                  
+         <notesstmt/>
+      </filedesc>
+      <userestrict>Copyright © <date>2024</date> by Morris Eaves, Robert N. Essick, and Joseph
+         Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+         Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms,
+         in any medium, requires express written consent from the editors and advance notification
+         of the publisher. Permission to reproduce the graphic images in this archive has been
+         granted by the owners of the originals for this publication only.<lb/><lb/> This work
+         copyright © 2024 William Blake Archive.</userestrict>
+      <encodingdesc/>
+      <profiledesc/>
+      <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>August 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+    <name>Robert Essick, </name>
+    University of California, Riverside; and
+    <name>Joseph Viscomi, </name>
+    University of North Carolina at Chapel Hill
+    <resp>Assistant Editor: </resp>
+    <name>Michael Fox</name>
+    <resp>Assistant Editor: </resp>
+    <name>Joseph Fletcher</name>
+    <resp>Project Manager: </resp>
+    <name>Grant Glass</name>
+    <resp>Project Coordinator, University of Rochester: </resp>
+    <name>Marcie Woehl</name>
+    <resp>Consultants on Special Projects: </resp>
+    <name>Josh Romphf</name>
+    <resp>Bibliographer: </resp>
+    <name>Chuck Ripley</name>
+    <resp>Project Consultant: </resp>
+    <name>Meaghan Green</name>
+    <resp>Project Assistants: </resp>
+    <name>Emily English, </name>
+    <name>Tim Gress, </name>
+    <name>Mary Learner, </name>
+    <name>Anna Mertz, </name>
+    <name>Celeste Seifert, </name>
+    <name>Elizabeth Shand, </name>
+    <name>Kate Soules, </name>
+    <name>Samantha Steiner, </name>
+    <name>Gabby Tapia, </name>
+    <name>Dominique Townsend, </name>
+    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+                     <changestmt>
+                <change>BAD created</change>
+                <date>May 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                        <name>Emily English, </name>
+    <name>Tim Gress, </name>
+    <name>Mary Learner, </name>
+    <name>Anna Mertz, </name>
+    <name>Celeste Seifert, </name>
+    <name>Elizabeth Shand, </name>
+    <name>Kate Soules, </name>
+    <name>Samantha Steiner, </name>
+    <name>Gabby Tapia, </name>
+    <name>Dominique Townsend, </name>
+    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+         <changestmt>
+            <change>Images acquired and catalogued</change>
+            <date>1997</date>
+            <respstmt><resp>Editors: </resp>
+<name>Morris Eaves, </name>
+University of Rochester;
+<name>Robert Essick, </name>
+University of California, Riverside; and
+<name>Joseph Viscomi, </name>
+University of North Carolina at Chapel Hill
+<resp>Programmer/Analysts: </resp>
+<name>David Cosca </name>
+and
+<name>Robert Bingler</name>
+<resp>Project Manager: </resp>
+<name>Matthew Kirschenbaum</name>
+<resp>Project Assistant: </resp>
+<name>Greg Murray</name>
+</respstmt>
+         </changestmt>
+      </revisiondesc>
+   </header>
+   <objdesc>
+      <source>
+         <objdescid>
+            <objtitle>
+               <title>For Children: The Gates of Paradise</title>
+            </objtitle>
+            <origination>William Blake<role>author, </role><role>inventor, </role><role>delineator,
+                  </role><role>etcher, </role><role>printer</role></origination>
+            <origination>Catherine Blake<role>printer</role></origination>
+            <imprint>
+               <publisher>William Blake and Joseph Johnson <note>There is no imprint in the first state impression of Object 2, the title page, in Copy A.  Johnson's name appears in the
+                     imprint on Object 2, the title page, in its second state, but the extent of his involvement in the publication of the work is not known. He may have been involved in the selling, or at least displaying copies, of the book, for in a letter of 25 Sept. 1794 to Francis Douce, Richard Twiss states that “Blakes Paradise…. You will see” along with “several more of Blakes books” at “Johnsons” (Bentley, *Records*, page 65).</note></publisher>
+               <pubplace>Lambeth <note>The London suburb of "Lambeth" is recorded as the place of
+                     publication on Objects 2, 6, 9, 10, 13, 14, 16, and 17 in their second states. Object 2, the title page, in its second state also gives Joseph Johnson's London address.</note></pubplace>
+               <date>1793<note>The date does not appear in Copy A but was added to Object 2, the title page, in its second state.  The imprints on other plates in their second states include the date "17 May 1793".  There is no imprint on Object 15 (Bentley Plate 15) in its second state.</note></date>
+            </imprint>
+            <compdate value="1793.A">1793<note>The work is based on designs Blake drew in his
+                  Notebook; some of these sketches may have been executed c.
+               1790-92.</note></compdate>
+         </objdescid>
+         <objinfo>
+            <printdate value="1793.A">1793</printdate>
+            <numberobj>18</numberobj>
+            <objorder>Bentley Plates 1-18 <note>Object 1, the frontispiece, is bound facing Object
+                  2, the title page.</note></objorder>
+            <objsize>Platemarks range in size between 9.4 x 7.4 cm. and 6.1 x 4.2 cm.</objsize>
+            <numberleaves>18</numberleaves>
+            <leafsize>13.9 x 9.6 cm.</leafsize>
+            <medium>intaglio etching/engraving<note>All plates are in their first state.  Copy A can be considered a proof or pre-publication copy because of the absence of the imprints added to all but Object 15 (Bentley Plate 15) in their second states. There are
+                  five states of Objects 1-10, 13-18 (Bentley Plates 1-10, 13-18), three states of
+                  Object 11 (Bentley Plate 11), and four states of Object 12 (Bentley Plate 12). The
+                  first two states appear in copies of *For Children: The Gates of Paradise* and
+                  states three through five in copies of *For the Sexes: The Gates of Paradise*. The
+                  only recorded copy with the plates in their first states is Copy A of *For Children*. See Bentley pages 187-91 for brief descriptions of the differences between the first and second states. Blake added three plates, Bentley Plates 19-21, when he transformed *For Children* into *For the Sexes* c. 1818.</note></medium>
+            <printingstyle>intaglio</printingstyle>
+            <inkcolor>black</inkcolor>
+            <support>wove paper</support>
+            <watermark>MAFRINS<note>This (probably fragmentary) watermark appears only on Objects 13 and 15.  Bentley page 186, note 2, states that the watermark is "almost illegible" and that Object 2, the title page, in Copy A is "on clearly different paper" from the other objects.</note></watermark>
+            <etchednumbers>1 lower left on Object 1; 2-16 lower left on Objects 4-18</etchednumbers>
+            <pennednumbers>none</pennednumbers>
+            <framelines>none</framelines>
+            <binding>red morocco<note>Bentley page 191 notes that the binding probably dates from c. 1805.</note></binding>
+            <stabholes>Originally stabbed through three holes, 3.2 cm. from the top edge of the leaves and 3.9 cm. and 3.8 cm. apart.</stabholes>
+         </objinfo>
+         <provenance n="1">
+            <name>Library of Congress</name>
+            <date>1945</date>
+            <dealer>none</dealer>
+            <price>gift</price>
+            <note>Acquired by Rebekah Bliss, probably directly from Blake no later than c. 1805; sold from her collection, Saunders and Hodgson auction, London, 26 April 1826, lot 10 (8s.); P. A. Hanrott, sold from his collection, Evans auction, London, 26 April 1833, lot 894 (&#163;1.16s. to "Thorpe," probably a dealer possibly acting for "Clarke," also probably a dealer); William Beckford, sold from his collection Sotheby's, 4 July 1882, lot 953 (&#163;16 to the dealer James Bain); acquired by Bernard Buchanan Macgeorge, possibly at the 1882 Beckford auction but no later than 1892; sold from the Macgeorge collection, Sotheby's, 1 July 1924, lot 112 (&#163;174 to the dealer Maggs Bros.); offered by Maggs, 1924 catalogue 456, item 55 (&#163;275); W. E. Moss by no later than 1927; sold from his collection, Sotheby's, 2 March 1937, lot 176 (&#163;460 to the dealer A. S. W. Rosenbach, probably acting for Lessing J. Rosenwald); given by Rosenwald to the Library of Congress in 1945.</note>
+         </provenance>
+         <repository>
+            <institution>Library of Congress</institution>
+            <department>Rare Book and Special Collections</department>
+            <collection>Lessing J. Rosenwald Collection</collection>
+            <repositoryid label="Call number">PR4144.F6 1793a</repositoryid>
+            <repositoryid label="Catalog number">1813A</repositoryid>
+         </repository>
+      </source>
+      <desc id="gates-child.a.illbk.01" dbi="gates-child.A.P1">
+         <objtitle>, <objid><objnumber code="A1">Object 1 </objnumber><objcode code="B1">(Bentley 1,
+                  </objcode><objcode code="Ei">Erdman i, </objcode><objcode code="Ki">Keynes
+                  i)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>9.4 x 6.3 cm.</objsize>
+            <windowsize height="489" width="328"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>We see two large leaves, perhaps oak leaves, growing from a branch. The
+                  veins on the lower leaf are particularly prominent. The upper leaf bears a large
+                  caterpillar which may be eating the edge of the leaf. The lower leaf cradles an
+                  infant or at least the head of an infant with closed eyes whose body suggests both
+                  swaddling bands and a chrysalis. There are slight indications of curly hair on the
+                  infant's head.</illusobjdesc>
+               <component type="vegetation" location="E">
+                  <characteristic>leaf</characteristic>
+                  <characteristic>oak</characteristic>
+                  <characteristic>branch</characteristic>
+                  <characteristic>veins</characteristic>
+                  <illusobjdesc>We see two large leaves, perhaps oak leaves, growing from a branch.
+                     The veins on the lower leaf are particularly prominent.</illusobjdesc>
+               </component>
+               <component type="animal" location="AB">
+                  <characteristic>caterpillar</characteristic>
+                  <characteristic>eating</characteristic>
+                  <illusobjdesc>A large caterpillar rests on the edge of, and may be eating, a
+                     leaf.</illusobjdesc>
+               </component>
+               <component type="figure" location="CD">
+                  <characteristic>infant</characteristic>
+                  <characteristic>swaddled</characteristic>
+                  <characteristic>chrysalis</characteristic>
+                  <characteristic>bound</characteristic>
+                  <characteristic>eyes closed</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>head</characteristic>
+                  <illusobjdesc>A leaf cradles an infant—or at least the head of an infant with
+                     closed eyes—whose body suggests both swaddling bands and a chrysalis. There are
+                     slight indications of curly hair on the infant's head.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.01.01" justify="center">What is Man!</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.01.02" justify="left"><physnumber type="etched"
+                  >1</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.02" dbi="gates-child.A.P2">
+         <objtitle><title type="transcribed">For Children The Gates of Paradise</title>,
+                  <objid><objnumber code="A2">Object 2 </objnumber><objcode code="B2">(Bentley 2,
+                  </objcode><objcode code="Eii">Erdman ii, </objcode><objcode code="Kii">Keynes
+                  ii)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objnote><p>The abraded condition of the paper below "Paradise" and above the ruled line, as well as the ghostly and fragmentary printing of an inscription beginning with the letter "P" and ending with the letters "ey", indicate that text was erased from this impression. The inscription must have also been removed from the copperplate because no such inscription appears in the next (second) state of the plate. Bentley, *Writings*, volume 1, page 165, suggests that the deleted inscription might be a reference to the publisher James Dodsley: “P[ublishd by J. Dodsl]ey.” There is, however, no other evidence that Dodsley was involved in the publication or sale of *For Children*.</p></objnote>
+            <objsize>6.8 x 4.2 cm.</objsize>
+            <windowsize width="489" height="328"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="interlinear" location="AB">
+               <illusobjdesc>A figure hovers in the air with arms extended horizontally. We
+                  apparently see this figure from behind, at least in part. The figure may be facing
+                  right. A few lines near the feet and legs suggest the hem of a
+                  gown.</illusobjdesc>
+               <component type="figure" location="AB">
+                  <characteristic>hovering</characteristic>
+                  <characteristic>arms raised horizontally</characteristic>
+                  <characteristic>gown</characteristic>
+                  <characteristic>hem</characteristic>
+                  <characteristic>seen from behind</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <illusobjdesc>A figure hovers in the air with arms extended horizontally. We
+                     apparently see this figure from behind, at least in part. The figure may be
+                     facing right. A few lines near the feet and legs suggest the hem of a
+                     gown.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <texthead justify="center">
+               <l n="gates-child.a.illbk.02.01" justify="center">For Children</l>
+            </texthead>
+            <vspace extent="1"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.02.02" justify="center">The</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.02.03" justify="center">Gates</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.02.04" justify="center">of</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.02.05" justify="center">Paradise</l>
+            </lg>  
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.03" dbi="gates-child.A.P3">
+         <objtitle>, <objid><objnumber code="A3">Object 3 </objnumber><objcode code="B3">(Bentley 3,
+                  </objcode><objcode code="E1">Erdman 1, </objcode><objcode code="K1">Keynes
+                  1)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objnote><p>A few very light lines lower left look like the number 17, but we suspect that these are just accidental scratches on the copperplate.</p></objnote>
+            <objsize>7.8 x 6.4 cm.</objsize>
+            <windowsize height="406" width="333"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>A large tree grows up the left margin, with branches arching toward the
+                  left in the top third of the image. Its long, dangling branches and/or leaves
+                  suggest it may be a willow. A few small plants with large leaves cover the ground
+                  below the trunk. To the right, below the tree's largest branch, is a gowned woman
+                  striding to the left with legs spread apart. Her hair is drawn into a bun on the
+                  back of her head. Her left arm is bent at the elbow and she holds in her left hand
+                  two small children or infants. We see only one child's head and the right eye and
+                  cheek of the other; a part of the woman's gown, or a separate blanket, covers the
+                  children's bodies. The woman, perhaps the children's mother or a nurse, leans over
+                  and faces down. She reaches down with her right arm and hand and appears to be
+                  pulling a third child or infant out of the earth. We see this child only from the
+                  chest up; his or her hair stands on end. The position of the child suggests that
+                  it is the anthropomorphic form of a vegetable, perhaps a mandrake, traditionally
+                  thought to be shaped like a human body. Perhaps the woman has "harvested" the
+                  other two children, held in her left arm, in a similar fashion. A few clouds fill
+                  the sky behind the tree's limbs and leaves.</illusobjdesc>
+               <component type="vegetation" location="E">
+                  <characteristic>tree</characteristic>
+                  <characteristic>trunk</characteristic>
+                  <characteristic>branch</characteristic>
+                  <characteristic>arching</characteristic>
+                  <characteristic>leaf</characteristic>
+                  <characteristic>willow</characteristic>
+                  <illusobjdesc>A large tree grows up the left margin, with branches arching toward
+                     the left in the top third of the image. Its long, dangling branches and/or
+                     leaves suggest it may be a willow.</illusobjdesc>
+               </component>
+               <component type="vegetation" location="C">
+                  <characteristic>plant</characteristic>
+                  <characteristic>leaf</characteristic>
+                  <illusobjdesc>A few small plants with large leaves cover the ground below the
+                     trunk of the tree.</illusobjdesc>
+               </component>
+               <component type="object" location="AB">
+                  <characteristic>cloud</characteristic>
+                  <illusobjdesc>A few clouds fill the sky behind the tree's limbs and
+                     leaves.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>female</characteristic>
+                  <characteristic>gown</characteristic>
+                  <characteristic>mother</characteristic>
+                  <characteristic>nurse</characteristic>
+                  <characteristic>bun</characteristic>
+                  <characteristic>striding</characteristic>
+                  <characteristic>facing down</characteristic>
+                  <characteristic>facing left</characteristic>
+                  <characteristic>legs spread</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <characteristic>reaching</characteristic>
+                  <characteristic>arm reaching downward</characteristic>
+                  <characteristic>pulling</characteristic>
+                  <characteristic>bending forward</characteristic>
+                  <characteristic>finger's spread</characteristic>
+                  <illusobjdesc>A gowned woman strides to the left with legs spread apart. Her hair
+                     is drawn into a bun on the back of her head. Her left arm is bent at the elbow
+                     and she holds in her left hand two small children or infants. The woman,
+                     perhaps the children's mother or a nurse, leans over and faces down. She
+                     reaches down with her right arm and hand and appears to be pulling a third
+                     child or infant out of the earth. The fingers of her right hand are spread over
+                     the child's forehead.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>child</characteristic>
+                  <characteristic>infant</characteristic>
+                  <characteristic>head</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>facing up</characteristic>
+                  <characteristic>blanket</characteristic>
+                  <illusobjdesc>The woman holds two small children or infants in her left arm and
+                     hand. We see only the head of one child, facing forward; the second child,
+                     above and two the right of the more prominent one, is indicated only by the
+                     left eye and cheek, facing up. The bodies of both children are covered with a
+                     portion of the woman's gown or a separate blanket.</illusobjdesc>
+               </component>
+               <component type="figure" location="C">
+                  <characteristic>child</characteristic>
+                  <characteristic>infant</characteristic>
+                  <characteristic>head</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>hair standing on end</characteristic>
+                  <characteristic>anthropomorphic</characteristic>
+                  <characteristic>plant</characteristic>
+                  <characteristic>mandrake</characteristic>
+                  <illusobjdesc>The woman reaches down with her right arm and hand and appears to be
+                     pulling a child or infant out of the earth. We see this child only from the
+                     chest up; his or her hair stands on end. The position of the child suggests
+                     that it is the anthropomorphic form of a plant—perhaps a mandrake,
+                     traditionally thought to be shaped like a human body. Perhaps the woman has
+                     "harvested" the other two children, held in her left arm, in a similar
+                     fashion.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.03.01" justify="center">I found him beneath a Tree</l>
+            </lg>  
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.04" dbi="gates-child.A.P4">
+         <objtitle>, <objid><objnumber code="A4">Object 4 </objnumber><objcode code="B4">(Bentley 4,
+                  </objcode><objcode code="E2">Erdman 2, </objcode><objcode code="K2">Keynes
+                  2)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>8.2 x 7.3 cm.</objsize>
+            <windowsize height="426" width="380"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>A nude male, apparently with long hair, sits on the bank of a river or
+                  lake with legs crossed at the ankles. He faces down, with eyes closed or partly
+                  closed. His arms reach down, and his hands rest on his knees; his palms are open
+                  and facing down with fingers spread. The lines on his face and his general
+                  expression suggest despair or melancholy. To the right is a tree, the barren
+                  branches of which arch over the figure. A few lines beneath its trunk may be
+                  roots. Other lines, almost vertical but slightly angled from right to left, cover
+                  most of the image and very probably represent rain. A river or lake appears lower
+                  left and below the man's feet. As the caption (line 1) indicates, "Water" is the
+                  subject, both literal and metaphoric, of the design.</illusobjdesc>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>sitting cross-legged</characteristic>
+                  <characteristic>legs crossed</characteristic>
+                  <characteristic>facing down</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>arms down</characteristic>
+                  <characteristic>eyes closed</characteristic>
+                  <characteristic>eyes down</characteristic>
+                  <characteristic>arms resting</characteristic>
+                  <characteristic>hands on knees</characteristic>
+                  <characteristic>palms down</characteristic>
+                  <characteristic>fingers spread</characteristic>
+                  <characteristic>mouth open</characteristic>
+                  <characteristic>despair</characteristic>
+                  <characteristic>melancholy</characteristic>
+                  <characteristic>water</characteristic>
+                  <illusobjdesc>A nude male, apparently with long hair, sits on the bank of a river
+                     or lake with legs crossed at the ankles. He faces down, with eyes closed or
+                     partly closed. His arms reach down, and his hands rest on his knees; his palms
+                     are open and facing down with fingers spread. His mouth is slightly open. The
+                     lines on his face and his general expression suggest despair or melancholy. He
+                     may be a personification of water as both a substance and a psychological state
+                     within a Blakean version of humoral theory.</illusobjdesc>
+               </component>
+               <component type="vegetation" location="E">
+                  <characteristic>tree</characteristic>
+                  <characteristic>root</characteristic>
+                  <characteristic>trunk</characteristic>
+                  <characteristic>leafless</characteristic>
+                  <characteristic>arching</characteristic>
+                  <illusobjdesc>A leafless tree grows up the right margin of the design, with a
+                     prominent limb arching over the seated man. Lines below the trunk of the tree
+                     suggest roots.</illusobjdesc>
+               </component>
+               <component type="object" location="E">
+                  <characteristic>bank</characteristic>
+                  <characteristic>peninsula</characteristic>
+                  <characteristic>water</characteristic>
+                  <characteristic>river</characteristic>
+                  <characteristic>lake</characteristic>
+                  <characteristic>rain</characteristic>
+                  <illusobjdesc>The man sits on a bank of earth above a river or lake. This body of
+                     water would seem to extend around the left end of the bank, thus making it a
+                     diminutive peninsula. Lines, almost vertical but angling slightly to the lower
+                     left, indicate heavy rain.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.04.01" justify="center">Water</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.04.02" justify="left"><physnumber type="etched"
+                  >2</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.05" dbi="gates-child.A.P5">
+         <objtitle>, <objid><objnumber code="A5">Object 5 </objnumber><objcode code="B5">(Bentley 5,
+                  </objcode><objcode code="E3">Erdman 3, </objcode><objcode code="K3">Keynes
+                  3)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>8.2 x 7.4 cm.</objsize>
+            <windowsize height="426" width="385"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>A nude male struggles within a cleft or cavern formed by dark and
+                  massive stones. He is bearded; his hair is slightly curly. He squats or crouches,
+                  with legs spread apart. His left leg is bent sharply at the knee and the right,
+                  slightly bent, is extended toward the lower margin of the image. He faces forward,
+                  with his arms raised, elbows bent. His hands are above his head; he may be
+                  grasping the top of his head with his left hand. The general expression is one of
+                  conflict, grief, and pain. He may be a personification of "Earth" (line 1) within
+                  a Blakean version of humoral theory.</illusobjdesc>
+               <component type="object" location="E">
+                  <characteristic>stone</characteristic>
+                  <characteristic>cave</characteristic>
+                  <characteristic>dark</characteristic>
+                  <illusobjdesc>A man struggles within a cleft or cavern formed by dark and massive
+                     stones.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>squatting</characteristic>
+                  <characteristic>crouching</characteristic>
+                  <characteristic>leg bent at knee</characteristic>
+                  <characteristic>leg extended</characteristic>
+                  <characteristic>legs spread</characteristic>
+                  <characteristic>arms bent upward</characteristic>
+                  <characteristic>arms raised</characteristic>
+                  <characteristic>arms wrapped around head</characteristic>
+                  <characteristic>hand clutching head</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>beard</characteristic>
+                  <characteristic>knee</characteristic>
+                  <characteristic>earth</characteristic>
+                  <characteristic>grief</characteristic>
+                  <characteristic>pain</characteristic>
+                  <illusobjdesc>A nude male struggles within a cleft or cavern formed by dark and
+                     massive stones. He is bearded; his hair is slightly curly. He squats or
+                     crouches, with legs spread apart. His left leg is bent sharply at the knee and
+                     the right, slightly bent, is extended toward the lower margin of the image. He
+                     faces forward, with his arms raised, elbows bent. His hands are above his head;
+                     he may be grasping the top of his head with his left hand. The general
+                     expression is one of conflict, grief, and pain. He may be a personification of
+                     "Earth" (line 1) within a Blakean version of humoral theory.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.05.01" justify="center">Earth</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.05.02" justify="left"><physnumber type="etched"
+                  >3</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.06" dbi="gates-child.A.P6">
+         <objtitle>, <objid><objnumber code="A6">Object 6 </objnumber><objcode code="B6">(Bentley 6,
+                  </objcode><objcode code="E4">Erdman 4, </objcode><objcode code="K4">Keynes
+                  4)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>8.2 x 7.2 cm.</objsize>
+            <windowsize height="426" width="374"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>A youthful, nude male sits, in a crouch-like posture, on a cloud. Parts
+                  of this cloud, or perhaps other clouds, extend behind him and in front of him,
+                  covering his feet. Fourteen stars fill the night sky. His legs are bent sharply at
+                  his prominent knees. His hair is curly. His arms are bent at the elbows and
+                  extended upward, with both hands clasped over, and perhaps clutching, his
+                  forehead. His chin rests on his right knee. He faces forward, with a lined visage
+                  suggesting despair or melancholy. Given the caption, he may be a personification
+                  of "air" (line 1) within a Blakean version of humoral theory.</illusobjdesc>
+               <component type="object" location="E">
+                  <characteristic>cloud</characteristic>
+                  <characteristic>night</characteristic>
+                  <characteristic>star</characteristic>
+                  <characteristic>sky</characteristic>
+                  <illusobjdesc>Clouds and fourteen stars fill the night sky.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>crouching</characteristic>
+                  <characteristic>legs bent</characteristic>
+                  <characteristic>knees</characteristic>
+                  <characteristic>arms bent upward</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>hands clutching head</characteristic>
+                  <characteristic>hands together</characteristic>
+                  <characteristic>head on knees</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>despair</characteristic>
+                  <characteristic>melancholy</characteristic>
+                  <characteristic>air</characteristic>
+                  <illusobjdesc>A youthful, nude male sits, in a crouch-like posture, on a cloud.
+                     His legs are bent sharply at his prominent knees. His hair is curly. His arms
+                     are bent at the elbows and extended upward, with both hands clasped over, and
+                     perhaps clutching, his forehead. His chin rests on his right knee. He faces
+                     forward, with a lined visage suggesting despair or melancholy. Given the
+                     caption, he may be a personification of "air" (line 1) within a Blakean version
+                     of humoral theory.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.06.01" justify="center">Air</l>
+               <vspace extent="1"/>
+               <l n="gates-child.a.illbk.06.02" justify="left">
+                  <physnumber type="etched">4</physnumber>
+               </l>
+            </lg>          
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.07" dbi="gates-child.A.P7">
+         <objtitle>, <objid><objnumber code="A7">Object 7 </objnumber><objcode code="B7">(Bentley 7,
+                  </objcode><objcode code="E5">Erdman 5, </objcode><objcode code="K5">Keynes
+                  5)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>9.1 x 7.3 cm.</objsize>
+            <windowsize height="473" width="380"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>A young and muscular nude male, with curly (almost snake-like) hair,
+                  stands facing forward. His legs are spread apart, and his arms are raised at
+                  approximately 135 degrees. His right arm is slightly bent. He holds a spear in his
+                  right hand; a large shield is buckled to his left arm and hand. His posture
+                  suggests triumph or challenge, but his visage expresses fear or pain. His mouth is
+                  slightly open, and his eyes are raised. Flames fill the background of the design
+                  and rise over the figure's right lower leg. The figure and his setting suggest
+                  both Blake's Orc (frequently associated with fire) and Milton's Satan in hell. The
+                  caption (line 1) indicates that he is, at the very least, a personification of
+                  "Fire."</illusobjdesc>
+               <component type="object" location="E">
+                  <characteristic>fire</characteristic>
+                  <characteristic>smoke</characteristic>
+                  <characteristic>hell</characteristic>
+                  <illusobjdesc>Flames fill the background and foreground of the design. There may
+                     be smoke on each side of the figure's head. The fire and the character of the
+                     figure suggest this may be a vision of hell.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>muscular</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>snake-like</characteristic>
+                  <characteristic>standing</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>legs spread</characteristic>
+                  <characteristic>arms raised at 135 degrees</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>spear</characteristic>
+                  <characteristic>shield</characteristic>
+                  <characteristic>eyes raised</characteristic>
+                  <characteristic>mouth open</characteristic>
+                  <characteristic>pain</characteristic>
+                  <characteristic>fear</characteristic>
+                  <characteristic>Orc</characteristic>
+                  <characteristic>Satan</characteristic>
+                  <illusobjdesc>A young and muscular nude male, with curly (almost snake-like) hair,
+                     stands facing forward. His legs are spread apart, and his arms raised at
+                     approximately 135 degrees. His right arm is slightly bent. He holds a spear in
+                     his right hand; a large shield is buckled to his left arm and hand. His posture
+                     suggests triumph or challenge, but his lined visage expresses fear or pain. His
+                     mouth is slightly open, and his eyes are raised. The figure and his fiery
+                     setting suggest both Blake's Orc (frequently associated with fire) and Milton's
+                     Satan in hell. The caption (line 1) indicates that he is, at the very least, a
+                     personification of "Fire."</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.07.01" justify="center">Fire</l>
+            </lg>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.07.02" justify="left"><physnumber type="etched"
+                  >5</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.08" dbi="gates-child.A.P8">
+         <objtitle>, <objid><objnumber code="A8">Object 8 </objnumber><objcode code="B8">(Bentley 8,
+                  </objcode><objcode code="E6">Erdman 6, </objcode><objcode code="K6">Keynes
+                  6)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>6.1 x 5.0 cm.</objsize>
+            <windowsize width="315" height="472"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>An infant or young child, nude and probably male, emerges like a
+                  hatchling from a broken egg. Given his wings, he may be a putto, cherub, or angel.
+                  His legs are crossed at the ankles; his left arm is bent, with his left hand
+                  placed on the shell as though he were pushing against it to rise. He faces
+                  forward, with his head up and eyes raised. His hair is curly. Clouds fill the sky
+                  behind the figure and the egg; two broken pieces of the latter rest in the
+                  foreground.</illusobjdesc>
+               <component type="object" location="E">
+                  <characteristic>egg</characteristic>
+                  <characteristic>cloud</characteristic>
+                  <illusobjdesc>A child emerges from a broken egg, two pieces of which lie in the
+                     foreground. Clouds fill the sky.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>child</characteristic>
+                  <characteristic>male</characteristic>
+                  <characteristic>infant</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>cherub</characteristic>
+                  <characteristic>angel</characteristic>
+                  <characteristic>putto</characteristic>
+                  <characteristic>wing</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <characteristic>pushing</characteristic>
+                  <characteristic>breaking</characteristic>
+                  <characteristic>rising</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>head up</characteristic>
+                  <characteristic>eyes raised</characteristic>
+                  <characteristic>legs crossed</characteristic>
+                  <illusobjdesc>An infant or young child, nude and probably male, emerges like a
+                     hatchling from a broken egg. Given his wings, he may be a putto, cherub, or
+                     angel. His legs are crossed at the ankles; his left arm is bent, with his left
+                     hand placed on the shell as though he were pushing against it to rise. He faces
+                     forward, with his head up and eyes raised. His hair is curly. </illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.08.01" justify="left" indent="5">At length for hatching
+                  ripe</l>
+               <l n="gates-child.a.illbk.08.02" justify="left" indent="11">he breaks the shell</l>
+            </lg>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.08.03" justify="left"><physnumber type="etched"
+                  >6</physnumber>
+               </l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.09" dbi="gates-child.A.P9">
+         <objtitle>, <objid><objnumber code="A9">Object 9 </objnumber><objcode code="B9">(Bentley 9,
+                  </objcode><objcode code="E7">Erdman 7, </objcode><objcode code="K7">Keynes
+                  7)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>7.5 x 5.0 cm.</objsize>
+            <windowsize width="315" height="472"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>A young male strides, with legs spread, from left to right. He wears
+                  tights or a combination of breeches and a shirt. His hair is curly. He faces to
+                  the right, with a look of surprise or excitement on his face. His left arm is at
+                  his side; his right arm is raised vertically but slightly bent at the elbow. He
+                  holds a hat in his raised right hand. To the right of his face is a (nude and
+                  male?) human figure, perhaps an infant or child, hovering (flying?) in mid-air. We
+                  see this figure, also with curly hair, from the back, but facing to the left
+                  (toward the large figure). His legs are spread, as though fleeing from the youth
+                  with a hat, who may be pursuing him. The hovering figure has his arms extended
+                  horizontally. Below, on the ground and in the lower right corner of the design, is
+                  a second diminutive figure of uncertain gender. He or she may be dead and lies
+                  face-down, with the right leg extended and arms extended horizontally in a
+                  cruciform position. His or her hair is long. Given the positioning of these two
+                  small figures and the iconographic tradition from which this design may have been
+                  developed, the two small human forms may be personifications of birds or
+                  butterflies. The middle distance is dominated by leafy plants or trees. Clouds
+                  fill the sky in the upper portions of the design.</illusobjdesc>
+               <component type="object" location="AB">
+                  <characteristic>cloud</characteristic>
+                  <illusobjdesc>Clouds fill the sky in the upper portions of the
+                     design.</illusobjdesc>
+               </component>
+               <component type="object" location="E">
+                  <characteristic>plant</characteristic>
+                  <characteristic>tree</characteristic>
+                  <characteristic>leaf</characteristic>
+                  <illusobjdesc>Leafy plants or trees fill the middle distance of the
+                     design.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>tights</characteristic>
+                  <characteristic>breeches</characteristic>
+                  <characteristic>shirt</characteristic>
+                  <characteristic>shoes</characteristic>
+                  <characteristic>striding</characteristic>
+                  <characteristic>walking</characteristic>
+                  <characteristic>legs spread</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>surprise</characteristic>
+                  <characteristic>arm raised vertically</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <characteristic>arm at side</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>pursuing</characteristic>
+                  <characteristic>hat</characteristic>
+                  <characteristic>holding</characteristic>
+                  <illusobjdesc>A young male strides, with legs spread, from left to right. He wears
+                     tights—or a combination of breeches and a shirt. He may also wear shoes. His
+                     hair is curly. He faces to the right, with a look of surprise or excitement on
+                     his face. His left arm is at his side; his right arm is raised vertically but
+                     slightly bent at the elbow. He holds a hat in his raised right hand. He may be
+                     pursuing, and attempting to kill or capture, the flying figure to the
+                     right.</illusobjdesc>
+               </component>
+               <component type="figure" location="B">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>hovering</characteristic>
+                  <characteristic>floating</characteristic>
+                  <characteristic>flying</characteristic>
+                  <characteristic>legs spread</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>arms raised horizontally</characteristic>
+                  <characteristic>seen from behind</characteristic>
+                  <characteristic>facing left</characteristic>
+                  <characteristic>fleeing</characteristic>
+                  <characteristic>anthropomorphic</characteristic>
+                  <characteristic>bird</characteristic>
+                  <characteristic>butterfly</characteristic>
+                  <illusobjdesc>To the right of the large figure's face is a (nude and male?) human
+                     figure, perhaps an infant or child, hovering (flying?) in mid-air. We see this
+                     figure with curly hair from the back, but facing to the left (toward the large
+                     figure). His legs are spread, as though fleeing from the youth with a hat, who
+                     may be pursuing him. The hovering figure has his arms extended horizontally.
+                     Given the iconographic tradition from which this design may have been
+                     developed, this figure may be the anthropomorphic form of a bird or
+                     butterfly.</illusobjdesc>
+               </component>
+               <component type="figure" location="D">
+                  <characteristic>dead</characteristic>
+                  <characteristic>corpse</characteristic>
+                  <characteristic>lying</characteristic>
+                  <characteristic>facing down</characteristic>
+                  <characteristic>arms raised horizontally</characteristic>
+                  <characteristic>anthropomorphic</characteristic>
+                  <characteristic>bird</characteristic>
+                  <characteristic>butterfly</characteristic>
+                  <characteristic>leg extended</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>crucified</characteristic>
+                  <illusobjdesc>A diminutive figure of uncertain gender lies on the ground, lower
+                     right. He or she may be dead and lies face-down, with the right leg extended
+                     and arms extended horizontally in a cruciform position. His or her hair is
+                     long. Given the positioning of the two small figures and the iconographic
+                     tradition from which this design may have been developed, the two small human
+                     forms may be personifications of birds or butterflies.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.09.01" justify="center">Alas!</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.09.02" justify="left"><physnumber type="etched"
+                  >7</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.10" dbi="gates-child.A.P10">
+         <objtitle>, <objid><objnumber code="A10">Object 10 </objnumber><objcode code="B10">(Bentley
+                  10, </objcode><objcode code="E8">Erdman 8, </objcode><objcode code="K8">Keynes
+                  8)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>9.3 x 6.3 cm.</objsize>
+            <windowsize height="484" width="328"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>On the left, a youthful male with curly hair strides to the left.
+                  Although basically pictured as a nude, a small piece of drapery seems to extend to
+                  the right of his left thigh. His body is twisted, and he faces to the right,
+                  toward a bearded man. The youth's right arm is raised horizontally, and he may be
+                  pointing toward this older man. His left arm is raised vertically; he grasps a
+                  spear or dart in his raised left hand. He may be about to throw his weapon at the
+                  old man. To the right sits a nude old man with long hair and a long beard. His
+                  left leg is bent at the knee, his right extended to the left. His left arm is bent
+                  at the elbow, and he props his head on his left hand, a posture traditionally
+                  indicative of melancholy. His body is twisted, and he looks down and to the right.
+                  His right arm is raised horizontally, and he grasps a large sword in his right
+                  hand. The positioning of the two figures and their relative ages suggest that the
+                  youth is an Orc-like figure and the old man is his father, as well as a king or
+                  Urizen figure. The caption (line 1), if spoken by the old man, indicates that the
+                  youth is his child. The old man's chair (a primitive throne?) is constructed of
+                  large stones. The back of the chair is also constructed of stones. Alternatively,
+                  if the perspective is distorted, this may be a ruined wall and the "chair" part of
+                  the wall or building. A large tree with several leafy branches arches above the
+                  old man. We see a low hill, a mountain behind and to the right, and clouds in the
+                  sky on the left. The earth in the foreground may be covered with
+                  grass.</illusobjdesc>
+               <component type="figure" location="AC">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>drapery</characteristic>
+                  <characteristic>striding</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>twisted</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>looking</characteristic>
+                  <characteristic>throwing</characteristic>
+                  <characteristic>arm raised horizontally</characteristic>
+                  <characteristic>pointing</characteristic>
+                  <characteristic>arm raised vertically</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>spear</characteristic>
+                  <characteristic>dart</characteristic>
+                  <characteristic>Orc</characteristic>
+                  <characteristic>child</characteristic>
+                  <illusobjdesc>A youthful male with curly hair strides to the left. Although
+                     basically pictured as a nude, a small piece of drapery seems to extend to the
+                     right of his left thigh. His body is twisted and he faces to the right, toward
+                     an old, bearded man. The youth's right arm is raised horizontally, and he may
+                     be pointing toward the bearded man. His left arm is raised vertically; he
+                     grasps a spear or dart in his raised left hand. He may be about to throw his
+                     weapon at the old man. The relative positions and ages of the figures suggest
+                     that the youth is an Orc figure. If the caption (line 1) is spoken by the old
+                     man, then the youth is his child.</illusobjdesc>
+               </component>
+               <component type="figure" location="BD">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>old</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>beard</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>leaning</characteristic>
+                  <characteristic>legs spread</characteristic>
+                  <characteristic>leg bent at knee</characteristic>
+                  <characteristic>leg extended</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <characteristic>head on hand</characteristic>
+                  <characteristic>melancholy</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>facing down</characteristic>
+                  <characteristic>twisted</characteristic>
+                  <characteristic>arm raised horizontally</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>sword</characteristic>
+                  <characteristic>king</characteristic>
+                  <characteristic>Urizen</characteristic>
+                  <characteristic>father</characteristic>
+                  <illusobjdesc>To the right of the young man sits a nude old man with long hair and
+                     a long beard. His left leg is bent at the knee, his right extended to the left.
+                     His left arm is bent at the elbow, and he props his head on his left hand—a
+                     posture traditionally indicative of melancholy. His body is twisted, and he
+                     looks down and to the right. His right arm is raised horizontally, and he
+                     grasps a large sword in his right hand. The positioning of the two figures and
+                     their relative ages suggest that the youth is an Orc- like figure and the old
+                     man is his father, as well as a king or Urizen figure</illusobjdesc>
+               </component>
+               <component type="vegetation" location="CD">
+                  <characteristic>grass</characteristic>
+                  <illusobjdesc>The earth in the foreground of the design may be covered with
+                     grass.</illusobjdesc>
+               </component>
+               <component type="vegetation" location="AB">
+                  <characteristic>tree</characteristic>
+                  <characteristic>arching</characteristic>
+                  <characteristic>leaf</characteristic>
+                  <characteristic>limb</characteristic>
+                  <illusobjdesc>A large tree with several leafy branches arches through the upper
+                     part of the design.</illusobjdesc>
+               </component>
+               <component type="object" location="BD">
+                  <characteristic>chair</characteristic>
+                  <characteristic>wall</characteristic>
+                  <characteristic>stone</characteristic>
+                  <characteristic>building</characteristic>
+                  <characteristic>ruin</characteristic>
+                  <illusobjdesc>The bearded old man sits on a chair composed of large cut stones.
+                     The high back of the chair is also stony. Alternatively, if the perspective is
+                     distorted, this may be a ruined wall and the man's "chair" simply more stones
+                     from the wall or building.</illusobjdesc>
+               </component>
+               <component type="object" location="AC">
+                  <characteristic>hill</characteristic>
+                  <characteristic>mountain</characteristic>
+                  <characteristic>cloud</characteristic>
+                  <illusobjdesc>A low hill fills the middle distance, with a mountain behind and to
+                     the right. Clouds fill the sky above.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.10.01" justify="center">My Son! my Son!</l>
+            </lg>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.10.02" justify="left"><physnumber type="etched"
+                  >8</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.11" dbi="gates-child.A.P11">
+         <objtitle>, <objid><objnumber code="A11">Object 11 </objnumber><objcode code="B11">(Bentley
+                  11, </objcode><objcode code="E9">Erdman 9, </objcode><objcode code="K9">Keynes
+                  9)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>7.1 x 4.8 cm.</objsize>
+            <windowsize width="315" height="472"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>The design is dominated by the night sky, complete with seven stars and
+                  a thin, crescent moon. A long ladder reaches from the surface of the earth, lower
+                  right, to the moon. A small figure has just begun to climb the ladder, with the
+                  left leg bent at the knee so as to place the left foot on the third rung of the
+                  ladder, and the right foot still on the earth. This figure's arms are raised
+                  horizontally, with his hands apparently holding the vertical sides of the ladder.
+                  The figure is probably male: he wears a hat and may be looking to the right. In
+                  the far right corner is a group of two figures, probably a woman on the left
+                  (wearing a dress or skirt) and a man on the right. The man has at least his left
+                  arm raised horizontally; he may be embracing the woman around her waist. The
+                  woman's right arm is bent at the elbow, with her forearm raised horizontally. Both
+                  these figures appear to be facing to the left and looking at the man climbing the
+                  ladder; the woman may be pointing at him.</illusobjdesc>
+               <component type="object" location="E">
+                  <characteristic>star</characteristic>
+                  <characteristic>sky</characteristic>
+                  <characteristic>night</characteristic>
+                  <characteristic>ladder</characteristic>
+                  <characteristic>earth</characteristic>
+                  <illusobjdesc>The night sky shows seven stars. A ladder extends from the earth,
+                     lower right, to a crescent moon, top left.</illusobjdesc>
+               </component>
+               <component type="object" location="A">
+                  <characteristic>moon</characteristic>
+                  <illusobjdesc>A crescent moon appears in the night sky, top left.</illusobjdesc>
+               </component>
+               <component type="figure" location="D">
+                  <characteristic>male</characteristic>
+                  <characteristic>climbing</characteristic>
+                  <characteristic>arms raised horizontally</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>leg bent at knee</characteristic>
+                  <characteristic>hat</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>looking</characteristic>
+                  <illusobjdesc>A small figure has just begun to climb the ladder, with the left leg
+                     bent at the knee so as to place the left foot on the third rung of the ladder,
+                     and the right foot still on the earth. This figure's arms are raised
+                     horizontally, with his hands apparently holding the vertical sides of the
+                     ladder. The figure is probably male: he wears a hat and may be looking to the
+                     right.</illusobjdesc>
+               </component>
+               <component type="figure" location="D">
+                  <characteristic>group of figures</characteristic>
+                  <characteristic>male</characteristic>
+                  <characteristic>female</characteristic>
+                  <characteristic>gown</characteristic>
+                  <characteristic>skirt</characteristic>
+                  <characteristic>facing left</characteristic>
+                  <characteristic>looking</characteristic>
+                  <characteristic>pointing</characteristic>
+                  <characteristic>embracing</characteristic>
+                  <characteristic>arm raised horizontally</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <illusobjdesc>In the far right corner of the image is a group of two figures,
+                     probably a woman on the left (wearing a dress or skirt) and a man on the right.
+                     The man has at least his left arm raised horizontally; he may be embracing the
+                     woman around her waist. The woman's right arm is bent at the elbow, with her
+                     forearm raised horizontally. Both these figures appear to be facing to the left
+                     and looking at the man climbing the ladder; the woman may be pointing at
+                     him.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.11.01" justify="center">I want! I want!</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.d.illbk.11.02" justify="left"><physnumber type="etched"
+                  >9</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.12" dbi="gates-child.A.P12">
+         <objtitle>, <objid><objnumber code="A12">Object 12 </objnumber><objcode code="B12">(Bentley
+                  12, </objcode><objcode code="E10">Erdman 10, </objcode><objcode code="K10">Keynes
+                  10)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>6.7 x 5.0 cm.</objsize>
+            <windowsize width="315" height="472"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>The design is dominated by a stormy sky and sea, the former filled with
+                  clouds and the latter fraught with two large waves. Near one wave crest we see a
+                  human arm raised vertically, fingers spread apart. This figure's head (just to the
+                  left of the arm) is bent back and facing up. The figure is probably male and,
+                  given the caption, trying to swim but drowning in the attempt. He may be looking
+                  to the heavens for help but is in despair.</illusobjdesc>
+               <component type="object" location="E">
+                  <characteristic>sky</characteristic>
+                  <characteristic>sea</characteristic>
+                  <characteristic>water</characteristic>
+                  <characteristic>storm</characteristic>
+                  <characteristic>cloud</characteristic>
+                  <characteristic>waves</characteristic>
+                  <illusobjdesc>The design is dominated by a stormy sky and sea, the former filled
+                     with clouds and the latter fraught with two large waves.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>arm raised vertically</characteristic>
+                  <characteristic>fingers spread</characteristic>
+                  <characteristic>head bent back</characteristic>
+                  <characteristic>facing up</characteristic>
+                  <characteristic>looking</characteristic>
+                  <characteristic>swimming</characteristic>
+                  <characteristic>drowning</characteristic>
+                  <characteristic>despair</characteristic>
+                  <illusobjdesc>Near one wave crest we see a human arm raised vertically, fingers
+                     spread apart. This figure's head (just to the left of the arm) is bent back and
+                     facing up. The figure is probably male and, given the caption, trying to swim
+                     but drowning in the attempt. He may be looking to the heavens for help but is
+                     in despair.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.12.01" justify="center">Help! Help!</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.12.02" justify="left"><physnumber type="etched"
+                  >10</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.13" dbi="gates-child.A.P13">
+         <objtitle>, <objid><objnumber code="A13">Object 13 </objnumber><objcode code="B13">(Bentley
+                  13, </objcode><objcode code="E11">Erdman 11, </objcode><objcode code="K11">Keynes
+                  11)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>7.1 x 6.3 cm.</objsize>
+            <windowsize height="369" width="328"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>The design is based on a traditional emblem of Age clipping the wings
+                  of Love. On the left sits a gowned old man wearing spectacles (an indication of
+                  limited vision). He has a long beard and probably long hair. His eyes are closed
+                  or looking down; he may be blind or almost blind. His legs, with prominent knees,
+                  are crossed at the ankles. His left arm is raised horizontally, with the left hand
+                  grasping the wing of the youthful figure to the right. His right arm is bent at
+                  the elbow; he holds in his right hand a pair of scissors with which he is about to
+                  cut the tip of the youth's right wing. This winged and youthful male figure, nude
+                  and striding energetically to the right, is a winged Cupid, cherub, or angel. His
+                  legs are spread apart, as though running to the right; he may be fleeing from the
+                  old man. The youth's hair is curly. His right arm is bent upward at the elbow,
+                  with the fingers of his raised right hand spread apart. His body faces to the
+                  right, but we see only the back of his head as he looks back to the sun rising or
+                  setting on the distant horizon. Lines of radiance emanate from the sun. A tree,
+                  its branches arching over both figures, grows up the left margin. The leaves of a
+                  tree or large plant fill the background above the old man. There may be grass on
+                  the slight hill or mound on which the two figures are placed.</illusobjdesc>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>old</characteristic>
+                  <characteristic>gown</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>cutting</characteristic>
+                  <characteristic>spectacles</characteristic>
+                  <characteristic>eyes closed</characteristic>
+                  <characteristic>blind</characteristic>
+                  <characteristic>knees</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>facing down</characteristic>
+                  <characteristic>legs crossed</characteristic>
+                  <characteristic>arm raised horizontally</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <characteristic>scissors</characteristic>
+                  <characteristic>beard</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <illusobjdesc>On the left sits a gowned old man wearing spectacles (an indication
+                     of limited vision). He has a long bear and probably long hair. His eyes are
+                     closed or looking down; he may be blind are almost blind. His legs, with
+                     prominent knees, are crossed at the ankles. His left arm is raised
+                     horizontally, with the left hand grasping the wing of the youthful figure to
+                     the right. His right arm is bent at the elbow; he holds in his right hand a
+                     pair of scissors with which he is about to cut the tip of the youth's right
+                     wing.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>striding</characteristic>
+                  <characteristic>legs spread</characteristic>
+                  <characteristic>running</characteristic>
+                  <characteristic>fleeing</characteristic>
+                  <characteristic>wing</characteristic>
+                  <characteristic>cherub</characteristic>
+                  <characteristic>Cupid</characteristic>
+                  <characteristic>angel</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>facing away</characteristic>
+                  <characteristic>looking</characteristic>
+                  <characteristic>arm bent upward</characteristic>
+                  <characteristic>fingers spread</characteristic>
+                  <illusobjdesc>A winged and youthful male figure, nude and striding energetically
+                     to the right, is a winged Cupid, cherub, or angel. His legs are spread apart,
+                     as though running to the right; he may be fleeing from the old man. The youth's
+                     hair is curly. His right arm is bent upward at the elbow, with the fingers of
+                     his raised right hand spread apart. His body faces to the right, but we see
+                     only the back of his head as he looks back to the sun rising or setting on the
+                     distant horizon.</illusobjdesc>
+               </component>
+               <component type="object" location="BD">
+                  <characteristic>sun</characteristic>
+                  <characteristic>radiance</characteristic>
+                  <characteristic>beams of light</characteristic>
+                  <illusobjdesc>We see about half the sun rising or setting. Radiant beams of light
+                     emanate from it.</illusobjdesc>
+               </component>
+               <component type="vegetation" location="E">
+                  <characteristic>tree</characteristic>
+                  <characteristic>limb</characteristic>
+                  <characteristic>leaf</characteristic>
+                  <characteristic>plant</characteristic>
+                  <characteristic>grass</characteristic>
+                  <characteristic>arching</characteristic>
+                  <characteristic>hill</characteristic>
+                  <characteristic>mound</characteristic>
+                  <illusobjdesc>A tree, its branches arching over both figures, grows up the left
+                     margin. The leaves of a tree or large plant fill the background above the old
+                     man. There may be grass on the slight hill or mound on which the two figures
+                     are placed.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.13.01" justify="center">Aged Ignorance</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.13.02" justify="left"><physnumber type="etched"
+                  >11</physnumber><note>The number “11” is only faintly visible.</note></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.14" dbi="gates-child.A.P14">
+         <objtitle>, <objid><objnumber code="A14">Object 14 </objnumber><objcode code="B14">(Bentley
+                  14, </objcode><objcode code="E12">Erdman 12, </objcode><objcode code="K12">Keynes
+                  12)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>6.4 x 6.1 cm.</objsize>
+            <windowsize height="333" width="317"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>Within a small room, probably a prison cell built of stone, we see five
+                  seated male figures, all apparently nude (with the possible exceptions of the
+                  figures lower left and right). The central figure, facing forward, is old and
+                  bearded with hair standing on end; the others are much younger. This central
+                  figure has his legs drawn up; his knees are very prominent. His face suggests
+                  despair or worse. Immediately to the left, very close to the old man, is a young
+                  man with legs drawn up and crossed at the ankles. His knees are also prominent.
+                  His body faces forward, but his head is turned up and to the right; he may be
+                  looking at the face of the old man. Although we see only his right shoulder and
+                  upper arm, his right arm may be extended horizontally; he may be embracing the old
+                  man. On the right is another young male close to the old man. His legs are drawn
+                  up and crossed at the ankles, with prominent knees. His body faces forward, but
+                  his head is turned to the left, with his face pressed against the body or left leg
+                  of the old man. This figure's hair seems to be long. Another youthful male sits in
+                  the right foreground. His legs are extended but slightly bent at the knees.
+                  Although probably nude, like his companions, lines just below his knees suggest
+                  that he might be wearing breeches. His left arm is at his side, with his left hand
+                  on the ground (or, rather, on the floor), fingers spread apart. He faces left,
+                  with his head bent back and looking up; his mouth is slightly open. His hair is
+                  probably long. In the left foreground is the final youthful figure, seated and
+                  with legs extended. Though he may be nude, lines just below his knees suggest that
+                  he, too, may be wearing breeches. He faces to the right, with his head down. His
+                  right arm is at is side, with his right hand on the ground (or, rather, on the
+                  floor), fingers spread. His hair is curly. Given the configuration of the males,
+                  the setting, and the compositional relationship to several drawings by Blake, this
+                  design would seem to be inspired by Dante's description of Count Ugolino and his
+                  sons in prison.</illusobjdesc>
+               <component type="structure" location="E">
+                  <characteristic>cell</characteristic>
+                  <characteristic>prison</characteristic>
+                  <characteristic>stone</characteristic>
+                  <illusobjdesc>Within a small room, probably a prison cell built of stone, we see
+                     five seated figures.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>group of figures</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>breeches</characteristic>
+                  <characteristic>male</characteristic>
+                  <characteristic>child</characteristic>
+                  <characteristic>father</characteristic>
+                  <characteristic>Ugolino</characteristic>
+                  <characteristic>despair</characteristic>
+                  <characteristic>dying</characteristic>
+                  <characteristic>pain</characteristic>
+                  <illusobjdesc>Within a small room, probably a prison cell built of stone, we see
+                     five seated male figures, all apparently nude (with the possible exception of
+                     the figures lower left and right, who may wear breeches). Given the
+                     configuration of these figures, the setting, and the compositional relationship
+                     to several drawings by Blake, this design would seem to be inspired by Dante's
+                     description of Count Ugolino and his sons in prison. All appear to be dying in
+                     pain and despair.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>Ugolino</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>old</characteristic>
+                  <characteristic>beard</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>hair standing on end</characteristic>
+                  <characteristic>legs drawn up</characteristic>
+                  <characteristic>knees</characteristic>
+                  <characteristic>legs together</characteristic>
+                  <illusobjdesc>The central seated figure, male and apparently nude, in this group
+                     of five faces forward. He is old and bearded with hair standing on end. He has
+                     his legs drawn up; his knees are very prominent. His face suggests despair or
+                     worse. He may be Ugolino.</illusobjdesc>
+               </component>
+               <component type="figure" location="AC">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>bun</characteristic>
+                  <characteristic>legs drawn up</characteristic>
+                  <characteristic>legs crossed</characteristic>
+                  <characteristic>knees</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>head bent back</characteristic>
+                  <characteristic>looking</characteristic>
+                  <characteristic>arm raised horizontally</characteristic>
+                  <characteristic>embracing</characteristic>
+                  <illusobjdesc>A youthful male nude sits next to the old man in the center of the
+                     design. His hair is long and perhaps drawn into a bun. His legs are drawn up
+                     and crossed at the ankles. His knees are prominent. His body faces forward, but
+                     his head is turned up and to the right; he may be looking at the face of the
+                     old man. Although we see only his right shoulder and upper arm, his right arm
+                     may be extended horizontally; he may be embracing the old man.</illusobjdesc>
+               </component>
+               <component type="figure" location="BD">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>legs drawn up</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>facing left</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>knees</characteristic>
+                  <characteristic>legs crossed</characteristic>
+                  <illusobjdesc>A youthful male nude sits next to the old man in the center of the
+                     design. His legs are drawn up and crossed at the ankles, with prominent knees.
+                     His body faces forward, but his head is turned to the left, with his face
+                     pressed against the body or left leg of the old man. This figure's hair seems
+                     to be long.</illusobjdesc>
+               </component>
+               <component type="figure" location="D">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>breeches</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>legs together</characteristic>
+                  <characteristic>legs bent</characteristic>
+                  <characteristic>facing left</characteristic>
+                  <characteristic>head bent back</characteristic>
+                  <characteristic>facing up</characteristic>
+                  <characteristic>mouth open</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>arm at side</characteristic>
+                  <characteristic>hand on ground</characteristic>
+                  <characteristic>fingers spread</characteristic>
+                  <illusobjdesc>A youthful male sits in the lower right corner of the cell. He is
+                     probably nude, but lines just below his knees suggest that he may be wearing
+                     breeches. His legs are extended but slightly bent at the knees. His left arm is
+                     at his side, with his left hand on the ground (or, rather, on the floor),
+                     fingers spread apart. He faces left, with his head bent back and looking up;
+                     his mouth is slightly open. His hair is probably long.</illusobjdesc>
+               </component>
+               <component type="figure" location="C">
+                  <characteristic>male</characteristic>
+                  <characteristic>nude</characteristic>
+                  <characteristic>breeches</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>facing down</characteristic>
+                  <characteristic>head down</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>arm at side</characteristic>
+                  <characteristic>hand on ground</characteristic>
+                  <characteristic>fingers spread</characteristic>
+                  <illusobjdesc>A youthful male sits in the lower left corner of the cell. He is
+                     probably nude, but lines just below his knees suggest that he may be wearing
+                     breeches. He faces to the right, with his head down. His right arm is at is
+                     side, with his right hand on the ground (or, rather, on the floor), fingers
+                     spread. His hair is curly.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.14.01" justify="center">Does thy God O Priest take such
+                  vengeance</l>
+               <l n="gates-child.a.illbk.14.02" justify="center">as this?</l>
+            </lg>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.14.03" justify="left"><physnumber type="etched"
+                  >12</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.15" dbi="gates-child.A.P15">
+         <objtitle>, <objid><objnumber code="A15">Object 15 </objnumber><objcode code="B15">(Bentley
+                  15, </objcode><objcode code="E13">Erdman 13, </objcode><objcode code="K13">Keynes
+                  13)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>8.1 x 7.2 cm.</objsize>
+            <windowsize height="421" width="374"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>We see the corner of a featureless chamber or cell, perhaps with stone
+                  walls and a wooden floor. The only furniture is a bed (or possibly a bier),
+                  probably made of wood. A body very probably dead lies supine and rigid on the bed,
+                  legs together and at least the right arm at his side. The fingers of his right
+                  hand are long and prominent. This gowned figure is very probably an old man, as
+                  indicated by his long beard. His face is hidden by another figure. At his feet,
+                  rising into the air at a 45 degree angle from lower right to upper left, is
+                  another gowned and bearded old man. We can see the supine figure's feet through
+                  the lower leg of the rising figure, and thus he is almost certainly the ghost or
+                  spirit of the dead man. His hair is long and he faces to the left. His right arm
+                  is bent at the elbow with the forearm raised horizontally across his body. The
+                  index finger of his right hand is extended and points to the right. His left arm
+                  is bent at the elbow with the forearm raised vertically. One finger of his left
+                  hand points upward. In the foreground on the left is a young man with curly hair.
+                  He squats or sits on his left leg, bent under his body; his right leg is extended
+                  to the right and bent slightly at the knee. He may be wearing tights, or at least
+                  a belt around his waist. His right arm is at his side, with the fingers of his
+                  right hand spread apart. His mouth is slightly open, and he appears to be looking
+                  up and to the right in fear or surprise at the ghostly figure above and to the
+                  right. He may be the son of the dead man. Behind the bed and its corpse we see the
+                  head and upper body of a gowned woman wearing a scarf over her head. Her left arm
+                  is extended at 45 degrees. Her mouth may be slightly open, and she also looks up
+                  and to the right at the ghost with an expression of fear or surprise. She may be
+                  the wife or daughter of the dead man. Behind her and to the right are two small
+                  figures, probably children or grandchildren of the dead man. Of the child closest
+                  to the woman we see only the face, which is in right profile. The child farthest
+                  to the right in this group is probably a male with curly hair. We see only his
+                  face and upper chest. He is probably looking up and to the right at the
+                  ghost.</illusobjdesc>
+               <component type="structure" location="E">
+                  <characteristic>chamber</characteristic>
+                  <characteristic>cell</characteristic>
+                  <characteristic>stone</characteristic>
+                  <characteristic>wood</characteristic>
+                  <illusobjdesc>We see the corner of a featureless chamber or cell, perhaps with
+                     stone walls and a wooden floor.</illusobjdesc>
+               </component>
+               <component type="object" location="CD">
+                  <characteristic>bed</characteristic>
+                  <characteristic>bier</characteristic>
+                  <characteristic>wood</characteristic>
+                  <illusobjdesc>The only piece of furniture in the room is a bed or bier, probably
+                     made of wood.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>group of figures</characteristic>
+                  <characteristic>family</characteristic>
+                  <characteristic>father</characteristic>
+                  <characteristic>mother</characteristic>
+                  <characteristic>child</characteristic>
+                  <illusobjdesc>The group of figures in the design may be a family—a dead father on
+                     the bed, his wife, and three children.</illusobjdesc>
+               </component>
+               <component type="figure" location="CD">
+                  <characteristic>male</characteristic>
+                  <characteristic>gown</characteristic>
+                  <characteristic>old</characteristic>
+                  <characteristic>dead</characteristic>
+                  <characteristic>corpse</characteristic>
+                  <characteristic>lying</characteristic>
+                  <characteristic>supine</characteristic>
+                  <characteristic>beard</characteristic>
+                  <characteristic>rigid</characteristic>
+                  <characteristic>arm at side</characteristic>
+                  <characteristic>fingers</characteristic>
+                  <characteristic>legs together</characteristic>
+                  <illusobjdesc>A body—very probably dead—lies supine and rigid on the bed, legs
+                     together and at least the right arm at his side. The fingers of his right hand
+                     are long and prominent. This gowned figure is very probably an old man, as
+                     indicated by his long beard. His face is hidden by another
+                     figure.</illusobjdesc>
+               </component>
+               <component type="figure" location="BD">
+                  <characteristic>male</characteristic>
+                  <characteristic>old</characteristic>
+                  <characteristic>beard</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>gown</characteristic>
+                  <characteristic>ghost</characteristic>
+                  <characteristic>spirit</characteristic>
+                  <characteristic>pointing</characteristic>
+                  <characteristic>rising</characteristic>
+                  <characteristic>facing left</characteristic>
+                  <characteristic>arms bent</characteristic>
+                  <characteristic>arm wrapped around body</characteristic>
+                  <characteristic>arm raised horizontally</characteristic>
+                  <characteristic>arm raised vertically</characteristic>
+                  <characteristic>fingers</characteristic>
+                  <illusobjdesc>At the feet of the body on the bed or bier, rising into the air at a
+                     45 degree angle from lower right to upper left, is another gowned and bearded
+                     old man. We can see the supine figure's feet through the lower leg of the
+                     rising figure, and thus the latter is almost certainly the ghost or spirit of
+                     the dead man. His hair is long, and he faces to the left. His right arm is bent
+                     at the elbow with the forearm raised horizontally across his body. The index
+                     finger of his right hand is extended and points to the right. His left arm is
+                     bent at the elbow with the forearm raised vertically. One finger of his left
+                     hand points upward.</illusobjdesc>
+               </component>
+               <component type="figure" location="CD">
+                  <characteristic>male</characteristic>
+                  <characteristic>young</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>squatting</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>mouth open</characteristic>
+                  <characteristic>looking</characteristic>
+                  <characteristic>leg extended</characteristic>
+                  <characteristic>legs bent</characteristic>
+                  <characteristic>leg bent at knee</characteristic>
+                  <characteristic>arm at side</characteristic>
+                  <characteristic>fingers spread</characteristic>
+                  <characteristic>tights</characteristic>
+                  <characteristic>belt</characteristic>
+                  <characteristic>fear</characteristic>
+                  <characteristic>surprise</characteristic>
+                  <illusobjdesc>In the foreground on the left is a young man with curly hair. He
+                     squats or sits on his left leg, bent under his body; his right leg is extended
+                     to the right and bent slightly at the knee. He may be wearing tights, or at
+                     least a belt around his waist. His right arm is at his side, with the fingers
+                     of his right hand spread apart. His mouth is slightly open, and he appears to
+                     be looking up and to the right in fear or surprise at the ghostly figure above
+                     and to the right. He may be the son of the dead man.</illusobjdesc>
+               </component>
+               <component type="figure" location="AC">
+                  <characteristic>female</characteristic>
+                  <characteristic>gown</characteristic>
+                  <characteristic>upper body</characteristic>
+                  <characteristic>scarf</characteristic>
+                  <characteristic>looking</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>facing up</characteristic>
+                  <characteristic>mouth open</characteristic>
+                  <characteristic>fear</characteristic>
+                  <characteristic>surprise</characteristic>
+                  <characteristic>arm raised at 45 degrees</characteristic>
+                  <illusobjdesc>Behind the bed and its corpse we see the head and upper body of a
+                     gowned woman wearing a scarf over her head. Her left arm is raised at 45
+                     degrees. Her mouth may be slightly open, and she looks up and to the right at
+                     the ghost with an expression of fear or surprise. She may be the wife or
+                     daughter of the dead man.</illusobjdesc>
+               </component>
+               <component type="figure" location="D">
+                  <characteristic>child</characteristic>
+                  <characteristic>male</characteristic>
+                  <characteristic>curly hair</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>facing up</characteristic>
+                  <characteristic>looking</characteristic>
+                  <characteristic>upper body</characteristic>
+                  <illusobjdesc>Behind the prominent female figure and to the right are two small
+                     figures, probably children or grandchildren of the dead man. Of the child
+                     closest to the woman we see only the face, which is in right profile. The child
+                     farthest to the right in this group is probably a male with curly hair. We see
+                     only his face and upper chest. He is probably looking up and to the right at
+                     the ghost.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.d.illbk.15.01" justify="left"><physnumber type="etched"
+                     >13</physnumber><space extent="10"/>Fear or Hope are  Vision<note>In the second state of this plate, the word "or" is changed to an ampersand.</note></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.16" dbi="gates-child.A.P16">
+         <objtitle>, <objid><objnumber code="A16">Object 16 </objnumber><objcode code="B16">(Bentley
+                  16, </objcode><objcode code="E14">Erdman 14, </objcode><objcode code="K14">Keynes
+                  14)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>6.7 x 4.7 cm.</objsize>
+            <windowsize width="315" height="472"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>A male traveler strides boldly to the right. He wears a coat, breeches,
+                  shoes, and a hat; he holds a walking-stick in his right hand. His right arm is
+                  bent at the elbow, with his forearm raised horizontally. His hair would appear to
+                  be long. A long shadow extends from his left foot; another may form the dark
+                  triangle lower right. The ground beneath his feet may be covered with grass; leafy
+                  trees or large plants form the background. A few clouds fill the sky
+                  above.</illusobjdesc>
+               <component type="figure" location="E">
+                  <characteristic>walking</characteristic>
+                  <characteristic>striding</characteristic>
+                  <characteristic>facing right</characteristic>
+                  <characteristic>male</characteristic>
+                  <characteristic>traveler</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>arm bent</characteristic>
+                  <characteristic>arm raised horizontally</characteristic>
+                  <characteristic>walking-stick</characteristic>
+                  <characteristic>hat</characteristic>
+                  <characteristic>coat</characteristic>
+                  <characteristic>breeches</characteristic>
+                  <characteristic>shoes</characteristic>
+                  <illusobjdesc>A male traveler strides boldly to the right. He wears a coat,
+                     breeches, shoes, and a hat; he holds a walking-stick in his right hand. His
+                     right arm is bent at the elbow, with his forearm raised horizontally. His hair
+                     would appear to be long.</illusobjdesc>
+               </component>
+               <component type="vegetation" location="E">
+                  <characteristic>grass</characteristic>
+                  <characteristic>tree</characteristic>
+                  <characteristic>leaf</characteristic>
+                  <characteristic>plant</characteristic>
+                  <illusobjdesc>The ground beneath the walking man's feet may be covered with grass;
+                     leafy trees or large plants form the background.</illusobjdesc>
+               </component>
+               <component type="object" location="CD">
+                  <characteristic>shadow</characteristic>
+                  <illusobjdesc>A long shadow extends from the figure's left foot; another may form
+                     the dark triangle lower right.</illusobjdesc>
+               </component>
+               <component type="object" location="AB">
+                  <characteristic>cloud</characteristic>
+                  <illusobjdesc>A few clouds fill the sky above the trees.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+    <vspace extent="8"/>
+    <lg type="prose" justify="center">
+        <l n="gates-child.a.illbk.16.01" justify="center" indent="3">The Traveller hasteth in the</l>
+        <l n="gates-child.a.illbk.16.02" justify="center">Evening</l>
+    </lg>
+    <vspace extent="1"/>
+    <lg>
+        <l n="gates-child.a.illbk.16.03" justify="left">
+            <physnumber type="etched">14</physnumber></l>
+    </lg>
+</phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.17" dbi="gates-child.A.P17">
+         <objtitle>, <objid><objnumber code="A17">Object 17 </objnumber><objcode code="B17">(Bentley
+                  17, </objcode><objcode code="E15">Erdman 15, </objcode><objcode code="K15">Keynes
+                  15)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>7.2 x 5.2 cm.</objsize>
+            <windowsize width="315" height="472"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>The entire image is filled with a door in a building, wall, or tomb.
+                  The posts and lintel of this structure are made of stone; the partly-opened door
+                  into the dark chamber is made of wood. Into this doorway steps an old man leaning
+                  on a single crutch under his left arm. He apparently holds the crutch with his
+                  left hand. His beard is long; his long hair streams out to the left, the direction
+                  in which he is facing, as though shaped by a wind blowing from right to left and
+                  into the tomb or chamber. His left foot is on tiptoe; his right foot and leg are
+                  not pictured beneath his long gown. Given the caption, the man is entering his
+                  tomb and thus dying.</illusobjdesc>
+               <component type="structure" location="E">
+                  <characteristic>building</characteristic>
+                  <characteristic>door</characteristic>
+                  <characteristic>post</characteristic>
+                  <characteristic>lintel</characteristic>
+                  <characteristic>tomb</characteristic>
+                  <characteristic>chamber</characteristic>
+                  <characteristic>dark</characteristic>
+                  <characteristic>wall</characteristic>
+                  <characteristic>stone</characteristic>
+                  <characteristic>wood</characteristic>
+                  <illusobjdesc>The entire image is filled with a door in a building, wall, or tomb.
+                     The posts and lintel of this structure are made of stone; the partly-opened
+                     door into the dark chamber is made of wood.</illusobjdesc>
+               </component>
+               <component type="figure" location="E">
+                  <characteristic>male</characteristic>
+                  <characteristic>old</characteristic>
+                  <characteristic>walking</characteristic>
+                  <characteristic>leaning</characteristic>
+                  <characteristic>beard</characteristic>
+                  <characteristic>long hair</characteristic>
+                  <characteristic>wind</characteristic>
+                  <characteristic>crutch</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>arm at side</characteristic>
+                  <characteristic>facing left</characteristic>
+                  <characteristic>tiptoe</characteristic>
+                  <characteristic>left foot</characteristic>
+                  <characteristic>gown</characteristic>
+                  <characteristic>dying</characteristic>
+                  <illusobjdesc>An old man leaning on a single crutch under his left arm steps into
+                     a doorway. He apparently holds the crutch with his left hand. His beard is
+                     long; his long hair streams out to the left, the direction in which he is
+                     facing, as though shaped by a wind blowing from right to left and into the tomb
+                     or chamber. His left foot is on tiptoe; his right foot and leg are not pictured
+                     beneath his long gown. Given the caption, the man is entering his tomb and thus
+                     dying.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="center">
+               <l n="gates-child.a.illbk.17.01" justify="center">Death's Door</l>
+            </lg>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.17.02" justify="left"><physnumber type="etched"
+                  >15</physnumber></l>
+            </lg>
+         </phystext>
+      </desc>
+      <desc id="gates-child.a.illbk.18" dbi="gates-child.A.P18">
+         <objtitle>, <objid><objnumber code="A18">Object 18 </objnumber><objcode code="B18">(Bentley
+                  18, </objcode><objcode code="E16">Erdman 16, </objcode><objcode code="K16">Keynes
+                  16)</objcode></objid></objtitle>
+         <physdesc desclevel="brief">
+            <objsize>6.4 x 5.2 cm.</objsize>
+            <windowsize width="315" height="472"/>
+         </physdesc>
+         <illusdesc>
+            <illustration type="plate" location="E">
+               <illusobjdesc>A gowned figure of uncertain gender squats or sits, with legs drawn up
+                  and prominent knees, upon the earth. The figure, who faces forward, has a scarf or
+                  hood over the head. Arms at side, the figure holds a slender staff in the right
+                  hand. The left hand is on the ground. The figure appears to be looking, with open
+                  eyes, directly at the viewer. A worm lies on the ground, encircling the figure and
+                  reaching upward in a loop on the right side of the figure. Further to the lower
+                  right are two or three heads partly buried in the earth. These may be severed
+                  heads, or they may be the heads of corpses whose bodies are buried in graves below
+                  the seated figure. The front-most figure, probably male, has his eyes closed. The
+                  dark background is filled with the leafless limbs, trunks, and perhaps roots of
+                  trees. There may also be a small plant, lower left, large stones (particularly on
+                  the left), and a cave behind and above the seated figure.</illusobjdesc>
+               <component type="figure" location="E">
+                  <characteristic>gown</characteristic>
+                  <characteristic>sitting</characteristic>
+                  <characteristic>squatting</characteristic>
+                  <characteristic>legs drawn up</characteristic>
+                  <characteristic>knees</characteristic>
+                  <characteristic>facing forward</characteristic>
+                  <characteristic>arms at side</characteristic>
+                  <characteristic>scarf</characteristic>
+                  <characteristic>hood</characteristic>
+                  <characteristic>holding</characteristic>
+                  <characteristic>staff</characteristic>
+                  <characteristic>hand on ground</characteristic>
+                  <characteristic>looking</characteristic>
+                  <illusobjdesc>A gowned figure of uncertain gender squats or sits, with legs drawn
+                     up and prominent knees, upon the earth. The figure, who faces forward, has a
+                     scarf or hood over the head. Arms at side, the figure holds a slender staff in
+                     the right hand. The left hand is on the ground. The figure appears to be
+                     looking, with open eyes, directly at the viewer.</illusobjdesc>
+               </component>
+               <component type="animal" location="CD">
+                  <characteristic>worm</characteristic>
+                  <characteristic>encircling</characteristic>
+                  <characteristic>loop</characteristic>
+                  <illusobjdesc>A worm lies on the ground, encircling the seated figure and reaching
+                     upward in a loop on the right side of the figure.</illusobjdesc>
+               </component>
+               <component type="figure" location="D">
+                  <characteristic>group of figures</characteristic>
+                  <characteristic>buried</characteristic>
+                  <characteristic>head</characteristic>
+                  <characteristic>severed head</characteristic>
+                  <characteristic>corpse</characteristic>
+                  <characteristic>dead</characteristic>
+                  <characteristic>male</characteristic>
+                  <characteristic>eyes closed</characteristic>
+                  <characteristic>grave</characteristic>
+                  <illusobjdesc>In the lower right corner of the image are two or three heads partly
+                     buried in the earth. These may be severed heads, or the heads of corpses whose
+                     bodies are buried in graves below the seated figure. The front-most figure,
+                     probably male, has his eyes closed.</illusobjdesc>
+               </component>
+               <component type="vegetation" location="E">
+                  <characteristic>tree</characteristic>
+                  <characteristic>trunk</characteristic>
+                  <characteristic>root</characteristic>
+                  <characteristic>limb</characteristic>
+                  <characteristic>leafless</characteristic>
+                  <characteristic>dark</characteristic>
+                  <characteristic>plant</characteristic>
+                  <illusobjdesc>The dark background is filled with the leafless limbs, trunks, and
+                     perhaps roots of trees. There may be a small plant growing in the lower left
+                     corner of the image.</illusobjdesc>
+               </component>
+               <component type="object" location="E">
+                  <characteristic>stone</characteristic>
+                  <characteristic>cave</characteristic>
+                  <illusobjdesc>The background of the image may include large stones, particularly
+                     on the right, and a cave behind and above the seated figure.</illusobjdesc>
+               </component>
+            </illustration>
+         </illusdesc>
+         <phystext>
+            <vspace extent="8"/>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.18.01" justify="left" indent="4">I have said to the Worm, Thou</l>
+               <l n="gates-child.a.illbk.18.02" justify="left" indent="6">art my mother &amp; my
+                  sister</l>
+            </lg>
+            <lg type="prose" justify="left">
+               <l n="gates-child.a.illbk.18.03" justify="left"><physnumber type="etched"
+                  >16</physnumber>
+               </l>
+            </lg>
+         </phystext>
+      </desc>
+   </objdesc>
+</bad>
