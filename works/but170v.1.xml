@@ -1,0 +1,299 @@
+<bad id="but170v.1" type="mono" work="Aminadab, Called 'The Reposing Traveller'" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="170v">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Aminadab, Called 'The Reposing Traveller'">
+                    <main>
+                        Aminadab, Called "The Reposing Traveller"</main>
+                    <copy>Copy 1</copy>: electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt></respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                and the University of Rochester
+                </sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 177KB to 261KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>August 2024</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+        <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2024</date> by Morris Eaves, Robert N. Essick,
+        and Joseph Viscomi, all rights reserved. Items in the Archive may be
+        shared in accordance with the Fair Use provisions of U.S. copyright law.
+        Redistribution or republication on other terms, in any medium, requires
+        express written consent from the editors and advance notification of the
+        publisher. Permission to reproduce the graphic images in this archive has been
+        granted by the owners of the originals for this publication only.
+        <lb/>
+        <lb/>
+        This image copyright © 2024 British Museum.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Transcription, final proofing, revisions, and publication</change>
+                <date>September 2023-August 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Proofing and mark up</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Michael Fox, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Morgan Lessley, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Anastasia Nikolis, </name>
+                    <name>Kylie Regan, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and image color correction</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah Jones, </name>
+                    <name>Lauren Klapper-Lehman, </name>
+                    <name>Michelle Langston, </name>
+                    <name>Rachel Lee, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>September 2001</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        Aminadab, Called "The Reposing Traveller"
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                </origination>
+            <compdate value="1785.O">c. 1785<note>The dating is based on stylistic considerations.</note></compdate>
+      </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>14.5 x 9.5 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>24.4 x 17.3 cm.</leafsize>
+                <medium>pen and ink, monochrome wash</medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>1<note>Fragments of a single framing line extend around the image.</note></framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1867</date>
+                <dealer>none</dealer>
+                <price>not recorded</price>
+                <note>Inherited from Blake by his wife Catherine upon his death in 1827; 
+                    acquired by Frederick Tatham, probably upon Catherine Blake's death in 1831; 
+                    sold by Tatham to the British Museum in October 1867.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <department>Prints and Drawings</department>
+                <repositoryid label="Museum number">1867,1012.205</repositoryid>
+            </repository>
+        </source>
+        <desc id="but170v.1.wd.01" dbi="BUT170.1.1v.WD">
+            <objtitle>
+                <title type="transcribed">Aminadab, Called "The Reposing Traveller"</title>
+                <title type="alt">The Reposing Traveller</title>,
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="U1">(Butlin 170 verso)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>24.4 x 17.3 cm.</objsize>
+                <objnote><p>The pencil inscription immediately below the design, "The Reposing Traveller," was written by Blake.  The British Museum collection stamp appears lower left. This is one of seven monochrome wash drawings (Objects 37-43) by Blake of figures painted by Michelangelo in the Sistine Chapel. They were very probably copied from the engravings of Adamo Ghisi, after drawings by Giorgio Ghisi, published in *Pitture dipinte nella Volta della Capella Sistina nel Vaticano* (1773). The wash drawing, *Manasses*, is on the recto of this leaf.</p>
+                   <p>Frederick Tatham added a pen and ink inscription in the lower right corner of the leaf bearing this drawing.</p></objnote>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>This wash drawing, after a portion of Michelangelo’s Sistine Ceiling, is presumably of the biblical figure Aminadab, identified as a “Reposing Traveller” in the inscription below the image. He sits forward, directly facing the viewer on a large block. The slope of his shoulders suggests that he is hunched slightly forward. His arms extend downwards so that his elbows rest on his thighs and his hands dangle between his bare legs. His hands cross at the wrist, with his right hand in the front and index finger pointed down. He left hand is turned to the side and touches his right knee. Both hands hold a piece of fabric, probably part of his tunic, that drapes in between his legs. His prominent, bare knees are parallel to his shoulders and his legs meet at the ankles to form a triangular shape with the left foot crossed in front of the right. Four toes of his left foot rest on the ground and the heel is slightly raised, while the right foot appears to rest against the block. He wears a short tunic with a scooped neckline that reveals a portion of chest, and a long-sleeved shirt is visible under the tunic sleeves. Part of the tunic drapes down the left side of the block. His mouth is closed and his brows are furrowed. His long, wavy hair appears to be fastened with a headband, but wisps break free and frame the right side of his face. The block on which the figure sits rests on a bare floor. The background is plain, perhaps representing a bare wall behind the figure.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>Aminadab</characteristic>
+                        <characteristic>tunic</characteristic>
+                        <characteristic>traveler</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>head toward viewer</characteristic>
+                        <characteristic>hunched over</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>knees</characteristic>
+                        <characteristic>arm down</characteristic>
+                        <characteristic>arm dangling</characteristic>
+                        <characteristic>arm crossed</characteristic>
+                        <characteristic>arms resting</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>band</characteristic>  
+                        <illusobjdesc>The man seated on the block is presumably the biblical figure Aminadab, identified as a “Reposing Traveller” in the inscription below the image. He sits forward, directly facing the viewer on a large block. He sits forward, directly facing the viewer on a large block. The slope of his shoulders suggests that he is hunched slightly forward. His arms extend downwards so that his elbows rest on his thighs and his hands dangle between his bare legs. His hands cross at the wrist, with his right hand in the front and index finger pointed down. He left hand is turned to the side and touches his right knee. Both hands hold a piece of fabric, probably part of his tunic, that drapes in between his legs. His prominent, bare knees are parallel to his shoulders and his legs meet at the ankles to form a triangular shape with the left foot crossed in front of the right. Four toes of his left foot rest on the ground and the heel is slightly raised, while the right foot appears to rest against the block. He wears a short tunic with a scooped neckline that reveals a portion of chest, and a long-sleeved shirt is visible under the tunic sleeves. Part of the tunic drapes down the left side of the block. His mouth is closed and his brows are furrowed. His long, wavy hair appears to be fastened with a headband, but wisps break free and frame the right side of his face.</illusobjdesc>
+                    </component>
+                	<component type="object" location="CD">
+                        <characteristic>box</characteristic>
+                        <characteristic>seat</characteristic>
+                        <characteristic>stone</characteristic>
+                        <illusobjdesc>The large block on which the figure sits has a plain face. It could be made of stone.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>room</characteristic>
+                        <characteristic>floor</characteristic>
+                        <characteristic>wall</characteristic>
+                        <illusobjdesc>The block on which the figure sits rests on a bare floor. The background is plain, perhaps representing a bare wall behind the figures.</illusobjdesc>
+                    </component>
+                        <component type="object" location="E">
+                            <characteristic>shadow</characteristic>
+                            <illusobjdesc>Shadows appear on the man’s right arm, chest, and behind his right leg.</illusobjdesc>
+                        </component>
+                    </illustration>
+            </illusdesc>
+            <phystext>
+                <lg type="prose" justify="left"> 
+                    <l n="but170.v.1.01" justify="left" indent="27"><unclear resp="LK">5</unclear>The Reposing
+                        <choice>
+                            <orig>Traveller</orig>
+                            <reg>Traveler</reg>
+                        </choice><note>A character that resembles the number “5” precedes the “T” in “The”.</note></l>
+                </lg>
+                <vspace extent="7"/>
+                <lg type="prose" justify="left"> 
+                    <l n="but170v.1.wd.01.02" justify="left" indent="45"> 
+                        <hi rend="handshift" medium="pen">Blakes writing &amp; Drawing</hi></l></lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

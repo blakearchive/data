@@ -1,0 +1,306 @@
+<bad id="but170r.1" type="mono" work="Manasses" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="170r">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Manasses">
+                    <main>
+                        Manasses</main>
+                    <copy>Copy 1</copy>: electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt></respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 177KB to 232KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>August 2024</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+        <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2024</date> by Morris Eaves, Robert N. Essick,
+        and Joseph Viscomi, all rights reserved. Items in the Archive may be
+        shared in accordance with the Fair Use provisions of U.S. copyright law.
+        Redistribution or republication on other terms, in any medium, requires
+        express written consent from the editors and advance notification of the
+        publisher. Permission to reproduce the graphic images in this archive has been
+        granted by the owners of the originals for this publication only.
+        <lb/>
+        <lb/>
+            This image copyright © 2024 British Museum.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Transcriptions, final proofing, revisions, and publication</change>
+                <date>September 2023-August 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Proofing and image mark up</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Michael Fox, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Morgan Lessley, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Anastasia Nikolis, </name>
+                    <name>Kylie Regan, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and image color correction</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah Jones, </name>
+                    <name>Lauren Klapper-Lehman, </name>
+                    <name>Michelle Langston, </name>
+                    <name>Rachel Lee, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>September 2001</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        Manasses
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                </origination>
+            <compdate value="1785.N">c. 1785<note>The dating is based on stylistic considerations</note></compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>15.0 x 11.0 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>24.4 x 17.3 cm.</leafsize>
+                <medium>pen and ink, monochrome wash</medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>1</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1867</date>
+                <dealer>none</dealer>
+                <price>not recorded</price>
+                <note>Inherited from Blake by his wife Catherine upon his death in 1827; acquired by Frederick Tatham, 
+                    probably upon Catherine Blake's death in 1831; sold by Tatham to the British Museum in October 1867.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <department>Prints and Drawings</department>
+                <repositoryid label="Museum number">1867,1012.205</repositoryid>
+            </repository>
+        </source>
+        <desc id="but170r.1.wd.01" dbi="BUT170.1.1r.WD">
+            <objtitle>
+                <title type="transcribed">Manasses</title>
+<objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="U1">(Butlin 170 recto)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>24.4 x 17.3 cm.</objsize>
+                <objnote><p>This is one of seven monochrome wash drawings (Objects 37-43) by Blake of figures 
+                    painted by Michelangelo in the Sistine Chapel. They were very probably copied from the engravings of Adamo Ghisi, after drawings by Giorgio Ghisi, 
+                    published in *Pitture dipinte nella Volta della Capella Sistina nel Vaticano* (1773). 
+                    The wash drawing, *Aminadab, Called "The Reposing Traveller"*, is on the verso of this leaf.</p>
+                    <p>Frederick Tatham added a pen and ink inscription in the lower right corner of the leafing bearing this drawing.</p></objnote>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>This wash drawing, after a portion of Michelangelo’s Sistine Ceiling, shows a male figure seated on a large block. It is presumably the figure Manasses. He sits hunched forward facing right and his back is severely arched. He looks downward. His chin is to his chest and his eyes and mouth are closed. A prominent wart or other growth is visible on his chin.  His arms are extended to rest on his legs and his hands are crossed at the wrist. His right hand cups his left knee, while his left hand dangles with slightly spread fingers. His left leg is drawn up at an exaggerated angle and bends at the knee to cross over his right leg while his bare left foot dangles. His right left bends at the knee and his right heel rests against the block. He wears a long tunic and a hood covers his head. The block on which the man sits rests on a bare floor. The background is plain, perhaps representing a bare wall behind the man. </illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>Manasses</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>hunched over</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm crossed</characteristic>
+                        <characteristic>hand on knee</characteristic>
+                        <characteristic>head down</characteristic>
+                       <characteristic>tunic</characteristic>
+                       <characteristic>hood</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                       <characteristic>facing down</characteristic>
+                    <characteristic>legs crossed </characteristic>
+                        <characteristic>leg dangling </characteristic>
+                    <illusobjdesc>The man seated on the block is presumably the Manasses of the title, a biblical figure listed in Matthew's genealogy of Jesus.  He sits hunched forward facing right and his back is severely arched. He looks downward. His chin is to his chest and his eyes and mouth are closed. A prominent wart or other growth is visible on his chin. His arms are extended to rest on his legs and his hands are crossed at the wrist. His right hand cups left knee, while his left hand dangles with slightly spread fingers. His left leg is drawn up at an exaggerated angle and bends at the knee to cross over his right leg while his bare left foot dangles. His right left bends at the knee and his right heel rests against the block. He wears a long tunic and a hood covers his head.  </illusobjdesc>
+                    </component>
+                   <component type="object" location="CD">
+                        <characteristic>box</characteristic>
+                        <characteristic>seat</characteristic>
+                        <characteristic>stone</characteristic>
+                        <illusobjdesc>The large block on which the man sits has a plain face. It could be made of stone.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>room</characteristic>
+                        <characteristic>floor</characteristic>
+                        <characteristic>wall</characteristic>
+                        <illusobjdesc>The block on which the man sits rests on a bare floor. The background is plain, perhaps representing a bare wall behind the figures.</illusobjdesc>
+                    </component>
+                        <component type="object" location="E">
+                            <characteristic>shadow</characteristic>
+                            <illusobjdesc>Shadows appear on the man’s face, chest and torso, lower left leg, and back.</illusobjdesc>
+                        </component>
+                    </illustration>
+            </illusdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="but170r.1.wd.01.01" justify="left" indent="40"><hi rend="handshift" medium="pen">drawn by William</hi></l>
+                    <l n="but170r.1.wd.01.02" justify="left" indent="51"><hi rend="handshift" medium="pen">Blake</hi></l>
+                    <l n="but170r.1.wd.01.03" justify="left" indent="44"><hi rend="handshift" medium="pen">from 
+                        <choice>
+                            <orig>Michael Angelo</orig>
+                            <reg type="alt_name">Michelangelo</reg>
+                        </choice></hi>
+                    </l>  
+                    <l n="but170r.1.wd.01.04" justify="left" indent="48"><hi rend="handshift" medium="pen">vouched by</hi></l>
+                    <l n="but170r.1.wd.01.05" justify="left" indent="51.5">
+                        <hi rend="handshift" medium="pen">
+                            <choice>
+                                <orig>Fred.<hi rend="superscript">k</hi></orig>
+                                <reg type="alt_name">Frederick</reg>
+                            </choice> Tatham</hi></l>
+                </lg>
+            </phystext>
+</desc>
+    </objdesc>
+</bad>
+
+   

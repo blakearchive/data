@@ -1,0 +1,323 @@
+<bad id="but171.1" type="mono" work="Pan Teaching a Boy to Play on the Pipes" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="171">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Pan Teaching a Boy to Play on the Pipes">
+                    <main>
+                        Pan Teaching a Boy to Play on the Pipes</main>
+                    <copy>Copy 1</copy>: electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+                </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 177KB to 305KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>August 2024</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <notesstmt/>
+            </filedesc>
+            <userestrict>Copyright © <date>2024</date>
+                by Morris Eaves, Robert N. Essick, and Joseph Viscomi, all rights reserved. 
+                Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law.
+                Redistribution or republication on other terms, in any medium, requires
+                express written consent from the editors and advance notification of the publisher.
+                Permission to reproduce the graphic images in this archive has been
+                granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+                This image copyright © 2024 British Museum.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Transcription, final proofing, revisions, and publication</change>
+                <date>September 2023-August 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Proofing and image mark up</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Michael Fox, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Morgan Lessley, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Anastasia Nikolis, </name>
+                    <name>Kylie Regan, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and image color correction</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah Jones, </name>
+                    <name>Lauren Klapper-Lehman, </name>
+                    <name>Michelle Langston, </name>
+                    <name>Rachel Lee, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>September 2001</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                <resp>Technical Editor: </resp>
+                    <name>Andrea Laue </name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        Pan Teaching a Boy to Play on the Pipes
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                </origination>
+                <compdate value="1785.P">c. 1785<note>The dating is based on stylistic considerations.</note></compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>10.5 x 7.6 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>21.0 x 16.5 cm.</leafsize>
+                <medium>pen and ink, monochrome wash<note>The slight indication of an arm below the main drawing is rendered in pencil.</note></medium>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1867</date>
+                <dealer>none</dealer>
+                <price>not recorded</price>
+                <note>Inherited from Blake by his wife Catherine upon his death in 1827; 
+                    acquired by Frederick Tatham, probably upon Catherine Blake's death in 1831; 
+                    sold by Tatham to the British Museum in October 1867.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <department>Prints and Drawings</department>
+                <repositoryid label="Museum number">1867,1012.202</repositoryid>
+            </repository>
+        </source>
+        <desc id="but171.1.wd.01" dbi="BUT171.1.1.WD">
+            <objtitle>
+                <title type="transcribed">Pan Teaching a Boy to Play on the Pipes</title>,
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="U1">(Butlin 171)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>21.0 x 16.5 cm.</objsize>
+                <objnote><p>Frederick Tatham added a pen and ink inscription in the lower right corner of the leaf bearing this drawing.</p></objnote>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>This wash drawing depicts the Greek god Pan and another male figure, probably the shepherd Daphnis. Pan sits to the left in profile, his body facing right. He leans slightly back as he sits and hunches his shoulders forward. His head is down and slightly bent to the left, as if looking at the flute while leaning toward or listening to the male figure at his right. His right arm is bent at the elbow and he holds the bottom of the flute with his right hand. He appears to be teaching or showing Daphnis how to use the flute. Pan sits on an indeterminate object, perhaps a stump or a box, with his legs together and his left hoof crossed in front of the right hoof. His prominent right hindquarter is muscular, and part of his left hindquarter is visible behind it. His legs are covered in fur. He has long, swept back hair, a beard, and two small horns on his forehead. The shepherd Daphnis sits to the right, facing forward. The left side of his body is obscured by Pan. His arms are bent at the elbow and extended up. He holds the flute with both hands and brings it close to his face. He looks at Pan and sits close to him on the stump or box, twisting his body to turn toward him. His right leg is lifted up and bent at the knee, extending slightly outwards. His lower right leg might be resting between Pan’s hindquarters. His left leg crosses over and rests on his right ankle with his left foot placed next to Pan’s hooves. He has short curly hair. Both Pan and Daphnis are nude. The block or stump on which the figures sit has indeterminate decorative details running diagonally from top left to bottom right, including what may be a curved line and an outline that mimics the hindquarters of Pan. Shadows appear along Pan’s back and Daphnis’s chest. The block on which the figures sit rests on a bare floor. The background is plain, perhaps representing a bare wall behind the figures. A tentative pencil sketch depicts a portion of an arm below the main drawing.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>Pan</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>muscular</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head down</characteristic>
+                        <characteristic>hunched over</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>hoof</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>fur</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>teaching</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <illusobjdesc>The man seated on the left of the block is presumably the Greek god Pan. He sits in profile, his body facing right. He leans slightly back as he sits and hunches his shoulders forward. His head is down and slightly bent to the left, as if looking at the flute while leaning toward or listening to the male figure at his right. His right arm is bent at the elbow and he holds the bottom of the flute with his right hand. He appears to be teaching or showing Daphnis how to use the flute. Pan sits on an indeterminate object, perhaps a stump or a box, with his legs together and his left hoof crossed in front of the right hoof. His prominent right hindquarter is muscular, and part of his left hindquarter is visible behind it. His legs are covered in fur. He has long, swept back hair, a beard, and two small horns on his forehead. Both Pan and Daphnis are nude.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>Daphnis</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>shepherd</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>arms bent</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <illusobjdesc>The shepherd Daphnis(?) sits to the right, facing forward. The left side of his body is obscured by Pan. His arms are bent at the elbow and extended up. He holds the flute with both hands and brings it close to his face. He looks at Pan and sits close to him on the stump or box, twisting his body to turn toward him. His right leg is lifted up and bent at the knee, extending slightly outwards. His lower right leg might be resting between Pan’s hindquarters. His left leg crosses over and rests on his right ankle with his left foot placed next to Pan’s hooves. He has short curly hair. Both Pan and Daphnis are nude.</illusobjdesc></component>
+                        <component type="object" location="AB">
+                            <characteristic>flute</characteristic>
+                            <illusobjdesc>Both Pan and Daphnis hold a flute. Pan appears to be teaching or showing Daphnis how to play the flute.</illusobjdesc></component>
+                        <component type="object" location="AB">
+                        <characteristic>box</characteristic>
+                        <characteristic>seat</characteristic>
+                	    <characteristic>stump</characteristic>
+                	    <characteristic>indeterminate</characteristic>
+                	    <illusobjdesc>The large block or stump on which the figures sit has indeterminate decorative elements running diagonally from top left to bottom right, including a curved line and an outline that mimics the hindquarters of Pan. </illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>room</characteristic>
+                        <characteristic>floor</characteristic>
+                        <characteristic>wall</characteristic>
+                        <illusobjdesc>The block or stump on which the figures sit rests on a bare floor. The background is plain, perhaps representing a bare wall behind the figures.</illusobjdesc>
+                    </component>
+                        <component type="object" location="AB">
+                            <characteristic>shadow</characteristic>
+                            <illusobjdesc>Shadows appear along Pan’s back and Daphnis’s chest.</illusobjdesc>
+                        </component>
+                    <component type="object" location= "CD">
+                        <characteristic>arm</characteristic>
+                        <illusobjdesc>A tentative pencil sketch may depict a portion of an arm below the main drawing. </illusobjdesc></component>
+                    </illustration>
+            </illusdesc>
+        </desc>
+        <phystext>
+            <lg type="prose" justify="left">
+                <l n="but171.1.wd.01.01" justify="left" indent="40">
+                    <hi rend="handshift" medium="pen">Drawn by William Blake</hi></l>
+                <l n="but171.1.wd.01.02" justify="left" indent="42">
+                    <hi rend="handshift" medium="pen">after the Antique supposed</hi></l>
+                <l n="but171.1.wd.01.03" justify="left" indent="43">
+                    <hi rend="handshift" medium="pen">for some work.</hi></l>  
+                <l n="but171.1.wd.01.04" justify="left" indent="52">
+                    <hi rend="handshift" medium="pen">Frederick Tatham<del type="overstrike">s</del></hi>
+                    <note>Butlin reads the deleted character at the end of "Tatham" as an "s" (Butlin 171).</note></l>
+            </lg>
+        </phystext>
+    </objdesc>
+</bad>

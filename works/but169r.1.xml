@@ -1,0 +1,274 @@
+<bad id="but169r.1" type="mono" work="Solomon" copy="1" copyid="1" institution="britishmuseum" catalog="butlin" catid="169r">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Solomon">
+                    <main>Solomon</main>
+                    <copy>Copy 1</copy>
+                    : electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt></respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 17KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 177KB to 261KB</extent><!--BATS, please update image file size!-->
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>August 2024</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>     
+            <notesstmt/>
+        </filedesc>
+        <userestrict>
+            Copyright © 
+            <date>2024</date> 
+            by Morris Eaves, Robert N. Essick, and Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright 
+            law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher. Permission 
+            to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+            <lb/>
+            This image copyright © 2024 British Museum.
+        </userestrict>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>September 2023-August 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>                                    
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and image color correction</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Amber Bertin, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Mike Fox, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Anastasia Nikolis, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>September 2001</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        Solomon
+                    </title>
+                  </objtitle>
+                  <origination>William Blake 
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                  </origination>              
+                <compdate value="1785.L">c. 1785<note>The dating is based on stylistic considerations.</note></compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>14.9 x 10.4 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>24.0 x 17.1 cm.</leafsize>
+                <medium>pen and ink, monochrome wash</medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>1</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>British Museum</name>
+                <date>1867</date>
+                <dealer>none</dealer>
+                <price>not recorded</price>
+                <note>Inherited from Blake by his wife Catherine upon his death in 1827; acquired by Frederick Tatham, probably upon Catherine Blake's death in 1831; sold by Tatham to the British Museum in Oct. 1867.</note>
+            </provenance>
+            <repository>
+                <institution>British Museum</institution>
+                <department>Prints and Drawings</department>
+                <repositoryid label="Museum number">1867,1012.204</repositoryid>
+            </repository>
+        </source>
+        <desc id="but169r.1.wd.01" dbi="BUT169.1.1r.WD">
+            <objtitle>
+                <title type="transcribed">Solomon</title>,
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="U1">(Butlin 169 recto)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>24.0 x 17.1 cm.</objsize>
+                <objnote><p>This is one of seven monochrome wash drawings (Objects 37-43) by Blake of figures painted by 
+                    Michelangelo in the Sistine Chapel. They were very probably copied from the engravings of Adamo Ghisi, 
+                    after drawings by Giorgio Ghisi, published in *Pitture dipinte nella Volta della Capella Sistina nel 
+                    Vaticano* (1773). The wash drawing, *Abiud*, is on the verso of this drawing.</p>
+                    <p>Frederick Tatham added a pen and ink inscription in the lower right corner of the leaf bearing this drawing.</p>
+                </objnote>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>This wash drawing, after a fresco by Michelangelo, shows a gowned female figure sitting on a large block. The figure faces right in a contracted posture and appears to be winding yarn. Her right arm bends 90 degrees at the elbow and her right palm faces up to hold the ball of yarn in it. Her hand may rest on her right leg or is held parallel to it. Her left arm is raised horizontally to hold a piece of yarn with her thumb and middle finger. She spins or winds the yarn around the structure to her right, which already holds several turns of the yarn. Her right leg crosses her left leg at the knee, and her right foot dangles while the left foot rests with toes on the floor and heel against the block. Both feet are bare. She wears a long dress tied at the waist and with long sleeves. She sits on fabric that dangles over the right side of the block. It may be a part of the scarf or wrap around her head, or it may be a part of her gown. A yarn swift, used to wind yarn, is to the right of the figure. It consists of a long vertical pole that extends from the ground to the height of the seated figures’ shoulders, a horizontal perpendicular pole at the top, four poles extending downward from the horizontal pole at 45 degrees to form a four-sided isosceles triangle, and four poles extend upward at 45 degrees from each side of the base of the four-sided triangle to form two isosceles triangles at either side of the horizontal pole. The block on which the figure sits rests on a bare floor. The background is plain, perhaps representing a bare wall behind the figure.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>scarf</characteristic>
+                        <characteristic>winding</characteristic>
+                        <characteristic>spinning</characteristic>
+                        <characteristic>palm out</characteristic>
+                        <characteristic>fingers</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>legs crossed</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>contracted</characteristic>
+                        <characteristic>hunched over</characteristic>   
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>hand on knee</characteristic>
+                        <illusobjdesc>A gowned female figure sits on a large block. The figure faces right in a contracted posture and appears to be winding yarn. Her right arm bends 90 degrees at the elbow and her right palm faces up to hold the ball of yarn in it; her hand may rest on her right leg or is held parallel to it. Her left arm is raised horizontally to hold a piece of yarn with her thumb and middle finger and guide it around the structure to her right. Her right leg crosses her left leg at the knee, and her right foot dangles while the left foot rests with toes on the floor and heel against the block. Both feet are bare. She wears a long dress tied at the waist and with long sleeves. She sits on fabric that dangles over the right side of the block. It may be a part of the scarf or wrap around her head, or it may be a part of her gown. </illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>ball</characteristic>
+                        <characteristic>string</characteristic>
+                        <characteristic>circle</characteristic>
+                        <characteristic>wound</characteristic>
+                        <illusobjdesc>The seated woman holds a ball of yarn in her right hand and a string of the yarn with her left thumb and middle finger. She is guiding the string around the structure to her right, around which she has already wound many strings to create a circle of yarn. </illusobjdesc>
+                    </component>
+                    <component type="object" location="BD">
+                        <characteristic>wood</characteristic>
+                        <characteristic>pole</characteristic>
+                        <characteristic>triangle</characteristic>
+                        <illusobjdesc>A yarn swift, used to wind yarn, is to the right of the figure. It consists of several interlocking poles, probably made of wood. A long vertical pole extends from the ground to the height of seated figures’ shoulders. A horizontal perpendicular pole crosses it at the top, four poles extend downward at 45 degrees to form a four-sided isosceles triangle, and four poles extend upward at 45 degrees from each side of the base of the four-sided triangle to form two isosceles triangles at either side of the horizontal pole.</illusobjdesc></component>     
+                	<component type="object" location="C">
+                        <characteristic>box</characteristic>
+                        <characteristic>seat</characteristic>
+                        <characteristic>stone</characteristic>
+                        <illusobjdesc>The large block on which the figure sits has a plain face. It could be made of stone.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>room</characteristic>
+                        <characteristic>floor</characteristic>
+                        <characteristic>wall</characteristic>
+                        <illusobjdesc>The block on which the figure sits rests on a bare floor. The background is plain, perhaps representing a bare wall behind the figures.</illusobjdesc>
+                    </component>
+                        <component type="object" location="E">
+                            <characteristic>shadow</characteristic>
+                            <illusobjdesc>Shadows appear beneath the woman’s torso, along her right forearm and portions of both upper arms, and along the folds of the dress at her back. </illusobjdesc>
+                        </component>
+                  </illustration>
+            </illusdesc>
+            <phystext>         
+                <lg justify="left">
+                    <l n="but169r.1.wd.01.01" justify="left" indent="46"><hi rend="handshift" medium="pen">Sketch by William Blake</hi></l>
+                    <l n="but169r.1.wd.01.02" justify="left" indent="49"><hi rend="handshift" medium="pen">from the well known</hi></l>
+                    <l n="but169r.1.wd.01.03" justify="left" indent="49"><hi rend="handshift" medium="pen">Print from
+                        <choice>
+                            <orig>Michael Angelo</orig>
+                            <reg type="alt_name">Michelangelo</reg>
+                        </choice></hi></l>
+                    <l n="but169r.1.wd.01.04" justify="left" indent="57"><hi rend="handshift" medium="pen">Frederick Tatham.</hi></l></lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

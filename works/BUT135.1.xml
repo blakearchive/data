@@ -1,0 +1,387 @@
+<bad id="but135.1" type="mono" work="The Spirit of a Just Man Newly Departed Appearing to His Mourning Family" copy="1" copyid="1" institution="royal" catalog="butlin" catid="135">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Spirit of a Just Man Newly Departed Appearing to His Mourning Family">
+                    <main>
+                        The Spirit of a Just Man Newly Departed Appearing to His Mourning Family</main>
+                    <copy>Copy 1</copy>
+                    : electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                </principal>
+                <respstmt>
+                </respstmt>
+                    <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+                    <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 27KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 177KB to 745KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries 
+                <date>August 2024</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2024</date> by Morris Eaves, Robert N. Essick,
+            and Joseph Viscomi, all rights reserved. Items in the Archive may be
+            shared in accordance with the Fair Use provisions of U.S. copyright law.
+            Redistribution or republication on other terms, in any medium, requires
+            express written consent from the editors and advance notification of the publisher.
+            Permission to reproduce the graphic images in this archive has been
+            granted by the owners of the originals for this publication only.
+            <lb/>
+            <lb/> 
+            This image copyright © 2024 Royal Collection Trust.
+            <lb/>
+                <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <changestmt>
+                    <change>Textual transcription, final proofing, revisions, and publication</change>
+                    <date>September 2023-August 2024</date>
+                    <respstmt>
+                        <resp>Editors: </resp>
+                        <name>Morris Eaves, </name>
+                        University of Rochester;
+                        <name>Robert Essick, </name>
+                        University of California, Riverside; and
+                        <name>Joseph Viscomi, </name>
+                        University of North Carolina at Chapel Hill
+                        <resp>Assistant Editor: </resp>
+                        <name>Michael Fox</name>
+                        <resp>Managing Editor: </resp>
+                        <name>Joseph Fletcher</name>
+                        <resp>Assistant Project Manager: </resp>
+                        <name>Grant Glass</name>
+                        <resp>Project Coordinator, University of Rochester: </resp>
+                        <name>Marcie Woehl</name>
+                        <resp>Consultants on Special Projects: </resp>
+                        <name>Ashley Reed, </name>
+                        <name>Josh Romphf</name>
+                        <resp>Bibliographer: </resp>
+                        <name>Chuck Ripley</name>
+                        <resp>Project Consultant: </resp>
+                        <name>Meaghan Green</name>
+                        <resp>Project Assistants: </resp>
+                        <name>Christopher Catanese, </name>
+                        <name>Emily English, </name>
+                        <name>Dani Garcia, </name>
+                        <name>Liam Kusmierek, </name>
+                        <name>Mary Learner, </name>
+                        <name>Anna Mertz, </name>
+                        <name>Celeste Seifert, </name>
+                        <name>Elizabeth Shand, </name>
+                        <name>Kate Soules, </name>
+                        <name>Samantha Steiner, </name>
+                        <name>Gabby Tapia, </name>
+                        <name>Dominique Townsend, </name>
+                        <name>Alice Wynd</name>
+                    </respstmt>
+                </changestmt>
+                <changestmt>
+                <change>Illustration markup</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Michael Fox, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Morgan Lessley, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Anastasia Nikolis, </name>
+                    <name>Kylie Regan, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+                </changestmt>
+                <changestmt>
+                <change>BAD created</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah Jones, </name>
+                    <name>Lauren Klapper-Lehman, </name>
+                    <name>Michelle Langston, </name>
+                    <name>Rachel Lee, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+                </changestmt>
+                <changestmt>
+                <change>Image cataloging and metadata collection</change>
+                <date></date><!-- Enter date and revise previous entries? -->
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>University of Rochester;
+                    <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+            </changestmt>
+        </revisiondesc>
+    </header> 
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        The Spirit of a Just Man Newly Departed Appearing to His Mourning Family
+                    </title>
+                </objtitle>
+                <origination>William Blake 
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                </origination>
+                <compdate value="1780.O">c. 1780-85<note>The dating is based on stylistic considerations.</note></compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>33.0 x 48.8 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>33.0 x 48.3 cm.</leafsize>
+                <medium>pen and ink, monochrome wash</medium>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>Royal Collection Trust</name>
+                <date>c. 1862</date>
+                <dealer>Richard Fisher</dealer>
+                <price>not recorded</price>
+                <note>Probably inherited from Blake by his wife Catherine upon his death in 1827; 
+                    probably acquired by Frederick Tatham upon Catherine Blake's death in 1831; 
+                    sold anonymously, Sotheby's, 29 April 1862, in lot 166 with three other works by Blake (10s. to Richard Fisher, probably a dealer); 
+                    apparently sold c. 1862 to the Royal Collection, now the Royal Collection Trust and housed at Windsor Castle, Berkshire, England.</note>
+            </provenance>
+            <repository>
+                <institution>Royal Collection Trust</institution>
+                <repositoryid label="Accession number">RCIN 913598</repositoryid>
+            </repository>
+        </source>
+        <desc id="but135.1.wd.01" dbi="BUT135.1.1.WD">
+            <objtitle>
+                <title type="transcribed">The Spirit of a Just Man Newly Departed Appearing to His Mourning Family</title>,
+           <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="U1">(Butlin 135)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>33.0 x 48.8 cm.</objsize> 
+                <objnote><p>The inscription is by Blake; see the Transcription.  Th design was later developed into a pencil sketch in Blake's Notebook, Object 63, and an engraving in *For Children: The Gates of Paradise* and *For the Sexes: The Gates of Paradise*, Plate 15 in both.</p>
+                </objnote>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>This design shows the death scene of an old man, who is surrounded by his family, and whose spirit hovers over the scene and frightens the gathered mourners. The spirit hovers in the left third of the design, his bare feet pointed and lifted off the ground in the lower left-hand corner, and his body held diagonally toward the bed in the design's center. The spirit wears a long-sleeved gown that reaches his ankles and is gathered at the waist by a belt. A long, looping cloth is suspended in a circle around the spirit's body. It extends over his right arm, which is held away from his body and bent upward. He points upward with the index finger of his right hand. The looping cloth terminates near the spirit's left hand, which rises near his waist as his arm bends in a near 90-degree angle. The left hand is nearly flat, with the fingers pointing down and to the left. The spirit has long hair and a long beard. As he leans rightward to hover over the bed, his head appears in profile, and his eyes stare toward the mourners at right. In the center of the design is a simple wooden bed with a dark blanket that covers the body of the deceased man. Only his head appears; his eyes are closed, and he has the same long hair and long beard as the spirit. Behind the bed are three figures who appear to be kneeling and who react with fear to the man's spirit. They are, from left to right, as follows: a young woman with long hair who stares open-mouthed at the spirit; a young man with short, curly hair who faces left and huddles together with the young woman; and an older woman in a long-sleeved gown and headscarf who extends her arm over the bed, toward the spirit, and raises her palm as if attempting to ward him off. In front of the bed is a partly nude man who kneels on his right knee and extends his left leg forward as he leans away from the spirit. The man's left leg nearly straightens, and it extends almost to the foot of the bed. His right knee bends sharply as he leans backward, and his right foot is flexed to support him. His left arm extends downward and to the left, along his left leg, and the fingers of his left hand spread as they point downward. The man's right arm appears to be wrapped around the back of the bed. The man has long, curly hair, and he wears a knee-length skirt. His torso twists away from the viewer, showing his bare back. The man's face appears in profile as he looks leftward, toward the spirit, with wide, raised eyes and an open mouth. Like the figures behind the bed, he wears an expression of fear. The walls and floor of the room appear to be bare, and many shadows further darken the scene. They are most prominent along the left side of the spirit, underneath the kneeling man's outstretched leg and behind his back, and in the upper right-hand corner behind the group of kneeling figures on the other side of the bed.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>spirit</characteristic>
+                        <characteristic>ghost</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>belt</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>circle</characteristic>
+                        <characteristic>encircling</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>floating</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>feet</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm bent at 90 degrees</characteristic>
+                        <characteristic>arm horizontal</characteristic>
+                        <characteristic>palm down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>The spirit hovers in the left third of the design, his bare feet pointed and lifted off the ground in the lower left-hand corner, and his body held diagonally toward the bed in the design's center. The spirit wears a long-sleeved gown that reaches his ankles and is gathered at the waist by a belt. A long, looping cloth is suspended in a circle around the spirit's body. It extends over his right arm, which is held away from his body and bent upward. He points upward with the index finger of his right hand. The looping cloth terminates near the spirit's left hand, which rises near his waist as his arm bends in a near 90-degree angle. The left hand is nearly flat, with the fingers pointing down and to the left. The spirit has long hair and a long beard. As he leans rightward to hover over the bed, his head appears in profile, and his eyes stare toward the mourners at right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>eyes closed</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>supine</characteristic>
+                        <characteristic>dead</characteristic>
+                        <illusobjdesc>In the center of the design the deceased man lies on a bed facing up. Only his head appears; it is turned toward the right. His eyes are closed, and he has the same long hair and long beard as the spirit.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>huddled</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>Behind the bed are three figures who appear to be kneeling and who react with fear to the man's spirit. Leftmost is a young woman with long hair who faces forward and to the left, staring open-mouthed at the spirit. Her eyes are wide, and she wears an expression of fear. She huddles together with the man at right. The woman may wear a gown, or she may be covered by a draping cloth or other garment.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>huddled</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>Behind the bed are three figures who appear to be kneeling and who react with fear to the man's spirit. In the center is a young man with short, curly hair who faces left and huddles together with the young woman. Only his head is visible; he faces left with mouth and eyes open.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>female</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>scarf</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>palm out</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>Behind the bed are three figures who appear to be kneeling and who react with fear to the man's spirit. Rightmost is a woman in a long-sleeved gown; she wears a headscarf over long, curly hair. The woman faces forward and to the left, extending her right arm over the bed, toward the spirit. Her palm faces outward as if attempting to ward him off, and her fingers are spread. The woman's mouth opens as she stares forward at the spirit.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>partly nude</characteristic>
+                        <characteristic>skirt</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>leg bent</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>arm down</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>arm reaching downward</characteristic>
+                        <characteristic>arm at side</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>In front of the bed is a partly nude man who kneels on his right knee and extends his left leg forward as he leans away from the spirit. The man's left leg nearly straightens, and it extends almost to the foot of the bed. His right knee bends sharply as he leans backward, and his right foot is flexed to support him. His left arm extends downward and to the left, along his left leg, and the fingers of his left hand spread as they point downward. The man's right arm appears to be wrapped around the back of the bed. The man has long, curly hair, and he wears a knee-length skirt. His torso twists away from the viewer, showing his bare back. The man's face appears in profile as he looks leftward, toward the spirit, with wide, raised eyes and an open mouth. Like the figures behind the bed, he wears an expression of fear.</illusobjdesc>
+                    </component>
+                	<component type="object" location="E">
+                        <characteristic>bed</characteristic>
+                        <characteristic>blanket</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>wood</characteristic>
+                        <illusobjdesc>In the center of the design is a simple wooden bed that supports the deceased man. His body is covered by a dark blanket, and his head appears to rest on a pillow.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>room</characteristic>
+                        <characteristic>floor</characteristic>
+                        <characteristic>wall</characteristic>
+                        <illusobjdesc>The scene takes place indoors. The walls and floor of the room appear to be bare.</illusobjdesc>
+                    </component>
+                        <component type="object" location="E">
+                            <characteristic>shadow</characteristic>
+                            <illusobjdesc>Many shadows further darken the scene. They are most prominent along the left side of the spirit, underneath the kneeling man's outstretched leg and behind his back, and in the upper right-hand corner behind the group of kneeling figures on the other side of the bed.</illusobjdesc>
+                        </component>
+                    </illustration>
+            </illusdesc>
+                <phystext>
+                    <lg justify="left"><l n="but135.1.1.wd.300.01" justify="left"><space extent="1"/>The spirit of a just man newly departed appearing to his mourning family</l>
+                    </lg>
+                </phystext>
+        </desc>
+    </objdesc>
+</bad>
+                    
+            

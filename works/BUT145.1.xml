@@ -1,0 +1,520 @@
+<bad id="but145.1" type="mono" work="The King of Babylon in Hell" copy="1" copyid="1" institution="royal" catalog="butlin" catid="145" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The King of Babylon in Hell">
+                    <main>
+                        The King of Babylon in Hell</main>
+                    <copy>Copy 1</copy>
+                    : electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill</principal>
+                <respstmt>
+            </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+           and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 40KB; 2 JPEG (ISO/IEC
+10918) files ranging in size from 177KB to 1390KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>August 2024</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>     
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2024</date> by Morris Eaves, Robert N. Essick,
+and Joseph Viscomi, all rights reserved. Items in the Archive may be
+shared in accordance with the Fair Use provisions of U.S. copyright law.
+Redistribution or republication on other terms, in any medium, requires
+express written consent from the editors and advance notification of the
+publisher. Permission to reproduce the graphic images in this archive has been
+granted by the owners of the originals for this publication only.<lb/>
+            <lb/>
+            <lb/>
+         This image copyright © 2024 Royal Collection Trust.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Textual transcription, final proofing, revisions, and publication</change>
+                <date>September 2023-August 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Illustration markup</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Michael Fox, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Morgan Lessley, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Anastasia Nikolis, </name>
+                    <name>Kylie Regan, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+               <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah Jones, </name>
+                    <name>Lauren Klapper-Lehman, </name>
+                    <name>Michelle Langston, </name>
+                    <name>Rachel Lee, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date></date><!-- Enter date and revise previous entries? -->
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+               <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        The King of Babylon in Hell
+                    </title>
+                </objtitle>
+                <origination>William Blake <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                </origination>             
+                <compdate value="1780.S">c. 1780-85<note>The dating is based on stylistic considerations.</note></compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>36.0 x 43.2 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>36.0 x 43.2 cm.</leafsize>
+                <medium>pen and ink, monochrome wash</medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>Royal Collection Trust</name>
+                <date>c. 1862</date>
+                <dealer>Richard Fisher</dealer>
+                <price>not recorded</price>
+                <note>Probably inherited from Blake by his wife Catherine upon his death in 1827; probably acquired by Frederick Tatham upon Catherine Blake's death in 1831; 
+                    sold anonymously, Sotheby's, 29 April 1862, in lot 166, titled "Subject from Isaiah" and with three other works by Blake (10s. to Richard Fisher, probably a dealer); apparently sold c. 1862 to the Royal Collection, now the Royal Collection Trust and housed at Windsor Castle, Berkshire, England.</note>
+            </provenance>
+            <repository>
+                <institution>Royal Collection Trust</institution>
+                <repositoryid label="Accession number">RCIN 913600</repositoryid>
+            </repository>
+        </source>
+        <desc id="but145.1.wd.01" dbi="BUT145.1.1.WD">
+            <objtitle>
+                <title type="transcribed">The King of Babylon in Hell</title>,
+          <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="U1">(Butlin 145)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>36.0 x 43.2 cm.</objsize>
+                <objnote><p>Blake later developed the basic elements of this design into an etching/engraving, *Lucifer and the Pope in Hell* of c. 1794, 
+                    and *The King of Babylon in Hell: "Hell from Beneath is Moved for Thee"*, a water color of c. 1805 (Butlin 467).</p></objnote>
+                <windowsize width="600" height="700"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>In the right third of the drawing stands the King of Babylon, who appears to be led into hell by an angel or other supernatural being. The king has short, curly hair and a beard; he wears a crown on his head and a long, draping robe that may cover a gown or other garment. The tops of the king's feet appear to be bare, but the presence of material beneath the soles suggests that he may be wearing sandals. His right foot points leftward, and his left foot points toward the viewer. The king appears to be walking toward the left side of the design. His body faces forward and to the left, but his head turns sharply to the right as he looks behind him. The king's arms are lowered in front of him and crossed at the wrists, left over right. His fingers point downward. He appears to be shackled to a chain. Holding the links at the end of this chain is an angel or some other male figure who hovers behind the king and appears to be leading him into or through hell.  This is probably Satan. This figure has long, curly hair and is nude from the waist up. He wears a long skirt, the end of which appears at right of the king and floats above the angel's bare left foot and ankle. The angel's body rises diagonally behind the king, and his chest faces forward and to the left near the king's right shoulder. The angel's muscular left arm extends down and across his body to grasp the chain. His right arm extends horizontally as he points left. The angel, like the king, turns his head to the right; however, the angel looks upward. His mouth is opened slightly. To the right of the king and angel figures, in the upper right-hand corner of the drawing, appear the heads of at least two men. These men face forward and to the right; they appear to be reclining or leaning backward. The man at left wears a helmet that covers his forehead and wraps around his jaw on the visible right side. His eyes open wide and his mouth parts slightly in an expression of fear or dread. To the right of this man is another who wears a similarly fearful expression. This man has a beard, and he wears a plumed helmet that covers his head but not the sides of his face. At right of these men are some wavy lines that may indicate the hair of another figure. Above these lines is a round object that could represent another helmet. Alternatively, the round object may be a shield, and the two pointed objects rising diagonally leftward from it may be spears. A second group of men appears in the lower left quarter of the design, beneath the angel's outstretched arm. Directly below the angel's right hand is a group of three other kings who sit or recline and gaze upward toward the angel and the King of Babylon. Nearest the angel appears the head and shoulders of an old man with long, white hair and a beard. The man faces forward and to the right, tilting his head upward to gaze at the King of Babylon. The man's eyes are wide, and his mouth is open in an expression of fear. He wears a short crown atop his head. To the left of the old king--nearer to the viewer--is another, younger king. He has short hair and a dark beard, and he wears a long-sleeved gown and a short, pointed crown. This king appears to be seated with his body facing the viewer but leaning toward the left; he may recline or shrink back in fear. His legs extend to the right, and his torso twists away from the angel as his left arm crosses his body. The king's head turns up and to the right, and he stares in terror at the angel or at the King of Babylon. His mouth may be open. Below and to the left of this man is a third king who also gazes in fear at the angel and the King of Babylon. This king is older, with white hair and a white beard. He wears a crown but is otherwise nude. His muscular chest appears to emerge from the ground, or he may be sitting and partially covered. The king's body faces forward and to the right, and he leans backward away from the floating angel. He lifts his right arm to shoulder level and bends it sharply so that his forearm extends forward alongside his head. His palm faces the ground. The king's head tilts back as he faces upward and to the right. Directly above this king's head, in the shadows behind the three seated kings, is the head of another man. He faces up and to the right, and he appears to wear a helmet on his head. He may have a mustache, and his mouth may open in an expression of fear as he gazes upward toward the angel. Below the kings, seemingly mired in mud, are four other men. They are, from left to right: an old, nude man with long hair and a beard who faces right and gazes upward toward the angel; an old man with short, curly hair and a beard who likewise stares at the angel; an armored man in a plumed helmet who bends his right arm upward and turns his palm toward the viewer; and a second armored man with a curly beard who faces forward but leans to the left, away from the King of Babylon. Wavy lines to the left of the leftmost figure in this group may suggest the hair of a fifth indistinct figure. The ground below the King of Babylon, in which the other men appear to be stuck or from which they emerge, seems to be earthen, perhaps made of mud or quicksand. Between the three seated kings and the King of Babylon, several round objects alternate with vertical lines, perhaps suggesting a set of helmets and spears. Alternatively, the round objects could be helmets. Immediately above these implements is a large cloud that occupies the space behind the floating angel. The drawing's background is generally dark, and significant shadows appear below the angel's left arm and in the folds of the King of Babylon's robe.</illusobjdesc>
+                    <component type="figure" location="BD">
+                        <characteristic>king</characteristic>
+                        <characteristic>Babylonian</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>sandal</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>walking</characteristic>
+                        <characteristic>striding</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>arms down</characteristic>
+                        <characteristic>arms crossed</characteristic>
+                        <characteristic>shackled</characteristic>
+                        <characteristic>chained</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>In the right third of the drawing stands the King of Babylon, who appears to be led into hell by an angel or other supernatural being. The king has short, curly hair and a beard; he wears a crown on his head and a long, draping robe that may cover a gown or other garment. The tops of the king's feet appear to be bare, but the presence of material beneath the soles suggests that he may be wearing sandals. His right foot points leftward, and his left foot points toward the viewer. The king appears to be walking toward the left side of the design. His body faces forward and to the left, but his head turns sharply to the right as he looks behind him. The king's arms are lowered in front of him and crossed at the wrists, left over right. His fingers point downward. He appears to be shackled to a chain.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>Satan</characteristic>
+                        <characteristic>spirit</characteristic>
+                        <characteristic>partly nude</characteristic>
+                        <characteristic>skirt</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>muscular</characteristic>
+                        <characteristic>flying</characteristic>
+                        <characteristic>floating</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>rising</characteristic>
+                        <characteristic>leading</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>chain</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>left foot</characteristic>
+                        <characteristic>arm down</characteristic>
+                        <characteristic>arm crossed</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>pointing</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <illusobjdesc>Holding the links at the end of this chain is an angel or some other male figure who hovers behind the king and appears to be leading him into or through hell.  This is probably Satan. This figure has long, curly hair and is nude from the waist up. He wears a long skirt, the end of which appears at right of the king and floats above the angel's bare left foot and ankle. The angel's body rises diagonally behind the king, and his chest faces forward and to the left near the king's right shoulder. The angel's muscular left arm extends down and across his body to grasp the chain. His right arm extends horizontally as he points toward the design's left border. The angel, like the king, turns his head to the right; however, the angel looks upward. His mouth is opened slightly.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>fear</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <illusobjdesc>To the right of the king and angel figures, in the upper right-hand corner of the drawing, appear the heads of at least two men. These men face forward and to the right; they appear to be reclining or leaning backward. The man at left wears a helmet that covers his forehead and wraps around his jaw on the visible right side. His eyes open wide and his mouth parts slightly in an expression of fear or dread. He may be a soldier.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>male</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>plume</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>fear</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <illusobjdesc>To the right of the king and angel figures, in the upper right-hand corner of the drawing, appear the heads of at least two men. These men face forward and to the right; they appear to be reclining or leaning backward. The man at right wears fearful expression. This man has a beard, and he wears a plumed helmet that covers his head but not the sides of his face. This figure may be a soldier.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>head</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <illusobjdesc>To the right of the king and angel figures, in the upper right-hand corner of the drawing, appear the heads of at least two men. At right of these men are some wavy lines that may indicate the hair of another figure. Above these lines is a round object that could represent another helmet.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>king</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>Directly below the angel's right hand is a group of three other kings who sit or recline and gaze upward toward the angel and the King of Babylon. Nearest the angel appears the head and shoulders of an old man with long, white hair and a beard. The man faces forward and to the right, tilting his head upward to gaze at the King of Babylon or at something beyond him. The man's eyes are wide, and his mouth is open in an expression of fear. He wears a short crown atop his head.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>king</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>arm down</characteristic>
+                        <characteristic>arm crossed</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>Directly below the angel's right hand is a group of three other kings who sit or recline and gaze upward toward the angel and the King of Babylon. In the center--to the left of the old king--is another, younger king. He has short hair and a dark beard, and he wears a long-sleeved gown and a short, pointed crown. This king appears to be seated with his body facing the viewer but leaning toward the left; he may recline or shrink back in fear. His legs extend to the right, and his torso twists away from the angel as his left arm crosses his body. The king's head turns up and to the right, and he stares in terror at the angel or at the King of Babylon. His mouth may be open.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>king</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>partly nude</characteristic>
+                        <characteristic>muscular</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>arm raised</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm horizontal</characteristic>
+                        <characteristic>palm down</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>Directly below the angel's right hand is a group of three other kings who sit or recline and gaze upward toward the angel and the King of Babylon. Leftmost is an older king with white hair and a white beard. He wears a crown but is otherwise nude. His muscular chest appears to emerge from the ground, or he may be sitting and partially covered. The king's body faces forward and to the right, and he leans backward away from the floating angel. He lifts his right arm to shoulder level and bends it sharply so that his forearm extends forward alongside his head. His palm faces the ground. The king's head tilts back as he faces upward and to the right.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>head</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>Directly above the leftmost king's head, in the shadows behind the three seated kings, is the head of another man. He faces up and to the right, and he appears to wear a helmet on his head. This man could be a soldier. He may have a mustache, and his mouth may open in an expression of fear as he gazes upward toward the angel.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>head</characteristic>
+                        <illusobjdesc>Below the kings, seemingly mired in mud, are four other men. Leftmost is an old, nude man with long hair and a beard. He faces upward and to the right as he gazes toward the angel above. Wavy lines to the left of this figure may suggest the hair of a fifth indistinct figure.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Below the kings, seemingly mired in mud, are four other men. Second from left is an old man with short, curly hair and a beard who faces right and stares upward toward the angel.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>mustache</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>plume</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>palm facing viewer</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <illusobjdesc>Below the kings, seemingly mired in mud, are four other men. Third from left is an armored man in a plumed helmet who faces forward and to the right. He bends his right arm upward and toward his head, turning his palm to face the viewer. He faces upward, looking at the King of Babylon. He appears to have a mustache, and his mouth may be open. This man may be a soldier.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>armor</characteristic>
+                        <characteristic>helmet</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>arm down</characteristic>
+                        <characteristic>arm crossed</characteristic>
+                        <characteristic>fear</characteristic>
+                        <illusobjdesc>Below the kings, seemingly mired in mud, are four other men. Rightmost is a second armored man with a curly beard. He faces forward and to the right, leaning to the left--away from the King of Babylon--and tilting his head backward as he stares upward with a fearful expression. He bends his left arm downward and across his body. This man may also be a soldier.</illusobjdesc>
+                    </component>
+                	<component type="object" location="E">
+                        <characteristic>helmet</characteristic>
+                        <characteristic>shield</characteristic>
+                        <characteristic>spear</characteristic>
+                        <illusobjdesc>In the upper right-hand corner of the drawing is a round object that may be a shield. From it, two pointed objects rising diagonally leftward--they may be spears. More shields and spears may appear between the three kings and the King of Babylon, where round objects alternate with vertical lines. Alternatively, the round objects may be helmets.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>earth</characteristic>
+                        <characteristic>sand</characteristic>
+                        <illusobjdesc>The ground below the King of Babylon, in which the other men appear to be stuck or from which they emerge, seems to be earthen, perhaps made of mud or quicksand.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>Behind the floating angel is large cloud that appears lighter than the drawing's background.</illusobjdesc>
+                    </component>
+                        <component type="object" location="E">
+                            <characteristic>shadow</characteristic>
+                            <illusobjdesc>The drawing's background is generally dark, and significant shadows appear below the angel's left arm and in the folds of the King of Babylon's robe.</illusobjdesc>
+                        </component>
+                    </illustration>
+            </illusdesc>
+        <phystext>
+            <lg justify="left"><l n="but145.1.1.wd.300.01" justify="left"><space extent="30" unit="character"/>Hell beneath is moved for thee</l>
+                <l n="but145.1.1.wd.01.02" justify="left"><space extent="28" unit="character"/>to meet thee at thy coming.&#8212;</l>
+                <l n="but145.1.1.wd.01.03" justify="left"><space extent="49" unit="character"/>Isaiah</l>
+            </lg>
+        </phystext>
+        </desc>
+    </objdesc>
+</bad>

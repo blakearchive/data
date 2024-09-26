@@ -1,0 +1,287 @@
+<bad id="butwba2.1" type="mono" work="Alternative Design for Commins's 'Elegy'" copy="1" copyid="1" institution="essick" catalog="butlin" catid="wba2" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Alternative Design for Commins's 'Elegy'">
+                    <main>
+                        Alternative Design for Commins's "Elegy"</main>
+                    <copy>Copy 1</copy>
+                    : electronic edition
+                </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                </principal>
+                <respstmt>
+                </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel 
+                 Hill and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 18KB; 2 JPEG (ISO/IEC
+            10918) files ranging in size from 177KB to 860KB</extent>
+            <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries
+                <date>August 2024</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+        </filedesc>
+        <userestrict>Copyright © <date>2024</date>
+            by Morris Eaves, Robert N. Essick, and Joseph Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the 
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent 
+            from the editors and advance notification of the publisher. Permission to reproduce the graphic images in this archive has been granted by 
+            the owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+         This image copyright © 2024 William Blake Archive.
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Textual transcription, final proofing, revisions, and publication</change>
+                <date>September 2023-August 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Illustration markup</change>
+                <date>November 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Katherine Calvin, </name>
+                    <name>Adam Engel, </name>
+                    <name>Andrea Everett, </name>
+                    <name>Joseph Fletcher, </name>
+                    <name>Michael Fox, </name>
+                    <name>Duncan Graham, </name>
+                    <name>Shannon Jaime, </name>
+                    <name>Gabrielle Kiriloff, </name>
+                    <name>Morgan Lessley, </name>
+                    <name>Eric Loy, </name>
+                    <name>Kate Massie, </name>
+                    <name>Adam McCune, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Anastasia Nikolis, </name>
+                    <name>Kylie Regan, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Hardeep Sidhu, </name>
+                    <name>Margaret Speer, </name>
+                    <name>Sarah Tolf, </name>
+                    <name>Danny Tsegai, </name>
+                    <name>Lisa Vandenbossche, </name>
+                    <name>Nikolaus Wasmoen, </name>
+                    <name>Alia Wegner, </name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and image color correction</change>
+                <date>October 2013</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold, </name>
+                    <name>Kate Attkisson, </name>
+                    <name>Kit Curtin, </name>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Sarah Jones, </name>
+                    <name>Lauren Klapper-Lehman, </name>
+                    <name>Michelle Langston, </name>
+                    <name>Rachel Lee, </name>
+                    <name>Ali McGhee, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>Adair Rispoli, </name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image cataloguing and metadata collection</change>
+                <date>July 1996</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name>
+                    University of Rochester;
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>
+                        Alternative Design for Commins's "Elegy"
+                    </title>
+                </objtitle>
+                <origination>William Blake 
+                    <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>colorist</role>
+                </origination>
+                <compdate value="1786.C">1786<note>The dating is based on stylistic considerations and the relationship, as an alternative design, to Blake's engraving in Thomas Commins, *An Elegy Set to Music* (1786).</note></compdate>
+            </objdescid>
+            <objinfo>
+                <numberobj>1</numberobj>
+                <objsize>26.5 x 34.0 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>26.5 x 34.0 cm.</leafsize>
+                <medium>pencil, pen and ink, monochrome wash</medium>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+            </objinfo>
+            <provenance n="1">
+                <name>Collection of Robert N. Essick</name>
+                <date>1996</date>
+                <dealer>Salander-O'Reilly Galleries</dealer>
+                <price>$27,500 with another drawing by Blake</price>
+                <note>Probably inherited by Blake's wife Catherine upon his death in 1827; probably acquired by 
+                    Frederick Tatham upon Catherine Blake's death in 1831; sold anonymously, Sotheby's, 29 April 1862, in lot 170 with five other works by Blake (14s. to the dealer H. Toovey); Henry Cunliffe, sold from his collection, Sotheby's, 11 May 1895, lot 105 (16s. to the dealer Frederick Keppel); an American private collection; on consignment with Salander-O'Reilly Galleries, New York, no later than Dec. 1995; acquired Jan. 1996 by Robert N. Essick, with Blake's wash drawing, *An Encounter in Heaven*, for $27,500 for both drawings.</note> 
+            </provenance>
+            <repository>
+                <institution>Collection of Robert N. Essick</institution>
+            </repository>
+        </source>
+        <desc id="butwba2.1.wd.01" dbi="BUTWBA2.1.1.WD">
+            <objtitle>
+                <title type="transcribed">Alternative Design for Commins's "Elegy"</title>,
+            <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="U1">(Butlin wba2)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>26.5 x 34.0 cm.</objsize>
+                <objnote><p>This is an alternative preliminary design for the etching/engraving, 
+                    designed and engraved by Blake, for Thomas Commins, *An Elegy Set to Music* (1786).  
+                   The recto of this monochrome wash drawing includes another alternative preliminary wash drawing for Commins (see Object 46). The discovery (or rediscovery) of this wash drawing was announced in Martin Butlin, "Two Newly Identified Sketches for Thomas Commins's *An Elegy* and Further Rediscovered Drawings of the 1780s," *Blake/An Illustrated Quarterly*, 26.1 (summer 1992): 21-26.  The pen and ink inscriptions on this drawing were probably written by Henry Cunliffe no earlier than 1862.</p><p>The inscriptions at the bottom of the leaf read "Purchased at Sothebys in a Lot / 28. Apr. 1862 / A Sketch by William Blake. / Obit 12 Aug. 1828 / For a Biog.<hi rend="superscript">y</hi> of B. see Cunninghams British Painters"</p></objnote>  
+                <windowsize width="600" height="700"/>
+            </physdesc>          
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>This wash drawing depicts a male figure rowing a boat. His body faces left, but he leans back and twists so that his torso faces the viewer and his head looks to the right. His left arm bends at the elbow and his left leg is bent at the knee, both at ninety-degree angles. His right arm and leg extend outward, with both bent slightly at forty-five degree angles. He holds an oar in each hand, although only the top halves are visible. The bottom halves appear to be submerged in the water. He has short curly hair and wears a tunic that appears to be open at the chest. He rows the boat in a river, lake, or other body or water. A shore or bank appears near the boat to the right, or it may be a large rock. A large leafy tree, or perhaps several smaller leafy trees, appears in the background. The wash area below the tree trunks may be a hill or patch of grass. There are several indeterminate, light sketch marks in the lower right corner.</illusobjdesc>                 
+                    <component type="figure" location="AC">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>tunic</characteristic>
+                        <characteristic>sitting</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>twisted</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>arm extended</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>rowing</characteristic>                       
+                        <illusobjdesc>This wash drawing depicts a male figure rowing a boat. His body faces left, but he leans back and twists so that his torso faces the viewer and his head looks to the right. His left arm bends at the elbow and his left leg is bent at the knee, both at ninety-degree angles. His right arm and leg extend outward, with both bent slightly at forty-five degree angles. He holds an oar in each hand, although only the top halves are visible. The bottom halves appear to be submerged in the water. He has short curly hair and wears a tunic that appears to be open at the chest. </illusobjdesc></component>                  
+                    <component type="object" location="AC">
+                        <characteristic>boat</characteristic>
+                        <characteristic>oar</characteristic>
+                        <illusobjdesc>The figure sits in a boat and holds an oar in each hand. Only the top halves of the oars are visible. The bottom halves appear to be submerged in the water.</illusobjdesc></component>                    
+                    <component type="object" location="CD">                       
+                        <characteristic>river</characteristic>
+                        <characteristic>water</characteristic>
+                        <characteristic>lake</characteristic>
+                        <illusobjdesc> The figure rows the boat in a river, lake, or other body or water. </illusobjdesc></component>                   
+                    <component type="object" location="BD">
+                        <characteristic>shore</characteristic>
+                        <characteristic>bank</characteristic>
+                        <characteristic>rock</characteristic>
+                        <illusobjdesc>A shore or bank appears near the boat to the right. It may also be a large rock.</illusobjdesc></component>                    
+                    <component type= "object" location= "AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>grass</characteristic>  
+                        <characteristic>hill</characteristic>                    
+                        <illusobjdesc>A large leafy tree, or perhaps several smaller leafy trees, appears in the background. The wash area below the tree trunks may be a hill or patch of grass. </illusobjdesc></component>
+                    <component type="object" location="CD">
+                        <characteristic>indeterminate</characteristic>
+                        <illusobjdesc>There are several indeterminate, light sketch marks in the lower right corner.</illusobjdesc></component>                                        
+                </illustration>
+            </illusdesc>  
+        </desc>
+        </objdesc>
+</bad>
