@@ -4,7 +4,7 @@
             <titlestmt>
                 <title reg="The Body of Edward I in His Coffin, Two Finished Drawings">
                     <main>The Body of Edward I in His Coffin, Two Finished Drawings</main>
-                    <copy>copy 1</copy>: electronic edition
+                    <copy>Copy 1</copy>: electronic edition
 
 </title>
                 <principal>
@@ -101,6 +101,7 @@ This work copyright © 2024 Society of Antiquaries, London.
     <name>Meaghan Green</name>
     <resp>Project Assistants: </resp>
     <name>Emily English, </name>
+    <name>Dani Garcia, </name>
     <name>Tim Gress, </name>
     <name>Mary Learner, </name>
     <name>Anna Mertz, </name>
@@ -109,7 +110,6 @@ This work copyright © 2024 Society of Antiquaries, London.
     <name>Kate Soules, </name>
     <name>Samantha Steiner, </name>
     <name>Gabby Tapia, </name>
-    <name>Dominique Townsend, </name>
     <name>Alice Wynd</name>
                 </respstmt>
             </changestmt>
@@ -313,13 +313,14 @@ University of North Carolina at Chapel Hill
                     </component>
                 </illustration>
             </illusdesc>
-            <phystext>
-                
-                <lg type="prose" justify="left">
-                    <l n="but2.1.wd.01.01" justify="left">Scale of 7 feet</l>
-                </lg>
-            </phystext>
-            
+          <phystext>
+        <vspace extent="20"/>
+        <lg type="prose" justify="left">
+            <l n="but2.1.wd.01.01" justify="left" indent="30">1<space extent="8"/>2<space extent="8"/>
+                3<space extent="8"/>4<space extent="8"/>5<space extent="8"/>6<space extent="8"/>7</l>
+            <l n="but2.1.wd.01.02" justify="left" indent="8">Scale of 7 feet</l>
+        </lg>   
+    </phystext>
         </desc>
     </objdesc>
 </bad>
