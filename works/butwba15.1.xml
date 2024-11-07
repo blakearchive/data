@@ -102,6 +102,7 @@ granted by the owners of the originals for this publication only.<lb/>
     <name>Meaghan Green</name>
     <resp>Project Assistants: </resp>
     <name>Emily English, </name>
+    <name>Dani Garcia, </name>
     <name>Tim Gress, </name>
     <name>Mary Learner, </name>
     <name>Anna Mertz, </name>
@@ -110,7 +111,6 @@ granted by the owners of the originals for this publication only.<lb/>
     <name>Kate Soules, </name>
     <name>Samantha Steiner, </name>
     <name>Gabby Tapia, </name>
-    <name>Dominique Townsend, </name>
     <name>Alice Wynd</name>
                 </respstmt>
             </changestmt>
@@ -276,14 +276,14 @@ granted by the owners of the originals for this publication only.<lb/>
                         <illusobjdesc>A dark rectangular frame encloses the drawing. </illusobjdesc> </component>
                 </illustration>
             </illusdesc>
-            <phystext>
-                <lg type="prose" justify="center">
-                    <l n="butwba15.1.wd.01.01" justify="right">KING EDWARD III.</l>
-                </lg>
-                <lg type="prose" justify="center">
-                    <l n="but4.1.wd.01.02" justify="right">From his Tomb in Westminster Abbey</l>
-                </lg>
-            </phystext>
+              <phystext>
+        <vspace extent="20"/>
+        <lg type="prose" justify="left">
+            <l n="butwba15.1.wd.01.01" justify="left" indent="33">KING EDWARD III.</l>
+            <l n="butwba15.1.wd.01.02" justify="left" indent="25"><hi rend="i">From his Tomb in Westminster Abbe<unclear resp="AW">y</unclear></hi>
+                <note>The "y" in "Abbey" is partially obscured.</note></l>
+        </lg>
+    </phystext>
             
         </desc>
     </objdesc>
