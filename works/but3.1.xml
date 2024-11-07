@@ -4,7 +4,7 @@
             <titlestmt>
                 <title reg="Countess Aveline, Side View of Her Tomb">
                     <main>Countess Aveline, Side View of Her Tomb</main>
-                    <copy>copy 1</copy>: electronic edition </title>
+                    <copy>Copy 1</copy>: electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name>University of Rochester; <name>Robert Essick,
@@ -15,7 +15,7 @@
                     and the University of Rochester</sponsor>
                 <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2005</editionstmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
             <extent>1 XML file approx. 12KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 177KB
                 to 3600KB</extent>
             <publicationstmt>Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries<date>November 2024</date>
@@ -68,16 +68,15 @@ As always, the William Blake Archive is a free site, imposing no access restrict
                     <resp>Project Coordinator, University of Rochester: </resp>
                     <name>Marcie Woehl</name>
                     <resp>Consultants on Special Projects: </resp>
-                    <name>Helen Davies, </name>
                     <name>Ashley Reed, </name>
                     <name>Josh Romphf, </name>
-                    <name>Oishani Sengupta</name>
                     <resp>Bibliographer: </resp>
                     <name>Chuck Ripley, </name> Winona State University <resp>Project Consultant: </resp>
                     <name>Meaghan Green</name>
                     <resp>Project Assistants: </resp>
                     <name>Margarita Buitrago, </name>
                     <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
                     <name>Timothy Gress, </name>
                     <name>Anna Merz, </name>
                     <name>Celeste Seifert, </name>
@@ -85,7 +84,6 @@ As always, the William Blake Archive is a free site, imposing no access restrict
                     <name>Kate Soules, </name>
                     <name>Samantha Steiner, </name>
                     <name>Gabby Tapia, </name>
-                    <name>Dominique Townsend, </name>
                     <name>Alice Wynd</name>
                 </respstmt>
             </changestmt>
@@ -378,18 +376,25 @@ As always, the William Blake Archive is a free site, imposing no access restrict
                     </component>
                 </illustration>
             </illusdesc>
-            <phystext>
-                <lg type="prose" justify="right">
-                    <l n="but3.1.wd.01.01" justify="right">Basire. del. 1775.</l>
-                </lg>
-                <lg type="prose" justify="center">
-                    <l n="but3.1.wd.01.02" justify="center">font 3 7. 8. 1/2 ...</l>
-                </lg>
-                <lg type="prose" justify="left">
-                    <l n="but3.1.wd.01.03" justify="left">Tomb of Aveline first wife of Edmund
-                        Crouchback Earl of Lancaster on the Nr. side of the Altar Westm<hi rend="superscript">r</hi>. Abbey. Vet. Mon. Vol. II.pl.2</l>
-                </lg>
-            </phystext>
+             <phystext>
+<vspace extent="15"/>
+<lg type="prose" justify="left">
+<l n="but3.1.wd.01.01" justify="left" indent="107">foot<space extent="3"/>s<note>Lines 1 and 2 are inscribed vertically along the
+                right side of the design.</note></l>
+<l n="but3.1.wd.01.02" justify="left" indent="107">10 :<space extent="2"/>10 .</l>
+</lg>
+<vspace extent="15"/>
+        <lg type="prose" justify="left">
+            <l n="but3.1.wd.01.03" justify="left" indent="76">Basire. del. 1775</l>
+            <l n="but3.1.wd.01.04" justify="left" indent="43">foot<space extent="2"/>3</l>
+            <l n="but3.1.wd.01.05" justify="left" indent="43">7.<space extent="2"/>8.<hi rend="superscript">1</hi>/2 ....</l>
+        </lg>
+        <vspace extent="5"/>
+        <lg type="prose" justify="left">
+            <l n="but3.1.wd.01.06" justify="left" indent="3">Tomb of Aveline first wife of Edmund
+                Crouchback Earl of Lancaster on the <choice><orig>N.</orig><reg type="abbrev">North</reg></choice> side of the Altar <choice><orig>Westm<hi rend="superscript">r</hi></orig><reg type="abbrev">Westminster</reg></choice>. Abbey .<choice><orig>Vet. Mon.</orig><reg type="abbrev">Vetusta Monumenta</reg></choice> Vol. II. pl. <unclear resp="MW">2</unclear><note>The plate number "29" is cut off by the trimmed right edge of the leaf.</note></l>
+        </lg>
+    </phystext>
         </desc>
     </objdesc>
 </bad>
