@@ -101,6 +101,7 @@ granted by the owners of the originals for this publication only.<lb/>
     <name>Meaghan Green</name>
     <resp>Project Assistants: </resp>
     <name>Emily English, </name>
+    <name>Dani Garcia, </name>
     <name>Tim Gress, </name>
     <name>Mary Learner, </name>
     <name>Anna Mertz, </name>
@@ -109,7 +110,6 @@ granted by the owners of the originals for this publication only.<lb/>
     <name>Kate Soules, </name>
     <name>Samantha Steiner, </name>
     <name>Gabby Tapia, </name>
-    <name>Dominique Townsend, </name>
     <name>Alice Wynd</name>
                 </respstmt>
             </changestmt>
@@ -330,22 +330,21 @@ University of North Carolina at Chapel Hill
                 </illustration>
             </illusdesc>
             <phystext>
-                
-                <lg type="prose" justify="right">
-                    <l n="but4.1.wd.01.01" justify="right">foot J(?)</l>
-                </lg>
-                <lg type="prose" justify="right">
-                    <l n="but4.1.wd.01.02" justify="right">5: 7.<note>Lines 1 and 2 are written vertically right of the center of the design.</note></l>
-                </lg>
-                <lg type="prose" justify="left">
-                    <l n="but4.1.wd.01.03" justify="right">Basire. del. 1775.</l>
-                </lg>
-                <lg type="prose" justify="left">
-                    <l n="but4.1.wd.01.04" justify="left">Aveline first wife of Edmund
-                        Crouchback Earl of Lancaster West. Abbey.
-                        Vet.Mon.Vol.II.pl.30.</l>
-                </lg>
-            </phystext>
+        <vspace extent="15"/>
+        <lg type="prose" justify="left">
+            <l n="but4.1.wd.01.01" justify="left" indent="50">foot <unclear resp="MW">s</unclear></l>
+            <l n="but4.1.wd.01.02" justify="left" indent="50">5: <space extent="1.5"/>7..<note>Lines 1 and 2 are inscribed vertically along the
+                right side of the design.</note></l>
+        </lg>
+        <vspace extent="15"/>
+        <lg type="prose" justify="left">
+            <l n="but4.1.wd.01.03" justify="left" indent="40">Basire del.1775.</l>
+        </lg>
+        <lg type="prose" justify="left">
+            <l n="but4.1.wd.01.04">Aveline first wife of Edmund Crouchback Earl of Lancaster <choice><orig>West.</orig><reg type="abbrev">Westminster</reg></choice> Abbey.
+                <choice><orig>Vet. Mon.</orig><reg type="abbrev">Vetusta Monumenta</reg></choice> Vol.II. pl.30.<note>"Vet. Mon. Vol.II. pl.30." is a reference to volume 2 of *Vetusta Monumenta*, published by the Society of Antiquaries c. 1789. The volume contains a number of engravings originally published in Joseph Ayloffe's *Account of Some Ancient Monuments in Westminster Abbey*.</note></l>
+        </lg>
+    </phystext>   
         </desc>
     </objdesc>
 </bad>
