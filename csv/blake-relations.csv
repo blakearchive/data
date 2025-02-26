@@ -1,8 +1,8 @@
 desc_id,dbi,bad_id,virtual_group,same_matrix_ids,same_production_sequence_ids,similar_design_ids,reference_object_ids,reference_copy_ids,reference_work_ids,supplemental_ids
-abel.a.illbk.01,abel.A.P1,abel.a,abel,,,,,,,
-abel.a.illbk.02,abel.A.P2,abel.a,abel,,,,,,,
-abel.c.illbk.01,abel.C.P1,abel.c,abel,,,,,,,
-abel.c.illbk.02,abel.C.P2,abel.c,abel,,,,,,,
+abel.a.illbk.01,abel.A.P1,abel.a,abel,abel.c.illbk.01,,,,,,
+abel.a.illbk.02,abel.A.P2,abel.a,abel,abel.c.illbk.02,,,,,,
+abel.c.illbk.01,abel.C.P1,abel.c,abel,abel.a.illbk.01,,,,,,
+abel.c.illbk.02,abel.C.P2,abel.c,abel,abel.a.illbk.02,,,,,,
 ahania.a.illbk.01,ahania.A.P1,ahania.a,ahania,,,,,,,
 ahania.a.illbk.02,ahania.A.P2,ahania.a,ahania,,"urizen.a.illbk.16,urizen.b.illbk.14,urizen.c.illbk.11,urizen.d.illbk.12,urizen.f.illbk.13,urizen.g.illbk.15","urizen.a.illbk.16,urizen.b.illbk.14,urizen.c.illbk.11,urizen.d.illbk.12,urizen.f.illbk.13,urizen.g.illbk.15",,,,
 ahania.a.illbk.03,ahania.A.P3,ahania.a,ahania,,,,,,,
@@ -2758,9 +2758,9 @@ gates-sexes.k.illbk.11,gates-sexes.K.P11-18,gates-sexes.k,gates-sexes,"gates-chi
 gates-sexes.k.illbk.12,gates-sexes.K.P12-19,gates-sexes.k,gates-sexes,"gates-sexes.b.illbk.03,gates-sexes.d.illbk.19",,,"bb126.1.ms.15,bb208.1.ms.01",bb208.1.ms.01,,
 gates-sexes.k.illbk.13,gates-sexes.K.P13-20,gates-sexes.k,gates-sexes,"gates-sexes.b.illbk.04,gates-sexes.d.illbk.20",,,,,,
 gates-sexes.k.illbk.14,gates-sexes.K.P14-21,gates-sexes.k,gates-sexes,"gates-sexes.b.illbk.21,gates-sexes.d.illbk.21,gates-sexes.f.illbk.19",,,,,,
-homer.a.illbk.01,homer.A.P1,homer.a,homer,,,,,,,
-homer.b.illbk.01,homer.B.P1,homer.b,homer,homer.f.illbk.01,,,,,,
-homer.f.illbk.01,homer.F.P1,homer.f,homer,homer.b.illbk.01,,,,,,
+homer.a.illbk.01,homer.A.P1,homer.a,homer,"homer.b.illbk.01,homer.f.illbk.01",,,,,,
+homer.b.illbk.01,homer.B.P1,homer.b,homer,"homer.a.illbk.01,homer.f.illbk.01",,,,,,
+homer.f.illbk.01,homer.F.P1,homer.f,homer,"homer.a.illbk.01,homer.b.illbk.01",,,,,,
 inscbut439.1.rm.01,BUT439.1.1-full.RM,inscbut439.1,inscbut439,,,,,,,but439.1.wc.01
 inscbut439.1.rm.02,BUT439.1.1-insc-t.RM,inscbut439.1,inscbut439,,,,,,,but439.1.wc.01
 inscbut439.1.rm.03,BUT439.1.1-insc-b.RM,inscbut439.1,inscbut439,,,,,,,but439.1.wc.01
