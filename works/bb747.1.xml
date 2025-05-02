@@ -261,7 +261,7 @@
                 </lg>
                 <vspace extent="15"/>
                 <lg type="prose" justify="left">
-                    <l n="bb747.1.ms.03.09" justify="left"><hi rend="handshift">If Morality ,</hi><note>Lines 9 through 13 may have been partially erased. 
+                    <l n="bb747.1.ms.03.09" justify="left"><hi rend="handshift">If Morality</hi><note>Lines 9 through 13 may have been partially erased. 
                         Neither Bentley (*Writings* volume 2, page 1514) nor Erdman (667) include the penciled inscription in their transcription.
                         This inscription is repeated on lines 14 and 15.</note></l>
                     <l n="bb747.1.ms.03.10" justify="left"><hi rend="handshift">was Christianity</hi></l>
@@ -295,11 +295,13 @@
         <physdesc>
             <objsize>28.5 x 21.6 cm.</objsize>
             <windowsize width="500" height="500"/>
-            <objnote><p>Lines 10-12 are written vertically, 
+            <objnote><p>Lines 15-17 are written vertically, 
             starting in the lower right corner and following 
             the right margin.</p></objnote>
         </physdesc>
             <phystext>
+<columns>
+<column>
                 <lg type="prose" justify="left">
                     <l n="bb747.1.ms.04.01" justify="left">Such things as these depend on the Fashion of the Age</l>
                     <l n="bb747.1.ms.04.02" justify="left" indent="2">In a book where all may Read &#38;<space extent="5"/>} are Equally Right<hi rend="handshift"> &#38;</hi>
@@ -326,24 +328,29 @@
                 <vspace extent="11"/>
                 <lg type="prose" justify="left">
                     <l n="bb747.1.ms.04.09" justify="left">It is the learned that Mouth &#38; not the Vulgar</l>
-                </lg>                             
-                <vspace extent="7"/>
+                </lg> 
+ <vspace extent="5"/>
                 <lg type="prose" justify="left">
-                    <l n="bb747.1.ms.04.10" justify="left" indent="80">Spirits are Lawful but not Ghosts especially Royal Gin is Lawful Spirit <hi rend="handshift"><del type="overstrike">real</del></hi></l>
-                    <l n="bb747.1.ms.04.11" justify="left" indent="128.5"><add type="insertion" place="inline">real</add></l>
-                    <l n="bb747.1.ms.04.12" justify="left" indent="116">No Smuggling <add type="insertion" place="infralinear"><hi rend="subscript">^</hi></add> British Spirit &#38; Truth</l>
-                </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb747.1.ms.04.13" justify="left">Lawful Bread Bought with Lawful Money &#38; a Lawful Heaven seen</l>
-                    <l n="bb747.1.ms.04.14" justify="left"><choice>
+                    <l n="bb747.1.ms.04.10" justify="left" indent="7">Lawful Bread Bought with Lawful Money &#38; a Lawful Heaven seen</l>
+                    <l n="bb747.1.ms.04.11" justify="left" indent="7"><choice>
                         <orig>thro</orig>
                         <reg>through</reg>
                     </choice> a Lawful Telescope by means of Lawful Window Light</l>
-                    <l n="bb747.1.ms.04.15" justify="left"><space extent="13"/><add type="insertion" place="inline">&#38; whatever</add></l>
-                    <l n="bb747.1.ms.04.16" justify="left">The Holy Ghost <subst>
+                    <l n="bb747.1.ms.04.12" justify="left" indent="7"><space extent="13"/><add type="insertion" place="inline">&#38; whatever</add></l>
+                    <l n="bb747.1.ms.04.13" justify="left" indent="7">The Holy Ghost <subst>
                         <del type="overstrike"><unclear resp="AW">wh</unclear><gap type="illegible" extent="2"/></del></subst> cannot be Taxed is Unlawful &#38; Witchcraft.</l>
-                    <l n="bb747.1.ms.04.17" justify="left" indent="15.5"><add place="infralinear" type="insertion" symbol="caret"><hi rend="superscript">^</hi></add></l>
+                    <l n="bb747.1.ms.04.14" justify="left" indent="22.5"><add place="infralinear" type="insertion" symbol="caret"><hi rend="superscript">^</hi></add></l>
                 </lg>
+</column>
+<column>
+ <vspace extent="32"/>
+                <lg type="prose" justify="left">
+                    <l n="bb747.1.ms.04.15" justify="left">Spirits are Lawful but not Ghosts especially Royal Gin is Lawful Spirit <hi rend="handshift"><del type="overstrike">real</del></hi></l>
+                    <l n="bb747.1.ms.04.16" justify="left" indent="11.5"><add type="insertion" place="inline">real</add></l>
+                    <l n="bb747.1.ms.04.17" justify="left">No Smuggling <add type="insertion" place="infralinear"><hi rend="subscript">^</hi></add> British Spirit &#38; Truth</l>
+                </lg>
+</column>
+</columns>
             </phystext>
     </desc>
         <desc id="bb747.1.ms.05" dbi="BB.747.1.5-2.MS">
@@ -635,7 +642,7 @@
                 </lg>
                 <lg type="prose" justify="left">
                     <l n="bb747.10.ms.24" justify="left" indent="12"><hi rend="handshift">I swear that Basileia &#914;&#945;<unclear resp="AW">&#963;</unclear>&#953;&#955;&#949;&#953;&#945; is not Kingdom</hi>
-                        <note>The Greek character &#963; (sigma) bears a resemblance to the form of the letter typically used in the final position.</note></l>
+                        <note>The Greek character "&#963;" (sigma) bears a resemblance to the form of the letter typically used in the final position.</note></l>
                     <l n="bb747.10.ms.25" justify="left" indent="1"><hi rend="handshift">but Kingship I Nature</hi> <unclear resp="AW">Hermaphroditic</unclear> <hi rend="handshift">Priest &#38; K<unclear resp="AW">in</unclear>g</hi></l>
                     <l n="bb747.10.ms.26" justify="left" indent="1.25"><hi rend="handshift">Live in Real</hi> <unclear resp="AW">Substantial</unclear> <hi rend="handshift">Natural Born</hi> <unclear resp="AW">Man</unclear> <hi rend="handshift">&#38; that</hi></l>
                     <l n="bb747.10.ms.27" justify="left" indent="1.5"><hi rend="handshift">Spirit is the Ghost of Matter or Nature &#38; God is</hi></l>
