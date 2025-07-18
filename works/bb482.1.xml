@@ -1,0 +1,288 @@
+<bad id="bb482.1" type="comdes" work="Benjamin Heath Malkin, A Father's Memoirs of His Child" copy="1" copyid="1"
+    institution="huntington" catalog="bentley" catid="482" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="A Father's Memoirs of His Child">
+                    <main><author>Benjamin Heath Malkin</author> , A Father's Memoirs of His Child</main>
+                     : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill </principal>
+                <respstmt/>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 25KB; 2 JPEG (ISO/IEC 10918) files ranging in size from
+                150KB to 2500KB</extent>
+            <publicationstmt> Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>November 2025</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt> </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict> Copyright © <date>2025</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only. <lb/>
+            <lb/> This work copyright © Huntington Library, Art Collections, and Botanical Gardens. <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Publication prep</change>
+                <date>July 2009</date>
+                <respstmt>
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Christopher N. Jackson,</name>
+                    <name>Michelle Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Wayne C. Ripley,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD modified to include new Related Works protocols</change>
+                <date>April 2009</date>
+                <respstmt>
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Christopher N. Jackson,</name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Natalie Moix,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Wayne C. Ripley,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Lily Todorinova,</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image color correction, illustration markup and BAD creation</change>
+                <date>June-August 2008</date>
+                <respstmt>
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Kit Curtin,</name>
+                    <name>Christopher N. Jackson,</name>
+                    <name>Sarah Jones,</name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Wayne C. Ripley,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquisition and metadata collection</change>
+                <date>October 2005</date>
+                <respstmt>
+                    <resp>Technical Editor: </resp>
+                    <name>Wesley N. Raabe</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed,</name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Benjamin Heath Malkin, A Father's Memoirs of His Child</title>
+                </objtitle>
+                <origination>William Blake <role>inventor.  Blake invented the design surrounding the oval portrait but not the oval portrait itself.</role>   
+                </origination>
+                <origination>Richard Morton Paye<role>inventor.  According to Malkin's text, page xliv, "Paye" designed the "miniature" oval portrait of B. H. Malkin's son, Thomas Williams Malkin (1795-1802), when the boy "was not quite two years old."  The artist was probably the miniaturist Richard Morton Paye, apparently inactive after c. 1802.</role>
+                 </origination>
+                <origination>Robert H. Cromek<role>etcher,</role>
+                    <role>engraver</role>
+                    </origination>
+                <origination>William Blake<role>etcher,</role>
+                    <role>engraver.  See the introductory essay for information about Blake's possible role in etching and engraving the medallion portrait of Thomas Malkin.</role>
+                </origination>
+                <origination>Robert Cooper<role>etcher,</role>
+                    <role>engraver.  According to R. H. Cromek's son, Thomas Cromek, Cooper (active 1798-1828) engraved the medallion portrait of Thomas Malkin.</role>
+                </origination>
+                
+                <imprint>
+                    <publisher>Longman, Hurst, Rees, and Orme</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1806</date>
+                </imprint>
+                <compdate value="1806">1806</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1806">1806</printdate>
+                <numberobj>1<note>The plate is bound as the frontispiece facing the title page.</note></numberobj>
+                <objorder>1</objorder>
+                <objsize>19.8 x 13.0 cm. (design), 20.3 x 13.0 cm. (including the imprint)</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>24.5 x 14.6 cm.</leafsize>
+                <medium> etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>1, contiguous with the edges of the design.</framelines>
+                <binding>uncut in publisher's original boards</binding>
+                <stabholes>none visible</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Huntington Library, Art Collections, and Botanical Gardens</name>
+                <date>not recorded</date>
+                <dealer>none recorded</dealer>
+                <price>not recorded</price>
+            </provenance>
+            <repository>
+                <institution>Huntington Library, Art Collections, and Botanical
+                    Gardens</institution>
+                <repositoryid label="Call number">313124</repositoryid>
+            </repository>
+        </source>
+        <desc id="bb482.1.comdes.02" dbi="bb482.1.2.COM">
+            <physdesc desclevel="brief">
+                <objnote>
+                    <p>This engraving was printed from a copperplate with the same design previously engraved by Blake.  This version of the framing design (but not the medallion portrait) was scraped and burnished off the copper and Cromek's engraving substituted.  In an earlier state of Cromek's engraving, the word "Page" is etched or scratched top right, possibly followed by a number trimmed off by the edge of the leaf in the only known impression.  This inscription apparently indicates that the plate was originally intended to be placed facing a page within the book rather than bound as the frontispiece facing the title page.  Blake's variant preliminary drawing of the frontispiece (Butlin 580) is a horizontal, rather than vertical, composition and the three figures, none winged, are differently configured.  An untraced drawing, *The Death of an Infant* (Butlin 581), might be related.  *Studies of a Child, for the Frontispiece to Malkin's "Memoirs of His Child"* (Butlin 186 verso) contains sketches of a child's head and arms that may also be related.  Two of the heads are (coincidentally?) similar to Paye's medallion portrait of young Thomas, and at least one sketch looks like the child's face and arms in Blake's framing design.</p>
+                </objnote>
+                <objsize>20.3 x 13.0 cm.</objsize>
+                <windowsize width="600" height="750"/>
+            </physdesc>
+            <related objectid="but244.1.wd.04"/>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>A detailed oval portrait of a young male child is in the center of the plate. He has short, curly hair and wears a gown. He faces right. A bright light or white clouds create a halo effect behind his head. There are three gowned figures below the portrait. To the right, a female figure with curly hair tied up with a ribbon kneels on the edge of a cliff or hill. She is shown in profile, facing left with both arms outstretched and palms facing up.  She is probably the child's mother. A compass, an open book, and writing utensils, which may include a quill and pens, appear next to her left leg.  She looks toward the center figure in the group of three, a gowned child with short, curly hair who appears to be floating. This is probably the same child depicted in the portrait. The child faces forward with his left leg extended forward and arms outstretched. The child looks to the right with head titled slightly, facing the kneeling woman. The child's left hand is held, palm up, above the hand of the kneeling woman. The child's right hand holds the hand of the figure on the left, a winged and possibly female angel. She may be rising or floating. She may be an angel. She faces away from the viewer, showing two feather wings that extend from her should blades and up the left side of the frame. Her face, in profile, looks to the right and slightly down. She may have long hair, partially obscured by her wings. Her left leg extends backward, and her left arm is raised vertically. Beams of light extend from a sun, positioned in the top and center of the image. Clouds appear below and in front of the beams of light.  The design appears to represent the death of the author's young son, Thomas Williams Malkin (1795-1802), as a journey from his earthly mother, kneeling lower right, to heaven with the assistance of a winged angel.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>young</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>child</characteristic>
+                        <characterisitic>Thomas Williams Malkin</characterisitic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <charateristic>halo</charateristic>
+                        <illusobjdesc>A detailed oval portrait of a young male child, Thomas Williams Malkin, is in the center of the plate. She has short, curly hair and wears a gown. She faces right. A bright light or white clouds create a halo effect behind her head.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>ribbon</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>hands raised, palms up</characteristic>
+                        <characteristic>mother</characteristic>
+                        <illusobjdesc>There are three gowned figures below the portrait. To the right, a female figure with curly hair tied up with a ribbon kneels on the edge of a cliff or hill. She is shown in profile, facing the left with both arms extended outward and palms facing up.  She is probably T. W. Malkin's mother.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>cliff</characteristic>
+                        <characteristic>hill</characteristic>
+                        <illusobjdesc>A woman kneels on the edge of a cliff or hill.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>compass</characteristic>
+                        <characteristic>book</characteristic>
+                        <characteristic>pen</characteristic>
+                        <characteristic>quill</characteristic>
+                        <illusobjdesc>A compass, an open book, and writing utensils which may include a quill and pens appear next to the left leg of the kneeling woman.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>gown</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>young</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>floating</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arm raised horizontally</characteristic>
+                        <characteristic>palm up</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>Thomas Williams Malkin</characteristic>
+                        <illusobjdesc>There are three gowned figures below the portrait. The center figure is a gowned male child with short, curly hair who appears to be floating. It is probably the same child depicted in the medallion portrait, T. H. Malkin's young son, Thomas Williams Malkin. The child faces forward with his or her left leg extended forward and arms outstretched. The child looks to the right with head titled slightly, facing the kneeling woman. The child's left hand is held, palm up, above the hand of the kneeling woman. The child's right hand holds the hand of the figure on the left, a winged and possibly female angel.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>gown</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>floating</characteristic>
+                        <characteristic>rising</characteristic>
+                        <characteristic>angel</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>feather</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>arm raised vertically</characteristic>
+                        <illusobjdesc>There are three gowned figures below the portrait. The figure on the left is a winged and possibly female figure who holds the hand of the child in the center. She and the child are floating or rising. She is probably an angel. She faces away from the viewer, exposing two wings made up of feathers that extend from her should blades and up the left side of the frame. Her face, in profile, looks to the right and slightly down. She may have long hair, partially obscured by her wings. Her left leg extends backward, and her left arm is raised vertically.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>sky</characteristic>
+                        <characteristic>sun</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <illusobjdesc>The background is almost entirely sky. Beams of light extend from a sun, positioned in the top and center of the image. Clouds appear below and in front of the beams of light.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="20"/>
+                <lg justify="left">
+                    <l n="bb482.1.comdes.02.01" justify="left"><choice><orig>W<hi rend="superscript">m</hi>.</orig><reg type="abbrev">William</reg></choice> Blake inv.<hi rend="superscript">t</hi><space extent="75"/><choice><orig>R.H.</orig><reg type="abbrev">Robert Hartley</reg></choice> Cromek Sc</l>
+                    <l n="bb482.1.comdes.02.02" justify="left" indent="24.5">London Published by Longman C<hi rend="superscript">o</hi>. February 1<hi rend="superscript">st</hi>. 1806__</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
