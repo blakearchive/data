@@ -1,0 +1,309 @@
+<bad id="bb490.1" type="comb" work="Remember Me!" copy="1" copyid="1" institution="essick" catalog="bentley" catid="490" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Remember Me!">
+                    <main>Remember Me!</main> :
+                    electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick,</name> University of California, Riverside; and <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill </principal>             
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>XML file approx. 25KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 150KB to 2500KB</extent>
+            <publicationstmt> Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>November
+                    2025</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>
+                </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict> Copyright © <date>2025</date> by Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only. <lb/>
+            <lb/> This work copyright © William Blake Archive </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Republication in full mode</change>
+                <date>May 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Conversion to XML and Blake Archive Description DTD 2004</change>
+                <date>2004</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Conversion: </resp>
+                    <name>Aziza Technology Associates</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Wesley N. Raabe, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Remember Me!</title>
+                </objtitle>
+                <origination> William Blake <role>inventor, </role>
+                <role>delineator, </role>
+                    <role>etcher, </role>
+                    <role>engraver.</role>
+                </origination>
+                <imprint>
+                    <publisher>I. Poole</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1825<note>Dated "1825" on the title page, but the book was undoubtedly published late in 1824 because it is an annual gift book for 1825 and includes a complete calendar for that year beginning with January 1.  A prospectus announcing the publication is dated "November 1824" (Bentley page 606).</note></date>
+                </imprint>
+                <compdate value="1824">1824</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1824">1824</printdate>
+                <numberobj>1</numberobj>
+                <objsize>6.8 x 9.6 cm. (design), 7.6 x 9.6 cm. (including the engraved title)</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>13.2 x 8.4 cm., all edges gilt</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>publisher's original printed boards<note>The book was issued in a number of different publisher's bindings.</note></binding>
+                <stabholes>four, 0.6 cm. from the top and 1.8 cm., 6.9 cm., and 1.8 cm. apart.</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Robert N. Essick</name>
+                <date>2000</date>
+                <dealer>Maggs Bros.</dealer>
+                <price>$1332</price>
+                <note>Early history not known; acquired at an unrecorded time by Douglas Cleverdon (1903-1987).</note>
+            </provenance>
+            <repository>
+                <lb/>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena</addressline>
+                <addressline>California</addressline>
+            </repository>
+        </source>
+        <desc id="bb490.1.comb.01" dbi="BB490.1.1.COM">
+            <objtitle>
+                <title type="transcribed">Hiding of Moses.</title> , <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote><p>In addition to the published state of the plate, we are including, as a Supplemental View, a proof of Blake's plate in the National Gallery of Art, Washington, signed "WBlake. inven &#38; sculp."  Measuring 7.0 x 11.1 cm., the proof includes a good deal more of the landscape on the left, thereby showing additional structures, probably brick kilns, and a little more foreground at the bottom of the plate.  The engraving was reduced in size before publication to fit the format of the book.</p></objnote>
+                <objsize>7.6 x 9.6 cm.</objsize>
+                <windowsize width="600" height="730"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The design illustrates the hiding of Moses in Exodus 2: 3-4.  Five figures are depicted in a desert setting. In the foreground, a man stands and supports a woman who is kneeling on the ground. The man has short, curly hair and a beard and wears a long cloth or robe that exposes a muscular chest. He faces the left, looking downward at the woman. His visible left leg is bent at the knee, and his arms are at his side to support or hold the woman’s head. He stands in front of a palm tree, which casts a shadow on his back. The palm fronds extend over his head. The woman kneels on the ground in front of him. Facing left, she leans backward and twists her body forward at the torso. A cloth or robe covers her lower body, with exposed breasts facing the viewer. Her head is bent backwards and looks forward and up. Her arms fall at her side with palms down and fingers spread. Long, curly hair falls down her back. Her mouth may be open and she has an expression of melancholy or anguish. The man and woman are on the bank of the Nile River. An infant with short, curly hair lies supine in a small ark or basket in the river. His arms are bent at the elbow to rest on his chest. He may be sleeping or dead. River reeds surround the basket and the shoreline. Steps or a wall appear behind the man, woman, and infant. On the upper step, a female figure stands with her back to the viewer. A transparent cloth covers her from the waist down. Her face, in profile, faces right. She may have long hair that falls in front of her left shoulder. Her left leg extends backward at the knee. Her left arm is bent upward at the elbow and her right hand appears below her left elbow. Her fingers are outspread. A sphinx with the body of a lion and the chest and head of a woman sits on the bottom-most step.  This is probably intended to be a statue in stone. She wears a cloth head wrap or scarf. Her eyes are raised. The Nile River extends into the background. Three long, rectangular structures with straw or thatched roofs stand on the left bank of the Nile. Two large pyramids rise behind the buildings on the left bank of the Nile. A city is visible in the background to the right of the river. Although the sky is mostly dark, there may be light rays obscured by the steps, indicating daybreak or nightfall.  The infant is Moses, the seated woman is his mother, Jochebed, the man behind her is Moses's father, Amram, and the woman standing on the wall is Moses's sister, Miriam.</illusobjdesc>
+                    <component type="figure" location="BD">
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>robe</characteristic>
+                        <characteristic>chest</characteristic>
+                        <characteristic>muscular</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>eyes down</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>supporting</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characterisitic>Amram</characterisitic>
+                        <illusobjdesc>Five figures are depicted in a desert setting. In the foreground, a man stands and supports a woman who is kneeling on the ground. The man has short, curly hair and a beard and wears a long cloth or robe that exposes a muscular chest. He faces the left, looking downward at the woman. His visible left leg is bent at the knee, and his arms are at his side to support or hold the woman’s head.  This is Moses's father, Amram.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="BD">
+                        <characteristic>palm</characteristic>
+                        <characteristic>tree</characteristic>
+                        <illusobjdesc>The man stands in front of a palm tree. The palm fronds extend over his head.</illusobjdesc>
+                    </component>
+                    <component type="object" location="BD">
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>The man stands in front of a palm tree, which casts a shadow on his back.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="D">
+                        <characteristic>female</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>kneeling</characteristic>
+                        <characteristic>leaning</characteristic>
+                        <characteristic>bending backward</characteristic>
+                        <characteristic>arms at side</characteristic>
+                        <characteristic>palms down</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>breasts</characteristic>
+                        <characteristic>partly nude</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>melancholy</characteristic>
+                        <characteristic>Jochebed</characteristic>
+                        <illusobjdesc>Five figures are depicted in a desert setting. In the foreground, a man stands and supports a woman who is kneeling on the ground in front of him. Facing left, she leans backward and twists her body forward at the torso. She is partly nude. A cloth or robe covers her lower body, with exposed breasts facing the viewer. Her head is bent backward and looks forward and up. Her arms fall at her side with palms down and fingers spread. Long, curly hair falls down her back. Her mouth may be open and she has an expression of melancholy or anguish.  This is Moses's mother, Jochebed.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>shore</characteristic>
+                        <characteristic>bank</characteristic>
+                        <characteristic>Nile</characteristic>
+                        <illusobjdesc>The man and woman are on the bank of the Nile River.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>infant</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>supine</characteristic>
+                        <characteristic>sleeping</characteristic>
+                        <characteristic>Moses</characteristic>
+                        <characteristic>ark</characteristic>
+                        <characteristic>basket</characteristic>
+                        <characteristic>gown</characteristic>
+                        <illusobjdesc>An infant, likely male, with short, curly hair lies supine in a small ark or basket in the river. His arms are bent at the elbow to rest on his chest. He may be sleeping.  This is Moses.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>ark</characteristic>
+                        <characteristic>basket</characteristic>
+                        <illusobjdesc>The infant is laying in what appears to be a small ark or
+                            basket.</illusobjdesc>
+                    </component>
+                    <component type="vegetation" location="CD">
+                        <characteristic>reed</characteristic>
+                        <illusobjdesc>River reeds surround the basket and the shoreline.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="E">
+                        <characteristic>step</characteristic>
+                        <characteristic>wall</characteristic>
+                        <illusobjdesc>Steps or a wall appear behind the man, woman, and infant.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>female</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>partly nude</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>hand raised, palm down</characteristic>
+                        <characteristic>arm bent upward</characteristic>
+                        <characteristic>fingers spread</characteristic>
+                        <characteristic>Miriam</characteristic>
+                        <illusobjdesc>On the upper step, a female figure stands facing away, with her back to the viewer. A transparent cloth covers her from the waist down. Her face, in profile, faces right. She may have long hair that falls in front of her left shoulder. Her left leg extends backward at the knee. Her left arm is bent upward at the elbow and her right hand appears below her left elbow. Her fingers are outspread.  This is Moses's sister, Miriam.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>female</characteristic>
+                        <characteristic>sphinx</characteristic>
+                        <characteristic>lion</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>scarf</characteristic>
+                        <characteristic>breasts</characteristic>
+                        <characteristic>statue</characteristic>
+                        <illusobjdesc>A sphinx with the body of a lion and the chest and head of a woman sits on the bottom-most step. She is probably a statue. She wears a cloth head wrap or scarf. Her eyes are raised.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="A">
+                        <characteristic>pyramid</characteristic>
+                        <illusobjdesc>Two pyramids rise to the left of the river.</illusobjdesc>
+                    </component>
+                    <component type="structure" location="A">
+                        <characteristic>building</characteristic>
+                        <characteristic>straw</characteristic>
+                        <illusobjdesc>Three long, rectangular buildings with straw or thatched roofs stand on the left bank of the Nile.</illusobjdesc>
+                    </component>
+                    <component type="object" location="B">
+                        <characteristic>city</characteristic>
+                        <illusobjdesc>A city is visible in the background to the right of the river.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>sky</characteristic>
+                        <characteristic>sunrise</characteristic>
+                        <characteristic>sunset</characteristic>
+                        <illusobjdesc>Although the sky is mostly dark, there may be light rays obscured by the steps, indicating sunrise or sunset.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="8"/>
+                <lg type="prose" justify="right">
+                    <l n="bb490.1.comdes.01.01" justify="left">Blake del et sculpt.</l>
+                </lg>
+                <lg type="prose" justify="center">
+                    <l n="bb490.1.comdes.01.02" justify="right"> Hiding of Moses. </l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
