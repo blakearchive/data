@@ -118,9 +118,9 @@
             <objinfo>
                 <printdate value="1824">1824</printdate>
                 <numberobj>1</numberobj>
-                <objsize>6.8 x 9.6 cm. (design), 7.6 x 9.6 cm. (including the engraved title)</objsize>
+                <objsize>6.8 x 9.6 cm. (design), 7.6 x 9.6 cm. (including the engraved title)<note>The design of the proof shown under Supplemental Views measures 7.0 x 11.1 cm.  The image including the engraved title measures 7.7 x 11.1 cm.</note></objsize>
                 <numberleaves>1</numberleaves>
-                <leafsize>13.2 x 8.4 cm., all edges gilt</leafsize>
+                <leafsize>8.4 x 13.1 cm., all edges gilt<note>The leaf on which the proof, shown under Supplemental views, is printed measures 10.4 x 17.4 cm.</note></leafsize>
                 <medium>etching and engraving</medium>
                 <printingstyle>intaglio</printingstyle>
                 <inkcolor>black</inkcolor>
@@ -153,7 +153,7 @@
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>In addition to the published state of the plate, we are including, as a Supplemental View, a proof of Blake's plate in the National Gallery of Art, Washington, signed "WBlake. inven &#38; sculp."  Measuring 7.0 x 11.1 cm., the proof includes a good deal more of the landscape on the left, thereby showing additional structures, probably brick kilns, and a little more foreground at the bottom of the plate.  The engraving was reduced in size before publication to fit the format of the book.</p></objnote>
+                <objnote><p>In addition to the published state of the plate, we are including, as a Supplemental View, a proof of Blake's plate in the National Gallery of Art, Washington, titled "The Hiding of Moses" and signed "WBlake. inven &#38; sculp."  The design, measuring 7.0 x 11.1 cm., in the proof includes a good deal more of the landscape on the left, thereby showing additional structures, probably brick kilns, and a little more foreground at the bottom of the plate.  The engraving was reduced in size before publication to fit the format of the book.</p></objnote>
                 <objsize>7.6 x 9.6 cm.</objsize>
                 <windowsize width="600" height="730"/>
             </physdesc>
@@ -276,7 +276,7 @@
                     </component>
                     <component type="structure" location="A">
                         <characteristic>pyramid</characteristic>
-                        <illusobjdesc>Two pyramids rise to the left of the river.</illusobjdesc>
+                        <illusobjdesc>Two pyramids rise to the left of the river.  In front of them, near the left margin, are parts of two low buildings.</illusobjdesc>
                     </component>
                     <component type="structure" location="A">
                         <characteristic>building</characteristic>
@@ -285,6 +285,7 @@
                     </component>
                     <component type="object" location="B">
                         <characteristic>city</characteristic>
+                        <characteristic>building</characteristic>
                         <illusobjdesc>A city is visible in the background to the right of the river.</illusobjdesc>
                     </component>
                     <component type="object" location="AB">
@@ -298,12 +299,178 @@
             <phystext>
                 <vspace extent="8"/>
                 <lg type="prose" justify="right">
-                    <l n="bb490.1.comdes.01.01" justify="left">Blake del et sculpt.</l>
+                    <l n="bb490.1.comdes.01.01" justify="right">Blake del et sculpt.</l>
                 </lg>
                 <lg type="prose" justify="center">
-                    <l n="bb490.1.comdes.01.02" justify="right"> Hiding of Moses. </l>
+                    <l n="bb490.1.comdes.01.02" justify="middle">Hiding of Moses. </l>
                 </lg>
             </phystext>
+            <supplemental>
+                <desc id="bb490.1.ngaprf.01" dbi="BB490.1.ngaprf.COM">
+                    <objtitle>
+                        <title type="transcribed">The Hiding of Moses</title><objid>
+                            <objnumber code="A1">Object 1</objnumber>
+                        </objid>
+                    </objtitle>
+                    <physdesc desclevel="brief">
+                        <objnote><p>This proof the of plate in the National Gallery of Art, Washington, measures 7.7 x 11.1 cm., including the title. The proof includes a good deal more of the landscape on the left, thereby showing additional structures, probably brick kilns, and a little more foreground at the bottom of the plate.  The engraving was reduced in size before publication to fit the format of the book.</p></objnote>
+                        <objsize>7.7 x 11.1 cm.</objsize>
+                        <windowsize width="600" height="730"/>
+                    </physdesc>
+                    <illusdesc>
+                        <illustration type="plate" location="E">
+                            <illusobjdesc>The design illustrates the hiding of Moses in Exodus 2: 3-4.  Five figures are depicted in a desert setting. In the foreground, a man stands and supports a woman who is kneeling on the ground. The man has short, curly hair and a beard and wears a long cloth or robe that exposes a muscular chest. He faces the left, looking downward at the woman. His visible left leg is bent at the knee, and his arms are at his side to support or hold the woman’s head. He stands in front of a palm tree, which casts a shadow on his back. The palm fronds extend over his head. The woman kneels on the ground in front of him. Facing left, she leans backward and twists her body forward at the torso. A cloth or robe covers her lower body, with exposed breasts facing the viewer. Her head is bent backwards and looks forward and up. Her arms fall at her side with palms down and fingers spread. Long, curly hair falls down her back. Her mouth may be open and she has an expression of melancholy or anguish. The man and woman are on the bank of the Nile River. An infant with short, curly hair lies supine in a small ark or basket in the river. His arms are bent at the elbow to rest on his chest. He may be sleeping or dead. River reeds surround the basket and the shoreline. Steps or a wall appear behind the man, woman, and infant. On the upper step, a female figure stands with her back to the viewer. A transparent cloth covers her from the waist down. Her face, in profile, faces right. She may have long hair that falls in front of her left shoulder. Her left leg extends backward at the knee. Her left arm is bent upward at the elbow and her right hand appears below her left elbow. Her fingers are outspread. A sphinx with the body of a lion and the chest and head of a woman sits on the bottom-most step.  This is probably intended to be a statue in stone. She wears a cloth head wrap or scarf. Her eyes are raised. The Nile River extends into the background.  Two pyramids and five long, rectangular structures, probably brick kilns, with straw or thatched roofs stand on the left bank of the Nile.  Smoke rises in three columns from chimneys on two of the buildings.  Another column of smoke rises from the ground(?) in front of the pyramid on the left.  The front-most of these buildings includes a large transverse gable, possibly with a window or door within.  Alternatively, this could be a structure separate from the low building behind it.  A city is visible in the background to the right of the river. Although the sky is mostly dark, there may be light rays obscured by the steps, indicating daybreak or nightfall.  The infant is Moses, the seated woman is his mother, Jochebed, the man behind her is Moses's father, Amram, and the woman standing on the wall is Moses's sister, Miriam.</illusobjdesc>
+                            <component type="figure" location="BD">
+                                <characteristic>male</characteristic>
+                                <characteristic>short hair</characteristic>
+                                <characteristic>curly hair</characteristic>
+                                <characteristic>beard</characteristic>
+                                <characteristic>standing</characteristic>
+                                <characteristic>cloth</characteristic>
+                                <characteristic>robe</characteristic>
+                                <characteristic>chest</characteristic>
+                                <characteristic>muscular</characteristic>
+                                <characteristic>facing left</characteristic>
+                                <characteristic>eyes down</characteristic>
+                                <characteristic>looking</characteristic>
+                                <characteristic>leg bent at knee</characteristic>
+                                <characteristic>arms at side</characteristic>
+                                <characteristic>supporting</characteristic>
+                                <characteristic>holding</characteristic>
+                                <characterisitic>Amram</characterisitic>
+                                <illusobjdesc>Five figures are depicted in a desert setting. In the foreground, a man stands and supports a woman who is kneeling on the ground. The man has short, curly hair and a beard and wears a long cloth or robe that exposes a muscular chest. He faces the left, looking downward at the woman. His visible left leg is bent at the knee, and his arms are at his side to support or hold the woman’s head.  This is Moses's father, Amram.</illusobjdesc>
+                            </component>
+                            <component type="vegetation" location="BD">
+                                <characteristic>palm</characteristic>
+                                <characteristic>tree</characteristic>
+                                <illusobjdesc>The man stands in front of a palm tree. The palm fronds extend over his head.</illusobjdesc>
+                            </component>
+                            <component type="object" location="BD">
+                                <characteristic>shadow</characteristic>
+                                <illusobjdesc>The man stands in front of a palm tree, which casts a shadow on his back.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="D">
+                                <characteristic>female</characteristic>
+                                <characteristic>long hair</characteristic>
+                                <characteristic>curly hair</characteristic>
+                                <characteristic>kneeling</characteristic>
+                                <characteristic>leaning</characteristic>
+                                <characteristic>bending backward</characteristic>
+                                <characteristic>arms at side</characteristic>
+                                <characteristic>palms down</characteristic>
+                                <characteristic>fingers spread</characteristic>
+                                <characteristic>cloth</characteristic>
+                                <characteristic>gown</characteristic>
+                                <characteristic>breasts</characteristic>
+                                <characteristic>partly nude</characteristic>
+                                <characteristic>head bent back</characteristic>
+                                <characteristic>facing left</characteristic>
+                                <characteristic>facing forward</characteristic>
+                                <characteristic>facing up</characteristic>
+                                <characteristic>mouth open</characteristic>
+                                <characteristic>melancholy</characteristic>
+                                <characteristic>Jochebed</characteristic>
+                                <illusobjdesc>Five figures are depicted in a desert setting. In the foreground, a man stands and supports a woman who is kneeling on the ground in front of him. Facing left, she leans backward and twists her body forward at the torso. She is partly nude. A cloth or robe covers her lower body, with exposed breasts facing the viewer. Her head is bent backward and looks forward and up. Her arms fall at her side with palms down and fingers spread. Long, curly hair falls down her back. Her mouth may be open and she has an expression of melancholy or anguish.  This is Moses's mother, Jochebed.</illusobjdesc>
+                            </component>
+                            <component type="object" location="D">
+                                <characteristic>shore</characteristic>
+                                <characteristic>bank</characteristic>
+                                <characteristic>Nile</characteristic>
+                                <illusobjdesc>The man and woman are on the bank of the Nile River.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="C">
+                                <characteristic>male</characteristic>
+                                <characteristic>infant</characteristic>
+                                <characteristic>short hair</characteristic>
+                                <characteristic>curly hair</characteristic>
+                                <characteristic>lying</characteristic>
+                                <characteristic>supine</characteristic>
+                                <characteristic>sleeping</characteristic>
+                                <characteristic>Moses</characteristic>
+                                <characteristic>ark</characteristic>
+                                <characteristic>basket</characteristic>
+                                <characteristic>gown</characteristic>
+                                <illusobjdesc>An infant, likely male, with short, curly hair lies supine in a small ark or basket in the river. His arms are bent at the elbow to rest on his chest. He may be sleeping.  This is Moses.</illusobjdesc>
+                            </component>
+                            <component type="object" location="C">
+                                <characteristic>ark</characteristic>
+                                <characteristic>basket</characteristic>
+                                <illusobjdesc>The infant is laying in what appears to be a small ark or
+                                    basket.</illusobjdesc>
+                            </component>
+                            <component type="vegetation" location="CD">
+                                <characteristic>reed</characteristic>
+                                <illusobjdesc>River reeds surround the basket and the shoreline.</illusobjdesc>
+                            </component>
+                            <component type="structure" location="E">
+                                <characteristic>step</characteristic>
+                                <characteristic>wall</characteristic>
+                                <illusobjdesc>Steps or a wall appear behind the man, woman, and infant.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="AB">
+                                <characteristic>female</characteristic>
+                                <characteristic>standing</characteristic>
+                                <characteristic>facing away</characteristic>
+                                <characteristic>facing right</characteristic>
+                                <characteristic>long hair</characteristic>
+                                <characteristic>cloth</characteristic>
+                                <characteristic>partly nude</characteristic>
+                                <characteristic>leg extended backward</characteristic>
+                                <characteristic>arm bent</characteristic>
+                                <characteristic>hand raised, palm down</characteristic>
+                                <characteristic>arm bent upward</characteristic>
+                                <characteristic>fingers spread</characteristic>
+                                <characteristic>Miriam</characteristic>
+                                <illusobjdesc>On the upper step, a female figure stands facing away, with her back to the viewer. A transparent cloth covers her from the waist down. Her face, in profile, faces right. She may have long hair that falls in front of her left shoulder. Her left leg extends backward at the knee. Her left arm is bent upward at the elbow and her right hand appears below her left elbow. Her fingers are outspread.  This is Moses's sister, Miriam.</illusobjdesc>
+                            </component>
+                            <component type="figure" location="C">
+                                <characteristic>female</characteristic>
+                                <characteristic>sphinx</characteristic>
+                                <characteristic>lion</characteristic>
+                                <characteristic>eyes raised</characteristic>
+                                <characteristic>cloth</characteristic>
+                                <characteristic>scarf</characteristic>
+                                <characteristic>breasts</characteristic>
+                                <characteristic>statue</characteristic>
+                                <illusobjdesc>A sphinx with the body of a lion and the chest and head of a woman sits on the bottom-most step. She is probably a statue. She wears a cloth head wrap or scarf. Her eyes are raised.</illusobjdesc>
+                            </component>
+                            <component type="structure" location="A">
+                                <characteristic>pyramid</characteristic>
+                                <characteristic>building</characteristic>
+                                <characteristic>straw</characteristic>
+                                <characteristic>roof</characteristic>
+                                <characteristic>chimney</characteristic>
+                                <characteristic>gable</characteristic>
+                                <characteristic>window</characteristic>
+                                <characteristic>door</characteristic>
+                                <characteristic>smoke</characteristic>
+                                <characteristic>brick kiln</characteristic>
+                                <illusobjdesc>Two large pyramids and five long, rectangular buildings, probably brick kilns with straw or thatched roofs, stand on the left bank of the Nile.  Smoke rises in three columns from chimneys on two of the buildings.  Another column of smoke rises from the ground(?) in front of the pyramid on the left.  The front-most of these buildings includes a large transverse gable, possibly with a window or door within.  Alternatively, this could be a structure separate from the low building behind it.</illusobjdesc>
+                            </component>
+                            <component type="object" location="B">
+                                <characteristic>city</characteristic>
+                                <characteristic>building</characteristic>
+                                <illusobjdesc>A city is visible in the background to the right of the river.</illusobjdesc>
+                            </component>
+                            <component type="object" location="AB">
+                                <characteristic>sky</characteristic>
+                                <characteristic>sunrise</characteristic>
+                                <characteristic>sunset</characteristic>
+                                <illusobjdesc>Although the sky is mostly dark, there may be light rays obscured by the steps, indicating sunrise or sunset.</illusobjdesc>
+                            </component>
+                        </illustration>
+                    </illusdesc>
+                    <phystext>
+                        <vspace extent="8"/>
+                        <lg type="prose" justify="right">
+                            <l n="bb490.1.comdes.01.01" justify="right">WBlake. inv &#38; sculp.</l>
+                        </lg>
+                        <lg type="prose" justify="center">
+                            <l n="bb490.1.comdes.01.02" justify="middle">The Hiding of Moses</l>
+                        </lg>
+                    </phystext>
+                </desc>
+            </supplemental>
         </desc>
     </objdesc>
 </bad>
