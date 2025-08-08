@@ -1,0 +1,321 @@
+<bad id="bb444.1" type="comb" work="Thomas Commins, An Elegy, Set to Music" copy="1" copyid="1"
+    institution="essick" catalog="bentley" catid="444">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Thomas Commins, An Elegy, Set to Music">
+                    <main>Thomas Commins, An Elegy, Set to Music</main>
+                     : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill </principal>
+                <respstmt/>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 25KB; 2 JPEG (ISO/IEC 10918) files ranging in size from
+                150KB to 2500KB</extent>
+            <publicationstmt> Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>November 2025</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict> Copyright © <date>2025</date> by Robert N. Essick and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only. <lb/>
+            <lb/> This work copyright © 2025 William Blake Archive<lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Publication prep</change>
+                <date>July 2009</date>
+                <respstmt>
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Lauren Cameron,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Christopher N. Jackson,</name>
+                    <name>Michelle Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Wayne C. Ripley,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD modified to include new Related Works protocols</change>
+                <date>April 2009</date>
+                <respstmt>
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Project Manager: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Kate Attkisson,</name>
+                    <name>Christopher N. Jackson,</name>
+                    <name>Lauren Klapper-Lehman,</name>
+                    <name>Michelle Langston,</name>
+                    <name>Rachel Lee,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Natalie Moix,</name>
+                    <name>Jennifer Park,</name>
+                    <name>Wayne C. Ripley,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Sarah Shaw,</name>
+                    <name>Lily Todorinova,</name>
+                    <name>Sarah Tolf</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image color correction, illustration markup and BAD creation</change>
+                <date>February 2025</date>
+                <respstmt>
+                    <resp>Technical Editor: </resp>
+                    <name>William Shaw</name>
+                    <resp>Assistant Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Margarita Buitrago,</name>
+                    <name>Emily English,</name>
+                    <name>Timothy Gress,</name>
+                    <name>Anna Merz,</name>
+                    <name>Celeste Seifert,</name>
+                    <name>Elizabeth Shand,</name>
+                    <name>Kate Soules,</name>
+                    <name>Samantha Steiner,</name>
+                    <name>Gabby Tapia,</name>
+                    <name>Dominique Townsend,</name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Image acquisition and metadata collection</change>
+                <date>October 2005</date>
+                <respstmt>
+                    <resp>Technical Editor: </resp>
+                    <name>Wesley N. Raabe</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Ashley Reed,</name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>Thomas Commins, An Elegy, Set to Music</title>
+                </objtitle>
+                <origination> William Blake <role>inventor, </role>
+                    <role>delineator, </role>
+                    <role>etcher, </role>
+                    <role>engraver.</role>
+                </origination>
+                <origination>Anonymous<role>colorist.  The colorist is unknown, but may have been an owner of this copy.</role></origination>
+                <imprint>
+                    <publisher>J. Fentum</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1786<note>The date is based on the imprint at the bottom of Blake's plate.</note></date>
+                </imprint>
+                <compdate value="1786">1786</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1786">1786</printdate>
+                <numberobj>1</numberobj>
+                <objsize>17.3 x 14.2 cm. (the design), 23.7 x 14.2 cm. (including all inscriptions), 27.9 x 20.1 cm. (platemark)</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>32.9 x 24.3 cm.</leafsize>
+                <medium> etching and engraving with hand coloring<note>The identity of the colorist is unknown.  He or she may have been an owner of this copy.</note>
+                </medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>No binding, but the leaves are sewn through three stab holes.</binding>
+                <stabholes>three, 10.2 cm. from the top and 5.0 cm. and 6.5 cm. apart.</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Collection of Robert N. Essick</name>
+                <date>1993</date>
+                <dealer>Bernard Quaritch, Ltd.</dealer>
+                <price>&#163;920</price>
+                <note>Early history unknown; sold Sotheby's, 6 July 1993, lot 1525 (&#163;920 to the dealer Bernard Quaritch, Ltd., acting for Robert N. Essick</note>
+            </provenance>
+            <repository>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena</addressline>
+                <addressline>California</addressline>
+            </repository>
+        </source>
+        <desc id="bb444.1.comb.01" dbi="BB444.1.1.COM">
+            <objtitle>
+                <title type="transcribed">Thomas Commins, An Elegy, Set to Music</title> , <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                    <objcode code="B1">(Bentley 444.1)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>23.7 x 14.2 cm.</objsize>
+                <windowsize width="600" height="750"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>A wreath made of two arched branches forms an oval frame that encloses the central image of three figures, including a man, woman, and child. They may be a family. The man stands in a small wooden boat on the left of the group and faces right. His right leg is raised to stand on the bow of the boat, and his left leg extends backwards out of frame. He bends forward and extends both arms forward with palms. He may reach for the woman. He wears a tunic and has short, curly hair. To his right, a woman with long curly hair and wearing a blue belted gown stands on the bank or shore of a river facing left and looking at the man. She raises both arms at 135 degrees with hands raised and palms out. Her right leg is extended forward and her left leg is bent at the knee. Behind the woman, a female (?) child with curly hair and wearing a tunic stands with her visible right arm raised at 135 degrees. The tunic may be belted. She faces left and looks up toward the male figure. The figures unite on the shore of a river or lake. A rope and a portion of an anchor suggest that the boat is anchored to the shore. An otherwise clear sky is framed by dark clouds on the left side of the frame and rays of light descending from the right side of the frame. Two trees, possibly willow trees, rise on the shore behind the woman. Its branches arch to the left and overlap with the dark clouds.</illusobjdesc>
+                    <component type="object" location="E">
+                        <characteristic>wreath</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>arching</characteristic>
+                        <characteristic>circle</characteristic>
+                        <characteristic>frame</characteristic>
+                        <illusobjdesc>A wreath made of two arched branches forms an oval frame that encloses the central image of three figures, including a man, woman, and child.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AC">
+                        <characteristic>family</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>reaching</characteristic>
+                        <characteristic>tunic</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <illusobjdesc>The central image of three figures includes a man, woman, and child. They may be a family. The man stands in a small wooden boat on the left of the group and faces right, looking at the woman. His right leg is raised and bent at the knee to stand on the bow of the boat, and his left leg extends backwards out of frame. He bends forward and extends both arms forward with palms. He may reach for the woman. He wears a tunic and has short, curly hair.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>family</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>belt</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>arms raised at 135 degrees</characteristic>
+                        <characteristic>hands raised, palms out</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <illusobjdesc>The central image of three figures includes a man, woman, and child. They may be a family. To the right, a woman with long curly hair and wearing a blue belted gown stands on the bank or shore of a river facing left and looking at the man. She raises both arms at 135 degrees with hands raised and palms out. Her right leg is extended forward and her left leg is bent at the knee.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>family</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>tunic</characteristic>
+                        <characteristic>belt</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>looking</characteristic>
+                        <illusobjdesc>Behind the woman, a female (?) child with curly hair and wearing a tunic stands with her visible right arm raised at 135 degrees. The tunic may be belted. She faces left and looks up toward the male figure.</illusobjdesc>
+                    </component>
+ <component type="object" location="CD">
+                        <characteristic>shore</characteristic>
+                        <characteristic>bank</characteristic>
+                        <characteristic>river</characteristic>
+                        <characteristic>lake</characteristic>
+     <illusobjdesc>The figures unite on the bank or shore of a river or lake.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>boat</characteristic>
+                        <characteristic>wood</characteristic>
+                        <characteristic>rope</characteristic>
+                        <characteristic>anchor</characteristic>
+                        <illusobjdesc>The man stands in a small wooden boat. A rope and a portion of an anchor suggest that the boat is anchored to shore.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>sky</characteristic>
+                        <characteristic>dark</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <characteristic>beams of light</characteristic>
+                        <illusobjdesc>An otherwise clear sky is framed by dark clouds on the left side of the frame and beams of light descending from the right side of the frame.</illusobjdesc>
+                    </component>                      
+                    <component type="vegetation" location="AB">
+                        <characteristic>tree</characteristic>
+                        <characteristic>willow</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>arching</characteristic>
+                        <illusobjdesc>Two trees, possibly willow trees, rise on the shore behind the woman. Its branches arch to the left and overlap with the dark clouds.</illusobjdesc>
+                    </component>
+                </illustration>
+                <illustration type="interlinear" Location="CD">
+                    <illusobjdesc>A thin twisting line spiraling downwards separates the two columns of engraved verses below the design.</illusobjdesc>
+                    <component type="object" location="CD">
+                        <characteristic>line</characteristic>
+                        <characteristic>spiral</characteristic>
+                        <illusobjdesc>A thin twisting line spiraling downwards separates the two columns of the engraved verses below the design.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <columns>
+                    <column>
+                        <texthead justify="left">
+                            <l n="bb444.1.1.com.01.01" justify="left" indent="13">
+                            W. Blake
+                            </l>
+                        </texthead>
+                        <vspace extent="1"/>
+                        <lg type="verse" justify="left">
+                            <l n="bb444.1.1.com.o1.02" justify="left">The shatter'd bark from adverse winds</l>
+                            <l n="bb444.1.1.com.o1.03" justify="left">Rest in this peaceful haven finds</l>
+                        </lg>
+                    </column>
+                    <column>
+                        <texthead justify="left">
+                            <l n="bb444.1.1.com.01.04" justify="left" indent="35">
+                                del<hi rend="superscript">t</hi>. &#38; sculp<hi rend="superscript">t</hi>.
+                            </l>
+                        </texthead>
+                        <vspace extent="1"/>
+                        <lg type="verse" justify="left">
+                            <l n="bb444.1.1.com.01.05" justify="left">And when the storms of life are past</l>
+                            <l n="bb444.1.1.com.01.06" justify="left"> Hope drops her anchor here at last</l>
+                        </lg>
+                    </column>
+                </columns>
+                <lg type="prose" justify="left">
+                    <l n="bb444.1.1.com.01.07" justify="left" indent="33">Publish'd July 1. 1786 by J. Fentum N.<hi rend="superscript">r</hi> 78 Corner of Salisbury Street, Strand.</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
