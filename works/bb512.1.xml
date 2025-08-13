@@ -1,0 +1,275 @@
+<bad id="bb512.1" type="comdes" work="Whitaker, The Seraph" copy="1" copyid="1" institution="essick"
+    catalog="bentley" catid="512" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="The Seraph">
+                    <main>
+                        <author>John Whitaker</author>, The Seraph </main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>XML file approx. 25KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 150KB to 2500KB</extent>
+            <publicationstmt> Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>November
+                    2025</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>
+                </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict> Copyright © <date>2025</date> by Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only. <lb/>
+            <lb/> This work copyright © William Blake Archive </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Republication in full mode</change>
+                <date>May 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Conversion to XML and Blake Archive Description DTD 2004</change>
+                <date>2004</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Conversion: </resp>
+                    <name>Aziza Technology Associates</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Wesley N. Raabe, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>The Seraph</title>
+                </objtitle>
+                <origination> William Blake <role>inventor</role>
+                </origination>
+                <origination>P. Jones<role>etcher, </role>
+                    <role>engraver.  Nothing is known about P. Jones.</role>
+                </origination>
+                <imprint>
+                    <publisher>Printed by Button, Whitaker and Company</publisher>
+                    <pubplace>London</pubplace>
+                    <date>not dated<note>The first edition, reproduced here, was probably issued c. 1818-1828.  For the reasons for this dating, see Bentley page 633.</note></date>
+                </imprint>
+                <compdate value="1818"> c. 1818-1828</compdate>
+                
+            </objdescid>
+            <objinfo>
+                <printdate value="1818">c. 1818-1828</printdate>
+                <numberobj>1</numberobj>
+                <objsize>21.0 x 15.4 cm.</objsize>
+                <numberleaves>1</numberleaves>
+                <leafsize>24.3 x 16.2 cm.</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>green cloth</binding>
+                <stabholes>none visible</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Robert N. Essick</name>
+                <date>2020</date>
+                <dealer>John Windle</dealer>
+                <price>$500</price>
+                <note>earlier history not known</note>
+            </provenance>
+            <repository>
+                <lb/>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena</addressline>
+                <addressline>California</addressline>
+            </repository>
+        </source>
+        <desc id="bb512.1.comdes.01" dbi="BB512.1.1.COM">
+            <objtitle>
+                <title type="transcribed">William Blake</title> , <objid>
+                    <objnumber code="A1">Object 1 </objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objnote><p>The book was published in two volumes.  The design by Blake reproduced here is the engraved title page to volume 2.  This print was copied from Object 17 of Blake's engraved illustrations to Edward Young's *Night Thoughts*, 1797. In the third state of the plate appearing in the issue of *The Seraph* datable to c. 1825-1828, an inscription below the design reads "Conscience &#38; the recording Angel. | Youngs Nt. Thoughts." This accords with the identification of the angel in the "Explanation of the Engravings" in the 1797 *Night Thoughts*: "Conscience represented as a recording angel; who is veiled, and in the act of noting down the sin of intemperance in a bacchanalian."</p></objnote>
+                <objsize>21.0 x 15.4 cm.</objsize>
+                <windowsize width="600" height="730"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>A winged female angel stands to the right of the text panel. She faces forward with her head turned slightly left; she looks down toward the figure below and to the left. She is gowned and wears a scarf or other drapery over her head. A transparent veil hangs over her face. The figure's hair is long and may be drawn into several braids. The figure holds a tablet or paper in her left hand. Her right hand holds and writes with a pen or pencil. The figure's right foot is visible below the hem of her gown; a line around her foot suggests that she may be wearing sandals. A male with short, curly hair lies or reclines in the lower left portion of the design. Only his upper body is clearly visible. The figure is partly nude and a sheet or other drapery covers his lower body; he may be in a bed. He faces forward with his head turned toward the viewer. His head rests on his right shoulder. He is smiling and his mouth may be open slightly. His right arm is bent and likely supports the figure's weight. He holds a goblet or chalice in his left hand. The background may be a shadowed wall or the sky with clouds.</illusobjdesc>               
+                    <component type="figure" location="BD">
+                        <characteristic>angel</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>wing</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>veil</characteristic>
+                        <characteristic>transparent</characteristic>
+                        <characteristic>scarf</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>right foot</characteristic>
+                        <characteristic>sandal</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>braid</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>tablet</characteristic>
+                        <characteristic>paper</characteristic>
+                        <characteristic>pen</characteristic>
+                        <characteristic>graphite pencil</characteristic>
+                        <characteristic>writing</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>A winged female angel stands to the right of the text panel. She faces forward with her head turned slightly left; she looks down toward the figure below and to the left. She is gowned and wears a scarf or other drapery over her head. A transparent veil hangs over her face. The figure's hair is long and may be drawn into several braids. The figure holds a tablet or paper in her left hand. Her right hand holds and writes with a pen or pencil. The figure's right foot is visible below the hem of her gown; a line around her foot suggests that she may be wearing sandals.  In the third state of the plate appearing in the issue of c. 1825-1828, an inscription below the design reads "Conscience &#38; the recording Angel. | Youngs Nt. Thoughts."</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>male</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>partly nude</characteristic>
+                        <characteristic>upper body</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>smiling</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>head on shoulder</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>reclining</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>supporting</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>goblet</characteristic>
+                        <characteristic>chalice</characteristic>
+                        <characteristic>drinking</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>sheet</characteristic>
+                        <characteristic>drapery</characteristic>
+                        <characteristic>bed</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <illusobjdesc>A male with short, curly hair lies or reclines in the lower left portion of the design. Only his upper body is clearly visible. The figure is partly nude and a sheet or other drapery covers his lower body; he may be in a bed. He faces forward with his head turned toward the viewer. His head rests on his right shoulder. He is smiling and his mouth may be open slightly. His right arm is bent and likely supports the figure's weight. He holds a goblet or chalice in his left hand.  He is probably drinking.  In the source for the design, the 1797 edition of Edward Young's <hi rend="i">Night Thoughts</hi> with Blake's engravings, this figure is described as "a bacchanalian" in the "Explanation of the Engravings."</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>sky</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <characteristic>shadow</characteristic>
+                        <illusobjdesc>The background might represent a sky filled with dark clouds
+                            or shadows.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="3"/>
+                <lg>
+                    <l n="bb512.1.comdes.1.01" justify="left" indent="27.5"><choice>
+                        <orig>Vol.</orig>
+                        <reg type="abbrev">Volume</reg></choice> 2.</l>
+                </lg>
+                <vspace extent="1"/>
+                <lg>
+                    <l n="bb512.1.comdes.1.02" justify="left" indent="23">THE SERAPH,</l>
+                    <l n="bb512.1.comdes.1.03" justify="left" indent="23">A Collection of</l>
+                    <l n="bb512.1.comdes.1.04" justify="left" indent="21.5">SACRED MUSIC,</l>
+                    <l n="bb512.1.comdes.1.05" justify="left" indent="13"><hi rend="i">Suitable to Public or Private Devotion;</hi></l>
+                    <l n="bb512.1.comdes.1.06" justify="left" indent="15">Consisting of the most celebrated</l>
+                    <l n="bb512.1.comdes.1.07" justify="left" indent="19.5">Psalm and Hymn Tunes,</l>
+                    <l n="bb512.1.comdes.1.08" justify="left" indent="15">With Selections from the Works of</l>
+                    <l n="bb512.1.comdes.1.09" justify="left" indent="13.5">HANDEL, HAYDN, MOZART, PLEYEL,</l>
+                    <l n="bb512.1.comdes.1.10" justify="left" indent="5">AND FAVORITE ENGLISH AND ITALIAN COMPOSERS:</l>
+                    <l n="bb512.1.comdes.1.11" justify="left" indent="17"><hi rend="superscript">adapted to</hi><space extent="3"/>Words<space extent="3.5"/><hi rend="superscript">from</hi></l>
+                    <l n="bb512.1.comdes.1.12" justify="left" indent="17"><hi rend="i">Milton, Young, Watts, Wesley,</hi></l>
+                    <l n="bb512.1.comdes.1.13" justify="left" indent="8"><hi rend="i">Merrick, Cowper, Henry Kirk White, D<hi rend="superscript">r</hi>. Collyer, &#38;c.</hi></l>
+                    <l n="bb512.1.comdes.1.14" justify="left" indent="23">To which are added</l>
+                    <l n="bb512.1.comdes.1.15" justify="left" indent="20.5">Many Original Pieces,</l>
+                    <l n="bb512.1.comdes.1.16" justify="left" indent="12"><hi rend="i">Composed and the Whole arranged for</hi></l>
+                    <l n="bb512.1.comdes.1.17" justify="left" indent="24">Four Voices</l>
+                    <l n="bb512.1.comdes.1.18" justify="left" indent="16">With an Accompaniment for the</l>
+                    <l n="bb512.1.comdes.1.19" justify="left" indent="13"><hi rend="i">Piano Forte or Organ and Violoncello,</hi></l>
+                    <l n="bb512.1.comdes.1.20" justify="left" indent="28.5">By</l>
+                    <l n="bb512.1.comdes.1.21" justify="left" indent="21">JOHN WHITAKER.</l>
+                </lg>
+                <vspace extent="9"/>
+                <lg>
+                    <l n="bb512.1.comdes.1.22" justify="left"><hi rend="superscript">Drawn by the late W.Blake <choice><orig>Esq<hi rend="superscript">r</hi>.</orig><reg type="abbrev">Esquire</reg></choice> <choice>
+                        <orig>R.A.</orig>
+                        <reg type="abbrev">Royal Academician</reg>
+                    </choice></hi><space extent="43"/><hi rend="superscript"><choice><orig>Eng<hi rend="superscript">d</hi></orig><reg type="abbrev">Engraved</reg></choice>. by P. Jones. 290.Holborn.</hi></l>
+                </lg>
+                <lg>
+                    <l n="bb512.1.comdes.1.23" justify="left" indent="44.5"><hi rend="i">London,</hi></l>
+                    <l n="bb512.1.comdes.1.24" justify="left" indent="31"><hi rend="i">Printed by Button, Whitaker and <choice><orig>Comp<hi rend="superscript">y</hi></orig><reg type="abbrev">Company</reg></choice></hi></l>
+                    <l n="bb512.1.comdes.1.25" justify="left" indent="35"><hi rend="i">75, S<hi rend="superscript">t</hi>.. Paul's Church Yard.</hi></l>
+                </lg>
+                <lg>
+                    <l n="bb512.1.comdes.1.26" justify="left" indent="91"><hi rend="i"><hi rend="subscript">L S D</hi></hi></l>
+                    <l n="bb512.1.comdes.1.27" justify="left" indent="9"><choice><orig>Ent. Sta. Hall.</orig><reg type="abbrev">Entered at Stationers' Hall</reg></choice> <space extent="62"/> Price.1.1.0. in Boards<unclear resp="MG">rd</unclear><note>The "rd" in "Board" printed poorly.</note></l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

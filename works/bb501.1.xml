@@ -1,0 +1,471 @@
+<bad id="bb501.1" type="comdes" work="John Varley, A Treatise on Zodiacal Physiognomy" copy="1"
+    copyid="1" institution="essick" catalog="bentley" catid="501" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+            <title reg="A Treatise on Zodiacal Physiognomy">
+                    <main>
+                        <author>John Varley</author> , A Treatise on Zodiacal Physiognomy </main> :
+                    electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill </principal>
+            <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>XML file approx. 25KB; 2 JPEG (ISO/IEC 10918) files ranging in size from 150KB to 2500KB</extent>
+            <publicationstmt> Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>November
+                    2025</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>
+                </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict> Copyright © <date>2025</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only. <lb/>
+            <lb/> This work copyright © William Blake Archive </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Republication in full mode</change>
+                <date>May 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Conversion to XML and Blake Archive Description DTD 2004</change>
+                <date>2004</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Conversion: </resp>
+                    <name>Aziza Technology Associates</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Wesley N. Raabe, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>John Varley, A Treatise on Zodiacal Physiognomy</title>
+                </objtitle>
+                <origination> William Blake <role>inventor</role>
+                </origination>
+                <origination>John Varley <role>inventor.  All three plates are signed "J. Varley, inv." even though they all contain motifs based on drawings created by Blake.  Varley may have copied Blake's drawings in preparation for the engravings and made some modifications in their delineation, thereby authorizing his "inv." designation.</role>
+                    <role>delineator</role>
+                </origination>
+                <origination>John Linnell<role>etcher,</role>
+                    <role>engraver</role>
+                </origination>
+                <imprint>
+                    <publisher>"The Author, John Varley</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1828</date>
+                </imprint>
+                <compdate value="1828">1828</compdate>
+                
+            </objdescid>
+            <objinfo>
+                <printdate value="1828">1828</printdate>
+                <numberobj>3</numberobj>
+                <objorder>1-3</objorder>
+                <objsize>13.6 x 22.0 cm. (Object 1), 13.1 x 20.2 cm. (Object 2), 21.0 x 13.5 cm.</objsize>
+                <numberleaves>3</numberleaves>
+                <leafsize>24.7 x 15.3 cm. (Object 1), 22.9 x 15.3 cm. (Object 2), 23.3 x 15.3 cm. (Object 3)</leafsize>
+                <medium>etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>nineteenth-century quarter cloth over marbled boards</binding>
+                <stabholes>none visible</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Robert N. Essick</name>
+                <date>1977</date>
+                <dealer>Donald Heald</dealer>
+                <price>$400</price>
+                <note>earlier history not known</note>
+            </provenance>
+            <repository>
+                <lb/>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena</addressline>
+                <addressline>California</addressline>
+            </repository>
+        </source>
+        <desc id="bb501.1.comdes.01" dbi="BB501.1.1.COM">
+            <physdesc desclevel="brief">
+                <objsize>13.6 x 22.0 cm.</objsize>
+                <windowsize width="600" height="730"/>
+                <objnote>
+                    <p>Only the heads labeled "Cancer" (second from the left in the lower row of portraits) and "Gemini" (right-most head in the lower row) are based on drawings by Blake (Butlin 692c, 692.80) in the Small Blake-Varley Sketchbook (now dispersed).  The drawing of "Gemini" is in turn similar to Blake's Visionary Head inscribed by John Linnell "Corrinna the Grecian Poetess" (Butlin 708; see also untraced 709).  The Cancer drawing was traced by Linnell or John Varley (Butlin 751) and probably played a role in the production of this engraving.  Both drawings are very probably stylized self-portraits.  Although Blake was not born under the traditional astrological sign of Cancer, a horoscope published in 1824 specifies that his "extraordinary faculties ... are the effects of the MOON IN CANCER" (Bentley, *Records*, page 407).  Another plate (Essick LVII), not present in Varley's pamphlet but probably intended for a later installment never published, includes a version of the "Cancer" profile closer to Blake's drawing, Butlin 692.80.</p>
+                </objnote>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The plate features two rows of five heads shown in profile. On the top row, the first and second figures from the left, labeled "Taurus," are both facing right. One of these figures is female with long hair tied into a bun and a slightly opened mouth, and the other figure is male with long, curly hair, a beard with long sideburns, and a slightly opened mouth. He wears a cravat and may be wearing a coat. The third and fourth figures from the left on the top row, labeled "Gemini," are facing left. One of these figures, "Capella," is male with short hair combed forward, sideburns, a closed mouth, and an aquiline nose. He is wearing a coat. The other figure, "Bellatrix," is female with long hair tied into a bun, a closed and slightly downward mouth, and an aquiline nose. She may be frowning. The fifth and final figure on the top row, "Taurus," is female and faces left. She has, long, maybe curly hair tied into a bun and a closed mouth. On the bottom row, the first and second figures from the left face right. The first of these figures, "Cochabiel," is of indeterminate sex. The figure has long hair beneath a tricorn hat, a large beak-like nose, a closed mouth, and thin, furrowed brows. The figure resembles a rooster due to the beak-like nose, drooping chin suggesting a wattle, and hat suggesting a comb or crest. To the right is a male figure, "Cancer," with long hair and a closed mouth who may be wearing a coat or cravat. His eyes are raised upward. The third, fourth, and fifth figures from the left on the bottom row all face left. The third figure, "Scorpio," is male with short hair and sideburns, a closed mouth, a aquiline nose, and a prominent chin. He wears a coat and cravat. The fourth figure, "Capella as transmitted from Taurus," is male with short hair and sideburns, a large, sloping forehead, a large, aquiline nose, and a closed mouth with large lips. The fifth figure, "Gemini," is female with long hair tied into a bun with ringlets, and a closed mouth.</illusobjdesc>
+                    <component type="figure" location="A">
+                        <characteristic>adult</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. On the top row, the first and second figures from the left, labeled "Taurus," are both facing right. The first of these figures is female with long hair tied into a bun and a slightly opened mouth.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="A">
+                        <characteristic>adult</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>cravat</characteristic>
+                        <characteristic>coat</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. On the top row, the first and second figures from the left, labeled "Taurus," are both facing right. The second figure is male with long, curly hair, a beard with long sideburns, and a slightly opened mouth. He wears a cravat and may be wearing a coat.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>adult</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <characteristic>coat</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. The third and fourth figures from the left on the top row, labeled "Gemini," are facing left. The first of these figures, "Capella," is male with short hair combed forward, sideburns, a closed mouth, and an aquiline nose. He is wearing a coat.
+                        </illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>adult</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. The third and fourth figures from the left on the top row, labeled "Gemini," are facing left. The second of these figures, "Bellatrix," is female with long hair tied into a bun, a closed and slightly downward mouth, and an aquiline nose. She may be frowning.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>adult</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. The fifth and final figure on the top row, "Taurus," is female and faces left. She has, long, maybe curly hair tied into a bun and a closed mouth.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>rooster</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. On the bottom row, the first and second figures from the left face right. The first of these figures, "Cochabiel," is of indeterminate sex. The figure has long hair beneath a tricorn hat, a large beak-like nose, a closed mouth, and thin, furrowed brows. The figure resembles a rooster due to the beak-like nose, drooping chin suggesting a wattle, and hat suggesting a comb or crest.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>adult</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>cravat</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>Cancer</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. On the bottom row, the first and second figures from the left face right. The second of these figures, "Cancer," is male with long hair and a closed mouth who may be wearing a coat or cravat. He eyes are raised upward.                      
+                        </illusobjdesc>
+                    </component>
+                    <component type="figure" location="CB">
+                        <characteristic>adult</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>cravat</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. The third, fourth, and fifth figures from the left on the bottom row all face left. The third figure, "Scorpio," is male with short hair and sideburns, a closed mouth, a aquiline nose, and a prominent chin. He wears a coat and cravat.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>adult</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>cravat</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>beard</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. The third, fourth, and fifth figures from the left on the bottom row all face left. The fourth figure, "Capella as transmitted from Taurus," is male with short hair and sideburns, a large, sloping forehead, a large, aquiline nose, and a closed mouth with large lips.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>adult</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>Gemini</characteristic>
+                        <illusobjdesc>The plate features two rows of five heads shown in profile. The third, fourth, and fifth figures from the left on the bottom row all face left. The fifth figure, "Gemini," is female with long hair tied into a bun with ringlets, and a closed mouth.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="8"/>
+                <columns>
+                    <column>
+                        <lg type="prose" justify="left">
+                            <l n="bb501.1.1.comdes.01.01" justify="center">Taurus.</l>
+                            <l n="bb501.1.1.comdes.01.01" justify="center">Capella.</l>
+                            <l n="bb501.1.1.comdes.01.01" justify="center">Gemini</l>
+                            <l n="bb501.1.1.comdes.01.01" justify="center">Bellatrix</l>
+                            <l n="bb501.1.1.comdes.01.01" justify="center">Taurus.</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="right">
+                            <l n="bb501.1.1.comdes.01.02" justify="right">See Page 51</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="right">
+                            <l n="bb501.1.1.comdes.01.03" justify="right">Capella. as transmitted</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="left">
+                            <l n="bb501.1.1.comdes.01.04" justify="left">Cochabiel</l>
+                            <l n="bb501.1.1.comdes.01.04" justify="left">Cancer.</l>
+                            <l n="bb501.1.1.comdes.01.04" justify="left">Scorpio.</l>
+                            <l n="bb501.1.1.comdes.01.04" justify="left">from Taurus.</l>
+                            <l n="bb501.1.1.comdes.01.04" justify="left">Gemini.</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="right">
+                            <l n="bb501.1.1.comdes.01.05" justify="right">J. Linnel sc.</l>
+                            <l n="bb501.1.1.comdes.01.05" justify="right">J. Varley, inv.</l>
+                        </lg>    
+                    </column>
+                </columns>
+            </phystext>
+        </desc>
+                <desc id="bb501.1.comdes.02" dbi="BB501.1.2.COM">
+                    <physdesc desclevel="brief">
+                        <objnote>
+                            <p>The "Gemini" profile is repeated, with some modifications, from Object 1.  The youth labeled "Cancer" is not related to any known drawing by Blake.  On the right is Blake's most famous Visionary Head, here labeled "The Ghost of a Flea" and shown with his mouth open.  He is also pictured in Object 3, but with his mouth closed.  Both engravings are based on Blake's drawing showing the full profile of the closed-mouth version with a detailed sketch of the creature's open mouth (Butlin 692.98).  Blake also sketched a full-length portrait of his anthropomorphic flea (Butlin 692.94) and later developed this into a tempera painting (Butlin 750).</p>
+                        </objnote>
+                        <objsize>13.1 x 22.2 cm.</objsize>
+                        <windowsize width="600" height="730"/>
+                    </physdesc>
+                    <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Three figures are shown in profile. The leftmost figure, "Gemini," is an adult
+                        female facing right. She has long hair tied in a bun. The middle
+                        figure, "Cancer," is young, possibly female and faces right and with her mouth slightly open. The rightmost figure, "Ghost of a Flea," faces left and is possibly male. The figure has short hair, and a sloping forehead and nose. The face and neck appear to segmented, like an insect.  The figure's mouth is open, showing a snake-like tongue and sharp, fang-like teeth.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>adult</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>Gemini</characteristic>
+                        <illusobjdesc>Three figures are shown in profile. The leftmost figure, "Gemini," is an adult
+                            female facing right. She has long hair tied in a bun.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>young</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>hair</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <illusobjdesc>Three figures are shown in profile. The middle
+                            figure, "Cancer," is young, possibly female and faces right and with her mouth slightly open.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>ghost</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>snake-like</characteristic>
+                        <characteristic>tongue</characteristic>
+                        <characteristic>teeth</characteristic>
+                        <characteristic>face</characteristic>
+                        <characteristic>neck</characteristic>
+                        <characteristic>insect</characteristic>
+                        <characteristic>Ghost of a Flea</characteristic>
+                        <illusobjdesc>Three figures are shown in profile. The rightmost figure, "Ghost of a Flea," faces left and is possibly male. The figure has short hair, and a sloping forehead and nose. The face and neck appear to segmented, like an insect. The figure's mouth is open, showing a snake-like tongue and sharp, fang-like teeth.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="1"/>
+                <columns>
+                    <column>
+                        <lg type="prose" justify="left">
+                            <l n="bb501.1.1.comdes.02.01" justify="center">Gemini</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="right">
+                            <l n="bb501.1.1.comdes.02.02" justify="right">Ghost of a Flea.</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="right">
+                            <l n="bb501.1.1.comdes.02.03" justify="right">from Blakes, vision.</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="left">
+                            <l n="bb501.1.1.comdes.02.04" justify="left">Cancer</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="right">
+                            <l n="bb501.1.1.comdes.02.05" justify="right">See Page 54</l>
+                        </lg>
+                        <vspace extent="1"/>
+                        <lg type="prose" justify="left">
+                        </lg>
+                    </column>
+                    <column>
+                    <lg type="prose" justify="center">
+                        <l n="bb501.1.1.comdes.02.06" justify="center">J. Linnel sc.</l>
+                        <l n="bb501.1.1.comdes.02.06" justify="center">J. Varley, inv.</l>
+                        </lg>
+                        <vspace extent="1"/>
+                    </column>
+                    </columns>
+            </phystext>
+                </desc>
+                        <desc id="bb501.1.comdes.03" dbi="BB501.1.3.COM">
+                            <physdesc desclevel="brief">
+                                <objnote>
+                                    <p>In addition to the closed-mouth ghost of a flea (see Object 2 for his mouth open), Object 3 includes the back of a coin "of Nebuchadnezzar, after Blake."  Blake's drawing of both sides of the coin is untraced (Butlin 704), as is a tracing by Linnell (reproduced in Essick, figure 113).  The separate plate of "Cancer" (see Object 1) includes the front of the coin rather than the back.  Although similar in some respects to the "Gemini" portraits in Objects 1 and 2, the "Taurus" head here in Object 3 is too distant from Blake's "Gemini" sketches to warrant the proposal of a clear Blakean origin.</p></objnote>
+                                <objsize>21.0 x 13.5 cm.</objsize>
+                                <windowsize width="600" height="730"/>
+                            </physdesc>
+                            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The upper half of the plate shows the profile of a figure, "The Ghost of a Flea," facing left. The figure is possibly male and has short hair. The figure hunches forward and has a sloping forward and nose. The face and neck appear to segmented, like an insect. The figure's mouth is closed and a snake-like tongue protrudes from it. Below and to the right, the profile of a female figure faces left. She has long, curly hair styled in an up-do. To her left, there is a circular shape that contains designs, including a diamond pattern and what may be the outline of a horned animal such as an ox.</illusobjdesc>
+                    <component type="figure" location="AB">
+                        <characteristic>ghost</characteristic>
+                        <characteristic>adult</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>mouth closed</characteristic>
+                        <characteristic>snake-like</characteristic>
+                        <characteristic>tongue</characteristic>
+                        <characteristic>face</characteristic>
+                        <characteristic>neck</characteristic>
+                        <characteristic>insect</characteristic>
+                        <characteristic>Ghost of a Flea</characteristic>
+                        <illusobjdesc>The upper half of the plate shows the profile of a figure, "The Ghost of a Flea," facing left. The figure is possibly male and has short hair. The figure hunches forward and has a sloping forward and nose. The face and neck appear to segmented, like an insect. The figure's mouth is closed and a snake-like tongue protrudes from it.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="C">
+                        <characteristic>adult</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <illusobjdesc>In the bottom right, the profile of a female figure faces left. She has long, curly hair styled in an up-do.</illusobjdesc>
+                    </component>
+                    <component type="object" location="D">
+                        <characteristic>coin</characteristic>
+                        <characteristic>spiral</characteristic>
+                        <characteristic>scepter</characteristic>
+                        <characteristic>caduceus</characteristic>
+                        <characteristic>gem</characteristic>
+                        <characteristic>horn</characteristic>
+                        <characteristic>ox</characteristic>
+                        <characteristic>Nebuchadnezzar</characteristic>
+                        <illusobjdesc>In the bottom left, there is a circular shape that contains designs, including a diamond pattern and what may be the outline of a horned animal such as an ox.  The object is labeled "Reverse of the coin of | Nebuchadnezzar, after Blake."</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <texthead justify="left">
+                    <l n="bb501.1.1.comdes.03.01" justify="right">
+                        <physnumber type="etched">Ghost of a Flea.</physnumber>
+                    </l>
+                </texthead>
+                <vspace extent="8"/>
+                <columns>
+                    <column>
+                        <lg type="prose" justify="left">
+                            <l n="bb501.1.1.comdes.03.02" justify="left">from Blakes, vision.</l>
+                        </lg>
+                    </column>
+                    <column/>
+                    <column>
+                        <lg type="prose" justify="left">
+                            <l n="bb501.1.1.comdes.03.03" justify="right">See Page 54</l>
+                        </lg>
+                    </column>
+                </columns>
+                <vspace extent="1"/>
+                <lg type="prose" justify="left">
+                    <l n="bb501.1.1.comdes.03.04" justify="center">Reverse of the coin of</l>
+                    <l n="bb501.1.1.comdes.03.04" justify="center">Taurus. ( fair class )</l>
+                </lg>
+                <vspace extent="2"/>
+                <lg type="prose" justify="left">
+                    <l n="bb501.1.1.comdes.03.05" justify="center">Nebuchadnezzar; after Blake.
+                    </l>
+                </lg>
+                <lg type="prose" justify="left">
+                    <l n="bb501.1.1.comdes.03.06" justify="center">J. Linnel sc.</l>
+                    <l n="bb501.1.1.comdes.03.06" justify="center">J. Varley, inv.</l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>

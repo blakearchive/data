@@ -1,0 +1,515 @@
+<bad id="bb440.1" type="comdes" work="Gottfried Augustus Burger, Leonora" copy="1" copyid="1" institution="essick"
+    catalog="bentley" catid="440" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="'Leonora'">
+                    <main>
+                        <author>Gottfried Augustus Burger</author>'Leonora'</main> : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill </principal>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>XML file approx. 60 KB; 6 JPEG
+                (ISO/IEC 10918) files ranging in size from 150KB to 2500KB</extent>
+            <publicationstmt> Chapel Hill: Eaves, Essick, Viscomi; UNC Libraries <date>November
+                2025</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt></updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict> Copyright © <date>2025</date> by Morris Eaves, Robert N. Essick, and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only. <lb/>
+            <lb/> This work copyright © William Blake Archive </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Republication in full mode</change>
+                <date>May 2014</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Project Manager: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Laura Bell</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer:</resp>
+                    <name>Mark Crosby</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Esther Arnold,</name>
+                    <name>Amber Bertin,</name>
+                    <name>Abby Brengle,</name>
+                    <name>Katherine Calvin,</name>
+                    <name>Adam Engel,</name>
+                    <name>Andrea Everett,</name>
+                    <name>Duncan Graham,</name>
+                    <name>Shannon Jaime,</name>
+                    <name>Gabrielle Kiriloff,</name>
+                    <name>Eric Loy,</name>
+                    <name>Kate Massie,</name>
+                    <name>Adam McCune,</name>
+                    <name>Ali McGhee,</name>
+                    <name>Anastasia Nikolis,</name>
+                    <name>Kylie Regan,</name>
+                    <name>Adair Rispoli,</name>
+                    <name>Hardeep Sidhu,</name>
+                    <name>Margaret Speer,</name>
+                    <name>Sarah Tolf,</name>
+                    <name>Danny Tsegai,</name>
+                    <name>Lisa Vandenbossche,</name>
+                    <name>Nikolaus Wasmoen,</name>
+                    <name>Alia Wegner,</name>
+                    <name>Megan Wilson</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Conversion to XML and Blake Archive Description DTD 2004</change>
+                <date>2004</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
+                    </name> University of California, Riverside; and <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill <resp>Technical Editor: </resp>
+                    <name>Andrea Laue</name>
+                    <resp>Conversion: </resp>
+                    <name>Aziza Technology Associates</name>
+                    <resp>Project Manager: </resp>
+                    <name>Justin Van Kleeck</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher N. Jackson, </name>
+                    <name>Kari Kraus, </name>
+                    <name>Wesley N. Raabe, </name>
+                    <name>Wayne C. Ripley, </name>
+                    <name>William Shaw</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title>'Leonora'</title>
+                </objtitle>
+                <origination> William Blake <role>inventor, </role>
+                    <role>delineator.</role>
+                </origination>
+                <origination>Perry<role>engraver.  Nothing is known about Perry, not even his first name.</role>
+                </origination>
+                <imprint>
+                    <publisher>William Miller</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1796</date>
+                </imprint>
+                <compdate value="1796">1796</compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1796">1796</printdate>
+                <numberobj>3</numberobj>
+                <objorder>1-3</objorder>
+                <objsize>24.3 x 16.8 cm. (Object 1), 8.8 x 12.0 cm. (Object 2), 6.7 x 12.7 cm. (Object 3)</objsize>
+                <numberleaves>3</numberleaves>
+                <leafsize>29.2 x 23.9 cm.</leafsize>
+                <medium>stipple etching and engraving</medium>
+                <printingstyle>intaglio</printingstyle>
+                <inkcolor>black</inkcolor>
+                <support>wove paper</support>
+                <watermark>1794 | J WHATMAN<note>In this copy, the watermark appears only on Object
+                        2.</note>
+                </watermark>
+                <etchednumbers>none</etchednumbers>
+                <pennednumbers>none</pennednumbers>
+                <framelines>none</framelines>
+                <binding>half red morocco over marbled boards</binding>
+                <stabholes>none visible</stabholes>
+            </objinfo>
+            <provenance n="1">
+                <name>Robert N. Essick</name>
+                <date>1980</date>
+                <dealer>McDowell &#38; Stern Books</dealer>
+                <price>$808</price>
+                <note>earlier history not known</note>
+            </provenance>
+            <repository>
+                <lb/>
+                <institution>Collection of Robert N. Essick</institution>
+                <addressline>Altadena</addressline>
+                <addressline>California</addressline>
+            </repository>
+        </source>
+        <desc id="bb440.1.comdes.01" dbi="BB440.1.1.COM">
+            <objtitle>
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>24.3 x 16.8 cm.</objsize>
+                <windowsize width="600" height="730"/>
+                <objnote>
+                    <p>The design illustrates the lines "Alter'd" from Edward Young's poem, *The Complaint: or Night Thoughts* quoted below the design, but also Burger's poem.</p>
+                </objnote>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>Four distinct groups of figures surround the central figures of a leaping horse and its two riders. The horse faces right, leaping or rearing upwards. Its two hind legs extend backwards, and flames or light erupt from its back hooves. The front legs are drawn up as the horse rears upward. The horse extends its head backward and upward, and flames or light erupt from its mouth. Its flame-like mane and tail flow backward and upward, suggesting movement. The horse's pose, coupled with the flame-like details, suggest that it is moving through the sky like a comet. Two figures ride the horse. Directly behind the horse's neck, a  male figure faces away from the viewer and looks up.  This is Death personified, here disguised as Leonora's lover, William (assuming that the design illustrates Burger's poem as well as Young's).  He holds the rein with his left hand and extends his right hand upward, with palm facing up. His visible left leg, dressed in tights, extends forward. His long hair flows backward. An adult female figure sits behind him with her arms wrapped around his waist.  This is the poem's heroine, Leonora (assuming that this figure is based on Burger's poem). Her body is horizontal and she faces forward, with her long, flame-hair flowing behind her and her long gown extending the length of the horse. To the right of the horse, a figure of undetermined gender is shown in profile facing right. The figure floats or hovers with arms outstretched, and holds a curved trumpet that extends above and over the figure's head. The figure's right leg is bent at the knee and extends downward, and the left leg extends backwards and upwards with flame-like cloth or other material extending from it. The same flame-like material extends from the figure's right side. In the foreground below the horse, a group of six male figures emerges from boulders or rocks. All are facing upward with eyes raised and are visible from the chest up. The figure furthest to the left, a bald man, bends his head backward so that it touches his hunched shoulders. He is separated from the rest of the group by a boulder or rock. To his right, another five are grouped together in a circle. The leftmost of this group, a bald man, looks up with his muscular back facing the viewer. To his right in the front of the circle, a man with long hair is shown from the chest up. His right knee is drawn up and he faces forward and up. His mouth his open. To his right, a head with a tuft of hair is seen from behind and looking up. In the back of the circle, two more heads of men are visible, also looking up. In the background below the central horse, a group of five nude figures may be dancing. The second and fifth figures from the left look to the right and may be female, and the rest look to the left and may be male. They each raise their arms 135 degrees and hold hands, as if creating a chain or link. Their legs are bent. The right-most of the five figures draws both legs up to leap in the air. A large, circular moon sits low in the sky, behind the fourth and fifth dancing figures. In the background behind the dancing figures, there is a gallows. Above the horse's head, a group of figures floats in the sky. The leftmost of the group, a male, is seen from behind so that his muscular back and buttocks face the viewer. His visible left leg extends backward, and his arms are raised above his head to hold a piece of dark cloth with a white lining, which suggests a piece of the night sky. Six heads of male figures emerge from beneath the cloth. The two left-most heads face left and downward. They have similarly pointed noses, down turned mouths, and wide, circular eyes, but one is bald and the other has a small tuft of hair. The third figure from the left is another bald man with wide, circular eyes facing forward. His open mouth is down turned, and he crosses a bare, muscular arm in front of him to wrap around his head. He draws his left leg up in front of his arm. The fourth figure from the left has short, curly hair and a closed-mouth smile. He raises his arms horizontally to either side. Below him, another male appears to similarly extend his arms horizontally and backward, but faces downward and has a tuft of hair of hair in the back of his head. The rightmost of the figures is a bald man that is facing forward with his body horizontal. He appears to have a long, white bead that blends in with the white lining of the cloth. In the top right, there is a group of at least three figures shown from the chest up. The first figure from the left, who may be male, crosses his hands in front of his chest and looks up. He emerges from what may be a cloud. To his right, there are two male (?) figures who look forward. The rightmost of these figures is bald. Strips of fabric or cloth descend below the figures. Stars appear in the night sky to the front, top, and bottom of the central horse.</illusobjdesc>
+                    <component type="animal" location="E">
+                        <characteristic>horse</characteristic>
+                        <characteristic>leaping</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>legs extended</characteristic>
+                        <characteristic>legs drawn up</characteristic>
+                        <characteristic>flame-like hair</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>head up</characteristic>
+                        <characteristic>tail</characteristic>
+                        <characteristic>open mouth</characteristic>
+                        <characteristic>comet</characteristic>
+                        <illusobjdesc>The central figure is a leaping horse and its two riders. The horse faces right, leaping or rearing upwards. Its two hind legs extend backwards, and flames or light erupt from its back hooves. The front legs are drawn up as the horse rears upward. The horse extends its head backward and upward, and flames or light erupt from its mouth. Its flame-like mane and tail flow backward and upward, suggesting movement. The horse's pose, coupled with the flame-like details, suggest that it is moving through the sky like a comet.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>male</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>Death</characteristic>
+                        <characteristic>William</characteristic>
+                        <characteristic>Leonora</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>flame-like hair</characteristic>   
+                        <characteristic>rein</characteristic>
+                        <characteristic>hand raised, palm out</characteristic>
+                        <characteristic>arm raised at 135 degrees</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>tights</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>arms wrapped around body</characteristic>
+                        <illusobjdesc> Two figures ride the horse. Directly behind the horse's neck, a male figure faces away from the viewer and looks up.  This is Death personified, here disguised as Leonora's lover, William (assuming that the design illustrates Burger's poem as well as Young's).  His long hair flows behind him. He holds the rein with his left hand and extends his right hand upward, with palm facing up. His visible left leg, dressed in tights or breeches, extends forward. His long hair flows backward. An adult female figure sits behind him with her arms wrapped around his waist.  This is the poem's heroine, Leonora (assuming that this figure is based on Burger's poem).  Her body is horizontal and she faces forward, with her long, flame-hair flowing behind her and her long gown extending the length of the horse.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>facing right</characteristic>
+                        <characteristic>floating</characteristic>
+                        <characteristic>hovering</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>trumpet</characteristic>
+                        <characteristic>leg bent at knee</characteristic>
+                        <characteristic>leg extended</characteristic>
+                        <characteristic>flame-like</characteristic>
+                        <illusobjdesc>To the right of the horse, a figure of undetermined gender is shown in profile facing right. The figure floats or hovers with arms outstretched, and holds a curved trumpet that extends above and over the figure's head. The figure's right leg is bent at the knee and extends downward, and the left leg extends backwards and upwards with flame-like cloth or other material extending from it. The same flame-like material extends from the figure's right side.</illusobjdesc>
+                    </component>
+   <component type="figure" location="CD">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>circle</characteristic>
+                        <characteristic>bald</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>head bent back</characteristic>
+                        <characteristic>head on shoulder</characteristic>
+                        <characteristic>heads, multiple</characteristic>
+                        <characteristic>shoulder</characteristic>
+                        <characteristic>mouth open</characteristic>
+                        <characteristic>facing away</characteristic>
+                        <characteristic>muscular</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>chest</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>long hair</characteristic>
+       <illusobjdesc>In the foreground below the horse, a group of six male figures emerges from boulders or rocks. All are facing upward with eyes raised and are visible from the chest up. The figure furthest to the left, a bald man, bends his head backward so that it touches his hunched shoulders. He is separated from the rest of the group by a boulder or rock. To his right, another five are grouped together in a circle. The leftmost of this group, a bald man, looks up with his muscular back facing the viewer. To his right in the front of the circle, a man with long hair is shown from the chest up. His right knee is drawn up and he faces forward and up. His mouth his open. To his right, a head with a tuft of hair is seen from behind and looking up. In the back of the circle, two more heads of men are visible, also looking up.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="CD">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>dancing</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>arms raised at 135 degrees</characteristic>
+                        <characteristic>hand holding</characteristic>
+                        <characteristic>chain</characteristic>
+                        <characteristic>legs bent</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>legs drawn up</characteristic>
+                        <characteristic>leaping</characteristic>                      
+                        <illusobjdesc>In the background below the central horse, a group of five nude figures may be dancing. The second and fifth figures from the left look to the right and may be female, and the rest look to the left and may be male. They each raise their arms 135 degrees and hold hands, as if creating a chain or link. Their legs are bent. The right-most of the five figures draws both legs up to leap in the air.</illusobjdesc>
+                    </component>
+                    <component type="object" location="CD">
+                        <characteristic>moon</characteristic>
+                        <characteristic>circle</characteristic>
+                        <illusobjdesc>A large, circular moon sits low in the sky, behind the fourth and fifth dancing figures.</illusobjdesc>
+                    </component>
+                    <component type="object" location="C">
+                        <characteristic>gallows</characteristic>
+                        <illusobjdesc>In the background behind the dancing figures, there is a gallows.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="AB">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>nude</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>seen from behind</characteristic>
+                        <characteristic>muscular</characteristic>
+                        <characteristic>buttocks</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>arms raised</characteristic>
+                        <characteristic>holding</characteristic>
+                        <characteristic>heads, multiple</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>facing down</characteristic>
+                        <characteristic>short hair</characteristic>
+                        <characteristic>bald</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>arms wrapped around head</characteristic>
+                        <characteristic>leg drawn up</characteristic>
+                        <characteristic>touching</characteristic>
+                        <characteristic>smiling</characteristic>
+                        <characteristic>arms raised horizontally</characteristic>
+                        <characteristic>arm extended backward</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>beard</characteristic>
+                        <illusobjdesc>Above the horse's head, a group of figures floats in the sky. The leftmost of the group, a male, is seen from behind so that his muscular back and buttocks face the viewer. His visible left leg extends backward, and his arms are raised above his head to hold a piece of dark cloth with a white lining, which suggests a piece of the night sky. Six heads of male figures emerge from beneath the cloth. The two left-most heads face left and downward. They have similarly pointed noses, down turned mouths, and wide, circular eyes, but one is bald and the other has a small tuft of hair. The third figure from the left is another bald man with wide, circular eyes facing forward. His open mouth is down turned, and he crosses a bare, muscular arm in front of him to wrap around his head. He draws his left leg up in front of his arm. The fourth figure from the left has short, curly hair and a closed-mouth smile. He raises his arms horizontally to either side. Below him, another male appears to similarly extend his arms horizontally and backward, but faces downward and has a tuft of hair of hair in the back of his head. The rightmost of the figures is a bald man that is facing forward with his body horizontal. He appears to have a long, white bead that blends in with the white lining of the cloth.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>cloth</characteristic>
+                        <characteristic>night</characteristic>
+                        <characteristic>sky</characteristic>
+                        <illusobjdesc>A nude male seen from behind holds a piece of dark cloth with a white lining, which suggests a piece of the night sky.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="B">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>arms crossed</characteristic>
+                        <characteristic>eyes raised</characteristic>
+                        <characteristic>cloud</characteristic>
+                        <characteristic>flame-like</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <illusobjdesc>In the top right, there is a group of at least three figures shown from the chest up. The first figure from the left, who may be male, crosses his hands in front of his chest and faces up with eyes raised. He emerges from what may be a cloud. To his right, there are two male (?) figures who face forward. Flame-like cloth or fabric descends below the figures.</illusobjdesc>
+                    </component>
+                     <component type="object" location="E">     
+                         <characteristic>star</characteristic>
+                         <characteristic>night</characteristic>
+                            <illusobjdesc>Stars appear in the night sky to the front, top, and bottom of the central horse.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="25"/>
+                <lg>
+                    <l n="bb440.1.comdes.1.01" justify="left">Blake <choice><orig>inv:</orig><reg>invenit</reg></choice><space extent="75"/>Perry. <choice><orig>sc:</orig><reg>sculpcit</reg></choice></l>
+                </lg>
+                <vspace extent="2"/>
+                <columns>
+                    <column>
+                        <lg>
+                            <l n="bb440.1.comdes.1.02" justify="left">O! how I dreamt of things impossible,</l>
+                            <l n="bb440.1.comdes.1.03" justify="left">Of Death affecting Forms least like himself;</l>
+                            <l n="bb440.1.comdes.1.04" justify="left">I've seen, or dreamt I saw the Tyrant dress,</l>
+                            <l n="bb440.1.comdes.1.05" justify="left">Lay by his Horrors, and put on his Smiles;</l>
+                        </lg>
+                    </column>
+                    <column>
+                        <lg>
+                            <l n="bb440.1.comdes.1.06" justify="left">Treacherous he came an unexpected Guest,</l> 
+                            <l n="bb440.1.comdes.1.07" justify="left">Nay, though invited by the loudest Calls</l>
+                            <l n="bb440.1.comdes.1.08" justify="left">Of blind Imprudence, unexpected still;</l>
+                            <l n="bb440.1.comdes.1.09" justify="left">And then, he <choice><orig>dropt</orig><reg>dropped</reg></choice> his Mask.</l>
+                            <l n="bb440.1.comdes.1.10" justify="left" indent="29"><choice><orig>Alter'd</orig><reg>Altered</reg></choice> from Young.</l>
+                        </lg>
+                    </column>
+                </columns>
+            </phystext>
+        </desc>
+        <desc id="bb440.1.comdes.02" dbi="BB440.1.2.COM">
+            <objtitle>
+                <objid>
+                    <objnumber code="A1">Object 2</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc desclevel="brief">
+                <objsize>8.8 x 12.0 cm.</objsize>
+                <windowsize width="600" height="730"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The plate features a group of elegantly dressed figures, including men, women, and children. To the left, a man, woman, and female child embrace. They may be a family. The woman wears a long gown and has long dark hair that falls down her back. She faces right and rests her head on the shoulder of the man that she embraces. Her arms are wrapped around his body at the waist. The man, to her right, wraps his arms around her body and rests his head on her shoulder. He faces left. He has long, curly hair that may be a wig and wears a coat, breeches, and boots. He may be a soldier. The female child stands in between the embracing male and female and hugs the leg of the man. She has a long gown and long hair. A group of three children stand to the right of the family. The leftmost of this group is a male child who plays the flute. He faces forward and wears breeches. He has short, curly hair and may wear a crown of laurels. A female child stands behind him, holding his waist and looking up at him. She wears a long gown and her left arm crosses over her chest. Another male child stands to their right. A drum is secured by a strap around his body and he holds drum sticks. He wears a coat and breeches and has short, curly hair and may also wear a laurel crown. Two women stand to the right; they may be Leonora and her mother.  One of the women, directly to the right of the boy playing drums, wears a long gown and faces forward. Her long hair is tied in a bun. She looks to the left toward the family in embrace, and bends both of her arms at her elbows with her palms out to face the viewer. Her left forearm is grasped by the gowned female figure who stands closely beside her. Her dark hair is held up with a scarf. She faces left and crosses her right hand in front of her body to rest on her left breast. Two nearly identical couples stand in the background. Each of the two couples include a man standing to the left and a woman to the right. Each of the two men wears a coat, breeches, and tall hats, and hold bayonets in their right hands. They may be soldiers. A drooping branch with leaves extends from the hat of each man. Each man faces forward and looks to the woman at his side. The women are both visible from the torso up, face forward, and look up and to the right to the man at their side. They both have long hair and wear gowns. The tops of six more bayonets can be seen in the background, suggesting more soldiers.</illusobjdesc>
+                    <component type="figure" location="AC">
+                        <characteristic>group of figures</characteristic>                    
+                        <characteristic>embracing</characteristic>
+                        <characteristic>adult</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>head on shoulder</characteristic>
+                        <characteristic>arms wrapped around body</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>wig</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>boots</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <illusobjdesc>To the left, a man, woman, and female child embrace. They may be a family. The woman wears a long gown and has long dark hair that falls down her back. She faces right and rests her head on the shoulder of the man that she embraces. Her arms are wrapped around his body at the waist. The man, to her right, wraps his arms around her body and rests his head on her shoulder. He faces left. He has long, curly hair that may be a wig and wears a coat, breeches, and boots. He may be a soldier. The female child stands in between the embracing male and female and hugs the leg of the man. She has a long gown and long hair.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>child</characteristic>
+                        <characteristic>flute</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>facing up</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <characteristic>crown</characteristic>
+                        <characteristic>laurels</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>drum</characteristic>
+                        <characteristic>drum stick</characteristic>
+                    <illusobjdesc>A group of three children stand to the right of the family. The leftmost of this group is a male child who plays the flute. He faces forward and wears breeches. He has short, curly hair and may wear a crown of laurels. A female child stands behind him, holding his waist and looking up at him. She wears a long gown and her left arm crosses over her chest. Another male child stands to their right. A drum is secured by a strap around his body and he holds drum sticks. He wears a coat and breeches and has short, curly hair and may also wear a laurel crown.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD"> 
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>adult</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>Leonora</characteristic>
+                        <characteristic>mother</characteristic>
+                        <characteristic>hair</characteristic>
+                        <characteristic>bun</characteristic>
+                        <characteristic>cloth</characteristic>
+                        <characteristic>scarf</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>arm bent</characteristic>
+                        <characteristic>hand resting</characteristic>
+                        <illusobjdesc>Two women stand to the right.  One of the women, directly to the right of the boy playing drums, wears a long gown and faces forward.  This may be Leonora.  Her long hair is tied in a bun. She looks to the left toward the family in embrace, and bends both of her arms at her elbows with her palms out to face the viewer. Another gowned female figure stands closely beside her.  This may be Leonora's mother.  Her dark hair is held up with a scarf. She faces left and crosses her left arm in front of her body.  Her right hand is visible, touching the side of her body just above her left forearm.</illusobjdesc>
+                    </component>                 
+                    <component type="figure" location="E">
+                        <characteristic>group of figures</characteristic>
+                        <characteristic>adult</characteristic>
+                        <characteristic>facing forward</characteristic>
+                        <characteristic>female</characteristic>
+                        <characteristic>male</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>hat</characteristic>
+                        <characteristic>bayonet</characteristic>
+                        <characteristic>soldier</characteristic>
+                        <characteristic>branch</characteristic>
+                        <characteristic>leaf</characteristic>
+                        <characteristic>willow</characteristic>
+                        <characteristic>looking</characteristic>
+                        <characteristic>facing up</characteristic>               
+                        <characteristic>long hair</characteristic>
+                        <characteristic>gown</characteristic>
+                        <illusobjdesc>Two nearly identical couples stand in the background and face forward. Each of the two couples include a man standing to the left and a woman to the right. Each of the two men wears a coat, breeches, and tall hats, and hold bayonets in their right hands. They may be soldiers. A drooping willow branch with leaves extends from the hat of each man. Each man faces forward and looks to the woman at his side. The women are both visible from the torso up, face forward, and look up and to the right to the man at their side. They both have long hair and wear gowns.</illusobjdesc>
+                    </component>
+                    <component type="object" location="AB">
+                        <characteristic>bayonet</characteristic>
+                        <characteristic>gun</characteristic>
+                        <illusobjdesc>The tops of six more bayonets can be seen in the background, suggesting more soldiers.  The barrels of two guns supporting bayonets are also pictured.
+                        </illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="25"/>
+                <lg>
+                    <l n="bb440.1.comdes.2.01" justify="left">Blake.<choice><orig>in.</orig><reg>invenit</reg></choice><space extent="80"/>Perry. <choice><orig>SC.</orig><reg>sculpcit</reg></choice></l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb440.1.comdes.03" dbi="BB440.1.03.COM">
+            <objid>
+                    <objnumber code="A1">Object 3</objnumber>
+                </objid>
+            <physdesc desclevel="brief">
+                <objsize>6.7 x 12.7cm.</objsize>
+                <windowsize width="600" height="730"/>
+            </physdesc>
+            <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>The image shows three figures, including one figure in bed and two figures at the bedside. A female figure reclines on a bed facing left with her body horizontal and supported by a pillow from the torso up.  This is Leonora.  She bends both arms upward at the elbow and raises her hands, palms up. Her left leg is slightly bent. She wears a long gown and her long hair is partially covered by a veil. A male figure lunges forward at the foot of the bed.  This is Leonora's lover, William.  His body bends forward and faces right as he bends his right leg at the knee, extends his left leg backwards, extends both arms forward, and raises his hands, palms out. He wears a coat, breeches, and boots with spurs and his long, curly hair is tied at the back. Behind the male figure and also at the foot of the bed, a gowned female figure stands hunched over and bending right.  This is probably Leonora's mother, her face showing old age.  Her long hair is tucked into a veil. She bends both arms upward and appears to tug at the collar of her gown.</illusobjdesc>
+                    <component type="figure" location="E">
+                        <characteristic>female</characteristic>
+                        <characteristic>Leonora</characteristic>
+                        <characteristic>facing left</characteristic>
+                        <characteristic>body horizontal</characteristic>
+                        <characteristic>lying</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <characteristic>hands raised, palms up</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>veil</characteristic>
+                        <illusobjdesc>A female figure reclines on a bed facing left with her body horizontal and supported by a pillow from the torso up.  This is Leonora. She bends both arms upward at the elbow and raises her hands, palms up. Her left leg is slightly bent. She wears a long gown and her long hair is partially covered by a veil.</illusobjdesc>
+                    </component>
+                    <component type="object" location="E">
+                        <characteristic>bed</characteristic>
+                        <characteristic>pillow</characteristic>
+                        <characteristic>supporting</characteristic>
+                        <illusobjdesc>A female figure reclines on a bed facing left with her body horizontal and supported by a pillow from the torso up.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="E">
+                        <characteristic>male</characteristic>
+                        <characteristic>William</characteristic>
+                        <characteristic>facing right</characteristic>
+                        <characteristic>lunging</characteristic>
+                        <characteristic>bending forward</characteristic>
+                        <characteristic>leg bent forward</characteristic>
+                        <characteristic>leg extended backward</characteristic>
+                        <characteristic>arms extended</characteristic>
+                        <characteristic>hands raised, palms out</characteristic>
+                        <characteristic>coat</characteristic>
+                        <characteristic>breeches</characteristic>
+                        <characteristic>boots</characteristic>
+                        <characteristic>spurs</characteristic>
+                        <characteristic>long hair</characteristic>
+                        <characteristic>curly hair</characteristic>
+                        <illusobjdesc>A male figure lunges forward at the foot of the bed.  This is Leonora's lover, William, awakening Leonora from her dream of death.  His body bends forward and faces right as he bends his right leg at the knee, extends his left leg backwards, extends both arms forward, and raises his hands, palms out. He wears a coat, breeches, and boots with spurs and his long, curly hair is tied at the back.</illusobjdesc>
+                    </component>
+                    <component type="figure" location="BD">
+                        <characteristic>female</characteristic>
+                        <characteristic>gown</characteristic>
+                        <characteristic>old</characteristic>
+                        <characteristic>mother</characteristic>
+                        <characteristic>standing</characteristic>
+                        <characteristic>hunched over</characteristic>
+                        <characteristic>bending right</characteristic>
+                        <characteristic>veil</characteristic>
+                        <characteristic>arms bent upward</characteristic>
+                        <illusobjdesc>Behind the male figure and also at the foot of the bed, a gowned female figure stands hunched over and bending right.  This is probably Leonora's mother, her face showing old age.  Her long hair is tucked into a veil. She bends both arms upward and appears to tug at the collar of her gown.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
+            <phystext>
+                <vspace extent="20"/>
+                <lg>
+                    <l n="bb440.1.comdes.3.01" justify="left">Blake. <choice><orig>in.</orig><reg>invenit</reg></choice><space extent="80"/><hi rend="superscript">Perry. <choice><orig>sc</orig><reg>sculpcit</reg></choice></hi></l>
+                </lg>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
