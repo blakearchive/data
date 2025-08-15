@@ -344,7 +344,7 @@
         <desc id="bb440.1.comdes.02" dbi="BB440.1.2.COM">
             <objtitle>
                 <objid>
-                    <objnumber code="A1">Object 2</objnumber>
+                    <objnumber code="A2">Object 2</objnumber>
                     <objcode code=“B2>(Bentley 440.2)</objcode>
                 </objid>
             </objtitle>
@@ -446,7 +446,8 @@
         </desc>
         <desc id="bb440.1.comdes.03" dbi="BB440.1.03.COM">
             <objid>
-                    <objnumber code="A1">Object 3</objnumber>
+                    <objnumber code="A3">Object 3</objnumber>
+                    <objcode code=“B3>(Bentley 440.3)</objcode>
                 </objid>
             <physdesc desclevel="brief">
                 <objsize>6.7 x 12.7cm.</objsize>
