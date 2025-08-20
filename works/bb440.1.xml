@@ -444,11 +444,13 @@
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb440.1.comdes.03" dbi="BB440.1.03.COM">
+        <desc id="bb440.1.comdes.03" dbi="BB440.1.3.COM">
+            <objtitle>
             <objid>
                     <objnumber code="A3">Object 3</objnumber>
                     <objcode code="B3">(Bentley 440.3)</objcode>
                 </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>6.7 x 12.7cm.</objsize>
                 <windowsize width="600" height="730"/>
