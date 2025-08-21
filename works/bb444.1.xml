@@ -289,19 +289,19 @@
                 <columns>
                     <column>
                         <texthead justify="left">
-                            <l n="bb444.1.1.com.01.01" justify="left" indent="13">
-                            W. Blake
+                            <l n="bb444.1.1.com.01.01" justify="left" indent="27">
+                            <choice><orig>W.</orig><reg type="abbrev">William</reg></choice> Blake
                             </l>
                         </texthead>
                         <vspace extent="1"/>
                         <lg type="verse" justify="left">
-                            <l n="bb444.1.1.com.o1.02" justify="left">The shatter'd bark from adverse winds</l>
+                            <l n="bb444.1.1.com.o1.02" justify="left">The <choice><orig>shatter'd</orig><reg>shattered</reg></choice> bark from adverse winds</l>
                             <l n="bb444.1.1.com.o1.03" justify="left">Rest in this peaceful haven finds</l>
                         </lg>
                     </column>
                     <column>
                         <texthead justify="left">
-                            <l n="bb444.1.1.com.01.04" justify="left" indent="35">
+                            <l n="bb444.1.1.com.01.04" justify="left">
                                 del<hi rend="superscript">t</hi>. &#38; sculp<hi rend="superscript">t</hi>.
                             </l>
                         </texthead>
@@ -313,7 +313,7 @@
                     </column>
                 </columns>
                 <lg type="prose" justify="left">
-                    <l n="bb444.1.1.com.01.07" justify="left" indent="33">Publish'd July 1. 1786 by J. Fentum N.<hi rend="superscript">r</hi> 78 Corner of Salisbury Street, Strand.</l>
+                    <l n="bb444.1.1.com.01.07" justify="left" indent="4"><choice><orig>Publish'd</orig><reg>Published</reg></choice> July 1. 1786 by J. Fentum <choice><orig>N.<hi rend="superscript">r</hi></orig><reg>Number</reg></choice> 78 Corner of Salisbury Street, Strand.</l>
                 </lg>
             </phystext>
         </desc>
