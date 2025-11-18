@@ -42,7 +42,16 @@ Welcome! This repository contains data files for the Blake Archive. Here's a gui
 
 ### Contributing
 
-6. **[CONTRIBUTING.md](../CONTRIBUTING.md)** 🤝 *30 minutes*
+6. **[FIELD_MAPPING.md](../FIELD_MAPPING.md)** 🗺️ *25 minutes*
+   - Complete CSV to website mapping
+   - XML element to display mapping
+   - Where each field appears on pages
+   - Data flow examples end-to-end
+   - Quick lookup tables
+   - Image path construction
+   - Search and filter internals
+
+7. **[CONTRIBUTING.md](../CONTRIBUTING.md)** 🤝 *30 minutes*
    - Complete contribution guide
    - Data standards and conventions
    - Adding new works
@@ -99,6 +108,9 @@ import_helper.sh                   5.3 KB   - Import automation
 #### "I need to understand the repository structure"
 → [README.md](../README.md)
 
+#### "I want to know where my data appears on the website"
+→ [FIELD_MAPPING.md](../FIELD_MAPPING.md)
+
 #### "I want to work with the claude branch modernization"
 → [CLAUDE_BRANCH_COMPATIBILITY.md](../CLAUDE_BRANCH_COMPATIBILITY.md)
 
@@ -154,8 +166,9 @@ import_helper.sh                   5.3 KB   - Import automation
 ### For Content Contributors
 1. QUICKSTART.md ⚡
 2. README.md 📖
-3. CONTRIBUTING.md 🤝
-4. INTEGRATION_CHECKLIST.md ✓
+3. FIELD_MAPPING.md 🗺️
+4. CONTRIBUTING.md 🤝
+5. INTEGRATION_CHECKLIST.md ✓
 
 ### For System Administrators
 1. README.md 📖
@@ -175,6 +188,7 @@ import_helper.sh                   5.3 KB   - Import automation
 **Data Structure**
 - README.md - Directory structure
 - ARCHITECTURE.md - Data models
+- FIELD_MAPPING.md - Field to website mapping
 - CONTRIBUTING.md - Data standards
 
 **Integration**
