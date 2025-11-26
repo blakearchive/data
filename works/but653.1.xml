@@ -38,6 +38,43 @@
         <profiledesc/>
         <revisiondesc>
             <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2025</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Assistant Project Coordinator, University of Rochester: </resp>
+                    <name>Dani Garcia</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Kathrin Lachenmaier, </name>
+                    <name>Mary Learner, </name>
+                    <name>Huimin Li, </name>
+                    <name>Elizabeth McKay, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
                 <change>BAD created and publication in preview mode</change>
                 <date>January–March 2021</date>
                 <respstmt>
@@ -1921,7 +1958,7 @@
                 <lg justify="left">
                     <l n="but653.1.pt.01.01" justify="left" indent="40"> THE </l>
                     <l n="but653.1.pt.01.02" justify="left" indent="38"> <choice><orig>LODGYN</orig><reg type="split_word"></reg><reg>LODGYNGE</reg><reg>LODGING</reg></choice> </l>
-                    <l n="but653.1.pt.01.03" justify="left" indent="45"> <choice><orig>GE </orig><reg type="split_word"></reg><reg>LODGYNGE</reg><reg>LODGING</reg></choice><space extent="2"></space> FOR </l>
+                    <l n="but653.1.pt.01.03" justify="left" indent="45"> <choice><orig>G<unclear resp="MG">E</unclear> </orig><reg type="split_word"></reg><reg>LODGYNGE</reg><reg>LODGING</reg></choice><space extent="2"></space> FOR <note>The characters "GE" are a continuation of the split-word, "LODGYNGE" from the previous line. The "E" is poorly formed, lacking a distinct middle-bar.</note></l>
                     <l n="but653.1.pt.01.04" justify="left" indent="40"> HOUSE <space extent="1"></space> PILGRIMS</l>
                     <l n="but653.1.pt.01.05" justify="left" indent=".5"> THE TABARDE <space extent="18"></space> WHO JOURNEY TO SAINT</l>
                     <l n="but653.1.pt.01.06" justify="left" indent="1"> <choice><orig>INNE</orig><reg>inn</reg></choice><space extent="1"></space> BY <space extent="30"></space>THOMAS'S SHRINE</l>
