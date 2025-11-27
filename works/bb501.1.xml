@@ -116,7 +116,7 @@
                     <role>engraver</role>
                 </origination>
                 <imprint>
-                    <publisher>"The Author, John Varley</publisher>
+                    <publisher>The Author, John Varley</publisher>
                     <pubplace>London</pubplace>
                     <date>1828</date>
                 </imprint>
@@ -127,7 +127,7 @@
                 <printdate value="1828">1828</printdate>
                 <numberobj>3</numberobj>
                 <objorder>1-3</objorder>
-                <objsize>13.6 x 22.0 cm. (Object 1), 13.1 x 20.2 cm. (Object 2), 21.0 x 13.5 cm.</objsize>
+                <objsize>13.6 x 22.0 cm. (Object 1), 13.1 x 20.2 cm. (Object 2), 21.0 x 13.5 cm. (Object 3)</objsize>
                 <numberleaves>3</numberleaves>
                 <leafsize>24.7 x 15.3 cm. (Object 1), 22.9 x 15.3 cm. (Object 2), 23.3 x 15.3 cm. (Object 3)</leafsize>
                 <medium>etching and engraving</medium>
@@ -166,7 +166,7 @@
                 <objsize>13.6 x 22.0 cm.</objsize>
                 <windowsize width="600" height="730"/>
                 <objnote>
-                    <p>Only the heads labeled "Cancer" (second from the left in the lower row of portraits) and "Gemini" (right-most head in the lower row) are based on drawings by Blake (Butlin 692c, 692.80) in the Small Blake-Varley Sketchbook (now dispersed).  The drawing of "Gemini" is in turn similar to Blake's Visionary Head inscribed by John Linnell "Corrinna the Grecian Poetess" (Butlin 708; see also untraced 709).  The Cancer drawing was traced by Linnell or John Varley (Butlin 751) and probably played a role in the production of this engraving.  Both drawings are very probably stylized self-portraits.  Although Blake was not born under the traditional astrological sign of Cancer, a horoscope published in 1824 specifies that his "extraordinary faculties ... are the effects of the MOON IN CANCER" (Bentley, *Records*, page 407).  Another plate (Essick LVII), not present in Varley's pamphlet but probably intended for a later installment never published, includes a version of the "Cancer" profile closer to Blake's drawing, Butlin 692.80.</p>
+                    <p>Only the heads labeled "Cancer" (second from the left in the lower row of portraits) and "Gemini" (right-most head in the lower row) are based on drawings by Blake (Butlin 692.c, 692.80) in the Small Blake-Varley Sketchbook (now dispersed).  The drawing of "Gemini" is in turn similar to Blake's Visionary Head inscribed by John Linnell "Corrinna the Grecian Poetess" (Butlin 708; see also untraced 709).  The Cancer drawing was traced by Linnell or John Varley (Butlin 751) and probably played a role in the production of this engraving.  Both drawings are very probably stylized self-portraits.  Although Blake was not born under the traditional astrological sign of Cancer, a horoscope published in 1824 specifies that his "extraordinary faculties ... are the effects of the MOON IN CANCER" (Bentley, *Records*, page 407).  Another plate (Essick LVII), not present in Varley's pamphlet but probably intended for a later installment never published, includes a version of the "Cancer" profile closer to Blake's drawing, Butlin 692.c.</p>
                 </objnote>
             </physdesc>
             <illusdesc>
@@ -269,39 +269,23 @@
                 </illustration>
             </illusdesc>
             <phystext>
-                <vspace extent="8"/>
-                <columns>
-                    <column>
-                        <lg type="prose" justify="left">
-                            <l n="bb501.1.1.comdes.01.01" justify="center">Taurus.</l>
-                            <l n="bb501.1.1.comdes.01.01" justify="center">Capella.</l>
-                            <l n="bb501.1.1.comdes.01.01" justify="center">Gemini</l>
-                            <l n="bb501.1.1.comdes.01.01" justify="center">Bellatrix</l>
-                            <l n="bb501.1.1.comdes.01.01" justify="center">Taurus.</l>
-                        </lg>
-                        <vspace extent="1"/>
-                        <lg type="prose" justify="right">
-                            <l n="bb501.1.1.comdes.01.02" justify="right">See Page 51</l>
-                        </lg>
-                        <vspace extent="1"/>
-                        <lg type="prose" justify="right">
-                            <l n="bb501.1.1.comdes.01.03" justify="right">Capella. as transmitted</l>
-                        </lg>
-                        <vspace extent="1"/>
-                        <lg type="prose" justify="left">
-                            <l n="bb501.1.1.comdes.01.04" justify="left">Cochabiel</l>
-                            <l n="bb501.1.1.comdes.01.04" justify="left">Cancer.</l>
-                            <l n="bb501.1.1.comdes.01.04" justify="left">Scorpio.</l>
-                            <l n="bb501.1.1.comdes.01.04" justify="left">from Taurus.</l>
-                            <l n="bb501.1.1.comdes.01.04" justify="left">Gemini.</l>
-                        </lg>
-                        <vspace extent="1"/>
-                        <lg type="prose" justify="right">
-                            <l n="bb501.1.1.comdes.01.05" justify="right">J. Linnel sc.</l>
-                            <l n="bb501.1.1.comdes.01.05" justify="right">J. Varley, inv.</l>
-                        </lg>    
-                    </column>
-                </columns>
+                <vspace extent="12"/>
+                <lg type="prose" justify="left">
+                    <l n="bb501.1.1.comdes.01.01" justify="left" indent="66">Gemini</l>
+                    <l n="bb501.1.1.comdes.01.02" justify="left" indent="20">Taurus. <space extent="28"/>Capella. <space extent="15"/> Bellatrix <space extent="15"/>Taurus.</l>
+                    <l n="bb501.1.1.comdes.01.03" justify="left" indent="78.5"><hi rend="superscript">See Page 51</hi></l>
+                </lg>
+                <vspace extent="12"/>
+                <lg type="prose" justify="right">
+                    <l n="bb501.1.1.comdes.01.04" justify="left"><space extent="78"/>Capella. as transmitted</l>
+                    <l n="bb501.1.1.comdes.01.05" justify="left" indent="10">Cochabiel<space extent="14"/>Cancer.<space extent="16.5"/>Scorpio.<space extent="17"/>from Taurus.<space extent="15"/>Gemini.</l>
+                    <l n="bb501.1.1.comdes.01.06" justify="left" indent="12.5"><hi rend="superscript">Gemini</hi></l>
+                </lg>
+                <vspace extent="1"/>
+                <lg type="prose" justify="right">
+                    <l n="bb501.1.1.comdes.01.07" justify="left" indent="120"><hi rend="superscript">J. Varley, <choice><orig>inv.</orig><reg>inventor</reg></choice></hi></l>
+                    <l n="bb501.1.1.comdes.01.08" justify="left" indent="6"><hi rend="superscript">J. Linnel <choice><orig>sc.</orig><reg>sculptor</reg></choice></hi></l>
+                </lg>    
             </phystext>
         </desc>
                 <desc id="bb501.1.comdes.02" dbi="BB501.1.2.COM">
@@ -361,41 +345,26 @@
                 </illustration>
             </illusdesc>
             <phystext>
-                <vspace extent="1"/>
-                <columns>
-                    <column>
+                        <vspace extent="15"/>
                         <lg type="prose" justify="left">
-                            <l n="bb501.1.1.comdes.02.01" justify="center">Gemini</l>
+                            <l n="bb501.1.1.comdes.02.01" justify="left" indent="14">Gemini</l>
                         </lg>
-                        <vspace extent="1"/>
-                        <lg type="prose" justify="right">
-                            <l n="bb501.1.1.comdes.02.02" justify="right">Ghost of a Flea.</l>
+                        <lg type="prose" justify="left">
+                            <l n="bb501.1.1.comdes.02.02" justify="left" indent="70">Ghost of a Flea.</l>
+                            <l n="bb501.1.1.comdes.02.03" justify="left" indent="71">from Blakes, vision.</l>
                         </lg>
-                        <vspace extent="1"/>
-                        <lg type="prose" justify="right">
-                            <l n="bb501.1.1.comdes.02.03" justify="right">from Blakes, vision.</l>
+                        <lg type="prose" justify="left">
+                            <l n="bb501.1.1.comdes.02.04" justify="left" indent="40">Cancer</l>
                         </lg>
                         <vspace extent="1"/>
                         <lg type="prose" justify="left">
-                            <l n="bb501.1.1.comdes.02.04" justify="left">Cancer</l>
+                            <l n="bb501.1.1.comdes.02.05" justify="left" indent="87"><hi rend="superscript">See Page 54</hi></l>
                         </lg>
-                        <vspace extent="1"/>
-                        <lg type="prose" justify="right">
-                            <l n="bb501.1.1.comdes.02.05" justify="right">See Page 54</l>
-                        </lg>
-                        <vspace extent="1"/>
+                        <vspace extent="5"/>
                         <lg type="prose" justify="left">
+                            <l n="bb501.1.1.comdes.02.06" justify="left"><hi rend="superscript">J. Linnel <choice><orig>sc.</orig><reg>sculptor</reg></choice></hi><space extent="110"/><hi rend="superscript">J. Varley, <choice><orig>inv.</orig><reg>inventor</reg></choice></hi></l>
                         </lg>
-                    </column>
-                    <column>
-                    <lg type="prose" justify="center">
-                        <l n="bb501.1.1.comdes.02.06" justify="center">J. Linnel sc.</l>
-                        <l n="bb501.1.1.comdes.02.06" justify="center">J. Varley, inv.</l>
-                        </lg>
-                        <vspace extent="1"/>
-                    </column>
-                    </columns>
-            </phystext>
+                    </phystext>
                 </desc>
                         <desc id="bb501.1.comdes.03" dbi="BB501.1.3.COM">
                             <objtitle>
@@ -450,40 +419,23 @@
                 </illustration>
             </illusdesc>
             <phystext>
-                <texthead justify="left">
-                    <l n="bb501.1.1.comdes.03.01" justify="right">
-                        <physnumber type="etched">Ghost of a Flea.</physnumber>
-                    </l>
-                </texthead>
-                <vspace extent="8"/>
-                <columns>
-                    <column>
-                        <lg type="prose" justify="left">
-                            <l n="bb501.1.1.comdes.03.02" justify="left">from Blakes, vision.</l>
-                        </lg>
-                    </column>
-                    <column/>
-                    <column>
-                        <lg type="prose" justify="left">
-                            <l n="bb501.1.1.comdes.03.03" justify="right">See Page 54</l>
-                        </lg>
-                    </column>
-                </columns>
-                <vspace extent="1"/>
-                <lg type="prose" justify="left">
-                    <l n="bb501.1.1.comdes.03.04" justify="center">Reverse of the coin of</l>
-                    <l n="bb501.1.1.comdes.03.04" justify="center">Taurus. ( fair class )</l>
-                </lg>
-                <vspace extent="2"/>
-                <lg type="prose" justify="left">
-                    <l n="bb501.1.1.comdes.03.05" justify="center">Nebuchadnezzar; after Blake.
-                    </l>
-                </lg>
-                <lg type="prose" justify="left">
-                    <l n="bb501.1.1.comdes.03.06" justify="center">J. Linnel sc.</l>
-                    <l n="bb501.1.1.comdes.03.06" justify="center">J. Varley, inv.</l>
-                </lg>
-            </phystext>
+                    <vspace extent="15"/>
+                    <lg type="prose" jusitfy="left">
+                        <l n="bb501.1.1.comdes.03.01" justify="left" indent="20">Ghost of a Flea.</l>
+                        <l n="bb501.1.1.comdes.03.02" justify="left" indent="20.5"><hi rend="superscript">from Blakes, vision.</hi></l>
+                    </lg>
+                    <lg type="prose" justify="left">
+                        <l n="bb501.1.1.comdes.03.03" justify="left" indent="37"><hi rend="superscript">See Page 54</hi></l>
+                    </lg>
+                    <vspace extent="14"/>
+                    <lg type="prose" justify="left">
+                        <l n="bb501.1.1.comdes.03.04" justify="left" indent="6">Reverse of the coin of<space extent="31"/>Taurus. ( fair class )</l>
+                        <l n="bb501.1.1.comdes.03.05" justify="left" indent="5">Nebuchadnezzar; after Blake.</l>
+                    </lg>
+                    <lg type="prose" justify="left">
+                        <l n="bb501.1.1.comdes.03.06" justify="left"><hi rend="superscript">J. Linnel <choice><orig>sc.</orig><reg>sculptor</reg></choice></hi><space extent="58"/><hi rend="superscript">J. Varley, <choice><orig>inv.</orig><reg>inventor</reg></choice></hi></l>
+                    </lg>
+                </phystext>
         </desc>
     </objdesc>
 </bad>

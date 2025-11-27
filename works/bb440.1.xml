@@ -3,9 +3,8 @@
     <header>
         <filedesc>
             <titlestmt>
-                <title reg="'Leonora'">
-                    <main>
-                        <author>Gottfried Augustus Burger</author>'Leonora'</main> : electronic edition </title>
+                <title reg="Gottfried Augustus Burger, Leonora">
+                    <main>Gottfried Augustus Burger, Leonora</main> : electronic edition </title>
                 <principal>
                     <resp>Editors: </resp>
                     <name>Morris Eaves, </name> University of Rochester; <name>Robert Essick,
@@ -104,7 +103,7 @@
         <source>
             <objdescid>
                 <objtitle>
-                    <title>'Leonora'</title>
+                    <title>Gottfried Augustus Burger, Leonora</title>
                 </objtitle>
                 <origination> William Blake <role>inventor, </role>
                     <role>delineator.</role>
@@ -444,11 +443,13 @@
                 </lg>
             </phystext>
         </desc>
-        <desc id="bb440.1.comdes.03" dbi="BB440.1.03.COM">
+        <desc id="bb440.1.comdes.03" dbi="BB440.1.3.COM">
+            <objtitle>
             <objid>
                     <objnumber code="A3">Object 3</objnumber>
                     <objcode code="B3">(Bentley 440.3)</objcode>
                 </objid>
+            </objtitle>
             <physdesc desclevel="brief">
                 <objsize>6.7 x 12.7cm.</objsize>
                 <windowsize width="600" height="730"/>
