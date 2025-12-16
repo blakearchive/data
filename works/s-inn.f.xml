@@ -4,13 +4,12 @@
             <titlestmt>
                 <title reg="Songs of Innocence">
                     <main>Songs of Innocence</main>
-                    <copy> copy F</copy>
+                    <copy> Copy F</copy>
 : electronic edition
 </title>
                 <principal>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester; 
-<name>Robert Essick, </name>University of California, Riverside; and 
+                    <name>Robert Essick, </name>University of California, Riverside; and 
 <name>Joseph Viscomi</name>, University of North Carolina at Chapel
 Hill</principal>
                 <respstmt>
@@ -34,13 +33,13 @@ grants from Sun Microsystems</sponsor>
             <extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 283KB; 62 JPEG
 (ISO/IEC 10918) 
 files ranging in size from 46KB to 500KB</extent>
-            <publicationstmt>Charlottesville: Eaves, Essick, Viscomi; IATH<date>August 1999</date>
+            <publicationstmt>Charlottesville: Essick, Viscomi; IATH<date>August 1999</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
             
             <notesstmt/>
         </filedesc>
-        <userestrict>Copyright © <date>2014</date> by Morris Eaves, Robert N. Essick, and Joseph
+        <userestrict>Copyright © <date>2026</date> by Robert N. Essick and Joseph
 Viscomi,
 all rights reserved.  Items in the Archive may be shared in
 accordance
@@ -53,7 +52,7 @@ reproduce the graphic images in this archive has been granted by
 the
 owners of the originals for this publication only.<lb/>
             <lb/>
- This image copyright © 2014 Houghton Library, Harvard University.</userestrict>
+ This image copyright © 2026 Houghton Library, Harvard University.</userestrict>
         <encodingdesc/>
         <profiledesc/>
         <revisiondesc>
@@ -62,8 +61,7 @@ owners of the originals for this publication only.<lb/>
                 <date>2004</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-               <name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Robert Essick, </name>University of California, Riverside; and
                <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
                <resp>Technical Editor: </resp>
                     <name>Andrea Laue</name>
@@ -84,8 +82,7 @@ owners of the originals for this publication only.<lb/>
                 <date>Summer 2000</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Morris Eaves, </name>University of Rochester;
-<name>Robert Essick, </name>University of California, Riverside; and
+                    <name>Robert Essick, </name>University of California, Riverside; and
 <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
 <resp>Technical Editor: </resp>
                     <name>Matthew Kirschenbaum</name>
@@ -108,7 +105,7 @@ owners of the originals for this publication only.<lb/>
             <objdescid>
                 <objtitle>
                     <title>
-                        <hi rend="i">Songs of Innocence</hi>
+                        Songs of Innocence
                     </title>
                 </objtitle>
                 <origination>William Blake <role>author, </role>
@@ -118,7 +115,8 @@ owners of the originals for this publication only.<lb/>
                     <role>printer, </role>
                     <role>colorist</role>
                 </origination>
-                <origination>Catherine Blake <role>printer</role>
+                <origination>Catherine Blake, <role>printer, </role>
+                    <role>colorist.  Some of the hand coloring may be by Blake's wife Catherine.</role>
                 </origination>
                 <imprint>
                     <publisher>William Blake</publisher>
@@ -132,23 +130,23 @@ composition, etching, and printing.</note>
             </objdescid>
             <objinfo>
                 <printdate value="1789.F">1789</printdate>
-                <numberobj>27<note>Copy F lacks Bentley plates 6, 7, 19, and 24.  These plates may have been used to complete copy T of <hi rend="i">Songs of Innocence and of Experience</hi>.</note></numberobj>
-                <objorder>Bentley plates 2-5, 25, 8, 11, 15, 9, 10, 54, 13, 14, 18, 12, 16, 17, 20, 21, 27, 22, 23, 53, 26, 34-36</objorder>
+                <numberobj>27<note>Copy F lacks Bentley Plates 6, 7, 19, and 24.  These plates may have been used to complete copy T of *Songs of Innocence and of Experience*.</note></numberobj>
+                <objorder>Bentley Plates 2-5, 25, 8, 11, 15, 9, 10, 54, 13, 14, 18, 12, 16, 17, 20, 21, 27, 22, 23, 53, 26, 34-36</objorder>
                 <objsize>ranging between 12.3 x 7.7 cm. and 10.9 x 6.3 cm.</objsize>
-                <numberleaves>15<note>Objects 1-3 (Bentley plates 2-4) as arranged in this copy are
+                <numberleaves>15<note>Objects 1-3 (Bentley Plates 2-4) as arranged in this copy are
 printed on individual leaves; all other plates are printed recto/verso.</note>
                 </numberleaves>
                 <leafsize>18.2 x 13.3 cm.</leafsize>
                 <medium>relief etching, with some white-line etching, and hand
-coloring</medium>
+coloring with water colors</medium>
                 <printingstyle>relief</printingstyle>
-                <inkcolor> raw sienna (objects 1-3), yellow ochre (objects 4-27)</inkcolor>
+                <inkcolor> raw sienna (Objects 1-3), yellow ochre (Objects 4-27)</inkcolor>
                 <support>wove paper</support>
-                <watermark>E &#38; P<note>The watermark appears only on the leaves bearing objects 8 and 9 (Bentley plates 15 and 9) and objects 24 and 25 (Bentley plates 26 and 34).</note></watermark>
+                <watermark>E &#38; P<note>The watermark appears only on the leaves bearing Objects 8 and 9 (Bentley Plates 15 and 9) and Objects 24 and 25 (Bentley Plates 26 and 34).</note></watermark>
                 <etchednumbers>none</etchednumbers>
                 <pennednumbers>none by Blake<note>The plates are numbered I-XXVII top center in black ink.  These numbers are not by Blake.</note></pennednumbers>
                 <framelines>none</framelines>
-                <binding>disbound<note>Formerly bound in contemporary brown morocco with object 1, the frontispiece, facing object 2, the title page.</note>
+                <binding>disbound<note>Formerly bound in contemporary brown morocco with Object 1, the frontispiece, facing Object 2, the title page.</note>
                 </binding>
                 <stabholes>Originally stabbed through three holes 5.7 and 5.9 cm. apart.  Six holes at the bound edges of the leaves are probably from the former binding in brown morocco.  This morocco binding was present by the time of the 1892 auction (see the note on provenance, below).</stabholes>
             </objinfo>
@@ -157,19 +155,10 @@ coloring</medium>
                 <date>1925</date>
                 <dealer>none</dealer>
                 <price>bequest</price>
-                <note>Early history unknown; sold from the collection of Edwin Henry Lawrence (1819-91), Sotheby's, 9 May 1892, lot 60 (&#163;52 to the dealer John Pearson); apparently returned by Pearson (because of the missing plates?) and sold Sotheby's, 26 April 1893, lot 1086, with the missing plates noted (&#163;18 to Pearson); Thomas J. Wise and sold by him in 1899, according to Geoffrey Keynes and Edwin Wolf 2nd, <hi rend="i">William Blake's Illuminated Books: A Census (New York: Grolier Club, 1953) 13; Wise apparently sold the book to the dealer Bernard Quaritch, from whom it was acquired in 1899 by Amy Lowell (1874-1925); bequeathed by Lowell in 1925 to the Houghton Library, Harvard University.</hi></note>
+                <note>Early history unknown; sold from the collection of Edwin Henry Lawrence (1819-91), Sotheby's, 9 May 1892, lot 60 (&#163;52 to the dealer John Pearson); apparently returned by Pearson (because of the missing plates?) and sold Sotheby's, 26 April 1893, lot 1086, with the missing plates noted (&#163;18 to Pearson); Thomas J. Wise; sold by Wise in 1899, according to Geoffrey Keynes and Edwin Wolf 2nd, *William Blake's Illuminated Books: A Census* (New York: Grolier Club, 1953) 13; Wise apparently sold the book to the dealer Bernard Quaritch, from whom it was acquired in 1899 by Amy Lowell (1874-1925); bequeathed by Lowell in 1925 to the Houghton Library, Harvard University.</note>
             </provenance>
             <repository>
                 <institution>Houghton Library</institution>
-                <addressline>Department of Printing and Graphic Arts</addressline>
-                <addressline>Harvard Yard</addressline>
-                <addressline>Harvard University</addressline>
-                <addressline>Cambridge, Massachusetts 02138</addressline>
-                <addressline>USA</addressline>
-                <addressline>Telephone: 1 617 495 2444</addressline>
-                <addressline>Fax: 1 617 495 1376</addressline>
-                <addressline>Email: pga@fas.harvard.edu</addressline>
-                <addressline>URL: http://www-hcl.harvard.edu/houghton/</addressline>
                 <department>Printing and Graphic Arts</department>
                 <repositoryid label="Call number">Amy Lowell Collection</repositoryid>
             </repository>
