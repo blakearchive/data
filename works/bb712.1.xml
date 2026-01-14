@@ -1,0 +1,2776 @@
+<bad catalog="bentley" catid="712" id="bb712.1." type="ann" copy="1" copyid="1" institution="cambridge" work="Blake's Annotations to Bacon's Essays Moral, Economical, and Political."
+     hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Blake's Annotations to Bacon's Essays Moral, Economical, and Political.">
+                    <main>Blake's Annotations to Bacon's *Essays Moral, Economical, and Political.*</main>
+                    <copy>Copy 1</copy> 
+                    : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name>University of California, Riverside; and 
+                    <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill 
+                </principal>
+                <respstmt>
+                </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file  approx. 144KB; 91 JPEG (ISO/IEC 10918) files ranging in size from 1.5MB to 2.8MB</extent>
+            <publicationstmt>Chapel Hill: Essick, Viscomi; UNC Libraries
+                <date>February 2026</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <updatestmt>
+                
+            </updatestmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2026</date> by Robert N. Essick and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher, the Institute for Advanced Technology in the Humanities.
+            Permission to reproduce the graphic images in this archive has been granted by the
+            owners of the originals for this publication only.<lb/>
+            <lb/>This image copyright © 2026 University of Cambridge.<lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>November 2025-February 2026</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Technical Editor: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Assistant Project Coordinator, University of Rochester: </resp>
+                    <name>Dani Garcia</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Kathrin Lachenmaier, </name>
+                    <name>Mary Learner, </name>
+                    <name>Huimin Li, </name>
+                    <name>Elizabeth McKay, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Gabby Tapia</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD creation and textual transcription</change>
+                <date>September 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images acquired, scanned, and catalogued</change>
+                <date>2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title type="editorial">
+                        Blake's Annotations to Bacon's *Essays Moral, Economical, and Political.*
+                    </title>
+                </objtitle>
+                <origination>William Blake 
+                    <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                <origination>Francis Bacon
+                    <role>author of the printed text</role>
+                </origination>
+                <origination>T. Bensley
+                    <role>printer of the letterpress text</role>
+                </origination>
+                <imprint>
+                    <title>Essays Moral, Economical, and Political.</title>
+                    <publisher>J. Edwards, Pall Mall, and T. Payne, Mews Gate</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1798</date>
+                </imprint>
+                <compdate value="1798">
+                    c. 1798
+                    <note>Based on the content of Blake's marginalia, Bentley (page 682) suggests the annotations were made shortly after the edition's publication in 1798.</note>
+                </compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1798">1798</printdate>
+                <numberobj>91<note>There are annotations on 91 pages (70 leaves) out of the 270 total pages (not inlcuding flyleaves) of the printed book. We have reproduced only the objects bearing annotations.</note></numberobj>
+                <objorder>1-91</objorder>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <numberleaves>70</numberleaves>
+                <leafsize>16.5 x 10.2 cm.</leafsize>
+                <medium>pencil</medium>
+                <support>wove paper</support>
+                <watermark>none</watermark>
+                <binding>Bound in green cloth over the original boards; some pages are now loose.</binding>
+            </objinfo>
+            <provenance n="1">
+                <name>University of Cambridge Library</name>
+                <date>1982</date>
+                <dealer>None</dealer>
+                <price>None</price>
+                <note>Owned and annotated by Blake c. 1798; probably acquired by Blake's wife, Catherine, upon his death in 1827; acquired by “Samuel Palmer/1833” (according to the note on the first endpaper); 
+                    presumably passed on to his son, A. H. Palmer, upon his father’s death in 1881; 
+                    held by Lionel Isaacs of the Haymarket in London c. 1900 (according to Geoffrey Keynes, *A Bibliography of William Blake* [New York: Grolier Club, 1921], page 51); 
+                    acquired by bookseller George T. Goodspeed no earlier than c. 1900 and no later than c. 1929 (according to Geoffrey Keynes, *The Gates of Memory* [Oxford: Clarendon P, 1981], page 301); 
+                    acquired by Josiah K. Lilly, Jr. from Goodspeed's of Boston c. 1929; sold by Lilly to Geoffrey Keynes for $1,000 in 1947 (according to Keynes, *The Gates of Memory*, page 302); 
+                    acquired by the University of Cambridge Library by bequest upon Keynes’ death in 1982.</note>
+            </provenance>
+            <repository>
+                <institution>University of Cambridge</institution>
+                <department>Cambridge University Library</department>
+                <collection>Keynes Collection</collection>
+                <repositoryid label="Call number">Keynes.U.4.20</repositoryid>
+                <repositoryid label="Barcode">44CAMR0226682</repositoryid>
+                <lb/>
+            </repository>
+        </source>
+    </objdesc>
+        <desc id="bb712.1.ann.01" dbi="BB712.1.1-halftitle.ann">
+            <objtitle>
+                <title type="editorial">Half-title Page</title>
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objcode code="Bhalf-title-page">(Bentley Half-title page, </objcode>
+                    <objcode code="Ehalf-title-page">Erdman Half-title page)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <lg justify="left">
+                    <l n="bb712.1.ann.01.01" justify="left">Is it True or is it False that the</l>
+                    <l n="bb712.1.ann.01.02" justify="left">Wisdom of this World is Foolishness</l>
+                    <l n="bb712.1.ann.01.03" justify="left">with God</l>
+                </lg>
+                <vspace extent="10"/>
+                <lg justify="left">
+                    <l n="bb712.1.ann.01.04" justify="left" indent="0.5">This is Certain</l>
+                    <l n="bb712.1.ann.01.05" justify="left" indent="0.5">If what Bacon says Is True</l>
+                    <l n="bb712.1.ann.01.06" justify="left" indent="1">what Christ says Is False</l>
+                    <l n="bb712.1.ann.01.07" justify="left">If Caesar is Right</l>
+                    <l n="bb712.1.ann.01.08" justify="left" indent="0.5">Christ is Wrong both in</l>
+                    <l n="bb712.1.ann.01.09" justify="left">Politics &#38; Religion since they</l>
+                    <l n="bb712.1.ann.01.10" justify="left">will divide them in Two</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.02" dbi="BB712.1.2-title.ann">
+            <objtitle>
+                <title type="supplied">Title Page</title>
+                <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                    <objcode code="Btitle-page">(Bentley Title-page, </objcode>
+                    <objcode code="Etitle-page">Erdman Title page)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="10"/>
+                <lg>
+                    <l n="bb712.1.ann.02.01" justify="center">Good Advice for <choice>
+                        <orig>Satans</orig>
+                        <reg>Satan's</reg>
+                    </choice> Kingdom</l> 
+                </lg>
+                <vspace extent="25"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.03" dbi="BB712.1.3-preface.ann">
+            <objtitle>
+                <title type="supplied">Preface</title>
+                <objid>
+                    <objnumber code="A3">Object 3</objnumber>
+                    <objcode code="Bi">(Bentley i, Editor's Preface, </objcode>
+                    <objcode code="Ei">Erdman i)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <lg>
+                    <l n="bb712.1.ann.03.01" justify="left" indent="0.5">I am <choice><orig>astonishd</orig><reg>astonished</reg></choice> how such Contemptible</l>
+                    <l n="bb712.1.ann.03.02" justify="left">Knavery &#38; Folly as this Book contains</l>
+                    <l n="bb712.1.ann.03.03" justify="left" indent="0.5">can ever have been <choice><orig>calld</orig><reg>called</reg></choice> Wisdom by</l> 
+                    <l n="bb712.1.ann.03.04" justify="left" indent="0.5">Men of Sense but perhaps this never</l> 
+                    <l n="bb712.1.ann.03.05" justify="left" indent="0.5">was the <subst><del type="overwrite">c</del><add place="inline">C</add></subst>ase &#38; all Men of Sense have<note>Blake wrote this line over the printed title "P R E F A C E."</note><note>The capitol "C" in "Case" appears to have been written over a lowercase "c".</note></l>
+                    <l n="bb712.1.ann.03.06" justify="left" indent="0.5"><choice><orig>dispised</orig><reg>despised</reg></choice> the Book as <choice><orig>Muchas</orig><reg>Much as</reg></choice> I do<note>Erdman reads "dispised" as "despised" and Bentley (*Writings* volume 2, page 1425) and Erdman read "Muchas" as "Much as"(620).</note></l>
+                    <l n="bb712.1.ann.03.07" justify="left" indent="20"><unclear resp="MG">
+                        <subst>
+                            <del type="overwrite"><gap reason="illegible" extent="1" unit="character"/></del>
+                            <add place="inline">P</add></subst>er</unclear> William Blake<note>The unclear "P" in "Per" appears to be written over an incomplete character. Bentley (*Writings* vol 2, page 1425) and Erdman (620) read "Per" with confidence.</note></l>
+                </lg>
+                <vspace extent="20"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.04" dbi="BB712.1.4-iv.ann">
+            <objtitle>
+                <title type="supplied">Page iv</title>
+                <objid>
+                    <objnumber code="A4">Object 4</objnumber>
+                    <objcode code="Biv">(Bentley iv, </objcode>
+                    <objcode code="Eiv">Erdman iv)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="12"/>
+                <lg>
+                    <l n="bb712.1.ann.04.01" justify="left">Erratum</l> 
+                    <l n="bb712.1.ann.04.02" justify="left" indent="0.5">to <choice><orig>Mens</orig><reg>Men's</reg></choice><space extent="40"/><hi rend="u">business and</hi><note>Blake has underlined the phrase "business and" in the printed text.</note></l>
+                    <l n="bb712.1.ann.04.03" justify="left" indent="9.5">"<hi rend="u">bosoms,"</hi><note>Blake has underlined "bosoms,'" in the printed text.</note></l>
+                    <l n="bb712.1.ann.04.04" justify="left" indent="1.5">Pockets</l> 
+                </lg>
+                <vspace extent="13"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.05" dbi="BB712.1.5.ann">
+            <objtitle>
+                <objid>
+                    <objnumber code="A5">Object 5</objnumber>
+                    <objcode code="Bxii">(Bentley xii, </objcode>
+                    <objcode code="Exii">Erdman xii)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>                    
+                <lg>
+                    <l n="bb712.1.ann.05.01" justify="left" indent="0.5"><choice>
+                        <orig>Every Body</orig>
+                        <reg>Everybody</reg>
+                    </choice> Knows that this is <choice><orig>Epi</orig><reg type="split_word">Epicurus</reg></choice></l>
+                    <l n="bb712.1.ann.05.02" justify="left">-<choice><orig>curus</orig><reg type="split_word">Epicurus</reg></choice> &#38; Lucretius &#38; Yet <choice>
+                        <orig>Every Body</orig>
+                        <reg>Everybody</reg>
+                    </choice><note>Bentley (*Writings* volume 2, page 1425) and Erdman (620) read the first ampersand in this line as "and".</note></l>
+                    <l n="bb712.1.ann.05.03" justify="left" indent="0.5">Says that it is Christian <choice><orig>Philosopy</orig><reg>Philosophy</reg></choice><note>Bentley (*Writings* volume 2, page 1425) and Erdman (620) read "Philosopy" as "Philosophy".</note></l>
+                    <l n="bb712.1.ann.05.04" justify="left" indent="0.5">how is this Possible <choice>
+                        <orig>Every Body</orig>
+                        <reg>Everybody</reg>
+                    </choice></l>
+                    <l n="bb712.1.ann.05.05" justify="left" indent="0.5">must be a Liar &#38; <choice><orig>deciever</orig><reg>deceiver</reg></choice> but</l>
+                    <l n="bb712.1.ann.05.06" justify="left" indent="1.5"><choice>
+                        <orig>Every Body</orig>
+                        <reg>Everybody</reg>
+                    </choice> does not do this But</l>
+                    <l n="bb712.1.ann.05.07" justify="left" indent="1">The Hirelings of Kings &#38; Courts</l>
+                    <l n="bb712.1.ann.05.08" justify="left" indent="1">who make themselves <choice><orig>Every Body</orig><reg>Everybody</reg></choice></l>
+                    <l n="bb712.1.ann.05.09" justify="left" indent="1">&#38; Knowingly propagate <choice><orig>Falshood</orig><reg>Falsehood</reg></choice></l>
+                    <l n="bb712.1.ann.05.10" justify="left" indent="3">It was a Common opinion in</l>
+                    <l n="bb712.1.ann.05.11" justify="left" indent="1.5">the Court of Queen Elizabeth that</l>
+                    <l n="bb712.1.ann.05.12" justify="left" indent="1.5">Knavery Is Wisdom. Cunning<note>Erdman replaces the period at the end of this line with a colon (620).</note></l>
+                    <l n="bb712.1.ann.05.13" justify="left" indent="1.5">Plotters were <choice><orig>considerd</orig><reg>considered</reg></choice> as wise</l>
+                    <l n="bb712.1.ann.05.14" justify="left" indent="2">Machiavels</l>
+                </lg>
+                <vspace extent="4"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.06" dbi="BB712.1.6-1.ann">
+        <objtitle>
+            <title type="supplied">Page 1</title>
+            <objid>
+                <objnumber code="A6">Object 6</objnumber>
+                <objcode code="B1">(Bentley 1, </objcode>
+                <objcode code="E1">Erdman 1)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+            <phystext>
+                <lg>
+                    <l n="bb712.1.ann.06.01" justify="left" indent="3.5"><choice>
+                        <orig>Self Evident</orig>
+                        <reg>Self-Evident</reg>
+                    </choice> Truth is one Th<unclear resp="MG">in</unclear>g<note>The characters "in" in "Thing" are poorly fored.</note></l>
+                    <l n="bb712.1.ann.06.02" justify="left">and Truth the result of Reasoning is</l>
+                    <l n="bb712.1.ann.06.03" justify="left">another Thing Rational Truth is not</l>
+                    <l n="bb712.1.ann.06.04" justify="left" indent="0.5">the Truth of Christ but of Pilate</l>
+                    <l n="bb712.1.ann.06.05" justify="left" indent="22">It is the Tree of</l>
+                    <l n="bb712.1.ann.06.06" justify="left" indent="22.5">the Knowledge</l>
+                    <l n="bb712.1.ann.06.07" justify="left" indent="22.5">of Good &#38; Evil</l>
+                </lg>
+                <vspace extent="10"/>
+                <lg>
+                    <l n="bb712.1.ann.06.08" justify="left" indent="30">But more</l>
+                    <l n="bb712.1.ann.06.09" justify="left" indent="30.5">Nerve if</l>
+                    <l n="bb712.1.ann.06.10" justify="left" indent="30">by Ancients</l>
+                    <l n="bb712.1.ann.06.11" justify="left" indent="30">he means</l>
+                    <l n="bb712.1.ann.06.12" justify="left" indent="30"><unclear resp="MG">H</unclear>eathen<note>The "H" in "Heathen" is poorly formed.</note></l>
+                    <l n="bb712.1.ann.06.13" justify="left" indent="30.5">Authors</l>
+                </lg>
+                <vspace extent="1"/>
+            </phystext>
+    </desc>
+        <desc id="bb712.1.ann.07" dbi="BB712.1.7-2.ann">
+            <objtitle>
+                <title type="supplied">Page 2</title>
+                <objid>
+                    <objnumber code="A7">Object 7</objnumber>
+                    <objcode code="B2">(Bentley 2, </objcode>
+                    <objcode code="E2">Erdman 2)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="7"/>
+                <lg>
+                    <l n="bb712.1.ann.07.01" justify="left">What Bacon</l>
+                    <l n="bb712.1.ann.07.02" justify="left">calls Lies</l>
+                    <l n="bb712.1.ann.07.03" justify="left">is Truth</l>
+                    <l n="bb712.1.ann.07.04" justify="left">itself</l>
+                </lg>
+                <vspace extent="20"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.08" dbi="BB712.1.8-3.ann">
+            <objtitle>
+                <title type="supplied">Page 3</title>
+                <objid>
+                    <objnumber code="A8">Object 8</objnumber>
+                    <objcode code="B3">(Bentley 3, </objcode>
+                    <objcode code="E3">Erdman 3)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="15"/>
+                <lg>
+                    <l n="bb712.1.ann.08.01" justify="left" indent="45"><choice><orig>Preten<unclear resp="MG">c</unclear>e</orig><reg>Pretense</reg></choice> to <note>The "c" in "Pretence" is poorly formed.</note></l>
+                    <l n="bb712.1.ann.08.02" justify="left" indent="45.5">Religion</l>
+                    <l n="bb712.1.ann.08.03" justify="left" indent="46">to destroy</l>
+                    <l n="bb712.1.ann.08.04" justify="left" indent="45.5">Religion</l>
+                </lg>
+                <vspace extent="15"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.09" dbi="BB712.1.9-4.ann">
+            <objtitle>
+                <title type="supplied">Page 4</title>
+                <objid>
+                    <objnumber code="A9">Object 9</objnumber>
+                    <objcode code="B4">(Bentley 4, </objcode>
+                    <objcode code="E4">Erdman 4)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="10"/>
+                <lg>
+                    <l n="bb712.1.ann.09.01" justify="left">Christianity</l>
+                    <l n="bb712.1.ann.09.02" justify="left">is Civil</l>
+                    <l n="bb712.1.ann.09.03" justify="left">Business</l>
+                    <l n="bb712.1.ann.09.04" justify="left" indent="1">Only</l>
+                    <l n="bb712.1.ann.09.05" justify="left" indent="0.5">There is</l>
+                    <l n="bb712.1.ann.09.06" justify="left">&#38; can Be</l>
+                    <l n="bb712.1.ann.09.07" justify="left" indent="0.5">No Other</l>
+                    <l n="bb712.1.ann.09.08" justify="left">to M<unclear resp="MG">a</unclear>n<note>The "a" in "Man" is poorly formed.</note></l>
+                    <l n="bb712.1.ann.09.09" justify="left">What Else</l>
+                    <l n="bb712.1.ann.09.10" justify="left">Can Be</l>
+                    <l n="bb712.1.ann.09.11" justify="left" indent="1">Civil is</l>
+                    <l n="bb712.1.ann.09.12" justify="left" indent="1">Christianity or Religion or whatever</l>
+                    <l n="bb712.1.ann.09.13" justify="left" indent="1">is Humane</l>
+                </lg>
+                <vspace extent="1"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.10" dbi="BB712.1.10-5.ann">
+            <objtitle>
+                <title type="supplied">Page 5</title>
+                <objid>
+                    <objnumber code="A10">Object 10</objnumber>
+                    <objcode code="B5">(Bentley 5, </objcode>
+                    <objcode code="E5">Erdman 5)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="10"/>
+                <lg>         
+                    <l n="bb712.1.ann.10.01" justify="left" indent="25">Bacon put an End to Faith</l>
+                </lg>
+                <vspace extent="20"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.11" dbi="BB712.1.11-6.ann">
+            <objtitle>
+                <title type="supplied">Page 6</title>
+                <objid>
+                    <objnumber code="A11">Object 11</objnumber>
+                    <objcode code="B6">(Bentley 6, </objcode>
+                    <objcode code="E6">Erdman 6)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="3"/>
+                <lg>
+                    <l n="bb712.1.ann.11.01" justify="left">Bacon</l>
+                    <l n="bb712.1.ann.11.02" justify="left" indent="0.5">Supposes<note>Erdman reads "Supposes" as "supposes" (621).</note></l>
+                    <l n="bb712.1.ann.11.03" justify="left" indent="0.5">all Men</l>
+                    <l n="bb712.1.ann.11.04" justify="left" indent="1">alike</l>
+                </lg>
+                <vspace extent="7"/>
+                <lg>
+                    <l n="bb712.1.ann.11.05" justify="left">One <choice>
+                        <orig>Mans</orig>
+                        <reg>Man's</reg>
+                    </choice></l>
+                    <l n="bb712.1.ann.11.06" justify="left">Revenge</l>
+                    <l n="bb712.1.ann.11.07" justify="left">or Love</l>
+                    <l n="bb712.1.ann.11.08" justify="left" indent="0.5">is not the</l>
+                    <l n="bb712.1.ann.11.09" justify="left">same as</l>
+                    <l n="bb712.1.ann.11.10" justify="left" indent="0.5"><choice>
+                        <orig>anothers</orig>
+                        <reg>another's</reg>
+                    </choice></l>
+                    <l n="bb712.1.ann.11.12" justify="left">The tender</l>
+                    <l n="bb712.1.ann.11.13" justify="left">Mercies</l>
+                    <l n="bb712.1.ann.11.14" justify="left" indent="1">of some Men are Cruel</l>
+                </lg>
+                <vspace extent="2"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.12" dbi="BB712.1.12-8.ann">
+            <objtitle>
+                <title type="supplied">Page 8</title>
+                <objid>
+                    <objnumber code="A12">Object 12</objnumber>
+                    <objcode code="B8">(Bentley 8, </objcode>
+                    <objcode code="E8">Erdman 8)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="15"/>
+                <lg>
+                    <l n="bb712.1.ann.12.01" justify="left">False O<space extent="2"/>u<hi rend="u">nknown to the heathen</hi>.<note>Blake has underlined part of the phrase, "unknown to the heathen", in the printed text.</note></l>
+                    <l n="bb712.1.ann.12.02" justify="left" indent="1">Satan</l>
+                </lg>
+                <vspace extent="3"/>
+                <lg>
+                    <l n="bb712.1.ann.12.03" justify="left">Prophets<space extent="33"/><hi rend="u"> poets.</hi><note>Blake has underlined the word "poets" in the printed text.</note></l>
+                </lg>
+                <vspace extent="10"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.13" dbi="BB712.1.13-9.ann">
+            <objtitle>
+                <title type="supplied">Page 9</title>
+                <objid>
+                    <objnumber code="A13">Object 13</objnumber>
+                    <objcode code="B9">(Bentley 9, </objcode>
+                    <objcode code="E9">Erdman 9)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="9"/>
+                <lg>
+                    <l n="bb712.1.ann.13.01" justify="left" indent="45">False</l>                  
+                </lg>
+                <vspace extent="20"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.14" dbi="BB712.1.14-10.ann">
+            <objtitle>
+                <title type="supplied">Page 10</title>
+                <objid>
+                    <objnumber code="A14">Object 14</objnumber>
+                    <objcode code="B10">(Bentley 10, </objcode>
+                    <objcode code="E10">Erdman 10)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>  
+            </physdesc>
+            <phystext>
+                <vspace extent="6"/>
+                <lg>
+                    <l n="bb712.1.ann.14.01" justify="left">Tr<unclear resp="MG">i</unclear>fli<unclear resp="MG">n</unclear>g<note>The word "Trifling" is poorly formed.</note></l>
+                    <l n="bb712.1.ann.14.02" justify="left">Nonsense</l>
+                </lg>
+                <vspace extent="20"/>
+            </phystext>
+        </desc>
+        <desc id="bb712.1.ann.15" dbi="BB712.1.15-12.ann">
+            <objtitle>
+                <title type="supplied">Page 12</title>
+                <objid>
+                    <objnumber code="A15">Object 15</objnumber>
+                    <objcode code="B12">(Bentley 12, </objcode>
+                    <objcode code="E12">Erdman 12)</objcode>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>16.5 x 10.2 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>
+                <vspace extent="4"/>
+                <lg>
+                    <l n="bb712.1.ann.15.01" justify="left">Lame</l>
+                    <l n="bb712.1.ann.15.02" justify="left">Reasoning</l>
+                    <l n="bb712.1.ann.15.03" justify="left" indent="1">upon</l>
+                    <l n="bb712.1.ann.15.04" justify="left">Premises</l>
+                </lg>
+                <lg>
+                    <l n="bb712.1.ann.15.05" justify="left" indent="1">This</l>
+                    <l n="bb712.1.ann.15.06" justify="left" indent="1.5">Never</l>
+                    <l n="bb712.1.ann.15.07" justify="left" indent="0.5">can Happen</l>
+                </lg>
+                <vspace extent="15"/>
+            </phystext>
+        </desc>
+    <desc id="bb712.1.ann.16" dbi="BB712.1.16-14.ann">
+        <objtitle>
+            <title type="supplied">Page 14</title>
+            <objid>
+                <objnumber code="A16">Object 16</objnumber>
+                <objcode code="B14">(Bentley 14, </objcode>
+                <objcode code="E14">Erdman 14)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="26"/>
+            <lg>
+                <l n="bb712.1.ann.16.01" justify="left">Did not Jesus descend &#38; become a Servant</l>
+                <l n="bb712.1.ann.16.02" justify="left" indent="0.5">The Prince of darkness is a Gentleman &#38;</l>
+                <l n="bb712.1.ann.16.03" justify="left" indent="0.5">not a Man he is a Lord Chancellor</l>
+            </lg>
+            <vspace extent="1"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.17" dbi="BB712.1.17.ann">
+        <objtitle>
+            <title type="supplied">Page 17</title>
+            <objid>
+                <objnumber code="A17">Object 17</objnumber>
+                <objcode code="B17">(Bentley 17, </objcode>
+                <objcode code="E17">Erdman 17)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="28"/>
+            <lg>
+                <l n="bb712.1.ann.17.01" justify="left" indent="45">A Lie</l>
+            </lg>
+            <vspace extent="4"/>        
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.18" dbi="BB712.1.18-22.ann">
+        <objtitle>
+            <title type="supplied">Page 22</title>
+            <objid>
+                <objnumber code="A18">Object 18</objnumber>
+                <objcode code="B22">(Bentley 22, </objcode>
+                <objcode code="E22">Erdman 22)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="28"/>
+            <lg>
+                <l n="bb712.1.ann.18.01" justify="left" indent="43">This is</l>
+                <l n="bb712.1.ann.18.02" justify="left" indent="20"><hi rend="u">nakedness is uncomely,</hi><space extent="1.5"/> Folly<note>Blake has underlined the phrase "nakedness is uncomely," in the printed.</note></l>
+                <l n="bb712.1.ann.18.03" justify="left" indent="44">Itself</l>
+            </lg>
+            <vspace extent="5"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.19" dbi="BB712.1.19-32.ann">
+        <objtitle>
+            <title type="supplied">Page 32</title>
+            <objid>
+                <objnumber code="A19">Object 19</objnumber>
+                <objcode code="B32">(Bentley 32, </objcode>
+                <objcode code="E32">Erdman 32)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="15"/>
+            <lg>
+                <l n="bb712.1.ann.19.01" justify="left">What do these</l>
+                <l n="bb712.1.ann.19.02" justify="left">Knaves mean</l>
+                <l n="bb712.1.ann.19.03" justify="left">by Virtue</l>
+                <l n="bb712.1.ann.19.04" justify="left" indent="0.5">Do they</l>
+                <l n="bb712.1.ann.19.05" justify="left" indent="0.5">mean War</l>
+                <l n="bb712.1.ann.19.06" justify="left" indent="0.5">&#38; its horrors</l>
+                <l n="bb712.1.ann.19.07" justify="left" indent="0.5">&#38; its Heroic</l>
+                <l n="bb712.1.ann.19.08" justify="left" indent="1.5">Villains</l>
+            </lg>
+            <vspace extent="5"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.20" dbi="BB712.1.20-37.ann">
+        <objtitle>
+            <title type="supplied">Page 37</title>
+            <objid>
+                <objnumber code="A20">Object 20</objnumber>
+                <objcode code="B37">(Bentley 37, </objcode>
+                <objcode code="E37">Erdman 37)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="15"/>
+            <lg>
+                <l n="bb712.1.ann.20.01" justify="left" indent="45">Politic</l>
+                <l n="bb712.1.ann.20.02" justify="left" indent="45.5">Foolery</l>
+                <l n="bb712.1.ann.20.03" justify="left" indent="45.5">&#38; most</l>
+                <l n="bb712.1.ann.20.04" justify="left" indent="45.5">contemptible</l>
+                <l n="bb712.1.ann.20.05" justify="left" indent="47">Villainy</l>
+                <l n="bb712.1.ann.20.06" justify="left" indent="45">&#38; Murder</l>
+            </lg>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.20.07" justify="left" indent="45">Foolish</l>
+                <l n="bb712.1.ann.20.08" justify="left" indent="45.5">&#38; tells into <note>The erasure in the line below has partially affected the bottom half of this line.</note></l>
+                <l n="bb712.1.ann.20.09" justify="left">the hands of a Tyrant <gap reason="cancellation" extent="34" unit="character"/><note>There is illegible text directly after "Tyrant" that has been erased.</note></l>
+            </lg>
+            <vspace extent="3"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.21" dbi="BB712.1.21-38.ann">
+        <objtitle>
+            <title type="supplied">Page 38</title>
+            <objid>
+                <objnumber code="A21">Object 21</objnumber>
+                <objcode code="B38">(Bentley 38, </objcode>
+                <objcode code="E38">Erdman 38)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="25"/>
+            <lg>
+                <l n="bb712.1.ann.21.01" justify="left">A Lie</l>
+                <l n="bb712.1.ann.21.02" justify="left" indent="0.5">Ev<unclear resp="MG">ery</unclear><note>The word "Every" is poorly formed.</note></l>
+                <l n="bb712.1.ann.21.03" justify="left" indent="0.5">Body</l>
+                <l n="bb712.1.ann.21.04" justify="left">hates a</l>
+                <l n="bb712.1.ann.21.05" justify="left" indent="1">King</l>
+                <l n="bb712.1.ann.21.06" justify="left" indent="2">Bacon was afraid to say that the Envy</l>
+                <l n="bb712.1.ann.21.07" justify="left" indent="2">was upon a King but is This Envy</l>
+                <l n="bb712.1.ann.21.08" justify="left" indent="9">or Indignation</l>
+            </lg>
+            <vspace extent="1"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.22" dbi="BB712.1.22-44.ann">
+        <objtitle>
+            <title type="supplied">Page 44</title>
+            <objid>
+                <objnumber code="A22">Object 22</objnumber>
+                <objcode code="B44">(Bentley 44, </objcode>
+                <objcode code="E44">Erdman 44)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.22.01" justify="left">Thought</l>
+                <l n="bb712.1.ann.22.02" justify="left" indent="3">Is</l>
+                <l n="bb712.1.ann.22.03" justify="left" indent="1.5">Act.</l>
+                <l n="bb712.1.ann.22.04" justify="left" indent="2.5"><choice>
+                    <orig>Christs</orig>
+                    <reg>Christ's</reg>
+                </choice> Acts were Nothing to <choice>
+                    <orig>Caesers</orig>
+                    <reg>Caesar's</reg>
+                </choice></l>
+                <l n="bb712.1.ann.22.05" justify="left" indent="2">if this is not so</l>
+            </lg>
+            <vspace extent="1"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.23" dbi="BB712.1.23-45.ann">
+        <objtitle>
+            <title type="supplied">Page 45</title>
+            <objid>
+                <objnumber code="A23">Object 23</objnumber>
+                <objcode code="B45">(Bentley 45, </objcode>
+                <objcode code="E45">Erdman 45)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.23.01" justify="left" indent="45">Here is</l>
+                <l n="bb712.1.ann.23.02" justify="left" indent="45">nothing of</l>
+                <l n="bb712.1.ann.23.03" justify="left" indent="45.5">Thy own</l>
+                <l n="bb712.1.ann.23.04" justify="left" indent="46">Original</l>
+                <l n="bb712.1.ann.23.05" justify="left" indent="46">Genius</l>
+                <l n="bb712.1.ann.23.06" justify="left" indent="46">but only</l>
+                <l n="bb712.1.ann.23.07" justify="left" indent="45.5">Imitation</l>
+                <l n="bb712.1.ann.23.08" justify="left" indent="48">what</l>
+                <l n="bb712.1.ann.23.09" justify="left" indent="46">Folly</l>
+            </lg>
+            <vspace extent="10"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.24" dbi="BB712.1.24-48.ann">
+        <objtitle>
+            <title type="supplied">Page 48</title>
+            <objid>
+                <objnumber code="A24">Object 24</objnumber>
+                <objcode code="B48">(Bentley 48, </objcode>
+                <objcode code="E48">Erdman 48)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.24.01" justify="left" indent="0.5">A Flogging Magistrate I have seen</l>
+                <l n="bb712.1.ann.24.02" justify="left">many such fly blows of Bacon</l> 
+            </lg>
+            <vspace extent="5"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.25" dbi="BB712.1.25-54.ann">
+        <objtitle>
+            <title type="supplied">Page 54</title>
+            <objid>
+                <objnumber code="A25">Object 25</objnumber>
+                <objcode code="B54">(Bentley 54, </objcode>
+                <objcode code="E54">Erdman 54)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="17"/>
+            <lg>
+                <l n="bb712.1.ann.25.01" justify="left" indent="0.5">Except</l>
+                <l n="bb712.1.ann.25.02" justify="left">is Christ</l>
+                <l n="bb712.1.ann.25.03" justify="left" indent="1">You Lie</l>
+                <l n="bb712.1.ann.25.04" justify="left">Except did</l>
+                <l n="bb712.1.ann.25.05" justify="left" indent="5"><add place="supralinear" type="insertion" symbol="caret">Ev<unclear resp="MG">e</unclear>r</add><note>The second "e" in "Every" is poorly formed.</note></l>
+                <l n="bb712.1.ann.25.06" justify="left"><choice><orig>any one</orig><reg>anyone</reg></choice> do</l>
+                <l n="bb712.1.ann.25.07" justify="left" indent="7"><add type="insertion" symbol="caret" place="supralinear">^</add></l>
+                <l n="bb712.1.ann.25.08" justify="left">this &#38; not</l>
+                <l n="bb712.1.ann.25.09" justify="left">follow Christ</l>
+                <l n="bb712.1.ann.25.10" justify="left" indent="1">Who Does<note>Erdman reads "Who" as "who" (623).</note></l>
+                <l n="bb712.1.ann.25.11" justify="left" indent="1">by Nature</l>
+                
+            </lg>
+            <vspace extent="6"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.26" dbi="BB712.1.26-55.ann">
+        <objtitle>
+            <title type="supplied">Page 55</title>
+            <objid>
+                <objnumber code="A26">Object 26</objnumber>
+                <objcode code="B55">(Bentley 55, </objcode>
+                <objcode code="E55">Erdman 55)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objnote>
+                <p>On the right-hand margin of this page, Blake has drawn a vertical chain spanning the length of the page and the last link in the chain encircles the phrase, "A King". 
+                    Bentley notes that remnants of an erased image and some script are located at the top of the chain and suggests that the erased portion is a buttocks captioned with the phrase: 
+                    "The Devils arse" (*Writings* vol 2, 1430). Erdman suggests the chain is excremented from "The Devils arse" (624). For further reading, see "Blake, Bacon and 'The Devils Arse'", *Blake/An Illustrated Quarterly* 37.4 (spring 2004) by Robert W. Rix.</p>
+            </objnote>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="30"/>
+            <lg>
+                <l n="bb712.1.ann.26.01" justify="left" indent="45">A King</l> 
+            </lg>
+            <vspace extent="5"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.27" dbi="BB712.1.27-56.ann">
+        <objtitle>
+            <title type="supplied">Page 56</title>
+            <objid>
+                <objnumber code="A27">Object 27</objnumber>
+                <objcode code="B56">(Bentley 56, </objcode>
+                <objcode code="E56">Erdman 56)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="9"/>
+            <lg>
+                <l n="bb712.1.ann.27.01" justify="left">O Contemptible</l>
+                <l n="bb712.1.ann.27.02" justify="left" indent="1">&#38; Abject</l>
+                <l n="bb712.1.ann.27.03" justify="left" indent="3.5">Slave</l>
+            </lg>
+            <vspace extent="15"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.28" dbi="BB712.1.28-58.ann">
+        <objtitle>
+            <title type="supplied">Page 58</title>
+            <objid>
+                <objnumber code="A28">Object 28</objnumber>
+                <objcode code="B58">(Bentley 58, </objcode>
+                <objcode code="E58">Erdman 58)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="16"/>
+            <lg>
+                <l n="bb712.1.ann.28.01" justify="left" indent="0.5">Fear</l>
+                <l n="bb712.1.ann.28.02" justify="left">Cannot</l>
+                <l n="bb712.1.ann.28.03" justify="left" indent="2">Love</l>
+            </lg>
+            <vspace extent="12"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.29" dbi="BB712.1.29-60.ann">
+        <objtitle>
+            <title type="supplied">Page 60</title>
+            <objid>
+                <objnumber code="A29">Object 29</objnumber>
+                <objcode code="B60">(Bentley 60, </objcode>
+                <objcode code="E60">Erdman 60)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.29.01" justify="left">Blasphemy</l>
+            </lg>
+            <vspace extent="4"/>
+            <lg>
+                <l n="bb712.1.ann.29.02" justify="left">Is Nobility</l>
+                <l n="bb712.1.ann.29.03" justify="left" indent="0.5">a portion</l>
+                <l n="bb712.1.ann.29.04" justify="left" indent="0.5">of a State</l>
+                <l n="bb712.1.ann.29.05" justify="left">i. e Republic</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg>
+                <l n="bb712.1.ann.29.06" justify="left" indent="27">d<hi rend="u">emocracies they ne</hi>ed<note>Blake has partially underlined the phrase, "democracies they need", in the printed text.</note></l>
+                <l n="bb712.1.ann.29.07" justify="left"><choice><orig>SelfContradiction</orig><reg>Self Contradiction</reg><reg>Self-Contradiction</reg></choice><note>Bentley (*Writings* volume 2, page 1431) and Erdman (624) read "SelfContradiction" as "Self Contradiction".</note></l>
+                <l n="bb712.1.ann.29.08" justify="left"  indent="25">comm<hi rend="u">only more quiet, and l</hi>ess<note>Blake has partially underlined the phrase, "commonly more quiet, and less" in the printed text.</note></l>
+                <l n="bb712.1.ann.29.09" justify="left">Knave</l>
+                <l n="bb712.1.ann.29.10" justify="left">&#38; Fool</l>
+            </lg>
+            <vspace extent="10"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.30" dbi="BB712.1.30-62.ann">
+        <objtitle>
+            <title type="supplied">Page 62</title>
+            <objid>
+                <objnumber code="A30">Object 30</objnumber>
+                <objcode code="B62">(Bentley 62, </objcode>
+                <objcode code="E62">Erdman 62)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="5"/>
+            <lg>
+                <l n="bb712.1.ann.30.01" justify="left" indent="0.5">Virtuous</l>
+                <l n="bb712.1.ann.30.02" justify="left">I Supposed<note>Erdman (624) reads "Supposed" as "supposed".</note></l>
+                <l n="bb712.1.ann.30.03" justify="left">to be <choice><orig>I<unclear resp="MG">nn</unclear>ocen<unclear resp="MG">ts</unclear></orig><reg>Innocence</reg></choice><note>Bentley omits the "s" from "Innocents" (*Writings* volume 2, page 1431).</note></l>
+                <l n="bb712.1.ann.30.04" justify="left">was I Mistaken</l>
+                <l n="bb712.1.ann.30.05" justify="left">or is Bacon</l>
+                <l n="bb712.1.ann.30.06" justify="left" indent="0.5">a Liar</l>
+            </lg>
+            <vspace extent="8"/>
+            <lg>
+                <l n="bb712.1.ann.30.07" justify="left" indent="1">Nonsense</l>
+            </lg>
+            <vspace extent="8"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.31" dbi="BB712.1.31-63.ann">
+        <objtitle>
+            <title type="supplied">Page 63</title>
+            <objid>
+                <objnumber code="A31">Object 31</objnumber>
+                <objcode code="B63">(Bentley 63, </objcode>
+                <objcode code="E63">Erdman 63)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="4"/>
+            <lg>
+                <l n="bb712.1.ann.31.01" justify="left" indent="5">This Section contradicts the Preceding</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg>
+                <l n="bb712.1.ann.31.02" justify="left" indent="45">What</l>
+                <l n="bb712.1.ann.31.03" justify="left" indent="45">Shepherds</l>
+                <l n="bb712.1.ann.31.04" justify="left" indent="36.5"><hi rend="u">equality;</hi><note>Blake has underlined the word "equality" in the printed text.</note></l>
+                <l n="bb712.1.ann.31.05" justify="left" indent="45.5">does he</l>
+                <l n="bb712.1.ann.31.06" justify="left" indent="45">mean Such</l>
+                <l n="bb712.1.ann.31.07" justify="left" indent="45.5">as Christ</l>
+                <l n="bb712.1.ann.31.08" justify="left" indent="41">describes by <choice><orig>Raven</orig><reg type="split_word">Ravening</reg></choice></l>
+                <l n="bb712.1.ann.31.09" justify="left" indent="44"><choice><orig>ing</orig><reg type="split_word">Ravening</reg> Wolves</choice> </l>
+            </lg>
+            <vspace extent="8"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.32" dbi="BB712.1.32-65.ann">
+        <objtitle>
+            <title type="supplied">Page 65</title>
+            <objid>
+                <objnumber code="A32">Object 32</objnumber>
+                <objcode code="B65">(Bentley 65, </objcode>
+                <objcode code="E65">Erdman 65)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.32.01" justify="left" indent="45">When the</l>
+                <l n="bb712.1.ann.32.02" justify="left" indent="45">Reverence</l>
+                <l n="bb712.1.ann.32.03" justify="left" indent="45">of Gov<unclear resp="MG">ernment</unclear><note>Bentley (*Writings* volume 2, page 1432) and Erdman (624) transcribe "Government" with certainty.</note></l>
+                <l n="bb712.1.ann.32.04" justify="left" indent="46">is Lost</l>
+                <l n="bb712.1.ann.32.05" justify="left" indent="45.5">it is better</l>
+                <l n="bb712.1.ann.32.06" justify="left" indent="45">than when</l>
+                <l n="bb712.1.ann.32.07" justify="left" indent="45">it is found</l>
+                <l n="bb712.1.ann.32.08" justify="left" indent="45">Reverence</l>
+                <l n="bb712.1.ann.32.09" justify="left" indent="37">is all For Reverence</l>
+            </lg>
+            <vspace extent="3"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.33" dbi="BB712.1.33-66.ann">
+        <objtitle>
+            <title type="supplied">Page 66</title>
+            <objid>
+                <objnumber code="A33">Object 33</objnumber>
+                <objcode code="B66">(Bentley 66, </objcode>
+                <objcode code="E66">Erdman 66)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="13"/>
+            <lg>
+                <l n="bb712.1.ann.33.01" justify="left">Four Pillars</l>
+                <l n="bb712.1.ann.33.02" justify="left">of different</l>
+                <l n="bb712.1.ann.33.03" justify="left">heights &#38;</l>
+                <l n="bb712.1.ann.33.04" justify="left" indent="2">Size<subst><del type="overwrite">d</del><add type="overwrite" place="inline">s</add></subst><note>The final "s" in "Sizes" appears to be written over a "d".</note></l>
+            </lg>
+            <vspace extent="9"/>
+            <lg>
+                <l n="bb712.1.ann.33.05" justify="left" indent="0.5">These are</l>
+                <l n="bb712.1.ann.33.06" justify="left">one Kind</l>
+                <l n="bb712.1.ann.33.07" justify="left" indent="2">Only</l>
+            </lg>
+            <vspace extent="3"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.34" dbi="BB712.1.34-67.ann">
+        <objtitle>
+            <title type="supplied">Page 67</title>
+            <objid>
+                <objnumber code="A34">Object 34</objnumber>
+                <objcode code="B67">(Bentley 67, </objcode>
+                <objcode code="E67">Erdman 67)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="12"/>
+            <lg>
+                <l n="bb712.1.ann.34.01" justify="left" indent="45">A Tyrant</l>
+                <l n="bb712.1.ann.34.02" justify="left" indent="45">is the Worst</l>
+                <l n="bb712.1.ann.34.03" justify="left" indent="45">disease &#38;</l>
+                <l n="bb712.1.ann.34.04" justify="left" indent="45">the Cause</l>
+                <l n="bb712.1.ann.34.05" justify="left" indent="45">of all others</l>
+            </lg>
+            <vspace extent="5"/>
+            <lg>
+                <l n="bb712.1.ann.34.06" justify="left" indent="45">a lie</l>
+            </lg>
+            <vspace extent="3"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.35" dbi="BB712.1.35-69.ann">
+        <objtitle>
+            <title type="supplied">Page 69</title>
+            <objid>
+                <objnumber code="A35">Object 35</objnumber>
+                <objcode code="B69">(Bentley 69, </objcode>
+                <objcode code="E69">Erdman 69)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="7"/>
+            <lg>
+                <l n="bb712.1.ann.35.01" justify="left" indent="45">You canno<unclear resp="MG">t</unclear><note>The "t" in "cannot" is poorly formed.</note></l>
+                <l n="bb712.1.ann.35.02" justify="left" indent="46">regulate</l>
+                <l n="bb712.1.ann.35.03" justify="left" indent="45">the price of</l>
+                <l n="bb712.1.ann.35.04" justify="left" indent="45">Necessaries</l>
+                <l n="bb712.1.ann.35.05" justify="left" indent="45">without</l>
+                <l n="bb712.1.ann.35.06" justify="left" indent="46.5">destruction</l>
+                <l n="bb712.1.ann.35.07" justify="left" indent="45.5">All False</l>
+            </lg>
+            <vspace extent="9"/>
+            <lg>
+                <l n="bb712.1.ann.35.08" justify="left" indent="45">The Increase of</l>
+                <l n="bb712.1.ann.35.09" justify="left" indent="45">a State as of</l>
+                <l n="bb712.1.ann.35.10" justify="left" indent="45">a Man is</l>
+                <l n="bb712.1.ann.35.11" justify="left" indent="45">from Internal</l>
+                <l n="bb712.1.ann.35.12" justify="left" indent="45.5">Improvement</l>
+                <l n="bb712.1.ann.35.13" justify="left" indent="4">or Intellectual Acquirement. Man is not</l>
+                <l n="bb712.1.ann.35.14" justify="left" indent="3">Improved by the hurt of another States are not</l>
+                <l n="bb712.1.ann.35.15" justify="left" indent="4">Improved at the Expense of Foreigners</l>
+            </lg>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.36" dbi="BB712.1.36-70.ann">
+        <objtitle>
+            <title type="supplied">Page 70</title>
+            <objid>
+                <objnumber code="A36">Object 36</objnumber>
+                <objcode code="B70">(Bentley 70, </objcode>
+                <objcode code="E70">Erdman 70)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="5"/>
+            <lg>
+                <l n="bb712.1.ann.36.01" justify="left">Bacon has</l>
+                <l n="bb712.1.ann.36.02" justify="left" indent="1">no notion</l>
+                <l n="bb712.1.ann.36.03" justify="left">of <choice><orig>any thing</orig><reg>anything</reg></choice></l>
+                <l n="bb712.1.ann.36.04" justify="left" indent="0.5">but Mammon</l>
+            </lg>
+            <vspace extent="20"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.37" dbi="BB712.1.37-71.ann">
+        <objtitle>
+            <title type="supplied">Page 71</title>
+            <objid>
+                <objnumber code="A37">Object 37</objnumber>
+                <objcode code="B71">(Bentley 71, </objcode>
+                <objcode code="E71">Erdman 71)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="7"/>
+            <lg>
+                <l n="bb712.1.ann.37.01" justify="left" indent="45">Good Advice</l>
+                <l n="bb712.1.ann.37.02" justify="left" indent="45"><choice><orig>forthe</orig><reg>for the</reg></choice> Devil<note>Bentley (*Writings* volume 2, page 1433) and Erdman (625) read "forthe" as "for the".</note></l>
+            </lg>
+            <vspace extent="20"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.38" dbi="BB712.1.38-72.ann">
+        <objtitle>
+            <title type="supplied">Page 72</title>
+            <objid>
+                <objnumber code="A38">Object 38</objnumber>
+                <objcode code="B72">(Bentley 72, </objcode>
+                <objcode code="E72">Erdman 72)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.38.01" justify="left">Subterfuges</l>
+            </lg>
+            <vspace extent="25"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.39" dbi="BB712.1.39-74.ann">
+        <objtitle>
+            <title type="supplied">Page 74</title>
+            <objid>
+                <objnumber code="A39">Object 39</objnumber>
+                <objcode code="B74">(Bentley 74, </objcode>
+                <objcode code="E374">Erdman 74)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="8"/>
+            <lg>
+                <l n="bb712.1.ann.39.01" justify="left" indent="0.5">Contemptible</l>
+                <l n="bb712.1.ann.39.02" justify="left" indent="4">Knave</l>
+                <l n="bb712.1.ann.39.03" justify="left">Let the People</l>
+                <l n="bb712.1.ann.39.04" justify="left">look to this</l>
+            </lg>
+            <vspace extent="5"/>
+            <lg>
+                <l n="bb712.1.ann.39.05" justify="left">Factious is</l>
+                <l n="bb712.1.ann.39.06" justify="left" indent="0.5">Not Popular</l>
+                <l n="bb712.1.ann.39.07" justify="left">&#38; never</l>
+                <l n="bb712.1.ann.39.08" justify="left" indent="0.5">can be except Factious is Christianity</l> 
+            </lg>
+            <vspace extent="8"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.40" dbi="BB712.1.40-75.ann">
+        <objtitle>
+            <title type="supplied">Page 75</title>
+            <objid>
+                <objnumber code="A40">Object 40</objnumber>
+                <objcode code="B75">(Bentley 75, </objcode>
+                <objcode code="E75">Erdman 75)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.40.01" justify="left" indent="42">The devil is<note>Erdman reads "devil" as "Devil" (625).</note></l>
+                <l n="bb712.1.ann.40.02" justify="left" indent="41.5">the Mind of the</l>
+                <l n="bb712.1.ann.40.03" justify="left" indent="47">Natural</l>
+                <l n="bb712.1.ann.40.04" justify="left" indent="40"><hi rend="u">mind:</hi><space extent="2.5"/><note>Blake has underlined the word "mind" in the printed text.</note></l>
+                <l n="bb712.1.ann.40.05" justify="left" indent="47.5">Frame</l>
+                <l n="bb712.1.ann.40.06" justify="left" indent="46">There is no</l>
+                <l n="bb712.1.ann.40.07" justify="left" indent="46">Such Thing</l>
+                <l n="bb712.1.ann.40.08" justify="left" indent="46">as a Sec<unclear resp="MG">on</unclear>d<note>The word "Second" is partially faded toward the edge of the page.</note></l>
+                <l n="bb712.1.ann.40.09" justify="left" indent="47">Cause</l> 
+                <l n="bb712.1.ann.40.10" justify="left" indent="46.5"><gap reason="illegible" extent="2" unit="character"/><unclear resp="MG">r</unclear> as a<note>Bentley (*Writings* volume 2, page 1434) and Erdman (626) read the partially illegible word in this line as "nor".</note></l> 
+                <l n="bb712.1.ann.40.11" justify="left" indent="46">Natural</l>
+                <l n="bb712.1.ann.40.12" justify="left" indent="47">Cause</l>
+                <l n="bb712.1.ann.40.13" justify="left" indent="45.5">for any</l>
+                <l n="bb712.1.ann.40.14" justify="left" indent="47">Thing in</l>
+                <l n="bb712.1.ann.40.15" justify="left" indent="48">any Way</l>
+            </lg>
+            <vspace extent="7"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.41" dbi="BB712.1.41-76.ann">
+        <objtitle>
+            <title type="supplied">Page 76</title>
+            <objid>
+                <objnumber code="A41">Object 41</objnumber>
+                <objcode code="B76">(Bentley 76, </objcode>
+                <objcode code="E76">Erdman 76)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.41.01" justify="left">He who says</l>
+                <l n="bb712.1.ann.41.02" justify="left">there are Second</l>
+                <l n="bb712.1.ann.41.03" justify="left" indent="0.5">Causes <unclear resp="MG">ha</unclear>s<note>The "s" in "has" is poorly formed.</note></l>
+                <l n="bb712.1.ann.41.04" justify="left" indent="1.5">already</l>
+                <l n="bb712.1.ann.41.05" justify="left" indent="1.5">denied a</l>
+                <l n="bb712.1.ann.41.06" justify="left" indent="1.5">First</l>
+                <l n="bb712.1.ann.41.07" justify="left">The Word</l>
+                <l n="bb712.1.ann.41.08" justify="left" indent="0.5">Cause is</l> 
+                <l n="bb712.1.ann.41.09" justify="left">a foolish</l> 
+                <l n="bb712.1.ann.41.10" justify="left" indent="2">Word</l>
+            </lg>
+            <vspace extent="15"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.42" dbi="BB712.1.42-77.ann">
+        <objtitle>
+            <title type="supplied">Page 77</title>
+            <objid>
+                <objnumber code="A42">Object 42</objnumber>
+                <objcode code="B77">(Bentley 77, </objcode>
+                <objcode code="E77">Erdman 77)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.42.01" justify="left" indent="45.5">A Lie!</l>
+                <l n="bb712.1.ann.42.02" justify="left" indent="45.5">Few believe</l>
+                <l n="bb712.1.ann.42.03" justify="left" indent="46">it is a</l>
+                <l n="bb712.1.ann.42.04" justify="left" indent="45.5">New Birth</l>
+                <l n="bb712.1.ann.42.05" justify="left" indent="45">Bacon was</l>
+                <l n="bb712.1.ann.42.06" justify="left" indent="45.5">a Contempla<unclear resp="MG">t</unclear><gap reason="illegible" extent="3" unit="character"/><note>Bentley (*Writings* volume 2, page 1434) and Erdman (626) read the partially illegible word in this line as "Contemplative" with certainty.</note></l>
+                <l n="bb712.1.ann.42.07" justify="left" indent="45.5">Atheist</l>
+                <l n="bb712.1.ann.42.08" justify="left" indent="21.5">Evidently an Epicurean</l> 
+                <l n="bb712.1.ann.42.09" justify="left" indent="1">Lucian <choice><orig>disbelievd</orig><reg>disbelieved</reg></choice> Heathen Gods he did not</l> 
+                <l n="bb712.1.ann.42.10" justify="left" indent="1">perhaps disbelieve for all that Bacon did</l>
+            </lg>
+            <vspace extent="5"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.43" dbi="BB712.1.43-78.ann">
+        <objtitle>
+            <title type="supplied">Page 78</title>
+            <objid>
+                <objnumber code="A43">Object 43</objnumber>
+                <objcode code="B78">(Bentley 79 [sic], </objcode>
+                <objcode code="E78">Erdman 78)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+            <objnote><p>Bentley mistakenly records this page of Bacon's *Essays* as "79" instead of page "78" (*Writings* volume 2, pages 1434-1435). 
+                He also erroneously records that the first five lines of Blake's annotations on the actual page "79" (Object 44) are located on this page (*Writings* volume 2, pages 1434-1435).</p>
+            </objnote>
+        </physdesc>
+        <phystext>
+            <vspace extent="11"/>
+            <lg>
+                <l n="bb712.1.ann.43.01" justify="left" indent="0.5">A Lie<space extent="3"/><hi rend="u"> adv</hi>ersities<note>Blake has partially underlined the word "adversities" in the printed text.</note><note>Erdman reads "A" as "a" (626).</note></l>
+                <l n="bb712.1.ann.43.02" justify="left" indent="1">An<note>Erdman reads "An" as "an" (626).</note></l>
+                <l n="bb712.1.ann.43.03" justify="left">Artifice{<note>Blake has drawn what appears to be a bracket originating from "Artifice", 
+                    the ends of which terminate near the words "nobility" and "God" in the printed text, emphasizing 3 lines from the text. The lower line of the bracket appears to underline "God". A short line also extends from "An" in the preceding line to the starting point of the bracket.</note></l>
+                <l n="bb712.1.ann.43.04" justify="left" indent="8"><hi rend="u">Go</hi>d</l>
+            </lg>
+            <vspace extent="6"/>
+            <lg>
+                <l n="bb712.1.ann.43.05" justify="left" indent="0.5"><choice><orig>Self</orig><reg type="split_word">self-contradiction</reg></choice></l>
+                <l n="bb712.1.ann.43.06" justify="left" indent="0.5"><choice><orig>Contradictio<unclear resp="MG">n</unclear></orig><reg type="split_word">self-contradiction</reg></choice></l>
+            </lg>
+            <vspace extent="3"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.44" dbi="BB712.1.44-79.ann">
+        <objtitle>
+            <title type="supplied">Page 79</title>
+            <objid>
+                <objnumber code="A44">Object 44</objnumber>
+                <objcode code="B79">(Bentley 79, </objcode>
+                <objcode code="E79">Erdman 79)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+            <objnote><p>Bentley erroneously records that the first five lines of Blake's marginalia on this page are located on the previous page (*Writings* volume 2, page 1435).</p>
+            </objnote>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.44.01" justify="left" indent="45">An Atheist</l>
+                <l n="bb712.1.ann.44.02" justify="left" indent="45">pretending</l>
+                <l n="bb712.1.ann.44.03" justify="left" indent="45.5">to talk</l>
+                <l n="bb712.1.ann.44.04" justify="left" indent="46">against</l>
+                <l n="bb712.1.ann.44.05" justify="left" indent="45.5">Atheism</l>
+            </lg>
+            <vspace extent="11"/>
+            <lg>
+                <l n="bb712.1.ann.44.06" justify="left" indent="45">Is this</l>
+                <l n="bb712.1.ann.44.07" justify="left" indent="46">true is</l>
+                <l n="bb712.1.ann.44.08" justify="left" indent="45">it better</l>
+            </lg>
+            <vspace extent="4"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.45" dbi="BB712.1.45-80.ann">
+        <objtitle>
+            <title type="supplied">Page 80</title>
+            <objid>
+                <objnumber code="A45">Object 45</objnumber>
+                <objcode code="B80">(Bentley 80, </objcode>
+                <objcode code="E80">Erdman 80)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <objnote><p>Blake has underlined multiple words and portions of words throughout this object.</p></objnote>
+        <phystext>
+            <vspace extent="5"/>
+            <lg>
+                <l n="bb712.1.ann.45.01" justify="left" indent="45.5">tow<hi rend="u">ards God,<space extent="1"/></hi></l>
+                <l n="bb712.1.ann.45.02" justify="left">Praise of</l>
+                <l n="bb712.1.ann.45.03" justify="left" indent="11"><hi rend="u">so the d</hi>anger</l>
+                <l n="bb712.1.ann.45.04" justify="left" indent="0.5">Atheism <hi rend="u"><space extent="1"/> leaves a</hi></l>
+                <l n="bb712.1.ann.45.05" justify="left" indent="8.5"><hi rend="u"><space extent="1"/>  piety,</hi></l>
+                <l n="bb712.1.ann.45.06" justify="left" indent="10.5"><hi rend="u">be g</hi>uides</l>
+            </lg>
+            <vspace extent="2"/>
+            <lg>
+                <l n="bb712.1.ann.45.07" justify="left" indent="1">Atheism</l>
+                <l n="bb712.1.ann.45.08" justify="left" indent="35">t<hi rend="u">herefore ath</hi>eism</l>
+                <l n="bb712.1.ann.45.09" justify="left" indent="1">is thus the<space extent="2"/>ne<hi rend="u">ver pert</hi>urb</l>
+                <l n="bb712.1.ann.45.10" justify="left" indent="3.5">best of</l>
+                <l n="bb712.1.ann.45.11" justify="left" indent="4.5">all</l>
+                <l n="bb712.1.ann.45.12" justify="left" indent="1">Bacon</l>
+                <l n="bb712.1.ann.45.13" justify="left" indent="1.5">fools us</l>
+            </lg>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.45.14" justify="left" indent="2">What must our Clergy be who Allow</l>
+                <l n="bb712.1.ann.45.15" justify="left" indent="2.5">Bacon to be Either Wise or even of</l>
+                <l n="bb712.1.ann.45.16" justify="left" indent="3.5">Common Capacity I cannot</l>
+            </lg>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.46" dbi="BB712.1.46-82.ann">
+        <objtitle>
+            <title type="supplied">Page 82</title>
+            <objid>
+                <objnumber code="A46">Object 46</objnumber>
+                <objcode code="B82">(Bentley 82, </objcode>
+                <objcode code="E82">Erdman 82)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="5"/>
+            <lg>
+                <l n="bb712.1.ann.46.01" justify="left">Who is to</l>
+                <l n="bb712.1.ann.46.02" justify="left">be the</l>
+                <l n="bb712.1.ann.46.03" justify="left" indent="19">th<hi rend="u">e people</hi><note>Blake has partially underlined the phrase, "the people" in the printed text.</note></l>
+                <l n="bb712.1.ann.46.04" justify="left">Reformer</l>
+                <l n="bb712.1.ann.46.05" justify="left"><choice><orig>Ba<unclear resp="MG">cons</unclear></orig><reg>Bacon's</reg></choice>\ <choice><orig>Villan</orig><reg>Villain</reg></choice> is a Ki<gap reason="illegible" extent="1" unit="character"/><unclear resp="MG">g</unclear> or Who
+                    <note>Bentley (*Writings* volume 2, page 1435) and Erdman (627) read "Bacons" and "King" with confidence, and read "Villan" as "Villain".</note><note>Erdman proposes that the back-slash stroke after "Bacons" is a caret pointing to "Reformer" in the previous line, indicating that line 5 could be read as "Bacons Reformer Villian" (885).</note></l>
+            </lg>
+            <vspace extent="20"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.47" dbi="BB712.1.47-83.ann">
+        <objtitle>
+            <title type="supplied">Page 83</title>
+            <objid>
+                <objnumber code="A47">Object 47</objnumber>
+                <objcode code="B83">(Bentley 83, </objcode>
+                <objcode code="E83">Erdman 83)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="15"/>
+            <lg>
+                <l n="bb712.1.ann.47.01" justify="left" indent="45">The Thing<note>Bentley (*Writings* volume 2, page 1436) and Erdman (627) read "Thing" as "Things".</note></l>
+                <l n="bb712.1.ann.47.02" justify="left" indent="45">worthy to</l>
+                <l n="bb712.1.ann.47.03" justify="left" indent="45">be seen</l>
+                <l n="bb712.1.ann.47.04" justify="left" indent="45">are all</l>
+                <l n="bb712.1.ann.47.05" justify="left" indent="45"><unclear resp="MG">th</unclear><subst><del type="overwrite"><gap reason="illegible" extent="9" unit="character"/></del><add type="overwrite" place="inline">Trumpery</add>
+                </subst><note>Bentley (*Writings* volume 2, page 1436) and Erdman (627) read the partially legible word preceding "Trumpery" as "the".</note></l>
+                <l n="bb712.1.ann.47.06" justify="left" indent="45">he cou<subst><del type="overwrite"></del><add type="overwrite" place="inline">ld</add></subst><gap reason="cancellation" extent="2" unit="line"/></l>
+                <l n="bb712.1.ann.47.07" justify="left" indent="46">rake</l>
+                <l n="bb712.1.ann.47.08" justify="left" indent="46.5">together</l>
+                <l n="bb712.1.ann.47.09" justify="left">Nothi<gap reason="illegible" extent="1" unit="character"/>g of Arts or Artists or Learn<gap reason="illegible" extent="1" unit="character"/>d Men<note>Bentley (*Writings* volume 2, page 1436) and Erdman (627) read "Nothing" and "Learned" with confidence.</note></l>
+                <l n="bb712.1.ann.47.10" justify="left">or of Agriculture or any Useful Thi<gap reason="illegible" extent="1" unit="character"/>g<note>Bentley (*Writings* volume 2, page 1436) and Erdman (627) read "Thing" with confidence.</note></l>
+                <l n="bb712.1.ann.47.11" justify="left">His Business &#38; Bosom was to be Lord Chancellor</l>
+                
+            </lg>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.48" dbi="BB712.1.48-84.ann">
+        <objtitle>
+            <title type="supplied">Page 84</title>
+            <objid>
+                <objnumber code="A48">Object 48</objnumber>
+                <objcode code="B84">(Bentley 84, </objcode>
+                <objcode code="E84">Erdman 84)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <lg>
+                <l n="bb712.1.ann.48.01" justify="left">Bacon supposes that the Dragon Beast &#38; Harlot<note>Bentley (*Writings* volume 2, page 1436) reads "Dragon" as "dragon".</note></l>
+                <l n="bb712.1.ann.48.02" justify="left">are worthy of a Place in the New Jerusalem</l>
+                <l n="bb712.1.ann.48.03" justify="left" indent="0.5">Excellent</l>
+                <l n="bb712.1.ann.48.04" justify="left">Traveller</l>
+                <l n="bb712.1.ann.48.05" justify="left" indent="0.5">Go <choice><orig>on&#38;</orig><reg>on &#38;</reg></choice></l>
+                <l n="bb712.1.ann.48.06" justify="left" indent="0.5">be <choice><orig>damnd</orig><reg>damned</reg></choice></l>
+            </lg>
+            <vspace extent="6"/>
+            <lg>
+                <l n="bb712.1.ann.48.07" justify="left">Harum</l>
+                <l n="bb712.1.ann.48.08" justify="left" indent="0.5">Scarum</l>
+                <l n="bb712.1.ann.48.09" justify="left">who Can<note>Erdman (627) reads "Can" as "can".</note></l>
+                <l n="bb712.1.ann.48.10" justify="left">Do this<note>Bentley (*Writings* volume 2, page 1436) and Erdman (627) read "Do" as "do".</note></l>
+                <l n="bb712.1.ann.48.11" justify="left">The Contrary</l>
+                <l n="bb712.1.ann.48.12" justify="left">is the best</l>
+                <l n="bb712.1.ann.48.13" justify="left" indent="0.5">Advice</l>
+                <l n="bb712.1.ann.48.14" justify="left" indent="18.5"><hi rend="u">quality r</hi>esiding<note>Blake has underlined "quality" and the first letter of "residing" in pencil.</note></l>
+            </lg>
+            <vspace extent="6"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.49" dbi="BB712.1.49-85.ann">
+        <objtitle>
+            <title type="supplied">Page 85</title>
+            <objid>
+                <objnumber code="A49">Object 49</objnumber>
+                <objcode code="B85">(Bentley 85, </objcode>
+                <objcode code="E85">Erdman 85)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="6"/>
+            <lg>
+                <l n="bb712.1.ann.49.01" justify="left" indent="34"><hi rend="u">favour</hi><note>Blake has underlined "favour" in the printed text.</note></l>
+            </lg>
+            <vspace extent="4"/>
+            <lg>
+                <l n="bb712.1.ann.49.02" justify="left" indent="43"><choice><orig>Acquantan<gap reason="illegible" extent="1" unit="character"/>e</orig><reg>Acquaintance</reg></choice></l>
+                <l n="bb712.1.ann.49.03" justify="left" indent="43">with Knaves</l>
+            </lg>
+            <vspace extent="20"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.50" dbi="BB712.1.50-86.ann">
+        <objtitle>
+            <title type="supplied">Page 86</title>
+            <objid>
+                <objnumber code="A50">Object 50</objnumber>
+                <objcode code="B50">(Bentley 50, </objcode>
+                <objcode code="E50">Erdman 50)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="12"/>
+            <lg>
+                <l n="bb712.1.ann.50.01" justify="left">He who has</l>
+                <l n="bb712.1.ann.50.02" justify="left" indent="0.5">few Thi<gap reason="illegible" extent="1" unit="character"/><unclear resp="MG">g</unclear>s<note>Bentley (*Writings* volume 2, 1437) and Erdman (627) read "Things" with confidence.</note></l>
+                <l n="bb712.1.ann.50.03" justify="left" indent="0.5">to desire</l>
+                <l n="bb712.1.ann.50.04" justify="left" indent="0.5">cannot</l>
+                <l n="bb712.1.ann.50.05" justify="left" indent="0.5">have many</l>
+                <l n="bb712.1.ann.50.06" justify="left" indent="0.5">to fear</l>
+            </lg>
+            <vspace extent="12"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.51" dbi="BB712.1.51-87.ann">
+        <objtitle>
+            <title type="supplied">Page 87</title>
+            <objid>
+                <objnumber code="A51">Object 51</objnumber>
+                <objcode code="B87">(Bentley 87, </objcode>
+                <objcode code="E87">Erdman 87)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="12"/>
+            <lg>
+                <l n="bb712.1.ann.51.01" justify="left" indent="40">A Lie<note>Erdman (627) reads "Lie" as "lie".</note></l>
+            </lg>
+            <vspace extent="17"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.52" dbi="BB712.1.52-98.ann">
+        <objtitle>
+            <title type="supplied">Page 98</title>
+            <objid>
+                <objnumber code="A52">Object 52</objnumber>
+                <objcode code="B98">(Bentley 98, </objcode>
+                <objcode code="E98">Erdman 98)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="15"/>
+            <lg>
+                <l n="bb712.1.ann.52.01" justify="left">Did he mean</l>
+                <l n="bb712.1.ann.52.02" justify="left">to Ridicule</l>
+                <l n="bb712.1.ann.52.03" justify="left" indent="0.5">a King &#38; {<note>Blake has bracketed the second paragraph of the printed text; the peak of the bracket points to the ampersand.</note></l>
+                <l n="bb712.1.ann.52.04" justify="left"  indent="0.5">his Council</l>
+            </lg>
+            <vspace extent="15"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.53" dbi="BB712.1.53-101.ann">
+        <objtitle>
+            <title type="supplied">Page 101</title>
+            <objid>
+                <objnumber code="A53">Object 53</objnumber>
+                <objcode code="B101">(Bentley 101, </objcode>
+                <objcode code="E101">Erdman 101)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="4"/>
+            <lg>
+                <l n="bb712.1.ann.53.01" justify="left" indent="40.5">better</l>
+                <l n="bb712.1.ann.53.02" justify="left" indent="40">choose Fools</l>
+                <l n="bb712.1.ann.53.03" justify="left" indent="40.5">at once</l>
+            </lg>
+            <vspace extent="20"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.54" dbi="BB712.1.54-104.ann">
+        <objtitle>
+            <title type="supplied">Page 104</title>
+            <objid>
+                <objnumber code="A54">Object 54</objnumber>
+                <objcode code="B104">(Bentley 104, </objcode>
+                <objcode code="E104">Erdman 104)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.54.01" justify="left">Nonsense</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg>
+                <l n="bb712.1.ann.54.02" justify="left">Nonsense</l>
+            </lg>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.54.03" justify="left">How Absurd</l>
+            </lg>
+            <vspace extent="10"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.55" dbi="BB712.1.55-105.ann">
+        <objtitle>
+            <title type="supplied">Page 105</title>
+            <objid>
+                <objnumber code="A55">Object 55</objnumber>
+                <objcode code="B105">(Bentley 105, </objcode>
+                <objcode code="E105">Erdman 105)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="23"/>
+            <lg>
+                <l n="bb712.1.ann.55.01" justify="left" indent="45">None but</l>
+                <l n="bb712.1.ann.55.02" justify="left" indent="45">a Fool can</l>
+                <l n="bb712.1.ann.55.03" justify="left" indent="45">act so</l>
+            </lg>
+            <vspace extent="5"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.56" dbi="BB712.1.56-107.ann">
+        <objtitle>
+            <title type="supplied">Page 107</title>
+            <objid>
+                <objnumber code="A56">Object 56</objnumber>
+                <objcode code="B107">(Bentley 107, </objcode>
+                <objcode code="E107">Erdman 107)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.56.01" justify="left" indent="45">What</l>
+                <l n="bb712.1.ann.56.02" justify="left" indent="45.5">Fools</l>
+            </lg>
+            <vspace extent="23"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.57" dbi="BB712.1.57-108.ann">
+        <objtitle>
+            <title type="supplied">Page 108</title>
+            <objid>
+                <objnumber code="A57">Object 57</objnumber>
+                <objcode code="B108">(Bentley 108, </objcode>
+                <objcode code="E108">Erdman 108)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.57.01" justify="left">This is too</l>
+                <l n="bb712.1.ann.57.02" justify="left" indent="0.5">Stupid to</l>
+                <l n="bb712.1.ann.57.03" justify="left" indent="0.5">have b<unclear resp="MG">e</unclear>en<note>The first "e" in "been" is poorly formed.</note></l>
+                <l n="bb712.1.ann.57.04" justify="left" indent="1">True</l>
+            </lg>
+            <vspace extent="25"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.58" dbi="BB712.1.58-113.ann">
+        <objtitle>
+            <title type="supplied">Page 113</title>
+            <objid>
+                <objnumber code="A58">Object 58</objnumber>
+                <objcode code="B113">(Bentley 113, </objcode>
+                <objcode code="E113">Erdman 113)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="4"/>
+            <lg>
+                <l n="bb712.1.ann.58.01" justify="left" indent="43">What a Cursed</l>
+                <l n="bb712.1.ann.58.02" justify="left" indent="43">Fool is this</l>
+                <l n="bb712.1.ann.58.03" justify="left" indent="43">Ill Shapen</l>
+                <l n="bb712.1.ann.58.04" justify="left" indent="43">are Infants</l>
+                <l n="bb712.1.ann.58.05" justify="left" indent="43">or Small<note>Erdman (628) reads "Small" as "small".</note></l>
+                <l n="bb712.1.ann.58.06" justify="left" indent="43.5">Plants ill</l>
+                <l n="bb712.1.ann.58.07" justify="left" indent="43.5">Shapen<note>Erdman (628) and Bentley (*Writings* volume 2, page 1438) read "Shapen" as "shapen".</note></l>
+                <l n="bb712.1.ann.58.08" justify="left" indent="43.5">because the<unclear resp="MG">y</unclear><note>The "y" in "they" is obscured by the wear of the paper's edge.</note></l>
+                <l n="bb712.1.ann.58.09" justify="left" indent="43">are not y<unclear resp="MG">e</unclear>t<note></note><note>The tail of the "y" in "they" in the preceding line runs through the "e" in "yet" in this line.</note></l>
+                <l n="bb712.1.ann.58.10" justify="left" indent="43">come to their</l>
+                <l n="bb712.1.ann.58.11" justify="left" indent="43.5">maturity</l>
+                <l n="bb712.1.ann.58.12" justify="left" indent="43">What a</l>
+                <l n="bb712.1.ann.58.13" justify="left" indent="43.5">Contemptible</l>
+                <l n="bb712.1.ann.58.14" justify="left" indent="44">Fool<gap reason="illegible" extent="1" unit="character"/><note>There appears to be a stray mark at the end of "Fool".</note></l>
+                <l n="bb712.1.ann.58.15" justify="left" indent="45">is</l>
+                <l n="bb712.1.ann.58.16" justify="left" indent="45">This</l>
+                <l n="bb712.1.ann.58.17" justify="left" indent="43">Bacon</l>
+            </lg>
+            <vspace extent="2"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.59" dbi="BB712.1.59-124.ann">
+        <objtitle>
+            <title type="supplied">Page 124</title>
+            <objid>
+                <objnumber code="A59">Object 59</objnumber>
+                <objcode code="B124">(Bentley 124, </objcode>
+                <objcode code="E124">Erdman 124)</objcode>
+                
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.59.01" justify="left">The <choice><orig>Friend</orig><reg type="split_word">Friendship</reg></choice></l>
+                <l n="bb712.1.ann.59.02" justify="left"><choice><orig>ship</orig><reg type="split_word">Friendship</reg></choice> of these</l>
+                <l n="bb712.1.ann.59.03" justify="left" indent="0.5">Roman</l>
+                <l n="bb712.1.ann.59.04" justify="left" indent="1">Villains</l>
+                <l n="bb712.1.ann.59.05" justify="left" indent="0.5">is a strange</l>
+                <l n="bb712.1.ann.59.06" justify="left" indent="0.5">Example</l>
+                <l n="bb712.1.ann.59.07" justify="left" indent="0.5">to <choice>
+                    <orig>alledge</orig>
+                    <reg>allege</reg>
+                </choice></l>
+                <l n="bb712.1.ann.59.08" justify="left" indent="1.5">for our</l>
+                <l n="bb712.1.ann.59.09" justify="left" indent="1.5">imitation</l>
+                <l n="bb712.1.ann.59.10" justify="left" indent="1">&#38; approval</l>
+            </lg>
+            <vspace extent="15"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.60" dbi="BB712.1.60-133.ann">
+        <objtitle>
+            <title type="supplied">Page 133</title>
+            <objid>
+                <objnumber code="A60">Object 60</objnumber>
+                <objcode code="B133">(Bentley 133, </objcode>
+                <objcode code="E133">Erdman 133)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="15"/>
+            <lg>
+                <l n="bb712.1.ann.60.01" justify="left" indent="40">If this is</l>
+                <l n="bb712.1.ann.60.02" justify="left" indent="40">advice to</l>
+                <l n="bb712.1.ann.60.03" justify="left" indent="40">the Poor it <note>Erdman inserts a comma after "Poor" (629).</note></l>
+                <l n="bb712.1.ann.60.04" justify="left" indent="40">is mocking</l>
+                <l n="bb712.1.ann.60.05" justify="left" indent="40">them<unclear resp="MG">&#8212;</unclear> If<note>The ampersand is poorly formed.</note><note>Erdman (629) reads the m-dash after "them" with confidence while Bentley (*Writings* volume 2, page 1439) omits it.</note></l>
+                <l n="bb712.1.ann.60.06" justify="left" indent="40">to the Rich<note>Erdman inserts a comma after "Rich" (629).</note></l>
+                <l n="bb712.1.ann.60.07" justify="left" indent="40">it is worse</l>
+                <l n="bb712.1.ann.60.08" justify="left" indent="40">still it is</l>
+                <l n="bb712.1.ann.60.09" justify="left" indent="40">The Miser</l>
+                <l n="bb712.1.ann.60.10" justify="left" indent="40.5">If t<unclear resp="MG">o</unclear> the<note>The "o" in "to" is poorly formed.</note></l>
+                <l n="bb712.1.ann.60.11" justify="left">Middle Class it is the direct Contrary to</l>
+                <l n="bb712.1.ann.60.12" justify="left" indent="0.5"><choice><orig>Christs</orig><reg>Christ's</reg></choice> advice</l>
+            </lg>
+            <vspace extent="1"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.61" dbi="BB712.1.61-134.ann">
+        <objtitle>
+            <title type="supplied">Page 134</title>
+            <objid>
+                <objnumber code="A61">Object 61</objnumber>
+                <objcode code="B134">(Bentley 134, </objcode>
+                <objcode code="E134">Erdman 134)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="4"/>
+            <lg>
+                <l n="bb712.1.ann.61.01" justify="left" indent="45">Nonsense</l>
+                <l n="bb712.1.ann.61.02" justify="left" indent="30"><hi rend="u">certainties.</hi><note>Blake has underlined "certainties." in the printed text.</note></l>
+            </lg>
+            <vspace extent="20"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.62" dbi="BB712.1.62-135.ann">
+        <objtitle>
+            <title type="supplied">Page 135</title>
+            <objid>
+                <objnumber code="A62">Object 62</objnumber>
+                <objcode code="B135">(Bentley 135, </objcode>
+                <objcode code="E135">Erdman 135)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.62.01" justify="left" indent="40">a Lord</l>
+                <l n="bb712.1.ann.62.02" justify="left" indent="40"><choice><orig>Chancellors</orig><reg>Chancellor's</reg></choice><note>Erdman (629) reads "Chancellors" as "Chancellor's".</note></l>
+                <l n="bb712.1.ann.62.03" justify="left" indent="40">opinions</l>
+                <l n="bb712.1.ann.62.04" justify="left" indent="40">as different</l>
+                <l n="bb712.1.ann.62.05" justify="left" indent="40">from Christ</l>
+                <l n="bb712.1.ann.62.06" justify="left" indent="40">as those</l>
+                <l n="bb712.1.ann.62.07" justify="left" indent="40">of <choice><orig>Caiphas</orig><reg type="alt_name">Caiaphas</reg></choice></l>
+                <l n="bb712.1.ann.62.08" justify="left" indent="40">or Pilate</l>
+                <l n="bb712.1.ann.62.09" justify="left" indent="40">or Herod</l>
+                <l n="bb712.1.ann.62.10" justify="left" indent="40">what Such<note>Bentley (*Writings* volume 2, page 1439) and Erdman (629) read "Such" as "such".</note></l>
+                <l n="bb712.1.ann.62.11" justify="left" indent="40">Men call</l>
+                <l n="bb712.1.ann.62.12" justify="left">Great is indeed detestable</l>
+            </lg>
+            <vspace extent="3"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.63" dbi="BB712.1.63-136.ann">
+        <objtitle>
+            <title type="supplied">Page 136</title>
+            <objid>
+                <objnumber code="A63">Object 63</objnumber>
+                <objcode code="B136">(Bentley 136, </objcode>
+                <objcode code="E136">Erdman 136)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="17"/>
+            <lg>
+                <l n="bb712.1.ann.63.01" justify="left">Powers of <space extent="40"/><hi rend="u"> princes P</hi>rinc<unclear resp="MG">es</unclear><note>Blake has underlined the word "Princes" in the printed text.</note><note>Bentley (*Writings* volume 2, page 1439) and Erdman (629) read "Princes" with certainty.</note></l>
+                <l n="bb712.1.ann.63.02" justify="left">darkness <space extent="48"/> Po<unclear resp="MG">w</unclear><gap reason="illegible" extent="1" unit="character"/><unclear resp="MG">rs</unclear><note>Bentley (*Writings* volume 2, page 1439) and Erdman (629) read "Powers" with certainty.</note></l>
+            </lg>
+            <vspace extent="15"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.64" dbi="BB712.1.64-137.ann">
+        <objtitle>
+            <title type="supplied">Page 137</title>
+            <objid>
+                <objnumber code="A64">Object 64</objnumber>
+                <objcode code="B137">(Bentley 137, </objcode>
+                <objcode code="E137">Erdman 137)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="13"/>
+            <lg>
+                <l n="bb712.1.ann.64.01" justify="left" indent="45">The Kingdom</l>
+                <l n="bb712.1.ann.64.02" justify="left" indent="45">of Heaven is</l>
+                <l n="bb712.1.ann.64.03" justify="left" indent="45.5">the direct</l>
+                <l n="bb712.1.ann.64.04" justify="left" indent="45">Negation</l>
+                <l n="bb712.1.ann.64.05" justify="left" indent="46">of <unclear resp="MG">E</unclear>arthly<note>The "E" in "Earthly" is poorly formed.</note></l>
+                <l n="bb712.1.ann.64.06" justify="left" indent="46">domination</l>
+            </lg>
+            <vspace extent="20"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.65" dbi="BB712.1.65-138.ann">
+        <objtitle>
+            <title type="supplied">Page 138</title>
+            <objid>
+                <objnumber code="A65">Object 65</objnumber>
+                <objcode code="B138">(Bentley 138, </objcode>
+                <objcode code="E138">Erdman 138)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="1"/>
+            <lg>
+                <l n="bb712.1.ann.65.01" justify="left">Bacon knows the Wisdom of War if it is</l>
+                <l n="bb712.1.ann.65.02" justify="left">Wisdom</l>
+            </lg>
+            <vspace extent="30"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.66" dbi="BB712.1.66-142.ann">
+        <objtitle>
+            <title type="supplied">Page 142</title>
+            <objid>
+                <objnumber code="A66">Object 66</objnumber>
+                <objcode code="B142">(Bentley 142, </objcode>
+                <objcode code="E142">Erdman 142)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.66.01" justify="left">Is This</l>
+                <l n="bb712.1.ann.66.02" justify="left" indent="15"><hi rend="u">greatest monarchy.<space extent="0.5"/></hi><note>Blake has underlined "greatest monarchy." in the printed text.</note></l>
+                <l n="bb712.1.ann.66.03" justify="left" indent="0.5">Great</l>
+                <l n="bb712.1.ann.66.04" justify="left" indent="0.5">Is this</l>
+                <l n="bb712.1.ann.66.05" justify="left">Christian</l>
+                <l n="bb712.1.ann.66.06" justify="left" indent="2">No</l>
+            </lg>
+            <vspace extent="4"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.67" dbi="BB712.1.67-144.ann">
+        <objtitle>
+            <title type="supplied">Page 144</title>
+            <objid>
+                <objnumber code="A67">Object 67</objnumber>
+                <objcode code="B144">(Bentley 144, </objcode>
+                <objcode code="E144">Erdman 144)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.67.01" justify="left">Bacon</l>
+                <l n="bb712.1.ann.67.02" justify="left" indent="0.5">calls</l>
+                <l n="bb712.1.ann.67.03" justify="left" indent="0.5">Intellectual</l>
+                <l n="bb712.1.ann.67.04" justify="left" indent="0.5">Arts Unmanly<note>The last three letters of "Unmanly" are written over the printed text.</note></l>
+                <l n="bb712.1.ann.67.05" justify="left" indent="0.5">Poetry Painti<gap reason="illegible" extent="1" unit="character"/>g<note>Bentley (*Writings* volume 2, page 1440) and Erdman (629) read "Painting" with certainty.</note></l>
+                <l n="bb712.1.ann.67.06" justify="left" indent="0.5">Music are</l>
+                <l n="bb712.1.ann.67.07" justify="left" indent="1">in his opinion</l>
+                <l n="bb712.1.ann.67.08" justify="left" indent="1">Useles<unclear resp="MG">s</unclear> &#38;<note>The final "s" in "Useless" is poorly formed.</note></l>
+                <l n="bb712.1.ann.67.09" justify="left" indent="1.5">so they are</l>
+                <l n="bb712.1.ann.67.10" justify="left" indent="1.5">for Kings</l>
+                <l n="bb712.1.ann.67.11" justify="left" indent="1.5">&#38; Wars</l>
+                <l n="bb712.1.ann.67.12" justify="left" indent="1.5">&#38; shall in</l>
+                <l n="bb712.1.ann.67.13" justify="left" indent="2">the End Annihilate them</l>
+            </lg>
+            <vspace extent="2"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.68" dbi="BB712.1.68-147.ann">
+        <objtitle>
+            <title type="supplied">Page 147</title>
+            <objid>
+                <objnumber code="A68">Object 68</objnumber>
+                <objcode code="B147">(Bentley 147, </objcode>
+                <objcode code="E147">Erdman 147)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.68.01" justify="left" indent="45">is not this<note>Erdman reads "is" as "Is" (630).</note></l>
+                <l n="bb712.1.ann.68.02" justify="left" indent="45">the Greatest</l>
+                <l n="bb712.1.ann.68.03" justify="left" indent="46">Folly</l>
+            </lg>
+            <vspace extent="10"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.69" dbi="BB712.1.69-149.ann">
+        <objtitle>
+            <title type="supplied">Page 149</title>
+            <objid>
+                <objnumber code="A69">Object 69</objnumber>
+                <objcode code="B149">(Bentley 149, </objcode>
+                <objcode code="E149">Erdman 149)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="15"/>
+            <lg>
+                <l n="bb712.1.ann.69.01" justify="left" indent="44">what can<note>Bentley reads "what" as "What" (*Writings* volume 2, page 1441).</note></l>
+                <l n="bb712.1.ann.69.02" justify="left" indent="44.5">be worse</l>
+                <l n="bb712.1.ann.69.03" justify="left" indent="45">th<unclear resp="MG">a</unclear>n this<note>The "a" in "than" is poorly formed.</note></l>
+                <l n="bb712.1.ann.69.04" justify="left" indent="45">or more</l>
+                <l n="bb712.1.ann.69.05" justify="left" indent="45.5">foolish<note>There appear to be two small slash marks to the top left of the "f" in "foolish".</note></l>
+            </lg>
+            <vspace extent="15"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.70" dbi="BB712.1.70-151.ann">
+        <objtitle>
+            <title type="supplied">Page 151</title>
+            <objid>
+                <objnumber code="A70">Object 70</objnumber>
+                <objcode code="B151">(Bentley 151, </objcode>
+                <objcode code="E151">Erdman 151)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.70.01" justify="left" indent="45">Excess in</l>
+                <l n="bb712.1.ann.70.02" justify="left" indent="45">Youth is</l>
+                <l n="bb712.1.ann.70.03" justify="left" indent="45">Necessary</l>
+                <l n="bb712.1.ann.70.04" justify="left" indent="45.5">to Life</l>
+            </lg>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.70.05" justify="left" indent="45">Nonsense</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg>
+                <l n="bb712.1.ann.70.06" justify="left" indent="46">False<note>There appears to be a small, stray pencil mark running vertically through the bottom half of the "F".</note></l>
+            </lg>
+            <vspace extent="10"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.71" dbi="BB712.1.71-152.ann">
+        <objtitle>
+            <title type="supplied">Page 152</title>
+            <objid>
+                <objnumber code="A71">Object 71</objnumber>
+                <objcode code="B152">(Bentley 152, </objcode>
+                <objcode code="E152">Erdman 152)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.71.01" justify="left" indent="3">Very</l>
+                <l n="bb712.1.ann.71.02" justify="left" indent="1">Pernicious</l>
+                <l n="bb712.1.ann.71.03" justify="left" indent="2">Advice</l>
+            </lg>
+            <vspace extent="1"/>
+            <lg>
+                <l n="bb712.1.ann.71.04" justify="left" indent="0.5">The work</l>
+                <l n="bb712.1.ann.71.05" justify="left" indent="1">of a Fool to</l>
+                <l n="bb712.1.ann.71.06" justify="left" indent="2">use Physic</l>
+                <l n="bb712.1.ann.71.07" justify="left" indent="1">but for Necessity<note>Bentley reads "Necessity" as "necessity" (*Writings* volume 2, page 1441).</note></l>
+            </lg>
+            <vspace extent="3"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.72" dbi="BB712.1.72-153.ann">
+        <objtitle>
+            <title type="supplied">Page 153</title>
+            <objid>
+                <objnumber code="A72">Object 72</objnumber>
+                <objcode code="B153">(Bentley 153, </objcode>
+                <objcode code="E153">Erdman 153)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.72.01" justify="left" indent="45">Those th<unclear resp="MG">a</unclear>t<note>The "a" in "that" is poorly formed.</note></l>
+                <l n="bb712.1.ann.72.02" justify="left" indent="45">p<unclear resp="MG">u</unclear>t their<note>The "u" in "put" is poorly formed.</note></l>
+                <l n="bb712.1.ann.72.03" justify="left" indent="45">Bodies to<note>Erdman reads "to" as"To" (630).</note></l>
+                <l n="bb712.1.ann.72.04" justify="left" indent="45.5">Endure</l>
+                <l n="bb712.1.ann.72.05" justify="left" indent="45">are Fools</l>
+                <l n="bb712.1.ann.72.06" justify="left" indent="45">Celsus was</l>
+                <l n="bb712.1.ann.72.07" justify="left" indent="45">a bad advisor</l>
+            </lg>
+            <lg>
+                <l n="bb712.1.ann.72.08" justify="left" indent="1">[<note>Blake has drawn a bracket extending from the word "inclination" to the word "masteries" in the printed text, highlighting this section.</note></l>
+            </lg>
+            <lg>
+                <l n="bb712.1.ann.72.09" justify="left" indent="45">Nature</l>
+                <l n="bb712.1.ann.72.10" justify="left" indent="45.5">taught to</l>
+                <l n="bb712.1.ann.72.11" justify="left" indent="45.5">Ostentation</l>
+            </lg>
+            <vspace extent="7"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.73" dbi="BB712.1.73-154.ann">
+        <objtitle>
+            <title type="supplied">Page 154</title>
+            <objid>
+                <objnumber code="A73">Object 73</objnumber>
+                <objcode code="B154">(Bentley 154, </objcode>
+                <objcode code="E154">Erdman 154)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.73.01" justify="left" indent="0.5">What is</l>
+                <l n="bb712.1.ann.73.02" justify="left"><choice>
+                    <orig>Suspition</orig>
+                    <reg>Suspicion</reg>
+                </choice></l>
+                <l n="bb712.1.ann.73.03" justify="left">in one Man</l>
+                <l n="bb712.1.ann.73.04" justify="left">is Caution</l>
+                <l n="bb712.1.ann.73.05" justify="left">in Another</l>
+                <l n="bb712.1.ann.73.06" justify="left">&#38; Truth</l>
+                <l n="bb712.1.ann.73.07" justify="left">or discernment<note>Bentley (*Writings* volume 2, page 1442) and Erdman (630) read "discernment" as "Discernment".</note></l>
+                <l n="bb712.1.ann.73.08" justify="left">in Another</l>
+                <l n="bb712.1.ann.73.09" justify="left">&#38; in Some</l>
+                <l n="bb712.1.ann.73.10" justify="left">it is Folly<note>Erdman (630) reads a period after "Folly".</note></l>
+            </lg>
+            <vspace extent="7"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.74" dbi="BB712.1.74-156.ann">
+        <objtitle>
+            <title type="supplied">Page 156</title>
+            <objid>
+                <objnumber code="A74">Object 74</objnumber>
+                <objcode code="B156">(Bentley 156, </objcode>
+                <objcode code="E156">Erdman 156)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.74.01" justify="left">Surely the</l>
+                <l n="bb712.1.ann.74.02" justify="left" indent="0.5">Man who</l>
+                <l n="bb712.1.ann.74.03" justify="left">wrote this</l>
+                <l n="bb712.1.ann.74.04" justify="left">never <choice><orig>talk<gap reason="illegible" extent="1" unit="character"/>d</orig><reg>talked</reg></choice><note>Bentley (*Writings* volume 2, page 1442) and Erdman (630) read the illegible "e" in "talkd" with certainty.</note></l>
+                <l n="bb712.1.ann.74.05" justify="left" indent="0.5">to any but</l>
+                <l n="bb712.1.ann.74.06" justify="left" indent="0.5">Coxcombs</l>
+                
+            </lg>
+            <vspace extent="15"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.75" dbi="BB712.1.75-158.ann">
+        <objtitle>
+            <title type="supplied">Page 158</title>
+            <objid>
+                <objnumber code="A75">Object 75</objnumber>
+                <objcode code="B158">(Bentley 158,</objcode>
+                <objcode code="E158">Erdman 158)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="15"/>
+            <lg>
+                <l n="bb712.1.ann.75.01" justify="left" indent="40">Bacon</l>
+                <l n="bb712.1.ann.75.02" justify="left" indent="41">hated</l>
+                <l n="bb712.1.ann.75.03" justify="left" indent="40">Talents</l>
+                <l n="bb712.1.ann.75.04" justify="left" indent="40.5">of all</l>
+                <l n="bb712.1.ann.75.05" justify="left" indent="41.5">Kinds</l>
+                <l n="bb712.1.ann.75.06" justify="left" indent="41">Eloquence</l>
+                <l n="bb712.1.ann.75.07" justify="left" indent="41">is <choice><orig>descret<gap reason="cancellation" extent="3" unit="character"/></orig><reg>discretion</reg></choice><note>The last characters of the partially illegible word "descret" [sic] are not visible due to a puckering of the paper near the gutter of the page. Bentley reads the partially illegible word as "discretion" with confidence  (*Writings* volume 2, page 1442). Erdman reads the word as "discret[io]n" (630).</note></l>
+                <l n="bb712.1.ann.75.08" justify="left" indent="41">of Speech</l>
+                
+            </lg>
+            <vspace extent="5"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.76" dbi="BB712.1.76-169.ann">
+        <objtitle>
+            <title type="supplied">Page 169</title>
+            <objid>
+                <objnumber code="A76">Object 76</objnumber>
+                <objcode code="B169">(Bentley 169, </objcode>
+                <objcode code="E169">Erdman 169)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="5"/>
+            <lg>
+                <l n="bb712.1.ann.76.01" justify="left" indent="40">Bacon was</l>
+                <l n="bb712.1.ann.76.02" justify="left" indent="40">always a</l>
+                <l n="bb712.1.ann.76.03" justify="left" indent="40">poor Devil<note>Erdman reads "Devil" as "devil" (631).</note></l>
+                <l n="bb712.1.ann.76.04" justify="left" indent="40.5">if History</l>
+                <l n="bb712.1.ann.76.05" justify="left" indent="41">says true</l>
+                <l n="bb712.1.ann.76.06" justify="left" indent="41">how should</l>
+                <l n="bb712.1.ann.76.07" justify="left" indent="41">one So <choice><orig>foolis<gap reason="cancellation" extent="1" unit="character"/></orig><reg>foolish</reg></choice><note>Erdman reads "So" as "so" (631).</note><note>The "h" in "foolish" is not visible due to curling of the page along its edge. Bentley (*Writings* volume 2, page 1442) and Erdman (631) read "foolish" with confidence.</note></l>
+                <l n="bb712.1.ann.76.08" justify="left" indent="41">know about</l>
+                <l n="bb712.1.ann.76.09" justify="left" indent="41.5">Riches</l>
+                <l n="bb712.1.ann.76.10" justify="left" indent="42">Except</l>
+                <l n="bb712.1.ann.76.11" justify="left" indent="41">Pretence</l>
+                <l n="bb712.1.ann.76.12" justify="left" indent="41.5">to be Rich</l>
+                <l n="bb712.1.ann.76.13" justify="left" indent="42">if that is it</l>
+            </lg>
+            <vspace extent="10"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.77" dbi="BB712.1.77-182.ann">
+        <objtitle>
+            <title type="supplied">Page 182</title>
+            <objid>
+                <objnumber code="A77">Object 77</objnumber>
+                <objcode code="B182">(Bentley 182, </objcode>
+                <objcode code="E182">Erdman 182)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.77.01" justify="left">Very</l>
+                <l n="bb712.1.ann.77.02" justify="left">Foolish</l>
+            </lg>
+            <vspace extent="6"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.78" dbi="BB712.1.78-187.ann">
+        <objtitle>
+            <title type="supplied">Page 187</title>
+            <objid>
+                <objnumber code="A78">Object 78</objnumber>
+                <objcode code="B187">(Bentley 187, </objcode>
+                <objcode code="E187">Erdman 187)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.78.01" justify="left" indent="40">What is</l>
+                <l n="bb712.1.ann.78.02" justify="left" indent="40">Fortune</l>
+                <l n="bb712.1.ann.78.03" justify="left" indent="40">but an</l>
+                <l n="bb712.1.ann.78.04" justify="left" indent="40.5">outward</l>
+                <l n="bb712.1.ann.78.05" justify="left" indent="40.5">Accident</l>
+                <l n="bb712.1.ann.78.06" justify="left" indent="39.5">for a few</l>
+                <l n="bb712.1.ann.78.07" justify="left" indent="41">years</l>
+                <l n="bb712.1.ann.78.08" justify="left" indent="41.5">Sixty at<note>Erdman reads "Sixty" as "sixty" (631).</note></l>
+                <l n="bb712.1.ann.78.09" justify="left" indent="43">most &#38;</l>
+                <l n="bb712.1.ann.78.10" justify="left" indent="42">then gone<note>There appears to be extra pencil marks beneath the "th" in "then".</note></l>
+            </lg>
+            <vspace extent="9"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.79" dbi="BB712.1.79-190.ann">
+        <objtitle>
+            <title type="supplied">Page 190</title>
+            <objid>
+                <objnumber code="A79">Object 79</objnumber>
+                <objcode code="B190">(Bentley 190, </objcode>
+                <objcode code="E190">Erdman 190)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="13"/>
+            <lg>
+                <l n="bb712.1.ann.79.01" justify="left">Bacon</l>
+                <l n="bb712.1.ann.79.02" justify="left" indent="0.5">was a</l>
+                <l n="bb712.1.ann.79.03" justify="left" indent="0.5"><unclear resp="MG">Us</unclear>urer<note>Bentley (*Writings* volume 2, page 1443) and Erdman (631) read "Usurer" with confidence.</note></l>
+            </lg>
+            <vspace extent="15"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.80" dbi="BB712.1.80-191.ann">
+        <objtitle>
+            <title type="supplied">Page 191</title>
+            <objid>
+                <objnumber code="A80">Object 80</objnumber>
+                <objcode code="B191">(Bentley 191, </objcode>
+                <objcode code="E191">Erdman 191)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="15"/>
+            <lg>
+                <l n="bb712.1.ann.80.01" justify="left" indent="40">A Lie</l>
+                <l n="bb712.1.ann.80.02" justify="left" indent="40">it makes</l>
+                <l n="bb712.1.ann.80.03" justify="left" indent="40">Mercha<unclear resp="MG">n</unclear>ts<note>The "n" in "Merchants" is poorly formed.</note></l>
+                <l n="bb712.1.ann.80.04" justify="left" indent="40.5">&#38; <choice><orig>nothig</orig><reg>nothing</reg></choice><note>Bentley (*Writings* volume 2, page 1443) and Erdman (631) read "nothing" with confidence.</note></l>
+                <l n="bb712.1.ann.80.05" justify="left" indent="41"><choice><orig>Els<gap reason="illegible" extent="1" unit="character"/></orig><reg>Else</reg></choice><note>Blake appears to have merged the final "e" in "Else" with the tail of the "g" in "nothig" in the previous line. Bentley (*Writings* volume 2, page 1443) and Erdman (631) read "Else" with confidence.</note></l>
+            </lg>
+            <vspace extent="9"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.81" dbi="BB712.1.81-192.ann">
+        <objtitle>
+            <title type="supplied">Page 192</title>
+            <objid>
+                <objnumber code="A81">Object 81</objnumber>
+                <objcode code="B192">(Bentley 192, </objcode>
+                <objcode code="E192">Erdman 192)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.81.01" justify="left">Commodities</l>
+                <l n="bb712.1.ann.81.02" justify="left">of Usury</l>
+                <l n="bb712.1.ann.81.03" justify="left" indent="1">can it</l>
+                <l n="bb712.1.ann.81.04" justify="left" indent="3">Be</l>
+            </lg>
+            <vspace extent="9"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.82" dbi="BB712.1.82-193.ann">
+        <objtitle>
+            <title type="supplied">Page 193</title>
+            <objid>
+                <objnumber code="A82">Object 82</objnumber>
+                <objcode code="B193">(Bentley 193, </objcode>
+                <objcode code="E193">Erdman 193)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.82.01" justify="left" indent="40">It is not</l>
+                <l n="bb712.1.ann.82.02" justify="left" indent="41">True</l>
+                <l n="bb712.1.ann.82.03" justify="left" indent="41">what a</l>
+                <l n="bb712.1.ann.82.04" justify="left" indent="41.5">Cru<subst><add place="inline">e</add><del type="overwrite">l</del></subst>l<note>The "e" in "Cruel" appears to be written over an "l".</note></l>
+                <l n="bb712.1.ann.82.05" justify="left" indent="40"><subst><del type="overwrite"><gap reason="illegible" extent="1" unit="character"/></del><add place="inline">M</add></subst>an <choice><orig>say</orig><reg>says</reg></choice><note>The "M" in "Man" appears to be written over an illegible character.</note><note>Blake seems to have omitted the "s" at the end of "say". Bentley (*Writings* volume 2, page 1443) and Erdman (631) read "says" with confidence.</note></l>
+            </lg>
+            <vspace extent="3"/>
+            <lg>
+                <l n="bb712.1.ann.82.06" justify="left" indent="39.5">Bacon is in</l>
+                <l n="bb712.1.ann.82.07" justify="left" indent="40">his Element</l>
+                <l n="bb712.1.ann.82.08" justify="left" indent="40">on Usury</l>
+                <l n="bb712.1.ann.82.09" justify="left" indent="40">it is himself</l>
+                <l n="bb712.1.ann.82.10" justify="left" indent="40">&#38; his <choice><orig>Philo<unclear resp="MG">p</unclear>hy</orig><reg>Philosophy</reg></choice><note>Bentley (*Writings* volume 2, page 1443) and Erdman (631) read "Philosophy" with confidence.</note></l>
+            </lg>
+            <vspace extent="3"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.83" dbi="BB712.1.83-197.ann">
+        <objtitle>
+            <title type="supplied">Page 197</title>
+            <objid>
+                <objnumber code="A83">Object 83</objnumber>
+                <objcode code="B197">(Bentley 197, </objcode>
+                <objcode code="E197">Erdman 197)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.83.01" justify="left" indent="40"><choice><orig>Bacons</orig><reg>Bacon's</reg></choice></l>
+                <l n="bb712.1.ann.83.02" justify="left" indent="40">Business</l>
+                <l n="bb712.1.ann.83.03" justify="left" indent="41">is not</l>
+                <l n="bb712.1.ann.83.04" justify="left" indent="40">Intellect</l>
+                <l n="bb712.1.ann.83.05" justify="left" indent="40.5">or Art</l>
+            </lg>
+            <vspace extent="7"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.84" dbi="BB712.1.84-198.ann">
+        <objtitle>
+            <title type="supplied">Page 198</title>
+            <objid>
+                <objnumber code="A84">Object 84</objnumber>
+                <objcode code="B198">(Bentley 198, </objcode>
+                <objcode code="E198">Erdman 198)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="25"/>
+            <lg>
+                <l n="bb712.1.ann.84.01" justify="left">a Lie</l>
+            </lg>
+            <vspace extent="6"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.85" dbi="BB712.1.85-199.ann">
+        <objtitle>
+            <title type="supplied">Page 199</title>
+            <objid>
+                <objnumber code="A85">Object 85</objnumber>
+                <objcode code="B199">(Bentley 199, </objcode>
+                <objcode code="E199">Erdman 199)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="8"/>
+            <lg>
+                <l n="bb712.1.ann.85.01" justify="left" indent="40">Such was</l>
+                <l n="bb712.1.ann.85.02" justify="left" indent="40">Bacon</l>
+                <l n="bb712.1.ann.85.03" justify="left" indent="40.5">stupid<note>Bentley (*Writings* volume 2, page 1444) and Erdman (632) read "stupid" as "Stupid".</note></l>
+                <l n="bb712.1.ann.85.04" justify="left" indent="40">Indeed</l>
+            </lg>
+            <vspace extent="17"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.86" dbi="BB712.1.86-202.ann">
+        <objtitle>
+            <title type="supplied">Page 202</title>
+            <objid>
+                <objnumber code="A86">Object 86</objnumber>
+                <objcode code="B202">(Bentley 202, </objcode>
+                <objcode code="E202">Erdman 202)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="6"/>
+            <lg>
+                <l n="bb712.1.ann.86.01" justify="left" indent="3">False</l>
+                <l n="bb712.1.ann.86.02" justify="left">Contemptible</l>
+            </lg>
+            <vspace extent="5"/>
+            <lg>
+                <l n="bb712.1.ann.86.03" justify="left" indent="2.5">Is not this</l>
+                <l n="bb712.1.ann.86.04" justify="left" indent="3.5">Very</l>
+                <l n="bb712.1.ann.86.05" justify="left" indent="3.5">Very</l>
+                <l n="bb712.1.ann.86.06" justify="left">Contemptible</l>
+                <l n="bb712.1.ann.86.07" justify="left" indent="0.5">Contempt is</l>
+                <l n="bb712.1.ann.86.08" justify="left" indent="2">the</l>
+                <l n="bb712.1.ann.86.09" justify="left">Element</l>
+                <l n="bb712.1.ann.86.10" justify="left">of the</l>
+                <l n="bb712.1.ann.86.11" justify="left" indent="1">Contemptible</l>
+            </lg>
+            <vspace extent="10"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.87" dbi="BB712.1.87-203.ann">
+        <objtitle>
+            <title type="supplied">Page 203</title>
+            <objid>
+                <objnumber code="A87">Object 87</objnumber>
+                <objcode code="B203">(Bentley 203, </objcode>
+                <objcode code="E203">Erdman 203)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="5"/>
+            <lg>
+                <l n="bb712.1.ann.87.01" justify="left" indent="40">be<unclear resp="MG">cause</unclear><note>The word "because" is poorly formed.</note></l>
+                <l n="bb712.1.ann.87.02" justify="left" indent="40">Kings do It<note>Bentley (*Writings* volume 2, page 1444) and Erdman (632) read "It" as "it".</note></l>
+                <l n="bb712.1.ann.87.03" justify="left" indent="41.5">is it</l>
+                <l n="bb712.1.ann.87.04" justify="left" indent="42.5">Wisdom</l>
+            </lg>
+            <vspace extent="15"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.88" dbi="BB712.1.88-206.ann">
+        <objtitle>
+            <title type="supplied">Page 206</title>
+            <objid>
+                <objnumber code="A88">Object 88</objnumber>
+                <objcode code="B206">(Bentley 206, </objcode>
+                <objcode code="E206">Erdman 206)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="15"/>
+            <lg>
+                <l n="bb712.1.ann.88.01" justify="left">What <space extent="15"/> <hi rend="u">palace,</hi><note>Blake has underlined "palace," in the printed text.</note></l>
+                <l n="bb712.1.ann.88.02" justify="left">Trifling</l>
+                <l n="bb712.1.ann.88.03" justify="left">Nonsense</l>
+                <l n="bb712.1.ann.88.04" justify="left" indent="3.5"><unclear resp="MG">&#38;</unclear><note>The apparent ampersand is partially obscured by stray marks and parts of letter overlapping in the line below.</note></l>
+                <l n="bb712.1.ann.88.05" justify="left" indent="0.5">Self <choice><orig>Coneit</orig><reg>Conceit</reg><reg>Self-Conceit</reg></choice><note>Bentley (*Writings* volume 2, page 1444) and Erdman (632) read "Coneit" as "Conceit".</note></l>
+            </lg>
+            <vspace extent="10"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.89" dbi="BB712.1.89-235.ann">
+        <objtitle>
+            <title type="supplied">Page 235</title>
+            <objid>
+                <objnumber code="A89">Object 89</objnumber>
+                <objcode code="B235">(Bentley 235, </objcode>
+                <objcode code="E235">Erdman 235)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="20"/>
+            <lg>
+                <l n="bb712.1.ann.89.01" justify="left" indent="17"><hi rend="u">Padre commune</hi><space extent="10"/> None but</l>
+                <l n="bb712.1.ann.89.02" justify="left" indent="43">God is This</l>
+            </lg>
+            <vspace extent="4"/>
+            <lg>
+                <l n="bb712.1.ann.89.03" justify="left" indent="1">King James was <choice>
+                    <orig>Bacons</orig>
+                    <reg>Bacon's</reg>
+                </choice> Primum Mobile</l>
+            </lg>
+            <vspace extent="2"/>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.90" dbi="BB712.1.90-236.ann">
+        <objtitle>
+            <title type="supplied">Page 236</title>
+            <objid>
+                <objnumber code="A90">Object 90</objnumber>
+                <objcode code="B236">(Bentley 236, </objcode>
+                <objcode code="E236">Erdman 236)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="25"/>
+            <lg>
+                <l n="bb712.1.ann.90.01" justify="left" indent="3.5"><space extent="5"/><hi rend="u">small matters<space extent="1"/></hi> <note>Blake has underlined the phrase "small matters" in the printed text.</note></l>
+                <l n="bb712.1.ann.90.02" justify="left" indent="3">Small matters What are They<note>Bentley (*Writings* volume 2, page 1445) reads "matters" as "Matters".</note></l>
+                <l n="bb712.1.ann.90.03" justify="left" indent="2.5">Caesar seems to me a Very Small Matter</l>
+                <l n="bb712.1.ann.90.04" justify="left" indent="2">&#38; so he <choice><orig>seemd</orig><reg>seemed</reg></choice> to Jesus<space extent="0.5"/> is the devil Great</l>
+                <l n="bb712.1.ann.90.05" justify="left" indent="3">consid<unclear resp="MG">e</unclear>r<note>The "e" in "consider" is poorly formed.</note></l>
+            </lg>
+        </phystext>
+    </desc>
+    <desc id="bb712.1.ann.91" dbi="BB712.1.91-239.ann">
+        <objtitle>
+            <title type="supplied">Page 239</title>
+            <objid>
+                <objnumber code="A91">Object 91</objnumber>
+                <objcode code="B239">(Bentley 239, </objcode>
+                <objcode code="E239">Erdman 239)</objcode>
+            </objid>
+        </objtitle>
+        <physdesc>
+            <objsize>16.5 x 10.2 cm.</objsize>
+            <windowsize width="500" height="615"/>
+        </physdesc>
+        <phystext>
+            <vspace extent="10"/>
+            <lg>
+                <l n="bb712.1.ann.91.01" justify="left" indent="17"><hi rend="u">common people,</hi><space extent="7.5"/>Villain<note>Blake has underlined the phrase "common people," in the printed text.</note></l>
+                <l n="bb712.1.ann.91.02" justify="left" indent="40">d<unclear resp="MG">o</unclear>d Christ<note>Bentley (*Writings* volume 2, page 1445) and Erdman (632) read "dod" as "did".</note></l>
+                <l n="bb712.1.ann.91.03" justify="left" indent="40">Seek the</l>
+                <l n="bb712.1.ann.91.04" justify="left" indent="40">Praise</l>
+                <l n="bb712.1.ann.91.05" justify="left" indent="40">of the</l>
+                <l n="bb712.1.ann.91.06" justify="left" indent="41">Rulers</l>
+            </lg>
+            <vspace extent="13"/>
+        </phystext>
+    </desc>
+</bad>
