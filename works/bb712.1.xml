@@ -201,7 +201,7 @@
                 <binding>Bound in green cloth over the original boards; some pages are now loose.</binding>
             </objinfo>
             <provenance n="1">
-                <name>University of Cambridge Library</name>
+                <name>Cambridge University Library</name>
                 <date>1982</date>
                 <dealer>None</dealer>
                 <price>None</price>
@@ -210,11 +210,10 @@
                     held by Lionel Isaacs of the Haymarket in London c. 1900 (according to Geoffrey Keynes, *A Bibliography of William Blake* [New York: Grolier Club, 1921], page 51); 
                     acquired by bookseller George T. Goodspeed no earlier than c. 1900 and no later than c. 1929 (according to Geoffrey Keynes, *The Gates of Memory* [Oxford: Clarendon P, 1981], page 301); 
                     acquired by Josiah K. Lilly, Jr. from Goodspeed's of Boston c. 1929; sold by Lilly to Geoffrey Keynes for $1,000 in 1947 (according to Keynes, *The Gates of Memory*, page 302); 
-                    acquired by the University of Cambridge Library by bequest upon Keynes’ death in 1982.</note>
+                    acquired by Cambridge University Library by bequest upon Keynes’ death in 1982.</note>
             </provenance>
             <repository>
-                <institution>University of Cambridge</institution>
-                <department>Cambridge University Library</department>
+                <institution>Cambridge University Library</institution>
                 <collection>Keynes Collection</collection>
                 <repositoryid label="Call number">Keynes.U.4.20</repositoryid>
                 <repositoryid label="Barcode">44CAMR0226682</repositoryid>
@@ -392,7 +391,7 @@
                     <l n="bb712.1.ann.06.01" justify="left" indent="3.5"><choice>
                         <orig>Self Evident</orig>
                         <reg>Self-Evident</reg>
-                    </choice> Truth is one Th<unclear resp="MG">in</unclear>g<note>The characters "in" in "Thing" are poorly fored.</note></l>
+                    </choice> Truth is one Th<unclear resp="MG">in</unclear>g<note>The characters "in" in "Thing" are poorly formed.</note></l>
                     <l n="bb712.1.ann.06.02" justify="left">and Truth the result of Reasoning is</l>
                     <l n="bb712.1.ann.06.03" justify="left">another Thing Rational Truth is not</l>
                     <l n="bb712.1.ann.06.04" justify="left" indent="0.5">the Truth of Christ but of Pilate</l>
@@ -941,6 +940,16 @@
             <objsize>16.5 x 10.2 cm.</objsize>
             <windowsize width="500" height="615"/>
         </physdesc>
+                    <illusdesc>
+                <illustration type="plate" location="E">
+                    <illusobjdesc>What looks like a chain descends in the right margin, although it could be excrement descending from an erased figure upper right.  See the Editors’ Note on this motif.</illusobjdesc>
+                    <component type="object" location="E">
+                        <characteristic>chain</characteristic>
+                        <characteristic>excrement</characteristic>
+                        <illusobjdesc>What looks like a chain descends in the right margin, although it could be excrement descending from an erased figure upper right.  See the Editors’ Note on this motif.</illusobjdesc>
+                    </component>
+                </illustration>
+            </illusdesc>
         <phystext>
             <vspace extent="30"/>
             <lg>
@@ -1433,7 +1442,7 @@
                 <l n="bb712.1.ann.43.01" justify="left" indent="0.5">A Lie<space extent="3"/><hi rend="u"> adv</hi>ersities<note>Blake has partially underlined the word "adversities" in the printed text.</note><note>Erdman reads "A" as "a" (626).</note></l>
                 <l n="bb712.1.ann.43.02" justify="left" indent="1">An<note>Erdman reads "An" as "an" (626).</note></l>
                 <l n="bb712.1.ann.43.03" justify="left">Artifice{<note>Blake has drawn what appears to be a bracket originating from "Artifice", 
-                    the ends of which terminate near the words "nobility" and "God" in the printed text, emphasizing 3 lines from the text. The lower line of the bracket appears to underline "God". A short line also extends from "An" in the preceding line to the starting point of the bracket.</note></l>
+                    the ends of which terminate near the words "nobility" and "God" in the printed text, emphasizing 3 lines from the text. The lower line of the bracket appears to underline "God". A short line also extends from "An" in the preceding line to the midpoint of the bracket.</note></l>
                 <l n="bb712.1.ann.43.04" justify="left" indent="8"><hi rend="u">Go</hi>d</l>
             </lg>
             <vspace extent="6"/>
