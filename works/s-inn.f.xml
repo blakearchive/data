@@ -12,31 +12,36 @@
                     <name>Robert Essick, </name>University of California, Riverside; and 
 <name>Joseph Viscomi</name>, University of North Carolina at Chapel
 Hill</principal>
-                <respstmt>
-                    <resp>Technical Editor: </resp>
-                    <name>Matthew Kirschenbaum</name>
-                    <resp>Programmer/Analysts: </resp>
-                    <name>David Cosca </name>and 
-<name>Robert Bingler</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Jessica Kem, Kari Kraus, Andrea Laue</name>
-                </respstmt>
-                <sponsor>The Institute for Advanced Technology in the Humanities, the
-Library of Congress, and the University of North Carolina at Chapel Hill
-with a software grant from Inso Corporation and hardware and software
-grants from Sun Microsystems</sponsor>
-                <funder>The National Endowment for the Humanities, 2000-02</funder>
-                <funder>Paul Mellon Centre for Studies in British Art, 1997-98</funder>
-                <funder>The Getty Grant Program, 1995-98</funder>
+<respstmt/>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill
+                    and the University of Rochester</sponsor>
+                <funder/>
             </titlestmt>
-            <editionstmt>Blake Archive Description DTD Version 2004</editionstmt>
-            <extent>XML file derived from 1 SGML (ISO 8879) encoded file approx. 283KB; 62 JPEG
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML file approx. 422KB; 54 JPEG
 (ISO/IEC 10918) 
-files ranging in size from 46KB to 500KB</extent>
-            <publicationstmt>Charlottesville: Essick, Viscomi; IATH<date>August 1999</date>
+files ranging in size from 150KB to 1500KB</extent>
+            <publicationstmt>Chapel Hill: Essick, Viscomi; UNC Libraries<date>May 2026</date>
             </publicationstmt>
             <seriesstmt>The William Blake Archive</seriesstmt>
-            
+ <updatestmt> 
+The William Blake Archive is pleased to announce the publication of digital editions of Blake's <hi rend="i">Songs of Innocence</hi> Copy E from the Henry W. and Albert A. Berg Collection, New York Public Library, Copy F, from the Houghton Library, Harvard University, and Copy K, from the Carl H. Pforzheimer Collection, New York Public Library.
+            <lb/>
+                <lb/>
+Blake first published <hi rend="i">Innocence</hi> with thirty-one plates in 1789, the date on its title page. He appears to have printed twenty-three copies that year; three—possibly the first copies of <hi rend="i">Innocence</hi> printed—were in black ink on one side of the leaf, which remained uncolored (Copy U in the Archive is one of the three). Twenty were printed in green, yellow ochre, or raw sienna inks on both sides of octavo size leaves and finished in light watercolor washes. At least four of these were combined with copies of <hi rend="i">Songs of Experience</hi>, printed in 1794, to form <hi rend="i">Songs of Innocence and of Experience</hi> (Copies B-E). For these newly combined copies, Blake moved Plates 34–36 ("The Little Girl Lost" and "The Little Girl Found") to Experience, leaving <hi rend="i">Innocence</hi> with twenty-eight plates. He moved Plates 53 ("The School Boy") and 54 ("The Voice of the Ancient Bard") to <hi rend="i">Experience</hi> by 1818.
+            <lb/>
+                <lb/>
+<hi rend="i">Innocence</hi> Copy E, printed in 1789 in raw sienna ink on both sides of the leaves, except for the first three plates (Objects 1-3), has thirty-one plates finished in light washes. <hi rend="i">Innocence</hi> Copy F, also printed in 1789 in the same style in raw sienna (Objects 1-3) and yellow ochre (Objects 4-27), has twenty-eight plates and is finished in more opaque colors. It is missing "Holy Thursday," "Nurse’s Song," and the two plates of "The Ecchoing Green," which were extracted by a dealer and inserted into Songs of Innocence and of Experience Copy T. Innocence Copy K was also printed in 1789 in raw sienna on both sides of the leaves, except for the first three plates (Objects 1-3) and the last plate (Object 28). Like Copies E and F, Copy K was initially printed with a full complement of thirty-one plates; the leaves carrying Plates 27/34 and 35/36 were extracted and Plate 27 ("On Anothers Sorrow") was separately printed in a matching ink and added as the last plate. In Copies E, F, and K, the copper plate borders were wiped of ink and so did not print, resulting in impressions that reveal no signs of being printed from metal plates, appearing instead like manuscript pages.
+            <lb/>
+                <lb/>
+Most of the impressions comprising Copy K were printed in the same session as Copy E, but the coloring style is more sophisticated in that many texts are in part strengthened or over-written in black, red, raw sienna, or green with a pen or small brush. The fine black lines are probably ink, but other colors may be water color wash. See the Editors' Notes on Objects 2-13, 15-26, and 28. This strengthening of the texts, as well as some of the tinting in water colors, particularly the washes in text areas, were very probably added a least a few years after the 1789 printing of the plates, probably c. 1795, and are in the same style as <hi rend="i">Innocence</hi> Copy L. The overwriting seems more decorative than attempts at salvaging illegible or poorly printed texts, as was often the primary reason Blake strengthened texts in this manner (see for example <hi rend="i">Songs of Innocence and of Experience</hi> Copy E). 
+            <lb/>
+                <lb/>
+With these copies—which have not been reproduced before—the Archive continues to realize its objective of publishing exemplary copies of each illuminated book from each of its printings and expanding the Blake canon by presenting works previously not available for study by the general public. The Archive now contains fully searchable and scalable digital editions of over 135 copies of Blake's nineteen illuminated books. Users may view color corrected digital images of Blake's works at their true size, and enlarge and rotate these images to examine texts and illustrations in detail. The images are accompanied by diplomatic transcriptions and editors' notes, as well as illustration descriptions that make it possible to search Blake's works for visual motifs. The Archive also provides full bibliographic and provenance information for each digital edition it publishes.
+             <lb/>
+                <lb/>
+ As always, the William Blake Archive is a free site, imposing no access restrictions and charging no subscription fees. The site is made possible by the University of North Carolina at Chapel Hill with the University of Rochester, the continuing support of the Library of Congress, and the cooperation of the international array of libraries and museums that have generously given us permission to reproduce works from their collections in the Archive.                                                         
+            </updatestmt>           
             <notesstmt/>
         </filedesc>
         <userestrict>Copyright © <date>2026</date> by Robert N. Essick and Joseph
@@ -57,47 +62,131 @@ owners of the originals for this publication only.<lb/>
         <profiledesc/>
         <revisiondesc>
             <changestmt>
-                <change>Conversion to XML and Blake Archive Description DTD 2004</change>
-                <date>2004</date>
+                <change>Final proofing and publication</change>
+                <date>May 2026</date>
                 <respstmt>
                     <resp>Editors: </resp>
-                    <name>Robert Essick, </name>University of California, Riverside; and
-               <name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
-               <resp>Technical Editor: </resp>
-                    <name>Andrea Laue</name>
-                    <resp>Conversion: </resp>
-                    <name>Aziza Technology Associates</name>
-                    <resp>Project Manager: </resp>
-                    <name>Justin Van Kleeck</name>
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Technical Editor: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Assistant Project Coordinator, University of Rochester: </resp>
+                    <name>Dani Garcia</name>
+                    <resp>Consultant on Special Projects: </resp>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
                     <resp>Project Assistants: </resp>
-                    <name>Christopher N. Jackson, </name>
-                    <name>Kari Kraus, </name>
-                    <name>Wesley N. Raabe, </name>
-                    <name>Wayne C. Ripley, </name>
-                    <name>William Shaw</name>
+                    <name>Victoria Bik, </name>
+                    <name>Margarita Buitrago, </name>
+                    <name>Emily English, </name>
+                    <name>Timothy Gress, </name>
+                    <name>Kathrin Lachenmaier, </name>
+                    <name>Huimin Li, </name>
+                    <name>Elizabeth McKay, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Gabby Tapia,</name>
+                    <name>Matthew White </name>
                 </respstmt>
             </changestmt>
             <changestmt>
-                <change>Conversion to Blake Archive Description DTD 2.1; Styles 2.0</change>
-                <date>Summer 2000</date>
-                <respstmt>
-                    <resp>Editors: </resp>
-                    <name>Robert Essick, </name>University of California, Riverside; and
-<name>Joseph Viscomi, </name>University of North Carolina at Chapel Hill
+<change>BAD created</change>
+<date>April 2014</date>
+<respstmt>
+<resp>Editors: </resp>
+<name>Morris Eaves, </name>
+University of Rochester;
+<name>Robert Essick, </name>
+University of California, Riverside; and
+<name>Joseph Viscomi, </name>
+University of North Carolina at Chapel Hill
 <resp>Technical Editor: </resp>
-                    <name>Matthew Kirschenbaum</name>
-                    <resp>Programmer/Analysts: </resp>
-                    <name>Robert Bingler, </name>
-                    <name>David Cosca, </name>
-                    <name>Kirk V. Hastings</name>
-                    <resp>Project Manager: </resp>
-                    <name>Andrea Laue</name>
-                    <resp>Project Assistants: </resp>
-                    <name>Christopher N. Jackson, </name>
-                    <name>Kari Kraus, </name>
-                    <name>Wayne C. Ripley</name>
-                </respstmt>
-            </changestmt>
+<name>Michael Fox</name>
+<resp>Project Manager: </resp>
+<name>Joseph Fletcher</name>
+<resp>Project Coordinator, University of Rochester: </resp>
+<name>Laura Bell</name>
+<resp>Consultant on Special Projects: </resp>
+<name>Ashley Reed</name>
+<resp>Bibliographer:</resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants: </resp>
+<name>Esther Arnold,</name>
+<name>Amber Bertin,</name>
+<name>Katherine Calvin,</name>
+<name>Andrea Everett,</name>
+<name>Duncan Graham,</name>
+<name>Shannon Jaime,</name>
+<name>Gabrielle Kiriloff,</name>
+<name>Eric Loy,</name>
+<name>Kate Massie,</name>
+<name>Adam McCune,</name>
+<name>Ali McGhee,</name>
+<name>Anastasia Nikolis,</name>
+<name>Adair Rispoli,</name>
+<name>Hardeep Sidhu,</name>
+<name>Margaret Speer,</name>
+<name>Sarah Tolf,</name>
+<name>Danny Tsegai,</name>
+<name>Lisa Vandenbossche,</name>
+<name>Nikolaus Wasmoen,</name>
+<name>Alia Wegner,</name>
+<name>Megan Wilson,</name>
+</respstmt>
+</changestmt>
+<changestmt>
+<change>Images acquired</change>
+<date>June 2013</date>
+<respstmt>
+<resp>Editors: </resp>
+<name>Morris Eaves, </name>
+University of Rochester;
+<name>Robert Essick, </name>
+University of California, Riverside; and
+<name>Joseph Viscomi, </name>
+University of North Carolina at Chapel Hill
+<resp>Technical Editor: </resp>
+<name>Michael Fox</name>
+<resp>Project Manager: </resp>
+<name>Joseph Fletcher</name>
+<resp>Project Coordinator, University of Rochester: </resp>
+<name>Laura Bell</name>
+<resp>Consultant on Special Projects: </resp>
+<name>Ashley Reed</name>
+<resp>Bibliographer:</resp>
+<name>Mark Crosby</name>
+<resp>Project Assistants: </resp>
+<name>Esther Arnold,</name>
+<name>Amber Bertin,</name>
+<name>Katherine Calvin,</name>
+<name>Andrea Everett,</name>
+<name>Duncan Graham,</name>
+<name>Shannon Jaime,</name>
+<name>Gabrielle Kiriloff,</name>
+<name>Eric Loy,</name>
+<name>Kate Massie,</name>
+<name>Adam McCune,</name>
+<name>Ali McGhee,</name>
+<name>Anastasia Nikolis,</name>
+<name>Adair Rispoli,</name>
+<name>Hardeep Sidhu,</name>
+<name>Margaret Speer,</name>
+<name>Sarah Tolf,</name>
+<name>Danny Tsegai,</name>
+<name>Lisa Vandenbossche,</name>
+<name>Nikolaus Wasmoen,</name>
+<name>Alia Wegner,</name>
+<name>Megan Wilson,</name>
+</respstmt>
+</changestmt>
         </revisiondesc>
     </header>
     <objdesc>
@@ -3385,7 +3474,7 @@ of stanza 6.  Three other birds fly to the right of lines 3, 6, and
                     <l n="s-inn.f.illbk.20.18" justify="left">And not sit beside the nest</l>
                     <l n="s-inn.f.illbk.20.19" justify="left">Pouring pity in their breast,</l>
                     <l n="s-inn.f.illbk.20.20" justify="left">And not sit the cradle near</l>
-                    <l n="s-inn.f.illbk.20.21" justify="left">Weeping tear on infants tear.<note>The “a” and “n” in “infants” and the “t” in the second instance of “tear” in this line are partially obscured by accidental droplets of ink.</note></l>
+                    <l n="s-inn.f.illbk.20.21" justify="left">Weeping tear on infants tear.<note>The “a” and second “n” in “infants” and the “t” in the second instance of “tear” in this line are partially obscured by accidental droplets of ink.</note></l>
                 </lg>
                 <vspace extent="1"/>
                 <lg type="verse" justify="left">
@@ -4127,7 +4216,7 @@ illustration).</illusobjdesc>
                 </objid>
             </objtitle>
             <physdesc desclevel="brief">
-                <objnote><p>TThe catchword "Leopards" is completely obscured by hand coloring in this copy.</p></objnote>
+                <objnote><p>The catchword "Leopards" is completely obscured by hand coloring in this copy.</p></objnote>
                 <objsize>11.2 x 6.6 cm.</objsize>
                 <windowsize height="582" width="343"/>
             </physdesc>
