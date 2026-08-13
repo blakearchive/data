@@ -1,0 +1,371 @@
+<bad catalog="bentley" catid="741" id="bb741.1" type="ann" copy="1" copyid="1" institution="houghton" work="Blake's Annotations to Swedenborg's A Treatise Concerning Heaven and Hell" hidden="false">
+    <header>
+        <filedesc>
+            <titlestmt>
+                <title reg="Blake's Annotations to Swedenborg's A Treatise Concerning Heaven and Hell">
+                    <main>Blake's Annotations to Swedenborg's A Treatise Concerning Heaven and Hell</main>
+                    <copy>Copy 1</copy> 
+                    : electronic edition </title>
+                <principal>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and 
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill 
+                </principal>
+                <respstmt>
+                </respstmt>
+                <sponsor>The Library of Congress, the University of North Carolina at Chapel Hill and the University of Rochester</sponsor>
+            </titlestmt>
+            <editionstmt>Blake Archive Description DTD Version 2006</editionstmt>
+            <extent>1 XML approx. 21KB; 8 JPEG (ISO/IEC 10918) files ranging in size from 421K to 81.8 MB</extent>
+            <publicationstmt>Chapel Hill: Essick and Viscomi; UNC Libraries
+                <date>August 2026</date>
+            </publicationstmt>
+            <seriesstmt>The William Blake Archive</seriesstmt>
+            <notesstmt/>
+        </filedesc>
+        <userestrict>Copyright © <date>2026</date> by Robert N. Essick and Joseph
+            Viscomi, all rights reserved. Items in the Archive may be shared in accordance with the
+            Fair Use provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and advance
+            notification of the publisher, the Institute for Advanced Technology in the Humanities.
+            Permission to reproduce the graphic images in this archive has been granted by the
+            owners of the originals for this publication only.
+            <lb/>
+            <lb/>
+            This image copyright © 2026 Harvard University.
+            <lb/>
+            <lb/>
+        </userestrict>
+        <encodingdesc/>
+        <profiledesc/>
+        <revisiondesc>
+            <changestmt>
+                <change>Final proofing and publication</change>
+                <date>May 2026-August 2026</date>
+            <respstmt>
+                <resp>Editors: </resp>
+                <name>Robert Essick, </name>
+                University of California, Riverside; and
+                <name>Joseph Viscomi, </name>
+                University of North Carolina at Chapel Hill
+                <resp>Assistant Editor: </resp>
+                <name>Joseph Fletcher</name>
+                <resp>Technical Editor: </resp>
+                <name>Grant Glass</name>
+                <resp>Project Coordinator, University of Rochester: </resp>
+                <name>Meaghan Green</name>
+                <resp>Assistant Project Coordinator, University of Rochester: </resp>
+                <name>Dani Garcia</name>
+                <resp>Consultants on Special Projects: </resp>
+                <name>Ashley Reed, </name>
+                <name>Josh Romphf</name>
+                <resp>Bibliographer: </resp>
+                <name>Chuck Ripley</name>
+                <resp>Project Assistants: </resp>
+                <name>Christopher Catanese, </name>
+                <name>Emily English, </name>
+                <name>Kathrin Lachenmaier, </name>
+                <name>Mary Learner, </name>
+                <name>Huimin Li, </name>
+                <name>Elizabeth McKay, </name>
+                <name>Anna Mertz, </name>
+                <name>Celeste Seifert, </name>
+                <name>Elizabeth Shand, </name>
+                <name>Gabby Tapia</name>
+            </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Textual transcription</change>
+                <date>May 2025</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>BAD created</change>
+                <date>January 2025</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+            <changestmt>
+                <change>Images acquired</change>
+                <date>April 2024</date>
+                <respstmt>
+                    <resp>Editors: </resp>
+                    <name>Robert Essick, </name>
+                    University of California, Riverside; and
+                    <name>Joseph Viscomi, </name>
+                    University of North Carolina at Chapel Hill
+                    <resp>Assistant Editor: </resp>
+                    <name>Michael Fox</name>
+                    <resp>Managing Editor: </resp>
+                    <name>Joseph Fletcher</name>
+                    <resp>Assistant Project Manager: </resp>
+                    <name>Grant Glass</name>
+                    <resp>Project Coordinator, University of Rochester: </resp>
+                    <name>Marcie Woehl</name>
+                    <resp>Consultants on Special Projects: </resp>
+                    <name>Ashley Reed, </name>
+                    <name>Josh Romphf</name>
+                    <resp>Bibliographer: </resp>
+                    <name>Chuck Ripley</name>
+                    <resp>Project Consultant: </resp>
+                    <name>Meaghan Green</name>
+                    <resp>Project Assistants: </resp>
+                    <name>Christopher Catanese, </name>
+                    <name>Emily English, </name>
+                    <name>Dani Garcia, </name>
+                    <name>Liam Kusmierek, </name>
+                    <name>Mary Learner, </name>
+                    <name>Anna Mertz, </name>
+                    <name>Celeste Seifert, </name>
+                    <name>Elizabeth Shand, </name>
+                    <name>Kate Soules, </name>
+                    <name>Samantha Steiner, </name>
+                    <name>Gabby Tapia, </name>
+                    <name>Dominique Townsend, </name>
+                    <name>Alice Wynd</name>
+                </respstmt>
+            </changestmt>
+        </revisiondesc>
+    </header>
+    <objdesc>
+        <source>
+            <objdescid>
+                <objtitle>
+                    <title type="editorial">
+                        Blake's Annotations to Swedenborg's *A Treatise Concerning Heaven and Hell*
+                    </title>
+                </objtitle>
+                <origination>William Blake 
+                    <role>author, </role>
+                    <role>inventor, </role>
+                    <role>delineator</role>
+                </origination>
+                <origination>Emanuel Swedenborg
+                <role>author of the printed text</role>
+                </origination>
+                <origination>R. Hindmarsh
+                <role>printer of the letterpress text</role>
+                </origination>
+                <imprint>
+                    <title>A Treatise Concerning Heaven and Hell, and of the Wonderful Things therein,
+                        as Heard and Seen, by the Honourable and Learned Emanuel Swedenborg,
+                        Of the Senatorial Order of Nobles in the Kingdom of Sweden</title>
+                    <publisher>T. Evans, T. Buckland, J. Denis and Son, I. Clark, T. Mills, and S. Hazard</publisher>
+                    <pubplace>London</pubplace>
+                    <date>1784</date>
+                </imprint>
+                <compdate value="1788">c. 1788<note>Bentley, *Writings*, 2: 1742, proposes a date range for Blake's annotations of 1787-1790, with 1788 as "a plausible guess."  The earliest date, 1787, is established by Blake's reference in Object 3, line 1, to "Worlds in [the] Universe."  This is evidently an alternative title for Swedenborg's *Concerning the Earths in Our Solar System, Which Are Called Planets*, first published in English in 1787.  A few years later Swedenborg himself used a similar alternative title, "Earths in the Universe," in his *The Apocalypse Revealed* (Manchester, 1791), 2: no. 716.  The terminal date of 1790 is suggested by the similarities between Blake's annotations, particularly those in Object 4, and his *The Marriage of Heaven and Hell* of that year.</note></compdate>
+            </objdescid>
+            <objinfo>
+                <printdate value="1784">1784</printdate>
+                <numberobj>4</numberobj>
+                <objorder>1–4</objorder>
+                <objsize>22.5 x 13.8 cm.</objsize>
+                <numberleaves>4<note>Only leaves bearing annotations are reproduced here. Erdman records that paragraphs 333 and 334 on page 206 have been scored in the left margin by either an erased pencil or a finger nail (601). There is no evidence the mark is Blake's and therefore is not represented or reproduced here.</note></numberleaves>
+                <leafsize>22.5 x 13.8 cm.</leafsize>
+                <medium>pen and ink, pencil, and possibly crayon</medium>
+                <inkcolor>black</inkcolor>
+                <support>laid paper</support>
+                <watermark>none</watermark>
+                <binding>half green cloth with original paper boards</binding>
+            </objinfo>
+            <provenance n="1">
+                <name>Houghton Library, Harvard University</name>
+                <date>March 1960</date>
+                <dealer>None</dealer>
+                <price>None</price>
+                <note>Original owner or owners, including the person who wrote the quotation from Shakespeare on Object 1, are unknown; apparently acquired by Blake c. 1787; acquired by Louise Kennedy in 1897 according to a note on the fly-leaf; given by Mrs. Mildred Kennedy to Harvard University in March 1960.</note>
+            </provenance>
+            <repository>
+                <institution>Houghton Library, Harvard University</institution>
+                <repositoryid label="HOLLIS number">990025842550203941</repositoryid>
+                <lb/>
+                <lb/>
+            </repository>
+        </source>
+        <desc id="bb741.1.ann.01" dbi="BB741.1.1.ann">
+            <objtitle>
+                <title type="editorial">Half-title</title>
+                <objid>
+                    <objnumber code="A1">Object 1</objnumber>
+                    <objnumber code="BHalf-title">(Bentley Half-title, </objnumber>
+                    <objnumber code="EHalf-title">Erdman Half-title)</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>22.5 x 13.8 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote><p>Lines 1 through 5 are in an unknown hand. Blake's lines, 6 through 9, comment on this annotation and may be written in crayon, according to Erdman 601.</p></objnote>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb741.1.ann.01.01" justify="left"><unclear resp="AW">A</unclear><hi rend="handshift">nd as Imagination bodies forth i<unclear resp="MG">n</unclear> forms of things uns</hi><unclear resp="AW">een</unclear><note>The "A" in "And" at the beginning of this line is partially obscured by the gutter of the page.</note><note>The final three characters of "unseen" are faded.</note><note>Bentley (*Writings*, 2: 1349) reads the partially unclear word, "in", with confidence, while Erdman suggests it could be "y[e]" (601).</note></l>
+                    <l n="bb741.1.ann.01.02" justify="left" indent="15"><hi rend="handshift">&#8212;&#8212;&#8212; turns them to shape</hi></l>
+                    <l n="bb741.1.ann.01.03" justify="left" indent="17"><hi rend="handshift">&#38; gives to airy Nothing</hi><note>Bentley reads "Nothing" as "nothing" (*Writings*, 2: 1349).</note><note>Bentley (*Writings*, 2: 1349) and Erdman 601 read the partially illegible word confidently as "Shakespeare".</note></l>
+                    <l n="bb741.1.ann.01.04" justify="left"><hi rend="handshift">a local habitation &#38; a Name. "</hi><note>Bentley reads "Name" as "name" (*Writings, 2: 1349). </note></l>
+                    <l n="bb741.1.ann.01.05" justify="left" indent="25"><hi rend="handshift"><choice>
+                        <orig>Sh.</orig>
+                        <reg type="alt_name">Shakespeare</reg>
+                    </choice></hi><note>The inscription in an unknown hand quotes Shakespeare's *A Midsummer Night's Dream*, act 5, scene 1.</note></l>
+                </lg>
+                <lg>
+                    <l n="bb741.1.ann.01.06" justify="left" indent="2">Thus Fools quote Shakes<unclear resp="MG">pe</unclear><gap reason="illegible" extent="1" unit="character"/>re in The Above is <note>Bentley omits "in" and "is" in this line (*Writings*, 2: 1349). Erdman omits "in" from his transcription (601).</note></l>
+                    <l n="bb741.1.ms.01.07" justify="left" indent="2">Theseus's opinion Not <choice>
+                        <orig>Shakespeares</orig>
+                        <reg>Shakespeare's</reg>
+                    </choice><note>Bentley reads "Not" as "not" (*Writings*, 2: 1349).</note></l>
+                    <l n="bb741.1.ann.01.08" justify="left" indent="3.5">You might as well quote <choice><orig>Satans</orig><reg>Satan's</reg></choice> blasphemy
+                        <note>Bentley, *Writings*, 2: 1349, and Erdman 601 read "blasphemy" as "blasphemies".</note></l>
+                    <l n="bb741.1.ann.01.09" justify="left" indent="3">from Milton &#38; give them as <choice>
+                        <orig>Miltons</orig>
+                        <reg>Milton's</reg>
+                    </choice> Opinions</l>
+                </lg>
+                <vspace extent="15"/>
+            </phystext>
+        </desc>
+        <desc id="bb741.1.ann.02" dbi="BB741.1.2.ann">
+            <objtitle>
+                <title type="editorial">Title-page</title>
+                <objid>
+                    <objnumber code="A2">Object 2</objnumber>
+                    <objnumber code="ETitle page">(Erdman Title-page)</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>22.5 x 13.8 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote><p>The pencil inscription, "belonged to Blake / the artist" was written by an unknown hand and is probably not contemporary with Blake's annotations.</p></objnote>
+            </physdesc>
+            <phystext>
+                <lg type="prose" justify="left">
+                    <l n="bb741.1.ann.02.01" justify="left" indent="4"><hi rend="handshift">William Blake</hi><note>"William Blake" is written in pen and ink.</note><note>Erdman erroneously records "William" as "Wiiliam" (601).</note></l>
+                </lg>
+                
+                <vspace extent="20"/>
+            </phystext>
+        </desc>
+        <desc id="bb741.1.ann.03" dbi="BB741.1.3-339.ann">
+            <objtitle>
+                <title type="editorial">Page 339</title>, 
+                <objid>
+                    <objnumber code="A3">Object 3</objnumber>
+                    <objnumber code="B2">(Bentley 2, </objnumber>
+                    <objnumber code="E3">Erdman 4)</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>22.5 x 13.8 cm.</objsize>
+                <windowsize width="500" height="615"/>
+                <objnote></objnote>
+            </physdesc>
+            <phystext>
+                <vspace extent="20"/>
+                <lg type="prose" justify="left">
+                    <l n="bb741.1.ann.03.01" justify="left" indent="7">x<note>This "x" appears to correspond with the "x" in line 2, connecting this section of the printed text to Blake's note below.</note></l>
+                </lg>
+                <vspace extent="10"/>
+                <lg type="prose" justify="left">
+                    <l n="bb741.1.ann.03.02" justify="left" indent="5">x See N 73 <choice><orig>Worlds in Universe</orig><reg type="alt_name">Concerning the Earths in Our Solar System, Which Are Called Planets</reg></choice>. for account of<note>Blake refers to Swedenborg's *Concerning the Earths in Our Solar System, Which Are Called Planets* when he references "Worlds in Universe". Bentley omits the period after "Universe" (*Writings*, 2: 1349). </note></l>
+                    <l n="bb741.1.ann.03.03" justify="left" indent="9">Instructing Spirits</l>
+                </lg>
+            </phystext>
+        </desc>
+        <desc id="bb741.1.ann.04" dbi="BB741.1.4-389.ann">
+            <objtitle>
+                <title type="editorial">Page 389</title>
+                <objid>
+                    <objnumber code="A4">Object 4</objnumber>
+                    <objnumber code="B3">(Bentley 3, </objnumber>
+                    <objnumber code="E4">Erdman 5)</objnumber>
+                </objid>
+            </objtitle>
+            <physdesc>
+                <objsize>approximately 22.5 x 13.8 cm.</objsize>
+                <windowsize width="500" height="615"/>
+            </physdesc>
+            <phystext>   
+                <vspace extent="8"/>
+                <lg type="prose" justify="left">
+                    <l n="bb741.1.ann.04.01" justify="left" indent="50">under every <hi rend="u">Good</hi></l>
+                    <l n="bb741.1.ann.04.02" justify="left" indent="50">is a hell. i. e<note>Bentley reads a period after "i. e".</note></l>
+                    <l n="bb741.1.ann.04.03" justify="left" indent="50">hell is the outward</l>
+                    <l n="bb741.1.ann.04.04" justify="left" indent="50">or external of</l>
+                    <l n="bb741.1.ann.04.05" justify="left" indent="51">heaven. &#38; is</l>
+                    <l n="bb741.1.ann.04.06" justify="left" indent="50">of the body of the</l>
+                    <l n="bb741.1.ann.04.07" justify="left" indent="51">lord. for nothing</l>
+                    <l n="bb741.1.ann.04.08" justify="left" indent="50">is <choice>
+                        <orig>destroyd</orig>
+                        <reg>destroyed</reg>
+                    </choice></l>
+                </lg>
+                <vspace extent="10"/>
+            </phystext>
+        </desc>
+    </objdesc>
+</bad>
