@@ -346,7 +346,10 @@
                                 facing up and forward. His right arm is raised vertically, with his fingers
                                 spread to reach for Christ's bow. His left arm is raised horizontally and extends to the left margin. He wears a long-sleeved                                   gown or shirt.
                                 Though he is probably Satan, his long hair and
-                                beard also bear a resemblance to Urizen.</illusobjdesc>
+                                beard also bear a resemblance to Urizen. Two dark masses, one to the right of the standing figure
+                                and another to the left of the standing figure, converge somewhere out of view behind the struggling pair, and provide
+                                a shadowy background for the struggling figures. These masses may indicate clouds, shadows, dark skies, or land masses like
+                                mountains or mounds. A swath of unshaded/unshadowed space in the top middle and left of the plate may be sky.</illusobjdesc>
                             <component type="figure" location="E">
                                 <characteristic>male</characteristic>
                                 <characteristic>Christ</characteristic>
@@ -410,7 +413,23 @@
                                     head is tilting upside down, facing forward. His right arm is raised
                                     vertically, with his fingers spread to reach for Christ's bow.  His left arm is raised horizontally and extends to the left. He wears a long-sleeved gown or shirt. This is probably Satan, but his long hair and beard bear a resemblance to
                                     Urizen.</illusobjdesc>
-                            </component>                           
+                            </component>
+                            <component type="object" location="E">
+                                <characteristic>darkness</characteristic>
+                                <characteristic>shadow</characteristic>
+                                <characteristic>cloud</characteristic>
+                                <characteristic>mountain</characteristic>
+                                <characteristic>mound</characteristic>
+                                <characteristic>sky</characteristic>
+                                <illusobjdesc>Two dark masses, one to the right of the central figure
+                                    and another to the left of the central figure, converge somewhere out of view behind the struggling pair, and provide
+                                    a shadowy background for the struggling figures. These masses may indicate clouds, shadows, dark skies, or land masses like
+                                    mountains or mounds.</illusobjdesc>
+                            </component>
+                            <component type="object" location="AB">
+                                <characteristic>sky</characteristic>
+                                <illusobjdesc>A swath of unshaded/unshadowed space in the top middle and left of the plate may be sky.</illusobjdesc>
+                            </component>
                         </illustration>
                     </illusdesc>
                 </desc>
